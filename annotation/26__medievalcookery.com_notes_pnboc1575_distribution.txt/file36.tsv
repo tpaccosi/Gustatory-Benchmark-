@@ -1,0 +1,2776 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+#T_RL=custom.Relation|label|BT_custom.Span
+
+
+#Text=Brawne is best from a fortenight before Mighelmas till Lent.
+1-1	0-6	Brawne	_	_	_	
+1-2	7-9	is	_	_	_	
+1-3	10-14	best	_	_	_	
+1-4	15-19	from	_	_	_	
+1-5	20-21	a	_	_	_	
+1-6	22-32	fortenight	_	_	_	
+1-7	33-39	before	_	_	_	
+1-8	40-49	Mighelmas	_	_	_	
+1-9	50-54	till	_	_	_	
+1-10	55-59	Lent	_	_	_	
+1-11	59-60	.	_	_	_	
+
+#Text=Beife and Bakon is good all times, 
+#Text= the yere.
+2-1	63-68	Beife	_	_	_	
+2-2	69-72	and	_	_	_	
+2-3	73-78	Bakon	_	_	_	
+2-4	79-81	is	_	_	_	
+2-5	82-86	good	_	_	_	
+2-6	87-90	all	_	_	_	
+2-7	91-96	times	_	_	_	
+2-8	96-97	,	_	_	_	
+2-9	100-103	the	_	_	_	
+2-10	104-108	yere	_	_	_	
+2-11	108-109	.	_	_	_	
+
+#Text=Mutton is good at al times, 
+#Text= but from Easter to midsommer it is 
+#Text= woorst.
+3-1	110-116	Mutton	_	_	_	
+3-2	117-119	is	_	_	_	
+3-3	120-124	good	_	_	_	
+3-4	125-127	at	_	_	_	
+3-5	128-130	al	_	_	_	
+3-6	131-136	times	_	_	_	
+3-7	136-137	,	_	_	_	
+3-8	140-143	but	_	_	_	
+3-9	144-148	from	_	_	_	
+3-10	149-155	Easter	_	_	_	
+3-11	156-158	to	_	_	_	
+3-12	159-168	midsommer	_	_	_	
+3-13	169-171	it	_	_	_	
+3-14	172-174	is	_	_	_	
+3-15	177-183	woorst	_	_	_	
+3-16	183-184	.	_	_	_	
+
+#Text=A fat Pigge is ever in season.
+4-1	185-186	A	_	_	_	
+4-2	187-190	fat	_	_	_	
+4-3	191-196	Pigge	_	_	_	
+4-4	197-199	is	_	_	_	
+4-5	200-204	ever	_	_	_	
+4-6	205-207	in	_	_	_	
+4-7	208-214	season	_	_	_	
+4-8	214-215	.	_	_	_	
+
+#Text=A gose is worst in midsommer moone, 
+#Text= and best in stubble time, but when they 
+#Text= be yonge Greene Geese, than they be 
+#Text= best.
+5-1	218-219	A	_	_	_	
+5-2	220-224	gose	_	_	_	
+5-3	225-227	is	_	_	_	
+5-4	228-233	worst	_	_	_	
+5-5	234-236	in	_	_	_	
+5-6	237-246	midsommer	_	_	_	
+5-7	247-252	moone	_	_	_	
+5-8	252-253	,	_	_	_	
+5-9	256-259	and	_	_	_	
+5-10	260-264	best	_	_	_	
+5-11	265-267	in	_	_	_	
+5-12	268-275	stubble	_	_	_	
+5-13	276-280	time	_	_	_	
+5-14	280-281	,	_	_	_	
+5-15	282-285	but	_	_	_	
+5-16	286-290	when	_	_	_	
+5-17	291-295	they	_	_	_	
+5-18	298-300	be	_	_	_	
+5-19	301-306	yonge	_	_	_	
+5-20	307-313	Greene	_	_	_	
+5-21	314-319	Geese	_	_	_	
+5-22	319-320	,	_	_	_	
+5-23	321-325	than	_	_	_	
+5-24	326-330	they	_	_	_	
+5-25	331-333	be	_	_	_	
+5-26	336-340	best	_	_	_	
+5-27	340-341	.	_	_	_	
+
+#Text=Veale is best in January and Fe- 
+#Text= bruary and all other times good.
+6-1	342-347	Veale	_	_	_	
+6-2	348-350	is	_	_	_	
+6-3	351-355	best	_	_	_	
+6-4	356-358	in	_	_	_	
+6-5	359-366	January	_	_	_	
+6-6	367-370	and	_	_	_	
+6-7	371-373	Fe	_	_	_	
+6-8	373-374	-	_	_	_	
+6-9	377-383	bruary	_	_	_	
+6-10	384-387	and	_	_	_	
+6-11	388-391	all	_	_	_	
+6-12	392-397	other	_	_	_	
+6-13	398-403	times	_	_	_	
+6-14	404-408	good	_	_	_	
+6-15	408-409	.	_	_	_	
+
+#Text=Lambe and young kidde is best be- 
+#Text= twene Christmast and Lent, and good 
+#Text= from Easter to whitsontide.
+7-1	415-420	Lambe	_	_	_	
+7-2	421-424	and	_	_	_	
+7-3	425-430	young	_	_	_	
+7-4	431-436	kidde	_	_	_	
+7-5	437-439	is	_	_	_	
+7-6	440-444	best	_	_	_	
+7-7	445-447	be	_	_	_	
+7-8	447-448	-	_	_	_	
+7-9	451-456	twene	_	_	_	
+7-10	457-467	Christmast	_	_	_	
+7-11	468-471	and	_	_	_	
+7-12	472-476	Lent	_	_	_	
+7-13	476-477	,	_	_	_	
+7-14	478-481	and	_	_	_	
+7-15	482-486	good	_	_	_	
+7-16	489-493	from	_	_	_	
+7-17	494-500	Easter	_	_	_	
+7-18	501-503	to	_	_	_	
+7-19	504-515	whitsontide	_	_	_	
+7-20	515-516	.	_	_	_	
+
+#Text=Kyd is e- 
+#Text= ver good.
+8-1	517-520	Kyd	_	_	_	
+8-2	521-523	is	_	_	_	
+8-3	524-525	e	_	_	_	
+8-4	525-526	-	_	_	_	
+8-5	529-532	ver	_	_	_	
+8-6	533-537	good	_	_	_	
+8-7	537-538	.	_	_	_	
+
+#Text=Hennes be good at all tymes 
+#Text= but best from November to lent.
+9-1	539-545	Hennes	_	_	_	
+9-2	546-548	be	_	_	_	
+9-3	549-553	good	_	_	_	
+9-4	554-556	at	_	_	_	
+9-5	557-560	all	_	_	_	
+9-6	561-566	tymes	_	_	_	
+9-7	569-572	but	_	_	_	
+9-8	573-577	best	_	_	_	
+9-9	578-582	from	_	_	_	
+9-10	583-591	November	_	_	_	
+9-11	592-594	to	_	_	_	
+9-12	595-599	lent	_	_	_	
+9-13	599-600	.	_	_	_	
+
+#Text=Fat 
+#Text= Capons be ever in season.
+10-1	602-605	Fat	_	_	_	
+10-2	608-614	Capons	_	_	_	
+10-3	615-617	be	_	_	_	
+10-4	618-622	ever	_	_	_	
+10-5	623-625	in	_	_	_	
+10-6	626-632	season	_	_	_	
+10-7	632-633	.	_	_	_	
+
+#Text=Pecockes 
+#Text= be ever good: but when they be young 
+#Text= and of a good stature, they be as good
+#Text=as fesantes, and so be young groncis.
+11-1	634-642	Pecockes	_	_	_	
+11-2	645-647	be	_	_	_	
+11-3	648-652	ever	_	_	_	
+11-4	653-657	good	_	_	_	
+11-5	657-658	:	_	_	_	
+11-6	659-662	but	_	_	_	
+11-7	663-667	when	_	_	_	
+11-8	668-672	they	_	_	_	
+11-9	673-675	be	_	_	_	
+11-10	676-681	young	_	_	_	
+11-11	684-687	and	_	_	_	
+11-12	688-690	of	_	_	_	
+11-13	691-692	a	_	_	_	
+11-14	693-697	good	_	_	_	
+11-15	698-705	stature	_	_	_	
+11-16	705-706	,	_	_	_	
+11-17	707-711	they	_	_	_	
+11-18	712-714	be	_	_	_	
+11-19	715-717	as	_	_	_	
+11-20	718-722	good	_	_	_	
+11-21	723-725	as	_	_	_	
+11-22	726-734	fesantes	_	_	_	
+11-23	734-735	,	_	_	_	
+11-24	736-739	and	_	_	_	
+11-25	740-742	so	_	_	_	
+11-26	743-745	be	_	_	_	
+11-27	746-751	young	_	_	_	
+11-28	752-759	groncis	_	_	_	
+11-29	759-760	.	_	_	_	
+
+#Text=Sinettes bee best between all Halo- 
+#Text= wen day and Lent.
+12-1	763-771	Sinettes	_	_	_	
+12-2	772-775	bee	_	_	_	
+12-3	776-780	best	_	_	_	
+12-4	781-788	between	_	_	_	
+12-5	789-792	all	_	_	_	
+12-6	793-797	Halo	_	_	_	
+12-7	797-798	-	_	_	_	
+12-8	801-804	wen	_	_	_	
+12-9	805-808	day	_	_	_	
+12-10	809-812	and	_	_	_	
+12-11	813-817	Lent	_	_	_	
+12-12	817-818	.	_	_	_	
+
+#Text=A Mallard is good 
+#Text= after a frost, till Candelmas, so is a 
+#Text=  
+#Text= [2v] 
+#Text=  
+#Text= Teale and other wyld foule that swim- 
+#Text= meth.
+13-1	819-820	A	_	_	_	
+13-2	821-828	Mallard	_	_	_	
+13-3	829-831	is	_	_	_	
+13-4	832-836	good	_	_	_	
+13-5	839-844	after	_	_	_	
+13-6	845-846	a	_	_	_	
+13-7	847-852	frost	_	_	_	
+13-8	852-853	,	_	_	_	
+13-9	854-858	till	_	_	_	
+13-10	859-868	Candelmas	_	_	_	
+13-11	868-869	,	_	_	_	
+13-12	870-872	so	_	_	_	
+13-13	873-875	is	_	_	_	
+13-14	876-877	a	_	_	_	
+13-15	883-884	[	_	_	_	
+13-16	884-886	2v	_	_	_	
+13-17	886-887	]	_	_	_	
+13-18	893-898	Teale	_	_	_	
+13-19	899-902	and	_	_	_	
+13-20	903-908	other	_	_	_	
+13-21	909-913	wyld	_	_	_	
+13-22	914-919	foule	_	_	_	
+13-23	920-924	that	_	_	_	
+13-24	925-929	swim	_	_	_	
+13-25	929-930	-	_	_	_	
+13-26	933-937	meth	_	_	_	
+13-27	937-938	.	_	_	_	
+
+#Text=A woodcocke is best from Oc- 
+#Text= tobre to lent, and so be all others byrdes, 
+#Text= as Ousels, and Thrushes, Robins, and 
+#Text= such other, Hearons, Curlewes, Crane, 
+#Text= Bittoure, Bussarde, be at all tymes 
+#Text= good, but best in winter, Feasants, Par- 
+#Text= triche and Raile, be ever good, but best 
+#Text= when they bee taken with a Hauke.
+14-1	939-940	A	_	_	_	
+14-2	941-950	woodcocke	_	_	_	
+14-3	951-953	is	_	_	_	
+14-4	954-958	best	_	_	_	
+14-5	959-963	from	_	_	_	
+14-6	964-966	Oc	_	_	_	
+14-7	966-967	-	_	_	_	
+14-8	970-975	tobre	_	_	_	
+14-9	976-978	to	_	_	_	
+14-10	979-983	lent	_	_	_	
+14-11	983-984	,	_	_	_	
+14-12	985-988	and	_	_	_	
+14-13	989-991	so	_	_	_	
+14-14	992-994	be	_	_	_	
+14-15	995-998	all	_	_	_	
+14-16	999-1005	others	_	_	_	
+14-17	1006-1012	byrdes	_	_	_	
+14-18	1012-1013	,	_	_	_	
+14-19	1016-1018	as	_	_	_	
+14-20	1019-1025	Ousels	_	_	_	
+14-21	1025-1026	,	_	_	_	
+14-22	1027-1030	and	_	_	_	
+14-23	1031-1039	Thrushes	_	_	_	
+14-24	1039-1040	,	_	_	_	
+14-25	1041-1047	Robins	_	_	_	
+14-26	1047-1048	,	_	_	_	
+14-27	1049-1052	and	_	_	_	
+14-28	1055-1059	such	_	_	_	
+14-29	1060-1065	other	_	_	_	
+14-30	1065-1066	,	_	_	_	
+14-31	1067-1074	Hearons	_	_	_	
+14-32	1074-1075	,	_	_	_	
+14-33	1076-1084	Curlewes	_	_	_	
+14-34	1084-1085	,	_	_	_	
+14-35	1086-1091	Crane	_	_	_	
+14-36	1091-1092	,	_	_	_	
+14-37	1095-1103	Bittoure	_	_	_	
+14-38	1103-1104	,	_	_	_	
+14-39	1105-1113	Bussarde	_	_	_	
+14-40	1113-1114	,	_	_	_	
+14-41	1115-1117	be	_	_	_	
+14-42	1118-1120	at	_	_	_	
+14-43	1121-1124	all	_	_	_	
+14-44	1125-1130	tymes	_	_	_	
+14-45	1133-1137	good	_	_	_	
+14-46	1137-1138	,	_	_	_	
+14-47	1139-1142	but	_	_	_	
+14-48	1143-1147	best	_	_	_	
+14-49	1148-1150	in	_	_	_	
+14-50	1151-1157	winter	_	_	_	
+14-51	1157-1158	,	_	_	_	
+14-52	1159-1167	Feasants	_	_	_	
+14-53	1167-1168	,	_	_	_	
+14-54	1169-1172	Par	_	_	_	
+14-55	1172-1173	-	_	_	_	
+14-56	1176-1182	triche	_	_	_	
+14-57	1183-1186	and	_	_	_	
+14-58	1187-1192	Raile	_	_	_	
+14-59	1192-1193	,	_	_	_	
+14-60	1194-1196	be	_	_	_	
+14-61	1197-1201	ever	_	_	_	
+14-62	1202-1206	good	_	_	_	
+14-63	1206-1207	,	_	_	_	
+14-64	1208-1211	but	_	_	_	
+14-65	1212-1216	best	_	_	_	
+14-66	1219-1223	when	_	_	_	
+14-67	1224-1228	they	_	_	_	
+14-68	1229-1232	bee	_	_	_	
+14-69	1233-1238	taken	_	_	_	
+14-70	1239-1243	with	_	_	_	
+14-71	1244-1245	a	_	_	_	
+14-72	1246-1251	Hauke	_	_	_	
+14-73	1251-1252	.	_	_	_	
+
+#Text=Quayle and Larkes be ever in season 
+#Text= Connyes be ever good, but best from 
+#Text= Octobre to lent.
+15-1	1255-1261	Quayle	_	_	_	
+15-2	1262-1265	and	_	_	_	
+15-3	1266-1272	Larkes	_	_	_	
+15-4	1273-1275	be	_	_	_	
+15-5	1276-1280	ever	_	_	_	
+15-6	1281-1283	in	_	_	_	
+15-7	1284-1290	season	_	_	_	
+15-8	1293-1300	Connyes	_	_	_	
+15-9	1301-1303	be	_	_	_	
+15-10	1304-1308	ever	_	_	_	
+15-11	1309-1313	good	_	_	_	
+15-12	1313-1314	,	_	_	_	
+15-13	1315-1318	but	_	_	_	
+15-14	1319-1323	best	_	_	_	
+15-15	1324-1328	from	_	_	_	
+15-16	1331-1338	Octobre	_	_	_	
+15-17	1339-1341	to	_	_	_	
+15-18	1342-1346	lent	_	_	_	
+15-19	1346-1347	.	_	_	_	
+
+#Text=A gelded Deare whe- 
+#Text= ther hee be fallow or red, is ever in sea-
+#Text=son.
+16-1	1348-1349	A	_	_	_	
+16-2	1350-1356	gelded	_	_	_	
+16-3	1357-1362	Deare	_	_	_	
+16-4	1363-1366	whe	_	_	_	
+16-5	1366-1367	-	_	_	_	
+16-6	1370-1374	ther	_	_	_	
+16-7	1375-1378	hee	_	_	_	
+16-8	1379-1381	be	_	_	_	
+16-9	1382-1388	fallow	_	_	_	
+16-10	1389-1391	or	_	_	_	
+16-11	1392-1395	red	_	_	_	
+16-12	1395-1396	,	_	_	_	
+16-13	1397-1399	is	_	_	_	
+16-14	1400-1404	ever	_	_	_	
+16-15	1405-1407	in	_	_	_	
+16-16	1408-1411	sea	_	_	_	
+16-17	1411-1412	-	_	_	_	
+16-18	1413-1416	son	_	_	_	
+16-19	1416-1417	.	_	_	_	
+
+#Text=A Pollard is speciall good in Maye 
+#Text= at midsommer he is a Buck, and very 
+#Text= good tyll Holy Roode daye before My- 
+#Text= ghelmas, so likewise in a stagge, but he 
+#Text= is principall in May.
+17-1	1418-1419	A	_	_	_	
+17-2	1420-1427	Pollard	_	_	_	
+17-3	1428-1430	is	_	_	_	
+17-4	1431-1439	speciall	_	_	_	
+17-5	1440-1444	good	_	_	_	
+17-6	1445-1447	in	_	_	_	
+17-7	1448-1452	Maye	_	_	_	
+17-8	1455-1457	at	_	_	_	
+17-9	1458-1467	midsommer	_	_	_	
+17-10	1468-1470	he	_	_	_	
+17-11	1471-1473	is	_	_	_	
+17-12	1474-1475	a	_	_	_	
+17-13	1476-1480	Buck	_	_	_	
+17-14	1480-1481	,	_	_	_	
+17-15	1482-1485	and	_	_	_	
+17-16	1486-1490	very	_	_	_	
+17-17	1493-1497	good	_	_	_	
+17-18	1498-1502	tyll	_	_	_	
+17-19	1503-1507	Holy	_	_	_	
+17-20	1508-1513	Roode	_	_	_	
+17-21	1514-1518	daye	_	_	_	
+17-22	1519-1525	before	_	_	_	
+17-23	1526-1528	My	_	_	_	
+17-24	1528-1529	-	_	_	_	
+17-25	1532-1539	ghelmas	_	_	_	
+17-26	1539-1540	,	_	_	_	
+17-27	1541-1543	so	_	_	_	
+17-28	1544-1552	likewise	_	_	_	
+17-29	1553-1555	in	_	_	_	
+17-30	1556-1557	a	_	_	_	
+17-31	1558-1564	stagge	_	_	_	
+17-32	1564-1565	,	_	_	_	
+17-33	1566-1569	but	_	_	_	
+17-34	1570-1572	he	_	_	_	
+17-35	1575-1577	is	_	_	_	
+17-36	1578-1588	principall	_	_	_	
+17-37	1589-1591	in	_	_	_	
+17-38	1592-1595	May	_	_	_	
+17-39	1595-1596	.	_	_	_	
+
+#Text=A barren Doe is 
+#Text= best in winter.
+18-1	1597-1598	A	_	_	_	
+18-2	1599-1605	barren	_	_	_	
+18-3	1606-1609	Doe	_	_	_	
+18-4	1610-1612	is	_	_	_	
+18-5	1615-1619	best	_	_	_	
+18-6	1620-1622	in	_	_	_	
+18-7	1623-1629	winter	_	_	_	
+18-8	1629-1630	.	_	_	_	
+
+#Text=A pricket and a sorell 
+#Text= sytter is ever in season, chickens be 
+#Text= ever good and so be pigeons 
+#Text= if they be yonge.
+19-1	1631-1632	A	_	_	_	
+19-2	1633-1640	pricket	_	_	_	
+19-3	1641-1644	and	_	_	_	
+19-4	1645-1646	a	_	_	_	
+19-5	1647-1653	sorell	_	_	_	
+19-6	1656-1662	sytter	_	_	_	
+19-7	1663-1665	is	_	_	_	
+19-8	1666-1670	ever	_	_	_	
+19-9	1671-1673	in	_	_	_	
+19-10	1674-1680	season	_	_	_	
+19-11	1680-1681	,	_	_	_	
+19-12	1682-1690	chickens	_	_	_	
+19-13	1691-1693	be	_	_	_	
+19-14	1696-1700	ever	_	_	_	
+19-15	1701-1705	good	_	_	_	
+19-16	1706-1709	and	_	_	_	
+19-17	1710-1712	so	_	_	_	
+19-18	1713-1715	be	_	_	_	
+19-19	1716-1723	pigeons	_	_	_	
+19-20	1726-1728	if	_	_	_	
+19-21	1729-1733	they	_	_	_	
+19-22	1734-1736	be	_	_	_	
+19-23	1737-1742	yonge	_	_	_	
+19-24	1742-1743	.	_	_	_	
+
+#Text=Hereafter followeth the order of meats 
+#Text= how they must be served at the Table 
+#Text= with their sauces for flesh daies at dinner
+20-1	1749-1758	Hereafter	_	_	_	
+20-2	1759-1768	followeth	_	_	_	
+20-3	1769-1772	the	_	_	_	
+20-4	1773-1778	order	_	_	_	
+20-5	1779-1781	of	_	_	_	
+20-6	1782-1787	meats	_	_	_	
+20-7	1790-1793	how	_	_	_	
+20-8	1794-1798	they	_	_	_	
+20-9	1799-1803	must	_	_	_	
+20-10	1804-1806	be	_	_	_	
+20-11	1807-1813	served	_	_	_	
+20-12	1814-1816	at	_	_	_	
+20-13	1817-1820	the	_	_	_	
+20-14	1821-1826	Table	_	_	_	
+20-15	1829-1833	with	_	_	_	
+20-16	1834-1839	their	_	_	_	
+20-17	1840-1846	sauces	_	_	_	
+20-18	1847-1850	for	_	_	_	
+20-19	1851-1856	flesh	_	_	_	
+20-20	1857-1862	daies	_	_	_	
+20-21	1863-1865	at	_	_	_	
+20-22	1866-1872	dinner	_	_	_	
+
+#Text=.
+21-1	1872-1873	.	_	_	_	
+
+#Text=[3r] 
+#Text=  
+#Text= The first course.
+22-1	1879-1880	[	_	_	_	
+22-2	1880-1882	3r	_	_	_	
+22-3	1882-1883	]	_	_	_	
+22-4	1889-1892	The	_	_	_	
+22-5	1893-1898	first	_	_	_	
+22-6	1899-1905	course	_	_	_	
+22-7	1905-1906	.	_	_	_	
+
+#Text=Potage or stewed broth.
+23-1	1909-1915	Potage	_	_	_	
+23-2	1916-1918	or	_	_	_	
+23-3	1919-1925	stewed	_	_	_	
+23-4	1926-1931	broth	_	_	_	
+23-5	1931-1932	.	_	_	_	
+
+#Text=Boylde meat or stewed 
+#Text= meate.
+#Text=then make your coffin after this man- 
+#Text= ner, take a litle fayre water, and halfe 
+#Text= a fishe of butter, and a litle Saffron, 
+#Text= and set all this upon a chafindyshe, tyll 
+#Text= it bee hote, than temper your flower 
+#Text= with this sayd licour, and the white of 
+#Text= two egges, & also make your coffin and 
+#Text= season your Apples with Cinamon, 
+#Text= Ginger and Sugar inough.
+24-1	1935-1941	Boylde	_	_	_	
+24-2	1942-1946	meat	_	_	_	
+24-3	1947-1949	or	_	_	_	
+24-4	1950-1956	stewed	_	_	_	
+24-5	1959-1964	meate	_	_	_	
+24-6	1964-1965	.	_	_	_	
+24-7	1966-1970	then	_	_	_	
+24-8	1971-1975	make	_	_	_	
+24-9	1976-1980	your	_	_	_	
+24-10	1981-1987	coffin	_	_	_	
+24-11	1988-1993	after	_	_	_	
+24-12	1994-1998	this	_	_	_	
+24-13	1999-2002	man	_	_	_	
+24-14	2002-2003	-	_	_	_	
+24-15	2006-2009	ner	_	_	_	
+24-16	2009-2010	,	_	_	_	
+24-17	2011-2015	take	_	_	_	
+24-18	2016-2017	a	_	_	_	
+24-19	2018-2023	litle	_	_	_	
+24-20	2024-2029	fayre	_	_	_	
+24-21	2030-2035	water	_	_	_	
+24-22	2035-2036	,	_	_	_	
+24-23	2037-2040	and	_	_	_	
+24-24	2041-2046	halfe	_	_	_	
+24-25	2049-2050	a	_	_	_	
+24-26	2051-2056	fishe	_	_	_	
+24-27	2057-2059	of	_	_	_	
+24-28	2060-2066	butter	_	_	_	
+24-29	2066-2067	,	_	_	_	
+24-30	2068-2071	and	_	_	_	
+24-31	2072-2073	a	_	_	_	
+24-32	2074-2079	litle	_	_	_	
+24-33	2080-2087	Saffron	_	_	_	
+24-34	2087-2088	,	_	_	_	
+24-35	2091-2094	and	_	_	_	
+24-36	2095-2098	set	_	_	_	
+24-37	2099-2102	all	_	_	_	
+24-38	2103-2107	this	_	_	_	
+24-39	2108-2112	upon	_	_	_	
+24-40	2113-2114	a	_	_	_	
+24-41	2115-2126	chafindyshe	_	_	_	
+24-42	2126-2127	,	_	_	_	
+24-43	2128-2132	tyll	_	_	_	
+24-44	2135-2137	it	_	_	_	
+24-45	2138-2141	bee	_	_	_	
+24-46	2142-2146	hote	_	_	_	
+24-47	2146-2147	,	_	_	_	
+24-48	2148-2152	than	_	_	_	
+24-49	2153-2159	temper	_	_	_	
+24-50	2160-2164	your	_	_	_	
+24-51	2165-2171	flower	_	_	_	
+24-52	2174-2178	with	_	_	_	
+24-53	2179-2183	this	_	_	_	
+24-54	2184-2188	sayd	_	_	_	
+24-55	2189-2195	licour	_	_	_	
+24-56	2195-2196	,	_	_	_	
+24-57	2197-2200	and	_	_	_	
+24-58	2201-2204	the	_	_	_	
+24-59	2205-2210	white	_	_	_	
+24-60	2211-2213	of	_	_	_	
+24-61	2216-2219	two	_	_	_	
+24-62	2220-2225	egges	_	_	_	
+24-63	2225-2226	,	_	_	_	
+24-64	2227-2228	&	_	_	_	
+24-65	2229-2233	also	_	_	_	
+24-66	2234-2238	make	_	_	_	
+24-67	2239-2243	your	_	_	_	
+24-68	2244-2250	coffin	_	_	_	
+24-69	2251-2254	and	_	_	_	
+24-70	2257-2263	season	Taste Word	*|*|*|*	24-78|24-76|24-73[2_0]|24-71[1_0]	
+24-71	2264-2268	your	Taste Source[1]	_	_	
+24-72	2269-2275	Apples	Taste Source[1]	_	_	
+24-73	2276-2280	with	Taste Modifier[2]	_	_	
+24-74	2281-2288	Cinamon	Taste Modifier[2]	_	_	
+24-75	2288-2289	,	_	_	_	
+24-76	2292-2298	Ginger	Taste Modifier	_	_	
+24-77	2299-2302	and	_	_	_	
+24-78	2303-2308	Sugar	Taste Modifier	_	_	
+24-79	2309-2315	inough	_	_	_	
+24-80	2315-2316	.	_	_	_	
+
+#Text=Then put 
+#Text= them into your coffin, and bake them.
+25-1	2317-2321	Then	_	_	_	
+25-2	2322-2325	put	_	_	_	
+25-3	2328-2332	them	_	_	_	
+25-4	2333-2337	into	_	_	_	
+25-5	2338-2342	your	_	_	_	
+25-6	2343-2349	coffin	_	_	_	
+25-7	2349-2350	,	_	_	_	
+25-8	2351-2354	and	_	_	_	
+25-9	2355-2359	bake	_	_	_	
+25-10	2360-2364	them	_	_	_	
+25-11	2364-2365	.	_	_	_	
+
+#Text=To bake Chickins in like paste.
+26-1	2371-2373	To	_	_	_	
+26-2	2374-2378	bake	_	_	_	
+26-3	2379-2387	Chickins	_	_	_	
+26-4	2388-2390	in	_	_	_	
+26-5	2391-2395	like	_	_	_	
+26-6	2396-2401	paste	_	_	_	
+26-7	2401-2402	.	_	_	_	
+
+#Text=Take your chickens & season them with 
+#Text= a litle ginger & salt, and so put them into 
+#Text= your coffin, & so put in them barberies 
+#Text= grapes, or goseberies, & halfe a dish of 
+#Text= buttter, so close them up, & set them in the 
+#Text= oven, & when they are baken, take the 
+#Text=  
+#Text= [9v]
+#Text= 
+#Text= yolkes of vi. egges, and a dishful of ver- 
+#Text= iuyce, and drawe them through a strai- 
+#Text= ner, and set them upon a chafingedyshe, 
+#Text= then draw your baken chikens, and put 
+#Text= therto this foresayd egges and veriuyce 
+#Text= and thus serue them hotte.
+27-1	2405-2409	Take	_	_	_	
+27-2	2410-2414	your	Taste Source[3]	_	_	
+27-3	2415-2423	chickens	Taste Source[3]	_	_	
+27-4	2424-2425	&	_	_	_	
+27-5	2426-2432	season	Taste Word	*|*|*	27-7[4_0]|27-12|27-2[3_0]	
+27-6	2433-2437	them	_	_	_	
+27-7	2438-2442	with	Taste Modifier[4]	_	_	
+27-8	2445-2446	a	Taste Modifier[4]	_	_	
+27-9	2447-2452	litle	Taste Modifier[4]	_	_	
+27-10	2453-2459	ginger	Taste Modifier[4]	_	_	
+27-11	2460-2461	&	_	_	_	
+27-12	2462-2466	salt	Taste Modifier	_	_	
+27-13	2466-2467	,	_	_	_	
+27-14	2468-2471	and	_	_	_	
+27-15	2472-2474	so	_	_	_	
+27-16	2475-2478	put	_	_	_	
+27-17	2479-2483	them	_	_	_	
+27-18	2484-2488	into	_	_	_	
+27-19	2491-2495	your	_	_	_	
+27-20	2496-2502	coffin	_	_	_	
+27-21	2502-2503	,	_	_	_	
+27-22	2504-2505	&	_	_	_	
+27-23	2506-2508	so	_	_	_	
+27-24	2509-2512	put	_	_	_	
+27-25	2513-2515	in	_	_	_	
+27-26	2516-2520	them	_	_	_	
+27-27	2521-2530	barberies	_	_	_	
+27-28	2533-2539	grapes	_	_	_	
+27-29	2539-2540	,	_	_	_	
+27-30	2541-2543	or	_	_	_	
+27-31	2544-2554	goseberies	_	_	_	
+27-32	2554-2555	,	_	_	_	
+27-33	2556-2557	&	_	_	_	
+27-34	2558-2563	halfe	_	_	_	
+27-35	2564-2565	a	_	_	_	
+27-36	2566-2570	dish	_	_	_	
+27-37	2571-2573	of	_	_	_	
+27-38	2576-2583	buttter	_	_	_	
+27-39	2583-2584	,	_	_	_	
+27-40	2585-2587	so	_	_	_	
+27-41	2588-2593	close	_	_	_	
+27-42	2594-2598	them	_	_	_	
+27-43	2599-2601	up	_	_	_	
+27-44	2601-2602	,	_	_	_	
+27-45	2603-2604	&	_	_	_	
+27-46	2605-2608	set	_	_	_	
+27-47	2609-2613	them	_	_	_	
+27-48	2614-2616	in	_	_	_	
+27-49	2617-2620	the	_	_	_	
+27-50	2623-2627	oven	_	_	_	
+27-51	2627-2628	,	_	_	_	
+27-52	2629-2630	&	_	_	_	
+27-53	2631-2635	when	_	_	_	
+27-54	2636-2640	they	_	_	_	
+27-55	2641-2644	are	_	_	_	
+27-56	2645-2650	baken	_	_	_	
+27-57	2650-2651	,	_	_	_	
+27-58	2652-2656	take	_	_	_	
+27-59	2657-2660	the	_	_	_	
+27-60	2666-2667	[	_	_	_	
+27-61	2667-2669	9v	_	_	_	
+27-62	2669-2670	]	_	_	_	
+27-63	2674-2680	yolkes	_	_	_	
+27-64	2681-2683	of	_	_	_	
+27-65	2684-2686	vi	_	_	_	
+27-66	2686-2687	.	_	_	_	
+27-67	2688-2693	egges	_	_	_	
+27-68	2693-2694	,	_	_	_	
+27-69	2695-2698	and	_	_	_	
+27-70	2699-2700	a	_	_	_	
+27-71	2701-2708	dishful	_	_	_	
+27-72	2709-2711	of	_	_	_	
+27-73	2712-2715	ver	_	_	_	
+27-74	2715-2716	-	_	_	_	
+27-75	2719-2724	iuyce	_	_	_	
+27-76	2724-2725	,	_	_	_	
+27-77	2726-2729	and	_	_	_	
+27-78	2730-2735	drawe	_	_	_	
+27-79	2736-2740	them	_	_	_	
+27-80	2741-2748	through	_	_	_	
+27-81	2749-2750	a	_	_	_	
+27-82	2751-2756	strai	_	_	_	
+27-83	2756-2757	-	_	_	_	
+27-84	2760-2763	ner	_	_	_	
+27-85	2763-2764	,	_	_	_	
+27-86	2765-2768	and	_	_	_	
+27-87	2769-2772	set	_	_	_	
+27-88	2773-2777	them	_	_	_	
+27-89	2778-2782	upon	_	_	_	
+27-90	2783-2784	a	_	_	_	
+27-91	2785-2798	chafingedyshe	_	_	_	
+27-92	2798-2799	,	_	_	_	
+27-93	2802-2806	then	_	_	_	
+27-94	2807-2811	draw	_	_	_	
+27-95	2812-2816	your	_	_	_	
+27-96	2817-2822	baken	_	_	_	
+27-97	2823-2830	chikens	_	_	_	
+27-98	2830-2831	,	_	_	_	
+27-99	2832-2835	and	_	_	_	
+27-100	2836-2839	put	_	_	_	
+27-101	2842-2848	therto	_	_	_	
+27-102	2849-2853	this	_	_	_	
+27-103	2854-2862	foresayd	_	_	_	
+27-104	2863-2868	egges	_	_	_	
+27-105	2869-2872	and	_	_	_	
+27-106	2873-2881	veriuyce	_	_	_	
+27-107	2884-2887	and	_	_	_	
+27-108	2888-2892	thus	_	_	_	
+27-109	2893-2898	serue	_	_	_	
+27-110	2899-2903	them	_	_	_	
+27-111	2904-2909	hotte	_	_	_	
+27-112	2909-2910	.	_	_	_	
+
+#Text=To bake pigeons in short paste as you 
+#Text= make to your baken Apples.
+28-1	2916-2918	To	_	_	_	
+28-2	2919-2923	bake	_	_	_	
+28-3	2924-2931	pigeons	_	_	_	
+28-4	2932-2934	in	_	_	_	
+28-5	2935-2940	short	_	_	_	
+28-6	2941-2946	paste	_	_	_	
+28-7	2947-2949	as	_	_	_	
+28-8	2950-2953	you	_	_	_	
+28-9	2956-2960	make	_	_	_	
+28-10	2961-2963	to	_	_	_	
+28-11	2964-2968	your	_	_	_	
+28-12	2969-2974	baken	_	_	_	
+28-13	2975-2981	Apples	_	_	_	
+28-14	2981-2982	.	_	_	_	
+
+#Text=Season your Pigeons with Pepper, 
+#Text= Saffron, Cloves and Mace, with ver- 
+#Text= iuyce and salt, then put them into your 
+#Text= paste, and so close them up, and bake 
+#Text= them, they will bake in halfe an houre, 
+#Text= then take them foorth, and if ye thinke 
+#Text= them dry, take a litle veriuyce and but- 
+#Text= ter, and put to them, and so serve them.
+29-1	2985-2991	Season	Taste Word	*|*|*|*|*|*|*	29-18|29-2[5_0]|29-4[6_0]|29-7|29-9|29-11|29-13[7_0]	
+29-2	2992-2996	your	Taste Source[5]	_	_	
+29-3	2997-3004	Pigeons	Taste Source[5]	_	_	
+29-4	3005-3009	with	Taste Modifier[6]	_	_	
+29-5	3010-3016	Pepper	Taste Modifier[6]	_	_	
+29-6	3016-3017	,	_	_	_	
+29-7	3020-3027	Saffron	Taste Modifier	_	_	
+29-8	3027-3028	,	_	_	_	
+29-9	3029-3035	Cloves	Taste Modifier	_	_	
+29-10	3036-3039	and	_	_	_	
+29-11	3040-3044	Mace	Taste Modifier	_	_	
+29-12	3044-3045	,	_	_	_	
+29-13	3046-3050	with	Taste Modifier[7]	_	_	
+29-14	3051-3054	ver	Taste Modifier[7]	_	_	
+29-15	3054-3055	-	Taste Modifier[7]	_	_	
+29-16	3058-3063	iuyce	Taste Modifier[7]	_	_	
+29-17	3064-3067	and	_	_	_	
+29-18	3068-3072	salt	Taste Modifier	_	_	
+29-19	3072-3073	,	_	_	_	
+29-20	3074-3078	then	_	_	_	
+29-21	3079-3082	put	_	_	_	
+29-22	3083-3087	them	_	_	_	
+29-23	3088-3092	into	_	_	_	
+29-24	3093-3097	your	_	_	_	
+29-25	3100-3105	paste	_	_	_	
+29-26	3105-3106	,	_	_	_	
+29-27	3107-3110	and	_	_	_	
+29-28	3111-3113	so	_	_	_	
+29-29	3114-3119	close	_	_	_	
+29-30	3120-3124	them	_	_	_	
+29-31	3125-3127	up	_	_	_	
+29-32	3127-3128	,	_	_	_	
+29-33	3129-3132	and	_	_	_	
+29-34	3133-3137	bake	_	_	_	
+29-35	3140-3144	them	_	_	_	
+29-36	3144-3145	,	_	_	_	
+29-37	3146-3150	they	_	_	_	
+29-38	3151-3155	will	_	_	_	
+29-39	3156-3160	bake	_	_	_	
+29-40	3161-3163	in	_	_	_	
+29-41	3164-3169	halfe	_	_	_	
+29-42	3170-3172	an	_	_	_	
+29-43	3173-3178	houre	_	_	_	
+29-44	3178-3179	,	_	_	_	
+29-45	3182-3186	then	_	_	_	
+29-46	3187-3191	take	_	_	_	
+29-47	3192-3196	them	_	_	_	
+29-48	3197-3203	foorth	_	_	_	
+29-49	3203-3204	,	_	_	_	
+29-50	3205-3208	and	_	_	_	
+29-51	3209-3211	if	_	_	_	
+29-52	3212-3214	ye	_	_	_	
+29-53	3215-3221	thinke	_	_	_	
+29-54	3224-3228	them	_	_	_	
+29-55	3229-3232	dry	_	_	_	
+29-56	3232-3233	,	_	_	_	
+29-57	3234-3238	take	_	_	_	
+29-58	3239-3240	a	_	_	_	
+29-59	3241-3246	litle	_	_	_	
+29-60	3247-3255	veriuyce	_	_	_	
+29-61	3256-3259	and	_	_	_	
+29-62	3260-3263	but	_	_	_	
+29-63	3263-3264	-	_	_	_	
+29-64	3267-3270	ter	_	_	_	
+29-65	3270-3271	,	_	_	_	
+29-66	3272-3275	and	_	_	_	
+29-67	3276-3279	put	_	_	_	
+29-68	3280-3282	to	_	_	_	
+29-69	3283-3287	them	_	_	_	
+29-70	3287-3288	,	_	_	_	
+29-71	3289-3292	and	_	_	_	
+29-72	3293-3295	so	_	_	_	
+29-73	3296-3301	serve	_	_	_	
+29-74	3302-3306	them	_	_	_	
+29-75	3306-3307	.	_	_	_	
+
+#Text=To make Vautes.
+30-1	3313-3315	To	_	_	_	
+30-2	3316-3320	make	_	_	_	
+30-3	3321-3327	Vautes	_	_	_	
+30-4	3327-3328	.	_	_	_	
+
+#Text=Take the kidney of Veale, and par- 
+#Text= boyle it till it be tender, then take and 
+#Text= chop it small with the yolkes of three 
+#Text= or fouer Egges, than season it with 
+#Text= dates small cut, small raysins, ginger, 
+#Text= Suger, Cinnamon, saffron, and a litle 
+#Text= salt, and for the paste to lay it in, take a 
+#Text= dosyn of Egges both the white and the 
+#Text=  
+#Text= [10r] 
+#Text=  
+#Text= yolkes, and beate them well altogether 
+#Text= then take butter and put into a fryinge 
+#Text= pan and frye them as thinne as a Pan- 
+#Text= cake, then lay your stuffe therin, and so 
+#Text= frye them toghether in a panne, and cast 
+#Text= suger and ginger upon it, and so serve it 
+#Text= forth.
+31-1	3329-3333	Take	_	_	_	
+31-2	3334-3337	the	Taste Source[8]	_	_	
+31-3	3338-3344	kidney	Taste Source[8]	_	_	
+31-4	3345-3347	of	Taste Source[8]	_	_	
+31-5	3348-3353	Veale	Taste Source[8]	_	_	
+31-6	3353-3354	,	_	_	_	
+31-7	3355-3358	and	_	_	_	
+31-8	3359-3362	par	_	_	_	
+31-9	3362-3363	-	_	_	_	
+31-10	3366-3371	boyle	_	_	_	
+31-11	3372-3374	it	_	_	_	
+31-12	3375-3379	till	_	_	_	
+31-13	3380-3382	it	_	_	_	
+31-14	3383-3385	be	_	_	_	
+31-15	3386-3392	tender	_	_	_	
+31-16	3392-3393	,	_	_	_	
+31-17	3394-3398	then	_	_	_	
+31-18	3399-3403	take	_	_	_	
+31-19	3404-3407	and	_	_	_	
+31-20	3410-3414	chop	_	_	_	
+31-21	3415-3417	it	_	_	_	
+31-22	3418-3423	small	_	_	_	
+31-23	3424-3428	with	_	_	_	
+31-24	3429-3432	the	_	_	_	
+31-25	3433-3439	yolkes	_	_	_	
+31-26	3440-3442	of	_	_	_	
+31-27	3443-3448	three	_	_	_	
+31-28	3451-3453	or	_	_	_	
+31-29	3454-3459	fouer	_	_	_	
+31-30	3460-3465	Egges	_	_	_	
+31-31	3465-3466	,	_	_	_	
+31-32	3467-3471	than	_	_	_	
+31-33	3472-3478	season	Taste Word	*|*|*|*|*|*|*|*	31-34|31-52[11_0]|31-49|31-47|31-43|31-40[10_0]|31-35[9_0]|31-45	
+31-34	3479-3481	it	Taste Source	anaphorical	31-2[8_0]	
+31-35	3482-3486	with	Taste Modifier[9]	_	_	
+31-36	3489-3494	dates	Taste Modifier[9]	_	_	
+31-37	3495-3500	small	Taste Modifier[9]	_	_	
+31-38	3501-3504	cut	Taste Modifier[9]	_	_	
+31-39	3504-3505	,	_	_	_	
+31-40	3506-3511	small	Taste Modifier[10]	_	_	
+31-41	3512-3519	raysins	Taste Modifier[10]	_	_	
+31-42	3519-3520	,	_	_	_	
+31-43	3521-3527	ginger	Taste Modifier	_	_	
+31-44	3527-3528	,	_	_	_	
+31-45	3531-3536	Suger	Taste Modifier	_	_	
+31-46	3536-3537	,	_	_	_	
+31-47	3538-3546	Cinnamon	Taste Modifier	_	_	
+31-48	3546-3547	,	_	_	_	
+31-49	3548-3555	saffron	Taste Modifier	_	_	
+31-50	3555-3556	,	_	_	_	
+31-51	3557-3560	and	_	_	_	
+31-52	3561-3562	a	Taste Modifier[11]	_	_	
+31-53	3563-3568	litle	Taste Modifier[11]	_	_	
+31-54	3571-3575	salt	Taste Modifier[11]	_	_	
+31-55	3575-3576	,	_	_	_	
+31-56	3577-3580	and	_	_	_	
+31-57	3581-3584	for	_	_	_	
+31-58	3585-3588	the	_	_	_	
+31-59	3589-3594	paste	_	_	_	
+31-60	3595-3597	to	_	_	_	
+31-61	3598-3601	lay	_	_	_	
+31-62	3602-3604	it	_	_	_	
+31-63	3605-3607	in	_	_	_	
+31-64	3607-3608	,	_	_	_	
+31-65	3609-3613	take	_	_	_	
+31-66	3614-3615	a	_	_	_	
+31-67	3618-3623	dosyn	_	_	_	
+31-68	3624-3626	of	_	_	_	
+31-69	3627-3632	Egges	_	_	_	
+31-70	3633-3637	both	_	_	_	
+31-71	3638-3641	the	_	_	_	
+31-72	3642-3647	white	_	_	_	
+31-73	3648-3651	and	_	_	_	
+31-74	3652-3655	the	_	_	_	
+31-75	3661-3662	[	_	_	_	
+31-76	3662-3665	10r	_	_	_	
+31-77	3665-3666	]	_	_	_	
+31-78	3672-3678	yolkes	_	_	_	
+31-79	3678-3679	,	_	_	_	
+31-80	3680-3683	and	_	_	_	
+31-81	3684-3689	beate	_	_	_	
+31-82	3690-3694	them	_	_	_	
+31-83	3695-3699	well	_	_	_	
+31-84	3700-3710	altogether	_	_	_	
+31-85	3713-3717	then	_	_	_	
+31-86	3718-3722	take	_	_	_	
+31-87	3723-3729	butter	_	_	_	
+31-88	3730-3733	and	_	_	_	
+31-89	3734-3737	put	_	_	_	
+31-90	3738-3742	into	_	_	_	
+31-91	3743-3744	a	_	_	_	
+31-92	3745-3752	fryinge	_	_	_	
+31-93	3755-3758	pan	_	_	_	
+31-94	3759-3762	and	_	_	_	
+31-95	3763-3767	frye	_	_	_	
+31-96	3768-3772	them	_	_	_	
+31-97	3773-3775	as	_	_	_	
+31-98	3776-3782	thinne	_	_	_	
+31-99	3783-3785	as	_	_	_	
+31-100	3786-3787	a	_	_	_	
+31-101	3788-3791	Pan	_	_	_	
+31-102	3791-3792	-	_	_	_	
+31-103	3795-3799	cake	_	_	_	
+31-104	3799-3800	,	_	_	_	
+31-105	3801-3805	then	_	_	_	
+31-106	3806-3809	lay	_	_	_	
+31-107	3810-3814	your	_	_	_	
+31-108	3815-3821	stuffe	_	_	_	
+31-109	3822-3828	therin	_	_	_	
+31-110	3828-3829	,	_	_	_	
+31-111	3830-3833	and	_	_	_	
+31-112	3834-3836	so	_	_	_	
+31-113	3839-3843	frye	_	_	_	
+31-114	3844-3848	them	_	_	_	
+31-115	3849-3858	toghether	_	_	_	
+31-116	3859-3861	in	_	_	_	
+31-117	3862-3863	a	_	_	_	
+31-118	3864-3869	panne	_	_	_	
+31-119	3869-3870	,	_	_	_	
+31-120	3871-3874	and	_	_	_	
+31-121	3875-3879	cast	_	_	_	
+31-122	3882-3887	suger	_	_	_	
+31-123	3888-3891	and	_	_	_	
+31-124	3892-3898	ginger	_	_	_	
+31-125	3899-3903	upon	_	_	_	
+31-126	3904-3906	it	_	_	_	
+31-127	3906-3907	,	_	_	_	
+31-128	3908-3911	and	_	_	_	
+31-129	3912-3914	so	_	_	_	
+31-130	3915-3920	serve	_	_	_	
+31-131	3921-3923	it	_	_	_	
+31-132	3926-3931	forth	_	_	_	
+31-133	3931-3932	.	_	_	_	
+
+#Text=To make Pescoddes.
+32-1	3938-3940	To	_	_	_	
+32-2	3941-3945	make	_	_	_	
+32-3	3946-3955	Pescoddes	_	_	_	
+32-4	3955-3956	.	_	_	_	
+
+#Text=Take marrow boones, and pull the 
+#Text= marrowe oute of them, and cut it in 
+#Text= two partes, then season it with Suger, 
+#Text= cinnamon, ginger, and a litle salte, and 
+#Text= make your paste as fine as ye can, and 
+#Text= as short and thine as ye can, then frye 
+#Text= them in swete suet, and cast upon them 
+#Text= a litle Cinnamon and Ginger, and so 
+#Text= serve them at the Table.
+33-1	3957-3961	Take	_	_	_	
+33-2	3962-3968	marrow	Taste Source[12]	_	_	
+33-3	3969-3975	boones	Taste Source[12]	_	_	
+33-4	3975-3976	,	_	_	_	
+33-5	3977-3980	and	_	_	_	
+33-6	3981-3985	pull	_	_	_	
+33-7	3986-3989	the	_	_	_	
+33-8	3992-3999	marrowe	_	_	_	
+33-9	4000-4004	oute	_	_	_	
+33-10	4005-4007	of	_	_	_	
+33-11	4008-4012	them	_	_	_	
+33-12	4012-4013	,	_	_	_	
+33-13	4014-4017	and	_	_	_	
+33-14	4018-4021	cut	_	_	_	
+33-15	4022-4024	it	_	_	_	
+33-16	4025-4027	in	_	_	_	
+33-17	4030-4033	two	_	_	_	
+33-18	4034-4040	partes	_	_	_	
+33-19	4040-4041	,	_	_	_	
+33-20	4042-4046	then	_	_	_	
+33-21	4047-4053	season	Taste Word	*|*|*|*|*	33-22|33-23[13_0]|33-26|33-28|33-31[14_0]	
+33-22	4054-4056	it	Taste Source	anaphorical	33-2[12_0]	
+33-23	4057-4061	with	Taste Modifier[13]	_	_	
+33-24	4062-4067	Suger	Taste Modifier[13]	_	_	
+33-25	4067-4068	,	_	_	_	
+33-26	4071-4079	cinnamon	Taste Modifier	_	_	
+33-27	4079-4080	,	_	_	_	
+33-28	4081-4087	ginger	Taste Modifier	_	_	
+33-29	4087-4088	,	_	_	_	
+33-30	4089-4092	and	_	_	_	
+33-31	4093-4094	a	Taste Modifier[14]	_	_	
+33-32	4095-4100	litle	Taste Modifier[14]	_	_	
+33-33	4101-4106	salte	Taste Modifier[14]	_	_	
+33-34	4106-4107	,	_	_	_	
+33-35	4108-4111	and	_	_	_	
+33-36	4114-4118	make	_	_	_	
+33-37	4119-4123	your	_	_	_	
+33-38	4124-4129	paste	_	_	_	
+33-39	4130-4132	as	_	_	_	
+33-40	4133-4137	fine	_	_	_	
+33-41	4138-4140	as	_	_	_	
+33-42	4141-4143	ye	_	_	_	
+33-43	4144-4147	can	_	_	_	
+33-44	4147-4148	,	_	_	_	
+33-45	4149-4152	and	_	_	_	
+33-46	4155-4157	as	_	_	_	
+33-47	4158-4163	short	_	_	_	
+33-48	4164-4167	and	_	_	_	
+33-49	4168-4173	thine	_	_	_	
+33-50	4174-4176	as	_	_	_	
+33-51	4177-4179	ye	_	_	_	
+33-52	4180-4183	can	_	_	_	
+33-53	4183-4184	,	_	_	_	
+33-54	4185-4189	then	_	_	_	
+33-55	4190-4194	frye	_	_	_	
+33-56	4197-4201	them	_	_	_	
+33-57	4202-4204	in	_	_	_	
+33-58	4205-4210	swete	Taste Word[15]|Quality[16]	*|*	33-58[16_15]|33-59[0_15]	
+33-59	4211-4215	suet	Taste Source	_	_	
+33-60	4215-4216	,	_	_	_	
+33-61	4217-4220	and	_	_	_	
+33-62	4221-4225	cast	_	_	_	
+33-63	4226-4230	upon	_	_	_	
+33-64	4231-4235	them	_	_	_	
+33-65	4238-4239	a	_	_	_	
+33-66	4240-4245	litle	_	_	_	
+33-67	4246-4254	Cinnamon	_	_	_	
+33-68	4255-4258	and	_	_	_	
+33-69	4259-4265	Ginger	_	_	_	
+33-70	4265-4266	,	_	_	_	
+33-71	4267-4270	and	_	_	_	
+33-72	4271-4273	so	_	_	_	
+33-73	4276-4281	serve	_	_	_	
+33-74	4282-4286	them	_	_	_	
+33-75	4287-4289	at	_	_	_	
+33-76	4290-4293	the	_	_	_	
+33-77	4294-4299	Table	_	_	_	
+33-78	4299-4300	.	_	_	_	
+
+#Text=To make stockfritures.
+34-1	4306-4308	To	_	_	_	
+34-2	4309-4313	make	_	_	_	
+34-3	4314-4327	stockfritures	_	_	_	
+34-4	4327-4328	.	_	_	_	
+
+#Text=Take the same stuffe that you take to 
+#Text= a vaut, and that same paste ye take for 
+#Text= Pescods, and ye may frye them or els 
+#Text= bake them.
+35-1	4331-4335	Take	_	_	_	
+35-2	4336-4339	the	_	_	_	
+35-3	4340-4344	same	_	_	_	
+35-4	4345-4351	stuffe	_	_	_	
+35-5	4352-4356	that	_	_	_	
+35-6	4357-4360	you	_	_	_	
+35-7	4361-4365	take	_	_	_	
+35-8	4366-4368	to	_	_	_	
+35-9	4371-4372	a	_	_	_	
+35-10	4373-4377	vaut	_	_	_	
+35-11	4377-4378	,	_	_	_	
+35-12	4379-4382	and	_	_	_	
+35-13	4383-4387	that	_	_	_	
+35-14	4388-4392	same	_	_	_	
+35-15	4393-4398	paste	_	_	_	
+35-16	4399-4401	ye	_	_	_	
+35-17	4402-4406	take	_	_	_	
+35-18	4407-4410	for	_	_	_	
+35-19	4413-4420	Pescods	_	_	_	
+35-20	4420-4421	,	_	_	_	
+35-21	4422-4425	and	_	_	_	
+35-22	4426-4428	ye	_	_	_	
+35-23	4429-4432	may	_	_	_	
+35-24	4433-4437	frye	_	_	_	
+35-25	4438-4442	them	_	_	_	
+35-26	4443-4445	or	_	_	_	
+35-27	4446-4449	els	_	_	_	
+35-28	4452-4456	bake	_	_	_	
+35-29	4457-4461	them	_	_	_	
+35-30	4461-4462	.	_	_	_	
+
+#Text=To stewe Trypes.
+36-1	4468-4470	To	_	_	_	
+36-2	4471-4476	stewe	_	_	_	
+36-3	4477-4483	Trypes	_	_	_	
+36-4	4483-4484	.	_	_	_	
+
+#Text=Take a pinte of claret wine, and set 
+#Text= it upon the fyre and cut your Trypes 
+#Text= 
+#Text=[10v] 
+#Text=  
+#Text= in small peces, and thereto put in a good 
+#Text= quantity of Cinnamom and ginger, and 
+#Text= also a sliced Onion or twaine, and so let 
+#Text= them boyle halfe an houre, & then serve 
+#Text= them upon soppes.
+37-1	4487-4491	Take	_	_	_	
+37-2	4492-4493	a	_	_	_	
+37-3	4494-4499	pinte	_	_	_	
+37-4	4500-4502	of	_	_	_	
+37-5	4503-4509	claret	_	_	_	
+37-6	4510-4514	wine	_	_	_	
+37-7	4514-4515	,	_	_	_	
+37-8	4516-4519	and	_	_	_	
+37-9	4520-4523	set	_	_	_	
+37-10	4526-4528	it	_	_	_	
+37-11	4529-4533	upon	_	_	_	
+37-12	4534-4537	the	_	_	_	
+37-13	4538-4542	fyre	_	_	_	
+37-14	4543-4546	and	_	_	_	
+37-15	4547-4550	cut	_	_	_	
+37-16	4551-4555	your	_	_	_	
+37-17	4556-4562	Trypes	_	_	_	
+37-18	4566-4567	[	_	_	_	
+37-19	4567-4570	10v	_	_	_	
+37-20	4570-4571	]	_	_	_	
+37-21	4577-4579	in	_	_	_	
+37-22	4580-4585	small	_	_	_	
+37-23	4586-4591	peces	_	_	_	
+37-24	4591-4592	,	_	_	_	
+37-25	4593-4596	and	_	_	_	
+37-26	4597-4604	thereto	_	_	_	
+37-27	4605-4608	put	_	_	_	
+37-28	4609-4611	in	_	_	_	
+37-29	4612-4613	a	_	_	_	
+37-30	4614-4618	good	_	_	_	
+37-31	4621-4629	quantity	_	_	_	
+37-32	4630-4632	of	_	_	_	
+37-33	4633-4641	Cinnamom	_	_	_	
+37-34	4642-4645	and	_	_	_	
+37-35	4646-4652	ginger	_	_	_	
+37-36	4652-4653	,	_	_	_	
+37-37	4654-4657	and	_	_	_	
+37-38	4660-4664	also	_	_	_	
+37-39	4665-4666	a	_	_	_	
+37-40	4667-4673	sliced	_	_	_	
+37-41	4674-4679	Onion	_	_	_	
+37-42	4680-4682	or	_	_	_	
+37-43	4683-4689	twaine	_	_	_	
+37-44	4689-4690	,	_	_	_	
+37-45	4691-4694	and	_	_	_	
+37-46	4695-4697	so	_	_	_	
+37-47	4698-4701	let	_	_	_	
+37-48	4704-4708	them	_	_	_	
+37-49	4709-4714	boyle	_	_	_	
+37-50	4715-4720	halfe	_	_	_	
+37-51	4721-4723	an	_	_	_	
+37-52	4724-4729	houre	_	_	_	
+37-53	4729-4730	,	_	_	_	
+37-54	4731-4732	&	_	_	_	
+37-55	4733-4737	then	_	_	_	
+37-56	4738-4743	serve	_	_	_	
+37-57	4746-4750	them	_	_	_	
+37-58	4751-4755	upon	_	_	_	
+37-59	4756-4762	soppes	_	_	_	
+37-60	4762-4763	.	_	_	_	
+
+#Text=To make a pye of Aloes.
+38-1	4769-4771	To	_	_	_	
+38-2	4772-4776	make	_	_	_	
+38-3	4777-4778	a	_	_	_	
+38-4	4779-4782	pye	_	_	_	
+38-5	4783-4785	of	_	_	_	
+38-6	4786-4791	Aloes	_	_	_	
+38-7	4791-4792	.	_	_	_	
+
+#Text=Take a leg of Mutton, and cut it in 
+#Text= thin slices, and for stuffinge of the same 
+#Text= take persely, time, and savery, and chop 
+#Text= them small, then temper amonge them 
+#Text= three or foure yolkes of hard egs chopte 
+#Text= small and small raisins, dates, [cut?]
+39-1	4795-4799	Take	_	_	_	
+39-2	4800-4801	a	_	_	_	
+39-3	4802-4805	leg	_	_	_	
+39-4	4806-4808	of	_	_	_	
+39-5	4809-4815	Mutton	_	_	_	
+39-6	4815-4816	,	_	_	_	
+39-7	4817-4820	and	_	_	_	
+39-8	4821-4824	cut	_	_	_	
+39-9	4825-4827	it	_	_	_	
+39-10	4828-4830	in	_	_	_	
+39-11	4833-4837	thin	_	_	_	
+39-12	4838-4844	slices	_	_	_	
+39-13	4844-4845	,	_	_	_	
+39-14	4846-4849	and	_	_	_	
+39-15	4850-4853	for	_	_	_	
+39-16	4854-4863	stuffinge	_	_	_	
+39-17	4864-4866	of	_	_	_	
+39-18	4867-4870	the	_	_	_	
+39-19	4871-4875	same	_	_	_	
+39-20	4878-4882	take	_	_	_	
+39-21	4883-4890	persely	_	_	_	
+39-22	4890-4891	,	_	_	_	
+39-23	4892-4896	time	_	_	_	
+39-24	4896-4897	,	_	_	_	
+39-25	4898-4901	and	_	_	_	
+39-26	4902-4908	savery	_	_	_	
+39-27	4908-4909	,	_	_	_	
+39-28	4910-4913	and	_	_	_	
+39-29	4914-4918	chop	_	_	_	
+39-30	4921-4925	them	_	_	_	
+39-31	4926-4931	small	_	_	_	
+39-32	4931-4932	,	_	_	_	
+39-33	4933-4937	then	_	_	_	
+39-34	4938-4944	temper	_	_	_	
+39-35	4945-4951	amonge	_	_	_	
+39-36	4952-4956	them	_	_	_	
+39-37	4959-4964	three	_	_	_	
+39-38	4965-4967	or	_	_	_	
+39-39	4968-4973	foure	_	_	_	
+39-40	4974-4980	yolkes	_	_	_	
+39-41	4981-4983	of	_	_	_	
+39-42	4984-4988	hard	_	_	_	
+39-43	4989-4992	egs	_	_	_	
+39-44	4993-4999	chopte	_	_	_	
+39-45	5002-5007	small	_	_	_	
+39-46	5008-5011	and	_	_	_	
+39-47	5012-5017	small	_	_	_	
+39-48	5018-5025	raisins	_	_	_	
+39-49	5025-5026	,	_	_	_	
+39-50	5027-5032	dates	_	_	_	
+39-51	5032-5033	,	_	_	_	
+39-52	5034-5035	[	_	_	_	
+39-53	5035-5038	cut	_	_	_	
+39-54	5038-5039	?	_	_	_	
+39-55	5039-5040	]	_	_	_	
+
+#Text=with 
+#Text= mace and a litle salt, then lay all these 
+#Text= in the stekes, and then rolle them toge- 
+#Text= ther.
+40-1	5041-5045	with	_	_	_	
+40-2	5048-5052	mace	_	_	_	
+40-3	5053-5056	and	_	_	_	
+40-4	5057-5058	a	_	_	_	
+40-5	5059-5064	litle	_	_	_	
+40-6	5065-5069	salt	_	_	_	
+40-7	5069-5070	,	_	_	_	
+40-8	5071-5075	then	_	_	_	
+40-9	5076-5079	lay	_	_	_	
+40-10	5080-5083	all	_	_	_	
+40-11	5084-5089	these	_	_	_	
+40-12	5092-5094	in	_	_	_	
+40-13	5095-5098	the	_	_	_	
+40-14	5099-5105	stekes	_	_	_	
+40-15	5105-5106	,	_	_	_	
+40-16	5107-5110	and	_	_	_	
+40-17	5111-5115	then	_	_	_	
+40-18	5116-5121	rolle	_	_	_	
+40-19	5122-5126	them	_	_	_	
+40-20	5127-5131	toge	_	_	_	
+40-21	5131-5132	-	_	_	_	
+40-22	5135-5139	ther	_	_	_	
+40-23	5139-5140	.	_	_	_	
+
+#Text=This done make your pye, and lay 
+#Text= all these therin, than season them with a 
+#Text= little suger and cinnamom, saffron, and
+#Text=Take beanes and boyle them tender in 
+#Text= faire water, then take them out and 
+#Text= breake them in a morter, and strayne 
+#Text= them with the yolkes of foure egges, 
+#Text= curde made of milke, then season it up 
+#Text= with Suger and halfe a dishe of butter, 
+#Text= and a litle cinnamen, and bake it.
+41-1	5141-5145	This	_	_	_	
+41-2	5146-5150	done	_	_	_	
+41-3	5151-5155	make	_	_	_	
+41-4	5156-5160	your	_	_	_	
+41-5	5161-5164	pye	_	_	_	
+41-6	5164-5165	,	_	_	_	
+41-7	5166-5169	and	_	_	_	
+41-8	5170-5173	lay	_	_	_	
+41-9	5176-5179	all	_	_	_	
+41-10	5180-5185	these	_	_	_	
+41-11	5186-5192	therin	_	_	_	
+41-12	5192-5193	,	_	_	_	
+41-13	5194-5198	than	_	_	_	
+41-14	5199-5205	season	Taste Word	*|*|*|*	41-15|41-23|41-21|41-16[17_0]	
+41-15	5206-5210	them	Taste Source	_	_	
+41-16	5211-5215	with	Taste Modifier[17]	_	_	
+41-17	5216-5217	a	Taste Modifier[17]	_	_	
+41-18	5220-5226	little	Taste Modifier[17]	_	_	
+41-19	5227-5232	suger	Taste Modifier[17]	_	_	
+41-20	5233-5236	and	_	_	_	
+41-21	5237-5245	cinnamom	Taste Modifier	_	_	
+41-22	5245-5246	,	_	_	_	
+41-23	5247-5254	saffron	Taste Modifier	_	_	
+41-24	5254-5255	,	_	_	_	
+41-25	5256-5259	and	_	_	_	
+41-26	5260-5264	Take	_	_	_	
+41-27	5265-5271	beanes	_	_	_	
+41-28	5272-5275	and	_	_	_	
+41-29	5276-5281	boyle	_	_	_	
+41-30	5282-5286	them	_	_	_	
+41-31	5287-5293	tender	_	_	_	
+41-32	5294-5296	in	_	_	_	
+41-33	5299-5304	faire	_	_	_	
+41-34	5305-5310	water	_	_	_	
+41-35	5310-5311	,	_	_	_	
+41-36	5312-5316	then	_	_	_	
+41-37	5317-5321	take	_	_	_	
+41-38	5322-5326	them	_	_	_	
+41-39	5327-5330	out	_	_	_	
+41-40	5331-5334	and	_	_	_	
+41-41	5337-5343	breake	_	_	_	
+41-42	5344-5348	them	_	_	_	
+41-43	5349-5351	in	_	_	_	
+41-44	5352-5353	a	_	_	_	
+41-45	5354-5360	morter	_	_	_	
+41-46	5360-5361	,	_	_	_	
+41-47	5362-5365	and	_	_	_	
+41-48	5366-5373	strayne	_	_	_	
+41-49	5376-5380	them	_	_	_	
+41-50	5381-5385	with	_	_	_	
+41-51	5386-5389	the	_	_	_	
+41-52	5390-5396	yolkes	_	_	_	
+41-53	5397-5399	of	_	_	_	
+41-54	5400-5405	foure	_	_	_	
+41-55	5406-5411	egges	_	_	_	
+41-56	5411-5412	,	_	_	_	
+41-57	5415-5420	curde	Taste Source[18]	_	_	
+41-58	5421-5425	made	Taste Source[18]	_	_	
+41-59	5426-5428	of	Taste Source[18]	_	_	
+41-60	5429-5434	milke	Taste Source[18]	_	_	
+41-61	5434-5435	,	_	_	_	
+41-62	5436-5440	then	_	_	_	
+41-63	5441-5447	season	Taste Word	*|*|*|*	41-66[19_0]|41-69[20_0]|41-76[21_0]|41-57[18_0]	
+41-64	5448-5450	it	_	_	_	
+41-65	5451-5453	up	_	_	_	
+41-66	5456-5460	with	Taste Modifier[19]	_	_	
+41-67	5461-5466	Suger	Taste Modifier[19]	_	_	
+41-68	5467-5470	and	_	_	_	
+41-69	5471-5476	halfe	Taste Modifier[20]	_	_	
+41-70	5477-5478	a	Taste Modifier[20]	_	_	
+41-71	5479-5484	dishe	Taste Modifier[20]	_	_	
+41-72	5485-5487	of	Taste Modifier[20]	_	_	
+41-73	5488-5494	butter	Taste Modifier[20]	_	_	
+41-74	5494-5495	,	_	_	_	
+41-75	5498-5501	and	_	_	_	
+41-76	5502-5503	a	Taste Modifier[21]	_	_	
+41-77	5504-5509	litle	Taste Modifier[21]	_	_	
+41-78	5510-5518	cinnamen	Taste Modifier[21]	_	_	
+41-79	5518-5519	,	_	_	_	
+41-80	5520-5523	and	_	_	_	
+41-81	5524-5528	bake	_	_	_	
+41-82	5529-5531	it	_	_	_	
+41-83	5531-5532	.	_	_	_	
+
+#Text=To make a tarte of Goseberies.
+42-1	5538-5540	To	_	_	_	
+42-2	5541-5545	make	_	_	_	
+42-3	5546-5547	a	_	_	_	
+42-4	5548-5553	tarte	_	_	_	
+42-5	5554-5556	of	_	_	_	
+42-6	5557-5567	Goseberies	_	_	_	
+42-7	5567-5568	.	_	_	_	
+
+#Text=Take Goseberies and parboyle them 
+#Text= in white wine, claret or ale, and boyle 
+#Text= withall a litle white bread, then take 
+#Text= them up and drawe them throughe a 
+#Text= strayner as thicke as you can, with the 
+#Text= yolkes of five Egges, then season it up 
+#Text= with Suger, halfe a dishe of butter, to 
+#Text= bake it.
+43-1	5571-5575	Take	_	_	_	
+43-2	5576-5586	Goseberies	Taste Source	_	_	
+43-3	5587-5590	and	_	_	_	
+43-4	5591-5599	parboyle	_	_	_	
+43-5	5600-5604	them	_	_	_	
+43-6	5607-5609	in	_	_	_	
+43-7	5610-5615	white	_	_	_	
+43-8	5616-5620	wine	_	_	_	
+43-9	5620-5621	,	_	_	_	
+43-10	5622-5628	claret	_	_	_	
+43-11	5629-5631	or	_	_	_	
+43-12	5632-5635	ale	_	_	_	
+43-13	5635-5636	,	_	_	_	
+43-14	5637-5640	and	_	_	_	
+43-15	5641-5646	boyle	_	_	_	
+43-16	5649-5656	withall	_	_	_	
+43-17	5657-5658	a	_	_	_	
+43-18	5659-5664	litle	_	_	_	
+43-19	5665-5670	white	_	_	_	
+43-20	5671-5676	bread	_	_	_	
+43-21	5676-5677	,	_	_	_	
+43-22	5678-5682	then	_	_	_	
+43-23	5683-5687	take	_	_	_	
+43-24	5690-5694	them	_	_	_	
+43-25	5695-5697	up	_	_	_	
+43-26	5698-5701	and	_	_	_	
+43-27	5702-5707	drawe	_	_	_	
+43-28	5708-5712	them	_	_	_	
+43-29	5713-5721	throughe	_	_	_	
+43-30	5722-5723	a	_	_	_	
+43-31	5726-5734	strayner	_	_	_	
+43-32	5735-5737	as	_	_	_	
+43-33	5738-5744	thicke	_	_	_	
+43-34	5745-5747	as	_	_	_	
+43-35	5748-5751	you	_	_	_	
+43-36	5752-5755	can	_	_	_	
+43-37	5755-5756	,	_	_	_	
+43-38	5757-5761	with	_	_	_	
+43-39	5762-5765	the	_	_	_	
+43-40	5768-5774	yolkes	_	_	_	
+43-41	5775-5777	of	_	_	_	
+43-42	5778-5782	five	_	_	_	
+43-43	5783-5788	Egges	_	_	_	
+43-44	5788-5789	,	_	_	_	
+43-45	5790-5794	then	_	_	_	
+43-46	5795-5801	season	Taste Word	*|*|*	43-47|43-49[22_0]|43-52[23_0]	
+43-47	5802-5804	it	Taste Source	anaphorical	43-2	
+43-48	5805-5807	up	_	_	_	
+43-49	5810-5814	with	Taste Modifier[22]	_	_	
+43-50	5815-5820	Suger	Taste Modifier[22]	_	_	
+43-51	5820-5821	,	_	_	_	
+43-52	5822-5827	halfe	Taste Modifier[23]	_	_	
+43-53	5828-5829	a	Taste Modifier[23]	_	_	
+43-54	5830-5835	dishe	Taste Modifier[23]	_	_	
+43-55	5836-5838	of	Taste Modifier[23]	_	_	
+43-56	5839-5845	butter	Taste Modifier[23]	_	_	
+43-57	5845-5846	,	_	_	_	
+43-58	5847-5849	to	_	_	_	
+43-59	5852-5856	bake	_	_	_	
+43-60	5857-5859	it	_	_	_	
+43-61	5859-5860	.	_	_	_	
+
+#Text=To bake a Tarte of Medlars.
+44-1	5866-5868	To	_	_	_	
+44-2	5869-5873	bake	_	_	_	
+44-3	5874-5875	a	_	_	_	
+44-4	5876-5881	Tarte	_	_	_	
+44-5	5882-5884	of	_	_	_	
+44-6	5885-5892	Medlars	_	_	_	
+44-7	5892-5893	.	_	_	_	
+
+#Text=Take medlars when they be rotten, &
+#Text= 
+#Text= [11v] 
+#Text=  
+#Text= braye them with the yolkes of .iiii.
+45-1	5896-5900	Take	_	_	_	
+45-2	5901-5908	medlars	Taste Source	_	_	
+45-3	5909-5913	when	_	_	_	
+45-4	5914-5918	they	_	_	_	
+45-5	5919-5921	be	_	_	_	
+45-6	5922-5928	rotten	_	_	_	
+45-7	5928-5929	,	_	_	_	
+45-8	5930-5931	&	_	_	_	
+45-9	5935-5936	[	_	_	_	
+45-10	5936-5939	11v	_	_	_	
+45-11	5939-5940	]	_	_	_	
+45-12	5946-5951	braye	_	_	_	
+45-13	5952-5956	them	_	_	_	
+45-14	5957-5961	with	_	_	_	
+45-15	5962-5965	the	_	_	_	
+45-16	5966-5972	yolkes	_	_	_	
+45-17	5973-5975	of	_	_	_	
+45-18	5976-5977	.	_	_	_	
+45-19	5977-5981	iiii	_	_	_	
+45-20	5981-5982	.	_	_	_	
+
+#Text=Eg- 
+#Text= ges, then season it up with suger and cin- 
+#Text= namon and swete butter, and so bake it.
+46-1	5983-5985	Eg	_	_	_	
+46-2	5985-5986	-	_	_	_	
+46-3	5989-5992	ges	_	_	_	
+46-4	5992-5993	,	_	_	_	
+46-5	5994-5998	then	_	_	_	
+46-6	5999-6005	season	Taste Word	*|*|*|*	46-7|46-16[26_0]|46-12[25_0]|46-9[24_0]	
+46-7	6006-6008	it	Taste Source	anaphorical	45-2	
+46-8	6009-6011	up	_	_	_	
+46-9	6012-6016	with	Taste Modifier[24]	_	_	
+46-10	6017-6022	suger	Taste Modifier[24]	_	_	
+46-11	6023-6026	and	_	_	_	
+46-12	6027-6030	cin	Taste Modifier[25]	_	_	
+46-13	6030-6031	-	Taste Modifier[25]	_	_	
+46-14	6034-6039	namon	Taste Modifier[25]	_	_	
+46-15	6040-6043	and	_	_	_	
+46-16	6044-6049	swete	Taste Modifier[26]	_	_	
+46-17	6050-6056	butter	Taste Modifier[26]	_	_	
+46-18	6056-6057	,	_	_	_	
+46-19	6058-6061	and	_	_	_	
+46-20	6062-6064	so	_	_	_	
+46-21	6065-6069	bake	_	_	_	
+46-22	6070-6072	it	_	_	_	
+46-23	6072-6073	.	_	_	_	
+
+#Text=To make a Tart of Damsons.
+47-1	6079-6081	To	_	_	_	
+47-2	6082-6086	make	_	_	_	
+47-3	6087-6088	a	_	_	_	
+47-4	6089-6093	Tart	_	_	_	
+47-5	6094-6096	of	_	_	_	
+47-6	6097-6104	Damsons	_	_	_	
+47-7	6104-6105	.	_	_	_	
+
+#Text=Take Damsons and boyle them in 
+#Text= wine, eyther red or claret, and put ther- 
+#Text= to a dosin of peares, or els white bread 
+#Text= to make them stuffe withall, then draw 
+#Text= them up with the yolkes of six Egges, 
+#Text= and sweete butter, and so bake it.
+48-1	6108-6112	Take	_	_	_	
+48-2	6113-6120	Damsons	_	_	_	
+48-3	6121-6124	and	_	_	_	
+48-4	6125-6130	boyle	_	_	_	
+48-5	6131-6135	them	_	_	_	
+48-6	6136-6138	in	_	_	_	
+48-7	6141-6145	wine	_	_	_	
+48-8	6145-6146	,	_	_	_	
+48-9	6147-6153	eyther	_	_	_	
+48-10	6154-6157	red	_	_	_	
+48-11	6158-6160	or	_	_	_	
+48-12	6161-6167	claret	_	_	_	
+48-13	6167-6168	,	_	_	_	
+48-14	6169-6172	and	_	_	_	
+48-15	6173-6176	put	_	_	_	
+48-16	6177-6181	ther	_	_	_	
+48-17	6181-6182	-	_	_	_	
+48-18	6185-6187	to	_	_	_	
+48-19	6188-6189	a	_	_	_	
+48-20	6190-6195	dosin	_	_	_	
+48-21	6196-6198	of	_	_	_	
+48-22	6199-6205	peares	_	_	_	
+48-23	6205-6206	,	_	_	_	
+48-24	6207-6209	or	_	_	_	
+48-25	6210-6213	els	_	_	_	
+48-26	6214-6219	white	_	_	_	
+48-27	6220-6225	bread	_	_	_	
+48-28	6228-6230	to	_	_	_	
+48-29	6231-6235	make	_	_	_	
+48-30	6236-6240	them	_	_	_	
+48-31	6241-6247	stuffe	_	_	_	
+48-32	6248-6255	withall	_	_	_	
+48-33	6255-6256	,	_	_	_	
+48-34	6257-6261	then	_	_	_	
+48-35	6262-6266	draw	_	_	_	
+48-36	6269-6273	them	_	_	_	
+48-37	6274-6276	up	_	_	_	
+48-38	6277-6281	with	_	_	_	
+48-39	6282-6285	the	_	_	_	
+48-40	6286-6292	yolkes	_	_	_	
+48-41	6293-6295	of	_	_	_	
+48-42	6296-6299	six	_	_	_	
+48-43	6300-6305	Egges	_	_	_	
+48-44	6305-6306	,	_	_	_	
+48-45	6309-6312	and	_	_	_	
+48-46	6313-6319	sweete	Taste Word[27]|Quality[28]	*|*	48-46[28_27]|48-47[0_27]	
+48-47	6320-6326	butter	Taste Source	_	_	
+48-48	6326-6327	,	_	_	_	
+48-49	6328-6331	and	_	_	_	
+48-50	6332-6334	so	_	_	_	
+48-51	6335-6339	bake	_	_	_	
+48-52	6340-6342	it	_	_	_	
+48-53	6342-6343	.	_	_	_	
+
+#Text=To make a Tart of Bourage 
+#Text= Flowers.
+49-1	6349-6351	To	_	_	_	
+49-2	6352-6356	make	_	_	_	
+49-3	6357-6358	a	_	_	_	
+49-4	6359-6363	Tart	_	_	_	
+49-5	6364-6366	of	_	_	_	
+49-6	6367-6374	Bourage	_	_	_	
+49-7	6377-6384	Flowers	_	_	_	
+49-8	6384-6385	.	_	_	_	
+
+#Text=Take Borage flowers and parboile 
+#Text= them tender, then strayne them with 
+#Text= the yolkes of three or foure egges and
+#Text=sweete curdes, or els take three or fouer 
+#Text= apples, and parboyle withall, and strain 
+#Text= them with sweete butter, and a little 
+#Text= Mace, and so bake it.
+50-1	6388-6392	Take	_	_	_	
+50-2	6393-6399	Borage	_	_	_	
+50-3	6400-6407	flowers	_	_	_	
+50-4	6408-6411	and	_	_	_	
+50-5	6412-6420	parboile	_	_	_	
+50-6	6423-6427	them	_	_	_	
+50-7	6428-6434	tender	_	_	_	
+50-8	6434-6435	,	_	_	_	
+50-9	6436-6440	then	_	_	_	
+50-10	6441-6448	strayne	_	_	_	
+50-11	6449-6453	them	_	_	_	
+50-12	6454-6458	with	_	_	_	
+50-13	6461-6464	the	_	_	_	
+50-14	6465-6471	yolkes	_	_	_	
+50-15	6472-6474	of	_	_	_	
+50-16	6475-6480	three	_	_	_	
+50-17	6481-6483	or	_	_	_	
+50-18	6484-6489	foure	_	_	_	
+50-19	6490-6495	egges	_	_	_	
+50-20	6496-6499	and	_	_	_	
+50-21	6500-6506	sweete	Quality[29]|Taste Word[30]	*|*	50-21[29_30]|50-22[0_30]	
+50-22	6507-6513	curdes	Taste Source	_	_	
+50-23	6513-6514	,	_	_	_	
+50-24	6515-6517	or	_	_	_	
+50-25	6518-6521	els	_	_	_	
+50-26	6522-6526	take	_	_	_	
+50-27	6527-6532	three	_	_	_	
+50-28	6533-6535	or	_	_	_	
+50-29	6536-6541	fouer	_	_	_	
+50-30	6544-6550	apples	_	_	_	
+50-31	6550-6551	,	_	_	_	
+50-32	6552-6555	and	_	_	_	
+50-33	6556-6564	parboyle	_	_	_	
+50-34	6565-6572	withall	_	_	_	
+50-35	6572-6573	,	_	_	_	
+50-36	6574-6577	and	_	_	_	
+50-37	6578-6584	strain	_	_	_	
+50-38	6587-6591	them	_	_	_	
+50-39	6592-6596	with	_	_	_	
+50-40	6597-6603	sweete	Taste Word[31]|Quality[32]	*|*	50-40[32_31]|50-41[0_31]	
+50-41	6604-6610	butter	Taste Source	_	_	
+50-42	6610-6611	,	_	_	_	
+50-43	6612-6615	and	_	_	_	
+50-44	6616-6617	a	_	_	_	
+50-45	6618-6624	little	_	_	_	
+50-46	6627-6631	Mace	_	_	_	
+50-47	6631-6632	,	_	_	_	
+50-48	6633-6636	and	_	_	_	
+50-49	6637-6639	so	_	_	_	
+50-50	6640-6644	bake	_	_	_	
+50-51	6645-6647	it	_	_	_	
+50-52	6647-6648	.	_	_	_	
+
+#Text=To make a Tart of Marygoldes, 
+#Text= prim roses, or Couslips.
+51-1	6654-6656	To	_	_	_	
+51-2	6657-6661	make	_	_	_	
+51-3	6662-6663	a	_	_	_	
+51-4	6664-6668	Tart	_	_	_	
+51-5	6669-6671	of	_	_	_	
+51-6	6672-6682	Marygoldes	_	_	_	
+51-7	6682-6683	,	_	_	_	
+51-8	6686-6690	prim	_	_	_	
+51-9	6691-6696	roses	_	_	_	
+51-10	6696-6697	,	_	_	_	
+51-11	6698-6700	or	_	_	_	
+51-12	6701-6709	Couslips	_	_	_	
+51-13	6709-6710	.	_	_	_	
+
+#Text=Take the same stuffe to every of them 
+#Text= that you doe to the Tarte of Borage 
+#Text= and the same seasoning.
+52-1	6713-6717	Take	_	_	_	
+52-2	6718-6721	the	_	_	_	
+52-3	6722-6726	same	_	_	_	
+52-4	6727-6733	stuffe	_	_	_	
+52-5	6734-6736	to	_	_	_	
+52-6	6737-6742	every	_	_	_	
+52-7	6743-6745	of	_	_	_	
+52-8	6746-6750	them	_	_	_	
+52-9	6753-6757	that	_	_	_	
+52-10	6758-6761	you	_	_	_	
+52-11	6762-6765	doe	_	_	_	
+52-12	6766-6768	to	_	_	_	
+52-13	6769-6772	the	_	_	_	
+52-14	6773-6778	Tarte	_	_	_	
+52-15	6779-6781	of	_	_	_	
+52-16	6782-6788	Borage	_	_	_	
+52-17	6791-6794	and	_	_	_	
+52-18	6795-6798	the	_	_	_	
+52-19	6799-6803	same	_	_	_	
+52-20	6804-6813	seasoning	_	_	_	
+52-21	6813-6814	.	_	_	_	
+
+#Text=To make a Tart of Strawberies
+53-1	6820-6822	To	_	_	_	
+53-2	6823-6827	make	_	_	_	
+53-3	6828-6829	a	_	_	_	
+53-4	6830-6834	Tart	_	_	_	
+53-5	6835-6837	of	_	_	_	
+53-6	6838-6849	Strawberies	Taste Source	_	_	
+
+#Text=.
+54-1	6849-6850	.	_	_	_	
+
+#Text=[12r] 
+#Text=  
+#Text= Take and strain them with the yolkes 
+#Text= of foure Egges, and a litle white bread 
+#Text= grated, then season it up with Suger, 
+#Text= and swete butter, and so bake it.
+55-1	6856-6857	[	_	_	_	
+55-2	6857-6860	12r	_	_	_	
+55-3	6860-6861	]	_	_	_	
+55-4	6867-6871	Take	_	_	_	
+55-5	6872-6875	and	_	_	_	
+55-6	6876-6882	strain	_	_	_	
+55-7	6883-6887	them	_	_	_	
+55-8	6888-6892	with	_	_	_	
+55-9	6893-6896	the	_	_	_	
+55-10	6897-6903	yolkes	_	_	_	
+55-11	6906-6908	of	_	_	_	
+55-12	6909-6914	foure	_	_	_	
+55-13	6915-6920	Egges	_	_	_	
+55-14	6920-6921	,	_	_	_	
+55-15	6922-6925	and	_	_	_	
+55-16	6926-6927	a	_	_	_	
+55-17	6928-6933	litle	_	_	_	
+55-18	6934-6939	white	_	_	_	
+55-19	6940-6945	bread	_	_	_	
+55-20	6948-6954	grated	_	_	_	
+55-21	6954-6955	,	_	_	_	
+55-22	6956-6960	then	_	_	_	
+55-23	6961-6967	season	Taste Word	*|*|*	55-24|55-26[33_0]|55-30[34_0]	
+55-24	6968-6970	it	Taste Source	anaphorical	53-6	
+55-25	6971-6973	up	_	_	_	
+55-26	6974-6978	with	Taste Modifier[33]	_	_	
+55-27	6979-6984	Suger	Taste Modifier[33]	_	_	
+55-28	6984-6985	,	_	_	_	
+55-29	6988-6991	and	_	_	_	
+55-30	6992-6997	swete	Taste Modifier[34]|Taste Word[35]|Quality[36]	*|*	55-30[36_35]|55-31[37_35]	
+55-31	6998-7004	butter	Taste Modifier[34]|Taste Source[37]	_	_	
+55-32	7004-7005	,	_	_	_	
+55-33	7006-7009	and	_	_	_	
+55-34	7010-7012	so	_	_	_	
+55-35	7013-7017	bake	_	_	_	
+55-36	7018-7020	it	_	_	_	
+55-37	7020-7021	.	_	_	_	
+
+#Text=six egges, and season it up with Suger 
+#Text= and sweete butter, and so bake it.
+56-1	7025-7028	six	Taste Source[38]	_	_	
+56-2	7029-7034	egges	Taste Source[38]	_	_	
+56-3	7034-7035	,	_	_	_	
+56-4	7036-7039	and	_	_	_	
+56-5	7040-7046	season	Taste Word	*|*|*	56-11[40_0]|56-8[39_0]|56-1[38_0]	
+56-6	7047-7049	it	_	_	_	
+56-7	7050-7052	up	_	_	_	
+56-8	7053-7057	with	Taste Modifier[39]	_	_	
+56-9	7058-7063	Suger	Taste Modifier[39]	_	_	
+56-10	7066-7069	and	_	_	_	
+56-11	7070-7076	sweete	Taste Modifier[40]|Taste Word[41]|Quality[42]	*|*	56-11[42_41]|56-12[43_41]	
+56-12	7077-7083	butter	Taste Modifier[40]|Taste Source[43]	_	_	
+56-13	7083-7084	,	_	_	_	
+56-14	7085-7088	and	_	_	_	
+56-15	7089-7091	so	_	_	_	
+56-16	7092-7096	bake	_	_	_	
+56-17	7097-7099	it	_	_	_	
+56-18	7099-7100	.	_	_	_	
+
+#Text=To make a stewe after the guyse of 
+#Text=  
+#Text= [12v] 
+#Text=  
+#Text= beyond the Sea.
+57-1	7106-7108	To	_	_	_	
+57-2	7109-7113	make	_	_	_	
+57-3	7114-7115	a	_	_	_	
+57-4	7116-7121	stewe	_	_	_	
+57-5	7122-7127	after	_	_	_	
+57-6	7128-7131	the	_	_	_	
+57-7	7132-7137	guyse	_	_	_	
+57-8	7138-7140	of	_	_	_	
+57-9	7146-7147	[	_	_	_	
+57-10	7147-7150	12v	_	_	_	
+57-11	7150-7151	]	_	_	_	
+57-12	7157-7163	beyond	_	_	_	
+57-13	7164-7167	the	_	_	_	
+57-14	7168-7171	Sea	_	_	_	
+57-15	7171-7172	.	_	_	_	
+
+#Text=Take a pottle of faire water, and as 
+#Text= much wine, and a brest of mutton chopt 
+#Text= in pieces, then set it on the fier, and scom 
+#Text= it cleane, and put thereto a dishe full of 
+#Text= sliced oynions, and a quantity of Cinna- 
+#Text= mom, ginger, cloves, and mace, with salt 
+#Text= and stewe them altogether, and then 
+#Text= serve them with soppes.
+58-1	7175-7179	Take	_	_	_	
+58-2	7180-7181	a	_	_	_	
+58-3	7182-7188	pottle	_	_	_	
+58-4	7189-7191	of	_	_	_	
+58-5	7192-7197	faire	_	_	_	
+58-6	7198-7203	water	_	_	_	
+58-7	7203-7204	,	_	_	_	
+58-8	7205-7208	and	_	_	_	
+58-9	7209-7211	as	_	_	_	
+58-10	7214-7218	much	_	_	_	
+58-11	7219-7223	wine	_	_	_	
+58-12	7223-7224	,	_	_	_	
+58-13	7225-7228	and	_	_	_	
+58-14	7229-7230	a	_	_	_	
+58-15	7231-7236	brest	_	_	_	
+58-16	7237-7239	of	_	_	_	
+58-17	7240-7246	mutton	_	_	_	
+58-18	7247-7252	chopt	_	_	_	
+58-19	7255-7257	in	_	_	_	
+58-20	7258-7264	pieces	_	_	_	
+58-21	7264-7265	,	_	_	_	
+58-22	7266-7270	then	_	_	_	
+58-23	7271-7274	set	_	_	_	
+58-24	7275-7277	it	_	_	_	
+58-25	7278-7280	on	_	_	_	
+58-26	7281-7284	the	_	_	_	
+58-27	7285-7289	fier	_	_	_	
+58-28	7289-7290	,	_	_	_	
+58-29	7291-7294	and	_	_	_	
+58-30	7295-7299	scom	_	_	_	
+58-31	7302-7304	it	_	_	_	
+58-32	7305-7311	cleane	_	_	_	
+58-33	7311-7312	,	_	_	_	
+58-34	7313-7316	and	_	_	_	
+58-35	7317-7320	put	_	_	_	
+58-36	7321-7328	thereto	_	_	_	
+58-37	7329-7330	a	_	_	_	
+58-38	7331-7336	dishe	_	_	_	
+58-39	7337-7341	full	_	_	_	
+58-40	7342-7344	of	_	_	_	
+58-41	7347-7353	sliced	_	_	_	
+58-42	7354-7361	oynions	_	_	_	
+58-43	7361-7362	,	_	_	_	
+58-44	7363-7366	and	_	_	_	
+58-45	7367-7368	a	_	_	_	
+58-46	7369-7377	quantity	_	_	_	
+58-47	7378-7380	of	_	_	_	
+58-48	7381-7386	Cinna	_	_	_	
+58-49	7386-7387	-	_	_	_	
+58-50	7390-7393	mom	_	_	_	
+58-51	7393-7394	,	_	_	_	
+58-52	7395-7401	ginger	_	_	_	
+58-53	7401-7402	,	_	_	_	
+58-54	7403-7409	cloves	_	_	_	
+58-55	7409-7410	,	_	_	_	
+58-56	7411-7414	and	_	_	_	
+58-57	7415-7419	mace	_	_	_	
+58-58	7419-7420	,	_	_	_	
+58-59	7421-7425	with	_	_	_	
+58-60	7426-7430	salt	_	_	_	
+58-61	7433-7436	and	_	_	_	
+58-62	7437-7442	stewe	_	_	_	
+58-63	7443-7447	them	_	_	_	
+58-64	7448-7458	altogether	_	_	_	
+58-65	7458-7459	,	_	_	_	
+58-66	7460-7463	and	_	_	_	
+58-67	7464-7468	then	_	_	_	
+58-68	7471-7476	serve	_	_	_	
+58-69	7477-7481	them	_	_	_	
+58-70	7482-7486	with	_	_	_	
+58-71	7487-7493	soppes	_	_	_	
+58-72	7493-7494	.	_	_	_	
+
+#Text=To make egges in mone shine.
+59-1	7500-7502	To	_	_	_	
+59-2	7503-7507	make	_	_	_	
+59-3	7508-7513	egges	_	_	_	
+59-4	7514-7516	in	_	_	_	
+59-5	7517-7521	mone	_	_	_	
+59-6	7522-7527	shine	_	_	_	
+59-7	7527-7528	.	_	_	_	
+
+#Text=Take a dishe of rose water, and a dishe 
+#Text= full of suger, and set them upon a cha-
+#Text=fingdish, and let them boile, then take the 
+#Text= yolkes of 8. or 9. egges newlaid, and put 
+#Text= them therto, every one from other, and 
+#Text= so let them harden a little, and so after 
+#Text= this maner serve them forth, and cast a 
+#Text= little Cinnamon and suger.
+60-1	7531-7535	Take	_	_	_	
+60-2	7536-7537	a	_	_	_	
+60-3	7538-7543	dishe	_	_	_	
+60-4	7544-7546	of	_	_	_	
+60-5	7547-7551	rose	_	_	_	
+60-6	7552-7557	water	_	_	_	
+60-7	7557-7558	,	_	_	_	
+60-8	7559-7562	and	_	_	_	
+60-9	7563-7564	a	_	_	_	
+60-10	7565-7570	dishe	_	_	_	
+60-11	7573-7577	full	_	_	_	
+60-12	7578-7580	of	_	_	_	
+60-13	7581-7586	suger	_	_	_	
+60-14	7586-7587	,	_	_	_	
+60-15	7588-7591	and	_	_	_	
+60-16	7592-7595	set	_	_	_	
+60-17	7596-7600	them	_	_	_	
+60-18	7601-7605	upon	_	_	_	
+60-19	7606-7607	a	_	_	_	
+60-20	7608-7611	cha	_	_	_	
+60-21	7611-7612	-	_	_	_	
+60-22	7613-7621	fingdish	_	_	_	
+60-23	7621-7622	,	_	_	_	
+60-24	7623-7626	and	_	_	_	
+60-25	7627-7630	let	_	_	_	
+60-26	7631-7635	them	_	_	_	
+60-27	7636-7641	boile	_	_	_	
+60-28	7641-7642	,	_	_	_	
+60-29	7643-7647	then	_	_	_	
+60-30	7648-7652	take	_	_	_	
+60-31	7653-7656	the	_	_	_	
+60-32	7659-7665	yolkes	_	_	_	
+60-33	7666-7668	of	_	_	_	
+60-34	7669-7670	8	_	_	_	
+60-35	7670-7671	.	_	_	_	
+60-36	7672-7674	or	_	_	_	
+60-37	7675-7676	9	_	_	_	
+60-38	7676-7677	.	_	_	_	
+60-39	7678-7683	egges	_	_	_	
+60-40	7684-7691	newlaid	_	_	_	
+60-41	7691-7692	,	_	_	_	
+60-42	7693-7696	and	_	_	_	
+60-43	7697-7700	put	_	_	_	
+60-44	7703-7707	them	_	_	_	
+60-45	7708-7714	therto	_	_	_	
+60-46	7714-7715	,	_	_	_	
+60-47	7716-7721	every	_	_	_	
+60-48	7722-7725	one	_	_	_	
+60-49	7726-7730	from	_	_	_	
+60-50	7731-7736	other	_	_	_	
+60-51	7736-7737	,	_	_	_	
+60-52	7738-7741	and	_	_	_	
+60-53	7744-7746	so	_	_	_	
+60-54	7747-7750	let	_	_	_	
+60-55	7751-7755	them	_	_	_	
+60-56	7756-7762	harden	_	_	_	
+60-57	7763-7764	a	_	_	_	
+60-58	7765-7771	little	_	_	_	
+60-59	7771-7772	,	_	_	_	
+60-60	7773-7776	and	_	_	_	
+60-61	7777-7779	so	_	_	_	
+60-62	7780-7785	after	_	_	_	
+60-63	7788-7792	this	_	_	_	
+60-64	7793-7798	maner	_	_	_	
+60-65	7799-7804	serve	_	_	_	
+60-66	7805-7809	them	_	_	_	
+60-67	7810-7815	forth	_	_	_	
+60-68	7815-7816	,	_	_	_	
+60-69	7817-7820	and	_	_	_	
+60-70	7821-7825	cast	_	_	_	
+60-71	7826-7827	a	_	_	_	
+60-72	7830-7836	little	_	_	_	
+60-73	7837-7845	Cinnamon	_	_	_	
+60-74	7846-7849	and	_	_	_	
+60-75	7850-7855	suger	_	_	_	
+60-76	7855-7856	.	_	_	_	
+
+#Text=To make an Appelmoise.
+61-1	7862-7864	To	_	_	_	
+61-2	7865-7869	make	_	_	_	
+61-3	7870-7872	an	_	_	_	
+61-4	7873-7883	Appelmoise	_	_	_	
+61-5	7883-7884	.	_	_	_	
+
+#Text=Take a dosyn apples, and wither roste 
+#Text= or boyle them, and drawe them tho- 
+#Text= rowe a Stayner, and the yolkes of 
+#Text= three or foure egges withall, and as ye 
+#Text= straine them, temper them with three 
+#Text= or foure sponefull of damaske water, 
+#Text=  
+#Text= [13r] 
+#Text=  
+#Text= if ye will, then take and season it with 
+#Text= suger and halfe a dish of sweete butter, & 
+#Text= boyle them uopn a chafingdish in a plater, &
+#Text=cast biskets or cinnamon and Ginger, 
+#Text= upon them, and so serve them forth.
+62-1	7887-7891	Take	_	_	_	
+62-2	7892-7893	a	Taste Source[44]	_	_	
+62-3	7894-7899	dosyn	Taste Source[44]	_	_	
+62-4	7900-7906	apples	Taste Source[44]	_	_	
+62-5	7906-7907	,	_	_	_	
+62-6	7908-7911	and	_	_	_	
+62-7	7912-7918	wither	_	_	_	
+62-8	7919-7924	roste	_	_	_	
+62-9	7927-7929	or	_	_	_	
+62-10	7930-7935	boyle	_	_	_	
+62-11	7936-7940	them	_	_	_	
+62-12	7940-7941	,	_	_	_	
+62-13	7942-7945	and	_	_	_	
+62-14	7946-7951	drawe	_	_	_	
+62-15	7952-7956	them	_	_	_	
+62-16	7957-7960	tho	_	_	_	
+62-17	7960-7961	-	_	_	_	
+62-18	7964-7968	rowe	_	_	_	
+62-19	7969-7970	a	_	_	_	
+62-20	7971-7978	Stayner	_	_	_	
+62-21	7978-7979	,	_	_	_	
+62-22	7980-7983	and	_	_	_	
+62-23	7984-7987	the	_	_	_	
+62-24	7988-7994	yolkes	_	_	_	
+62-25	7995-7997	of	_	_	_	
+62-26	8000-8005	three	_	_	_	
+62-27	8006-8008	or	_	_	_	
+62-28	8009-8014	foure	_	_	_	
+62-29	8015-8020	egges	_	_	_	
+62-30	8021-8028	withall	_	_	_	
+62-31	8028-8029	,	_	_	_	
+62-32	8030-8033	and	_	_	_	
+62-33	8034-8036	as	_	_	_	
+62-34	8037-8039	ye	_	_	_	
+62-35	8042-8049	straine	_	_	_	
+62-36	8050-8054	them	_	_	_	
+62-37	8054-8055	,	_	_	_	
+62-38	8056-8062	temper	_	_	_	
+62-39	8063-8067	them	_	_	_	
+62-40	8068-8072	with	_	_	_	
+62-41	8073-8078	three	_	_	_	
+62-42	8081-8083	or	_	_	_	
+62-43	8084-8089	foure	_	_	_	
+62-44	8090-8099	sponefull	_	_	_	
+62-45	8100-8102	of	_	_	_	
+62-46	8103-8110	damaske	_	_	_	
+62-47	8111-8116	water	_	_	_	
+62-48	8116-8117	,	_	_	_	
+62-49	8123-8124	[	_	_	_	
+62-50	8124-8127	13r	_	_	_	
+62-51	8127-8128	]	_	_	_	
+62-52	8134-8136	if	_	_	_	
+62-53	8137-8139	ye	_	_	_	
+62-54	8140-8144	will	_	_	_	
+62-55	8144-8145	,	_	_	_	
+62-56	8146-8150	then	_	_	_	
+62-57	8151-8155	take	_	_	_	
+62-58	8156-8159	and	_	_	_	
+62-59	8160-8166	season	Taste Word	*|*|*	62-60|62-61[45_0]|62-64[46_0]	
+62-60	8167-8169	it	Taste Source	anaphorical	62-2[44_0]	
+62-61	8170-8174	with	Taste Modifier[45]	_	_	
+62-62	8177-8182	suger	Taste Modifier[45]	_	_	
+62-63	8183-8186	and	_	_	_	
+62-64	8187-8192	halfe	Taste Modifier[46]	_	_	
+62-65	8193-8194	a	Taste Modifier[46]	_	_	
+62-66	8195-8199	dish	Taste Modifier[46]	_	_	
+62-67	8200-8202	of	Taste Modifier[46]	_	_	
+62-68	8203-8209	sweete	Taste Modifier[46]|Taste Word[47]|Quality[48]	*|*	62-68[48_47]|62-69[49_47]	
+62-69	8210-8216	butter	Taste Modifier[46]|Taste Source[49]	_	_	
+62-70	8216-8217	,	_	_	_	
+62-71	8218-8219	&	_	_	_	
+62-72	8222-8227	boyle	_	_	_	
+62-73	8228-8232	them	_	_	_	
+62-74	8233-8237	uopn	_	_	_	
+62-75	8238-8239	a	_	_	_	
+62-76	8240-8251	chafingdish	_	_	_	
+62-77	8252-8254	in	_	_	_	
+62-78	8255-8256	a	_	_	_	
+62-79	8257-8263	plater	_	_	_	
+62-80	8263-8264	,	_	_	_	
+62-81	8265-8266	&	_	_	_	
+62-82	8267-8271	cast	_	_	_	
+62-83	8272-8279	biskets	_	_	_	
+62-84	8280-8282	or	_	_	_	
+62-85	8283-8291	cinnamon	_	_	_	
+62-86	8292-8295	and	_	_	_	
+62-87	8296-8302	Ginger	_	_	_	
+62-88	8302-8303	,	_	_	_	
+62-89	8306-8310	upon	_	_	_	
+62-90	8311-8315	them	_	_	_	
+62-91	8315-8316	,	_	_	_	
+62-92	8317-8320	and	_	_	_	
+62-93	8321-8323	so	_	_	_	
+62-94	8324-8329	serve	_	_	_	
+62-95	8330-8334	them	_	_	_	
+62-96	8335-8340	forth	_	_	_	
+62-97	8340-8341	.	_	_	_	
+
+#Text=To fry tripes.
+63-1	8347-8349	To	_	_	_	
+63-2	8350-8353	fry	_	_	_	
+63-3	8354-8360	tripes	_	_	_	
+63-4	8360-8361	.	_	_	_	
+
+#Text=Take your tripes, and cut them in smal 
+#Text= pieces, and put them into a pan, and put 
+#Text= therto an oynion or two, and a dishe of 
+#Text= swete buter, and let them fry till they be 
+#Text= brown, and then take them out & set them 
+#Text= upon a chafingdish, and put therto a litle 
+#Text= veriuyce and ginger, and serve it.
+64-1	8364-8368	Take	_	_	_	
+64-2	8369-8373	your	_	_	_	
+64-3	8374-8380	tripes	_	_	_	
+64-4	8380-8381	,	_	_	_	
+64-5	8382-8385	and	_	_	_	
+64-6	8386-8389	cut	_	_	_	
+64-7	8390-8394	them	_	_	_	
+64-8	8395-8397	in	_	_	_	
+64-9	8398-8402	smal	_	_	_	
+64-10	8405-8411	pieces	_	_	_	
+64-11	8411-8412	,	_	_	_	
+64-12	8413-8416	and	_	_	_	
+64-13	8417-8420	put	_	_	_	
+64-14	8421-8425	them	_	_	_	
+64-15	8426-8430	into	_	_	_	
+64-16	8431-8432	a	_	_	_	
+64-17	8433-8436	pan	_	_	_	
+64-18	8436-8437	,	_	_	_	
+64-19	8438-8441	and	_	_	_	
+64-20	8442-8445	put	_	_	_	
+64-21	8448-8454	therto	_	_	_	
+64-22	8455-8457	an	_	_	_	
+64-23	8458-8464	oynion	_	_	_	
+64-24	8465-8467	or	_	_	_	
+64-25	8468-8471	two	_	_	_	
+64-26	8471-8472	,	_	_	_	
+64-27	8473-8476	and	_	_	_	
+64-28	8477-8478	a	_	_	_	
+64-29	8479-8484	dishe	_	_	_	
+64-30	8485-8487	of	_	_	_	
+64-31	8490-8495	swete	Taste Word[50]|Quality[51]	*|*	64-31[51_50]|64-32[0_50]	
+64-32	8496-8501	buter	Taste Source	_	_	
+64-33	8501-8502	,	_	_	_	
+64-34	8503-8506	and	_	_	_	
+64-35	8507-8510	let	_	_	_	
+64-36	8511-8515	them	_	_	_	
+64-37	8516-8519	fry	_	_	_	
+64-38	8520-8524	till	_	_	_	
+64-39	8525-8529	they	_	_	_	
+64-40	8530-8532	be	_	_	_	
+64-41	8535-8540	brown	_	_	_	
+64-42	8540-8541	,	_	_	_	
+64-43	8542-8545	and	_	_	_	
+64-44	8546-8550	then	_	_	_	
+64-45	8551-8555	take	_	_	_	
+64-46	8556-8560	them	_	_	_	
+64-47	8561-8564	out	_	_	_	
+64-48	8565-8566	&	_	_	_	
+64-49	8567-8570	set	_	_	_	
+64-50	8571-8575	them	_	_	_	
+64-51	8578-8582	upon	_	_	_	
+64-52	8583-8584	a	_	_	_	
+64-53	8585-8596	chafingdish	_	_	_	
+64-54	8596-8597	,	_	_	_	
+64-55	8598-8601	and	_	_	_	
+64-56	8602-8605	put	_	_	_	
+64-57	8606-8612	therto	_	_	_	
+64-58	8613-8614	a	_	_	_	
+64-59	8615-8620	litle	_	_	_	
+64-60	8623-8631	veriuyce	_	_	_	
+64-61	8632-8635	and	_	_	_	
+64-62	8636-8642	ginger	_	_	_	
+64-63	8642-8643	,	_	_	_	
+64-64	8644-8647	and	_	_	_	
+64-65	8648-8653	serve	_	_	_	
+64-66	8654-8656	it	_	_	_	
+64-67	8656-8657	.	_	_	_	
+
+#Text=To make a tart of Prunes.
+65-1	8663-8665	To	_	_	_	
+65-2	8666-8670	make	_	_	_	
+65-3	8671-8672	a	_	_	_	
+65-4	8673-8677	tart	_	_	_	
+65-5	8678-8680	of	_	_	_	
+65-6	8681-8687	Prunes	_	_	_	
+65-7	8687-8688	.	_	_	_	
+
+#Text=Take Prunes and set them up on a cha- 
+#Text= fer with a litle red wine, and put therto 
+#Text= a manchet and let them boyle together 
+#Text= then draw them throw a strainer, with 
+#Text= the yolkes of .iiii. egges, and season it 
+#Text= with suger, and so bake it.
+66-1	8691-8695	Take	_	_	_	
+66-2	8696-8702	Prunes	Taste Source	_	_	
+66-3	8703-8706	and	_	_	_	
+66-4	8707-8710	set	_	_	_	
+66-5	8711-8715	them	_	_	_	
+66-6	8716-8718	up	_	_	_	
+66-7	8719-8721	on	_	_	_	
+66-8	8722-8723	a	_	_	_	
+66-9	8724-8727	cha	_	_	_	
+66-10	8727-8728	-	_	_	_	
+66-11	8731-8734	fer	_	_	_	
+66-12	8735-8739	with	_	_	_	
+66-13	8740-8741	a	_	_	_	
+66-14	8742-8747	litle	_	_	_	
+66-15	8748-8751	red	_	_	_	
+66-16	8752-8756	wine	_	_	_	
+66-17	8756-8757	,	_	_	_	
+66-18	8758-8761	and	_	_	_	
+66-19	8762-8765	put	_	_	_	
+66-20	8766-8772	therto	_	_	_	
+66-21	8775-8776	a	_	_	_	
+66-22	8777-8784	manchet	_	_	_	
+66-23	8785-8788	and	_	_	_	
+66-24	8789-8792	let	_	_	_	
+66-25	8793-8797	them	_	_	_	
+66-26	8798-8803	boyle	_	_	_	
+66-27	8804-8812	together	_	_	_	
+66-28	8815-8819	then	_	_	_	
+66-29	8820-8824	draw	_	_	_	
+66-30	8825-8829	them	_	_	_	
+66-31	8830-8835	throw	_	_	_	
+66-32	8836-8837	a	_	_	_	
+66-33	8838-8846	strainer	_	_	_	
+66-34	8846-8847	,	_	_	_	
+66-35	8848-8852	with	_	_	_	
+66-36	8855-8858	the	_	_	_	
+66-37	8859-8865	yolkes	_	_	_	
+66-38	8866-8868	of	_	_	_	
+66-39	8869-8870	.	_	_	_	
+66-40	8870-8874	iiii	_	_	_	
+66-41	8874-8875	.	_	_	_	
+66-42	8876-8881	egges	_	_	_	
+66-43	8881-8882	,	_	_	_	
+66-44	8883-8886	and	_	_	_	
+66-45	8887-8893	season	Taste Word	*|*	66-46|66-47[52_0]	
+66-46	8894-8896	it	Taste Source	anaphorical	66-2	
+66-47	8899-8903	with	Taste Modifier[52]	_	_	
+66-48	8904-8909	suger	Taste Modifier[52]	_	_	
+66-49	8909-8910	,	_	_	_	
+66-50	8911-8914	and	_	_	_	
+66-51	8915-8917	so	_	_	_	
+66-52	8918-8922	bake	_	_	_	
+66-53	8923-8925	it	_	_	_	
+66-54	8925-8926	.	_	_	_	
+
+#Text=and let it boyle with the Mutton, then 
+#Text= take twelve Egges, and the sayde two 
+#Text= ladels full of broth and veriuice, & strain 
+#Text=  
+#Text= [14v] 
+#Text=  
+#Text= them altogether, then season your broth 
+#Text= with salt, and a litle before you go to 
+#Text= diner, put al these to your Mutton, and 
+#Text= stere it well for quaylynge, and serve it 
+#Text= foorth with soppes.
+67-1	8930-8933	and	_	_	_	
+67-2	8934-8937	let	_	_	_	
+67-3	8938-8940	it	_	_	_	
+67-4	8941-8946	boyle	_	_	_	
+67-5	8947-8951	with	_	_	_	
+67-6	8952-8955	the	_	_	_	
+67-7	8956-8962	Mutton	_	_	_	
+67-8	8962-8963	,	_	_	_	
+67-9	8964-8968	then	_	_	_	
+67-10	8971-8975	take	_	_	_	
+67-11	8976-8982	twelve	_	_	_	
+67-12	8983-8988	Egges	_	_	_	
+67-13	8988-8989	,	_	_	_	
+67-14	8990-8993	and	_	_	_	
+67-15	8994-8997	the	_	_	_	
+67-16	8998-9003	sayde	_	_	_	
+67-17	9004-9007	two	_	_	_	
+67-18	9010-9016	ladels	_	_	_	
+67-19	9017-9021	full	_	_	_	
+67-20	9022-9024	of	_	_	_	
+67-21	9025-9030	broth	_	_	_	
+67-22	9031-9034	and	_	_	_	
+67-23	9035-9043	veriuice	_	_	_	
+67-24	9043-9044	,	_	_	_	
+67-25	9045-9046	&	_	_	_	
+67-26	9047-9053	strain	_	_	_	
+67-27	9059-9060	[	_	_	_	
+67-28	9060-9063	14v	_	_	_	
+67-29	9063-9064	]	_	_	_	
+67-30	9070-9074	them	_	_	_	
+67-31	9075-9085	altogether	_	_	_	
+67-32	9085-9086	,	_	_	_	
+67-33	9087-9091	then	_	_	_	
+67-34	9092-9098	season	Taste Word	*|*|*	67-37[54_0]|67-35[53_0]|67-43[55_0]	
+67-35	9099-9103	your	Taste Source[53]	_	_	
+67-36	9104-9109	broth	Taste Source[53]	_	_	
+67-37	9112-9116	with	Taste Modifier[54]	_	_	
+67-38	9117-9121	salt	Taste Modifier[54]	_	_	
+67-39	9121-9122	,	_	_	_	
+67-40	9123-9126	and	_	_	_	
+67-41	9127-9128	a	_	_	_	
+67-42	9129-9134	litle	_	_	_	
+67-43	9135-9141	before	Circumstance[55]	_	_	
+67-44	9142-9145	you	Circumstance[55]	_	_	
+67-45	9146-9148	go	Circumstance[55]	_	_	
+67-46	9149-9151	to	Circumstance[55]	_	_	
+67-47	9154-9159	diner	Circumstance[55]	_	_	
+67-48	9159-9160	,	_	_	_	
+67-49	9161-9164	put	_	_	_	
+67-50	9165-9167	al	_	_	_	
+67-51	9168-9173	these	_	_	_	
+67-52	9174-9176	to	_	_	_	
+67-53	9177-9181	your	_	_	_	
+67-54	9182-9188	Mutton	_	_	_	
+67-55	9188-9189	,	_	_	_	
+67-56	9190-9193	and	_	_	_	
+67-57	9196-9201	stere	_	_	_	
+67-58	9202-9204	it	_	_	_	
+67-59	9205-9209	well	_	_	_	
+67-60	9210-9213	for	_	_	_	
+67-61	9214-9223	quaylynge	_	_	_	
+67-62	9223-9224	,	_	_	_	
+67-63	9225-9228	and	_	_	_	
+67-64	9229-9234	serve	_	_	_	
+67-65	9235-9237	it	_	_	_	
+67-66	9240-9246	foorth	_	_	_	
+67-67	9247-9251	with	_	_	_	
+67-68	9252-9258	soppes	_	_	_	
+67-69	9258-9259	.	_	_	_	
+
+#Text=An other broth with long wortes.
+68-1	9265-9267	An	_	_	_	
+68-2	9268-9273	other	_	_	_	
+68-3	9274-9279	broth	_	_	_	
+68-4	9280-9284	with	_	_	_	
+68-5	9285-9289	long	_	_	_	
+68-6	9290-9296	wortes	_	_	_	
+68-7	9296-9297	.	_	_	_	
+
+#Text=Take mutton and fayre water, and let 
+#Text= them boile upon the fire, and then take 
+#Text= lettuce or spinege, and put thereto, and 
+#Text= if ye list to boyle therewith two or three 
+#Text= chickens, and put thereto salt & veriuyce 
+#Text= after your discreation and serve them 
+#Text= forth, the flesh under, the herbes above.
+#Text=or teales, Fesand, patriche, or suche o- 
+#Text= ther wild foules, and let them boyle allto- 
+#Text= gether, then season them with Salte, 
+#Text= and serve them forth.
+69-1	9300-9304	Take	_	_	_	
+69-2	9305-9311	mutton	Taste Source[56]	_	_	
+69-3	9312-9315	and	Taste Source[56]	_	_	
+69-4	9316-9321	fayre	Taste Source[56]	_	_	
+69-5	9322-9327	water	Taste Source[56]	_	_	
+69-6	9327-9328	,	_	_	_	
+69-7	9329-9332	and	_	_	_	
+69-8	9333-9336	let	_	_	_	
+69-9	9339-9343	them	_	_	_	
+69-10	9344-9349	boile	_	_	_	
+69-11	9350-9354	upon	_	_	_	
+69-12	9355-9358	the	_	_	_	
+69-13	9359-9363	fire	_	_	_	
+69-14	9363-9364	,	_	_	_	
+69-15	9365-9368	and	_	_	_	
+69-16	9369-9373	then	_	_	_	
+69-17	9374-9378	take	_	_	_	
+69-18	9381-9388	lettuce	_	_	_	
+69-19	9389-9391	or	_	_	_	
+69-20	9392-9399	spinege	_	_	_	
+69-21	9399-9400	,	_	_	_	
+69-22	9401-9404	and	_	_	_	
+69-23	9405-9408	put	_	_	_	
+69-24	9409-9416	thereto	_	_	_	
+69-25	9416-9417	,	_	_	_	
+69-26	9418-9421	and	_	_	_	
+69-27	9424-9426	if	_	_	_	
+69-28	9427-9429	ye	_	_	_	
+69-29	9430-9434	list	_	_	_	
+69-30	9435-9437	to	_	_	_	
+69-31	9438-9443	boyle	_	_	_	
+69-32	9444-9453	therewith	_	_	_	
+69-33	9454-9457	two	_	_	_	
+69-34	9458-9460	or	_	_	_	
+69-35	9461-9466	three	_	_	_	
+69-36	9469-9477	chickens	_	_	_	
+69-37	9477-9478	,	_	_	_	
+69-38	9479-9482	and	_	_	_	
+69-39	9483-9486	put	_	_	_	
+69-40	9487-9494	thereto	_	_	_	
+69-41	9495-9499	salt	_	_	_	
+69-42	9500-9501	&	_	_	_	
+69-43	9502-9510	veriuyce	_	_	_	
+69-44	9513-9518	after	_	_	_	
+69-45	9519-9523	your	_	_	_	
+69-46	9524-9535	discreation	_	_	_	
+69-47	9536-9539	and	_	_	_	
+69-48	9540-9545	serve	_	_	_	
+69-49	9546-9550	them	_	_	_	
+69-50	9553-9558	forth	_	_	_	
+69-51	9558-9559	,	_	_	_	
+69-52	9560-9563	the	_	_	_	
+69-53	9564-9569	flesh	_	_	_	
+69-54	9570-9575	under	_	_	_	
+69-55	9575-9576	,	_	_	_	
+69-56	9577-9580	the	_	_	_	
+69-57	9581-9587	herbes	_	_	_	
+69-58	9588-9593	above	_	_	_	
+69-59	9593-9594	.	_	_	_	
+69-60	9595-9597	or	_	_	_	
+69-61	9598-9604	teales	_	_	_	
+69-62	9604-9605	,	_	_	_	
+69-63	9606-9612	Fesand	_	_	_	
+69-64	9612-9613	,	_	_	_	
+69-65	9614-9622	patriche	_	_	_	
+69-66	9622-9623	,	_	_	_	
+69-67	9624-9626	or	_	_	_	
+69-68	9627-9632	suche	_	_	_	
+69-69	9633-9634	o	_	_	_	
+69-70	9634-9635	-	_	_	_	
+69-71	9638-9642	ther	_	_	_	
+69-72	9643-9647	wild	_	_	_	
+69-73	9648-9654	foules	_	_	_	
+69-74	9654-9655	,	_	_	_	
+69-75	9656-9659	and	_	_	_	
+69-76	9660-9663	let	_	_	_	
+69-77	9664-9668	them	_	_	_	
+69-78	9669-9674	boyle	_	_	_	
+69-79	9675-9680	allto	_	_	_	
+69-80	9680-9681	-	_	_	_	
+69-81	9684-9690	gether	_	_	_	
+69-82	9690-9691	,	_	_	_	
+69-83	9692-9696	then	_	_	_	
+69-84	9697-9703	season	Taste Word	*|*	69-86[57_0]|69-85	
+69-85	9704-9708	them	Taste Source	anaphorical	69-2[56_0]	
+69-86	9709-9713	with	Taste Modifier[57]	_	_	
+69-87	9714-9719	Salte	Taste Modifier[57]	_	_	
+69-88	9719-9720	,	_	_	_	
+69-89	9723-9726	and	_	_	_	
+69-90	9727-9732	serve	_	_	_	
+69-91	9733-9737	them	_	_	_	
+69-92	9738-9743	forth	_	_	_	
+69-93	9743-9744	.	_	_	_	
+
+#Text=To make Porraie.
+70-1	9750-9752	To	_	_	_	
+70-2	9753-9757	make	_	_	_	
+70-3	9758-9765	Porraie	_	_	_	
+70-4	9765-9766	.	_	_	_	
+
+#Text=Take a capon or a hen, and either bief 
+#Text= ir Mutton to make the brothe sweete 
+#Text= withall, and boyle them all together till 
+#Text= they be very tender, then take the capon 
+#Text= or Hen out of the pot & take out all his 
+#Text= bones, and bray him in a morter, with 
+#Text= ii. pounde of Almondes over blaunched, 
+#Text= then with the brothe of your Capon or 
+#Text= Hen straine them metely thick, then put 
+#Text= it in a little potte, and season it with a 
+#Text= little Suger, Sanders, Cloves, Mace, 
+#Text= and small raisins, so boile him and serve 
+#Text= him upon soppes.
+71-1	9769-9773	Take	_	_	_	
+71-2	9774-9775	a	Taste Source[58]	_	_	
+71-3	9776-9781	capon	Taste Source[58]	_	_	
+71-4	9782-9784	or	_	_	_	
+71-5	9785-9786	a	Taste Source[59]	_	_	
+71-6	9787-9790	hen	Taste Source[59]	_	_	
+71-7	9790-9791	,	_	_	_	
+71-8	9792-9795	and	_	_	_	
+71-9	9796-9802	either	_	_	_	
+71-10	9803-9807	bief	_	_	_	
+71-11	9810-9812	ir	_	_	_	
+71-12	9813-9819	Mutton	_	_	_	
+71-13	9820-9822	to	_	_	_	
+71-14	9823-9827	make	_	_	_	
+71-15	9828-9831	the	Taste Source[60]	_	_	
+71-16	9832-9838	brothe	Taste Source[60]	_	_	
+71-17	9839-9845	sweete	Taste Word[61]|Quality[62]	*|*	71-17[62_61]|71-15[60_61]	
+71-18	9848-9855	withall	_	_	_	
+71-19	9855-9856	,	_	_	_	
+71-20	9857-9860	and	_	_	_	
+71-21	9861-9866	boyle	_	_	_	
+71-22	9867-9871	them	_	_	_	
+71-23	9872-9875	all	_	_	_	
+71-24	9876-9884	together	_	_	_	
+71-25	9885-9889	till	_	_	_	
+71-26	9892-9896	they	_	_	_	
+71-27	9897-9899	be	_	_	_	
+71-28	9900-9904	very	_	_	_	
+71-29	9905-9911	tender	_	_	_	
+71-30	9911-9912	,	_	_	_	
+71-31	9913-9917	then	_	_	_	
+71-32	9918-9922	take	_	_	_	
+71-33	9923-9926	the	_	_	_	
+71-34	9927-9932	capon	_	_	_	
+71-35	9935-9937	or	_	_	_	
+71-36	9938-9941	Hen	_	_	_	
+71-37	9942-9945	out	_	_	_	
+71-38	9946-9948	of	_	_	_	
+71-39	9949-9952	the	_	_	_	
+71-40	9953-9956	pot	_	_	_	
+71-41	9957-9958	&	_	_	_	
+71-42	9959-9963	take	_	_	_	
+71-43	9964-9967	out	_	_	_	
+71-44	9968-9971	all	_	_	_	
+71-45	9972-9975	his	_	_	_	
+71-46	9978-9983	bones	_	_	_	
+71-47	9983-9984	,	_	_	_	
+71-48	9985-9988	and	_	_	_	
+71-49	9989-9993	bray	_	_	_	
+71-50	9994-9997	him	_	_	_	
+71-51	9998-10000	in	_	_	_	
+71-52	10001-10002	a	_	_	_	
+71-53	10003-10009	morter	_	_	_	
+71-54	10009-10010	,	_	_	_	
+71-55	10011-10015	with	_	_	_	
+71-56	10018-10020	ii	_	_	_	
+71-57	10020-10021	.	_	_	_	
+71-58	10022-10028	pounde	_	_	_	
+71-59	10029-10031	of	_	_	_	
+71-60	10032-10040	Almondes	_	_	_	
+71-61	10041-10045	over	_	_	_	
+71-62	10046-10055	blaunched	_	_	_	
+71-63	10055-10056	,	_	_	_	
+71-64	10059-10063	then	_	_	_	
+71-65	10064-10068	with	_	_	_	
+71-66	10069-10072	the	_	_	_	
+71-67	10073-10079	brothe	_	_	_	
+71-68	10080-10082	of	_	_	_	
+71-69	10083-10087	your	_	_	_	
+71-70	10088-10093	Capon	_	_	_	
+71-71	10094-10096	or	_	_	_	
+71-72	10099-10102	Hen	_	_	_	
+71-73	10103-10110	straine	_	_	_	
+71-74	10111-10115	them	_	_	_	
+71-75	10116-10122	metely	_	_	_	
+71-76	10123-10128	thick	_	_	_	
+71-77	10128-10129	,	_	_	_	
+71-78	10130-10134	then	_	_	_	
+71-79	10135-10138	put	_	_	_	
+71-80	10141-10143	it	_	_	_	
+71-81	10144-10146	in	_	_	_	
+71-82	10147-10148	a	_	_	_	
+71-83	10149-10155	little	_	_	_	
+71-84	10156-10161	potte	_	_	_	
+71-85	10161-10162	,	_	_	_	
+71-86	10163-10166	and	_	_	_	
+71-87	10167-10173	season	Taste Word	*|*|*|*|*|*	71-88|71-101[64_0]|71-98|71-96|71-94|71-89[63_0]	
+71-88	10174-10176	it	Taste Source	anaphorical|anaphorical	71-2[58_0]|71-5[59_0]	
+71-89	10177-10181	with	Taste Modifier[63]	_	_	
+71-90	10182-10183	a	Taste Modifier[63]	_	_	
+71-91	10186-10192	little	Taste Modifier[63]	_	_	
+71-92	10193-10198	Suger	Taste Modifier[63]	_	_	
+71-93	10198-10199	,	_	_	_	
+71-94	10200-10207	Sanders	Taste Modifier	_	_	
+71-95	10207-10208	,	_	_	_	
+71-96	10209-10215	Cloves	Taste Modifier	_	_	
+71-97	10215-10216	,	_	_	_	
+71-98	10217-10221	Mace	Taste Modifier	_	_	
+71-99	10221-10222	,	_	_	_	
+71-100	10225-10228	and	_	_	_	
+71-101	10229-10234	small	Taste Modifier[64]	_	_	
+71-102	10235-10242	raisins	Taste Modifier[64]	_	_	
+71-103	10242-10243	,	_	_	_	
+71-104	10244-10246	so	_	_	_	
+71-105	10247-10252	boile	_	_	_	
+71-106	10253-10256	him	_	_	_	
+71-107	10257-10260	and	_	_	_	
+71-108	10261-10266	serve	_	_	_	
+71-109	10269-10272	him	_	_	_	
+71-110	10273-10277	upon	_	_	_	
+71-111	10278-10284	soppes	_	_	_	
+71-112	10284-10285	.	_	_	_	
+
+#Text=To stew bones or gristles of Biefe.
+72-1	10289-10291	To	_	_	_	
+72-2	10292-10296	stew	_	_	_	
+72-3	10297-10302	bones	_	_	_	
+72-4	10303-10305	or	_	_	_	
+72-5	10306-10314	gristles	_	_	_	
+72-6	10315-10317	of	_	_	_	
+72-7	10318-10323	Biefe	_	_	_	
+72-8	10323-10324	.	_	_	_	
+
+#Text=Take gristles of biefe, and stew them 
+#Text= as tender as ye can, sixe houres so that 
+#Text= there be no broth lefte that shall serve 
+#Text=  
+#Text= [15v] 
+#Text=  
+#Text= you as that tyme, than put a good bun- 
+#Text= del of rosemary in a fayrelinnen cloth 
+#Text= and a good quantitye of Mace in another 
+#Text= cloth, and boyle them altogether, then 
+#Text= wringe out the iuyce of the Rosemary 
+#Text= and mace, upon the flesh and season it 
+#Text= with salt, and so serve [him?].
+73-1	10327-10331	Take	_	_	_	
+73-2	10332-10340	gristles	Taste Source[65]	_	_	
+73-3	10341-10343	of	Taste Source[65]	_	_	
+73-4	10344-10349	biefe	Taste Source[65]	_	_	
+73-5	10349-10350	,	_	_	_	
+73-6	10351-10354	and	_	_	_	
+73-7	10355-10359	stew	_	_	_	
+73-8	10360-10364	them	_	_	_	
+73-9	10367-10369	as	_	_	_	
+73-10	10370-10376	tender	_	_	_	
+73-11	10377-10379	as	_	_	_	
+73-12	10380-10382	ye	_	_	_	
+73-13	10383-10386	can	_	_	_	
+73-14	10386-10387	,	_	_	_	
+73-15	10388-10392	sixe	_	_	_	
+73-16	10393-10399	houres	_	_	_	
+73-17	10400-10402	so	_	_	_	
+73-18	10403-10407	that	_	_	_	
+73-19	10410-10415	there	_	_	_	
+73-20	10416-10418	be	_	_	_	
+73-21	10419-10421	no	_	_	_	
+73-22	10422-10427	broth	_	_	_	
+73-23	10428-10433	lefte	_	_	_	
+73-24	10434-10438	that	_	_	_	
+73-25	10439-10444	shall	_	_	_	
+73-26	10445-10450	serve	_	_	_	
+73-27	10456-10457	[	_	_	_	
+73-28	10457-10460	15v	_	_	_	
+73-29	10460-10461	]	_	_	_	
+73-30	10467-10470	you	_	_	_	
+73-31	10471-10473	as	_	_	_	
+73-32	10474-10478	that	_	_	_	
+73-33	10479-10483	tyme	_	_	_	
+73-34	10483-10484	,	_	_	_	
+73-35	10485-10489	than	_	_	_	
+73-36	10490-10493	put	_	_	_	
+73-37	10494-10495	a	_	_	_	
+73-38	10496-10500	good	_	_	_	
+73-39	10501-10504	bun	_	_	_	
+73-40	10504-10505	-	_	_	_	
+73-41	10508-10511	del	_	_	_	
+73-42	10512-10514	of	_	_	_	
+73-43	10515-10523	rosemary	_	_	_	
+73-44	10524-10526	in	_	_	_	
+73-45	10527-10528	a	_	_	_	
+73-46	10529-10540	fayrelinnen	_	_	_	
+73-47	10541-10546	cloth	_	_	_	
+73-48	10549-10552	and	_	_	_	
+73-49	10553-10554	a	_	_	_	
+73-50	10555-10559	good	_	_	_	
+73-51	10560-10569	quantitye	_	_	_	
+73-52	10570-10572	of	_	_	_	
+73-53	10573-10577	Mace	_	_	_	
+73-54	10578-10580	in	_	_	_	
+73-55	10581-10588	another	_	_	_	
+73-56	10591-10596	cloth	_	_	_	
+73-57	10596-10597	,	_	_	_	
+73-58	10598-10601	and	_	_	_	
+73-59	10602-10607	boyle	_	_	_	
+73-60	10608-10612	them	_	_	_	
+73-61	10613-10623	altogether	_	_	_	
+73-62	10623-10624	,	_	_	_	
+73-63	10625-10629	then	_	_	_	
+73-64	10632-10638	wringe	_	_	_	
+73-65	10639-10642	out	_	_	_	
+73-66	10643-10646	the	_	_	_	
+73-67	10647-10652	iuyce	_	_	_	
+73-68	10653-10655	of	_	_	_	
+73-69	10656-10659	the	_	_	_	
+73-70	10660-10668	Rosemary	_	_	_	
+73-71	10671-10674	and	_	_	_	
+73-72	10675-10679	mace	_	_	_	
+73-73	10679-10680	,	_	_	_	
+73-74	10681-10685	upon	_	_	_	
+73-75	10686-10689	the	_	_	_	
+73-76	10690-10695	flesh	_	_	_	
+73-77	10696-10699	and	_	_	_	
+73-78	10700-10706	season	Taste Word	*|*	73-80[66_0]|73-79	
+73-79	10707-10709	it	Taste Source	anaphorical	73-2[65_0]	
+73-80	10712-10716	with	Taste Modifier[66]	_	_	
+73-81	10717-10721	salt	Taste Modifier[66]	_	_	
+73-82	10721-10722	,	_	_	_	
+73-83	10723-10726	and	_	_	_	
+73-84	10727-10729	so	_	_	_	
+73-85	10730-10735	serve	_	_	_	
+73-86	10736-10737	[	_	_	_	
+73-87	10737-10740	him	_	_	_	
+73-88	10740-10741	?	_	_	_	
+73-89	10741-10742	]	_	_	_	
+73-90	10742-10743	.	_	_	_	
+
+#Text=For to stewe Mutton.
+74-1	10749-10752	For	_	_	_	
+74-2	10753-10755	to	_	_	_	
+74-3	10756-10761	stewe	_	_	_	
+74-4	10762-10768	Mutton	_	_	_	
+74-5	10768-10769	.	_	_	_	
+
+#Text=Take a necke of Mutton and a brest to 
+#Text= make the broth Stronge, and then scum 
+#Text= it cleane, and when it hath boyled a 
+#Text= while, take part of the broth, and put it
+75-1	10772-10776	Take	_	_	_	
+75-2	10777-10778	a	_	_	_	
+75-3	10779-10784	necke	_	_	_	
+75-4	10785-10787	of	_	_	_	
+75-5	10788-10794	Mutton	_	_	_	
+75-6	10795-10798	and	_	_	_	
+75-7	10799-10800	a	_	_	_	
+75-8	10801-10806	brest	_	_	_	
+75-9	10807-10809	to	_	_	_	
+75-10	10812-10816	make	_	_	_	
+75-11	10817-10820	the	_	_	_	
+75-12	10821-10826	broth	_	_	_	
+75-13	10827-10834	Stronge	_	_	_	
+75-14	10834-10835	,	_	_	_	
+75-15	10836-10839	and	_	_	_	
+75-16	10840-10844	then	_	_	_	
+75-17	10845-10849	scum	_	_	_	
+75-18	10852-10854	it	_	_	_	
+75-19	10855-10861	cleane	_	_	_	
+75-20	10861-10862	,	_	_	_	
+75-21	10863-10866	and	_	_	_	
+75-22	10867-10871	when	_	_	_	
+75-23	10872-10874	it	_	_	_	
+75-24	10875-10879	hath	_	_	_	
+75-25	10880-10886	boyled	_	_	_	
+75-26	10887-10888	a	_	_	_	
+75-27	10891-10896	while	_	_	_	
+75-28	10896-10897	,	_	_	_	
+75-29	10898-10902	take	_	_	_	
+75-30	10903-10907	part	_	_	_	
+75-31	10908-10910	of	_	_	_	
+75-32	10911-10914	the	_	_	_	
+75-33	10915-10920	broth	_	_	_	
+75-34	10920-10921	,	_	_	_	
+75-35	10922-10925	and	_	_	_	
+75-36	10926-10929	put	_	_	_	
+75-37	10930-10932	it	_	_	_	

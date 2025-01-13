@@ -1,0 +1,4636 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+#T_RL=custom.Relation|label|BT_custom.Span
+
+
+#Text=Cedar.
+1-1	3-8	Cedar	_	_	_	
+1-2	8-9	.	_	_	_	
+
+#Text=A very sweet wood, and fine timber, whereof if nests of chests be 
+#Text= there made, or timber thereof fitted for sweet and fine bedsteds, tables, 
+#Text= desks, lutes, virginals, and many things els, (of which there hath bene 
+#Text= proofe made already) to make vp fraight with other principall commodities, 
+#Text= will yeeld profit.
+2-1	10-11	A	_	_	_	
+2-2	12-16	very	_	_	_	
+2-3	17-22	sweet	_	_	_	
+2-4	23-27	wood	_	_	_	
+2-5	27-28	,	_	_	_	
+2-6	29-32	and	_	_	_	
+2-7	33-37	fine	_	_	_	
+2-8	38-44	timber	_	_	_	
+2-9	44-45	,	_	_	_	
+2-10	46-53	whereof	_	_	_	
+2-11	54-56	if	_	_	_	
+2-12	57-62	nests	_	_	_	
+2-13	63-65	of	_	_	_	
+2-14	66-72	chests	_	_	_	
+2-15	73-75	be	_	_	_	
+2-16	78-83	there	_	_	_	
+2-17	84-88	made	_	_	_	
+2-18	88-89	,	_	_	_	
+2-19	90-92	or	_	_	_	
+2-20	93-99	timber	_	_	_	
+2-21	100-107	thereof	_	_	_	
+2-22	108-114	fitted	_	_	_	
+2-23	115-118	for	_	_	_	
+2-24	119-124	sweet	_	_	_	
+2-25	125-128	and	_	_	_	
+2-26	129-133	fine	_	_	_	
+2-27	134-142	bedsteds	_	_	_	
+2-28	142-143	,	_	_	_	
+2-29	144-150	tables	_	_	_	
+2-30	150-151	,	_	_	_	
+2-31	154-159	desks	_	_	_	
+2-32	159-160	,	_	_	_	
+2-33	161-166	lutes	_	_	_	
+2-34	166-167	,	_	_	_	
+2-35	168-177	virginals	_	_	_	
+2-36	177-178	,	_	_	_	
+2-37	179-182	and	_	_	_	
+2-38	183-187	many	_	_	_	
+2-39	188-194	things	_	_	_	
+2-40	195-198	els	_	_	_	
+2-41	198-199	,	_	_	_	
+2-42	200-201	(	_	_	_	
+2-43	201-203	of	_	_	_	
+2-44	204-209	which	_	_	_	
+2-45	210-215	there	_	_	_	
+2-46	216-220	hath	_	_	_	
+2-47	221-225	bene	_	_	_	
+2-48	228-234	proofe	_	_	_	
+2-49	235-239	made	_	_	_	
+2-50	240-247	already	_	_	_	
+2-51	247-248	)	_	_	_	
+2-52	249-251	to	_	_	_	
+2-53	252-256	make	_	_	_	
+2-54	257-259	vp	_	_	_	
+2-55	260-267	fraight	_	_	_	
+2-56	268-272	with	_	_	_	
+2-57	273-278	other	_	_	_	
+2-58	279-289	principall	_	_	_	
+2-59	290-301	commodities	_	_	_	
+2-60	301-302	,	_	_	_	
+2-61	305-309	will	_	_	_	
+2-62	310-315	yeeld	_	_	_	
+2-63	316-322	profit	_	_	_	
+2-64	322-323	.	_	_	_	
+
+#Text=Wine.
+3-1	329-333	Wine	_	_	_	
+3-2	333-334	.	_	_	_	
+
+#Text=There are two kindes of grapes that the soile doth yeeld naturally, 
+#Text= the one is small and sowre, of the ordinary bignesse as ours in England, 
+#Text= the other farre greater and of himselfe lushious sweet.
+4-1	335-340	There	_	_	_	
+4-2	341-344	are	_	_	_	
+4-3	345-348	two	_	_	_	
+4-4	349-355	kindes	_	_	_	
+4-5	356-358	of	_	_	_	
+4-6	359-365	grapes	Taste Source	_	_	
+4-7	366-370	that	Circumstance[1]	_	_	
+4-8	371-374	the	Circumstance[1]	_	_	
+4-9	375-380	soile	Circumstance[1]	_	_	
+4-10	381-385	doth	Circumstance[1]	_	_	
+4-11	386-391	yeeld	Circumstance[1]	_	_	
+4-12	392-401	naturally	Circumstance[1]	_	_	
+4-13	401-402	,	_	_	_	
+4-14	405-408	the	Taste Source[2]	anaphorical	4-6[0_2]	
+4-15	409-412	one	Taste Source[2]	_	_	
+4-16	413-415	is	_	_	_	
+4-17	416-421	small	_	_	_	
+4-18	422-425	and	_	_	_	
+4-19	426-431	sowre	Taste Word[3]|Quality[4]	*|*|*|*	4-7[1_3]|4-19[4_3]|4-27[5_3]|4-14[2_3]	
+4-20	431-432	,	_	_	_	
+4-21	433-435	of	_	_	_	
+4-22	436-439	the	_	_	_	
+4-23	440-448	ordinary	_	_	_	
+4-24	449-457	bignesse	_	_	_	
+4-25	458-460	as	_	_	_	
+4-26	461-465	ours	_	_	_	
+4-27	466-468	in	Location[5]	_	_	
+4-28	469-476	England	Location[5]	_	_	
+4-29	476-477	,	_	_	_	
+4-30	480-483	the	Taste Source[6]	anaphorical	4-6[0_6]	
+4-31	484-489	other	Taste Source[6]	_	_	
+4-32	490-495	farre	_	_	_	
+4-33	496-503	greater	_	_	_	
+4-34	504-507	and	_	_	_	
+4-35	508-510	of	_	_	_	
+4-36	511-519	himselfe	_	_	_	
+4-37	520-528	lushious	Quality	_	_	
+4-38	529-534	sweet	Taste Word[7]|Quality[8]	*|*	4-38[8_7]|4-37[0_7]	
+4-39	534-535	.	_	_	_	
+
+#Text=When they are 
+#Text= planted and husbanded as they ought, a principall commodity of wines by 
+#Text= them may be raised.
+5-1	536-540	When	_	_	_	
+5-2	541-545	they	_	_	_	
+5-3	546-549	are	_	_	_	
+5-4	552-559	planted	_	_	_	
+5-5	560-563	and	_	_	_	
+5-6	564-573	husbanded	_	_	_	
+5-7	574-576	as	_	_	_	
+5-8	577-581	they	_	_	_	
+5-9	582-587	ought	_	_	_	
+5-10	587-588	,	_	_	_	
+5-11	589-590	a	_	_	_	
+5-12	591-601	principall	_	_	_	
+5-13	602-611	commodity	_	_	_	
+5-14	612-614	of	_	_	_	
+5-15	615-620	wines	_	_	_	
+5-16	621-623	by	_	_	_	
+5-17	626-630	them	_	_	_	
+5-18	631-634	may	_	_	_	
+5-19	635-637	be	_	_	_	
+5-20	638-644	raised	_	_	_	
+5-21	644-645	.	_	_	_	
+
+#Text=Oile.
+6-1	651-655	Oile	_	_	_	
+6-2	655-656	.	_	_	_	
+
+#Text=There are two sorts of Walnuts, both holding oile; but the one farre 
+#Text= more plentifull then the other.
+7-1	657-662	There	_	_	_	
+7-2	663-666	are	_	_	_	
+7-3	667-670	two	_	_	_	
+7-4	671-676	sorts	_	_	_	
+7-5	677-679	of	_	_	_	
+7-6	680-687	Walnuts	_	_	_	
+7-7	687-688	,	_	_	_	
+7-8	689-693	both	_	_	_	
+7-9	694-701	holding	_	_	_	
+7-10	702-706	oile	_	_	_	
+7-11	706-707	;	_	_	_	
+7-12	708-711	but	_	_	_	
+7-13	712-715	the	_	_	_	
+7-14	716-719	one	_	_	_	
+7-15	720-725	farre	_	_	_	
+7-16	728-732	more	_	_	_	
+7-17	733-743	plentifull	_	_	_	
+7-18	744-748	then	_	_	_	
+7-19	749-752	the	_	_	_	
+7-20	753-758	other	_	_	_	
+7-21	758-759	.	_	_	_	
+
+#Text=When there are mils and other deuices for 
+#Text= the purpose, a commodity of them may be raised, because there are infinite 
+#Text= store.
+8-1	760-764	When	_	_	_	
+8-2	765-770	there	_	_	_	
+8-3	771-774	are	_	_	_	
+8-4	775-779	mils	_	_	_	
+8-5	780-783	and	_	_	_	
+8-6	784-789	other	_	_	_	
+8-7	790-797	deuices	_	_	_	
+8-8	798-801	for	_	_	_	
+8-9	804-807	the	_	_	_	
+8-10	808-815	purpose	_	_	_	
+8-11	815-816	,	_	_	_	
+8-12	817-818	a	_	_	_	
+8-13	819-828	commodity	_	_	_	
+8-14	829-831	of	_	_	_	
+8-15	832-836	them	_	_	_	
+8-16	837-840	may	_	_	_	
+8-17	841-843	be	_	_	_	
+8-18	844-850	raised	_	_	_	
+8-19	850-851	,	_	_	_	
+8-20	852-859	because	_	_	_	
+8-21	860-865	there	_	_	_	
+8-22	866-869	are	_	_	_	
+8-23	870-878	infinite	_	_	_	
+8-24	881-886	store	_	_	_	
+8-25	886-887	.	_	_	_	
+
+#Text=There are also three seuerall kindes of berries in the forme of 
+#Text= Oke-akornes, which also by the experience and vse of the inhabitants, we 
+#Text= find to yeeld very good and sweet oile.
+9-1	888-893	There	_	_	_	
+9-2	894-897	are	_	_	_	
+9-3	898-902	also	_	_	_	
+9-4	903-908	three	_	_	_	
+9-5	909-917	seuerall	_	_	_	
+9-6	918-924	kindes	_	_	_	
+9-7	925-927	of	_	_	_	
+9-8	928-935	berries	_	_	_	
+9-9	936-938	in	_	_	_	
+9-10	939-942	the	_	_	_	
+9-11	943-948	forme	_	_	_	
+9-12	949-951	of	_	_	_	
+9-13	954-965	Oke-akornes	_	_	_	
+9-14	965-966	,	_	_	_	
+9-15	967-972	which	_	_	_	
+9-16	973-977	also	_	_	_	
+9-17	978-980	by	_	_	_	
+9-18	981-984	the	_	_	_	
+9-19	985-995	experience	_	_	_	
+9-20	996-999	and	_	_	_	
+9-21	1000-1003	vse	_	_	_	
+9-22	1004-1006	of	_	_	_	
+9-23	1007-1010	the	_	_	_	
+9-24	1011-1022	inhabitants	_	_	_	
+9-25	1022-1023	,	_	_	_	
+9-26	1024-1026	we	_	_	_	
+9-27	1029-1033	find	_	_	_	
+9-28	1034-1036	to	_	_	_	
+9-29	1037-1042	yeeld	_	_	_	
+9-30	1043-1047	very	_	_	_	
+9-31	1048-1052	good	_	_	_	
+9-32	1053-1056	and	_	_	_	
+9-33	1057-1062	sweet	Taste Word[9]|Quality[10]	*|*	9-33[10_9]|9-34[0_9]	
+9-34	1063-1067	oile	Taste Source	_	_	
+9-35	1067-1068	.	_	_	_	
+
+#Text=Furthermore, the beares of the 
+#Text= countrey are commonly very fat, and in some places there are many.
+10-1	1069-1080	Furthermore	_	_	_	
+10-2	1080-1081	,	_	_	_	
+10-3	1082-1085	the	_	_	_	
+10-4	1086-1092	beares	_	_	_	
+10-5	1093-1095	of	_	_	_	
+10-6	1096-1099	the	_	_	_	
+10-7	1102-1110	countrey	_	_	_	
+10-8	1111-1114	are	_	_	_	
+10-9	1115-1123	commonly	_	_	_	
+10-10	1124-1128	very	_	_	_	
+10-11	1129-1132	fat	_	_	_	
+10-12	1132-1133	,	_	_	_	
+10-13	1134-1137	and	_	_	_	
+10-14	1138-1140	in	_	_	_	
+10-15	1141-1145	some	_	_	_	
+10-16	1146-1152	places	_	_	_	
+10-17	1153-1158	there	_	_	_	
+10-18	1159-1162	are	_	_	_	
+10-19	1163-1167	many	_	_	_	
+10-20	1167-1168	.	_	_	_	
+
+#Text=Their
+#Text=others then welwillers might be there withall acquainted, not to the good 
+#Text= of the action, I haue wittingly omitted them: knowing that to those that 
+#Text= are well disposed, I haue vttered, according to my promise and purpose, 
+#Text= for this part sufficient.
+11-1	1169-1174	Their	_	_	_	
+11-2	1175-1181	others	_	_	_	
+11-3	1182-1186	then	_	_	_	
+11-4	1187-1197	welwillers	_	_	_	
+11-5	1198-1203	might	_	_	_	
+11-6	1204-1206	be	_	_	_	
+11-7	1207-1212	there	_	_	_	
+11-8	1213-1220	withall	_	_	_	
+11-9	1221-1231	acquainted	_	_	_	
+11-10	1231-1232	,	_	_	_	
+11-11	1233-1236	not	_	_	_	
+11-12	1237-1239	to	_	_	_	
+11-13	1240-1243	the	_	_	_	
+11-14	1244-1248	good	_	_	_	
+11-15	1251-1253	of	_	_	_	
+11-16	1254-1257	the	_	_	_	
+11-17	1258-1264	action	_	_	_	
+11-18	1264-1265	,	_	_	_	
+11-19	1266-1267	I	_	_	_	
+11-20	1268-1272	haue	_	_	_	
+11-21	1273-1282	wittingly	_	_	_	
+11-22	1283-1290	omitted	_	_	_	
+11-23	1291-1295	them	_	_	_	
+11-24	1295-1296	:	_	_	_	
+11-25	1297-1304	knowing	_	_	_	
+11-26	1305-1309	that	_	_	_	
+11-27	1310-1312	to	_	_	_	
+11-28	1313-1318	those	_	_	_	
+11-29	1319-1323	that	_	_	_	
+11-30	1326-1329	are	_	_	_	
+11-31	1330-1334	well	_	_	_	
+11-32	1335-1343	disposed	_	_	_	
+11-33	1343-1344	,	_	_	_	
+11-34	1345-1346	I	_	_	_	
+11-35	1347-1351	haue	_	_	_	
+11-36	1352-1359	vttered	_	_	_	
+11-37	1359-1360	,	_	_	_	
+11-38	1361-1370	according	_	_	_	
+11-39	1371-1373	to	_	_	_	
+11-40	1374-1376	my	_	_	_	
+11-41	1377-1384	promise	_	_	_	
+11-42	1385-1388	and	_	_	_	
+11-43	1389-1396	purpose	_	_	_	
+11-44	1396-1397	,	_	_	_	
+11-45	1400-1403	for	_	_	_	
+11-46	1404-1408	this	_	_	_	
+11-47	1409-1413	part	_	_	_	
+11-48	1414-1424	sufficient	_	_	_	
+11-49	1424-1425	.	_	_	_	
+
+#Text=The second part of such commodities as Virginia is knowen to yeeld for 
+#Text= victuall and sustenance of mans life, vsually fed vpon by the naturall 
+#Text= inhabitants; as also by vs, during the time of our abode: and first of 
+#Text= such as are sowed and husbanded.
+12-1	1437-1440	The	_	_	_	
+12-2	1441-1447	second	_	_	_	
+12-3	1448-1452	part	_	_	_	
+12-4	1453-1455	of	_	_	_	
+12-5	1456-1460	such	_	_	_	
+12-6	1461-1472	commodities	_	_	_	
+12-7	1473-1475	as	_	_	_	
+12-8	1476-1484	Virginia	_	_	_	
+12-9	1485-1487	is	_	_	_	
+12-10	1488-1494	knowen	_	_	_	
+12-11	1495-1497	to	_	_	_	
+12-12	1498-1503	yeeld	_	_	_	
+12-13	1504-1507	for	_	_	_	
+12-14	1510-1518	victuall	_	_	_	
+12-15	1519-1522	and	_	_	_	
+12-16	1523-1533	sustenance	_	_	_	
+12-17	1534-1536	of	_	_	_	
+12-18	1537-1541	mans	_	_	_	
+12-19	1542-1546	life	_	_	_	
+12-20	1546-1547	,	_	_	_	
+12-21	1548-1555	vsually	_	_	_	
+12-22	1556-1559	fed	_	_	_	
+12-23	1560-1564	vpon	_	_	_	
+12-24	1565-1567	by	_	_	_	
+12-25	1568-1571	the	_	_	_	
+12-26	1572-1580	naturall	_	_	_	
+12-27	1583-1594	inhabitants	_	_	_	
+12-28	1594-1595	;	_	_	_	
+12-29	1596-1598	as	_	_	_	
+12-30	1599-1603	also	_	_	_	
+12-31	1604-1606	by	_	_	_	
+12-32	1607-1609	vs	_	_	_	
+12-33	1609-1610	,	_	_	_	
+12-34	1611-1617	during	_	_	_	
+12-35	1618-1621	the	_	_	_	
+12-36	1622-1626	time	_	_	_	
+12-37	1627-1629	of	_	_	_	
+12-38	1630-1633	our	_	_	_	
+12-39	1634-1639	abode	_	_	_	
+12-40	1639-1640	:	_	_	_	
+12-41	1641-1644	and	_	_	_	
+12-42	1645-1650	first	_	_	_	
+12-43	1651-1653	of	_	_	_	
+12-44	1656-1660	such	_	_	_	
+12-45	1661-1663	as	_	_	_	
+12-46	1664-1667	are	_	_	_	
+12-47	1668-1673	sowed	_	_	_	
+12-48	1674-1677	and	_	_	_	
+12-49	1678-1687	husbanded	_	_	_	
+12-50	1687-1688	.	_	_	_	
+
+#Text=Pagatowr, a kinde of graine so called by the inhabitants: the same in the 
+#Text= West Indies is called Mayz: English men call it Guinywheat or 
+#Text= Turkey-wheat, according to the names of the countreys from whence the like 
+#Text= hath beene brought.
+13-1	1697-1705	Pagatowr	_	_	_	
+13-2	1705-1706	,	_	_	_	
+13-3	1707-1708	a	_	_	_	
+13-4	1709-1714	kinde	_	_	_	
+13-5	1715-1717	of	_	_	_	
+13-6	1718-1724	graine	_	_	_	
+13-7	1725-1727	so	_	_	_	
+13-8	1728-1734	called	_	_	_	
+13-9	1735-1737	by	_	_	_	
+13-10	1738-1741	the	_	_	_	
+13-11	1742-1753	inhabitants	_	_	_	
+13-12	1753-1754	:	_	_	_	
+13-13	1755-1758	the	_	_	_	
+13-14	1759-1763	same	_	_	_	
+13-15	1764-1766	in	_	_	_	
+13-16	1767-1770	the	_	_	_	
+13-17	1773-1777	West	_	_	_	
+13-18	1778-1784	Indies	_	_	_	
+13-19	1785-1787	is	_	_	_	
+13-20	1788-1794	called	_	_	_	
+13-21	1795-1799	Mayz	_	_	_	
+13-22	1799-1800	:	_	_	_	
+13-23	1801-1808	English	_	_	_	
+13-24	1809-1812	men	_	_	_	
+13-25	1813-1817	call	_	_	_	
+13-26	1818-1820	it	_	_	_	
+13-27	1821-1831	Guinywheat	_	_	_	
+13-28	1832-1834	or	_	_	_	
+13-29	1837-1849	Turkey-wheat	_	_	_	
+13-30	1849-1850	,	_	_	_	
+13-31	1851-1860	according	_	_	_	
+13-32	1861-1863	to	_	_	_	
+13-33	1864-1867	the	_	_	_	
+13-34	1868-1873	names	_	_	_	
+13-35	1874-1876	of	_	_	_	
+13-36	1877-1880	the	_	_	_	
+13-37	1881-1890	countreys	_	_	_	
+13-38	1891-1895	from	_	_	_	
+13-39	1896-1902	whence	_	_	_	
+13-40	1903-1906	the	_	_	_	
+13-41	1907-1911	like	_	_	_	
+13-42	1914-1918	hath	_	_	_	
+13-43	1919-1924	beene	_	_	_	
+13-44	1925-1932	brought	_	_	_	
+13-45	1932-1933	.	_	_	_	
+
+#Text=The graine is about the bignesse of our ordinary 
+#Text= English peaze, and not much different in forme and shape: but of diuers 
+#Text= colours: some white, some red, some yellow, and some blew.
+14-1	1934-1937	The	_	_	_	
+14-2	1938-1944	graine	_	_	_	
+14-3	1945-1947	is	_	_	_	
+14-4	1948-1953	about	_	_	_	
+14-5	1954-1957	the	_	_	_	
+14-6	1958-1966	bignesse	_	_	_	
+14-7	1967-1969	of	_	_	_	
+14-8	1970-1973	our	_	_	_	
+14-9	1974-1982	ordinary	_	_	_	
+14-10	1985-1992	English	_	_	_	
+14-11	1993-1998	peaze	_	_	_	
+14-12	1998-1999	,	_	_	_	
+14-13	2000-2003	and	_	_	_	
+14-14	2004-2007	not	_	_	_	
+14-15	2008-2012	much	_	_	_	
+14-16	2013-2022	different	_	_	_	
+14-17	2023-2025	in	_	_	_	
+14-18	2026-2031	forme	_	_	_	
+14-19	2032-2035	and	_	_	_	
+14-20	2036-2041	shape	_	_	_	
+14-21	2041-2042	:	_	_	_	
+14-22	2043-2046	but	_	_	_	
+14-23	2047-2049	of	_	_	_	
+14-24	2050-2056	diuers	_	_	_	
+14-25	2059-2066	colours	_	_	_	
+14-26	2066-2067	:	_	_	_	
+14-27	2068-2072	some	_	_	_	
+14-28	2073-2078	white	_	_	_	
+14-29	2078-2079	,	_	_	_	
+14-30	2080-2084	some	_	_	_	
+14-31	2085-2088	red	_	_	_	
+14-32	2088-2089	,	_	_	_	
+14-33	2090-2094	some	_	_	_	
+14-34	2095-2101	yellow	_	_	_	
+14-35	2101-2102	,	_	_	_	
+14-36	2103-2106	and	_	_	_	
+14-37	2107-2111	some	_	_	_	
+14-38	2112-2116	blew	_	_	_	
+14-39	2116-2117	.	_	_	_	
+
+#Text=All of them 
+#Text= yeeld a very white and sweet flowre: being vsed according to its kinde, it
+#Text=maketh a very good bread.
+15-1	2118-2121	All	_	_	_	
+15-2	2122-2124	of	_	_	_	
+15-3	2125-2129	them	_	_	_	
+15-4	2132-2137	yeeld	_	_	_	
+15-5	2138-2139	a	_	_	_	
+15-6	2140-2144	very	_	_	_	
+15-7	2145-2150	white	_	_	_	
+15-8	2151-2154	and	_	_	_	
+15-9	2155-2160	sweet	_	_	_	
+15-10	2161-2167	flowre	_	_	_	
+15-11	2167-2168	:	_	_	_	
+15-12	2169-2174	being	_	_	_	
+15-13	2175-2179	vsed	_	_	_	
+15-14	2180-2189	according	_	_	_	
+15-15	2190-2192	to	_	_	_	
+15-16	2193-2196	its	_	_	_	
+15-17	2197-2202	kinde	_	_	_	
+15-18	2202-2203	,	_	_	_	
+15-19	2204-2206	it	_	_	_	
+15-20	2207-2213	maketh	_	_	_	
+15-21	2214-2215	a	_	_	_	
+15-22	2216-2220	very	_	_	_	
+15-23	2221-2225	good	_	_	_	
+15-24	2226-2231	bread	_	_	_	
+15-25	2231-2232	.	_	_	_	
+
+#Text=We made of the same in the countrey some Mault, 
+#Text= whereof was brewed as good Ale as was to be desired.
+16-1	2233-2235	We	_	_	_	
+16-2	2236-2240	made	_	_	_	
+16-3	2241-2243	of	_	_	_	
+16-4	2244-2247	the	_	_	_	
+16-5	2248-2252	same	_	_	_	
+16-6	2253-2255	in	_	_	_	
+16-7	2256-2259	the	_	_	_	
+16-8	2260-2268	countrey	_	_	_	
+16-9	2269-2273	some	_	_	_	
+16-10	2274-2279	Mault	_	_	_	
+16-11	2279-2280	,	_	_	_	
+16-12	2283-2290	whereof	_	_	_	
+16-13	2291-2294	was	_	_	_	
+16-14	2295-2301	brewed	_	_	_	
+16-15	2302-2304	as	_	_	_	
+16-16	2305-2309	good	_	_	_	
+16-17	2310-2313	Ale	_	_	_	
+16-18	2314-2316	as	_	_	_	
+16-19	2317-2320	was	_	_	_	
+16-20	2321-2323	to	_	_	_	
+16-21	2324-2326	be	_	_	_	
+16-22	2327-2334	desired	_	_	_	
+16-23	2334-2335	.	_	_	_	
+
+#Text=So likewise by the 
+#Text= helpe of Hops, therof may be made as good Beere.
+17-1	2336-2338	So	_	_	_	
+17-2	2339-2347	likewise	_	_	_	
+17-3	2348-2350	by	_	_	_	
+17-4	2351-2354	the	_	_	_	
+17-5	2357-2362	helpe	_	_	_	
+17-6	2363-2365	of	_	_	_	
+17-7	2366-2370	Hops	_	_	_	
+17-8	2370-2371	,	_	_	_	
+17-9	2372-2378	therof	_	_	_	
+17-10	2379-2382	may	_	_	_	
+17-11	2383-2385	be	_	_	_	
+17-12	2386-2390	made	_	_	_	
+17-13	2391-2393	as	_	_	_	
+17-14	2394-2398	good	_	_	_	
+17-15	2399-2404	Beere	_	_	_	
+17-16	2404-2405	.	_	_	_	
+
+#Text=It is a graine of 
+#Text= maruellous great increase: of a thousand, fifteene hundred, and some two 
+#Text= thousand folde.
+18-1	2406-2408	It	_	_	_	
+18-2	2409-2411	is	_	_	_	
+18-3	2412-2413	a	_	_	_	
+18-4	2414-2420	graine	_	_	_	
+18-5	2421-2423	of	_	_	_	
+18-6	2426-2436	maruellous	_	_	_	
+18-7	2437-2442	great	_	_	_	
+18-8	2443-2451	increase	_	_	_	
+18-9	2451-2452	:	_	_	_	
+18-10	2453-2455	of	_	_	_	
+18-11	2456-2457	a	_	_	_	
+18-12	2458-2466	thousand	_	_	_	
+18-13	2466-2467	,	_	_	_	
+18-14	2468-2476	fifteene	_	_	_	
+18-15	2477-2484	hundred	_	_	_	
+18-16	2484-2485	,	_	_	_	
+18-17	2486-2489	and	_	_	_	
+18-18	2490-2494	some	_	_	_	
+18-19	2495-2498	two	_	_	_	
+18-20	2501-2509	thousand	_	_	_	
+18-21	2510-2515	folde	_	_	_	
+18-22	2515-2516	.	_	_	_	
+
+#Text=There are three sorts, of which two are ripe in eleuen and 
+#Text= twelue weeks at the most, sometimes in tenne, after the time they are set, 
+#Text= and are then of height in stalke about sixe or seuen foot.
+19-1	2517-2522	There	_	_	_	
+19-2	2523-2526	are	_	_	_	
+19-3	2527-2532	three	_	_	_	
+19-4	2533-2538	sorts	_	_	_	
+19-5	2538-2539	,	_	_	_	
+19-6	2540-2542	of	_	_	_	
+19-7	2543-2548	which	_	_	_	
+19-8	2549-2552	two	_	_	_	
+19-9	2553-2556	are	_	_	_	
+19-10	2557-2561	ripe	_	_	_	
+19-11	2562-2564	in	_	_	_	
+19-12	2565-2571	eleuen	_	_	_	
+19-13	2572-2575	and	_	_	_	
+19-14	2578-2584	twelue	_	_	_	
+19-15	2585-2590	weeks	_	_	_	
+19-16	2591-2593	at	_	_	_	
+19-17	2594-2597	the	_	_	_	
+19-18	2598-2602	most	_	_	_	
+19-19	2602-2603	,	_	_	_	
+19-20	2604-2613	sometimes	_	_	_	
+19-21	2614-2616	in	_	_	_	
+19-22	2617-2622	tenne	_	_	_	
+19-23	2622-2623	,	_	_	_	
+19-24	2624-2629	after	_	_	_	
+19-25	2630-2633	the	_	_	_	
+19-26	2634-2638	time	_	_	_	
+19-27	2639-2643	they	_	_	_	
+19-28	2644-2647	are	_	_	_	
+19-29	2648-2651	set	_	_	_	
+19-30	2651-2652	,	_	_	_	
+19-31	2655-2658	and	_	_	_	
+19-32	2659-2662	are	_	_	_	
+19-33	2663-2667	then	_	_	_	
+19-34	2668-2670	of	_	_	_	
+19-35	2671-2677	height	_	_	_	
+19-36	2678-2680	in	_	_	_	
+19-37	2681-2687	stalke	_	_	_	
+19-38	2688-2693	about	_	_	_	
+19-39	2694-2698	sixe	_	_	_	
+19-40	2699-2701	or	_	_	_	
+19-41	2702-2707	seuen	_	_	_	
+19-42	2708-2712	foot	_	_	_	
+19-43	2712-2713	.	_	_	_	
+
+#Text=The other sort 
+#Text= is ripe in fourteene, and is about tenne foot high, of the stalks some 
+#Text= beare foure heads, some three, some one, and some two: euery head 
+#Text= containing fiue, sixe, or seuen hundred graines, within a few more or 
+#Text= lesse.
+20-1	2714-2717	The	_	_	_	
+20-2	2718-2723	other	_	_	_	
+20-3	2724-2728	sort	_	_	_	
+20-4	2731-2733	is	_	_	_	
+20-5	2734-2738	ripe	_	_	_	
+20-6	2739-2741	in	_	_	_	
+20-7	2742-2751	fourteene	_	_	_	
+20-8	2751-2752	,	_	_	_	
+20-9	2753-2756	and	_	_	_	
+20-10	2757-2759	is	_	_	_	
+20-11	2760-2765	about	_	_	_	
+20-12	2766-2771	tenne	_	_	_	
+20-13	2772-2776	foot	_	_	_	
+20-14	2777-2781	high	_	_	_	
+20-15	2781-2782	,	_	_	_	
+20-16	2783-2785	of	_	_	_	
+20-17	2786-2789	the	_	_	_	
+20-18	2790-2796	stalks	_	_	_	
+20-19	2797-2801	some	_	_	_	
+20-20	2804-2809	beare	_	_	_	
+20-21	2810-2815	foure	_	_	_	
+20-22	2816-2821	heads	_	_	_	
+20-23	2821-2822	,	_	_	_	
+20-24	2823-2827	some	_	_	_	
+20-25	2828-2833	three	_	_	_	
+20-26	2833-2834	,	_	_	_	
+20-27	2835-2839	some	_	_	_	
+20-28	2840-2843	one	_	_	_	
+20-29	2843-2844	,	_	_	_	
+20-30	2845-2848	and	_	_	_	
+20-31	2849-2853	some	_	_	_	
+20-32	2854-2857	two	_	_	_	
+20-33	2857-2858	:	_	_	_	
+20-34	2859-2864	euery	_	_	_	
+20-35	2865-2869	head	_	_	_	
+20-36	2872-2882	containing	_	_	_	
+20-37	2883-2887	fiue	_	_	_	
+20-38	2887-2888	,	_	_	_	
+20-39	2889-2893	sixe	_	_	_	
+20-40	2893-2894	,	_	_	_	
+20-41	2895-2897	or	_	_	_	
+20-42	2898-2903	seuen	_	_	_	
+20-43	2904-2911	hundred	_	_	_	
+20-44	2912-2919	graines	_	_	_	
+20-45	2919-2920	,	_	_	_	
+20-46	2921-2927	within	_	_	_	
+20-47	2928-2929	a	_	_	_	
+20-48	2930-2933	few	_	_	_	
+20-49	2934-2938	more	_	_	_	
+20-50	2939-2941	or	_	_	_	
+20-51	2944-2949	lesse	_	_	_	
+20-52	2949-2950	.	_	_	_	
+
+#Text=Of these graines, besides bread, the inhabitants make victuall, 
+#Text= either by parching them, or seething them whole vntill they be broken: or 
+#Text= boiling the flowre with water into a pap.
+21-1	2951-2953	Of	_	_	_	
+21-2	2954-2959	these	_	_	_	
+21-3	2960-2967	graines	_	_	_	
+21-4	2967-2968	,	_	_	_	
+21-5	2969-2976	besides	_	_	_	
+21-6	2977-2982	bread	_	_	_	
+21-7	2982-2983	,	_	_	_	
+21-8	2984-2987	the	_	_	_	
+21-9	2988-2999	inhabitants	_	_	_	
+21-10	3000-3004	make	_	_	_	
+21-11	3005-3013	victuall	_	_	_	
+21-12	3013-3014	,	_	_	_	
+21-13	3017-3023	either	_	_	_	
+21-14	3024-3026	by	_	_	_	
+21-15	3027-3035	parching	_	_	_	
+21-16	3036-3040	them	_	_	_	
+21-17	3040-3041	,	_	_	_	
+21-18	3042-3044	or	_	_	_	
+21-19	3045-3053	seething	_	_	_	
+21-20	3054-3058	them	_	_	_	
+21-21	3059-3064	whole	_	_	_	
+21-22	3065-3071	vntill	_	_	_	
+21-23	3072-3076	they	_	_	_	
+21-24	3077-3079	be	_	_	_	
+21-25	3080-3086	broken	_	_	_	
+21-26	3086-3087	:	_	_	_	
+21-27	3088-3090	or	_	_	_	
+21-28	3093-3100	boiling	_	_	_	
+21-29	3101-3104	the	_	_	_	
+21-30	3105-3111	flowre	_	_	_	
+21-31	3112-3116	with	_	_	_	
+21-32	3117-3122	water	_	_	_	
+21-33	3123-3127	into	_	_	_	
+21-34	3128-3129	a	_	_	_	
+21-35	3130-3133	pap	_	_	_	
+21-36	3133-3134	.	_	_	_	
+
+#Text=Okingier, called by vs Beanes, because in greatnesse and partly in shape 
+#Text= they are like to the beanes in England, sauing that they are flatter, of 
+#Text= more diuers colours, and some pide.
+22-1	3140-3148	Okingier	Taste Source	_	_	
+22-2	3148-3149	,	_	_	_	
+22-3	3150-3156	called	_	_	_	
+22-4	3157-3159	by	_	_	_	
+22-5	3160-3162	vs	_	_	_	
+22-6	3163-3169	Beanes	_	_	_	
+22-7	3169-3170	,	_	_	_	
+22-8	3171-3178	because	_	_	_	
+22-9	3179-3181	in	_	_	_	
+22-10	3182-3192	greatnesse	_	_	_	
+22-11	3193-3196	and	_	_	_	
+22-12	3197-3203	partly	_	_	_	
+22-13	3204-3206	in	_	_	_	
+22-14	3207-3212	shape	_	_	_	
+22-15	3215-3219	they	_	_	_	
+22-16	3220-3223	are	_	_	_	
+22-17	3224-3228	like	_	_	_	
+22-18	3229-3231	to	_	_	_	
+22-19	3232-3235	the	_	_	_	
+22-20	3236-3242	beanes	_	_	_	
+22-21	3243-3245	in	_	_	_	
+22-22	3246-3253	England	_	_	_	
+22-23	3253-3254	,	_	_	_	
+22-24	3255-3261	sauing	_	_	_	
+22-25	3262-3266	that	_	_	_	
+22-26	3267-3271	they	_	_	_	
+22-27	3272-3275	are	_	_	_	
+22-28	3276-3283	flatter	_	_	_	
+22-29	3283-3284	,	_	_	_	
+22-30	3285-3287	of	_	_	_	
+22-31	3290-3294	more	_	_	_	
+22-32	3295-3301	diuers	_	_	_	
+22-33	3302-3309	colours	_	_	_	
+22-34	3309-3310	,	_	_	_	
+22-35	3311-3314	and	_	_	_	
+22-36	3315-3319	some	_	_	_	
+22-37	3320-3324	pide	_	_	_	
+22-38	3324-3325	.	_	_	_	
+
+#Text=The leafe also of the stemme is much 
+#Text= different.
+23-1	3326-3329	The	_	_	_	
+23-2	3330-3335	leafe	_	_	_	
+23-3	3336-3340	also	_	_	_	
+23-4	3341-3343	of	_	_	_	
+23-5	3344-3347	the	_	_	_	
+23-6	3348-3354	stemme	_	_	_	
+23-7	3355-3357	is	_	_	_	
+23-8	3358-3362	much	_	_	_	
+23-9	3365-3374	different	_	_	_	
+23-10	3374-3375	.	_	_	_	
+
+#Text=In taste they are altogether as good as our English peaze.
+24-1	3376-3378	In	_	_	_	
+24-2	3379-3384	taste	Taste Word	*|*|*	24-3|24-7|24-8[11_0]	
+24-3	3385-3389	they	Taste Source	anaphorical	22-1	
+24-4	3390-3393	are	_	_	_	
+24-5	3394-3404	altogether	_	_	_	
+24-6	3405-3407	as	_	_	_	
+24-7	3408-3412	good	Quality	_	_	
+24-8	3413-3415	as	Evoked Taste[11]	_	_	
+24-9	3416-3419	our	Evoked Taste[11]	_	_	
+24-10	3420-3427	English	Evoked Taste[11]	_	_	
+24-11	3428-3433	peaze	Evoked Taste[11]	_	_	
+24-12	3433-3434	.	_	_	_	
+
+#Text=Wickonzowr, called by vs Peaze, in respect of the Beanes, for distinction
+#Text=sake, because they are much lesse, although in forme they little differ: 
+#Text= but in goodnesse of taste much like, and are far better then our English 
+#Text= Peaze.
+25-1	3440-3450	Wickonzowr	Taste Source	_	_	
+25-2	3450-3451	,	_	_	_	
+25-3	3452-3458	called	_	_	_	
+25-4	3459-3461	by	_	_	_	
+25-5	3462-3464	vs	_	_	_	
+25-6	3465-3470	Peaze	_	_	_	
+25-7	3470-3471	,	_	_	_	
+25-8	3472-3474	in	_	_	_	
+25-9	3475-3482	respect	_	_	_	
+25-10	3483-3485	of	_	_	_	
+25-11	3486-3489	the	_	_	_	
+25-12	3490-3496	Beanes	_	_	_	
+25-13	3496-3497	,	_	_	_	
+25-14	3498-3501	for	_	_	_	
+25-15	3502-3513	distinction	_	_	_	
+25-16	3514-3518	sake	_	_	_	
+25-17	3518-3519	,	_	_	_	
+25-18	3520-3527	because	_	_	_	
+25-19	3528-3532	they	_	_	_	
+25-20	3533-3536	are	_	_	_	
+25-21	3537-3541	much	_	_	_	
+25-22	3542-3547	lesse	_	_	_	
+25-23	3547-3548	,	_	_	_	
+25-24	3549-3557	although	_	_	_	
+25-25	3558-3560	in	_	_	_	
+25-26	3561-3566	forme	_	_	_	
+25-27	3567-3571	they	_	_	_	
+25-28	3572-3578	little	_	_	_	
+25-29	3579-3585	differ	_	_	_	
+25-30	3585-3586	:	_	_	_	
+25-31	3589-3592	but	_	_	_	
+25-32	3593-3595	in	_	_	_	
+25-33	3596-3605	goodnesse	Quality	_	_	
+25-34	3606-3608	of	_	_	_	
+25-35	3609-3614	taste	Taste Word	*|*|*	25-33|25-36[12_0]|25-1	
+25-36	3615-3619	much	Evoked Taste[12]	_	_	
+25-37	3620-3624	like	Evoked Taste[12]	_	_	
+25-38	3624-3625	,	Evoked Taste[12]	_	_	
+25-39	3626-3629	and	Evoked Taste[12]	_	_	
+25-40	3630-3633	are	Evoked Taste[12]	_	_	
+25-41	3634-3637	far	Evoked Taste[12]	_	_	
+25-42	3638-3644	better	Evoked Taste[12]	_	_	
+25-43	3645-3649	then	Evoked Taste[12]	_	_	
+25-44	3650-3653	our	Evoked Taste[12]	_	_	
+25-45	3654-3661	English	Evoked Taste[12]	_	_	
+25-46	3664-3669	Peaze	Evoked Taste[12]	_	_	
+25-47	3669-3670	.	_	_	_	
+
+#Text=Both the beanes and peaze are ripe in ten weeks after they are set.
+26-1	3671-3675	Both	_	_	_	
+26-2	3676-3679	the	_	_	_	
+26-3	3680-3686	beanes	_	_	_	
+26-4	3687-3690	and	_	_	_	
+26-5	3691-3696	peaze	_	_	_	
+26-6	3697-3700	are	_	_	_	
+26-7	3701-3705	ripe	_	_	_	
+26-8	3706-3708	in	_	_	_	
+26-9	3709-3712	ten	_	_	_	
+26-10	3713-3718	weeks	_	_	_	
+26-11	3719-3724	after	_	_	_	
+26-12	3725-3729	they	_	_	_	
+26-13	3730-3733	are	_	_	_	
+26-14	3734-3737	set	_	_	_	
+26-15	3737-3738	.	_	_	_	
+
+#Text=They make them victuall either by boiling them all to pieces into a broth, 
+#Text= or boiling them whole vntill they be soft, and beginne to breake, as is 
+#Text= vsed in England, either by themselues, or mixtly together: sometime they 
+#Text= mingle of the Wheat with them: sometime also, being whole sodden, they 
+#Text= bruse or punne them in a morter, and thereof make loaues or lumps of 
+#Text= doughish bread, which they vse to eat for variety.
+27-1	3741-3745	They	_	_	_	
+27-2	3746-3750	make	_	_	_	
+27-3	3751-3755	them	_	_	_	
+27-4	3756-3764	victuall	_	_	_	
+27-5	3765-3771	either	_	_	_	
+27-6	3772-3774	by	_	_	_	
+27-7	3775-3782	boiling	_	_	_	
+27-8	3783-3787	them	_	_	_	
+27-9	3788-3791	all	_	_	_	
+27-10	3792-3794	to	_	_	_	
+27-11	3795-3801	pieces	_	_	_	
+27-12	3802-3806	into	_	_	_	
+27-13	3807-3808	a	_	_	_	
+27-14	3809-3814	broth	_	_	_	
+27-15	3814-3815	,	_	_	_	
+27-16	3818-3820	or	_	_	_	
+27-17	3821-3828	boiling	_	_	_	
+27-18	3829-3833	them	_	_	_	
+27-19	3834-3839	whole	_	_	_	
+27-20	3840-3846	vntill	_	_	_	
+27-21	3847-3851	they	_	_	_	
+27-22	3852-3854	be	_	_	_	
+27-23	3855-3859	soft	_	_	_	
+27-24	3859-3860	,	_	_	_	
+27-25	3861-3864	and	_	_	_	
+27-26	3865-3872	beginne	_	_	_	
+27-27	3873-3875	to	_	_	_	
+27-28	3876-3882	breake	_	_	_	
+27-29	3882-3883	,	_	_	_	
+27-30	3884-3886	as	_	_	_	
+27-31	3887-3889	is	_	_	_	
+27-32	3892-3896	vsed	_	_	_	
+27-33	3897-3899	in	_	_	_	
+27-34	3900-3907	England	_	_	_	
+27-35	3907-3908	,	_	_	_	
+27-36	3909-3915	either	_	_	_	
+27-37	3916-3918	by	_	_	_	
+27-38	3919-3929	themselues	_	_	_	
+27-39	3929-3930	,	_	_	_	
+27-40	3931-3933	or	_	_	_	
+27-41	3934-3940	mixtly	_	_	_	
+27-42	3941-3949	together	_	_	_	
+27-43	3949-3950	:	_	_	_	
+27-44	3951-3959	sometime	_	_	_	
+27-45	3960-3964	they	_	_	_	
+27-46	3967-3973	mingle	_	_	_	
+27-47	3974-3976	of	_	_	_	
+27-48	3977-3980	the	_	_	_	
+27-49	3981-3986	Wheat	_	_	_	
+27-50	3987-3991	with	_	_	_	
+27-51	3992-3996	them	_	_	_	
+27-52	3996-3997	:	_	_	_	
+27-53	3998-4006	sometime	_	_	_	
+27-54	4007-4011	also	_	_	_	
+27-55	4011-4012	,	_	_	_	
+27-56	4013-4018	being	_	_	_	
+27-57	4019-4024	whole	_	_	_	
+27-58	4025-4031	sodden	_	_	_	
+27-59	4031-4032	,	_	_	_	
+27-60	4033-4037	they	_	_	_	
+27-61	4040-4045	bruse	_	_	_	
+27-62	4046-4048	or	_	_	_	
+27-63	4049-4054	punne	_	_	_	
+27-64	4055-4059	them	_	_	_	
+27-65	4060-4062	in	_	_	_	
+27-66	4063-4064	a	_	_	_	
+27-67	4065-4071	morter	_	_	_	
+27-68	4071-4072	,	_	_	_	
+27-69	4073-4076	and	_	_	_	
+27-70	4077-4084	thereof	_	_	_	
+27-71	4085-4089	make	_	_	_	
+27-72	4090-4096	loaues	Taste Source[13]	_	_	
+27-73	4097-4099	or	Taste Source[13]	_	_	
+27-74	4100-4105	lumps	Taste Source[13]	_	_	
+27-75	4106-4108	of	Taste Source[13]	_	_	
+27-76	4111-4119	doughish	Taste Source[13]	_	_	
+27-77	4120-4125	bread	Taste Source[13]	_	_	
+27-78	4125-4126	,	_	_	_	
+27-79	4127-4132	which	_	_	_	
+27-80	4133-4137	they	Taster	_	_	
+27-81	4138-4141	vse	_	_	_	
+27-82	4142-4144	to	_	_	_	
+27-83	4145-4148	eat	Taste Word	*|*|*	27-84[14_0]|27-80|27-72[13_0]	
+27-84	4149-4152	for	Circumstance[14]	_	_	
+27-85	4153-4160	variety	Circumstance[14]	_	_	
+27-86	4160-4161	.	_	_	_	
+
+#Text=Macocquer, according to their seueral formes, called by vs Pompious, 
+#Text= Melons, and Gourds, because they are of the like formes as those in 
+#Text= England.
+28-1	4167-4176	Macocquer	Taste Source	_	_	
+28-2	4176-4177	,	_	_	_	
+28-3	4178-4187	according	_	_	_	
+28-4	4188-4190	to	_	_	_	
+28-5	4191-4196	their	_	_	_	
+28-6	4197-4204	seueral	_	_	_	
+28-7	4205-4211	formes	_	_	_	
+28-8	4211-4212	,	_	_	_	
+28-9	4213-4219	called	_	_	_	
+28-10	4220-4222	by	_	_	_	
+28-11	4223-4225	vs	_	_	_	
+28-12	4226-4234	Pompious	_	_	_	
+28-13	4234-4235	,	_	_	_	
+28-14	4238-4244	Melons	_	_	_	
+28-15	4244-4245	,	_	_	_	
+28-16	4246-4249	and	_	_	_	
+28-17	4250-4256	Gourds	_	_	_	
+28-18	4256-4257	,	_	_	_	
+28-19	4258-4265	because	_	_	_	
+28-20	4266-4270	they	_	_	_	
+28-21	4271-4274	are	_	_	_	
+28-22	4275-4277	of	_	_	_	
+28-23	4278-4281	the	_	_	_	
+28-24	4282-4286	like	_	_	_	
+28-25	4287-4293	formes	_	_	_	
+28-26	4294-4296	as	_	_	_	
+28-27	4297-4302	those	_	_	_	
+28-28	4303-4305	in	_	_	_	
+28-29	4308-4315	England	_	_	_	
+28-30	4315-4316	.	_	_	_	
+
+#Text=In Virginia such of seuerall formes are of one taste, and very 
+#Text= good, and do also spring from one seed.
+29-1	4317-4319	In	_	_	_	
+29-2	4320-4328	Virginia	_	_	_	
+29-3	4329-4333	such	_	_	_	
+29-4	4334-4336	of	_	_	_	
+29-5	4337-4345	seuerall	_	_	_	
+29-6	4346-4352	formes	_	_	_	
+29-7	4353-4356	are	_	_	_	
+29-8	4357-4359	of	_	_	_	
+29-9	4360-4363	one	_	_	_	
+29-10	4364-4369	taste	Taste Word	*|*	29-13[15_0]|28-1	
+29-11	4369-4370	,	_	_	_	
+29-12	4371-4374	and	_	_	_	
+29-13	4375-4379	very	Quality[15]	_	_	
+29-14	4382-4386	good	Quality[15]	_	_	
+29-15	4386-4387	,	_	_	_	
+29-16	4388-4391	and	_	_	_	
+29-17	4392-4394	do	_	_	_	
+29-18	4395-4399	also	_	_	_	
+29-19	4400-4406	spring	_	_	_	
+29-20	4407-4411	from	_	_	_	
+29-21	4412-4415	one	_	_	_	
+29-22	4416-4420	seed	_	_	_	
+29-23	4420-4421	.	_	_	_	
+
+#Text=There are of two sorts: one is 
+#Text= ripe in the space of a moneth, and the other in two moneths.
+30-1	4422-4427	There	_	_	_	
+30-2	4428-4431	are	_	_	_	
+30-3	4432-4434	of	_	_	_	
+30-4	4435-4438	two	_	_	_	
+30-5	4439-4444	sorts	_	_	_	
+30-6	4444-4445	:	_	_	_	
+30-7	4446-4449	one	_	_	_	
+30-8	4450-4452	is	_	_	_	
+30-9	4455-4459	ripe	_	_	_	
+30-10	4460-4462	in	_	_	_	
+30-11	4463-4466	the	_	_	_	
+30-12	4467-4472	space	_	_	_	
+30-13	4473-4475	of	_	_	_	
+30-14	4476-4477	a	_	_	_	
+30-15	4478-4484	moneth	_	_	_	
+30-16	4484-4485	,	_	_	_	
+30-17	4486-4489	and	_	_	_	
+30-18	4490-4493	the	_	_	_	
+30-19	4494-4499	other	_	_	_	
+30-20	4500-4502	in	_	_	_	
+30-21	4503-4506	two	_	_	_	
+30-22	4507-4514	moneths	_	_	_	
+30-23	4514-4515	.	_	_	_	
+
+#Text=There is an herbe which in Dutch is called Melden.
+31-1	4521-4526	There	_	_	_	
+31-2	4527-4529	is	_	_	_	
+31-3	4530-4532	an	_	_	_	
+31-4	4533-4538	herbe	_	_	_	
+31-5	4539-4544	which	_	_	_	
+31-6	4545-4547	in	_	_	_	
+31-7	4548-4553	Dutch	_	_	_	
+31-8	4554-4556	is	_	_	_	
+31-9	4557-4563	called	_	_	_	
+31-10	4564-4570	Melden	Taste Modifier	_	_	
+31-11	4570-4571	.	_	_	_	
+
+#Text=Some of those that I 
+#Text= describe it vnto take it to be a kinde of Orage: it groweth about foure or 
+#Text= fiue foot high: of the seede thereof they make a thicke broth, and pottage 
+#Text= of a very good taste: of the stalke by burning into ashes they make a
+#Text=kinde of salt earth, wherewithall many vse sometimes to season their 
+#Text= broths: other salt they know not.
+32-1	4572-4576	Some	_	_	_	
+32-2	4577-4579	of	_	_	_	
+32-3	4580-4585	those	_	_	_	
+32-4	4586-4590	that	_	_	_	
+32-5	4591-4592	I	_	_	_	
+32-6	4595-4603	describe	_	_	_	
+32-7	4604-4606	it	_	_	_	
+32-8	4607-4611	vnto	_	_	_	
+32-9	4612-4616	take	_	_	_	
+32-10	4617-4619	it	_	_	_	
+32-11	4620-4622	to	_	_	_	
+32-12	4623-4625	be	_	_	_	
+32-13	4626-4627	a	_	_	_	
+32-14	4628-4633	kinde	_	_	_	
+32-15	4634-4636	of	_	_	_	
+32-16	4637-4642	Orage	_	_	_	
+32-17	4642-4643	:	_	_	_	
+32-18	4644-4646	it	_	_	_	
+32-19	4647-4654	groweth	_	_	_	
+32-20	4655-4660	about	_	_	_	
+32-21	4661-4666	foure	_	_	_	
+32-22	4667-4669	or	_	_	_	
+32-23	4672-4676	fiue	_	_	_	
+32-24	4677-4681	foot	_	_	_	
+32-25	4682-4686	high	_	_	_	
+32-26	4686-4687	:	_	_	_	
+32-27	4688-4690	of	_	_	_	
+32-28	4691-4694	the	_	_	_	
+32-29	4695-4700	seede	_	_	_	
+32-30	4701-4708	thereof	_	_	_	
+32-31	4709-4713	they	_	_	_	
+32-32	4714-4718	make	_	_	_	
+32-33	4719-4720	a	Taste Source[16]	_	_	
+32-34	4721-4727	thicke	Taste Source[16]	_	_	
+32-35	4728-4733	broth	Taste Source[16]	_	_	
+32-36	4733-4734	,	_	_	_	
+32-37	4735-4738	and	_	_	_	
+32-38	4739-4746	pottage	Taste Source	_	_	
+32-39	4749-4751	of	_	_	_	
+32-40	4752-4753	a	_	_	_	
+32-41	4754-4758	very	Quality[17]	_	_	
+32-42	4759-4763	good	Quality[17]	_	_	
+32-43	4764-4769	taste	Taste Word	*|*|*	32-41[17_0]|32-33[16_0]|32-38	
+32-44	4769-4770	:	_	_	_	
+32-45	4771-4773	of	Circumstance[18]	_	_	
+32-46	4774-4777	the	Circumstance[18]	_	_	
+32-47	4778-4784	stalke	Circumstance[18]	_	_	
+32-48	4785-4787	by	Circumstance[18]	_	_	
+32-49	4788-4795	burning	Circumstance[18]	_	_	
+32-50	4796-4800	into	Circumstance[18]	_	_	
+32-51	4801-4806	ashes	Circumstance[18]	_	_	
+32-52	4807-4811	they	_	_	_	
+32-53	4812-4816	make	_	_	_	
+32-54	4817-4818	a	Taste Modifier[19]	_	_	
+32-55	4819-4824	kinde	Taste Modifier[19]	_	_	
+32-56	4825-4827	of	Taste Modifier[19]	_	_	
+32-57	4828-4832	salt	Taste Modifier[19]	_	_	
+32-58	4833-4838	earth	Taste Modifier[19]	_	_	
+32-59	4838-4839	,	_	_	_	
+32-60	4840-4852	wherewithall	_	_	_	
+32-61	4853-4857	many	_	_	_	
+32-62	4858-4861	vse	_	_	_	
+32-63	4862-4871	sometimes	_	_	_	
+32-64	4872-4874	to	_	_	_	
+32-65	4875-4881	season	Taste Word	*|*|*	32-66[20_0]|32-54[19_0]|32-45[18_0]	
+32-66	4882-4887	their	Taste Source[20]	_	_	
+32-67	4890-4896	broths	Taste Source[20]	_	_	
+32-68	4896-4897	:	_	_	_	
+32-69	4898-4903	other	_	_	_	
+32-70	4904-4908	salt	_	_	_	
+32-71	4909-4913	they	_	_	_	
+32-72	4914-4918	know	_	_	_	
+32-73	4919-4922	not	_	_	_	
+32-74	4922-4923	.	_	_	_	
+
+#Text=We ourselues vsed the leaues for 
+#Text= pot-herbs.
+33-1	4924-4926	We	_	_	_	
+33-2	4927-4936	ourselues	_	_	_	
+33-3	4937-4941	vsed	_	_	_	
+33-4	4942-4945	the	_	_	_	
+33-5	4946-4952	leaues	_	_	_	
+33-6	4953-4956	for	_	_	_	
+33-7	4959-4968	pot-herbs	_	_	_	
+33-8	4968-4969	.	_	_	_	
+
+#Text=There is also another great herbe, in forme of a Marigolde, about sixe 
+#Text= foot in height, the head with a floure is a spanne in bredth.
+34-1	4975-4980	There	_	_	_	
+34-2	4981-4983	is	_	_	_	
+34-3	4984-4988	also	_	_	_	
+34-4	4989-4996	another	_	_	_	
+34-5	4997-5002	great	_	_	_	
+34-6	5003-5008	herbe	_	_	_	
+34-7	5008-5009	,	_	_	_	
+34-8	5010-5012	in	_	_	_	
+34-9	5013-5018	forme	_	_	_	
+34-10	5019-5021	of	_	_	_	
+34-11	5022-5023	a	_	_	_	
+34-12	5024-5033	Marigolde	_	_	_	
+34-13	5033-5034	,	_	_	_	
+34-14	5035-5040	about	_	_	_	
+34-15	5041-5045	sixe	_	_	_	
+34-16	5048-5052	foot	_	_	_	
+34-17	5053-5055	in	_	_	_	
+34-18	5056-5062	height	_	_	_	
+34-19	5062-5063	,	_	_	_	
+34-20	5064-5067	the	_	_	_	
+34-21	5068-5072	head	_	_	_	
+34-22	5073-5077	with	_	_	_	
+34-23	5078-5079	a	_	_	_	
+34-24	5080-5086	floure	_	_	_	
+34-25	5087-5089	is	_	_	_	
+34-26	5090-5091	a	_	_	_	
+34-27	5092-5098	spanne	_	_	_	
+34-28	5099-5101	in	_	_	_	
+34-29	5102-5108	bredth	_	_	_	
+34-30	5108-5109	.	_	_	_	
+
+#Text=Some take it 
+#Text= to be Planta Solis: of the seeds hereof they make both a kinde of bread 
+#Text= and broth.
+35-1	5110-5114	Some	_	_	_	
+35-2	5115-5119	take	_	_	_	
+35-3	5120-5122	it	_	_	_	
+35-4	5125-5127	to	_	_	_	
+35-5	5128-5130	be	_	_	_	
+35-6	5131-5137	Planta	_	_	_	
+35-7	5138-5143	Solis	_	_	_	
+35-8	5143-5144	:	_	_	_	
+35-9	5145-5147	of	_	_	_	
+35-10	5148-5151	the	_	_	_	
+35-11	5152-5157	seeds	_	_	_	
+35-12	5158-5164	hereof	_	_	_	
+35-13	5165-5169	they	_	_	_	
+35-14	5170-5174	make	_	_	_	
+35-15	5175-5179	both	_	_	_	
+35-16	5180-5181	a	_	_	_	
+35-17	5182-5187	kinde	_	_	_	
+35-18	5188-5190	of	_	_	_	
+35-19	5191-5196	bread	_	_	_	
+35-20	5199-5202	and	_	_	_	
+35-21	5203-5208	broth	_	_	_	
+35-22	5208-5209	.	_	_	_	
+
+#Text=All the aforesayde commodities for victuall are set or sowed, sometimes in 
+#Text= grounds apart and seuerally by themselues, but for the most part together 
+#Text= in one ground mixtly: the maner thereof, with the dressing and preparing 
+#Text= of the ground, because I will note vnto you the fertility of the soile, I 
+#Text= thinke good briefly to describe.
+36-1	5215-5218	All	_	_	_	
+36-2	5219-5222	the	_	_	_	
+36-3	5223-5233	aforesayde	_	_	_	
+36-4	5234-5245	commodities	_	_	_	
+36-5	5246-5249	for	_	_	_	
+36-6	5250-5258	victuall	_	_	_	
+36-7	5259-5262	are	_	_	_	
+36-8	5263-5266	set	_	_	_	
+36-9	5267-5269	or	_	_	_	
+36-10	5270-5275	sowed	_	_	_	
+36-11	5275-5276	,	_	_	_	
+36-12	5277-5286	sometimes	_	_	_	
+36-13	5287-5289	in	_	_	_	
+36-14	5292-5299	grounds	_	_	_	
+36-15	5300-5305	apart	_	_	_	
+36-16	5306-5309	and	_	_	_	
+36-17	5310-5319	seuerally	_	_	_	
+36-18	5320-5322	by	_	_	_	
+36-19	5323-5333	themselues	_	_	_	
+36-20	5333-5334	,	_	_	_	
+36-21	5335-5338	but	_	_	_	
+36-22	5339-5342	for	_	_	_	
+36-23	5343-5346	the	_	_	_	
+36-24	5347-5351	most	_	_	_	
+36-25	5352-5356	part	_	_	_	
+36-26	5357-5365	together	_	_	_	
+36-27	5368-5370	in	_	_	_	
+36-28	5371-5374	one	_	_	_	
+36-29	5375-5381	ground	_	_	_	
+36-30	5382-5388	mixtly	_	_	_	
+36-31	5388-5389	:	_	_	_	
+36-32	5390-5393	the	_	_	_	
+36-33	5394-5399	maner	_	_	_	
+36-34	5400-5407	thereof	_	_	_	
+36-35	5407-5408	,	_	_	_	
+36-36	5409-5413	with	_	_	_	
+36-37	5414-5417	the	_	_	_	
+36-38	5418-5426	dressing	_	_	_	
+36-39	5427-5430	and	_	_	_	
+36-40	5431-5440	preparing	_	_	_	
+36-41	5443-5445	of	_	_	_	
+36-42	5446-5449	the	_	_	_	
+36-43	5450-5456	ground	_	_	_	
+36-44	5456-5457	,	_	_	_	
+36-45	5458-5465	because	_	_	_	
+36-46	5466-5467	I	_	_	_	
+36-47	5468-5472	will	_	_	_	
+36-48	5473-5477	note	_	_	_	
+36-49	5478-5482	vnto	_	_	_	
+36-50	5483-5486	you	_	_	_	
+36-51	5487-5490	the	_	_	_	
+36-52	5491-5500	fertility	_	_	_	
+36-53	5501-5503	of	_	_	_	
+36-54	5504-5507	the	_	_	_	
+36-55	5508-5513	soile	_	_	_	
+36-56	5513-5514	,	_	_	_	
+36-57	5515-5516	I	_	_	_	
+36-58	5519-5525	thinke	_	_	_	
+36-59	5526-5530	good	_	_	_	
+36-60	5531-5538	briefly	_	_	_	
+36-61	5539-5541	to	_	_	_	
+36-62	5542-5550	describe	_	_	_	
+36-63	5550-5551	.	_	_	_	
+
+#Text=The ground they neuer fatten with mucke, dung, or any other thing, neither 
+#Text= plow nor digge it as we in England, but onely prepare it in sort as 
+#Text= followeth.
+37-1	5557-5560	The	_	_	_	
+37-2	5561-5567	ground	_	_	_	
+37-3	5568-5572	they	_	_	_	
+37-4	5573-5578	neuer	_	_	_	
+37-5	5579-5585	fatten	_	_	_	
+37-6	5586-5590	with	_	_	_	
+37-7	5591-5596	mucke	_	_	_	
+37-8	5596-5597	,	_	_	_	
+37-9	5598-5602	dung	_	_	_	
+37-10	5602-5603	,	_	_	_	
+37-11	5604-5606	or	_	_	_	
+37-12	5607-5610	any	_	_	_	
+37-13	5611-5616	other	_	_	_	
+37-14	5617-5622	thing	_	_	_	
+37-15	5622-5623	,	_	_	_	
+37-16	5624-5631	neither	_	_	_	
+37-17	5634-5638	plow	_	_	_	
+37-18	5639-5642	nor	_	_	_	
+37-19	5643-5648	digge	_	_	_	
+37-20	5649-5651	it	_	_	_	
+37-21	5652-5654	as	_	_	_	
+37-22	5655-5657	we	_	_	_	
+37-23	5658-5660	in	_	_	_	
+37-24	5661-5668	England	_	_	_	
+37-25	5668-5669	,	_	_	_	
+37-26	5670-5673	but	_	_	_	
+37-27	5674-5679	onely	_	_	_	
+37-28	5680-5687	prepare	_	_	_	
+37-29	5688-5690	it	_	_	_	
+37-30	5691-5693	in	_	_	_	
+37-31	5694-5698	sort	_	_	_	
+37-32	5699-5701	as	_	_	_	
+37-33	5704-5713	followeth	_	_	_	
+37-34	5713-5714	.	_	_	_	
+
+#Text=A few days before they sowe or set, the men with woodden 
+#Text= instruments made almost in forme of mattocks or hoes with long handles: 
+#Text= the women with short peckers or parers, because they vse them sitting, of
+#Text=growing many together one by another in ropes, as though they were 
+#Text= fastened with a string.
+38-1	5715-5716	A	_	_	_	
+38-2	5717-5720	few	_	_	_	
+38-3	5721-5725	days	_	_	_	
+38-4	5726-5732	before	_	_	_	
+38-5	5733-5737	they	_	_	_	
+38-6	5738-5742	sowe	_	_	_	
+38-7	5743-5745	or	_	_	_	
+38-8	5746-5749	set	_	_	_	
+38-9	5749-5750	,	_	_	_	
+38-10	5751-5754	the	_	_	_	
+38-11	5755-5758	men	_	_	_	
+38-12	5759-5763	with	_	_	_	
+38-13	5764-5771	woodden	_	_	_	
+38-14	5774-5785	instruments	_	_	_	
+38-15	5786-5790	made	_	_	_	
+38-16	5791-5797	almost	_	_	_	
+38-17	5798-5800	in	_	_	_	
+38-18	5801-5806	forme	_	_	_	
+38-19	5807-5809	of	_	_	_	
+38-20	5810-5818	mattocks	_	_	_	
+38-21	5819-5821	or	_	_	_	
+38-22	5822-5826	hoes	_	_	_	
+38-23	5827-5831	with	_	_	_	
+38-24	5832-5836	long	_	_	_	
+38-25	5837-5844	handles	_	_	_	
+38-26	5844-5845	:	_	_	_	
+38-27	5848-5851	the	_	_	_	
+38-28	5852-5857	women	_	_	_	
+38-29	5858-5862	with	_	_	_	
+38-30	5863-5868	short	_	_	_	
+38-31	5869-5876	peckers	_	_	_	
+38-32	5877-5879	or	_	_	_	
+38-33	5880-5886	parers	_	_	_	
+38-34	5886-5887	,	_	_	_	
+38-35	5888-5895	because	_	_	_	
+38-36	5896-5900	they	_	_	_	
+38-37	5901-5904	vse	_	_	_	
+38-38	5905-5909	them	_	_	_	
+38-39	5910-5917	sitting	_	_	_	
+38-40	5917-5918	,	_	_	_	
+38-41	5919-5921	of	_	_	_	
+38-42	5922-5929	growing	_	_	_	
+38-43	5930-5934	many	_	_	_	
+38-44	5935-5943	together	_	_	_	
+38-45	5944-5947	one	_	_	_	
+38-46	5948-5950	by	_	_	_	
+38-47	5951-5958	another	_	_	_	
+38-48	5959-5961	in	_	_	_	
+38-49	5962-5967	ropes	_	_	_	
+38-50	5967-5968	,	_	_	_	
+38-51	5969-5971	as	_	_	_	
+38-52	5972-5978	though	_	_	_	
+38-53	5979-5983	they	_	_	_	
+38-54	5984-5988	were	_	_	_	
+38-55	5991-5999	fastened	_	_	_	
+38-56	6000-6004	with	_	_	_	
+38-57	6005-6006	a	_	_	_	
+38-58	6007-6013	string	_	_	_	
+38-59	6013-6014	.	_	_	_	
+
+#Text=Being boiled or sodden, they are very good meat.
+39-1	6015-6020	Being	_	_	_	
+39-2	6021-6027	boiled	_	_	_	
+39-3	6028-6030	or	_	_	_	
+39-4	6031-6037	sodden	_	_	_	
+39-5	6037-6038	,	_	_	_	
+39-6	6039-6043	they	_	_	_	
+39-7	6044-6047	are	_	_	_	
+39-8	6048-6052	very	_	_	_	
+39-9	6053-6057	good	_	_	_	
+39-10	6058-6062	meat	_	_	_	
+39-11	6062-6063	.	_	_	_	
+
+#Text=(M306) Monardes calleth these roots, Beads or Pater nostri of Santa 
+#Text= Helena.(97) 
+#Text=  
+#Text= Okeepenauk are also of round shape, found in dry grounds: some are of the 
+#Text= bignesse of a mans head.
+40-1	6066-6067	(	_	_	_	
+40-2	6067-6071	M306	_	_	_	
+40-3	6071-6072	)	_	_	_	
+40-4	6073-6081	Monardes	_	_	_	
+40-5	6082-6089	calleth	_	_	_	
+40-6	6090-6095	these	_	_	_	
+40-7	6096-6101	roots	_	_	_	
+40-8	6101-6102	,	_	_	_	
+40-9	6103-6108	Beads	Taste Source	_	_	
+40-10	6109-6111	or	_	_	_	
+40-11	6112-6117	Pater	Taste Source[21]	_	_	
+40-12	6118-6124	nostri	Taste Source[21]	_	_	
+40-13	6125-6127	of	Taste Source[21]	_	_	
+40-14	6128-6133	Santa	Taste Source[21]	_	_	
+40-15	6136-6142	Helena	Taste Source[21]	_	_	
+40-16	6142-6143	.	_	_	_	
+40-17	6143-6144	(	_	_	_	
+40-18	6144-6146	97	_	_	_	
+40-19	6146-6147	)	_	_	_	
+40-20	6153-6163	Okeepenauk	_	_	_	
+40-21	6164-6167	are	_	_	_	
+40-22	6168-6172	also	_	_	_	
+40-23	6173-6175	of	_	_	_	
+40-24	6176-6181	round	_	_	_	
+40-25	6182-6187	shape	_	_	_	
+40-26	6187-6188	,	_	_	_	
+40-27	6189-6194	found	_	_	_	
+40-28	6195-6197	in	_	_	_	
+40-29	6198-6201	dry	_	_	_	
+40-30	6202-6209	grounds	_	_	_	
+40-31	6209-6210	:	_	_	_	
+40-32	6211-6215	some	_	_	_	
+40-33	6216-6219	are	_	_	_	
+40-34	6220-6222	of	_	_	_	
+40-35	6223-6226	the	_	_	_	
+40-36	6229-6237	bignesse	_	_	_	
+40-37	6238-6240	of	_	_	_	
+40-38	6241-6242	a	_	_	_	
+40-39	6243-6247	mans	_	_	_	
+40-40	6248-6252	head	_	_	_	
+40-41	6252-6253	.	_	_	_	
+
+#Text=They are to be eaten as they are taken out of the 
+#Text= ground: for by reason of their drinesse they will neither rost nor seethe.
+41-1	6254-6258	They	Taste Source	anaphorical|anaphorical	40-9|40-11[21_0]	
+41-2	6259-6262	are	_	_	_	
+41-3	6263-6265	to	_	_	_	
+41-4	6266-6268	be	_	_	_	
+41-5	6269-6274	eaten	Taste Word	*|*	41-1|41-6[22_0]	
+41-6	6275-6277	as	Circumstance[22]	_	_	
+41-7	6278-6282	they	Circumstance[22]	_	_	
+41-8	6283-6286	are	Circumstance[22]	_	_	
+41-9	6287-6292	taken	Circumstance[22]	_	_	
+41-10	6293-6296	out	Circumstance[22]	_	_	
+41-11	6297-6299	of	Circumstance[22]	_	_	
+41-12	6300-6303	the	Circumstance[22]	_	_	
+41-13	6306-6312	ground	Circumstance[22]	_	_	
+41-14	6312-6313	:	_	_	_	
+41-15	6314-6317	for	_	_	_	
+41-16	6318-6320	by	_	_	_	
+41-17	6321-6327	reason	_	_	_	
+41-18	6328-6330	of	_	_	_	
+41-19	6331-6336	their	_	_	_	
+41-20	6337-6345	drinesse	_	_	_	
+41-21	6346-6350	they	_	_	_	
+41-22	6351-6355	will	_	_	_	
+41-23	6356-6363	neither	_	_	_	
+41-24	6364-6368	rost	_	_	_	
+41-25	6369-6372	nor	_	_	_	
+41-26	6373-6379	seethe	_	_	_	
+41-27	6379-6380	.	_	_	_	
+
+#Text=Their taste is not so good as of the former roots: notwithstanding for 
+#Text= want of bread, and sometimes for variety the inhabitants vse to eat them 
+#Text= with fish or flesh, and in my iudgement they do as well as the housholde 
+#Text= bread made of Rie here in England.
+42-1	6383-6388	Their	Taste Source	anaphorical|anaphorical	40-9|40-11[21_0]	
+42-2	6389-6394	taste	Taste Word	*|*|*	42-1|42-4[23_0]|42-7[24_0]	
+42-3	6395-6397	is	_	_	_	
+42-4	6398-6401	not	Quality[23]	_	_	
+42-5	6402-6404	so	Quality[23]	_	_	
+42-6	6405-6409	good	Quality[23]	_	_	
+42-7	6410-6412	as	Evoked Taste[24]	_	_	
+42-8	6413-6415	of	Evoked Taste[24]	_	_	
+42-9	6416-6419	the	Evoked Taste[24]	_	_	
+42-10	6420-6426	former	Evoked Taste[24]	_	_	
+42-11	6427-6432	roots	Evoked Taste[24]	_	_	
+42-12	6432-6433	:	_	_	_	
+42-13	6434-6449	notwithstanding	_	_	_	
+42-14	6450-6453	for	_	_	_	
+42-15	6456-6460	want	_	_	_	
+42-16	6461-6463	of	_	_	_	
+42-17	6464-6469	bread	_	_	_	
+42-18	6469-6470	,	_	_	_	
+42-19	6471-6474	and	_	_	_	
+42-20	6475-6484	sometimes	_	_	_	
+42-21	6485-6488	for	Circumstance[25]	_	_	
+42-22	6489-6496	variety	Circumstance[25]	_	_	
+42-23	6497-6500	the	Taster[26]	_	_	
+42-24	6501-6512	inhabitants	Taster[26]	_	_	
+42-25	6513-6516	vse	_	_	_	
+42-26	6517-6519	to	_	_	_	
+42-27	6520-6523	eat	Taste Word	*|*|*|*	42-28|42-23[26_0]|42-21[25_0]|42-29[27_0]	
+42-28	6524-6528	them	Taste Source	anaphorical|anaphorical	40-9|40-11[21_0]	
+42-29	6531-6535	with	Circumstance[27]	_	_	
+42-30	6536-6540	fish	Circumstance[27]	_	_	
+42-31	6541-6543	or	Circumstance[27]	_	_	
+42-32	6544-6549	flesh	Circumstance[27]	_	_	
+42-33	6549-6550	,	_	_	_	
+42-34	6551-6554	and	_	_	_	
+42-35	6555-6557	in	_	_	_	
+42-36	6558-6560	my	_	_	_	
+42-37	6561-6570	iudgement	_	_	_	
+42-38	6571-6575	they	_	_	_	
+42-39	6576-6578	do	_	_	_	
+42-40	6579-6581	as	_	_	_	
+42-41	6582-6586	well	_	_	_	
+42-42	6587-6589	as	_	_	_	
+42-43	6590-6593	the	_	_	_	
+42-44	6594-6603	housholde	_	_	_	
+42-45	6606-6611	bread	_	_	_	
+42-46	6612-6616	made	_	_	_	
+42-47	6617-6619	of	_	_	_	
+42-48	6620-6623	Rie	_	_	_	
+42-49	6624-6628	here	_	_	_	
+42-50	6629-6631	in	_	_	_	
+42-51	6632-6639	England	_	_	_	
+42-52	6639-6640	.	_	_	_	
+
+#Text=Kaishucpenauk, a white kinde of roots about the bignesse of hennes egges, 
+#Text= and neere of that forme: their taste was not so good to our seeming as of 
+#Text= the other, and therefore their place and maner of growing not so much 
+#Text= cared for by vs: the inhabitants notwithstanding vsed to boile and eat 
+#Text= many.
+43-1	6646-6659	Kaishucpenauk	Taste Source	_	_	
+43-2	6659-6660	,	_	_	_	
+43-3	6661-6662	a	_	_	_	
+43-4	6663-6668	white	_	_	_	
+43-5	6669-6674	kinde	_	_	_	
+43-6	6675-6677	of	_	_	_	
+43-7	6678-6683	roots	_	_	_	
+43-8	6684-6689	about	_	_	_	
+43-9	6690-6693	the	_	_	_	
+43-10	6694-6702	bignesse	_	_	_	
+43-11	6703-6705	of	_	_	_	
+43-12	6706-6712	hennes	_	_	_	
+43-13	6713-6718	egges	_	_	_	
+43-14	6718-6719	,	_	_	_	
+43-15	6722-6725	and	_	_	_	
+43-16	6726-6731	neere	_	_	_	
+43-17	6732-6734	of	_	_	_	
+43-18	6735-6739	that	_	_	_	
+43-19	6740-6745	forme	_	_	_	
+43-20	6745-6746	:	_	_	_	
+43-21	6747-6752	their	Taste Source	anaphorical	43-1	
+43-22	6753-6758	taste	Taste Word	*|*|*	43-21|43-24[28_0]|43-30[29_0]	
+43-23	6759-6762	was	_	_	_	
+43-24	6763-6766	not	Quality[28]	_	_	
+43-25	6767-6769	so	Quality[28]	_	_	
+43-26	6770-6774	good	Quality[28]	_	_	
+43-27	6775-6777	to	_	_	_	
+43-28	6778-6781	our	_	_	_	
+43-29	6782-6789	seeming	_	_	_	
+43-30	6790-6792	as	Evoked Taste[29]	_	_	
+43-31	6793-6795	of	Evoked Taste[29]	_	_	
+43-32	6798-6801	the	Evoked Taste[29]	_	_	
+43-33	6802-6807	other	Evoked Taste[29]	_	_	
+43-34	6807-6808	,	_	_	_	
+43-35	6809-6812	and	_	_	_	
+43-36	6813-6822	therefore	_	_	_	
+43-37	6823-6828	their	_	_	_	
+43-38	6829-6834	place	_	_	_	
+43-39	6835-6838	and	_	_	_	
+43-40	6839-6844	maner	_	_	_	
+43-41	6845-6847	of	_	_	_	
+43-42	6848-6855	growing	_	_	_	
+43-43	6856-6859	not	_	_	_	
+43-44	6860-6862	so	_	_	_	
+43-45	6863-6867	much	_	_	_	
+43-46	6870-6875	cared	_	_	_	
+43-47	6876-6879	for	_	_	_	
+43-48	6880-6882	by	_	_	_	
+43-49	6883-6885	vs	_	_	_	
+43-50	6885-6886	:	_	_	_	
+43-51	6887-6890	the	Taster[30]	_	_	
+43-52	6891-6902	inhabitants	Taster[30]	_	_	
+43-53	6903-6918	notwithstanding	_	_	_	
+43-54	6919-6923	vsed	_	_	_	
+43-55	6924-6926	to	_	_	_	
+43-56	6927-6932	boile	_	_	_	
+43-57	6933-6936	and	_	_	_	
+43-58	6937-6940	eat	Taste Word	*	43-51[30_0]	
+43-59	6943-6947	many	_	_	_	
+43-60	6947-6948	.	_	_	_	
+
+#Text=Tsinaw, a kind of root much like vnto that which in England is called the
+#Text=China root brought from the East Indies.
+44-1	6954-6960	Tsinaw	_	_	_	
+44-2	6960-6961	,	_	_	_	
+44-3	6962-6963	a	_	_	_	
+44-4	6964-6968	kind	_	_	_	
+44-5	6969-6971	of	_	_	_	
+44-6	6972-6976	root	_	_	_	
+44-7	6977-6981	much	_	_	_	
+44-8	6982-6986	like	_	_	_	
+44-9	6987-6991	vnto	_	_	_	
+44-10	6992-6996	that	_	_	_	
+44-11	6997-7002	which	_	_	_	
+44-12	7003-7005	in	_	_	_	
+44-13	7006-7013	England	_	_	_	
+44-14	7014-7016	is	_	_	_	
+44-15	7017-7023	called	_	_	_	
+44-16	7024-7027	the	_	_	_	
+44-17	7028-7033	China	_	_	_	
+44-18	7034-7038	root	_	_	_	
+44-19	7039-7046	brought	_	_	_	
+44-20	7047-7051	from	_	_	_	
+44-21	7052-7055	the	_	_	_	
+44-22	7056-7060	East	_	_	_	
+44-23	7061-7067	Indies	_	_	_	
+44-24	7067-7068	.	_	_	_	
+
+#Text=And we know not any thing to the 
+#Text= contrary but that it may be of the same kinde.
+45-1	7069-7072	And	_	_	_	
+45-2	7073-7075	we	_	_	_	
+45-3	7076-7080	know	_	_	_	
+45-4	7081-7084	not	_	_	_	
+45-5	7085-7088	any	_	_	_	
+45-6	7089-7094	thing	_	_	_	
+45-7	7095-7097	to	_	_	_	
+45-8	7098-7101	the	_	_	_	
+45-9	7104-7112	contrary	_	_	_	
+45-10	7113-7116	but	_	_	_	
+45-11	7117-7121	that	_	_	_	
+45-12	7122-7124	it	_	_	_	
+45-13	7125-7128	may	_	_	_	
+45-14	7129-7131	be	_	_	_	
+45-15	7132-7134	of	_	_	_	
+45-16	7135-7138	the	_	_	_	
+45-17	7139-7143	same	_	_	_	
+45-18	7144-7149	kinde	_	_	_	
+45-19	7149-7150	.	_	_	_	
+
+#Text=These roots grow many 
+#Text= together in great clusters, and do bring foorth a brier stalke, but the 
+#Text= leafe in shape farre vnlike: which being supported by the trees it groweth 
+#Text= neerest vnto, will reach or climbe to the top of the highest.
+46-1	7151-7156	These	_	_	_	
+46-2	7157-7162	roots	_	_	_	
+46-3	7163-7167	grow	_	_	_	
+46-4	7168-7172	many	_	_	_	
+46-5	7175-7183	together	_	_	_	
+46-6	7184-7186	in	_	_	_	
+46-7	7187-7192	great	_	_	_	
+46-8	7193-7201	clusters	_	_	_	
+46-9	7201-7202	,	_	_	_	
+46-10	7203-7206	and	_	_	_	
+46-11	7207-7209	do	_	_	_	
+46-12	7210-7215	bring	_	_	_	
+46-13	7216-7222	foorth	_	_	_	
+46-14	7223-7224	a	_	_	_	
+46-15	7225-7230	brier	_	_	_	
+46-16	7231-7237	stalke	_	_	_	
+46-17	7237-7238	,	_	_	_	
+46-18	7239-7242	but	_	_	_	
+46-19	7243-7246	the	_	_	_	
+46-20	7249-7254	leafe	_	_	_	
+46-21	7255-7257	in	_	_	_	
+46-22	7258-7263	shape	_	_	_	
+46-23	7264-7269	farre	_	_	_	
+46-24	7270-7276	vnlike	_	_	_	
+46-25	7276-7277	:	_	_	_	
+46-26	7278-7283	which	_	_	_	
+46-27	7284-7289	being	_	_	_	
+46-28	7290-7299	supported	_	_	_	
+46-29	7300-7302	by	_	_	_	
+46-30	7303-7306	the	_	_	_	
+46-31	7307-7312	trees	_	_	_	
+46-32	7313-7315	it	_	_	_	
+46-33	7316-7323	groweth	_	_	_	
+46-34	7326-7333	neerest	_	_	_	
+46-35	7334-7338	vnto	_	_	_	
+46-36	7338-7339	,	_	_	_	
+46-37	7340-7344	will	_	_	_	
+46-38	7345-7350	reach	_	_	_	
+46-39	7351-7353	or	_	_	_	
+46-40	7354-7360	climbe	_	_	_	
+46-41	7361-7363	to	_	_	_	
+46-42	7364-7367	the	_	_	_	
+46-43	7368-7371	top	_	_	_	
+46-44	7372-7374	of	_	_	_	
+46-45	7375-7378	the	_	_	_	
+46-46	7379-7386	highest	_	_	_	
+46-47	7386-7387	.	_	_	_	
+
+#Text=From these 
+#Text= roots while they be new or fresh, being chapt into small pieces, and 
+#Text= stampt, is strained with water a iuice that maketh bread, and also being 
+#Text= boiled, a very good spoonmeat in maner of a gelly, and is much better in 
+#Text= taste, if it be tempered with oile.
+47-1	7388-7392	From	_	_	_	
+47-2	7393-7398	these	Taste Source[31]	_	_	
+47-3	7401-7406	roots	Taste Source[31]	_	_	
+47-4	7407-7412	while	_	_	_	
+47-5	7413-7417	they	_	_	_	
+47-6	7418-7420	be	_	_	_	
+47-7	7421-7424	new	_	_	_	
+47-8	7425-7427	or	_	_	_	
+47-9	7428-7433	fresh	_	_	_	
+47-10	7433-7434	,	_	_	_	
+47-11	7435-7440	being	_	_	_	
+47-12	7441-7446	chapt	_	_	_	
+47-13	7447-7451	into	_	_	_	
+47-14	7452-7457	small	_	_	_	
+47-15	7458-7464	pieces	_	_	_	
+47-16	7464-7465	,	_	_	_	
+47-17	7466-7469	and	_	_	_	
+47-18	7472-7478	stampt	_	_	_	
+47-19	7478-7479	,	_	_	_	
+47-20	7480-7482	is	_	_	_	
+47-21	7483-7491	strained	_	_	_	
+47-22	7492-7496	with	_	_	_	
+47-23	7497-7502	water	_	_	_	
+47-24	7503-7504	a	_	_	_	
+47-25	7505-7510	iuice	_	_	_	
+47-26	7511-7515	that	_	_	_	
+47-27	7516-7522	maketh	_	_	_	
+47-28	7523-7528	bread	_	_	_	
+47-29	7528-7529	,	_	_	_	
+47-30	7530-7533	and	_	_	_	
+47-31	7534-7538	also	_	_	_	
+47-32	7539-7544	being	_	_	_	
+47-33	7547-7553	boiled	_	_	_	
+47-34	7553-7554	,	_	_	_	
+47-35	7555-7556	a	_	_	_	
+47-36	7557-7561	very	_	_	_	
+47-37	7562-7566	good	_	_	_	
+47-38	7567-7576	spoonmeat	_	_	_	
+47-39	7577-7579	in	_	_	_	
+47-40	7580-7585	maner	_	_	_	
+47-41	7586-7588	of	_	_	_	
+47-42	7589-7590	a	_	_	_	
+47-43	7591-7596	gelly	_	_	_	
+47-44	7596-7597	,	_	_	_	
+47-45	7598-7601	and	_	_	_	
+47-46	7602-7604	is	_	_	_	
+47-47	7605-7609	much	Quality[32]	_	_	
+47-48	7610-7616	better	Quality[32]	_	_	
+47-49	7617-7619	in	_	_	_	
+47-50	7622-7627	taste	Taste Word	*|*|*	47-2[31_0]|47-47[32_0]|47-52[33_0]	
+47-51	7627-7628	,	_	_	_	
+47-52	7629-7631	if	Circumstance[33]	_	_	
+47-53	7632-7634	it	Circumstance[33]	_	_	
+47-54	7635-7637	be	Circumstance[33]	_	_	
+47-55	7638-7646	tempered	Circumstance[33]	_	_	
+47-56	7647-7651	with	Circumstance[33]	_	_	
+47-57	7652-7656	oile	Circumstance[33]	_	_	
+47-58	7656-7657	.	_	_	_	
+
+#Text=This Tsinaw is not of that sort, which 
+#Text= by some was caused to be brought into England for the China root; for it 
+#Text= was discouered since, and is in vse as is aforesayd: but that which was 
+#Text= brought hither is not yet knowen, neither by vs nor by the inhabitants to 
+#Text= serue for any vse or purpose, although the roots in shape are very like.
+48-1	7658-7662	This	_	_	_	
+48-2	7663-7669	Tsinaw	_	_	_	
+48-3	7670-7672	is	_	_	_	
+48-4	7673-7676	not	_	_	_	
+48-5	7677-7679	of	_	_	_	
+48-6	7680-7684	that	_	_	_	
+48-7	7685-7689	sort	_	_	_	
+48-8	7689-7690	,	_	_	_	
+48-9	7691-7696	which	_	_	_	
+48-10	7699-7701	by	_	_	_	
+48-11	7702-7706	some	_	_	_	
+48-12	7707-7710	was	_	_	_	
+48-13	7711-7717	caused	_	_	_	
+48-14	7718-7720	to	_	_	_	
+48-15	7721-7723	be	_	_	_	
+48-16	7724-7731	brought	_	_	_	
+48-17	7732-7736	into	_	_	_	
+48-18	7737-7744	England	_	_	_	
+48-19	7745-7748	for	_	_	_	
+48-20	7749-7752	the	_	_	_	
+48-21	7753-7758	China	_	_	_	
+48-22	7759-7763	root	_	_	_	
+48-23	7763-7764	;	_	_	_	
+48-24	7765-7768	for	_	_	_	
+48-25	7769-7771	it	_	_	_	
+48-26	7774-7777	was	_	_	_	
+48-27	7778-7788	discouered	_	_	_	
+48-28	7789-7794	since	_	_	_	
+48-29	7794-7795	,	_	_	_	
+48-30	7796-7799	and	_	_	_	
+48-31	7800-7802	is	_	_	_	
+48-32	7803-7805	in	_	_	_	
+48-33	7806-7809	vse	_	_	_	
+48-34	7810-7812	as	_	_	_	
+48-35	7813-7815	is	_	_	_	
+48-36	7816-7825	aforesayd	_	_	_	
+48-37	7825-7826	:	_	_	_	
+48-38	7827-7830	but	_	_	_	
+48-39	7831-7835	that	_	_	_	
+48-40	7836-7841	which	_	_	_	
+48-41	7842-7845	was	_	_	_	
+48-42	7848-7855	brought	_	_	_	
+48-43	7856-7862	hither	_	_	_	
+48-44	7863-7865	is	_	_	_	
+48-45	7866-7869	not	_	_	_	
+48-46	7870-7873	yet	_	_	_	
+48-47	7874-7880	knowen	_	_	_	
+48-48	7880-7881	,	_	_	_	
+48-49	7882-7889	neither	_	_	_	
+48-50	7890-7892	by	_	_	_	
+48-51	7893-7895	vs	_	_	_	
+48-52	7896-7899	nor	_	_	_	
+48-53	7900-7902	by	_	_	_	
+48-54	7903-7906	the	_	_	_	
+48-55	7907-7918	inhabitants	_	_	_	
+48-56	7919-7921	to	_	_	_	
+48-57	7924-7929	serue	_	_	_	
+48-58	7930-7933	for	_	_	_	
+48-59	7934-7937	any	_	_	_	
+48-60	7938-7941	vse	_	_	_	
+48-61	7942-7944	or	_	_	_	
+48-62	7945-7952	purpose	_	_	_	
+48-63	7952-7953	,	_	_	_	
+48-64	7954-7962	although	_	_	_	
+48-65	7963-7966	the	_	_	_	
+48-66	7967-7972	roots	_	_	_	
+48-67	7973-7975	in	_	_	_	
+48-68	7976-7981	shape	_	_	_	
+48-69	7982-7985	are	_	_	_	
+48-70	7986-7990	very	_	_	_	
+48-71	7991-7995	like	_	_	_	
+48-72	7995-7996	.	_	_	_	
+
+#Text=Coscushaw some of our company tooke to be that kinde of root which the 
+#Text= Spanyards in the West Indies call Cassauy, whereupon also many called it 
+#Text= by that name: it groweth in very muddy pooles, and moist grounds.
+49-1	8002-8011	Coscushaw	_	_	_	
+49-2	8012-8016	some	_	_	_	
+49-3	8017-8019	of	_	_	_	
+49-4	8020-8023	our	_	_	_	
+49-5	8024-8031	company	_	_	_	
+49-6	8032-8037	tooke	_	_	_	
+49-7	8038-8040	to	_	_	_	
+49-8	8041-8043	be	_	_	_	
+49-9	8044-8048	that	_	_	_	
+49-10	8049-8054	kinde	_	_	_	
+49-11	8055-8057	of	_	_	_	
+49-12	8058-8062	root	_	_	_	
+49-13	8063-8068	which	_	_	_	
+49-14	8069-8072	the	_	_	_	
+49-15	8075-8084	Spanyards	_	_	_	
+49-16	8085-8087	in	_	_	_	
+49-17	8088-8091	the	_	_	_	
+49-18	8092-8096	West	_	_	_	
+49-19	8097-8103	Indies	_	_	_	
+49-20	8104-8108	call	_	_	_	
+49-21	8109-8116	Cassauy	_	_	_	
+49-22	8116-8117	,	_	_	_	
+49-23	8118-8127	whereupon	_	_	_	
+49-24	8128-8132	also	_	_	_	
+49-25	8133-8137	many	_	_	_	
+49-26	8138-8144	called	_	_	_	
+49-27	8145-8147	it	_	_	_	
+49-28	8150-8152	by	_	_	_	
+49-29	8153-8157	that	_	_	_	
+49-30	8158-8162	name	_	_	_	
+49-31	8162-8163	:	_	_	_	
+49-32	8164-8166	it	_	_	_	
+49-33	8167-8174	groweth	_	_	_	
+49-34	8175-8177	in	_	_	_	
+49-35	8178-8182	very	_	_	_	
+49-36	8183-8188	muddy	_	_	_	
+49-37	8189-8195	pooles	_	_	_	
+49-38	8195-8196	,	_	_	_	
+49-39	8197-8200	and	_	_	_	
+49-40	8201-8206	moist	_	_	_	
+49-41	8207-8214	grounds	_	_	_	
+49-42	8214-8215	.	_	_	_	
+
+#Text=Being 
+#Text= dressed according to the countrey maner, it maketh a good bread, and also 
+#Text= a good spoonmeat, and is vsed very much by the inhabitants.
+50-1	8216-8221	Being	_	_	_	
+50-2	8224-8231	dressed	_	_	_	
+50-3	8232-8241	according	_	_	_	
+50-4	8242-8244	to	_	_	_	
+50-5	8245-8248	the	_	_	_	
+50-6	8249-8257	countrey	_	_	_	
+50-7	8258-8263	maner	_	_	_	
+50-8	8263-8264	,	_	_	_	
+50-9	8265-8267	it	_	_	_	
+50-10	8268-8274	maketh	_	_	_	
+50-11	8275-8276	a	_	_	_	
+50-12	8277-8281	good	_	_	_	
+50-13	8282-8287	bread	_	_	_	
+50-14	8287-8288	,	_	_	_	
+50-15	8289-8292	and	_	_	_	
+50-16	8293-8297	also	_	_	_	
+50-17	8300-8301	a	_	_	_	
+50-18	8302-8306	good	_	_	_	
+50-19	8307-8316	spoonmeat	_	_	_	
+50-20	8316-8317	,	_	_	_	
+50-21	8318-8321	and	_	_	_	
+50-22	8322-8324	is	_	_	_	
+50-23	8325-8329	vsed	_	_	_	
+50-24	8330-8334	very	_	_	_	
+50-25	8335-8339	much	_	_	_	
+50-26	8340-8342	by	_	_	_	
+50-27	8343-8346	the	_	_	_	
+50-28	8347-8358	inhabitants	_	_	_	
+50-29	8358-8359	.	_	_	_	
+
+#Text=(M307) The 
+#Text= iuice of this root is poison, and therefore heed must be taken before any
+#Text=thing be made therewithall: either the roots must be first sliced and 
+#Text= dried in the Sunne, or by the fire, and then being punned into floure, 
+#Text= will make good bread: or els while they are greene they are to be pared, 
+#Text= cut in pieces, and stampt: loaues of the same to be layd nere or ouer the 
+#Text= fire vntill it be sowre; and then being well punned againe, bread or 
+#Text= spoonmeat very good in taste and holesome may be made thereof.
+51-1	8360-8361	(	_	_	_	
+51-2	8361-8365	M307	_	_	_	
+51-3	8365-8366	)	_	_	_	
+51-4	8367-8370	The	_	_	_	
+51-5	8373-8378	iuice	_	_	_	
+51-6	8379-8381	of	_	_	_	
+51-7	8382-8386	this	_	_	_	
+51-8	8387-8391	root	_	_	_	
+51-9	8392-8394	is	_	_	_	
+51-10	8395-8401	poison	_	_	_	
+51-11	8401-8402	,	_	_	_	
+51-12	8403-8406	and	_	_	_	
+51-13	8407-8416	therefore	_	_	_	
+51-14	8417-8421	heed	_	_	_	
+51-15	8422-8426	must	_	_	_	
+51-16	8427-8429	be	_	_	_	
+51-17	8430-8435	taken	_	_	_	
+51-18	8436-8442	before	_	_	_	
+51-19	8443-8446	any	_	_	_	
+51-20	8447-8452	thing	_	_	_	
+51-21	8453-8455	be	_	_	_	
+51-22	8456-8460	made	_	_	_	
+51-23	8461-8473	therewithall	_	_	_	
+51-24	8473-8474	:	_	_	_	
+51-25	8475-8481	either	_	_	_	
+51-26	8482-8485	the	Taste Source[34]	_	_	
+51-27	8486-8491	roots	Taste Source[34]	_	_	
+51-28	8492-8496	must	_	_	_	
+51-29	8497-8499	be	_	_	_	
+51-30	8500-8505	first	_	_	_	
+51-31	8506-8512	sliced	_	_	_	
+51-32	8513-8516	and	_	_	_	
+51-33	8519-8524	dried	_	_	_	
+51-34	8525-8527	in	_	_	_	
+51-35	8528-8531	the	_	_	_	
+51-36	8532-8537	Sunne	_	_	_	
+51-37	8537-8538	,	_	_	_	
+51-38	8539-8541	or	_	_	_	
+51-39	8542-8544	by	_	_	_	
+51-40	8545-8548	the	_	_	_	
+51-41	8549-8553	fire	_	_	_	
+51-42	8553-8554	,	_	_	_	
+51-43	8555-8558	and	_	_	_	
+51-44	8559-8563	then	_	_	_	
+51-45	8564-8569	being	_	_	_	
+51-46	8570-8576	punned	_	_	_	
+51-47	8577-8581	into	_	_	_	
+51-48	8582-8588	floure	_	_	_	
+51-49	8588-8589	,	_	_	_	
+51-50	8592-8596	will	_	_	_	
+51-51	8597-8601	make	_	_	_	
+51-52	8602-8606	good	_	_	_	
+51-53	8607-8612	bread	_	_	_	
+51-54	8612-8613	:	_	_	_	
+51-55	8614-8616	or	_	_	_	
+51-56	8617-8620	els	_	_	_	
+51-57	8621-8626	while	_	_	_	
+51-58	8627-8631	they	_	_	_	
+51-59	8632-8635	are	_	_	_	
+51-60	8636-8642	greene	_	_	_	
+51-61	8643-8647	they	_	_	_	
+51-62	8648-8651	are	_	_	_	
+51-63	8652-8654	to	_	_	_	
+51-64	8655-8657	be	_	_	_	
+51-65	8658-8663	pared	_	_	_	
+51-66	8663-8664	,	_	_	_	
+51-67	8667-8670	cut	_	_	_	
+51-68	8671-8673	in	_	_	_	
+51-69	8674-8680	pieces	_	_	_	
+51-70	8680-8681	,	_	_	_	
+51-71	8682-8685	and	_	_	_	
+51-72	8686-8692	stampt	_	_	_	
+51-73	8692-8693	:	_	_	_	
+51-74	8694-8700	loaues	_	_	_	
+51-75	8701-8703	of	_	_	_	
+51-76	8704-8707	the	_	_	_	
+51-77	8708-8712	same	_	_	_	
+51-78	8713-8715	to	_	_	_	
+51-79	8716-8718	be	_	_	_	
+51-80	8719-8723	layd	_	_	_	
+51-81	8724-8728	nere	_	_	_	
+51-82	8729-8731	or	_	_	_	
+51-83	8732-8736	ouer	_	_	_	
+51-84	8737-8740	the	_	_	_	
+51-85	8743-8747	fire	_	_	_	
+51-86	8748-8754	vntill	_	_	_	
+51-87	8755-8757	it	_	_	_	
+51-88	8758-8760	be	_	_	_	
+51-89	8761-8766	sowre	Taste Word[35]|Quality[36]	*|*	51-89[36_35]|51-26[34_35]	
+51-90	8766-8767	;	_	_	_	
+51-91	8768-8771	and	_	_	_	
+51-92	8772-8776	then	_	_	_	
+51-93	8777-8782	being	_	_	_	
+51-94	8783-8787	well	_	_	_	
+51-95	8788-8794	punned	_	_	_	
+51-96	8795-8801	againe	_	_	_	
+51-97	8801-8802	,	_	_	_	
+51-98	8803-8808	bread	Taste Source	_	_	
+51-99	8809-8811	or	_	_	_	
+51-100	8814-8823	spoonmeat	Taste Source	_	_	
+51-101	8824-8828	very	Quality[37]	_	_	
+51-102	8829-8833	good	Quality[37]	_	_	
+51-103	8834-8836	in	_	_	_	
+51-104	8837-8842	taste	Taste Word	*|*|*	51-101[37_0]|51-98|51-100	
+51-105	8843-8846	and	_	_	_	
+51-106	8847-8855	holesome	_	_	_	
+51-107	8856-8859	may	_	_	_	
+51-108	8860-8862	be	_	_	_	
+51-109	8863-8867	made	_	_	_	
+51-110	8868-8875	thereof	_	_	_	
+51-111	8875-8876	.	_	_	_	
+
+#Text=Habascon is a root of hote taste, almost of the forme and bignesse of a 
+#Text= Parsnip: of it selfe it is no victuall, but onely a helpe, being boiled 
+#Text= together with other meats.
+52-1	8882-8890	Habascon	Taste Source	_	_	
+52-2	8891-8893	is	_	_	_	
+52-3	8894-8895	a	_	_	_	
+52-4	8896-8900	root	_	_	_	
+52-5	8901-8903	of	_	_	_	
+52-6	8904-8908	hote	Quality	_	_	
+52-7	8909-8914	taste	Taste Word	*|*	52-1|52-6	
+52-8	8914-8915	,	_	_	_	
+52-9	8916-8922	almost	_	_	_	
+52-10	8923-8925	of	_	_	_	
+52-11	8926-8929	the	_	_	_	
+52-12	8930-8935	forme	_	_	_	
+52-13	8936-8939	and	_	_	_	
+52-14	8940-8948	bignesse	_	_	_	
+52-15	8949-8951	of	_	_	_	
+52-16	8952-8953	a	_	_	_	
+52-17	8956-8963	Parsnip	_	_	_	
+52-18	8963-8964	:	_	_	_	
+52-19	8965-8967	of	_	_	_	
+52-20	8968-8970	it	_	_	_	
+52-21	8971-8976	selfe	_	_	_	
+52-22	8977-8979	it	_	_	_	
+52-23	8980-8982	is	_	_	_	
+52-24	8983-8985	no	_	_	_	
+52-25	8986-8994	victuall	_	_	_	
+52-26	8994-8995	,	_	_	_	
+52-27	8996-8999	but	_	_	_	
+52-28	9000-9005	onely	_	_	_	
+52-29	9006-9007	a	_	_	_	
+52-30	9008-9013	helpe	_	_	_	
+52-31	9013-9014	,	_	_	_	
+52-32	9015-9020	being	_	_	_	
+52-33	9021-9027	boiled	_	_	_	
+52-34	9030-9038	together	_	_	_	
+52-35	9039-9043	with	_	_	_	
+52-36	9044-9049	other	_	_	_	
+52-37	9050-9055	meats	_	_	_	
+52-38	9055-9056	.	_	_	_	
+
+#Text=There are also Leeks, differing little from ours in England, that grow in 
+#Text= many places of the countrey; of which, when we came in places where they 
+#Text= were, we gathered and eat many, but the naturall inhabitants neuer.
+53-1	9062-9067	There	_	_	_	
+53-2	9068-9071	are	_	_	_	
+53-3	9072-9076	also	_	_	_	
+53-4	9077-9082	Leeks	Taste Source	_	_	
+53-5	9082-9083	,	_	_	_	
+53-6	9084-9093	differing	_	_	_	
+53-7	9094-9100	little	_	_	_	
+53-8	9101-9105	from	_	_	_	
+53-9	9106-9110	ours	_	_	_	
+53-10	9111-9113	in	_	_	_	
+53-11	9114-9121	England	_	_	_	
+53-12	9121-9122	,	_	_	_	
+53-13	9123-9127	that	_	_	_	
+53-14	9128-9132	grow	_	_	_	
+53-15	9133-9135	in	_	_	_	
+53-16	9138-9142	many	_	_	_	
+53-17	9143-9149	places	_	_	_	
+53-18	9150-9152	of	_	_	_	
+53-19	9153-9156	the	_	_	_	
+53-20	9157-9165	countrey	_	_	_	
+53-21	9165-9166	;	_	_	_	
+53-22	9167-9169	of	_	_	_	
+53-23	9170-9175	which	_	_	_	
+53-24	9175-9176	,	_	_	_	
+53-25	9177-9181	when	_	_	_	
+53-26	9182-9184	we	_	_	_	
+53-27	9185-9189	came	_	_	_	
+53-28	9190-9192	in	_	_	_	
+53-29	9193-9199	places	_	_	_	
+53-30	9200-9205	where	_	_	_	
+53-31	9206-9210	they	_	_	_	
+53-32	9213-9217	were	_	_	_	
+53-33	9217-9218	,	_	_	_	
+53-34	9219-9221	we	Taster	_	_	
+53-35	9222-9230	gathered	_	_	_	
+53-36	9231-9234	and	_	_	_	
+53-37	9235-9238	eat	Taste Word	*|*	53-4|53-34	
+53-38	9239-9243	many	_	_	_	
+53-39	9243-9244	,	_	_	_	
+53-40	9245-9248	but	_	_	_	
+53-41	9249-9252	the	_	_	_	
+53-42	9253-9261	naturall	_	_	_	
+53-43	9262-9273	inhabitants	_	_	_	
+53-44	9274-9279	neuer	_	_	_	
+53-45	9279-9280	.	_	_	_	
+
+#Text=Of fruits.
+54-1	9289-9291	Of	_	_	_	
+54-2	9292-9298	fruits	_	_	_	
+54-3	9298-9299	.	_	_	_	
+
+#Text=Chesnuts there are in diuers places great store: some they vse to eat raw,
+#Text=some they stampe and boile to make spoonmeat, and with some being sodden, 
+#Text= they make such a maner of dough bread as they vse of their beanes before 
+#Text= mentioned.
+55-1	9308-9316	Chesnuts	Taste Source	_	_	
+55-2	9317-9322	there	_	_	_	
+55-3	9323-9326	are	_	_	_	
+55-4	9327-9329	in	_	_	_	
+55-5	9330-9336	diuers	_	_	_	
+55-6	9337-9343	places	_	_	_	
+55-7	9344-9349	great	_	_	_	
+55-8	9350-9355	store	_	_	_	
+55-9	9355-9356	:	_	_	_	
+55-10	9357-9361	some	_	_	_	
+55-11	9362-9366	they	_	_	_	
+55-12	9367-9370	vse	_	_	_	
+55-13	9371-9373	to	_	_	_	
+55-14	9374-9377	eat	Taste Word	*|*	55-15|55-1	
+55-15	9378-9381	raw	Circumstance	_	_	
+55-16	9381-9382	,	_	_	_	
+55-17	9383-9387	some	_	_	_	
+55-18	9388-9392	they	_	_	_	
+55-19	9393-9399	stampe	_	_	_	
+55-20	9400-9403	and	_	_	_	
+55-21	9404-9409	boile	_	_	_	
+55-22	9410-9412	to	_	_	_	
+55-23	9413-9417	make	_	_	_	
+55-24	9418-9427	spoonmeat	_	_	_	
+55-25	9427-9428	,	_	_	_	
+55-26	9429-9432	and	_	_	_	
+55-27	9433-9437	with	_	_	_	
+55-28	9438-9442	some	_	_	_	
+55-29	9443-9448	being	_	_	_	
+55-30	9449-9455	sodden	_	_	_	
+55-31	9455-9456	,	_	_	_	
+55-32	9459-9463	they	_	_	_	
+55-33	9464-9468	make	_	_	_	
+55-34	9469-9473	such	_	_	_	
+55-35	9474-9475	a	_	_	_	
+55-36	9476-9481	maner	_	_	_	
+55-37	9482-9484	of	_	_	_	
+55-38	9485-9490	dough	_	_	_	
+55-39	9491-9496	bread	_	_	_	
+55-40	9497-9499	as	_	_	_	
+55-41	9500-9504	they	_	_	_	
+55-42	9505-9508	vse	_	_	_	
+55-43	9509-9511	of	_	_	_	
+55-44	9512-9517	their	_	_	_	
+55-45	9518-9524	beanes	_	_	_	
+55-46	9525-9531	before	_	_	_	
+55-47	9534-9543	mentioned	_	_	_	
+55-48	9543-9544	.	_	_	_	
+
+#Text=Walnuts.
+56-1	9550-9557	Walnuts	_	_	_	
+56-2	9557-9558	.	_	_	_	
+
+#Text=There are two kinds of Walnuts, and of them infinite store: in 
+#Text= many places where are very great woods for many miles together, the third 
+#Text= part of trees are Walnut trees.
+57-1	9559-9564	There	_	_	_	
+57-2	9565-9568	are	_	_	_	
+57-3	9569-9572	two	_	_	_	
+57-4	9573-9578	kinds	_	_	_	
+57-5	9579-9581	of	_	_	_	
+57-6	9582-9589	Walnuts	Taste Source	_	_	
+57-7	9589-9590	,	_	_	_	
+57-8	9591-9594	and	_	_	_	
+57-9	9595-9597	of	_	_	_	
+57-10	9598-9602	them	_	_	_	
+57-11	9603-9611	infinite	_	_	_	
+57-12	9612-9617	store	_	_	_	
+57-13	9617-9618	:	_	_	_	
+57-14	9619-9621	in	_	_	_	
+57-15	9624-9628	many	_	_	_	
+57-16	9629-9635	places	_	_	_	
+57-17	9636-9641	where	_	_	_	
+57-18	9642-9645	are	_	_	_	
+57-19	9646-9650	very	_	_	_	
+57-20	9651-9656	great	_	_	_	
+57-21	9657-9662	woods	_	_	_	
+57-22	9663-9666	for	_	_	_	
+57-23	9667-9671	many	_	_	_	
+57-24	9672-9677	miles	_	_	_	
+57-25	9678-9686	together	_	_	_	
+57-26	9686-9687	,	_	_	_	
+57-27	9688-9691	the	_	_	_	
+57-28	9692-9697	third	_	_	_	
+57-29	9700-9704	part	_	_	_	
+57-30	9705-9707	of	_	_	_	
+57-31	9708-9713	trees	_	_	_	
+57-32	9714-9717	are	_	_	_	
+57-33	9718-9724	Walnut	_	_	_	
+57-34	9725-9730	trees	_	_	_	
+57-35	9730-9731	.	_	_	_	
+
+#Text=The one kind is of the same taste and 
+#Text= forme, or little differing from ours of England, but that they are harder 
+#Text= and thicker shelled: the other is greater, and hath a very ragged and hard 
+#Text= shell: but the kernel great, very oily and sweet.
+58-1	9732-9735	The	_	_	_	
+58-2	9736-9739	one	_	_	_	
+58-3	9740-9744	kind	_	_	_	
+58-4	9745-9747	is	_	_	_	
+58-5	9748-9750	of	_	_	_	
+58-6	9751-9754	the	_	_	_	
+58-7	9755-9759	same	Quality	_	_	
+58-8	9760-9765	taste	Taste Word	*|*	58-7|57-6	
+58-9	9766-9769	and	_	_	_	
+58-10	9772-9777	forme	_	_	_	
+58-11	9777-9778	,	_	_	_	
+58-12	9779-9781	or	_	_	_	
+58-13	9782-9788	little	_	_	_	
+58-14	9789-9798	differing	_	_	_	
+58-15	9799-9803	from	_	_	_	
+58-16	9804-9808	ours	_	_	_	
+58-17	9809-9811	of	_	_	_	
+58-18	9812-9819	England	_	_	_	
+58-19	9819-9820	,	_	_	_	
+58-20	9821-9824	but	_	_	_	
+58-21	9825-9829	that	_	_	_	
+58-22	9830-9834	they	_	_	_	
+58-23	9835-9838	are	_	_	_	
+58-24	9839-9845	harder	_	_	_	
+58-25	9848-9851	and	_	_	_	
+58-26	9852-9859	thicker	_	_	_	
+58-27	9860-9867	shelled	_	_	_	
+58-28	9867-9868	:	_	_	_	
+58-29	9869-9872	the	_	_	_	
+58-30	9873-9878	other	_	_	_	
+58-31	9879-9881	is	_	_	_	
+58-32	9882-9889	greater	_	_	_	
+58-33	9889-9890	,	_	_	_	
+58-34	9891-9894	and	_	_	_	
+58-35	9895-9899	hath	_	_	_	
+58-36	9900-9901	a	_	_	_	
+58-37	9902-9906	very	_	_	_	
+58-38	9907-9913	ragged	_	_	_	
+58-39	9914-9917	and	_	_	_	
+58-40	9918-9922	hard	_	_	_	
+58-41	9925-9930	shell	_	_	_	
+58-42	9930-9931	:	_	_	_	
+58-43	9932-9935	but	_	_	_	
+58-44	9936-9939	the	Taste Source[38]	_	_	
+58-45	9940-9946	kernel	Taste Source[38]	_	_	
+58-46	9947-9952	great	_	_	_	
+58-47	9952-9953	,	_	_	_	
+58-48	9954-9958	very	Quality	_	_	
+58-49	9959-9963	oily	_	_	_	
+58-50	9964-9967	and	_	_	_	
+58-51	9968-9973	sweet	Taste Word[39]|Quality[40]	*|*|*	58-51[40_39]|58-44[38_39]|58-48[0_39]	
+58-52	9973-9974	.	_	_	_	
+
+#Text=Besides their eating of 
+#Text= them after our ordinary maner, they breake them with stones, and punne 
+#Text= them in morters with water, to make a milke which they vse to put into 
+#Text= some sorts of their spoonemeat: also among their sodde wheat, peaze, 
+#Text= beanes and pompions, which maketh them haue a farre more pleasant taste.
+59-1	9975-9982	Besides	_	_	_	
+59-2	9983-9988	their	_	_	_	
+59-3	9989-9995	eating	Taste Word	*|*	59-4[41_0]|59-6[42_0]	
+59-4	9996-9998	of	Taste Source[41]	anaphorical	57-6[0_41]	
+59-5	10001-10005	them	Taste Source[41]	_	_	
+59-6	10006-10011	after	Circumstance[42]	_	_	
+59-7	10012-10015	our	Circumstance[42]	_	_	
+59-8	10016-10024	ordinary	Circumstance[42]	_	_	
+59-9	10025-10030	maner	Circumstance[42]	_	_	
+59-10	10030-10031	,	_	_	_	
+59-11	10032-10036	they	_	_	_	
+59-12	10037-10043	breake	_	_	_	
+59-13	10044-10048	them	_	_	_	
+59-14	10049-10053	with	_	_	_	
+59-15	10054-10060	stones	_	_	_	
+59-16	10060-10061	,	_	_	_	
+59-17	10062-10065	and	_	_	_	
+59-18	10066-10071	punne	_	_	_	
+59-19	10074-10078	them	_	_	_	
+59-20	10079-10081	in	_	_	_	
+59-21	10082-10089	morters	_	_	_	
+59-22	10090-10094	with	_	_	_	
+59-23	10095-10100	water	_	_	_	
+59-24	10100-10101	,	_	_	_	
+59-25	10102-10104	to	_	_	_	
+59-26	10105-10109	make	_	_	_	
+59-27	10110-10111	a	_	_	_	
+59-28	10112-10117	milke	_	_	_	
+59-29	10118-10123	which	_	_	_	
+59-30	10124-10128	they	_	_	_	
+59-31	10129-10132	vse	_	_	_	
+59-32	10133-10135	to	_	_	_	
+59-33	10136-10139	put	_	_	_	
+59-34	10140-10144	into	_	_	_	
+59-35	10147-10151	some	_	_	_	
+59-36	10152-10157	sorts	_	_	_	
+59-37	10158-10160	of	_	_	_	
+59-38	10161-10166	their	_	_	_	
+59-39	10167-10177	spoonemeat	_	_	_	
+59-40	10177-10178	:	_	_	_	
+59-41	10179-10183	also	_	_	_	
+59-42	10184-10189	among	_	_	_	
+59-43	10190-10195	their	_	_	_	
+59-44	10196-10201	sodde	_	_	_	
+59-45	10202-10207	wheat	_	_	_	
+59-46	10207-10208	,	_	_	_	
+59-47	10209-10214	peaze	_	_	_	
+59-48	10214-10215	,	_	_	_	
+59-49	10218-10224	beanes	_	_	_	
+59-50	10225-10228	and	_	_	_	
+59-51	10229-10237	pompions	_	_	_	
+59-52	10237-10238	,	_	_	_	
+59-53	10239-10244	which	_	_	_	
+59-54	10245-10251	maketh	_	_	_	
+59-55	10252-10256	them	Taste Source	anaphorical	57-6	
+59-56	10257-10261	haue	_	_	_	
+59-57	10262-10263	a	_	_	_	
+59-58	10264-10269	farre	Quality[43]	_	_	
+59-59	10270-10274	more	Quality[43]	_	_	
+59-60	10275-10283	pleasant	Quality[43]	_	_	
+59-61	10284-10289	taste	Taste Word	*|*	59-58[43_0]|59-55	
+59-62	10289-10290	.	_	_	_	
+
+#Text=Medlars, a kinde of very good fruit: so called by vs chiefly for these 
+#Text= respects: first in that they are not good vntill they be rotten, then in 
+#Text= that they open at the head as our Medlars, and are about the same 
+#Text= bignesse: otherwise in taste and colour they are farre different; for they 
+#Text= are as red as cheries, and very sweet: but whereas the chery is sharpe
+#Text=sweet, they are lushious sweet.
+60-1	10296-10303	Medlars	Taste Source	_	_	
+60-2	10303-10304	,	_	_	_	
+60-3	10305-10306	a	_	_	_	
+60-4	10307-10312	kinde	_	_	_	
+60-5	10313-10315	of	_	_	_	
+60-6	10316-10320	very	_	_	_	
+60-7	10321-10325	good	_	_	_	
+60-8	10326-10331	fruit	_	_	_	
+60-9	10331-10332	:	_	_	_	
+60-10	10333-10335	so	_	_	_	
+60-11	10336-10342	called	_	_	_	
+60-12	10343-10345	by	_	_	_	
+60-13	10346-10348	vs	_	_	_	
+60-14	10349-10356	chiefly	_	_	_	
+60-15	10357-10360	for	_	_	_	
+60-16	10361-10366	these	_	_	_	
+60-17	10369-10377	respects	_	_	_	
+60-18	10377-10378	:	_	_	_	
+60-19	10379-10384	first	_	_	_	
+60-20	10385-10387	in	_	_	_	
+60-21	10388-10392	that	_	_	_	
+60-22	10393-10397	they	_	_	_	
+60-23	10398-10401	are	_	_	_	
+60-24	10402-10405	not	_	_	_	
+60-25	10406-10410	good	_	_	_	
+60-26	10411-10417	vntill	_	_	_	
+60-27	10418-10422	they	_	_	_	
+60-28	10423-10425	be	_	_	_	
+60-29	10426-10432	rotten	_	_	_	
+60-30	10432-10433	,	_	_	_	
+60-31	10434-10438	then	_	_	_	
+60-32	10439-10441	in	_	_	_	
+60-33	10444-10448	that	_	_	_	
+60-34	10449-10453	they	_	_	_	
+60-35	10454-10458	open	_	_	_	
+60-36	10459-10461	at	_	_	_	
+60-37	10462-10465	the	_	_	_	
+60-38	10466-10470	head	_	_	_	
+60-39	10471-10473	as	_	_	_	
+60-40	10474-10477	our	_	_	_	
+60-41	10478-10485	Medlars	_	_	_	
+60-42	10485-10486	,	_	_	_	
+60-43	10487-10490	and	_	_	_	
+60-44	10491-10494	are	_	_	_	
+60-45	10495-10500	about	_	_	_	
+60-46	10501-10504	the	_	_	_	
+60-47	10505-10509	same	_	_	_	
+60-48	10512-10520	bignesse	_	_	_	
+60-49	10520-10521	:	_	_	_	
+60-50	10522-10531	otherwise	_	_	_	
+60-51	10532-10534	in	_	_	_	
+60-52	10535-10540	taste	Taste Word	*|*	60-55|60-57[44_0]	
+60-53	10541-10544	and	_	_	_	
+60-54	10545-10551	colour	_	_	_	
+60-55	10552-10556	they	Taste Source	anaphorical	60-1	
+60-56	10557-10560	are	_	_	_	
+60-57	10561-10566	farre	Quality[44]	_	_	
+60-58	10567-10576	different	Quality[44]	_	_	
+60-59	10576-10577	;	_	_	_	
+60-60	10578-10581	for	_	_	_	
+60-61	10582-10586	they	_	_	_	
+60-62	10589-10592	are	_	_	_	
+60-63	10593-10595	as	_	_	_	
+60-64	10596-10599	red	_	_	_	
+60-65	10600-10602	as	_	_	_	
+60-66	10603-10610	cheries	_	_	_	
+60-67	10610-10611	,	_	_	_	
+60-68	10612-10615	and	_	_	_	
+60-69	10616-10620	very	Quality	_	_	
+60-70	10621-10626	sweet	Taste Word[45]|Quality[46]	*|*|*	60-70[46_45]|60-69[0_45]|60-55[0_45]	
+60-71	10626-10627	:	_	_	_	
+60-72	10628-10631	but	_	_	_	
+60-73	10632-10639	whereas	_	_	_	
+60-74	10640-10643	the	Taste Source[47]	_	_	
+60-75	10644-10649	chery	Taste Source[47]	_	_	
+60-76	10650-10652	is	_	_	_	
+60-77	10653-10659	sharpe	Taste Word[48]|Quality[49]	*	60-77[49_48]	
+60-78	10660-10665	sweet	Taste Word[50]|Quality[51]	*|*|*	60-78[51_50]|60-74[47_50]|60-77[49_50]	
+60-79	10665-10666	,	_	_	_	
+60-80	10667-10671	they	_	_	_	
+60-81	10672-10675	are	_	_	_	
+60-82	10676-10684	lushious	Quality	_	_	
+60-83	10685-10690	sweet	Taste Word[52]|Quality[53]	*|*|*	60-83[53_52]|60-82[0_52]|60-55[0_52]	
+60-84	10690-10691	.	_	_	_	
+
+#Text=(M308) Mutaquesunnauk, a kinde of pleasant fruit almost of the shape and 
+#Text= bignesse of English peares, but they are of a perfect red colour as well 
+#Text= within as without.
+61-1	10697-10698	(	_	_	_	
+61-2	10698-10702	M308	_	_	_	
+61-3	10702-10703	)	_	_	_	
+61-4	10704-10718	Mutaquesunnauk	_	_	_	
+61-5	10718-10719	,	_	_	_	
+61-6	10720-10721	a	_	_	_	
+61-7	10722-10727	kinde	_	_	_	
+61-8	10728-10730	of	_	_	_	
+61-9	10731-10739	pleasant	_	_	_	
+61-10	10740-10745	fruit	_	_	_	
+61-11	10746-10752	almost	_	_	_	
+61-12	10753-10755	of	_	_	_	
+61-13	10756-10759	the	_	_	_	
+61-14	10760-10765	shape	_	_	_	
+61-15	10766-10769	and	_	_	_	
+61-16	10772-10780	bignesse	_	_	_	
+61-17	10781-10783	of	_	_	_	
+61-18	10784-10791	English	_	_	_	
+61-19	10792-10798	peares	_	_	_	
+61-20	10798-10799	,	_	_	_	
+61-21	10800-10803	but	_	_	_	
+61-22	10804-10808	they	_	_	_	
+61-23	10809-10812	are	_	_	_	
+61-24	10813-10815	of	_	_	_	
+61-25	10816-10817	a	_	_	_	
+61-26	10818-10825	perfect	_	_	_	
+61-27	10826-10829	red	_	_	_	
+61-28	10830-10836	colour	_	_	_	
+61-29	10837-10839	as	_	_	_	
+61-30	10840-10844	well	_	_	_	
+61-31	10847-10853	within	_	_	_	
+61-32	10854-10856	as	_	_	_	
+61-33	10857-10864	without	_	_	_	
+61-34	10864-10865	.	_	_	_	
+
+#Text=They grow on a plant whose leaues are very thicke, and 
+#Text= full of prickles as sharpe as needles.
+62-1	10866-10870	They	_	_	_	
+62-2	10871-10875	grow	_	_	_	
+62-3	10876-10878	on	_	_	_	
+62-4	10879-10880	a	_	_	_	
+62-5	10881-10886	plant	_	_	_	
+62-6	10887-10892	whose	_	_	_	
+62-7	10893-10899	leaues	_	_	_	
+62-8	10900-10903	are	_	_	_	
+62-9	10904-10908	very	_	_	_	
+62-10	10909-10915	thicke	_	_	_	
+62-11	10915-10916	,	_	_	_	
+62-12	10917-10920	and	_	_	_	
+62-13	10923-10927	full	_	_	_	
+62-14	10928-10930	of	_	_	_	
+62-15	10931-10939	prickles	_	_	_	
+62-16	10940-10942	as	_	_	_	
+62-17	10943-10949	sharpe	_	_	_	
+62-18	10950-10952	as	_	_	_	
+62-19	10953-10960	needles	_	_	_	
+62-20	10960-10961	.	_	_	_	
+
+#Text=Some that haue bene in the Indies, 
+#Text= where they haue seene that kind of red die of great price, which is called 
+#Text= Cochinile, to grow, doe describe this plant right like vnto this of 
+#Text= Metaquesunnauk; but whether it be the true Cochinile, or a bastard or 
+#Text= wilde kinde, it cannot yet be certified, seeing that also, as I heard, 
+#Text= Cochinile is not of the fruit, but found on the leaues of the plant: which 
+#Text= leaues for such matter we haue not so specially obserued.
+63-1	10962-10966	Some	_	_	_	
+63-2	10967-10971	that	_	_	_	
+63-3	10972-10976	haue	_	_	_	
+63-4	10977-10981	bene	_	_	_	
+63-5	10982-10984	in	_	_	_	
+63-6	10985-10988	the	_	_	_	
+63-7	10989-10995	Indies	_	_	_	
+63-8	10995-10996	,	_	_	_	
+63-9	10999-11004	where	_	_	_	
+63-10	11005-11009	they	_	_	_	
+63-11	11010-11014	haue	_	_	_	
+63-12	11015-11020	seene	_	_	_	
+63-13	11021-11025	that	_	_	_	
+63-14	11026-11030	kind	_	_	_	
+63-15	11031-11033	of	_	_	_	
+63-16	11034-11037	red	_	_	_	
+63-17	11038-11041	die	_	_	_	
+63-18	11042-11044	of	_	_	_	
+63-19	11045-11050	great	_	_	_	
+63-20	11051-11056	price	_	_	_	
+63-21	11056-11057	,	_	_	_	
+63-22	11058-11063	which	_	_	_	
+63-23	11064-11066	is	_	_	_	
+63-24	11067-11073	called	_	_	_	
+63-25	11076-11085	Cochinile	_	_	_	
+63-26	11085-11086	,	_	_	_	
+63-27	11087-11089	to	_	_	_	
+63-28	11090-11094	grow	_	_	_	
+63-29	11094-11095	,	_	_	_	
+63-30	11096-11099	doe	_	_	_	
+63-31	11100-11108	describe	_	_	_	
+63-32	11109-11113	this	_	_	_	
+63-33	11114-11119	plant	_	_	_	
+63-34	11120-11125	right	_	_	_	
+63-35	11126-11130	like	_	_	_	
+63-36	11131-11135	vnto	_	_	_	
+63-37	11136-11140	this	_	_	_	
+63-38	11141-11143	of	_	_	_	
+63-39	11146-11160	Metaquesunnauk	_	_	_	
+63-40	11160-11161	;	_	_	_	
+63-41	11162-11165	but	_	_	_	
+63-42	11166-11173	whether	_	_	_	
+63-43	11174-11176	it	_	_	_	
+63-44	11177-11179	be	_	_	_	
+63-45	11180-11183	the	_	_	_	
+63-46	11184-11188	true	_	_	_	
+63-47	11189-11198	Cochinile	_	_	_	
+63-48	11198-11199	,	_	_	_	
+63-49	11200-11202	or	_	_	_	
+63-50	11203-11204	a	_	_	_	
+63-51	11205-11212	bastard	_	_	_	
+63-52	11213-11215	or	_	_	_	
+63-53	11218-11223	wilde	_	_	_	
+63-54	11224-11229	kinde	_	_	_	
+63-55	11229-11230	,	_	_	_	
+63-56	11231-11233	it	_	_	_	
+63-57	11234-11240	cannot	_	_	_	
+63-58	11241-11244	yet	_	_	_	
+63-59	11245-11247	be	_	_	_	
+63-60	11248-11257	certified	_	_	_	
+63-61	11257-11258	,	_	_	_	
+63-62	11259-11265	seeing	_	_	_	
+63-63	11266-11270	that	_	_	_	
+63-64	11271-11275	also	_	_	_	
+63-65	11275-11276	,	_	_	_	
+63-66	11277-11279	as	_	_	_	
+63-67	11280-11281	I	_	_	_	
+63-68	11282-11287	heard	_	_	_	
+63-69	11287-11288	,	_	_	_	
+63-70	11291-11300	Cochinile	_	_	_	
+63-71	11301-11303	is	_	_	_	
+63-72	11304-11307	not	_	_	_	
+63-73	11308-11310	of	_	_	_	
+63-74	11311-11314	the	_	_	_	
+63-75	11315-11320	fruit	_	_	_	
+63-76	11320-11321	,	_	_	_	
+63-77	11322-11325	but	_	_	_	
+63-78	11326-11331	found	_	_	_	
+63-79	11332-11334	on	_	_	_	
+63-80	11335-11338	the	_	_	_	
+63-81	11339-11345	leaues	_	_	_	
+63-82	11346-11348	of	_	_	_	
+63-83	11349-11352	the	_	_	_	
+63-84	11353-11358	plant	_	_	_	
+63-85	11358-11359	:	_	_	_	
+63-86	11360-11365	which	_	_	_	
+63-87	11368-11374	leaues	_	_	_	
+63-88	11375-11378	for	_	_	_	
+63-89	11379-11383	such	_	_	_	
+63-90	11384-11390	matter	_	_	_	
+63-91	11391-11393	we	_	_	_	
+63-92	11394-11398	haue	_	_	_	
+63-93	11399-11402	not	_	_	_	
+63-94	11403-11405	so	_	_	_	
+63-95	11406-11415	specially	_	_	_	
+63-96	11416-11424	obserued	_	_	_	
+63-97	11424-11425	.	_	_	_	
+
+#Text=Grapes there are of two sorts, which I mentioned in the merchantable 
+#Text= commodities.
+64-1	11431-11437	Grapes	_	_	_	
+64-2	11438-11443	there	_	_	_	
+64-3	11444-11447	are	_	_	_	
+64-4	11448-11450	of	_	_	_	
+64-5	11451-11454	two	_	_	_	
+64-6	11455-11460	sorts	_	_	_	
+64-7	11460-11461	,	_	_	_	
+64-8	11462-11467	which	_	_	_	
+64-9	11468-11469	I	_	_	_	
+64-10	11470-11479	mentioned	_	_	_	
+64-11	11480-11482	in	_	_	_	
+64-12	11483-11486	the	_	_	_	
+64-13	11487-11499	merchantable	_	_	_	
+64-14	11502-11513	commodities	_	_	_	
+64-15	11513-11514	.	_	_	_	
+
+#Text=Strawberries there are as good and as great as those which we haue in our 
+#Text= English gardens.
+65-1	11520-11532	Strawberries	_	_	_	
+65-2	11533-11538	there	_	_	_	
+65-3	11539-11542	are	_	_	_	
+65-4	11543-11545	as	_	_	_	
+65-5	11546-11550	good	_	_	_	
+65-6	11551-11554	and	_	_	_	
+65-7	11555-11557	as	_	_	_	
+65-8	11558-11563	great	_	_	_	
+65-9	11564-11566	as	_	_	_	
+65-10	11567-11572	those	_	_	_	
+65-11	11573-11578	which	_	_	_	
+65-12	11579-11581	we	_	_	_	
+65-13	11582-11586	haue	_	_	_	
+65-14	11587-11589	in	_	_	_	
+65-15	11590-11593	our	_	_	_	
+65-16	11596-11603	English	_	_	_	
+65-17	11604-11611	gardens	_	_	_	
+65-18	11611-11612	.	_	_	_	
+
+#Text=Mulberies, Applecrabs, Hurts or Hurtleberies, such as we haue in England.
+#Text=drie vpon hurdles made of reeds, with fire vnderneath, almost after the 
+#Text= maner as we dry Malt in England.
+66-1	11618-11627	Mulberies	Taste Source	_	_	
+66-2	11627-11628	,	_	_	_	
+66-3	11629-11639	Applecrabs	Taste Source	_	_	
+66-4	11639-11640	,	_	_	_	
+66-5	11641-11646	Hurts	Taste Source	_	_	
+66-6	11647-11649	or	_	_	_	
+66-7	11650-11662	Hurtleberies	Taste Source	_	_	
+66-8	11662-11663	,	_	_	_	
+66-9	11664-11668	such	_	_	_	
+66-10	11669-11671	as	_	_	_	
+66-11	11672-11674	we	_	_	_	
+66-12	11675-11679	haue	_	_	_	
+66-13	11680-11682	in	_	_	_	
+66-14	11683-11690	England	_	_	_	
+66-15	11690-11691	.	_	_	_	
+66-16	11692-11696	drie	_	_	_	
+66-17	11697-11701	vpon	_	_	_	
+66-18	11702-11709	hurdles	_	_	_	
+66-19	11710-11714	made	_	_	_	
+66-20	11715-11717	of	_	_	_	
+66-21	11718-11723	reeds	_	_	_	
+66-22	11723-11724	,	_	_	_	
+66-23	11725-11729	with	_	_	_	
+66-24	11730-11734	fire	_	_	_	
+66-25	11735-11745	vnderneath	_	_	_	
+66-26	11745-11746	,	_	_	_	
+66-27	11747-11753	almost	_	_	_	
+66-28	11754-11759	after	_	_	_	
+66-29	11760-11763	the	_	_	_	
+66-30	11766-11771	maner	_	_	_	
+66-31	11772-11774	as	_	_	_	
+66-32	11775-11777	we	_	_	_	
+66-33	11778-11781	dry	_	_	_	
+66-34	11782-11786	Malt	_	_	_	
+66-35	11787-11789	in	_	_	_	
+66-36	11790-11797	England	_	_	_	
+66-37	11797-11798	.	_	_	_	
+
+#Text=When they are to be vsed, they first 
+#Text= water them vntill they be soft, and then being sod, they make a good 
+#Text= victuall, either to eat so simply, or els being also punned to make loaues 
+#Text= or lumps of bread.
+67-1	11799-11803	When	_	_	_	
+67-2	11804-11808	they	_	_	_	
+67-3	11809-11812	are	_	_	_	
+67-4	11813-11815	to	_	_	_	
+67-5	11816-11818	be	_	_	_	
+67-6	11819-11823	vsed	_	_	_	
+67-7	11823-11824	,	_	_	_	
+67-8	11825-11829	they	_	_	_	
+67-9	11830-11835	first	_	_	_	
+67-10	11838-11843	water	_	_	_	
+67-11	11844-11848	them	_	_	_	
+67-12	11849-11855	vntill	_	_	_	
+67-13	11856-11860	they	_	_	_	
+67-14	11861-11863	be	_	_	_	
+67-15	11864-11868	soft	_	_	_	
+67-16	11868-11869	,	_	_	_	
+67-17	11870-11873	and	_	_	_	
+67-18	11874-11878	then	_	_	_	
+67-19	11879-11884	being	_	_	_	
+67-20	11885-11888	sod	_	_	_	
+67-21	11888-11889	,	_	_	_	
+67-22	11890-11894	they	Taste Source	anaphorical|anaphorical|anaphorical|anaphorical	66-7|66-5|66-3|66-1	
+67-23	11895-11899	make	_	_	_	
+67-24	11900-11901	a	_	_	_	
+67-25	11902-11906	good	_	_	_	
+67-26	11909-11917	victuall	_	_	_	
+67-27	11917-11918	,	_	_	_	
+67-28	11919-11925	either	_	_	_	
+67-29	11926-11928	to	_	_	_	
+67-30	11929-11932	eat	Taste Word	*	67-22	
+67-31	11933-11935	so	_	_	_	
+67-32	11936-11942	simply	_	_	_	
+67-33	11942-11943	,	_	_	_	
+67-34	11944-11946	or	_	_	_	
+67-35	11947-11950	els	_	_	_	
+67-36	11951-11956	being	_	_	_	
+67-37	11957-11961	also	_	_	_	
+67-38	11962-11968	punned	_	_	_	
+67-39	11969-11971	to	_	_	_	
+67-40	11972-11976	make	_	_	_	
+67-41	11977-11983	loaues	_	_	_	
+67-42	11986-11988	or	_	_	_	
+67-43	11989-11994	lumps	_	_	_	
+67-44	11995-11997	of	_	_	_	
+67-45	11998-12003	bread	_	_	_	
+67-46	12003-12004	.	_	_	_	
+
+#Text=These be also the three kinds, of which I sayd before 
+#Text= the inhabitants vsed to make sweet oile.
+68-1	12005-12010	These	_	_	_	
+68-2	12011-12013	be	_	_	_	
+68-3	12014-12018	also	_	_	_	
+68-4	12019-12022	the	_	_	_	
+68-5	12023-12028	three	_	_	_	
+68-6	12029-12034	kinds	_	_	_	
+68-7	12034-12035	,	_	_	_	
+68-8	12036-12038	of	_	_	_	
+68-9	12039-12044	which	_	_	_	
+68-10	12045-12046	I	_	_	_	
+68-11	12047-12051	sayd	_	_	_	
+68-12	12052-12058	before	_	_	_	
+68-13	12061-12064	the	_	_	_	
+68-14	12065-12076	inhabitants	_	_	_	
+68-15	12077-12081	vsed	_	_	_	
+68-16	12082-12084	to	_	_	_	
+68-17	12085-12089	make	_	_	_	
+68-18	12090-12095	sweet	Taste Word[54]|Quality[55]	*|*	68-19[0_54]|68-18[55_54]	
+68-19	12096-12100	oile	Taste Source	_	_	
+68-20	12100-12101	.	_	_	_	
+
+#Text=Another sort is called Sapummener, which being boiled or parched, doth eat 
+#Text= and taste like vnto Chesnuts.
+69-1	12107-12114	Another	_	_	_	
+69-2	12115-12119	sort	_	_	_	
+69-3	12120-12122	is	_	_	_	
+69-4	12123-12129	called	_	_	_	
+69-5	12130-12140	Sapummener	Taste Source	_	_	
+69-6	12140-12141	,	_	_	_	
+69-7	12142-12147	which	Circumstance[56]	_	_	
+69-8	12148-12153	being	Circumstance[56]	_	_	
+69-9	12154-12160	boiled	Circumstance[56]	_	_	
+69-10	12161-12163	or	Circumstance[56]	_	_	
+69-11	12164-12171	parched	Circumstance[56]	_	_	
+69-12	12171-12172	,	_	_	_	
+69-13	12173-12177	doth	_	_	_	
+69-14	12178-12181	eat	Taste Word	*|*	69-5|69-7[56_0]	
+69-15	12184-12187	and	_	_	_	
+69-16	12188-12193	taste	Taste Word	*|*|*	69-5|69-17[57_0]|69-7[56_0]	
+69-17	12194-12198	like	Evoked Taste[57]	_	_	
+69-18	12199-12203	vnto	Evoked Taste[57]	_	_	
+69-19	12204-12212	Chesnuts	Evoked Taste[57]	_	_	
+69-20	12212-12213	.	_	_	_	
+
+#Text=They sometime also make bread of this sort.
+70-1	12214-12218	They	_	_	_	
+70-2	12219-12227	sometime	_	_	_	
+70-3	12228-12232	also	_	_	_	
+70-4	12233-12237	make	_	_	_	
+70-5	12238-12243	bread	_	_	_	
+70-6	12244-12246	of	_	_	_	
+70-7	12247-12251	this	_	_	_	
+70-8	12252-12256	sort	_	_	_	
+70-9	12256-12257	.	_	_	_	
+
+#Text=The fift sort is called Mangummenauk, and is the acorne of their kinde of 
+#Text= Oake, the which being dried after the maner of the first sorts, and 
+#Text= afterward watered, they boile them, and their seruants, or sometime the 
+#Text= chiefe themselues, either for variety or for want of bread, do eat them 
+#Text= with their fish or flesh.
+71-1	12263-12266	The	_	_	_	
+71-2	12267-12271	fift	_	_	_	
+71-3	12272-12276	sort	_	_	_	
+71-4	12277-12279	is	_	_	_	
+71-5	12280-12286	called	_	_	_	
+71-6	12287-12299	Mangummenauk	Taste Source	_	_	
+71-7	12299-12300	,	_	_	_	
+71-8	12301-12304	and	_	_	_	
+71-9	12305-12307	is	_	_	_	
+71-10	12308-12311	the	_	_	_	
+71-11	12312-12318	acorne	_	_	_	
+71-12	12319-12321	of	_	_	_	
+71-13	12322-12327	their	_	_	_	
+71-14	12328-12333	kinde	_	_	_	
+71-15	12334-12336	of	_	_	_	
+71-16	12339-12343	Oake	_	_	_	
+71-17	12343-12344	,	_	_	_	
+71-18	12345-12348	the	_	_	_	
+71-19	12349-12354	which	_	_	_	
+71-20	12355-12360	being	_	_	_	
+71-21	12361-12366	dried	_	_	_	
+71-22	12367-12372	after	_	_	_	
+71-23	12373-12376	the	_	_	_	
+71-24	12377-12382	maner	_	_	_	
+71-25	12383-12385	of	_	_	_	
+71-26	12386-12389	the	_	_	_	
+71-27	12390-12395	first	_	_	_	
+71-28	12396-12401	sorts	_	_	_	
+71-29	12401-12402	,	_	_	_	
+71-30	12403-12406	and	_	_	_	
+71-31	12409-12418	afterward	_	_	_	
+71-32	12419-12426	watered	_	_	_	
+71-33	12426-12427	,	_	_	_	
+71-34	12428-12432	they	_	_	_	
+71-35	12433-12438	boile	_	_	_	
+71-36	12439-12443	them	_	_	_	
+71-37	12443-12444	,	_	_	_	
+71-38	12445-12448	and	_	_	_	
+71-39	12449-12454	their	_	_	_	
+71-40	12455-12463	seruants	_	_	_	
+71-41	12463-12464	,	_	_	_	
+71-42	12465-12467	or	_	_	_	
+71-43	12468-12476	sometime	_	_	_	
+71-44	12477-12480	the	_	_	_	
+71-45	12483-12489	chiefe	_	_	_	
+71-46	12490-12500	themselues	_	_	_	
+71-47	12500-12501	,	_	_	_	
+71-48	12502-12508	either	_	_	_	
+71-49	12509-12512	for	_	_	_	
+71-50	12513-12520	variety	_	_	_	
+71-51	12521-12523	or	_	_	_	
+71-52	12524-12527	for	_	_	_	
+71-53	12528-12532	want	_	_	_	
+71-54	12533-12535	of	_	_	_	
+71-55	12536-12541	bread	_	_	_	
+71-56	12541-12542	,	_	_	_	
+71-57	12543-12545	do	_	_	_	
+71-58	12546-12549	eat	Taste Word	*|*	71-59|71-60[58_0]	
+71-59	12550-12554	them	Taste Source	anaphorical	71-6	
+71-60	12557-12561	with	Taste Modifier[58]	_	_	
+71-61	12562-12567	their	Taste Modifier[58]	_	_	
+71-62	12568-12572	fish	Taste Modifier[58]	_	_	
+71-63	12573-12575	or	Taste Modifier[58]	_	_	
+71-64	12576-12581	flesh	Taste Modifier[58]	_	_	
+71-65	12581-12582	.	_	_	_	
+
+#Text=Of Beasts.
+72-1	12591-12593	Of	_	_	_	
+72-2	12594-12600	Beasts	_	_	_	
+72-3	12600-12601	.	_	_	_	
+
+#Text=Deere, in some places there are great store: neere vnto the Sea coast they 
+#Text= are of the ordinary bignesse of ours in England, and some lesse: but 
+#Text= further vp into the countrey, where there is better food, they are 
+#Text= greater: they differ from ours onely in this, their tailes are longer, and 
+#Text= the snags of their hornes looke backwards.
+73-1	12608-12613	Deere	_	_	_	
+73-2	12613-12614	,	_	_	_	
+73-3	12615-12617	in	_	_	_	
+73-4	12618-12622	some	_	_	_	
+73-5	12623-12629	places	_	_	_	
+73-6	12630-12635	there	_	_	_	
+73-7	12636-12639	are	_	_	_	
+73-8	12640-12645	great	_	_	_	
+73-9	12646-12651	store	_	_	_	
+73-10	12651-12652	:	_	_	_	
+73-11	12653-12658	neere	_	_	_	
+73-12	12659-12663	vnto	_	_	_	
+73-13	12664-12667	the	_	_	_	
+73-14	12668-12671	Sea	_	_	_	
+73-15	12672-12677	coast	_	_	_	
+73-16	12678-12682	they	_	_	_	
+73-17	12685-12688	are	_	_	_	
+73-18	12689-12691	of	_	_	_	
+73-19	12692-12695	the	_	_	_	
+73-20	12696-12704	ordinary	_	_	_	
+73-21	12705-12713	bignesse	_	_	_	
+73-22	12714-12716	of	_	_	_	
+73-23	12717-12721	ours	_	_	_	
+73-24	12722-12724	in	_	_	_	
+73-25	12725-12732	England	_	_	_	
+73-26	12732-12733	,	_	_	_	
+73-27	12734-12737	and	_	_	_	
+73-28	12738-12742	some	_	_	_	
+73-29	12743-12748	lesse	_	_	_	
+73-30	12748-12749	:	_	_	_	
+73-31	12750-12753	but	_	_	_	
+73-32	12756-12763	further	_	_	_	
+73-33	12764-12766	vp	_	_	_	
+73-34	12767-12771	into	_	_	_	
+73-35	12772-12775	the	_	_	_	
+73-36	12776-12784	countrey	_	_	_	
+73-37	12784-12785	,	_	_	_	
+73-38	12786-12791	where	_	_	_	
+73-39	12792-12797	there	_	_	_	
+73-40	12798-12800	is	_	_	_	
+73-41	12801-12807	better	_	_	_	
+73-42	12808-12812	food	_	_	_	
+73-43	12812-12813	,	_	_	_	
+73-44	12814-12818	they	_	_	_	
+73-45	12819-12822	are	_	_	_	
+73-46	12825-12832	greater	_	_	_	
+73-47	12832-12833	:	_	_	_	
+73-48	12834-12838	they	_	_	_	
+73-49	12839-12845	differ	_	_	_	
+73-50	12846-12850	from	_	_	_	
+73-51	12851-12855	ours	_	_	_	
+73-52	12856-12861	onely	_	_	_	
+73-53	12862-12864	in	_	_	_	
+73-54	12865-12869	this	_	_	_	
+73-55	12869-12870	,	_	_	_	
+73-56	12871-12876	their	_	_	_	
+73-57	12877-12883	tailes	_	_	_	
+73-58	12884-12887	are	_	_	_	
+73-59	12888-12894	longer	_	_	_	
+73-60	12894-12895	,	_	_	_	
+73-61	12896-12899	and	_	_	_	
+73-62	12902-12905	the	_	_	_	
+73-63	12906-12911	snags	_	_	_	
+73-64	12912-12914	of	_	_	_	
+73-65	12915-12920	their	_	_	_	
+73-66	12921-12927	hornes	_	_	_	
+73-67	12928-12933	looke	_	_	_	
+73-68	12934-12943	backwards	_	_	_	
+73-69	12943-12944	.	_	_	_	
+
+#Text=Conies.
+74-1	12950-12956	Conies	_	_	_	
+74-2	12956-12957	.	_	_	_	
+
+#Text=Those that we haue seene, and all that we can heare of are of a 
+#Text= gray colour like vnto Hares: in some places there are such plenty that all 
+#Text= the people of some townes make them mantles of the furre or flue of the 
+#Text= skinnes of those which they vsually take.
+75-1	12958-12963	Those	_	_	_	
+75-2	12964-12968	that	_	_	_	
+75-3	12969-12971	we	_	_	_	
+75-4	12972-12976	haue	_	_	_	
+75-5	12977-12982	seene	_	_	_	
+75-6	12982-12983	,	_	_	_	
+75-7	12984-12987	and	_	_	_	
+75-8	12988-12991	all	_	_	_	
+75-9	12992-12996	that	_	_	_	
+75-10	12997-12999	we	_	_	_	
+75-11	13000-13003	can	_	_	_	
+75-12	13004-13009	heare	_	_	_	
+75-13	13010-13012	of	_	_	_	
+75-14	13013-13016	are	_	_	_	
+75-15	13017-13019	of	_	_	_	
+75-16	13020-13021	a	_	_	_	
+75-17	13024-13028	gray	_	_	_	
+75-18	13029-13035	colour	_	_	_	
+75-19	13036-13040	like	_	_	_	
+75-20	13041-13045	vnto	_	_	_	
+75-21	13046-13051	Hares	_	_	_	
+75-22	13051-13052	:	_	_	_	
+75-23	13053-13055	in	_	_	_	
+75-24	13056-13060	some	_	_	_	
+75-25	13061-13067	places	_	_	_	
+75-26	13068-13073	there	_	_	_	
+75-27	13074-13077	are	_	_	_	
+75-28	13078-13082	such	_	_	_	
+75-29	13083-13089	plenty	_	_	_	
+75-30	13090-13094	that	_	_	_	
+75-31	13095-13098	all	_	_	_	
+75-32	13101-13104	the	_	_	_	
+75-33	13105-13111	people	_	_	_	
+75-34	13112-13114	of	_	_	_	
+75-35	13115-13119	some	_	_	_	
+75-36	13120-13126	townes	_	_	_	
+75-37	13127-13131	make	_	_	_	
+75-38	13132-13136	them	_	_	_	
+75-39	13137-13144	mantles	_	_	_	
+75-40	13145-13147	of	_	_	_	
+75-41	13148-13151	the	_	_	_	
+75-42	13152-13157	furre	_	_	_	
+75-43	13158-13160	or	_	_	_	
+75-44	13161-13165	flue	_	_	_	
+75-45	13166-13168	of	_	_	_	
+75-46	13169-13172	the	_	_	_	
+75-47	13175-13182	skinnes	_	_	_	
+75-48	13183-13185	of	_	_	_	
+75-49	13186-13191	those	_	_	_	
+75-50	13192-13197	which	_	_	_	
+75-51	13198-13202	they	_	_	_	
+75-52	13203-13210	vsually	_	_	_	
+75-53	13211-13215	take	_	_	_	
+75-54	13215-13216	.	_	_	_	
+
+#Text=Saquenuckot and Maquowoc, two kinds of small beasts greater then Conies, 
+#Text= which are very good meat.
+76-1	13222-13233	Saquenuckot	Taste Source	_	_	
+76-2	13234-13237	and	_	_	_	
+76-3	13238-13246	Maquowoc	Taste Source	_	_	
+76-4	13246-13247	,	_	_	_	
+76-5	13248-13251	two	_	_	_	
+76-6	13252-13257	kinds	_	_	_	
+76-7	13258-13260	of	_	_	_	
+76-8	13261-13266	small	_	_	_	
+76-9	13267-13273	beasts	_	_	_	
+76-10	13274-13281	greater	_	_	_	
+76-11	13282-13286	then	_	_	_	
+76-12	13287-13293	Conies	_	_	_	
+76-13	13293-13294	,	_	_	_	
+76-14	13297-13302	which	_	_	_	
+76-15	13303-13306	are	_	_	_	
+76-16	13307-13311	very	_	_	_	
+76-17	13312-13316	good	_	_	_	
+76-18	13317-13321	meat	_	_	_	
+76-19	13321-13322	.	_	_	_	
+
+#Text=We neuer tooke any of them our selues, but 
+#Text= sometime eat of such as the inhabitants had taken and brought vnto vs.
+77-1	13323-13325	We	_	_	_	
+77-2	13326-13331	neuer	_	_	_	
+77-3	13332-13337	tooke	_	_	_	
+77-4	13338-13341	any	_	_	_	
+77-5	13342-13344	of	_	_	_	
+77-6	13345-13349	them	Taste Source	anaphorical|anaphorical	76-1|76-3	
+77-7	13350-13353	our	_	_	_	
+77-8	13354-13360	selues	_	_	_	
+77-9	13360-13361	,	_	_	_	
+77-10	13362-13365	but	_	_	_	
+77-11	13368-13376	sometime	_	_	_	
+77-12	13377-13380	eat	Taste Word	*|*	77-16[59_0]|77-6	
+77-13	13381-13383	of	_	_	_	
+77-14	13384-13388	such	_	_	_	
+77-15	13389-13391	as	_	_	_	
+77-16	13392-13395	the	Taster[59]	_	_	
+77-17	13396-13407	inhabitants	Taster[59]	_	_	
+77-18	13408-13411	had	_	_	_	
+77-19	13412-13417	taken	_	_	_	
+77-20	13418-13421	and	_	_	_	
+77-21	13422-13429	brought	_	_	_	
+77-22	13430-13434	vnto	_	_	_	
+77-23	13435-13437	vs	_	_	_	
+77-24	13437-13438	.	_	_	_	
+
+#Text=Squirels, which are a grey colour, we haue taken and eaten.
+78-1	13444-13452	Squirels	Taste Source	_	_	
+78-2	13452-13453	,	_	_	_	
+78-3	13454-13459	which	_	_	_	
+78-4	13460-13463	are	_	_	_	
+78-5	13464-13465	a	_	_	_	
+78-6	13466-13470	grey	_	_	_	
+78-7	13471-13477	colour	_	_	_	
+78-8	13477-13478	,	_	_	_	
+78-9	13479-13481	we	_	_	_	
+78-10	13482-13486	haue	_	_	_	
+78-11	13487-13492	taken	_	_	_	
+78-12	13493-13496	and	_	_	_	
+78-13	13497-13502	eaten	Taste Word	*	78-1	
+78-14	13502-13503	.	_	_	_	
+
+#Text=Beares, which are of blacke colour.
+79-1	13509-13515	Beares	_	_	_	
+79-2	13515-13516	,	_	_	_	
+79-3	13517-13522	which	_	_	_	
+79-4	13523-13526	are	_	_	_	
+79-5	13527-13529	of	_	_	_	
+79-6	13530-13536	blacke	_	_	_	
+79-7	13537-13543	colour	_	_	_	
+79-8	13543-13544	.	_	_	_	
+
+#Text=The beares of this countrey are good 
+#Text= meat.
+80-1	13545-13548	The	Taste Source[60]	_	_	
+80-2	13549-13555	beares	Taste Source[60]	_	_	
+80-3	13556-13558	of	_	_	_	
+80-4	13559-13563	this	_	_	_	
+80-5	13564-13572	countrey	_	_	_	
+80-6	13573-13576	are	_	_	_	
+80-7	13577-13581	good	_	_	_	
+80-8	13584-13588	meat	_	_	_	
+80-9	13588-13589	.	_	_	_	
+
+#Text=The inhabitants in time of Winter do vse to take and eat many: so 
+#Text= also sometime did we.
+81-1	13590-13593	The	Taster[61]	_	_	
+81-2	13594-13605	inhabitants	Taster[61]	_	_	
+81-3	13606-13608	in	Circumstance[62]	_	_	
+81-4	13609-13613	time	Circumstance[62]	_	_	
+81-5	13614-13616	of	Circumstance[62]	_	_	
+81-6	13617-13623	Winter	Circumstance[62]	_	_	
+81-7	13624-13626	do	_	_	_	
+81-8	13627-13630	vse	_	_	_	
+81-9	13631-13633	to	_	_	_	
+81-10	13634-13638	take	_	_	_	
+81-11	13639-13642	and	_	_	_	
+81-12	13643-13646	eat	Taste Word	*|*|*	81-1[61_0]|81-3[62_0]|80-1[60_0]	
+81-13	13647-13651	many	_	_	_	
+81-14	13651-13652	:	_	_	_	
+81-15	13653-13655	so	_	_	_	
+81-16	13658-13662	also	_	_	_	
+81-17	13663-13671	sometime	_	_	_	
+81-18	13672-13675	did	_	_	_	
+81-19	13676-13678	we	_	_	_	
+81-20	13678-13679	.	_	_	_	
+
+#Text=They are taken commonly in this sort: In some
+#Text=Islands or places where they are, being hunted for assoone as they haue 
+#Text= spiall of a man, they presently run away, and then being chased, they 
+#Text= clime and get vp the next tree they can: from whence with arrowes they are 
+#Text= shot downe starke dead, or with those wounds that they may after easily be 
+#Text= killed.
+82-1	13680-13684	They	_	_	_	
+82-2	13685-13688	are	_	_	_	
+82-3	13689-13694	taken	_	_	_	
+82-4	13695-13703	commonly	_	_	_	
+82-5	13704-13706	in	_	_	_	
+82-6	13707-13711	this	_	_	_	
+82-7	13712-13716	sort	_	_	_	
+82-8	13716-13717	:	_	_	_	
+82-9	13718-13720	In	_	_	_	
+82-10	13721-13725	some	_	_	_	
+82-11	13726-13733	Islands	_	_	_	
+82-12	13734-13736	or	_	_	_	
+82-13	13737-13743	places	_	_	_	
+82-14	13744-13749	where	_	_	_	
+82-15	13750-13754	they	_	_	_	
+82-16	13755-13758	are	_	_	_	
+82-17	13758-13759	,	_	_	_	
+82-18	13760-13765	being	_	_	_	
+82-19	13766-13772	hunted	_	_	_	
+82-20	13773-13776	for	_	_	_	
+82-21	13777-13784	assoone	_	_	_	
+82-22	13785-13787	as	_	_	_	
+82-23	13788-13792	they	_	_	_	
+82-24	13793-13797	haue	_	_	_	
+82-25	13800-13806	spiall	_	_	_	
+82-26	13807-13809	of	_	_	_	
+82-27	13810-13811	a	_	_	_	
+82-28	13812-13815	man	_	_	_	
+82-29	13815-13816	,	_	_	_	
+82-30	13817-13821	they	_	_	_	
+82-31	13822-13831	presently	_	_	_	
+82-32	13832-13835	run	_	_	_	
+82-33	13836-13840	away	_	_	_	
+82-34	13840-13841	,	_	_	_	
+82-35	13842-13845	and	_	_	_	
+82-36	13846-13850	then	_	_	_	
+82-37	13851-13856	being	_	_	_	
+82-38	13857-13863	chased	_	_	_	
+82-39	13863-13864	,	_	_	_	
+82-40	13865-13869	they	_	_	_	
+82-41	13872-13877	clime	_	_	_	
+82-42	13878-13881	and	_	_	_	
+82-43	13882-13885	get	_	_	_	
+82-44	13886-13888	vp	_	_	_	
+82-45	13889-13892	the	_	_	_	
+82-46	13893-13897	next	_	_	_	
+82-47	13898-13902	tree	_	_	_	
+82-48	13903-13907	they	_	_	_	
+82-49	13908-13911	can	_	_	_	
+82-50	13911-13912	:	_	_	_	
+82-51	13913-13917	from	_	_	_	
+82-52	13918-13924	whence	_	_	_	
+82-53	13925-13929	with	_	_	_	
+82-54	13930-13937	arrowes	_	_	_	
+82-55	13938-13942	they	_	_	_	
+82-56	13943-13946	are	_	_	_	
+82-57	13949-13953	shot	_	_	_	
+82-58	13954-13959	downe	_	_	_	
+82-59	13960-13966	starke	_	_	_	
+82-60	13967-13971	dead	_	_	_	
+82-61	13971-13972	,	_	_	_	
+82-62	13973-13975	or	_	_	_	
+82-63	13976-13980	with	_	_	_	
+82-64	13981-13986	those	_	_	_	
+82-65	13987-13993	wounds	_	_	_	
+82-66	13994-13998	that	_	_	_	
+82-67	13999-14003	they	_	_	_	
+82-68	14004-14007	may	_	_	_	
+82-69	14008-14013	after	_	_	_	
+82-70	14014-14020	easily	_	_	_	
+82-71	14021-14023	be	_	_	_	
+82-72	14026-14032	killed	_	_	_	
+82-73	14032-14033	.	_	_	_	
+
+#Text=We sometime shot them downe with our calieuers.
+83-1	14034-14036	We	_	_	_	
+83-2	14037-14045	sometime	_	_	_	
+83-3	14046-14050	shot	_	_	_	
+83-4	14051-14055	them	_	_	_	
+83-5	14056-14061	downe	_	_	_	
+83-6	14062-14066	with	_	_	_	
+83-7	14067-14070	our	_	_	_	
+83-8	14071-14080	calieuers	_	_	_	
+83-9	14080-14081	.	_	_	_	
+
+#Text=I haue the name of eight and twenty seuerall sorts of beasts, which I haue 
+#Text= heard of to be here and there dispersed in the countrey, especially in the 
+#Text= maine; of which there are onely twelue kinds that we haue yet discouered; 
+#Text= and of those that be good meat we know only them before mentioned.
+84-1	14087-14088	I	_	_	_	
+84-2	14089-14093	haue	_	_	_	
+84-3	14094-14097	the	_	_	_	
+84-4	14098-14102	name	_	_	_	
+84-5	14103-14105	of	_	_	_	
+84-6	14106-14111	eight	_	_	_	
+84-7	14112-14115	and	_	_	_	
+84-8	14116-14122	twenty	_	_	_	
+84-9	14123-14131	seuerall	_	_	_	
+84-10	14132-14137	sorts	_	_	_	
+84-11	14138-14140	of	_	_	_	
+84-12	14141-14147	beasts	_	_	_	
+84-13	14147-14148	,	_	_	_	
+84-14	14149-14154	which	_	_	_	
+84-15	14155-14156	I	_	_	_	
+84-16	14157-14161	haue	_	_	_	
+84-17	14164-14169	heard	_	_	_	
+84-18	14170-14172	of	_	_	_	
+84-19	14173-14175	to	_	_	_	
+84-20	14176-14178	be	_	_	_	
+84-21	14179-14183	here	_	_	_	
+84-22	14184-14187	and	_	_	_	
+84-23	14188-14193	there	_	_	_	
+84-24	14194-14203	dispersed	_	_	_	
+84-25	14204-14206	in	_	_	_	
+84-26	14207-14210	the	_	_	_	
+84-27	14211-14219	countrey	_	_	_	
+84-28	14219-14220	,	_	_	_	
+84-29	14221-14231	especially	_	_	_	
+84-30	14232-14234	in	_	_	_	
+84-31	14235-14238	the	_	_	_	
+84-32	14241-14246	maine	_	_	_	
+84-33	14246-14247	;	_	_	_	
+84-34	14248-14250	of	_	_	_	
+84-35	14251-14256	which	_	_	_	
+84-36	14257-14262	there	_	_	_	
+84-37	14263-14266	are	_	_	_	
+84-38	14267-14272	onely	_	_	_	
+84-39	14273-14279	twelue	_	_	_	
+84-40	14280-14285	kinds	_	_	_	
+84-41	14286-14290	that	_	_	_	
+84-42	14291-14293	we	_	_	_	
+84-43	14294-14298	haue	_	_	_	
+84-44	14299-14302	yet	_	_	_	
+84-45	14303-14313	discouered	_	_	_	
+84-46	14313-14314	;	_	_	_	
+84-47	14317-14320	and	_	_	_	
+84-48	14321-14323	of	_	_	_	
+84-49	14324-14329	those	_	_	_	
+84-50	14330-14334	that	_	_	_	
+84-51	14335-14337	be	_	_	_	
+84-52	14338-14342	good	_	_	_	
+84-53	14343-14347	meat	_	_	_	
+84-54	14348-14350	we	_	_	_	
+84-55	14351-14355	know	_	_	_	
+84-56	14356-14360	only	_	_	_	
+84-57	14361-14365	them	_	_	_	
+84-58	14366-14372	before	_	_	_	
+84-59	14373-14382	mentioned	_	_	_	
+84-60	14382-14383	.	_	_	_	
+
+#Text=The 
+#Text= inhabitants sometime kill the Lion, and eat him:(98) and we sometime as 
+#Text= they came to our hands of their Woolues or Wooluish dogs, which I haue not 
+#Text= set downe for good meat, least that some would vnderstand my iudgement 
+#Text= therein to be more simple then needeth, although I could alleage the 
+#Text= difference in taste of those kinds from ours, which by some of our company 
+#Text= haue bene experimented in both.
+85-1	14384-14387	The	_	_	_	
+85-2	14390-14401	inhabitants	_	_	_	
+85-3	14402-14410	sometime	_	_	_	
+85-4	14411-14415	kill	_	_	_	
+85-5	14416-14419	the	_	_	_	
+85-6	14420-14424	Lion	_	_	_	
+85-7	14424-14425	,	_	_	_	
+85-8	14426-14429	and	_	_	_	
+85-9	14430-14433	eat	_	_	_	
+85-10	14434-14437	him	_	_	_	
+85-11	14437-14438	:	_	_	_	
+85-12	14438-14439	(	_	_	_	
+85-13	14439-14441	98	_	_	_	
+85-14	14441-14442	)	_	_	_	
+85-15	14443-14446	and	_	_	_	
+85-16	14447-14449	we	_	_	_	
+85-17	14450-14458	sometime	_	_	_	
+85-18	14459-14461	as	_	_	_	
+85-19	14464-14468	they	_	_	_	
+85-20	14469-14473	came	_	_	_	
+85-21	14474-14476	to	_	_	_	
+85-22	14477-14480	our	_	_	_	
+85-23	14481-14486	hands	_	_	_	
+85-24	14487-14489	of	_	_	_	
+85-25	14490-14495	their	_	_	_	
+85-26	14496-14503	Woolues	Taste Source	_	_	
+85-27	14504-14506	or	_	_	_	
+85-28	14507-14515	Wooluish	Taste Source[63]	_	_	
+85-29	14516-14520	dogs	Taste Source[63]	_	_	
+85-30	14520-14521	,	_	_	_	
+85-31	14522-14527	which	_	_	_	
+85-32	14528-14529	I	_	_	_	
+85-33	14530-14534	haue	_	_	_	
+85-34	14535-14538	not	_	_	_	
+85-35	14541-14544	set	_	_	_	
+85-36	14545-14550	downe	_	_	_	
+85-37	14551-14554	for	_	_	_	
+85-38	14555-14559	good	_	_	_	
+85-39	14560-14564	meat	_	_	_	
+85-40	14564-14565	,	_	_	_	
+85-41	14566-14571	least	_	_	_	
+85-42	14572-14576	that	_	_	_	
+85-43	14577-14581	some	_	_	_	
+85-44	14582-14587	would	_	_	_	
+85-45	14588-14598	vnderstand	_	_	_	
+85-46	14599-14601	my	_	_	_	
+85-47	14602-14611	iudgement	_	_	_	
+85-48	14614-14621	therein	_	_	_	
+85-49	14622-14624	to	_	_	_	
+85-50	14625-14627	be	_	_	_	
+85-51	14628-14632	more	_	_	_	
+85-52	14633-14639	simple	_	_	_	
+85-53	14640-14644	then	_	_	_	
+85-54	14645-14652	needeth	_	_	_	
+85-55	14652-14653	,	_	_	_	
+85-56	14654-14662	although	_	_	_	
+85-57	14663-14664	I	Taster	_	_	
+85-58	14665-14670	could	_	_	_	
+85-59	14671-14678	alleage	_	_	_	
+85-60	14679-14682	the	_	_	_	
+85-61	14685-14695	difference	_	_	_	
+85-62	14696-14698	in	_	_	_	
+85-63	14699-14704	taste	Taste Word	*|*|*|*	85-57|85-26|85-28[63_0]|85-64[64_0]	
+85-64	14705-14707	of	Taste Source[64]	_	_	
+85-65	14708-14713	those	Taste Source[64]	_	_	
+85-66	14714-14719	kinds	Taste Source[64]	_	_	
+85-67	14720-14724	from	_	_	_	
+85-68	14725-14729	ours	_	_	_	
+85-69	14729-14730	,	_	_	_	
+85-70	14731-14736	which	_	_	_	
+85-71	14737-14739	by	_	_	_	
+85-72	14740-14744	some	_	_	_	
+85-73	14745-14747	of	_	_	_	
+85-74	14748-14751	our	_	_	_	
+85-75	14752-14759	company	_	_	_	
+85-76	14762-14766	haue	_	_	_	
+85-77	14767-14771	bene	_	_	_	
+85-78	14772-14784	experimented	_	_	_	
+85-79	14785-14787	in	_	_	_	
+85-80	14788-14792	both	_	_	_	
+85-81	14792-14793	.	_	_	_	
+
+#Text=Of Fowle.
+86-1	14802-14804	Of	_	_	_	
+86-2	14805-14810	Fowle	_	_	_	
+86-3	14810-14811	.	_	_	_	
+
+#Text=Europe, which yeeld most sweet savours farre from the shoare, the 
+#Text= propertie whereof we could not learne for the cause aforesayd, and not for 
+#Text= any difficulty to passe through the woods, seeing they are not so thicke 
+#Text= but that a man may passe through them.
+87-1	14815-14821	Europe	Location	_	_	
+87-2	14821-14822	,	_	_	_	
+87-3	14823-14828	which	_	_	_	
+87-4	14829-14834	yeeld	_	_	_	
+87-5	14835-14839	most	Quality	_	_	
+87-6	14840-14845	sweet	Taste Word[65]|Quality[66]	*|*	87-6[66_65]|87-5[0_65]	
+87-7	14846-14853	savours	Taste Word	*|*	87-1|87-6[66_0]	
+87-8	14854-14859	farre	_	_	_	
+87-9	14860-14864	from	_	_	_	
+87-10	14865-14868	the	_	_	_	
+87-11	14869-14875	shoare	_	_	_	
+87-12	14875-14876	,	_	_	_	
+87-13	14877-14880	the	_	_	_	
+87-14	14883-14892	propertie	_	_	_	
+87-15	14893-14900	whereof	_	_	_	
+87-16	14901-14903	we	_	_	_	
+87-17	14904-14909	could	_	_	_	
+87-18	14910-14913	not	_	_	_	
+87-19	14914-14920	learne	_	_	_	
+87-20	14921-14924	for	_	_	_	
+87-21	14925-14928	the	_	_	_	
+87-22	14929-14934	cause	_	_	_	
+87-23	14935-14944	aforesayd	_	_	_	
+87-24	14944-14945	,	_	_	_	
+87-25	14946-14949	and	_	_	_	
+87-26	14950-14953	not	_	_	_	
+87-27	14954-14957	for	_	_	_	
+87-28	14960-14963	any	_	_	_	
+87-29	14964-14974	difficulty	_	_	_	
+87-30	14975-14977	to	_	_	_	
+87-31	14978-14983	passe	_	_	_	
+87-32	14984-14991	through	_	_	_	
+87-33	14992-14995	the	_	_	_	
+87-34	14996-15001	woods	_	_	_	
+87-35	15001-15002	,	_	_	_	
+87-36	15003-15009	seeing	_	_	_	
+87-37	15010-15014	they	_	_	_	
+87-38	15015-15018	are	_	_	_	
+87-39	15019-15022	not	_	_	_	
+87-40	15023-15025	so	_	_	_	
+87-41	15026-15032	thicke	_	_	_	
+87-42	15035-15038	but	_	_	_	
+87-43	15039-15043	that	_	_	_	
+87-44	15044-15045	a	_	_	_	
+87-45	15046-15049	man	_	_	_	
+87-46	15050-15053	may	_	_	_	
+87-47	15054-15059	passe	_	_	_	
+87-48	15060-15067	through	_	_	_	
+87-49	15068-15072	them	_	_	_	
+87-50	15072-15073	.	_	_	_	
+
+#Text=Neither doe we thinke that they 
+#Text= partaking of the East world round about them, are altogether voyd of drugs 
+#Text= and spicery, and other riches of golde, seeing the colour of the land doth 
+#Text= so much argue it.
+88-1	15074-15081	Neither	_	_	_	
+88-2	15082-15085	doe	_	_	_	
+88-3	15086-15088	we	_	_	_	
+88-4	15089-15095	thinke	_	_	_	
+88-5	15096-15100	that	_	_	_	
+88-6	15101-15105	they	_	_	_	
+88-7	15108-15117	partaking	_	_	_	
+88-8	15118-15120	of	_	_	_	
+88-9	15121-15124	the	_	_	_	
+88-10	15125-15129	East	_	_	_	
+88-11	15130-15135	world	_	_	_	
+88-12	15136-15141	round	_	_	_	
+88-13	15142-15147	about	_	_	_	
+88-14	15148-15152	them	_	_	_	
+88-15	15152-15153	,	_	_	_	
+88-16	15154-15157	are	_	_	_	
+88-17	15158-15168	altogether	_	_	_	
+88-18	15169-15173	voyd	_	_	_	
+88-19	15174-15176	of	_	_	_	
+88-20	15177-15182	drugs	_	_	_	
+88-21	15185-15188	and	_	_	_	
+88-22	15189-15196	spicery	_	_	_	
+88-23	15196-15197	,	_	_	_	
+88-24	15198-15201	and	_	_	_	
+88-25	15202-15207	other	_	_	_	
+88-26	15208-15214	riches	_	_	_	
+88-27	15215-15217	of	_	_	_	
+88-28	15218-15223	golde	_	_	_	
+88-29	15223-15224	,	_	_	_	
+88-30	15225-15231	seeing	_	_	_	
+88-31	15232-15235	the	_	_	_	
+88-32	15236-15242	colour	_	_	_	
+88-33	15243-15245	of	_	_	_	
+88-34	15246-15249	the	_	_	_	
+88-35	15250-15254	land	_	_	_	
+88-36	15255-15259	doth	_	_	_	
+88-37	15262-15264	so	_	_	_	
+88-38	15265-15269	much	_	_	_	
+88-39	15270-15275	argue	_	_	_	
+88-40	15276-15278	it	_	_	_	
+88-41	15278-15279	.	_	_	_	
+
+#Text=And the land is full of many beastes, as Stags, Deere 
+#Text= and Hares, and likewise of Lakes and Pooles of fresh water, with great 
+#Text= plentie of Fowles, conuenient for all kinde of pleasant game.
+89-1	15280-15283	And	_	_	_	
+89-2	15284-15287	the	_	_	_	
+89-3	15288-15292	land	_	_	_	
+89-4	15293-15295	is	_	_	_	
+89-5	15296-15300	full	_	_	_	
+89-6	15301-15303	of	_	_	_	
+89-7	15304-15308	many	_	_	_	
+89-8	15309-15316	beastes	_	_	_	
+89-9	15316-15317	,	_	_	_	
+89-10	15318-15320	as	_	_	_	
+89-11	15321-15326	Stags	_	_	_	
+89-12	15326-15327	,	_	_	_	
+89-13	15328-15333	Deere	_	_	_	
+89-14	15336-15339	and	_	_	_	
+89-15	15340-15345	Hares	_	_	_	
+89-16	15345-15346	,	_	_	_	
+89-17	15347-15350	and	_	_	_	
+89-18	15351-15359	likewise	_	_	_	
+89-19	15360-15362	of	_	_	_	
+89-20	15363-15368	Lakes	_	_	_	
+89-21	15369-15372	and	_	_	_	
+89-22	15373-15379	Pooles	_	_	_	
+89-23	15380-15382	of	_	_	_	
+89-24	15383-15388	fresh	_	_	_	
+89-25	15389-15394	water	_	_	_	
+89-26	15394-15395	,	_	_	_	
+89-27	15396-15400	with	_	_	_	
+89-28	15401-15406	great	_	_	_	
+89-29	15409-15416	plentie	_	_	_	
+89-30	15417-15419	of	_	_	_	
+89-31	15420-15426	Fowles	_	_	_	
+89-32	15426-15427	,	_	_	_	
+89-33	15428-15438	conuenient	_	_	_	
+89-34	15439-15442	for	_	_	_	
+89-35	15443-15446	all	_	_	_	
+89-36	15447-15452	kinde	_	_	_	
+89-37	15453-15455	of	_	_	_	
+89-38	15456-15464	pleasant	_	_	_	
+89-39	15465-15469	game	_	_	_	
+89-40	15469-15470	.	_	_	_	
+
+#Text=This land is 
+#Text= in latitude 34. degrees, with good and wholesome ayre, temperature, 
+#Text= betweene hot and colde, no vehement windes doe blowe in those Regions, and 
+#Text= those that doe commonly reigne in those coasts, are the Northwest and West 
+#Text= windes in the summer season, (in the beginning whereof we were there) the 
+#Text= skie cleere and faire with very little raine: and if at any time the ayre 
+#Text= be cloudie and mistie with the Southerne winde, immediatly it is dissolued 
+#Text= and waxeth cleere and fayre againe.
+90-1	15471-15475	This	_	_	_	
+90-2	15476-15480	land	_	_	_	
+90-3	15481-15483	is	_	_	_	
+90-4	15486-15488	in	_	_	_	
+90-5	15489-15497	latitude	_	_	_	
+90-6	15498-15500	34	_	_	_	
+90-7	15500-15501	.	_	_	_	
+90-8	15502-15509	degrees	_	_	_	
+90-9	15509-15510	,	_	_	_	
+90-10	15511-15515	with	_	_	_	
+90-11	15516-15520	good	_	_	_	
+90-12	15521-15524	and	_	_	_	
+90-13	15525-15534	wholesome	_	_	_	
+90-14	15535-15539	ayre	_	_	_	
+90-15	15539-15540	,	_	_	_	
+90-16	15541-15552	temperature	_	_	_	
+90-17	15552-15553	,	_	_	_	
+90-18	15556-15564	betweene	_	_	_	
+90-19	15565-15568	hot	_	_	_	
+90-20	15569-15572	and	_	_	_	
+90-21	15573-15578	colde	_	_	_	
+90-22	15578-15579	,	_	_	_	
+90-23	15580-15582	no	_	_	_	
+90-24	15583-15591	vehement	_	_	_	
+90-25	15592-15598	windes	_	_	_	
+90-26	15599-15602	doe	_	_	_	
+90-27	15603-15608	blowe	_	_	_	
+90-28	15609-15611	in	_	_	_	
+90-29	15612-15617	those	_	_	_	
+90-30	15618-15625	Regions	_	_	_	
+90-31	15625-15626	,	_	_	_	
+90-32	15627-15630	and	_	_	_	
+90-33	15633-15638	those	_	_	_	
+90-34	15639-15643	that	_	_	_	
+90-35	15644-15647	doe	_	_	_	
+90-36	15648-15656	commonly	_	_	_	
+90-37	15657-15663	reigne	_	_	_	
+90-38	15664-15666	in	_	_	_	
+90-39	15667-15672	those	_	_	_	
+90-40	15673-15679	coasts	_	_	_	
+90-41	15679-15680	,	_	_	_	
+90-42	15681-15684	are	_	_	_	
+90-43	15685-15688	the	_	_	_	
+90-44	15689-15698	Northwest	_	_	_	
+90-45	15699-15702	and	_	_	_	
+90-46	15703-15707	West	_	_	_	
+90-47	15710-15716	windes	_	_	_	
+90-48	15717-15719	in	_	_	_	
+90-49	15720-15723	the	_	_	_	
+90-50	15724-15730	summer	_	_	_	
+90-51	15731-15737	season	_	_	_	
+90-52	15737-15738	,	_	_	_	
+90-53	15739-15740	(	_	_	_	
+90-54	15740-15742	in	_	_	_	
+90-55	15743-15746	the	_	_	_	
+90-56	15747-15756	beginning	_	_	_	
+90-57	15757-15764	whereof	_	_	_	
+90-58	15765-15767	we	_	_	_	
+90-59	15768-15772	were	_	_	_	
+90-60	15773-15778	there	_	_	_	
+90-61	15778-15779	)	_	_	_	
+90-62	15780-15783	the	_	_	_	
+90-63	15786-15790	skie	_	_	_	
+90-64	15791-15797	cleere	_	_	_	
+90-65	15798-15801	and	_	_	_	
+90-66	15802-15807	faire	_	_	_	
+90-67	15808-15812	with	_	_	_	
+90-68	15813-15817	very	_	_	_	
+90-69	15818-15824	little	_	_	_	
+90-70	15825-15830	raine	_	_	_	
+90-71	15830-15831	:	_	_	_	
+90-72	15832-15835	and	_	_	_	
+90-73	15836-15838	if	_	_	_	
+90-74	15839-15841	at	_	_	_	
+90-75	15842-15845	any	_	_	_	
+90-76	15846-15850	time	_	_	_	
+90-77	15851-15854	the	_	_	_	
+90-78	15855-15859	ayre	_	_	_	
+90-79	15862-15864	be	_	_	_	
+90-80	15865-15872	cloudie	_	_	_	
+90-81	15873-15876	and	_	_	_	
+90-82	15877-15883	mistie	_	_	_	
+90-83	15884-15888	with	_	_	_	
+90-84	15889-15892	the	_	_	_	
+90-85	15893-15902	Southerne	_	_	_	
+90-86	15903-15908	winde	_	_	_	
+90-87	15908-15909	,	_	_	_	
+90-88	15910-15920	immediatly	_	_	_	
+90-89	15921-15923	it	_	_	_	
+90-90	15924-15926	is	_	_	_	
+90-91	15927-15936	dissolued	_	_	_	
+90-92	15939-15942	and	_	_	_	
+90-93	15943-15949	waxeth	_	_	_	
+90-94	15950-15956	cleere	_	_	_	
+90-95	15957-15960	and	_	_	_	
+90-96	15961-15966	fayre	_	_	_	
+90-97	15967-15973	againe	_	_	_	
+90-98	15973-15974	.	_	_	_	
+
+#Text=The Sea is calme, not boysterous, the 
+#Text= waues gentle: and although all the shore be somewhat sholde and without 
+#Text= harborough, yet it is not dangerous to the saylers, being free from rocks 
+#Text= and deepe, so that within 4. or 5. foote of the shore, there is 20. foote 
+#Text= deepe of water without ebbe or flood, the depth still increasing in such
+#Text=lodged, visited, and serued of all the inhabitants of that Citie, and all 
+#Text= his companie had their lodgings freely: those which desired to goe into 
+#Text= the countrie, were diuided by foure and foure, and sixe and sixe in the 
+#Text= farmes or granges, according to the abilitie of the owners of the farmes, 
+#Text= and were furnished by them with all things necessarie.
+91-1	15975-15978	The	_	_	_	
+91-2	15979-15982	Sea	_	_	_	
+91-3	15983-15985	is	_	_	_	
+91-4	15986-15991	calme	_	_	_	
+91-5	15991-15992	,	_	_	_	
+91-6	15993-15996	not	_	_	_	
+91-7	15997-16007	boysterous	_	_	_	
+91-8	16007-16008	,	_	_	_	
+91-9	16009-16012	the	_	_	_	
+91-10	16015-16020	waues	_	_	_	
+91-11	16021-16027	gentle	_	_	_	
+91-12	16027-16028	:	_	_	_	
+91-13	16029-16032	and	_	_	_	
+91-14	16033-16041	although	_	_	_	
+91-15	16042-16045	all	_	_	_	
+91-16	16046-16049	the	_	_	_	
+91-17	16050-16055	shore	_	_	_	
+91-18	16056-16058	be	_	_	_	
+91-19	16059-16067	somewhat	_	_	_	
+91-20	16068-16074	sholde	_	_	_	
+91-21	16075-16078	and	_	_	_	
+91-22	16079-16086	without	_	_	_	
+91-23	16089-16099	harborough	_	_	_	
+91-24	16099-16100	,	_	_	_	
+91-25	16101-16104	yet	_	_	_	
+91-26	16105-16107	it	_	_	_	
+91-27	16108-16110	is	_	_	_	
+91-28	16111-16114	not	_	_	_	
+91-29	16115-16124	dangerous	_	_	_	
+91-30	16125-16127	to	_	_	_	
+91-31	16128-16131	the	_	_	_	
+91-32	16132-16139	saylers	_	_	_	
+91-33	16139-16140	,	_	_	_	
+91-34	16141-16146	being	_	_	_	
+91-35	16147-16151	free	_	_	_	
+91-36	16152-16156	from	_	_	_	
+91-37	16157-16162	rocks	_	_	_	
+91-38	16165-16168	and	_	_	_	
+91-39	16169-16174	deepe	_	_	_	
+91-40	16174-16175	,	_	_	_	
+91-41	16176-16178	so	_	_	_	
+91-42	16179-16183	that	_	_	_	
+91-43	16184-16190	within	_	_	_	
+91-44	16191-16192	4	_	_	_	
+91-45	16192-16193	.	_	_	_	
+91-46	16194-16196	or	_	_	_	
+91-47	16197-16198	5	_	_	_	
+91-48	16198-16199	.	_	_	_	
+91-49	16200-16205	foote	_	_	_	
+91-50	16206-16208	of	_	_	_	
+91-51	16209-16212	the	_	_	_	
+91-52	16213-16218	shore	_	_	_	
+91-53	16218-16219	,	_	_	_	
+91-54	16220-16225	there	_	_	_	
+91-55	16226-16228	is	_	_	_	
+91-56	16229-16231	20	_	_	_	
+91-57	16231-16232	.	_	_	_	
+91-58	16233-16238	foote	_	_	_	
+91-59	16241-16246	deepe	_	_	_	
+91-60	16247-16249	of	_	_	_	
+91-61	16250-16255	water	_	_	_	
+91-62	16256-16263	without	_	_	_	
+91-63	16264-16268	ebbe	_	_	_	
+91-64	16269-16271	or	_	_	_	
+91-65	16272-16277	flood	_	_	_	
+91-66	16277-16278	,	_	_	_	
+91-67	16279-16282	the	_	_	_	
+91-68	16283-16288	depth	_	_	_	
+91-69	16289-16294	still	_	_	_	
+91-70	16295-16305	increasing	_	_	_	
+91-71	16306-16308	in	_	_	_	
+91-72	16309-16313	such	_	_	_	
+91-73	16314-16320	lodged	_	_	_	
+91-74	16320-16321	,	_	_	_	
+91-75	16322-16329	visited	_	_	_	
+91-76	16329-16330	,	_	_	_	
+91-77	16331-16334	and	_	_	_	
+91-78	16335-16341	serued	_	_	_	
+91-79	16342-16344	of	_	_	_	
+91-80	16345-16348	all	_	_	_	
+91-81	16349-16352	the	_	_	_	
+91-82	16353-16364	inhabitants	_	_	_	
+91-83	16365-16367	of	_	_	_	
+91-84	16368-16372	that	_	_	_	
+91-85	16373-16378	Citie	_	_	_	
+91-86	16378-16379	,	_	_	_	
+91-87	16380-16383	and	_	_	_	
+91-88	16384-16387	all	_	_	_	
+91-89	16390-16393	his	_	_	_	
+91-90	16394-16402	companie	_	_	_	
+91-91	16403-16406	had	_	_	_	
+91-92	16407-16412	their	_	_	_	
+91-93	16413-16421	lodgings	_	_	_	
+91-94	16422-16428	freely	_	_	_	
+91-95	16428-16429	:	_	_	_	
+91-96	16430-16435	those	_	_	_	
+91-97	16436-16441	which	_	_	_	
+91-98	16442-16449	desired	_	_	_	
+91-99	16450-16452	to	_	_	_	
+91-100	16453-16456	goe	_	_	_	
+91-101	16457-16461	into	_	_	_	
+91-102	16464-16467	the	_	_	_	
+91-103	16468-16476	countrie	_	_	_	
+91-104	16476-16477	,	_	_	_	
+91-105	16478-16482	were	_	_	_	
+91-106	16483-16490	diuided	_	_	_	
+91-107	16491-16493	by	_	_	_	
+91-108	16494-16499	foure	_	_	_	
+91-109	16500-16503	and	_	_	_	
+91-110	16504-16509	foure	_	_	_	
+91-111	16509-16510	,	_	_	_	
+91-112	16511-16514	and	_	_	_	
+91-113	16515-16519	sixe	_	_	_	
+91-114	16520-16523	and	_	_	_	
+91-115	16524-16528	sixe	_	_	_	
+91-116	16529-16531	in	_	_	_	
+91-117	16532-16535	the	_	_	_	
+91-118	16538-16544	farmes	_	_	_	
+91-119	16545-16547	or	_	_	_	
+91-120	16548-16555	granges	_	_	_	
+91-121	16555-16556	,	_	_	_	
+91-122	16557-16566	according	_	_	_	
+91-123	16567-16569	to	_	_	_	
+91-124	16570-16573	the	_	_	_	
+91-125	16574-16582	abilitie	_	_	_	
+91-126	16583-16585	of	_	_	_	
+91-127	16586-16589	the	_	_	_	
+91-128	16590-16596	owners	_	_	_	
+91-129	16597-16599	of	_	_	_	
+91-130	16600-16603	the	_	_	_	
+91-131	16604-16610	farmes	_	_	_	
+91-132	16610-16611	,	_	_	_	
+91-133	16614-16617	and	_	_	_	
+91-134	16618-16622	were	_	_	_	
+91-135	16623-16632	furnished	_	_	_	
+91-136	16633-16635	by	_	_	_	
+91-137	16636-16640	them	_	_	_	
+91-138	16641-16645	with	_	_	_	
+91-139	16646-16649	all	_	_	_	
+91-140	16650-16656	things	_	_	_	
+91-141	16657-16667	necessarie	_	_	_	
+91-142	16667-16668	.	_	_	_	
+
+#Text=Chap.
+92-1	16680-16684	Chap	_	_	_	
+92-2	16684-16685	.	_	_	_	
+
+#Text=V.
+93-1	16686-16687	V	_	_	_	
+93-2	16687-16688	.	_	_	_	
+
+#Text=Of the inhabitants which are in the Citie of S.
+94-1	16689-16691	Of	_	_	_	
+94-2	16692-16695	the	_	_	_	
+94-3	16696-16707	inhabitants	_	_	_	
+94-4	16708-16713	which	_	_	_	
+94-5	16714-16717	are	_	_	_	
+94-6	16718-16720	in	_	_	_	
+94-7	16721-16724	the	_	_	_	
+94-8	16725-16730	Citie	_	_	_	
+94-9	16731-16733	of	_	_	_	
+94-10	16734-16735	S	_	_	_	
+94-11	16735-16736	.	_	_	_	
+
+#Text=Iago, and in the 
+#Text= other townes of the Island: and of the qualitie of the soile, and fruites 
+#Text= that it yeeldeth.
+95-1	16737-16741	Iago	_	_	_	
+95-2	16741-16742	,	_	_	_	
+95-3	16743-16746	and	_	_	_	
+95-4	16747-16749	in	_	_	_	
+95-5	16750-16753	the	_	_	_	
+95-6	16756-16761	other	_	_	_	
+95-7	16762-16768	townes	_	_	_	
+95-8	16769-16771	of	_	_	_	
+95-9	16772-16775	the	_	_	_	
+95-10	16776-16782	Island	_	_	_	
+95-11	16782-16783	:	_	_	_	
+95-12	16784-16787	and	_	_	_	
+95-13	16788-16790	of	_	_	_	
+95-14	16791-16794	the	_	_	_	
+95-15	16795-16803	qualitie	_	_	_	
+95-16	16804-16806	of	_	_	_	
+95-17	16807-16810	the	_	_	_	
+95-18	16811-16816	soile	_	_	_	
+95-19	16816-16817	,	_	_	_	
+95-20	16818-16821	and	_	_	_	
+95-21	16822-16829	fruites	_	_	_	
+95-22	16832-16836	that	_	_	_	
+95-23	16837-16839	it	_	_	_	
+95-24	16840-16848	yeeldeth	_	_	_	
+95-25	16848-16849	.	_	_	_	
+
+#Text=The Citie of S.
+96-1	16858-16861	The	_	_	_	
+96-2	16862-16867	Citie	_	_	_	
+96-3	16868-16870	of	_	_	_	
+96-4	16871-16872	S	_	_	_	
+96-5	16872-16873	.	_	_	_	
+
+#Text=Iago hath fourescore houses which are great and well 
+#Text= contriued.
+97-1	16874-16878	Iago	_	_	_	
+97-2	16879-16883	hath	_	_	_	
+97-3	16884-16894	fourescore	_	_	_	
+97-4	16895-16901	houses	_	_	_	
+97-5	16902-16907	which	_	_	_	
+97-6	16908-16911	are	_	_	_	
+97-7	16912-16917	great	_	_	_	
+97-8	16918-16921	and	_	_	_	
+97-9	16922-16926	well	_	_	_	
+97-10	16929-16938	contriued	_	_	_	
+97-11	16938-16939	.	_	_	_	
+
+#Text=The most part haue their walls made of bords, and are couered 
+#Text= with thatch; it hath some houses builded with lime and stone, and couered 
+#Text= with tiles.
+98-1	16940-16943	The	_	_	_	
+98-2	16944-16948	most	_	_	_	
+98-3	16949-16953	part	_	_	_	
+98-4	16954-16958	haue	_	_	_	
+98-5	16959-16964	their	_	_	_	
+98-6	16965-16970	walls	_	_	_	
+98-7	16971-16975	made	_	_	_	
+98-8	16976-16978	of	_	_	_	
+98-9	16979-16984	bords	_	_	_	
+98-10	16984-16985	,	_	_	_	
+98-11	16986-16989	and	_	_	_	
+98-12	16990-16993	are	_	_	_	
+98-13	16994-17001	couered	_	_	_	
+98-14	17004-17008	with	_	_	_	
+98-15	17009-17015	thatch	_	_	_	
+98-16	17015-17016	;	_	_	_	
+98-17	17017-17019	it	_	_	_	
+98-18	17020-17024	hath	_	_	_	
+98-19	17025-17029	some	_	_	_	
+98-20	17030-17036	houses	_	_	_	
+98-21	17037-17044	builded	_	_	_	
+98-22	17045-17049	with	_	_	_	
+98-23	17050-17054	lime	_	_	_	
+98-24	17055-17058	and	_	_	_	
+98-25	17059-17064	stone	_	_	_	
+98-26	17064-17065	,	_	_	_	
+98-27	17066-17069	and	_	_	_	
+98-28	17070-17077	couered	_	_	_	
+98-29	17080-17084	with	_	_	_	
+98-30	17085-17090	tiles	_	_	_	
+98-31	17090-17091	.	_	_	_	
+
+#Text=(M603) It hath great Orchards and many trees in them, 
+#Text= differing from those of Spaine: there be figgetrees which beare figges as 
+#Text= big as ones fist, yellow within, and of small taste; and other trees which 
+#Text= beare a fruit which they call Ananes, in making and bignes like to a small
+#Text=Pineapple: it is a fruite very sweete in taste: the shel being taken away, 
+#Text= the kernel is like a peece of fresh cheese.
+99-1	17092-17093	(	_	_	_	
+99-2	17093-17097	M603	_	_	_	
+99-3	17097-17098	)	_	_	_	
+99-4	17099-17101	It	_	_	_	
+99-5	17102-17106	hath	_	_	_	
+99-6	17107-17112	great	_	_	_	
+99-7	17113-17121	Orchards	_	_	_	
+99-8	17122-17125	and	_	_	_	
+99-9	17126-17130	many	_	_	_	
+99-10	17131-17136	trees	_	_	_	
+99-11	17137-17139	in	_	_	_	
+99-12	17140-17144	them	_	_	_	
+99-13	17144-17145	,	_	_	_	
+99-14	17148-17157	differing	_	_	_	
+99-15	17158-17162	from	_	_	_	
+99-16	17163-17168	those	_	_	_	
+99-17	17169-17171	of	_	_	_	
+99-18	17172-17178	Spaine	_	_	_	
+99-19	17178-17179	:	_	_	_	
+99-20	17180-17185	there	_	_	_	
+99-21	17186-17188	be	_	_	_	
+99-22	17189-17199	figgetrees	_	_	_	
+99-23	17200-17205	which	_	_	_	
+99-24	17206-17211	beare	_	_	_	
+99-25	17212-17218	figges	Taste Source	_	_	
+99-26	17219-17221	as	_	_	_	
+99-27	17224-17227	big	_	_	_	
+99-28	17228-17230	as	_	_	_	
+99-29	17231-17235	ones	_	_	_	
+99-30	17236-17240	fist	_	_	_	
+99-31	17240-17241	,	_	_	_	
+99-32	17242-17248	yellow	_	_	_	
+99-33	17249-17255	within	_	_	_	
+99-34	17255-17256	,	_	_	_	
+99-35	17257-17260	and	_	_	_	
+99-36	17261-17263	of	_	_	_	
+99-37	17264-17269	small	Quality	_	_	
+99-38	17270-17275	taste	Taste Word	*|*	99-37|99-25	
+99-39	17275-17276	;	_	_	_	
+99-40	17277-17280	and	_	_	_	
+99-41	17281-17286	other	_	_	_	
+99-42	17287-17292	trees	_	_	_	
+99-43	17293-17298	which	_	_	_	
+99-44	17301-17306	beare	_	_	_	
+99-45	17307-17308	a	_	_	_	
+99-46	17309-17314	fruit	_	_	_	
+99-47	17315-17320	which	_	_	_	
+99-48	17321-17325	they	_	_	_	
+99-49	17326-17330	call	_	_	_	
+99-50	17331-17337	Ananes	Taste Source	_	_	
+99-51	17337-17338	,	_	_	_	
+99-52	17339-17341	in	_	_	_	
+99-53	17342-17348	making	_	_	_	
+99-54	17349-17352	and	_	_	_	
+99-55	17353-17359	bignes	_	_	_	
+99-56	17360-17364	like	_	_	_	
+99-57	17365-17367	to	_	_	_	
+99-58	17368-17369	a	_	_	_	
+99-59	17370-17375	small	_	_	_	
+99-60	17376-17385	Pineapple	_	_	_	
+99-61	17385-17386	:	_	_	_	
+99-62	17387-17389	it	_	_	_	
+99-63	17390-17392	is	_	_	_	
+99-64	17393-17394	a	_	_	_	
+99-65	17395-17401	fruite	_	_	_	
+99-66	17402-17406	very	Quality	_	_	
+99-67	17407-17413	sweete	Taste Word[67]|Quality[68]	*|*	99-67[68_67]|99-66[0_67]	
+99-68	17414-17416	in	_	_	_	
+99-69	17417-17422	taste	Taste Word	*|*	99-50|99-67[68_0]	
+99-70	17422-17423	:	_	_	_	
+99-71	17424-17427	the	_	_	_	
+99-72	17428-17432	shel	_	_	_	
+99-73	17433-17438	being	_	_	_	
+99-74	17439-17444	taken	_	_	_	
+99-75	17445-17449	away	_	_	_	
+99-76	17449-17450	,	_	_	_	
+99-77	17453-17456	the	_	_	_	
+99-78	17457-17463	kernel	_	_	_	
+99-79	17464-17466	is	_	_	_	
+99-80	17467-17471	like	_	_	_	
+99-81	17472-17473	a	_	_	_	
+99-82	17474-17479	peece	_	_	_	
+99-83	17480-17482	of	_	_	_	
+99-84	17483-17488	fresh	_	_	_	
+99-85	17489-17495	cheese	_	_	_	
+99-86	17495-17496	.	_	_	_	
+
+#Text=In the granges abroad in the 
+#Text= countrie there are other great pineapples, which grow on low trees, and 
+#Text= are like the Aloe tree:(126) they are of a very good smell and exceeding 
+#Text= good taste.
+100-1	17497-17499	In	_	_	_	
+100-2	17500-17503	the	_	_	_	
+100-3	17504-17511	granges	_	_	_	
+100-4	17512-17518	abroad	_	_	_	
+100-5	17519-17521	in	_	_	_	
+100-6	17522-17525	the	_	_	_	
+100-7	17528-17536	countrie	_	_	_	
+100-8	17537-17542	there	_	_	_	
+100-9	17543-17546	are	_	_	_	
+100-10	17547-17552	other	_	_	_	
+100-11	17553-17558	great	Taste Source[69]	_	_	
+100-12	17559-17569	pineapples	Taste Source[69]	_	_	
+100-13	17569-17570	,	_	_	_	
+100-14	17571-17576	which	_	_	_	
+100-15	17577-17581	grow	_	_	_	
+100-16	17582-17584	on	_	_	_	
+100-17	17585-17588	low	_	_	_	
+100-18	17589-17594	trees	_	_	_	
+100-19	17594-17595	,	_	_	_	
+100-20	17596-17599	and	_	_	_	
+100-21	17602-17605	are	_	_	_	
+100-22	17606-17610	like	_	_	_	
+100-23	17611-17614	the	_	_	_	
+100-24	17615-17619	Aloe	_	_	_	
+100-25	17620-17624	tree	_	_	_	
+100-26	17624-17625	:	_	_	_	
+100-27	17625-17626	(	_	_	_	
+100-28	17626-17629	126	_	_	_	
+100-29	17629-17630	)	_	_	_	
+100-30	17631-17635	they	Taste Source	anaphorical	100-11[69_0]	
+100-31	17636-17639	are	_	_	_	
+100-32	17640-17642	of	_	_	_	
+100-33	17643-17644	a	_	_	_	
+100-34	17645-17649	very	_	_	_	
+100-35	17650-17654	good	_	_	_	
+100-36	17655-17660	smell	_	_	_	
+100-37	17661-17664	and	_	_	_	
+100-38	17665-17674	exceeding	Quality[70]	_	_	
+100-39	17677-17681	good	Quality[70]	_	_	
+100-40	17682-17687	taste	Taste Word	*|*	100-38[70_0]|100-30	
+100-41	17687-17688	.	_	_	_	
+
+#Text=Other trees do beare a fruit, which they call Mameis of the 
+#Text= bignes of Peaches.
+101-1	17689-17694	Other	_	_	_	
+101-2	17695-17700	trees	_	_	_	
+101-3	17701-17703	do	_	_	_	
+101-4	17704-17709	beare	_	_	_	
+101-5	17710-17711	a	_	_	_	
+101-6	17712-17717	fruit	_	_	_	
+101-7	17717-17718	,	_	_	_	
+101-8	17719-17724	which	_	_	_	
+101-9	17725-17729	they	_	_	_	
+101-10	17730-17734	call	_	_	_	
+101-11	17735-17741	Mameis	_	_	_	
+101-12	17742-17744	of	_	_	_	
+101-13	17745-17748	the	_	_	_	
+101-14	17751-17757	bignes	_	_	_	
+101-15	17758-17760	of	_	_	_	
+101-16	17761-17768	Peaches	_	_	_	
+101-17	17768-17769	.	_	_	_	
+
+#Text=This the Islanders do hold for the best fruit of the 
+#Text= country.
+102-1	17770-17774	This	_	_	_	
+102-2	17775-17778	the	_	_	_	
+102-3	17779-17788	Islanders	_	_	_	
+102-4	17789-17791	do	_	_	_	
+102-5	17792-17796	hold	_	_	_	
+102-6	17797-17800	for	_	_	_	
+102-7	17801-17804	the	_	_	_	
+102-8	17805-17809	best	_	_	_	
+102-9	17810-17815	fruit	_	_	_	
+102-10	17816-17818	of	_	_	_	
+102-11	17819-17822	the	_	_	_	
+102-12	17825-17832	country	_	_	_	
+102-13	17832-17833	.	_	_	_	
+
+#Text=There is another fruit which they call Guayahas like Filberds, as 
+#Text= bigge as figges.
+103-1	17834-17839	There	_	_	_	
+103-2	17840-17842	is	_	_	_	
+103-3	17843-17850	another	_	_	_	
+103-4	17851-17856	fruit	_	_	_	
+103-5	17857-17862	which	_	_	_	
+103-6	17863-17867	they	_	_	_	
+103-7	17868-17872	call	_	_	_	
+103-8	17873-17881	Guayahas	_	_	_	
+103-9	17882-17886	like	_	_	_	
+103-10	17887-17895	Filberds	_	_	_	
+103-11	17895-17896	,	_	_	_	
+103-12	17897-17899	as	_	_	_	
+103-13	17902-17907	bigge	_	_	_	
+103-14	17908-17910	as	_	_	_	
+103-15	17911-17917	figges	_	_	_	
+103-16	17917-17918	.	_	_	_	
+
+#Text=There are other trees as high as a iaueline, hauing one 
+#Text= only stocke without any bough, and the leaues as long as a casting dart: 
+#Text= and the fruite is of the bignesse and fashion of a Cucumber, one bunch 
+#Text= beareth 20. or 30. and as they ripen, the tree bendeth downeward with 
+#Text= them: they are called in this countrie Plantanos; and are of a good taste, 
+#Text= and ripen after they be gathered, but those are the better which ripen 
+#Text= vpon the tree it selfe: they beare fruite but once: and the tree being cut 
+#Text= downe, there spring vp others out of the but, which beare fruite the next 
+#Text= yeere.
+104-1	17919-17924	There	_	_	_	
+104-2	17925-17928	are	_	_	_	
+104-3	17929-17934	other	_	_	_	
+104-4	17935-17940	trees	_	_	_	
+104-5	17941-17943	as	_	_	_	
+104-6	17944-17948	high	_	_	_	
+104-7	17949-17951	as	_	_	_	
+104-8	17952-17953	a	_	_	_	
+104-9	17954-17962	iaueline	_	_	_	
+104-10	17962-17963	,	_	_	_	
+104-11	17964-17970	hauing	_	_	_	
+104-12	17971-17974	one	_	_	_	
+104-13	17977-17981	only	_	_	_	
+104-14	17982-17988	stocke	_	_	_	
+104-15	17989-17996	without	_	_	_	
+104-16	17997-18000	any	_	_	_	
+104-17	18001-18006	bough	_	_	_	
+104-18	18006-18007	,	_	_	_	
+104-19	18008-18011	and	_	_	_	
+104-20	18012-18015	the	_	_	_	
+104-21	18016-18022	leaues	_	_	_	
+104-22	18023-18025	as	_	_	_	
+104-23	18026-18030	long	_	_	_	
+104-24	18031-18033	as	_	_	_	
+104-25	18034-18035	a	_	_	_	
+104-26	18036-18043	casting	_	_	_	
+104-27	18044-18048	dart	_	_	_	
+104-28	18048-18049	:	_	_	_	
+104-29	18052-18055	and	_	_	_	
+104-30	18056-18059	the	_	_	_	
+104-31	18060-18066	fruite	_	_	_	
+104-32	18067-18069	is	_	_	_	
+104-33	18070-18072	of	_	_	_	
+104-34	18073-18076	the	_	_	_	
+104-35	18077-18085	bignesse	_	_	_	
+104-36	18086-18089	and	_	_	_	
+104-37	18090-18097	fashion	_	_	_	
+104-38	18098-18100	of	_	_	_	
+104-39	18101-18102	a	_	_	_	
+104-40	18103-18111	Cucumber	_	_	_	
+104-41	18111-18112	,	_	_	_	
+104-42	18113-18116	one	_	_	_	
+104-43	18117-18122	bunch	_	_	_	
+104-44	18125-18132	beareth	_	_	_	
+104-45	18133-18135	20	_	_	_	
+104-46	18135-18136	.	_	_	_	
+104-47	18137-18139	or	_	_	_	
+104-48	18140-18142	30	_	_	_	
+104-49	18142-18143	.	_	_	_	
+104-50	18144-18147	and	_	_	_	
+104-51	18148-18150	as	_	_	_	
+104-52	18151-18155	they	_	_	_	
+104-53	18156-18161	ripen	_	_	_	
+104-54	18161-18162	,	_	_	_	
+104-55	18163-18166	the	_	_	_	
+104-56	18167-18171	tree	_	_	_	
+104-57	18172-18179	bendeth	_	_	_	
+104-58	18180-18189	downeward	_	_	_	
+104-59	18190-18194	with	_	_	_	
+104-60	18197-18201	them	_	_	_	
+104-61	18201-18202	:	_	_	_	
+104-62	18203-18207	they	_	_	_	
+104-63	18208-18211	are	_	_	_	
+104-64	18212-18218	called	_	_	_	
+104-65	18219-18221	in	_	_	_	
+104-66	18222-18226	this	_	_	_	
+104-67	18227-18235	countrie	_	_	_	
+104-68	18236-18245	Plantanos	Taste Source	_	_	
+104-69	18245-18246	;	_	_	_	
+104-70	18247-18250	and	_	_	_	
+104-71	18251-18254	are	_	_	_	
+104-72	18255-18257	of	_	_	_	
+104-73	18258-18259	a	_	_	_	
+104-74	18260-18264	good	Quality	_	_	
+104-75	18265-18270	taste	Taste Word	*|*	104-68|104-74	
+104-76	18270-18271	,	_	_	_	
+104-77	18274-18277	and	_	_	_	
+104-78	18278-18283	ripen	_	_	_	
+104-79	18284-18289	after	_	_	_	
+104-80	18290-18294	they	_	_	_	
+104-81	18295-18297	be	_	_	_	
+104-82	18298-18306	gathered	_	_	_	
+104-83	18306-18307	,	_	_	_	
+104-84	18308-18311	but	_	_	_	
+104-85	18312-18317	those	_	_	_	
+104-86	18318-18321	are	_	_	_	
+104-87	18322-18325	the	_	_	_	
+104-88	18326-18332	better	_	_	_	
+104-89	18333-18338	which	_	_	_	
+104-90	18339-18344	ripen	_	_	_	
+104-91	18347-18351	vpon	_	_	_	
+104-92	18352-18355	the	_	_	_	
+104-93	18356-18360	tree	_	_	_	
+104-94	18361-18363	it	_	_	_	
+104-95	18364-18369	selfe	_	_	_	
+104-96	18369-18370	:	_	_	_	
+104-97	18371-18375	they	_	_	_	
+104-98	18376-18381	beare	_	_	_	
+104-99	18382-18388	fruite	_	_	_	
+104-100	18389-18392	but	_	_	_	
+104-101	18393-18397	once	_	_	_	
+104-102	18397-18398	:	_	_	_	
+104-103	18399-18402	and	_	_	_	
+104-104	18403-18406	the	_	_	_	
+104-105	18407-18411	tree	_	_	_	
+104-106	18412-18417	being	_	_	_	
+104-107	18418-18421	cut	_	_	_	
+104-108	18424-18429	downe	_	_	_	
+104-109	18429-18430	,	_	_	_	
+104-110	18431-18436	there	_	_	_	
+104-111	18437-18443	spring	_	_	_	
+104-112	18444-18446	vp	_	_	_	
+104-113	18447-18453	others	_	_	_	
+104-114	18454-18457	out	_	_	_	
+104-115	18458-18460	of	_	_	_	
+104-116	18461-18464	the	_	_	_	
+104-117	18465-18468	but	_	_	_	
+104-118	18468-18469	,	_	_	_	
+104-119	18470-18475	which	_	_	_	
+104-120	18476-18481	beare	_	_	_	
+104-121	18482-18488	fruite	_	_	_	
+104-122	18489-18492	the	_	_	_	
+104-123	18493-18497	next	_	_	_	
+104-124	18500-18505	yeere	_	_	_	
+104-125	18505-18506	.	_	_	_	
+
+#Text=(M604) There is another fruit; whereby many people are sustained, 
+#Text= and chiefly the slaues, which are called Batatas.
+105-1	18507-18508	(	_	_	_	
+105-2	18508-18512	M604	_	_	_	
+105-3	18512-18513	)	_	_	_	
+105-4	18514-18519	There	_	_	_	
+105-5	18520-18522	is	_	_	_	
+105-6	18523-18530	another	_	_	_	
+105-7	18531-18536	fruit	_	_	_	
+105-8	18536-18537	;	_	_	_	
+105-9	18538-18545	whereby	_	_	_	
+105-10	18546-18550	many	_	_	_	
+105-11	18551-18557	people	_	_	_	
+105-12	18558-18561	are	_	_	_	
+105-13	18562-18571	sustained	_	_	_	
+105-14	18571-18572	,	_	_	_	
+105-15	18575-18578	and	_	_	_	
+105-16	18579-18586	chiefly	_	_	_	
+105-17	18587-18590	the	_	_	_	
+105-18	18591-18597	slaues	_	_	_	
+105-19	18597-18598	,	_	_	_	
+105-20	18599-18604	which	_	_	_	
+105-21	18605-18608	are	_	_	_	
+105-22	18609-18615	called	_	_	_	
+105-23	18616-18623	Batatas	_	_	_	
+105-24	18623-18624	.	_	_	_	
+
+#Text=These grow now in the 
+#Text= Isle of Tercera, belonging to the Kingdome of Portugal, and they grow 
+#Text= within the earth, and are like a fruit called Iname, they haue almost the 
+#Text= taste of a chestnut.
+106-1	18625-18630	These	_	_	_	
+106-2	18631-18635	grow	_	_	_	
+106-3	18636-18639	now	_	_	_	
+106-4	18640-18642	in	_	_	_	
+106-5	18643-18646	the	_	_	_	
+106-6	18649-18653	Isle	_	_	_	
+106-7	18654-18656	of	_	_	_	
+106-8	18657-18664	Tercera	_	_	_	
+106-9	18664-18665	,	_	_	_	
+106-10	18666-18675	belonging	_	_	_	
+106-11	18676-18678	to	_	_	_	
+106-12	18679-18682	the	_	_	_	
+106-13	18683-18691	Kingdome	_	_	_	
+106-14	18692-18694	of	_	_	_	
+106-15	18695-18703	Portugal	_	_	_	
+106-16	18703-18704	,	_	_	_	
+106-17	18705-18708	and	_	_	_	
+106-18	18709-18713	they	_	_	_	
+106-19	18714-18718	grow	_	_	_	
+106-20	18721-18727	within	_	_	_	
+106-21	18728-18731	the	_	_	_	
+106-22	18732-18737	earth	_	_	_	
+106-23	18737-18738	,	_	_	_	
+106-24	18739-18742	and	_	_	_	
+106-25	18743-18746	are	_	_	_	
+106-26	18747-18751	like	_	_	_	
+106-27	18752-18753	a	_	_	_	
+106-28	18754-18759	fruit	_	_	_	
+106-29	18760-18766	called	_	_	_	
+106-30	18767-18772	Iname	Taste Source	_	_	
+106-31	18772-18773	,	_	_	_	
+106-32	18774-18778	they	_	_	_	
+106-33	18779-18783	haue	Evoked Taste[71]	_	_	
+106-34	18784-18790	almost	Evoked Taste[71]	_	_	
+106-35	18791-18794	the	Evoked Taste[71]	_	_	
+106-36	18797-18802	taste	Evoked Taste[71]|Taste Word[72]	*|*	106-30[0_72]|106-33[71_72]	
+106-37	18803-18805	of	Evoked Taste[71]	_	_	
+106-38	18806-18807	a	Evoked Taste[71]	_	_	
+106-39	18808-18816	chestnut	Evoked Taste[71]	_	_	
+106-40	18816-18817	.	_	_	_	
+
+#Text=(M605) The bread of this countrie is also made of
+#Text=rootes which are like the Batatas.
+107-1	18818-18819	(	_	_	_	
+107-2	18819-18823	M605	_	_	_	
+107-3	18823-18824	)	_	_	_	
+107-4	18825-18828	The	_	_	_	
+107-5	18829-18834	bread	_	_	_	
+107-6	18835-18837	of	_	_	_	
+107-7	18838-18842	this	_	_	_	
+107-8	18843-18851	countrie	_	_	_	
+107-9	18852-18854	is	_	_	_	
+107-10	18855-18859	also	_	_	_	
+107-11	18860-18864	made	_	_	_	
+107-12	18865-18867	of	_	_	_	
+107-13	18868-18874	rootes	_	_	_	
+107-14	18875-18880	which	_	_	_	
+107-15	18881-18884	are	_	_	_	
+107-16	18885-18889	like	_	_	_	
+107-17	18890-18893	the	_	_	_	
+107-18	18894-18901	Batatas	_	_	_	
+107-19	18901-18902	.	_	_	_	
+
+#Text=And the stocke whereon those rootes doe 
+#Text= grow is like an Elder tree: they make their ground in little hillocks and 
+#Text= in each of them they thrust 4. or 5. stakes; and they gather the rootes a 
+#Text= yeere and an halfe after they set them.
+108-1	18903-18906	And	_	_	_	
+108-2	18907-18910	the	_	_	_	
+108-3	18911-18917	stocke	_	_	_	
+108-4	18918-18925	whereon	_	_	_	
+108-5	18926-18931	those	_	_	_	
+108-6	18932-18938	rootes	_	_	_	
+108-7	18939-18942	doe	_	_	_	
+108-8	18945-18949	grow	_	_	_	
+108-9	18950-18952	is	_	_	_	
+108-10	18953-18957	like	_	_	_	
+108-11	18958-18960	an	_	_	_	
+108-12	18961-18966	Elder	_	_	_	
+108-13	18967-18971	tree	_	_	_	
+108-14	18971-18972	:	_	_	_	
+108-15	18973-18977	they	_	_	_	
+108-16	18978-18982	make	_	_	_	
+108-17	18983-18988	their	_	_	_	
+108-18	18989-18995	ground	_	_	_	
+108-19	18996-18998	in	_	_	_	
+108-20	18999-19005	little	_	_	_	
+108-21	19006-19014	hillocks	_	_	_	
+108-22	19015-19018	and	_	_	_	
+108-23	19021-19023	in	_	_	_	
+108-24	19024-19028	each	_	_	_	
+108-25	19029-19031	of	_	_	_	
+108-26	19032-19036	them	_	_	_	
+108-27	19037-19041	they	_	_	_	
+108-28	19042-19048	thrust	_	_	_	
+108-29	19049-19050	4	_	_	_	
+108-30	19050-19051	.	_	_	_	
+108-31	19052-19054	or	_	_	_	
+108-32	19055-19056	5	_	_	_	
+108-33	19056-19057	.	_	_	_	
+108-34	19058-19064	stakes	_	_	_	
+108-35	19064-19065	;	_	_	_	
+108-36	19066-19069	and	_	_	_	
+108-37	19070-19074	they	_	_	_	
+108-38	19075-19081	gather	_	_	_	
+108-39	19082-19085	the	_	_	_	
+108-40	19086-19092	rootes	_	_	_	
+108-41	19093-19094	a	_	_	_	
+108-42	19097-19102	yeere	_	_	_	
+108-43	19103-19106	and	_	_	_	
+108-44	19107-19109	an	_	_	_	
+108-45	19110-19115	halfe	_	_	_	
+108-46	19116-19121	after	_	_	_	
+108-47	19122-19126	they	_	_	_	
+108-48	19127-19130	set	_	_	_	
+108-49	19131-19135	them	_	_	_	
+108-50	19135-19136	.	_	_	_	
+
+#Text=If any one, thinking it is a 
+#Text= Batata or Potato roote, chance to eate of it neuer so little, he is in 
+#Text= great danger of death: which was seene by experience in a souldier, which 
+#Text= assone as hee had eaten a very little of one of those rootes, hee died 
+#Text= quicklie.
+109-1	19137-19139	If	_	_	_	
+109-2	19140-19143	any	_	_	_	
+109-3	19144-19147	one	_	_	_	
+109-4	19147-19148	,	_	_	_	
+109-5	19149-19157	thinking	_	_	_	
+109-6	19158-19160	it	_	_	_	
+109-7	19161-19163	is	_	_	_	
+109-8	19164-19165	a	_	_	_	
+109-9	19168-19174	Batata	Taste Source	_	_	
+109-10	19175-19177	or	_	_	_	
+109-11	19178-19184	Potato	Taste Source[73]	_	_	
+109-12	19185-19190	roote	Taste Source[73]	_	_	
+109-13	19190-19191	,	_	_	_	
+109-14	19192-19198	chance	_	_	_	
+109-15	19199-19201	to	_	_	_	
+109-16	19202-19206	eate	Taste Word	*|*	109-11[73_0]|109-9	
+109-17	19207-19209	of	_	_	_	
+109-18	19210-19212	it	_	_	_	
+109-19	19213-19218	neuer	_	_	_	
+109-20	19219-19221	so	_	_	_	
+109-21	19222-19228	little	_	_	_	
+109-22	19228-19229	,	_	_	_	
+109-23	19230-19232	he	_	_	_	
+109-24	19233-19235	is	_	_	_	
+109-25	19236-19238	in	_	_	_	
+109-26	19241-19246	great	_	_	_	
+109-27	19247-19253	danger	_	_	_	
+109-28	19254-19256	of	_	_	_	
+109-29	19257-19262	death	_	_	_	
+109-30	19262-19263	:	_	_	_	
+109-31	19264-19269	which	_	_	_	
+109-32	19270-19273	was	_	_	_	
+109-33	19274-19279	seene	_	_	_	
+109-34	19280-19282	by	_	_	_	
+109-35	19283-19293	experience	_	_	_	
+109-36	19294-19296	in	_	_	_	
+109-37	19297-19298	a	_	_	_	
+109-38	19299-19307	souldier	_	_	_	
+109-39	19307-19308	,	_	_	_	
+109-40	19309-19314	which	_	_	_	
+109-41	19317-19323	assone	_	_	_	
+109-42	19324-19326	as	_	_	_	
+109-43	19327-19330	hee	_	_	_	
+109-44	19331-19334	had	_	_	_	
+109-45	19335-19340	eaten	Taste Word	*|*	109-46[74_0]|109-55[75_0]	
+109-46	19341-19342	a	Taste Source[74]	_	_	
+109-47	19343-19347	very	Taste Source[74]	_	_	
+109-48	19348-19354	little	Taste Source[74]	_	_	
+109-49	19355-19357	of	Taste Source[74]	_	_	
+109-50	19358-19361	one	Taste Source[74]	_	_	
+109-51	19362-19364	of	Taste Source[74]	_	_	
+109-52	19365-19370	those	Taste Source[74]	_	_	
+109-53	19371-19377	rootes	Taste Source[74]	_	_	
+109-54	19377-19378	,	_	_	_	
+109-55	19379-19382	hee	Effect[75]	_	_	
+109-56	19383-19387	died	Effect[75]	_	_	
+109-57	19390-19398	quicklie	Effect[75]	_	_	
+109-58	19398-19399	.	_	_	_	
+
+#Text=They pare these rootes and stamp them and squese them in a thing 
+#Text= like a presse: the iuyce that commeth from them is of an euill smell.
+110-1	19400-19404	They	_	_	_	
+110-2	19405-19409	pare	_	_	_	
+110-3	19410-19415	these	_	_	_	
+110-4	19416-19422	rootes	_	_	_	
+110-5	19423-19426	and	_	_	_	
+110-6	19427-19432	stamp	_	_	_	
+110-7	19433-19437	them	_	_	_	
+110-8	19438-19441	and	_	_	_	
+110-9	19442-19448	squese	_	_	_	
+110-10	19449-19453	them	_	_	_	
+110-11	19454-19456	in	_	_	_	
+110-12	19457-19458	a	_	_	_	
+110-13	19459-19464	thing	_	_	_	
+110-14	19467-19471	like	_	_	_	
+110-15	19472-19473	a	_	_	_	
+110-16	19474-19480	presse	_	_	_	
+110-17	19480-19481	:	_	_	_	
+110-18	19482-19485	the	_	_	_	
+110-19	19486-19491	iuyce	_	_	_	
+110-20	19492-19496	that	_	_	_	
+110-21	19497-19504	commeth	_	_	_	
+110-22	19505-19509	from	_	_	_	
+110-23	19510-19514	them	_	_	_	
+110-24	19515-19517	is	_	_	_	
+110-25	19518-19520	of	_	_	_	
+110-26	19521-19523	an	_	_	_	
+110-27	19524-19529	euill	_	_	_	
+110-28	19530-19535	smell	_	_	_	
+110-29	19535-19536	.	_	_	_	
+
+#Text=The 
+#Text= bread is of little taste and lesse substance.
+111-1	19537-19540	The	Taste Source[76]	_	_	
+111-2	19543-19548	bread	Taste Source[76]	_	_	
+111-3	19549-19551	is	_	_	_	
+111-4	19552-19554	of	_	_	_	
+111-5	19555-19561	little	Quality	_	_	
+111-6	19562-19567	taste	Taste Word	*|*	111-1[76_0]|111-5	
+111-7	19568-19571	and	_	_	_	
+111-8	19572-19577	lesse	_	_	_	
+111-9	19578-19587	substance	_	_	_	
+111-10	19587-19588	.	_	_	_	
+
+#Text=Of the fruits of Spaine, 
+#Text= there are Figges and Oranges, and they beare fruite all the yeere, because 
+#Text= the soile is very ranke and fruitfull.
+112-1	19589-19591	Of	_	_	_	
+112-2	19592-19595	the	_	_	_	
+112-3	19596-19602	fruits	_	_	_	
+112-4	19603-19605	of	_	_	_	
+112-5	19606-19612	Spaine	_	_	_	
+112-6	19612-19613	,	_	_	_	
+112-7	19616-19621	there	_	_	_	
+112-8	19622-19625	are	_	_	_	
+112-9	19626-19632	Figges	_	_	_	
+112-10	19633-19636	and	_	_	_	
+112-11	19637-19644	Oranges	_	_	_	
+112-12	19644-19645	,	_	_	_	
+112-13	19646-19649	and	_	_	_	
+112-14	19650-19654	they	_	_	_	
+112-15	19655-19660	beare	_	_	_	
+112-16	19661-19667	fruite	_	_	_	
+112-17	19668-19671	all	_	_	_	
+112-18	19672-19675	the	_	_	_	
+112-19	19676-19681	yeere	_	_	_	
+112-20	19681-19682	,	_	_	_	
+112-21	19683-19690	because	_	_	_	
+112-22	19693-19696	the	_	_	_	
+112-23	19697-19702	soile	_	_	_	
+112-24	19703-19705	is	_	_	_	
+112-25	19706-19710	very	_	_	_	
+112-26	19711-19716	ranke	_	_	_	
+112-27	19717-19720	and	_	_	_	
+112-28	19721-19730	fruitfull	_	_	_	
+112-29	19730-19731	.	_	_	_	
+
+#Text=(M606) In this countrie are many 
+#Text= good horses, and there is greene grasse all the yeere.
+113-1	19732-19733	(	_	_	_	
+113-2	19733-19737	M606	_	_	_	
+113-3	19737-19738	)	_	_	_	
+113-4	19739-19741	In	_	_	_	
+113-5	19742-19746	this	_	_	_	
+113-6	19747-19755	countrie	_	_	_	
+113-7	19756-19759	are	_	_	_	
+113-8	19760-19764	many	_	_	_	
+113-9	19767-19771	good	_	_	_	
+113-10	19772-19778	horses	_	_	_	
+113-11	19778-19779	,	_	_	_	
+113-12	19780-19783	and	_	_	_	
+113-13	19784-19789	there	_	_	_	
+113-14	19790-19792	is	_	_	_	
+113-15	19793-19799	greene	_	_	_	
+113-16	19800-19806	grasse	_	_	_	
+113-17	19807-19810	all	_	_	_	
+113-18	19811-19814	the	_	_	_	
+113-19	19815-19820	yeere	_	_	_	
+113-20	19820-19821	.	_	_	_	
+
+#Text=There be many wild 
+#Text= oxen and hogges, whereby the people of the Island is well furnished with 
+#Text= flesh: Without the townes abroad in the Countrie are many fruites.
+114-1	19822-19827	There	_	_	_	
+114-2	19828-19830	be	_	_	_	
+114-3	19831-19835	many	_	_	_	
+114-4	19836-19840	wild	_	_	_	
+114-5	19843-19847	oxen	_	_	_	
+114-6	19848-19851	and	_	_	_	
+114-7	19852-19858	hogges	_	_	_	
+114-8	19858-19859	,	_	_	_	
+114-9	19860-19867	whereby	_	_	_	
+114-10	19868-19871	the	_	_	_	
+114-11	19872-19878	people	_	_	_	
+114-12	19879-19881	of	_	_	_	
+114-13	19882-19885	the	_	_	_	
+114-14	19886-19892	Island	_	_	_	
+114-15	19893-19895	is	_	_	_	
+114-16	19896-19900	well	_	_	_	
+114-17	19901-19910	furnished	_	_	_	
+114-18	19911-19915	with	_	_	_	
+114-19	19918-19923	flesh	_	_	_	
+114-20	19923-19924	:	_	_	_	
+114-21	19925-19932	Without	_	_	_	
+114-22	19933-19936	the	_	_	_	
+114-23	19937-19943	townes	_	_	_	
+114-24	19944-19950	abroad	_	_	_	
+114-25	19951-19953	in	_	_	_	
+114-26	19954-19957	the	_	_	_	
+114-27	19958-19966	Countrie	_	_	_	
+114-28	19967-19970	are	_	_	_	
+114-29	19971-19975	many	_	_	_	
+114-30	19976-19983	fruites	_	_	_	
+114-31	19983-19984	.	_	_	_	
+
+#Text=And it 
+#Text= happeneth sometimes that a Christian goeth out of the way and is lost 15.
+115-1	19985-19988	And	_	_	_	
+115-2	19989-19991	it	_	_	_	
+115-3	19994-20003	happeneth	_	_	_	
+115-4	20004-20013	sometimes	_	_	_	
+115-5	20014-20018	that	_	_	_	
+115-6	20019-20020	a	_	_	_	
+115-7	20021-20030	Christian	_	_	_	
+115-8	20031-20036	goeth	_	_	_	
+115-9	20037-20040	out	_	_	_	
+115-10	20041-20043	of	_	_	_	
+115-11	20044-20047	the	_	_	_	
+115-12	20048-20051	way	_	_	_	
+115-13	20052-20055	and	_	_	_	
+115-14	20056-20058	is	_	_	_	
+115-15	20059-20063	lost	_	_	_	
+115-16	20064-20066	15	_	_	_	
+115-17	20066-20067	.	_	_	_	
+
+#Text=or 20. daies, because of the many paths in the thicke groues that crosse 
+#Text= too and fro made by the oxen: and being thus lost, they sustaine them 
+#Text= selues with fruites and palmitos: for there be many great groues of Palme 
+#Text= trees through all the Island: they yeeld no other fruite that is of any
+116-1	20070-20072	or	_	_	_	
+116-2	20073-20075	20	_	_	_	
+116-3	20075-20076	.	_	_	_	
+116-4	20077-20082	daies	_	_	_	
+116-5	20082-20083	,	_	_	_	
+116-6	20084-20091	because	_	_	_	
+116-7	20092-20094	of	_	_	_	
+116-8	20095-20098	the	_	_	_	
+116-9	20099-20103	many	_	_	_	
+116-10	20104-20109	paths	_	_	_	
+116-11	20110-20112	in	_	_	_	
+116-12	20113-20116	the	_	_	_	
+116-13	20117-20123	thicke	_	_	_	
+116-14	20124-20130	groues	_	_	_	
+116-15	20131-20135	that	_	_	_	
+116-16	20136-20142	crosse	_	_	_	
+116-17	20145-20148	too	_	_	_	
+116-18	20149-20152	and	_	_	_	
+116-19	20153-20156	fro	_	_	_	
+116-20	20157-20161	made	_	_	_	
+116-21	20162-20164	by	_	_	_	
+116-22	20165-20168	the	_	_	_	
+116-23	20169-20173	oxen	_	_	_	
+116-24	20173-20174	:	_	_	_	
+116-25	20175-20178	and	_	_	_	
+116-26	20179-20184	being	_	_	_	
+116-27	20185-20189	thus	_	_	_	
+116-28	20190-20194	lost	_	_	_	
+116-29	20194-20195	,	_	_	_	
+116-30	20196-20200	they	_	_	_	
+116-31	20201-20209	sustaine	_	_	_	
+116-32	20210-20214	them	_	_	_	
+116-33	20217-20223	selues	_	_	_	
+116-34	20224-20228	with	_	_	_	
+116-35	20229-20236	fruites	_	_	_	
+116-36	20237-20240	and	_	_	_	
+116-37	20241-20249	palmitos	_	_	_	
+116-38	20249-20250	:	_	_	_	
+116-39	20251-20254	for	_	_	_	
+116-40	20255-20260	there	_	_	_	
+116-41	20261-20263	be	_	_	_	
+116-42	20264-20268	many	_	_	_	
+116-43	20269-20274	great	_	_	_	
+116-44	20275-20281	groues	_	_	_	
+116-45	20282-20284	of	_	_	_	
+116-46	20285-20290	Palme	_	_	_	
+116-47	20293-20298	trees	_	_	_	
+116-48	20299-20306	through	_	_	_	
+116-49	20307-20310	all	_	_	_	
+116-50	20311-20314	the	_	_	_	
+116-51	20315-20321	Island	_	_	_	
+116-52	20321-20322	:	_	_	_	
+116-53	20323-20327	they	_	_	_	
+116-54	20328-20333	yeeld	_	_	_	
+116-55	20334-20336	no	_	_	_	
+116-56	20337-20342	other	_	_	_	
+116-57	20343-20349	fruite	_	_	_	
+116-58	20350-20354	that	_	_	_	
+116-59	20355-20357	is	_	_	_	
+116-60	20358-20360	of	_	_	_	
+116-61	20361-20364	any	_	_	_	

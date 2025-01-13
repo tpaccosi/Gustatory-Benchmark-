@@ -1,0 +1,3363 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+#T_RL=custom.Relation|label|BT_custom.Span
+
+
+#Text=women walk ahead and their female servants and slaves follow them; 
+#Text=behind these walk their husbands, fathers, or brothers, with their 
+#Text=man-servants and slaves. [60] 
+#Text=  
+#Text= Their ordinary food is rice pounded in wooden mortars, and cooked--this 
+#Text= is called _morisqueta_, [61] and is the ordinary bread of the whole 
+#Text= country--boiled fish (which is very abundant), the flesh of swine, 
+#Text= deer, and wild buffaloes (which they call _carabaos_).
+1-1	0-5	women	_	_	_	
+1-2	6-10	walk	_	_	_	
+1-3	11-16	ahead	_	_	_	
+1-4	17-20	and	_	_	_	
+1-5	21-26	their	_	_	_	
+1-6	27-33	female	_	_	_	
+1-7	34-42	servants	_	_	_	
+1-8	43-46	and	_	_	_	
+1-9	47-53	slaves	_	_	_	
+1-10	54-60	follow	_	_	_	
+1-11	61-65	them	_	_	_	
+1-12	65-66	;	_	_	_	
+1-13	68-74	behind	_	_	_	
+1-14	75-80	these	_	_	_	
+1-15	81-85	walk	_	_	_	
+1-16	86-91	their	_	_	_	
+1-17	92-100	husbands	_	_	_	
+1-18	100-101	,	_	_	_	
+1-19	102-109	fathers	_	_	_	
+1-20	109-110	,	_	_	_	
+1-21	111-113	or	_	_	_	
+1-22	114-122	brothers	_	_	_	
+1-23	122-123	,	_	_	_	
+1-24	124-128	with	_	_	_	
+1-25	129-134	their	_	_	_	
+1-26	136-148	man-servants	_	_	_	
+1-27	149-152	and	_	_	_	
+1-28	153-159	slaves	_	_	_	
+1-29	159-160	.	_	_	_	
+1-30	161-162	[	_	_	_	
+1-31	162-164	60	_	_	_	
+1-32	164-165	]	_	_	_	
+1-33	171-176	Their	_	_	_	
+1-34	177-185	ordinary	_	_	_	
+1-35	186-190	food	_	_	_	
+1-36	191-193	is	_	_	_	
+1-37	194-198	rice	_	_	_	
+1-38	199-206	pounded	_	_	_	
+1-39	207-209	in	_	_	_	
+1-40	210-216	wooden	_	_	_	
+1-41	217-224	mortars	_	_	_	
+1-42	224-225	,	_	_	_	
+1-43	226-229	and	_	_	_	
+1-44	230-236	cooked	_	_	_	
+1-45	236-237	-	_	_	_	
+1-46	237-238	-	_	_	_	
+1-47	238-242	this	_	_	_	
+1-48	245-247	is	_	_	_	
+1-49	248-254	called	_	_	_	
+1-50	255-256	_	_	_	_	
+1-51	256-266	morisqueta	_	_	_	
+1-52	266-267	_	_	_	_	
+1-53	267-268	,	_	_	_	
+1-54	269-270	[	_	_	_	
+1-55	270-272	61	_	_	_	
+1-56	272-273	]	_	_	_	
+1-57	274-277	and	_	_	_	
+1-58	278-280	is	_	_	_	
+1-59	281-284	the	_	_	_	
+1-60	285-293	ordinary	_	_	_	
+1-61	294-299	bread	_	_	_	
+1-62	300-302	of	_	_	_	
+1-63	303-306	the	_	_	_	
+1-64	307-312	whole	_	_	_	
+1-65	315-322	country	_	_	_	
+1-66	322-323	-	_	_	_	
+1-67	323-324	-	_	_	_	
+1-68	324-330	boiled	_	_	_	
+1-69	331-335	fish	_	_	_	
+1-70	336-337	(	_	_	_	
+1-71	337-342	which	_	_	_	
+1-72	343-345	is	_	_	_	
+1-73	346-350	very	_	_	_	
+1-74	351-359	abundant	_	_	_	
+1-75	359-360	)	_	_	_	
+1-76	360-361	,	_	_	_	
+1-77	362-365	the	_	_	_	
+1-78	366-371	flesh	_	_	_	
+1-79	372-374	of	_	_	_	
+1-80	375-380	swine	_	_	_	
+1-81	380-381	,	_	_	_	
+1-82	384-388	deer	_	_	_	
+1-83	388-389	,	_	_	_	
+1-84	390-393	and	_	_	_	
+1-85	394-398	wild	_	_	_	
+1-86	399-408	buffaloes	_	_	_	
+1-87	409-410	(	_	_	_	
+1-88	410-415	which	_	_	_	
+1-89	416-420	they	_	_	_	
+1-90	421-425	call	_	_	_	
+1-91	426-427	_	_	_	_	
+1-92	427-435	carabaos	_	_	_	
+1-93	435-436	_	_	_	_	
+1-94	436-437	)	_	_	_	
+1-95	437-438	.	_	_	_	
+
+#Text=Meat and fish 
+#Text= they relish better when it has begun to spoil and when it stinks. [62] 
+#Text= They also eat boiled camotes (which are sweet potatoes), beans, 
+#Text= _quilites_ [63] and other vegetables; all kinds of bananas, guavas, 
+#Text= pineapples, custard apples, many varieties of oranges, and other 
+#Text= varieties of fruits and herbs, with which the country teems.
+2-1	439-443	Meat	Taste Source	_	_	
+2-2	444-447	and	_	_	_	
+2-3	448-452	fish	Taste Source	_	_	
+2-4	455-459	they	_	_	_	
+2-5	460-466	relish	Taste Word	*|*|*|*|*	2-6|2-3|2-1|2-14[2_0]|2-7[1_0]	
+2-6	467-473	better	Quality	_	_	
+2-7	474-478	when	Circumstance[1]	_	_	
+2-8	479-481	it	Circumstance[1]	_	_	
+2-9	482-485	has	Circumstance[1]	_	_	
+2-10	486-491	begun	Circumstance[1]	_	_	
+2-11	492-494	to	Circumstance[1]	_	_	
+2-12	495-500	spoil	Circumstance[1]	_	_	
+2-13	501-504	and	_	_	_	
+2-14	505-509	when	Circumstance[2]	_	_	
+2-15	510-512	it	Circumstance[2]	_	_	
+2-16	513-519	stinks	Circumstance[2]	_	_	
+2-17	519-520	.	_	_	_	
+2-18	521-522	[	_	_	_	
+2-19	522-524	62	_	_	_	
+2-20	524-525	]	_	_	_	
+2-21	528-532	They	_	_	_	
+2-22	533-537	also	_	_	_	
+2-23	538-541	eat	Taste Word	*|*|*|*|*|*|*|*|*|*|*|*	2-24[3_0]|2-29[4_0]|2-36|2-33|2-42[5_0]|2-45[6_0]|2-50|2-52|2-54[7_0]|2-57[8_0]|2-63[9_0]|2-68	
+2-24	542-548	boiled	Taste Source[3]	_	_	
+2-25	549-556	camotes	Taste Source[3]	_	_	
+2-26	557-558	(	_	_	_	
+2-27	558-563	which	_	_	_	
+2-28	564-567	are	_	_	_	
+2-29	568-573	sweet	Taste Source[4]	_	_	
+2-30	574-582	potatoes	Taste Source[4]	_	_	
+2-31	582-583	)	_	_	_	
+2-32	583-584	,	_	_	_	
+2-33	585-590	beans	Taste Source	_	_	
+2-34	590-591	,	_	_	_	
+2-35	594-595	_	_	_	_	
+2-36	595-603	quilites	Taste Source	_	_	
+2-37	603-604	_	_	_	_	
+2-38	605-606	[	_	_	_	
+2-39	606-608	63	_	_	_	
+2-40	608-609	]	_	_	_	
+2-41	610-613	and	_	_	_	
+2-42	614-619	other	Taste Source[5]	_	_	
+2-43	620-630	vegetables	Taste Source[5]	_	_	
+2-44	630-631	;	_	_	_	
+2-45	632-635	all	Taste Source[6]	_	_	
+2-46	636-641	kinds	Taste Source[6]	_	_	
+2-47	642-644	of	Taste Source[6]	_	_	
+2-48	645-652	bananas	Taste Source[6]	_	_	
+2-49	652-653	,	_	_	_	
+2-50	654-660	guavas	Taste Source	_	_	
+2-51	660-661	,	_	_	_	
+2-52	664-674	pineapples	Taste Source	_	_	
+2-53	674-675	,	_	_	_	
+2-54	676-683	custard	Taste Source[7]	_	_	
+2-55	684-690	apples	Taste Source[7]	_	_	
+2-56	690-691	,	_	_	_	
+2-57	692-696	many	Taste Source[8]	_	_	
+2-58	697-706	varieties	Taste Source[8]	_	_	
+2-59	707-709	of	Taste Source[8]	_	_	
+2-60	710-717	oranges	Taste Source[8]	_	_	
+2-61	717-718	,	_	_	_	
+2-62	719-722	and	_	_	_	
+2-63	723-728	other	Taste Source[9]	_	_	
+2-64	731-740	varieties	Taste Source[9]	_	_	
+2-65	741-743	of	Taste Source[9]	_	_	
+2-66	744-750	fruits	Taste Source[9]	_	_	
+2-67	751-754	and	_	_	_	
+2-68	755-760	herbs	Taste Source	_	_	
+2-69	760-761	,	_	_	_	
+2-70	762-766	with	_	_	_	
+2-71	767-772	which	_	_	_	
+2-72	773-776	the	_	_	_	
+2-73	777-784	country	_	_	_	
+2-74	785-790	teems	_	_	_	
+2-75	790-791	.	_	_	_	
+
+#Text=Their 
+#Text= drink is a wine made from the tops of cocoa and nipa palm, of which 
+#Text= there is a great abundance.
+3-1	792-797	Their	_	_	_	
+3-2	800-805	drink	_	_	_	
+3-3	806-808	is	_	_	_	
+3-4	809-810	a	_	_	_	
+3-5	811-815	wine	_	_	_	
+3-6	816-820	made	_	_	_	
+3-7	821-825	from	_	_	_	
+3-8	826-829	the	_	_	_	
+3-9	830-834	tops	_	_	_	
+3-10	835-837	of	_	_	_	
+3-11	838-843	cocoa	_	_	_	
+3-12	844-847	and	_	_	_	
+3-13	848-852	nipa	_	_	_	
+3-14	853-857	palm	_	_	_	
+3-15	857-858	,	_	_	_	
+3-16	859-861	of	_	_	_	
+3-17	862-867	which	_	_	_	
+3-18	870-875	there	_	_	_	
+3-19	876-878	is	_	_	_	
+3-20	879-880	a	_	_	_	
+3-21	881-886	great	_	_	_	
+3-22	887-896	abundance	_	_	_	
+3-23	896-897	.	_	_	_	
+
+#Text=They are grown and tended like vineyards, 
+#Text= although without so much toil and labor.
+4-1	898-902	They	_	_	_	
+4-2	903-906	are	_	_	_	
+4-3	907-912	grown	_	_	_	
+4-4	913-916	and	_	_	_	
+4-5	917-923	tended	_	_	_	
+4-6	924-928	like	_	_	_	
+4-7	929-938	vineyards	_	_	_	
+4-8	938-939	,	_	_	_	
+4-9	942-950	although	_	_	_	
+4-10	951-958	without	_	_	_	
+4-11	959-961	so	_	_	_	
+4-12	962-966	much	_	_	_	
+4-13	967-971	toil	_	_	_	
+4-14	972-975	and	_	_	_	
+4-15	976-981	labor	_	_	_	
+4-16	981-982	.	_	_	_	
+
+#Text=Drawing off the tuba, [64] 
+#Text= they distil it, using for alembics their own little furnaces and 
+#Text= utensils, to a greater or less strength, and it becomes brandy.
+5-1	983-990	Drawing	_	_	_	
+5-2	991-994	off	_	_	_	
+5-3	995-998	the	_	_	_	
+5-4	999-1003	tuba	_	_	_	
+5-5	1003-1004	,	_	_	_	
+5-6	1005-1006	[	_	_	_	
+5-7	1006-1008	64	_	_	_	
+5-8	1008-1009	]	_	_	_	
+5-9	1012-1016	they	_	_	_	
+5-10	1017-1023	distil	_	_	_	
+5-11	1024-1026	it	_	_	_	
+5-12	1026-1027	,	_	_	_	
+5-13	1028-1033	using	_	_	_	
+5-14	1034-1037	for	_	_	_	
+5-15	1038-1046	alembics	_	_	_	
+5-16	1047-1052	their	_	_	_	
+5-17	1053-1056	own	_	_	_	
+5-18	1057-1063	little	_	_	_	
+5-19	1064-1072	furnaces	_	_	_	
+5-20	1073-1076	and	_	_	_	
+5-21	1079-1087	utensils	_	_	_	
+5-22	1087-1088	,	_	_	_	
+5-23	1089-1091	to	_	_	_	
+5-24	1092-1093	a	_	_	_	
+5-25	1094-1101	greater	_	_	_	
+5-26	1102-1104	or	_	_	_	
+5-27	1105-1109	less	_	_	_	
+5-28	1110-1118	strength	_	_	_	
+5-29	1118-1119	,	_	_	_	
+5-30	1120-1123	and	_	_	_	
+5-31	1124-1126	it	_	_	_	
+5-32	1127-1134	becomes	_	_	_	
+5-33	1135-1141	brandy	Taste Source	_	_	
+5-34	1141-1142	.	_	_	_	
+
+#Text=This is 
+#Text= drunk throughout the islands.
+6-1	1143-1147	This	Taste Source	anaphorical	5-33	
+6-2	1148-1150	is	_	_	_	
+6-3	1153-1158	drunk	Taste Word	*|*	6-4[10_0]|6-1	
+6-4	1159-1169	throughout	Location[10]	_	_	
+6-5	1170-1173	the	Location[10]	_	_	
+6-6	1174-1181	islands	Location[10]	_	_	
+6-7	1181-1182	.	_	_	_	
+
+#Text=It is a wine of the clarity of water, 
+#Text= but strong and dry.
+7-1	1183-1185	It	_	_	_	
+7-2	1186-1188	is	_	_	_	
+7-3	1189-1190	a	_	_	_	
+7-4	1191-1195	wine	_	_	_	
+7-5	1196-1198	of	_	_	_	
+7-6	1199-1202	the	_	_	_	
+7-7	1203-1210	clarity	_	_	_	
+7-8	1211-1213	of	_	_	_	
+7-9	1214-1219	water	_	_	_	
+7-10	1219-1220	,	_	_	_	
+7-11	1223-1226	but	_	_	_	
+7-12	1227-1233	strong	_	_	_	
+7-13	1234-1237	and	_	_	_	
+7-14	1238-1241	dry	_	_	_	
+7-15	1241-1242	.	_	_	_	
+
+#Text=If it be used with moderation, it acts as a
+#Text=medicine for the stomach, and is a protection against humors and all 
+#Text= sorts of rheums.
+8-1	1243-1245	If	_	_	_	
+8-2	1246-1248	it	_	_	_	
+8-3	1249-1251	be	_	_	_	
+8-4	1252-1256	used	_	_	_	
+8-5	1257-1261	with	_	_	_	
+8-6	1262-1272	moderation	_	_	_	
+8-7	1272-1273	,	_	_	_	
+8-8	1274-1276	it	_	_	_	
+8-9	1277-1281	acts	_	_	_	
+8-10	1282-1284	as	_	_	_	
+8-11	1285-1286	a	_	_	_	
+8-12	1287-1295	medicine	_	_	_	
+8-13	1296-1299	for	_	_	_	
+8-14	1300-1303	the	_	_	_	
+8-15	1304-1311	stomach	_	_	_	
+8-16	1311-1312	,	_	_	_	
+8-17	1313-1316	and	_	_	_	
+8-18	1317-1319	is	_	_	_	
+8-19	1320-1321	a	_	_	_	
+8-20	1322-1332	protection	_	_	_	
+8-21	1333-1340	against	_	_	_	
+8-22	1341-1347	humors	_	_	_	
+8-23	1348-1351	and	_	_	_	
+8-24	1352-1355	all	_	_	_	
+8-25	1358-1363	sorts	_	_	_	
+8-26	1364-1366	of	_	_	_	
+8-27	1367-1373	rheums	_	_	_	
+8-28	1373-1374	.	_	_	_	
+
+#Text=Mixed with Spanish wine, it makes a mild liquor, 
+#Text= and one very palatable and healthful.
+9-1	1375-1380	Mixed	Circumstance[11]	_	_	
+9-2	1381-1385	with	Circumstance[11]	_	_	
+9-3	1386-1393	Spanish	Circumstance[11]	_	_	
+9-4	1394-1398	wine	Circumstance[11]	_	_	
+9-5	1398-1399	,	_	_	_	
+9-6	1400-1402	it	_	_	_	
+9-7	1403-1408	makes	_	_	_	
+9-8	1409-1410	a	Taste Source[12]	_	_	
+9-9	1411-1415	mild	Taste Source[12]	_	_	
+9-10	1416-1422	liquor	Taste Source[12]	_	_	
+9-11	1422-1423	,	_	_	_	
+9-12	1426-1429	and	_	_	_	
+9-13	1430-1433	one	_	_	_	
+9-14	1434-1438	very	_	_	_	
+9-15	1439-1448	palatable	Taste Word[13]|Quality[14]	*|*|*	9-8[12_13]|9-15[14_13]|9-1[11_13]	
+9-16	1449-1452	and	_	_	_	
+9-17	1453-1462	healthful	_	_	_	
+9-18	1462-1463	.	_	_	_	
+
+#Text=In the assemblies, marriages, and feasts of the natives of these 
+#Text= islands, the chief thing consists in drinking this wine, day and night, 
+#Text= without ceasing, when the turn of each comes, some singing and others 
+#Text= drinking.
+10-1	1469-1471	In	Circumstance[15]	_	_	
+10-2	1472-1475	the	Circumstance[15]	_	_	
+10-3	1476-1486	assemblies	Circumstance[15]	_	_	
+10-4	1486-1487	,	Circumstance[15]	_	_	
+10-5	1488-1497	marriages	Circumstance[15]	_	_	
+10-6	1497-1498	,	Circumstance[15]	_	_	
+10-7	1499-1502	and	Circumstance[15]	_	_	
+10-8	1503-1509	feasts	Circumstance[15]	_	_	
+10-9	1510-1512	of	Circumstance[15]	_	_	
+10-10	1513-1516	the	Circumstance[15]	_	_	
+10-11	1517-1524	natives	Circumstance[15]	_	_	
+10-12	1525-1527	of	Circumstance[15]	_	_	
+10-13	1528-1533	these	Circumstance[15]	_	_	
+10-14	1536-1543	islands	Circumstance[15]	_	_	
+10-15	1543-1544	,	_	_	_	
+10-16	1545-1548	the	_	_	_	
+10-17	1549-1554	chief	_	_	_	
+10-18	1555-1560	thing	_	_	_	
+10-19	1561-1569	consists	_	_	_	
+10-20	1570-1572	in	_	_	_	
+10-21	1573-1581	drinking	Taste Word	*|*|*	10-22[16_0]|10-1[15_0]|10-25[17_0]	
+10-22	1582-1586	this	Taste Source[16]	_	_	
+10-23	1587-1591	wine	Taste Source[16]	_	_	
+10-24	1591-1592	,	_	_	_	
+10-25	1593-1596	day	Circumstance[17]	_	_	
+10-26	1597-1600	and	Circumstance[17]	_	_	
+10-27	1601-1606	night	Circumstance[17]	_	_	
+10-28	1606-1607	,	_	_	_	
+10-29	1610-1617	without	_	_	_	
+10-30	1618-1625	ceasing	_	_	_	
+10-31	1625-1626	,	_	_	_	
+10-32	1627-1631	when	_	_	_	
+10-33	1632-1635	the	_	_	_	
+10-34	1636-1640	turn	_	_	_	
+10-35	1641-1643	of	_	_	_	
+10-36	1644-1648	each	_	_	_	
+10-37	1649-1654	comes	_	_	_	
+10-38	1654-1655	,	_	_	_	
+10-39	1656-1660	some	_	_	_	
+10-40	1661-1668	singing	_	_	_	
+10-41	1669-1672	and	_	_	_	
+10-42	1673-1679	others	Taster	_	_	
+10-43	1682-1690	drinking	Taste Word	*|*	10-42|11-5[18_0]	
+10-44	1690-1691	.	_	_	_	
+
+#Text=As a consequence, they generally become intoxicated without 
+#Text= this vice being regarded as a dishonor or disgrace. [65] 
+#Text=  
+#Text= The weapons of this people are, in some provinces, bow and arrows.
+11-1	1692-1694	As	_	_	_	
+11-2	1695-1696	a	_	_	_	
+11-3	1697-1708	consequence	_	_	_	
+11-4	1708-1709	,	_	_	_	
+11-5	1710-1714	they	Effect[18]	_	_	
+11-6	1715-1724	generally	Effect[18]	_	_	
+11-7	1725-1731	become	Effect[18]	_	_	
+11-8	1732-1743	intoxicated	Effect[18]	_	_	
+11-9	1744-1751	without	Effect[18]	_	_	
+11-10	1754-1758	this	Effect[18]	_	_	
+11-11	1759-1763	vice	Effect[18]	_	_	
+11-12	1764-1769	being	Effect[18]	_	_	
+11-13	1770-1778	regarded	Effect[18]	_	_	
+11-14	1779-1781	as	Effect[18]	_	_	
+11-15	1782-1783	a	Effect[18]	_	_	
+11-16	1784-1792	dishonor	Effect[18]	_	_	
+11-17	1793-1795	or	Effect[18]	_	_	
+11-18	1796-1804	disgrace	Effect[18]	_	_	
+11-19	1804-1805	.	_	_	_	
+11-20	1806-1807	[	_	_	_	
+11-21	1807-1809	65	_	_	_	
+11-22	1809-1810	]	_	_	_	
+11-23	1816-1819	The	_	_	_	
+11-24	1820-1827	weapons	_	_	_	
+11-25	1828-1830	of	_	_	_	
+11-26	1831-1835	this	_	_	_	
+11-27	1836-1842	people	_	_	_	
+11-28	1843-1846	are	_	_	_	
+11-29	1846-1847	,	_	_	_	
+11-30	1848-1850	in	_	_	_	
+11-31	1851-1855	some	_	_	_	
+11-32	1856-1865	provinces	_	_	_	
+11-33	1865-1866	,	_	_	_	
+11-34	1867-1870	bow	_	_	_	
+11-35	1871-1874	and	_	_	_	
+11-36	1875-1881	arrows	_	_	_	
+11-37	1881-1882	.	_	_	_	
+
+#Text=But 
+#Text= those generally used throughout the islands are moderate-sized spears 
+#Text= with well-made points; and certain shields of light wood, with their 
+#Text= armholes fastened on the inside.
+12-1	1883-1886	But	_	_	_	
+12-2	1889-1894	those	_	_	_	
+12-3	1895-1904	generally	_	_	_	
+12-4	1905-1909	used	_	_	_	
+12-5	1910-1920	throughout	_	_	_	
+12-6	1921-1924	the	_	_	_	
+12-7	1925-1932	islands	_	_	_	
+12-8	1933-1936	are	_	_	_	
+12-9	1937-1951	moderate-sized	_	_	_	
+12-10	1952-1958	spears	_	_	_	
+12-11	1961-1965	with	_	_	_	
+12-12	1966-1975	well-made	_	_	_	
+12-13	1976-1982	points	_	_	_	
+12-14	1982-1983	;	_	_	_	
+12-15	1984-1987	and	_	_	_	
+12-16	1988-1995	certain	_	_	_	
+12-17	1996-2003	shields	_	_	_	
+12-18	2004-2006	of	_	_	_	
+12-19	2007-2012	light	_	_	_	
+12-20	2013-2017	wood	_	_	_	
+12-21	2017-2018	,	_	_	_	
+12-22	2019-2023	with	_	_	_	
+12-23	2024-2029	their	_	_	_	
+12-24	2032-2040	armholes	_	_	_	
+12-25	2041-2049	fastened	_	_	_	
+12-26	2050-2052	on	_	_	_	
+12-27	2053-2056	the	_	_	_	
+12-28	2057-2063	inside	_	_	_	
+12-29	2063-2064	.	_	_	_	
+
+#Text=These cover them from top to toe, 
+#Text= and are called _carasas_ [_kalasag_].
+13-1	2065-2070	These	_	_	_	
+13-2	2071-2076	cover	_	_	_	
+13-3	2077-2081	them	_	_	_	
+13-4	2082-2086	from	_	_	_	
+13-5	2087-2090	top	_	_	_	
+13-6	2091-2093	to	_	_	_	
+13-7	2094-2097	toe	_	_	_	
+13-8	2097-2098	,	_	_	_	
+13-9	2101-2104	and	_	_	_	
+13-10	2105-2108	are	_	_	_	
+13-11	2109-2115	called	_	_	_	
+13-12	2116-2117	_	_	_	_	
+13-13	2117-2124	carasas	_	_	_	
+13-14	2124-2125	_	_	_	_	
+13-15	2126-2127	[	_	_	_	
+13-16	2127-2128	_	_	_	_	
+13-17	2128-2135	kalasag	_	_	_	
+13-18	2135-2136	_	_	_	_	
+13-19	2136-2137	]	_	_	_	
+13-20	2137-2138	.	_	_	_	
+
+#Text=At the waist they carry a 
+#Text= dagger four fingers in breadth, the blade pointed, and a third of 
+#Text= a vara in length; the hilt is of gold or ivory.
+14-1	2139-2141	At	_	_	_	
+14-2	2142-2145	the	_	_	_	
+14-3	2146-2151	waist	_	_	_	
+14-4	2152-2156	they	_	_	_	
+14-5	2157-2162	carry	_	_	_	
+14-6	2163-2164	a	_	_	_	
+14-7	2167-2173	dagger	_	_	_	
+14-8	2174-2178	four	_	_	_	
+14-9	2179-2186	fingers	_	_	_	
+14-10	2187-2189	in	_	_	_	
+14-11	2190-2197	breadth	_	_	_	
+14-12	2197-2198	,	_	_	_	
+14-13	2199-2202	the	_	_	_	
+14-14	2203-2208	blade	_	_	_	
+14-15	2209-2216	pointed	_	_	_	
+14-16	2216-2217	,	_	_	_	
+14-17	2218-2221	and	_	_	_	
+14-18	2222-2223	a	_	_	_	
+14-19	2224-2229	third	_	_	_	
+14-20	2230-2232	of	_	_	_	
+14-21	2235-2236	a	_	_	_	
+14-22	2237-2241	vara	_	_	_	
+14-23	2242-2244	in	_	_	_	
+14-24	2245-2251	length	_	_	_	
+14-25	2251-2252	;	_	_	_	
+14-26	2253-2256	the	_	_	_	
+14-27	2257-2261	hilt	_	_	_	
+14-28	2262-2264	is	_	_	_	
+14-29	2265-2267	of	_	_	_	
+14-30	2268-2272	gold	_	_	_	
+14-31	2273-2275	or	_	_	_	
+14-32	2276-2281	ivory	_	_	_	
+14-33	2281-2282	.	_	_	_	
+
+#Text=The pommel is open 
+#Text= and has two cross bars or projections, without any other guard.
+15-1	2283-2286	The	_	_	_	
+15-2	2287-2293	pommel	_	_	_	
+15-3	2294-2296	is	_	_	_	
+15-4	2297-2301	open	_	_	_	
+15-5	2304-2307	and	_	_	_	
+15-6	2308-2311	has	_	_	_	
+15-7	2312-2315	two	_	_	_	
+15-8	2316-2321	cross	_	_	_	
+15-9	2322-2326	bars	_	_	_	
+15-10	2327-2329	or	_	_	_	
+15-11	2330-2341	projections	_	_	_	
+15-12	2341-2342	,	_	_	_	
+15-13	2343-2350	without	_	_	_	
+15-14	2351-2354	any	_	_	_	
+15-15	2355-2360	other	_	_	_	
+15-16	2361-2366	guard	_	_	_	
+15-17	2366-2367	.	_	_	_	
+
+#Text=They 
+#Text= are called _bararaos_.
+16-1	2368-2372	They	_	_	_	
+16-2	2375-2378	are	_	_	_	
+16-3	2379-2385	called	_	_	_	
+16-4	2386-2387	_	_	_	_	
+16-5	2387-2395	bararaos	_	_	_	
+16-6	2395-2396	_	_	_	_	
+16-7	2396-2397	.	_	_	_	
+
+#Text=They have two cutting edges, and are kept in 
+#Text= wooden scabbards, or those of buffalo-horn, admirably wrought. [66]
+#Text=There are many native fruit-trees, such as the _sanctors_, _mabolos_, 
+#Text= tamarinds, _nancas_, custard-apples, papaws, guavas, and everywhere 
+#Text= many oranges, of all kinds--large and small, sweet and sour; 
+#Text= citrons, lemons, and ten or twelve varieties of very healthful and 
+#Text= palatable bananas. [73] There are many cocoa-palms bearing fruit 
+#Text= of pleasant taste--from which is made wine and common oil, which 
+#Text= is a very healing remedy for wounds; and other wild palms of the 
+#Text= forests--that do not yield cocoa-nuts, but serve as wood, and from 
+#Text= whose bark is made bonote, a tow for rigging and cables, and also for 
+#Text= calking ships.
+17-1	2398-2402	They	_	_	_	
+17-2	2403-2407	have	_	_	_	
+17-3	2408-2411	two	_	_	_	
+17-4	2412-2419	cutting	_	_	_	
+17-5	2420-2425	edges	_	_	_	
+17-6	2425-2426	,	_	_	_	
+17-7	2427-2430	and	_	_	_	
+17-8	2431-2434	are	_	_	_	
+17-9	2435-2439	kept	_	_	_	
+17-10	2440-2442	in	_	_	_	
+17-11	2445-2451	wooden	_	_	_	
+17-12	2452-2461	scabbards	_	_	_	
+17-13	2461-2462	,	_	_	_	
+17-14	2463-2465	or	_	_	_	
+17-15	2466-2471	those	_	_	_	
+17-16	2472-2474	of	_	_	_	
+17-17	2475-2487	buffalo-horn	_	_	_	
+17-18	2487-2488	,	_	_	_	
+17-19	2489-2498	admirably	_	_	_	
+17-20	2499-2506	wrought	_	_	_	
+17-21	2506-2507	.	_	_	_	
+17-22	2508-2509	[	_	_	_	
+17-23	2509-2511	66	_	_	_	
+17-24	2511-2512	]	_	_	_	
+17-25	2513-2518	There	_	_	_	
+17-26	2519-2522	are	_	_	_	
+17-27	2523-2527	many	Taste Source[19]	_	_	
+17-28	2528-2534	native	Taste Source[19]	_	_	
+17-29	2535-2546	fruit-trees	Taste Source[19]	_	_	
+17-30	2546-2547	,	_	_	_	
+17-31	2548-2552	such	_	_	_	
+17-32	2553-2555	as	_	_	_	
+17-33	2556-2559	the	_	_	_	
+17-34	2560-2561	_	_	_	_	
+17-35	2561-2569	sanctors	Taste Source	_	_	
+17-36	2569-2570	_	_	_	_	
+17-37	2570-2571	,	_	_	_	
+17-38	2572-2573	_	_	_	_	
+17-39	2573-2580	mabolos	Taste Source	_	_	
+17-40	2580-2581	_	_	_	_	
+17-41	2581-2582	,	_	_	_	
+17-42	2585-2594	tamarinds	Taste Source	_	_	
+17-43	2594-2595	,	_	_	_	
+17-44	2596-2597	_	_	_	_	
+17-45	2597-2603	nancas	Taste Source	_	_	
+17-46	2603-2604	_	_	_	_	
+17-47	2604-2605	,	_	_	_	
+17-48	2606-2620	custard-apples	Taste Source	_	_	
+17-49	2620-2621	,	_	_	_	
+17-50	2622-2628	papaws	Taste Source	_	_	
+17-51	2628-2629	,	_	_	_	
+17-52	2630-2636	guavas	Taste Source	_	_	
+17-53	2636-2637	,	_	_	_	
+17-54	2638-2641	and	_	_	_	
+17-55	2642-2652	everywhere	_	_	_	
+17-56	2655-2659	many	Taste Source[20]	_	_	
+17-57	2660-2667	oranges	Taste Source[20]	_	_	
+17-58	2667-2668	,	_	_	_	
+17-59	2669-2671	of	_	_	_	
+17-60	2672-2675	all	_	_	_	
+17-61	2676-2681	kinds	_	_	_	
+17-62	2681-2682	-	_	_	_	
+17-63	2682-2683	-	_	_	_	
+17-64	2683-2688	large	_	_	_	
+17-65	2689-2692	and	_	_	_	
+17-66	2693-2698	small	_	_	_	
+17-67	2698-2699	,	_	_	_	
+17-68	2700-2705	sweet	Quality[21]|Taste Word[22]	*|*|*|*|*|*|*|*|*|*	17-68[21_22]|17-56[20_22]|17-52[0_22]|17-50[0_22]|17-48[0_22]|17-45[0_22]|17-42[0_22]|17-39[0_22]|17-35[0_22]|17-27[19_22]	
+17-69	2706-2709	and	_	_	_	
+17-70	2710-2714	sour	Taste Word[23]|Quality[24]	*|*|*|*|*|*|*|*|*|*	17-70[24_23]|17-56[20_23]|17-35[0_23]|17-39[0_23]|17-45[0_23]|17-48[0_23]|17-50[0_23]|17-52[0_23]|17-42[0_23]|17-27[19_23]	
+17-71	2714-2715	;	_	_	_	
+17-72	2718-2725	citrons	_	_	_	
+17-73	2725-2726	,	_	_	_	
+17-74	2727-2733	lemons	_	_	_	
+17-75	2733-2734	,	_	_	_	
+17-76	2735-2738	and	_	_	_	
+17-77	2739-2742	ten	_	_	_	
+17-78	2743-2745	or	_	_	_	
+17-79	2746-2752	twelve	_	_	_	
+17-80	2753-2762	varieties	_	_	_	
+17-81	2763-2765	of	_	_	_	
+17-82	2766-2770	very	_	_	_	
+17-83	2771-2780	healthful	_	_	_	
+17-84	2781-2784	and	_	_	_	
+17-85	2787-2796	palatable	Taste Word[25]|Quality[26]	*|*	17-85[26_25]|17-86[0_25]	
+17-86	2797-2804	bananas	Taste Source	_	_	
+17-87	2804-2805	.	_	_	_	
+17-88	2806-2807	[	_	_	_	
+17-89	2807-2809	73	_	_	_	
+17-90	2809-2810	]	_	_	_	
+17-91	2811-2816	There	_	_	_	
+17-92	2817-2820	are	_	_	_	
+17-93	2821-2825	many	_	_	_	
+17-94	2826-2837	cocoa-palms	_	_	_	
+17-95	2838-2845	bearing	_	_	_	
+17-96	2846-2851	fruit	Taste Source	_	_	
+17-97	2854-2856	of	_	_	_	
+17-98	2857-2865	pleasant	Quality	_	_	
+17-99	2866-2871	taste	Taste Word[27]	*|*	17-98[0_27]|17-96[0_27]	
+17-100	2871-2872	-	Taste Word[27]	_	_	
+17-101	2872-2873	-	_	_	_	
+17-102	2873-2877	from	_	_	_	
+17-103	2878-2883	which	_	_	_	
+17-104	2884-2886	is	_	_	_	
+17-105	2887-2891	made	_	_	_	
+17-106	2892-2896	wine	_	_	_	
+17-107	2897-2900	and	_	_	_	
+17-108	2901-2907	common	_	_	_	
+17-109	2908-2911	oil	_	_	_	
+17-110	2911-2912	,	_	_	_	
+17-111	2913-2918	which	_	_	_	
+17-112	2921-2923	is	_	_	_	
+17-113	2924-2925	a	_	_	_	
+17-114	2926-2930	very	_	_	_	
+17-115	2931-2938	healing	_	_	_	
+17-116	2939-2945	remedy	_	_	_	
+17-117	2946-2949	for	_	_	_	
+17-118	2950-2956	wounds	_	_	_	
+17-119	2956-2957	;	_	_	_	
+17-120	2958-2961	and	_	_	_	
+17-121	2962-2967	other	_	_	_	
+17-122	2968-2972	wild	_	_	_	
+17-123	2973-2978	palms	_	_	_	
+17-124	2979-2981	of	_	_	_	
+17-125	2982-2985	the	_	_	_	
+17-126	2988-2995	forests	_	_	_	
+17-127	2995-2996	-	_	_	_	
+17-128	2996-2997	-	_	_	_	
+17-129	2997-3001	that	_	_	_	
+17-130	3002-3004	do	_	_	_	
+17-131	3005-3008	not	_	_	_	
+17-132	3009-3014	yield	_	_	_	
+17-133	3015-3025	cocoa-nuts	_	_	_	
+17-134	3025-3026	,	_	_	_	
+17-135	3027-3030	but	_	_	_	
+17-136	3031-3036	serve	_	_	_	
+17-137	3037-3039	as	_	_	_	
+17-138	3040-3044	wood	_	_	_	
+17-139	3044-3045	,	_	_	_	
+17-140	3046-3049	and	_	_	_	
+17-141	3050-3054	from	_	_	_	
+17-142	3057-3062	whose	_	_	_	
+17-143	3063-3067	bark	_	_	_	
+17-144	3068-3070	is	_	_	_	
+17-145	3071-3075	made	_	_	_	
+17-146	3076-3082	bonote	_	_	_	
+17-147	3082-3083	,	_	_	_	
+17-148	3084-3085	a	_	_	_	
+17-149	3086-3089	tow	_	_	_	
+17-150	3090-3093	for	_	_	_	
+17-151	3094-3101	rigging	_	_	_	
+17-152	3102-3105	and	_	_	_	
+17-153	3106-3112	cables	_	_	_	
+17-154	3112-3113	,	_	_	_	
+17-155	3114-3117	and	_	_	_	
+17-156	3118-3122	also	_	_	_	
+17-157	3123-3126	for	_	_	_	
+17-158	3129-3136	calking	_	_	_	
+17-159	3137-3142	ships	_	_	_	
+17-160	3142-3143	.	_	_	_	
+
+#Text=Efforts have been made to plant olives and quinces, 
+#Text= and other fruit-trees of España, but as yet they have had no success, 
+#Text= except with pomegranates and grapevines, which bear fruit the second 
+#Text= year.
+18-1	3144-3151	Efforts	_	_	_	
+18-2	3152-3156	have	_	_	_	
+18-3	3157-3161	been	_	_	_	
+18-4	3162-3166	made	_	_	_	
+18-5	3167-3169	to	_	_	_	
+18-6	3170-3175	plant	_	_	_	
+18-7	3176-3182	olives	_	_	_	
+18-8	3183-3186	and	_	_	_	
+18-9	3187-3194	quinces	_	_	_	
+18-10	3194-3195	,	_	_	_	
+18-11	3198-3201	and	_	_	_	
+18-12	3202-3207	other	_	_	_	
+18-13	3208-3219	fruit-trees	_	_	_	
+18-14	3220-3222	of	_	_	_	
+18-15	3223-3229	España	_	_	_	
+18-16	3229-3230	,	_	_	_	
+18-17	3231-3234	but	_	_	_	
+18-18	3235-3237	as	_	_	_	
+18-19	3238-3241	yet	_	_	_	
+18-20	3242-3246	they	_	_	_	
+18-21	3247-3251	have	_	_	_	
+18-22	3252-3255	had	_	_	_	
+18-23	3256-3258	no	_	_	_	
+18-24	3259-3266	success	_	_	_	
+18-25	3266-3267	,	_	_	_	
+18-26	3270-3276	except	_	_	_	
+18-27	3277-3281	with	_	_	_	
+18-28	3282-3294	pomegranates	_	_	_	
+18-29	3295-3298	and	_	_	_	
+18-30	3299-3309	grapevines	_	_	_	
+18-31	3309-3310	,	_	_	_	
+18-32	3311-3316	which	_	_	_	
+18-33	3317-3321	bear	_	_	_	
+18-34	3322-3327	fruit	_	_	_	
+18-35	3328-3331	the	_	_	_	
+18-36	3332-3338	second	_	_	_	
+18-37	3341-3345	year	_	_	_	
+18-38	3345-3346	.	_	_	_	
+
+#Text=These bear abundance of exceedingly good grapes three times a 
+#Text= year; and some fig-trees have succeeded.
+19-1	3347-3352	These	_	_	_	
+19-2	3353-3357	bear	_	_	_	
+19-3	3358-3367	abundance	_	_	_	
+19-4	3368-3370	of	_	_	_	
+19-5	3371-3382	exceedingly	_	_	_	
+19-6	3383-3387	good	_	_	_	
+19-7	3388-3394	grapes	_	_	_	
+19-8	3395-3400	three	_	_	_	
+19-9	3401-3406	times	_	_	_	
+19-10	3407-3408	a	_	_	_	
+19-11	3411-3415	year	_	_	_	
+19-12	3415-3416	;	_	_	_	
+19-13	3417-3420	and	_	_	_	
+19-14	3421-3425	some	_	_	_	
+19-15	3426-3435	fig-trees	_	_	_	
+19-16	3436-3440	have	_	_	_	
+19-17	3441-3450	succeeded	_	_	_	
+19-18	3450-3451	.	_	_	_	
+
+#Text=Vegetables of every kind 
+#Text= grow well and very abundantly, but do not seed, and it is always 
+#Text= necessary to bring the seeds from Castilla, China, or Japon.
+20-1	3452-3462	Vegetables	_	_	_	
+20-2	3463-3465	of	_	_	_	
+20-3	3466-3471	every	_	_	_	
+20-4	3472-3476	kind	_	_	_	
+20-5	3479-3483	grow	_	_	_	
+20-6	3484-3488	well	_	_	_	
+20-7	3489-3492	and	_	_	_	
+20-8	3493-3497	very	_	_	_	
+20-9	3498-3508	abundantly	_	_	_	
+20-10	3508-3509	,	_	_	_	
+20-11	3510-3513	but	_	_	_	
+20-12	3514-3516	do	_	_	_	
+20-13	3517-3520	not	_	_	_	
+20-14	3521-3525	seed	_	_	_	
+20-15	3525-3526	,	_	_	_	
+20-16	3527-3530	and	_	_	_	
+20-17	3531-3533	it	_	_	_	
+20-18	3534-3536	is	_	_	_	
+20-19	3537-3543	always	_	_	_	
+20-20	3546-3555	necessary	_	_	_	
+20-21	3556-3558	to	_	_	_	
+20-22	3559-3564	bring	_	_	_	
+20-23	3565-3568	the	_	_	_	
+20-24	3569-3574	seeds	_	_	_	
+20-25	3575-3579	from	_	_	_	
+20-26	3580-3588	Castilla	_	_	_	
+20-27	3588-3589	,	_	_	_	
+20-28	3590-3595	China	_	_	_	
+20-29	3595-3596	,	_	_	_	
+20-30	3597-3599	or	_	_	_	
+20-31	3600-3605	Japon	_	_	_	
+20-32	3605-3606	.	_	_	_	
+
+#Text=In the Cagayan provinces are found chestnut-trees, which produce 
+#Text= fruit.
+21-1	3612-3614	In	_	_	_	
+21-2	3615-3618	the	_	_	_	
+21-3	3619-3626	Cagayan	_	_	_	
+21-4	3627-3636	provinces	_	_	_	
+21-5	3637-3640	are	_	_	_	
+21-6	3641-3646	found	_	_	_	
+21-7	3647-3661	chestnut-trees	_	_	_	
+21-8	3661-3662	,	_	_	_	
+21-9	3663-3668	which	_	_	_	
+21-10	3669-3676	produce	_	_	_	
+21-11	3679-3684	fruit	_	_	_	
+21-12	3684-3685	.	_	_	_	
+
+#Text=In other districts are found pines and other trees which yield 
+#Text= certain very large pine-nuts, with a hard shell and a pleasant taste,
+#Text=which are called piles. [74] There is abundance of cedar which is 
+#Text= called _calanta_, a beautiful red wood called _asana_, [75] ebony of 
+#Text= various qualities, and many other precious woods for all uses.
+22-1	3686-3688	In	_	_	_	
+22-2	3689-3694	other	_	_	_	
+22-3	3695-3704	districts	_	_	_	
+22-4	3705-3708	are	_	_	_	
+22-5	3709-3714	found	_	_	_	
+22-6	3715-3720	pines	_	_	_	
+22-7	3721-3724	and	_	_	_	
+22-8	3725-3730	other	_	_	_	
+22-9	3731-3736	trees	_	_	_	
+22-10	3737-3742	which	_	_	_	
+22-11	3743-3748	yield	_	_	_	
+22-12	3751-3758	certain	_	_	_	
+22-13	3759-3763	very	_	_	_	
+22-14	3764-3769	large	_	_	_	
+22-15	3770-3779	pine-nuts	_	_	_	
+22-16	3779-3780	,	_	_	_	
+22-17	3781-3785	with	_	_	_	
+22-18	3786-3787	a	_	_	_	
+22-19	3788-3792	hard	_	_	_	
+22-20	3793-3798	shell	_	_	_	
+22-21	3799-3802	and	_	_	_	
+22-22	3803-3804	a	_	_	_	
+22-23	3805-3813	pleasant	Quality	_	_	
+22-24	3814-3819	taste	Taste Word	*|*	22-23|22-29	
+22-25	3819-3820	,	_	_	_	
+22-26	3821-3826	which	_	_	_	
+22-27	3827-3830	are	_	_	_	
+22-28	3831-3837	called	_	_	_	
+22-29	3838-3843	piles	Taste Source	_	_	
+22-30	3843-3844	.	_	_	_	
+22-31	3845-3846	[	_	_	_	
+22-32	3846-3848	74	_	_	_	
+22-33	3848-3849	]	_	_	_	
+22-34	3850-3855	There	_	_	_	
+22-35	3856-3858	is	_	_	_	
+22-36	3859-3868	abundance	_	_	_	
+22-37	3869-3871	of	_	_	_	
+22-38	3872-3877	cedar	_	_	_	
+22-39	3878-3883	which	_	_	_	
+22-40	3884-3886	is	_	_	_	
+22-41	3889-3895	called	_	_	_	
+22-42	3896-3897	_	_	_	_	
+22-43	3897-3904	calanta	_	_	_	
+22-44	3904-3905	_	_	_	_	
+22-45	3905-3906	,	_	_	_	
+22-46	3907-3908	a	_	_	_	
+22-47	3909-3918	beautiful	_	_	_	
+22-48	3919-3922	red	_	_	_	
+22-49	3923-3927	wood	_	_	_	
+22-50	3928-3934	called	_	_	_	
+22-51	3935-3936	_	_	_	_	
+22-52	3936-3941	asana	_	_	_	
+22-53	3941-3942	_	_	_	_	
+22-54	3942-3943	,	_	_	_	
+22-55	3944-3945	[	_	_	_	
+22-56	3945-3947	75	_	_	_	
+22-57	3947-3948	]	_	_	_	
+22-58	3949-3954	ebony	_	_	_	
+22-59	3955-3957	of	_	_	_	
+22-60	3960-3967	various	_	_	_	
+22-61	3968-3977	qualities	_	_	_	
+22-62	3977-3978	,	_	_	_	
+22-63	3979-3982	and	_	_	_	
+22-64	3983-3987	many	_	_	_	
+22-65	3988-3993	other	_	_	_	
+22-66	3994-4002	precious	_	_	_	
+22-67	4003-4008	woods	_	_	_	
+22-68	4009-4012	for	_	_	_	
+22-69	4013-4016	all	_	_	_	
+22-70	4017-4021	uses	_	_	_	
+22-71	4021-4022	.	_	_	_	
+
+#Text=The meat 
+#Text= generally eaten is that of swine, of which there is a great abundance, 
+#Text= and it is very palatable and wholesome.
+23-1	4023-4026	The	Taste Source[28]	_	_	
+23-2	4027-4031	meat	Taste Source[28]	_	_	
+23-3	4034-4043	generally	_	_	_	
+23-4	4044-4049	eaten	Taste Word	*	23-1[28_0]	
+23-5	4050-4052	is	_	_	_	
+23-6	4053-4057	that	_	_	_	
+23-7	4058-4060	of	_	_	_	
+23-8	4061-4066	swine	_	_	_	
+23-9	4066-4067	,	_	_	_	
+23-10	4068-4070	of	_	_	_	
+23-11	4071-4076	which	_	_	_	
+23-12	4077-4082	there	_	_	_	
+23-13	4083-4085	is	_	_	_	
+23-14	4086-4087	a	_	_	_	
+23-15	4088-4093	great	_	_	_	
+23-16	4094-4103	abundance	_	_	_	
+23-17	4103-4104	,	_	_	_	
+23-18	4107-4110	and	_	_	_	
+23-19	4111-4113	it	_	_	_	
+23-20	4114-4116	is	_	_	_	
+23-21	4117-4121	very	Quality	_	_	
+23-22	4122-4131	palatable	Taste Word[29]|Quality[30]	*|*|*	23-22[30_29]|23-21[0_29]|23-1[28_29]	
+23-23	4132-4135	and	_	_	_	
+23-24	4136-4145	wholesome	_	_	_	
+23-25	4145-4146	.	_	_	_	
+
+#Text=Beef is eaten, cattle being raised abundantly in stock-farms in 
+#Text= many different parts of the islands.
+24-1	4152-4156	Beef	Taste Source	_	_	
+24-2	4157-4159	is	_	_	_	
+24-3	4160-4165	eaten	Taste Word	*	24-1	
+24-4	4165-4166	,	_	_	_	
+24-5	4167-4173	cattle	_	_	_	
+24-6	4174-4179	being	_	_	_	
+24-7	4180-4186	raised	_	_	_	
+24-8	4187-4197	abundantly	_	_	_	
+24-9	4198-4200	in	_	_	_	
+24-10	4201-4212	stock-farms	_	_	_	
+24-11	4213-4215	in	_	_	_	
+24-12	4218-4222	many	_	_	_	
+24-13	4223-4232	different	_	_	_	
+24-14	4233-4238	parts	_	_	_	
+24-15	4239-4241	of	_	_	_	
+24-16	4242-4245	the	_	_	_	
+24-17	4246-4253	islands	_	_	_	
+24-18	4253-4254	.	_	_	_	
+
+#Text=The cattle are bred from those 
+#Text= of China and Nueva España. [76] The Chinese cattle are small, and 
+#Text= excellent breeders.
+25-1	4255-4258	The	_	_	_	
+25-2	4259-4265	cattle	_	_	_	
+25-3	4266-4269	are	_	_	_	
+25-4	4270-4274	bred	_	_	_	
+25-5	4275-4279	from	_	_	_	
+25-6	4280-4285	those	_	_	_	
+25-7	4288-4290	of	_	_	_	
+25-8	4291-4296	China	_	_	_	
+25-9	4297-4300	and	_	_	_	
+25-10	4301-4306	Nueva	_	_	_	
+25-11	4307-4313	España	_	_	_	
+25-12	4313-4314	.	_	_	_	
+25-13	4315-4316	[	_	_	_	
+25-14	4316-4318	76	_	_	_	
+25-15	4318-4319	]	_	_	_	
+25-16	4320-4323	The	_	_	_	
+25-17	4324-4331	Chinese	_	_	_	
+25-18	4332-4338	cattle	_	_	_	
+25-19	4339-4342	are	_	_	_	
+25-20	4343-4348	small	_	_	_	
+25-21	4348-4349	,	_	_	_	
+25-22	4350-4353	and	_	_	_	
+25-23	4356-4365	excellent	_	_	_	
+25-24	4366-4374	breeders	_	_	_	
+25-25	4374-4375	.	_	_	_	
+
+#Text=Their horns are very small and twisted, and some 
+#Text= cattle can move them.
+26-1	4376-4381	Their	_	_	_	
+26-2	4382-4387	horns	_	_	_	
+26-3	4388-4391	are	_	_	_	
+26-4	4392-4396	very	_	_	_	
+26-5	4397-4402	small	_	_	_	
+26-6	4403-4406	and	_	_	_	
+26-7	4407-4414	twisted	_	_	_	
+26-8	4414-4415	,	_	_	_	
+26-9	4416-4419	and	_	_	_	
+26-10	4420-4424	some	_	_	_	
+26-11	4427-4433	cattle	_	_	_	
+26-12	4434-4437	can	_	_	_	
+26-13	4438-4442	move	_	_	_	
+26-14	4443-4447	them	_	_	_	
+26-15	4447-4448	.	_	_	_	
+
+#Text=They have a large hump upon the shoulders, and 
+#Text= are very manageable beasts.
+27-1	4449-4453	They	_	_	_	
+27-2	4454-4458	have	_	_	_	
+27-3	4459-4460	a	_	_	_	
+27-4	4461-4466	large	_	_	_	
+27-5	4467-4471	hump	_	_	_	
+27-6	4472-4476	upon	_	_	_	
+27-7	4477-4480	the	_	_	_	
+27-8	4481-4490	shoulders	_	_	_	
+27-9	4490-4491	,	_	_	_	
+27-10	4492-4495	and	_	_	_	
+27-11	4498-4501	are	_	_	_	
+27-12	4502-4506	very	_	_	_	
+27-13	4507-4517	manageable	_	_	_	
+27-14	4518-4524	beasts	_	_	_	
+27-15	4524-4525	.	_	_	_	
+
+#Text=There are plenty of fowls like those of 
+#Text= Castilla, and others very large, which are bred from fowls brought 
+#Text= from China.
+28-1	4526-4531	There	_	_	_	
+28-2	4532-4535	are	_	_	_	
+28-3	4536-4542	plenty	Taste Source[31]	_	_	
+28-4	4543-4545	of	Taste Source[31]	_	_	
+28-5	4546-4551	fowls	Taste Source[31]	_	_	
+28-6	4552-4556	like	Taste Source[31]	_	_	
+28-7	4557-4562	those	Taste Source[31]	_	_	
+28-8	4563-4565	of	Taste Source[31]	_	_	
+28-9	4568-4576	Castilla	Taste Source[31]	_	_	
+28-10	4576-4577	,	_	_	_	
+28-11	4578-4581	and	_	_	_	
+28-12	4582-4588	others	_	_	_	
+28-13	4589-4593	very	_	_	_	
+28-14	4594-4599	large	_	_	_	
+28-15	4599-4600	,	_	_	_	
+28-16	4601-4606	which	_	_	_	
+28-17	4607-4610	are	_	_	_	
+28-18	4611-4615	bred	_	_	_	
+28-19	4616-4620	from	_	_	_	
+28-20	4621-4626	fowls	_	_	_	
+28-21	4627-4634	brought	_	_	_	
+28-22	4637-4641	from	_	_	_	
+28-23	4642-4647	China	_	_	_	
+28-24	4647-4648	.	_	_	_	
+
+#Text=They are very palatable, and make fine capons.
+29-1	4649-4653	They	Taste Source	anaphorical	28-3[31_0]	
+29-2	4654-4657	are	_	_	_	
+29-3	4658-4662	very	Quality	_	_	
+29-4	4663-4672	palatable	Taste Word[32]|Quality[33]	*|*|*	29-4[33_32]|29-3[0_32]|29-1[0_32]	
+29-5	4672-4673	,	_	_	_	
+29-6	4674-4677	and	_	_	_	
+29-7	4678-4682	make	_	_	_	
+29-8	4683-4687	fine	_	_	_	
+29-9	4688-4694	capons	_	_	_	
+29-10	4694-4695	.	_	_	_	
+
+#Text=Some of 
+#Text= these fowls are black in feather, skin, flesh, and bones, and are 
+#Text= pleasant to the taste. [77] Many geese are raised, as well as swans, 
+#Text= ducks, and tame pigeons brought from China.
+30-1	4696-4700	Some	Taste Source[34]	_	_	
+30-2	4701-4703	of	Taste Source[34]	_	_	
+30-3	4706-4711	these	Taste Source[34]	_	_	
+30-4	4712-4717	fowls	Taste Source[34]	_	_	
+30-5	4718-4721	are	_	_	_	
+30-6	4722-4727	black	_	_	_	
+30-7	4728-4730	in	_	_	_	
+30-8	4731-4738	feather	_	_	_	
+30-9	4738-4739	,	_	_	_	
+30-10	4740-4744	skin	_	_	_	
+30-11	4744-4745	,	_	_	_	
+30-12	4746-4751	flesh	_	_	_	
+30-13	4751-4752	,	_	_	_	
+30-14	4753-4756	and	_	_	_	
+30-15	4757-4762	bones	_	_	_	
+30-16	4762-4763	,	_	_	_	
+30-17	4764-4767	and	_	_	_	
+30-18	4768-4771	are	_	_	_	
+30-19	4774-4782	pleasant	Quality	_	_	
+30-20	4783-4785	to	_	_	_	
+30-21	4786-4789	the	_	_	_	
+30-22	4790-4795	taste	Taste Word	*|*	30-19|30-1[34_0]	
+30-23	4795-4796	.	_	_	_	
+30-24	4797-4798	[	_	_	_	
+30-25	4798-4800	77	_	_	_	
+30-26	4800-4801	]	_	_	_	
+30-27	4802-4806	Many	_	_	_	
+30-28	4807-4812	geese	_	_	_	
+30-29	4813-4816	are	_	_	_	
+30-30	4817-4823	raised	_	_	_	
+30-31	4823-4824	,	_	_	_	
+30-32	4825-4827	as	_	_	_	
+30-33	4828-4832	well	_	_	_	
+30-34	4833-4835	as	_	_	_	
+30-35	4836-4841	swans	_	_	_	
+30-36	4841-4842	,	_	_	_	
+30-37	4845-4850	ducks	_	_	_	
+30-38	4850-4851	,	_	_	_	
+30-39	4852-4855	and	_	_	_	
+30-40	4856-4860	tame	_	_	_	
+30-41	4861-4868	pigeons	_	_	_	
+30-42	4869-4876	brought	_	_	_	
+30-43	4877-4881	from	_	_	_	
+30-44	4882-4887	China	_	_	_	
+30-45	4887-4888	.	_	_	_	
+
+#Text=There is abundance of 
+#Text= flesh of wild game, such as venison, and wild boars, and in some parts 
+#Text= porcupines.
+31-1	4889-4894	There	_	_	_	
+31-2	4895-4897	is	_	_	_	
+31-3	4898-4907	abundance	_	_	_	
+31-4	4908-4910	of	_	_	_	
+31-5	4913-4918	flesh	_	_	_	
+31-6	4919-4921	of	_	_	_	
+31-7	4922-4926	wild	_	_	_	
+31-8	4927-4931	game	_	_	_	
+31-9	4931-4932	,	_	_	_	
+31-10	4933-4937	such	_	_	_	
+31-11	4938-4940	as	_	_	_	
+31-12	4941-4948	venison	_	_	_	
+31-13	4948-4949	,	_	_	_	
+31-14	4950-4953	and	_	_	_	
+31-15	4954-4958	wild	_	_	_	
+31-16	4959-4964	boars	_	_	_	
+31-17	4964-4965	,	_	_	_	
+31-18	4966-4969	and	_	_	_	
+31-19	4970-4972	in	_	_	_	
+31-20	4973-4977	some	_	_	_	
+31-21	4978-4983	parts	_	_	_	
+31-22	4986-4996	porcupines	_	_	_	
+31-23	4996-4997	.	_	_	_	
+
+#Text=There are many buffaloes, which are called carabaos, which 
+#Text= are raised in the fields and are very spirited; others are brought
+#Text=tame from China; these are very numerous, and very handsome.
+32-1	4998-5003	There	_	_	_	
+32-2	5004-5007	are	_	_	_	
+32-3	5008-5012	many	_	_	_	
+32-4	5013-5022	buffaloes	_	_	_	
+32-5	5022-5023	,	_	_	_	
+32-6	5024-5029	which	_	_	_	
+32-7	5030-5033	are	_	_	_	
+32-8	5034-5040	called	_	_	_	
+32-9	5041-5049	carabaos	_	_	_	
+32-10	5049-5050	,	_	_	_	
+32-11	5051-5056	which	_	_	_	
+32-12	5059-5062	are	_	_	_	
+32-13	5063-5069	raised	_	_	_	
+32-14	5070-5072	in	_	_	_	
+32-15	5073-5076	the	_	_	_	
+32-16	5077-5083	fields	_	_	_	
+32-17	5084-5087	and	_	_	_	
+32-18	5088-5091	are	_	_	_	
+32-19	5092-5096	very	_	_	_	
+32-20	5097-5105	spirited	_	_	_	
+32-21	5105-5106	;	_	_	_	
+32-22	5107-5113	others	_	_	_	
+32-23	5114-5117	are	_	_	_	
+32-24	5118-5125	brought	_	_	_	
+32-25	5126-5130	tame	_	_	_	
+32-26	5131-5135	from	_	_	_	
+32-27	5136-5141	China	_	_	_	
+32-28	5141-5142	;	_	_	_	
+32-29	5143-5148	these	_	_	_	
+32-30	5149-5152	are	_	_	_	
+32-31	5153-5157	very	_	_	_	
+32-32	5158-5166	numerous	_	_	_	
+32-33	5166-5167	,	_	_	_	
+32-34	5168-5171	and	_	_	_	
+32-35	5172-5176	very	_	_	_	
+32-36	5177-5185	handsome	_	_	_	
+32-37	5185-5186	.	_	_	_	
+
+#Text=These 
+#Text= last are used only for milking, and their milk is thicker and more 
+#Text= palatable than that of cows.
+33-1	5187-5192	These	_	_	_	
+33-2	5195-5199	last	_	_	_	
+33-3	5200-5203	are	_	_	_	
+33-4	5204-5208	used	_	_	_	
+33-5	5209-5213	only	_	_	_	
+33-6	5214-5217	for	_	_	_	
+33-7	5218-5225	milking	_	_	_	
+33-8	5225-5226	,	_	_	_	
+33-9	5227-5230	and	_	_	_	
+33-10	5231-5236	their	Taste Source[35]	_	_	
+33-11	5237-5241	milk	Taste Source[35]	_	_	
+33-12	5242-5244	is	_	_	_	
+33-13	5245-5252	thicker	_	_	_	
+33-14	5253-5256	and	_	_	_	
+33-15	5257-5261	more	Quality	_	_	
+33-16	5264-5273	palatable	Taste Word[36]|Quality[37]	*|*|*|*	33-16[37_36]|33-15[0_36]|33-10[35_36]|33-17[38_36]	
+33-17	5274-5278	than	Evoked Taste[38]	_	_	
+33-18	5279-5283	that	Evoked Taste[38]	_	_	
+33-19	5284-5286	of	Evoked Taste[38]	_	_	
+33-20	5287-5291	cows	Evoked Taste[38]	_	_	
+33-21	5291-5292	.	_	_	_	
+
+#Text=Goats and kids are raised, although their flesh is not savory, because 
+#Text= of the humidity of the country.
+34-1	5298-5303	Goats	Taste Source	_	_	
+34-2	5304-5307	and	_	_	_	
+34-3	5308-5312	kids	_	_	_	
+34-4	5313-5316	are	_	_	_	
+34-5	5317-5323	raised	_	_	_	
+34-6	5323-5324	,	_	_	_	
+34-7	5325-5333	although	_	_	_	
+34-8	5334-5339	their	_	_	_	
+34-9	5340-5345	flesh	_	_	_	
+34-10	5346-5348	is	_	_	_	
+34-11	5349-5352	not	_	_	_	
+34-12	5353-5359	savory	Taste Word[39]|Quality[40]	*|*	34-12[40_39]|34-1[0_39]	
+34-13	5359-5360	,	_	_	_	
+34-14	5361-5368	because	_	_	_	
+34-15	5371-5373	of	_	_	_	
+34-16	5374-5377	the	_	_	_	
+34-17	5378-5386	humidity	_	_	_	
+34-18	5387-5389	of	_	_	_	
+34-19	5390-5393	the	_	_	_	
+34-20	5394-5401	country	_	_	_	
+34-21	5401-5402	.	_	_	_	
+
+#Text=These animals sicken and die for that 
+#Text= reason, and because they eat certain poisonous herbs.
+35-1	5403-5408	These	Taster[41]	_	_	
+35-2	5409-5416	animals	Taster[41]	_	_	
+35-3	5417-5423	sicken	Effect[42]	_	_	
+35-4	5424-5427	and	Effect[42]	_	_	
+35-5	5428-5431	die	Effect[42]	_	_	
+35-6	5432-5435	for	_	_	_	
+35-7	5436-5440	that	_	_	_	
+35-8	5443-5449	reason	_	_	_	
+35-9	5449-5450	,	_	_	_	
+35-10	5451-5454	and	_	_	_	
+35-11	5455-5462	because	_	_	_	
+35-12	5463-5467	they	_	_	_	
+35-13	5468-5471	eat	Taste Word	*|*|*	35-14[43_0]|35-1[41_0]|35-3[42_0]	
+35-14	5472-5479	certain	Taste Source[43]	_	_	
+35-15	5480-5489	poisonous	Taste Source[43]	_	_	
+35-16	5490-5495	herbs	Taste Source[43]	_	_	
+35-17	5495-5496	.	_	_	_	
+
+#Text=Ewes and rams, 
+#Text= although often brought from Nueva España, never multiply.
+36-1	5497-5501	Ewes	_	_	_	
+36-2	5502-5505	and	_	_	_	
+36-3	5506-5510	rams	_	_	_	
+36-4	5510-5511	,	_	_	_	
+36-5	5514-5522	although	_	_	_	
+36-6	5523-5528	often	_	_	_	
+36-7	5529-5536	brought	_	_	_	
+36-8	5537-5541	from	_	_	_	
+36-9	5542-5547	Nueva	_	_	_	
+36-10	5548-5554	España	_	_	_	
+36-11	5554-5555	,	_	_	_	
+36-12	5556-5561	never	_	_	_	
+36-13	5562-5570	multiply	_	_	_	
+36-14	5570-5571	.	_	_	_	
+
+#Text=Consequently 
+#Text= there are none of these animals, for the climate and pasturage has not 
+#Text= as yet seemed suitable for them. [78] There were no horses, mares, or 
+#Text= asses in the islands, until the Spaniards had them brought from China 
+#Text= and brought them from Nueva España.
+37-1	5572-5584	Consequently	_	_	_	
+37-2	5587-5592	there	_	_	_	
+37-3	5593-5596	are	_	_	_	
+37-4	5597-5601	none	_	_	_	
+37-5	5602-5604	of	_	_	_	
+37-6	5605-5610	these	_	_	_	
+37-7	5611-5618	animals	_	_	_	
+37-8	5618-5619	,	_	_	_	
+37-9	5620-5623	for	_	_	_	
+37-10	5624-5627	the	_	_	_	
+37-11	5628-5635	climate	_	_	_	
+37-12	5636-5639	and	_	_	_	
+37-13	5640-5649	pasturage	_	_	_	
+37-14	5650-5653	has	_	_	_	
+37-15	5654-5657	not	_	_	_	
+37-16	5660-5662	as	_	_	_	
+37-17	5663-5666	yet	_	_	_	
+37-18	5667-5673	seemed	_	_	_	
+37-19	5674-5682	suitable	_	_	_	
+37-20	5683-5686	for	_	_	_	
+37-21	5687-5691	them	_	_	_	
+37-22	5691-5692	.	_	_	_	
+37-23	5693-5694	[	_	_	_	
+37-24	5694-5696	78	_	_	_	
+37-25	5696-5697	]	_	_	_	
+37-26	5698-5703	There	_	_	_	
+37-27	5704-5708	were	_	_	_	
+37-28	5709-5711	no	_	_	_	
+37-29	5712-5718	horses	_	_	_	
+37-30	5718-5719	,	_	_	_	
+37-31	5720-5725	mares	_	_	_	
+37-32	5725-5726	,	_	_	_	
+37-33	5727-5729	or	_	_	_	
+37-34	5732-5737	asses	_	_	_	
+37-35	5738-5740	in	_	_	_	
+37-36	5741-5744	the	_	_	_	
+37-37	5745-5752	islands	_	_	_	
+37-38	5752-5753	,	_	_	_	
+37-39	5754-5759	until	_	_	_	
+37-40	5760-5763	the	_	_	_	
+37-41	5764-5773	Spaniards	_	_	_	
+37-42	5774-5777	had	_	_	_	
+37-43	5778-5782	them	_	_	_	
+37-44	5783-5790	brought	_	_	_	
+37-45	5791-5795	from	_	_	_	
+37-46	5796-5801	China	_	_	_	
+37-47	5804-5807	and	_	_	_	
+37-48	5808-5815	brought	_	_	_	
+37-49	5816-5820	them	_	_	_	
+37-50	5821-5825	from	_	_	_	
+37-51	5826-5831	Nueva	_	_	_	
+37-52	5832-5838	España	_	_	_	
+37-53	5838-5839	.	_	_	_	
+
+#Text=Asses and mules are very rare, 
+#Text= but there are many horses and mares.
+38-1	5840-5845	Asses	_	_	_	
+38-2	5846-5849	and	_	_	_	
+38-3	5850-5855	mules	_	_	_	
+38-4	5856-5859	are	_	_	_	
+38-5	5860-5864	very	_	_	_	
+38-6	5865-5869	rare	_	_	_	
+38-7	5869-5870	,	_	_	_	
+38-8	5873-5876	but	_	_	_	
+38-9	5877-5882	there	_	_	_	
+38-10	5883-5886	are	_	_	_	
+38-11	5887-5891	many	_	_	_	
+38-12	5892-5898	horses	_	_	_	
+38-13	5899-5902	and	_	_	_	
+38-14	5903-5908	mares	_	_	_	
+38-15	5908-5909	.	_	_	_	
+
+#Text=Some farms are being stocked with 
+#Text= them, and those born there (mixed breeds for the most part) turn out 
+#Text= well, and have good colors, are good tempered and willing to work, and 
+#Text= are of medium size.
+39-1	5910-5914	Some	_	_	_	
+39-2	5915-5920	farms	_	_	_	
+39-3	5921-5924	are	_	_	_	
+39-4	5925-5930	being	_	_	_	
+39-5	5931-5938	stocked	_	_	_	
+39-6	5939-5943	with	_	_	_	
+39-7	5946-5950	them	_	_	_	
+39-8	5950-5951	,	_	_	_	
+39-9	5952-5955	and	_	_	_	
+39-10	5956-5961	those	_	_	_	
+39-11	5962-5966	born	_	_	_	
+39-12	5967-5972	there	_	_	_	
+39-13	5973-5974	(	_	_	_	
+39-14	5974-5979	mixed	_	_	_	
+39-15	5980-5986	breeds	_	_	_	
+39-16	5987-5990	for	_	_	_	
+39-17	5991-5994	the	_	_	_	
+39-18	5995-5999	most	_	_	_	
+39-19	6000-6004	part	_	_	_	
+39-20	6004-6005	)	_	_	_	
+39-21	6006-6010	turn	_	_	_	
+39-22	6011-6014	out	_	_	_	
+39-23	6017-6021	well	_	_	_	
+39-24	6021-6022	,	_	_	_	
+39-25	6023-6026	and	_	_	_	
+39-26	6027-6031	have	_	_	_	
+39-27	6032-6036	good	_	_	_	
+39-28	6037-6043	colors	_	_	_	
+39-29	6043-6044	,	_	_	_	
+39-30	6045-6048	are	_	_	_	
+39-31	6049-6053	good	_	_	_	
+39-32	6054-6062	tempered	_	_	_	
+39-33	6063-6066	and	_	_	_	
+39-34	6067-6074	willing	_	_	_	
+39-35	6075-6077	to	_	_	_	
+39-36	6078-6082	work	_	_	_	
+39-37	6082-6083	,	_	_	_	
+39-38	6084-6087	and	_	_	_	
+39-39	6090-6093	are	_	_	_	
+39-40	6094-6096	of	_	_	_	
+39-41	6097-6103	medium	_	_	_	
+39-42	6104-6108	size	_	_	_	
+39-43	6108-6109	.	_	_	_	
+
+#Text=Those brought from China are small, very strong, 
+#Text= good goers, treacherous, quarrelsome, and bad-tempered.
+40-1	6110-6115	Those	_	_	_	
+40-2	6116-6123	brought	_	_	_	
+40-3	6124-6128	from	_	_	_	
+40-4	6129-6134	China	_	_	_	
+40-5	6135-6138	are	_	_	_	
+40-6	6139-6144	small	_	_	_	
+40-7	6144-6145	,	_	_	_	
+40-8	6146-6150	very	_	_	_	
+40-9	6151-6157	strong	_	_	_	
+40-10	6157-6158	,	_	_	_	
+40-11	6161-6165	good	_	_	_	
+40-12	6166-6171	goers	_	_	_	
+40-13	6171-6172	,	_	_	_	
+40-14	6173-6184	treacherous	_	_	_	
+40-15	6184-6185	,	_	_	_	
+40-16	6186-6197	quarrelsome	_	_	_	
+40-17	6197-6198	,	_	_	_	
+40-18	6199-6202	and	_	_	_	
+40-19	6203-6215	bad-tempered	_	_	_	
+40-20	6215-6216	.	_	_	_	
+
+#Text=Some horses 
+#Text= of good colors are brought from Japon.
+41-1	6217-6221	Some	_	_	_	
+41-2	6222-6228	horses	_	_	_	
+41-3	6231-6233	of	_	_	_	
+41-4	6234-6238	good	_	_	_	
+41-5	6239-6245	colors	_	_	_	
+41-6	6246-6249	are	_	_	_	
+41-7	6250-6257	brought	_	_	_	
+41-8	6258-6262	from	_	_	_	
+41-9	6263-6268	Japon	_	_	_	
+41-10	6268-6269	.	_	_	_	
+
+#Text=They have well-shaped bodies, 
+#Text= thick hair, large fetlocks, large legs and front hoofs, which makes 
+#Text= them look like draft-horses.
+42-1	6270-6274	They	_	_	_	
+42-2	6275-6279	have	_	_	_	
+42-3	6280-6291	well-shaped	_	_	_	
+42-4	6292-6298	bodies	_	_	_	
+42-5	6298-6299	,	_	_	_	
+42-6	6302-6307	thick	_	_	_	
+42-7	6308-6312	hair	_	_	_	
+42-8	6312-6313	,	_	_	_	
+42-9	6314-6319	large	_	_	_	
+42-10	6320-6328	fetlocks	_	_	_	
+42-11	6328-6329	,	_	_	_	
+42-12	6330-6335	large	_	_	_	
+42-13	6336-6340	legs	_	_	_	
+42-14	6341-6344	and	_	_	_	
+42-15	6345-6350	front	_	_	_	
+42-16	6351-6356	hoofs	_	_	_	
+42-17	6356-6357	,	_	_	_	
+42-18	6358-6363	which	_	_	_	
+42-19	6364-6369	makes	_	_	_	
+42-20	6372-6376	them	_	_	_	
+42-21	6377-6381	look	_	_	_	
+42-22	6382-6386	like	_	_	_	
+42-23	6387-6399	draft-horses	_	_	_	
+42-24	6399-6400	.	_	_	_	
+
+#Text=Their heads are rather large, and their
+#Text=mouths hard.
+43-1	6401-6406	Their	_	_	_	
+43-2	6407-6412	heads	_	_	_	
+43-3	6413-6416	are	_	_	_	
+43-4	6417-6423	rather	_	_	_	
+43-5	6424-6429	large	_	_	_	
+43-6	6429-6430	,	_	_	_	
+43-7	6431-6434	and	_	_	_	
+43-8	6435-6440	their	_	_	_	
+43-9	6441-6447	mouths	_	_	_	
+43-10	6448-6452	hard	_	_	_	
+43-11	6452-6453	.	_	_	_	
+
+#Text=They run but slowly, but walk well, and are spirited, 
+#Text= and of much mettle.
+44-1	6454-6458	They	_	_	_	
+44-2	6459-6462	run	_	_	_	
+44-3	6463-6466	but	_	_	_	
+44-4	6467-6473	slowly	_	_	_	
+44-5	6473-6474	,	_	_	_	
+44-6	6475-6478	but	_	_	_	
+44-7	6479-6483	walk	_	_	_	
+44-8	6484-6488	well	_	_	_	
+44-9	6488-6489	,	_	_	_	
+44-10	6490-6493	and	_	_	_	
+44-11	6494-6497	are	_	_	_	
+44-12	6498-6506	spirited	_	_	_	
+44-13	6506-6507	,	_	_	_	
+44-14	6510-6513	and	_	_	_	
+44-15	6514-6516	of	_	_	_	
+44-16	6517-6521	much	_	_	_	
+44-17	6522-6528	mettle	_	_	_	
+44-18	6528-6529	.	_	_	_	
+
+#Text=The daily feed of the horses consists throughout 
+#Text= the year of green provender, [79] besides rice in the husk, which 
+#Text= keeps them very fat. [80] 
+#Text=  
+#Text= There are many fowls and field birds, and wild birds of wonderful 
+#Text= colors and very beautiful.
+45-1	6530-6533	The	_	_	_	
+45-2	6534-6539	daily	_	_	_	
+45-3	6540-6544	feed	_	_	_	
+45-4	6545-6547	of	_	_	_	
+45-5	6548-6551	the	_	_	_	
+45-6	6552-6558	horses	_	_	_	
+45-7	6559-6567	consists	_	_	_	
+45-8	6568-6578	throughout	_	_	_	
+45-9	6581-6584	the	_	_	_	
+45-10	6585-6589	year	_	_	_	
+45-11	6590-6592	of	_	_	_	
+45-12	6593-6598	green	_	_	_	
+45-13	6599-6608	provender	_	_	_	
+45-14	6608-6609	,	_	_	_	
+45-15	6610-6611	[	_	_	_	
+45-16	6611-6613	79	_	_	_	
+45-17	6613-6614	]	_	_	_	
+45-18	6615-6622	besides	_	_	_	
+45-19	6623-6627	rice	_	_	_	
+45-20	6628-6630	in	_	_	_	
+45-21	6631-6634	the	_	_	_	
+45-22	6635-6639	husk	_	_	_	
+45-23	6639-6640	,	_	_	_	
+45-24	6641-6646	which	_	_	_	
+45-25	6649-6654	keeps	_	_	_	
+45-26	6655-6659	them	_	_	_	
+45-27	6660-6664	very	_	_	_	
+45-28	6665-6668	fat	_	_	_	
+45-29	6668-6669	.	_	_	_	
+45-30	6670-6671	[	_	_	_	
+45-31	6671-6673	80	_	_	_	
+45-32	6673-6674	]	_	_	_	
+45-33	6680-6685	There	_	_	_	
+45-34	6686-6689	are	_	_	_	
+45-35	6690-6694	many	_	_	_	
+45-36	6695-6700	fowls	_	_	_	
+45-37	6701-6704	and	_	_	_	
+45-38	6705-6710	field	_	_	_	
+45-39	6711-6716	birds	_	_	_	
+45-40	6716-6717	,	_	_	_	
+45-41	6718-6721	and	_	_	_	
+45-42	6722-6726	wild	_	_	_	
+45-43	6727-6732	birds	_	_	_	
+45-44	6733-6735	of	_	_	_	
+45-45	6736-6745	wonderful	_	_	_	
+45-46	6748-6754	colors	_	_	_	
+45-47	6755-6758	and	_	_	_	
+45-48	6759-6763	very	_	_	_	
+45-49	6764-6773	beautiful	_	_	_	
+45-50	6773-6774	.	_	_	_	
+
+#Text=There are no singing birds suitable for 
+#Text= keeping in cages, although some calendar larks [_Calandrias_] called 
+#Text= _fimbaros_, [81] smaller than those of España, are brought from Japon, 
+#Text= whose song is most sweet.
+46-1	6775-6780	There	_	_	_	
+46-2	6781-6784	are	_	_	_	
+46-3	6785-6787	no	_	_	_	
+46-4	6788-6795	singing	_	_	_	
+46-5	6796-6801	birds	_	_	_	
+46-6	6802-6810	suitable	_	_	_	
+46-7	6811-6814	for	_	_	_	
+46-8	6817-6824	keeping	_	_	_	
+46-9	6825-6827	in	_	_	_	
+46-10	6828-6833	cages	_	_	_	
+46-11	6833-6834	,	_	_	_	
+46-12	6835-6843	although	_	_	_	
+46-13	6844-6848	some	_	_	_	
+46-14	6849-6857	calendar	_	_	_	
+46-15	6858-6863	larks	_	_	_	
+46-16	6864-6865	[	_	_	_	
+46-17	6865-6866	_	_	_	_	
+46-18	6866-6876	Calandrias	_	_	_	
+46-19	6876-6877	_	_	_	_	
+46-20	6877-6878	]	_	_	_	
+46-21	6879-6885	called	_	_	_	
+46-22	6888-6889	_	_	_	_	
+46-23	6889-6897	fimbaros	_	_	_	
+46-24	6897-6898	_	_	_	_	
+46-25	6898-6899	,	_	_	_	
+46-26	6900-6901	[	_	_	_	
+46-27	6901-6903	81	_	_	_	
+46-28	6903-6904	]	_	_	_	
+46-29	6905-6912	smaller	_	_	_	
+46-30	6913-6917	than	_	_	_	
+46-31	6918-6923	those	_	_	_	
+46-32	6924-6926	of	_	_	_	
+46-33	6927-6933	España	_	_	_	
+46-34	6933-6934	,	_	_	_	
+46-35	6935-6938	are	_	_	_	
+46-36	6939-6946	brought	_	_	_	
+46-37	6947-6951	from	_	_	_	
+46-38	6952-6957	Japon	_	_	_	
+46-39	6957-6958	,	_	_	_	
+46-40	6961-6966	whose	_	_	_	
+46-41	6967-6971	song	_	_	_	
+46-42	6972-6974	is	_	_	_	
+46-43	6975-6979	most	_	_	_	
+46-44	6980-6985	sweet	_	_	_	
+46-45	6985-6986	.	_	_	_	
+
+#Text=There are many turtle-doves, ring-doves; 
+#Text= other doves with an extremely green plumage, and red feet and beaks; 
+#Text= and others that are white with a red spot on the breast, like a 
+#Text= pelican.
+47-1	6987-6992	There	_	_	_	
+47-2	6993-6996	are	_	_	_	
+47-3	6997-7001	many	_	_	_	
+47-4	7002-7014	turtle-doves	_	_	_	
+47-5	7014-7015	,	_	_	_	
+47-6	7016-7026	ring-doves	_	_	_	
+47-7	7026-7027	;	_	_	_	
+47-8	7030-7035	other	_	_	_	
+47-9	7036-7041	doves	_	_	_	
+47-10	7042-7046	with	_	_	_	
+47-11	7047-7049	an	_	_	_	
+47-12	7050-7059	extremely	_	_	_	
+47-13	7060-7065	green	_	_	_	
+47-14	7066-7073	plumage	_	_	_	
+47-15	7073-7074	,	_	_	_	
+47-16	7075-7078	and	_	_	_	
+47-17	7079-7082	red	_	_	_	
+47-18	7083-7087	feet	_	_	_	
+47-19	7088-7091	and	_	_	_	
+47-20	7092-7097	beaks	_	_	_	
+47-21	7097-7098	;	_	_	_	
+47-22	7101-7104	and	_	_	_	
+47-23	7105-7111	others	_	_	_	
+47-24	7112-7116	that	_	_	_	
+47-25	7117-7120	are	_	_	_	
+47-26	7121-7126	white	_	_	_	
+47-27	7127-7131	with	_	_	_	
+47-28	7132-7133	a	_	_	_	
+47-29	7134-7137	red	_	_	_	
+47-30	7138-7142	spot	_	_	_	
+47-31	7143-7145	on	_	_	_	
+47-32	7146-7149	the	_	_	_	
+47-33	7150-7156	breast	_	_	_	
+47-34	7156-7157	,	_	_	_	
+47-35	7158-7162	like	_	_	_	
+47-36	7163-7164	a	_	_	_	
+47-37	7167-7174	pelican	_	_	_	
+47-38	7174-7175	.	_	_	_	
+
+#Text=Instead of quail, there are certain birds resembling them, 
+#Text= but smaller, which are called _povos_ [82] and other smaller birds 
+#Text= called mayuelas. [83] There are many wild chickens and cocks, which 
+#Text= are very small, and taste like partridge.
+48-1	7176-7183	Instead	_	_	_	
+48-2	7184-7186	of	_	_	_	
+48-3	7187-7192	quail	_	_	_	
+48-4	7192-7193	,	_	_	_	
+48-5	7194-7199	there	_	_	_	
+48-6	7200-7203	are	_	_	_	
+48-7	7204-7211	certain	_	_	_	
+48-8	7212-7217	birds	_	_	_	
+48-9	7218-7228	resembling	_	_	_	
+48-10	7229-7233	them	_	_	_	
+48-11	7233-7234	,	_	_	_	
+48-12	7237-7240	but	_	_	_	
+48-13	7241-7248	smaller	_	_	_	
+48-14	7248-7249	,	_	_	_	
+48-15	7250-7255	which	_	_	_	
+48-16	7256-7259	are	_	_	_	
+48-17	7260-7266	called	_	_	_	
+48-18	7267-7268	_	_	_	_	
+48-19	7268-7273	povos	_	_	_	
+48-20	7273-7274	_	_	_	_	
+48-21	7275-7276	[	_	_	_	
+48-22	7276-7278	82	_	_	_	
+48-23	7278-7279	]	_	_	_	
+48-24	7280-7283	and	_	_	_	
+48-25	7284-7289	other	_	_	_	
+48-26	7290-7297	smaller	_	_	_	
+48-27	7298-7303	birds	_	_	_	
+48-28	7306-7312	called	_	_	_	
+48-29	7313-7321	mayuelas	_	_	_	
+48-30	7321-7322	.	_	_	_	
+48-31	7323-7324	[	_	_	_	
+48-32	7324-7326	83	_	_	_	
+48-33	7326-7327	]	_	_	_	
+48-34	7328-7333	There	_	_	_	
+48-35	7334-7337	are	_	_	_	
+48-36	7338-7342	many	Taste Source[44]	_	_	
+48-37	7343-7347	wild	Taste Source[44]	_	_	
+48-38	7348-7356	chickens	Taste Source[44]	_	_	
+48-39	7357-7360	and	_	_	_	
+48-40	7361-7366	cocks	Taste Source	_	_	
+48-41	7366-7367	,	_	_	_	
+48-42	7368-7373	which	_	_	_	
+48-43	7376-7379	are	_	_	_	
+48-44	7380-7384	very	_	_	_	
+48-45	7385-7390	small	_	_	_	
+48-46	7390-7391	,	_	_	_	
+48-47	7392-7395	and	_	_	_	
+48-48	7396-7401	taste	Taste Word	*|*|*	48-49[45_0]|48-36[44_0]|48-40	
+48-49	7402-7406	like	Evoked Taste[45]	_	_	
+48-50	7407-7416	partridge	Evoked Taste[45]	_	_	
+48-51	7416-7417	.	_	_	_	
+
+#Text=There are royal, white, and 
+#Text= grey herons, flycatchers, and other shore birds, ducks, lavancos, [84] 
+#Text= crested cranes, sea-crows, eagles, eagle-owls, and other birds of prey, 
+#Text= although none are used for hawking.
+49-1	7418-7423	There	_	_	_	
+49-2	7424-7427	are	_	_	_	
+49-3	7428-7433	royal	_	_	_	
+49-4	7433-7434	,	_	_	_	
+49-5	7435-7440	white	_	_	_	
+49-6	7440-7441	,	_	_	_	
+49-7	7442-7445	and	_	_	_	
+49-8	7448-7452	grey	_	_	_	
+49-9	7453-7459	herons	_	_	_	
+49-10	7459-7460	,	_	_	_	
+49-11	7461-7472	flycatchers	_	_	_	
+49-12	7472-7473	,	_	_	_	
+49-13	7474-7477	and	_	_	_	
+49-14	7478-7483	other	_	_	_	
+49-15	7484-7489	shore	_	_	_	
+49-16	7490-7495	birds	_	_	_	
+49-17	7495-7496	,	_	_	_	
+49-18	7497-7502	ducks	_	_	_	
+49-19	7502-7503	,	_	_	_	
+49-20	7504-7512	lavancos	_	_	_	
+49-21	7512-7513	,	_	_	_	
+49-22	7514-7515	[	_	_	_	
+49-23	7515-7517	84	_	_	_	
+49-24	7517-7518	]	_	_	_	
+49-25	7521-7528	crested	_	_	_	
+49-26	7529-7535	cranes	_	_	_	
+49-27	7535-7536	,	_	_	_	
+49-28	7537-7546	sea-crows	_	_	_	
+49-29	7546-7547	,	_	_	_	
+49-30	7548-7554	eagles	_	_	_	
+49-31	7554-7555	,	_	_	_	
+49-32	7556-7566	eagle-owls	_	_	_	
+49-33	7566-7567	,	_	_	_	
+49-34	7568-7571	and	_	_	_	
+49-35	7572-7577	other	_	_	_	
+49-36	7578-7583	birds	_	_	_	
+49-37	7584-7586	of	_	_	_	
+49-38	7587-7591	prey	_	_	_	
+49-39	7591-7592	,	_	_	_	
+49-40	7595-7603	although	_	_	_	
+49-41	7604-7608	none	_	_	_	
+49-42	7609-7612	are	_	_	_	
+49-43	7613-7617	used	_	_	_	
+49-44	7618-7621	for	_	_	_	
+49-45	7622-7629	hawking	_	_	_	
+49-46	7629-7630	.	_	_	_	
+
+#Text=There are jays and thrushes as in 
+#Text= España, and white storks and cranes. [85] They do not rear peacocks,
+#Text=rabbits, or hares, although they have tried to do so.
+50-1	7631-7636	There	_	_	_	
+50-2	7637-7640	are	_	_	_	
+50-3	7641-7645	jays	_	_	_	
+50-4	7646-7649	and	_	_	_	
+50-5	7650-7658	thrushes	_	_	_	
+50-6	7659-7661	as	_	_	_	
+50-7	7662-7664	in	_	_	_	
+50-8	7667-7673	España	_	_	_	
+50-9	7673-7674	,	_	_	_	
+50-10	7675-7678	and	_	_	_	
+50-11	7679-7684	white	_	_	_	
+50-12	7685-7691	storks	_	_	_	
+50-13	7692-7695	and	_	_	_	
+50-14	7696-7702	cranes	_	_	_	
+50-15	7702-7703	.	_	_	_	
+50-16	7704-7705	[	_	_	_	
+50-17	7705-7707	85	_	_	_	
+50-18	7707-7708	]	_	_	_	
+50-19	7709-7713	They	_	_	_	
+50-20	7714-7716	do	_	_	_	
+50-21	7717-7720	not	_	_	_	
+50-22	7721-7725	rear	_	_	_	
+50-23	7726-7734	peacocks	_	_	_	
+50-24	7734-7735	,	_	_	_	
+50-25	7736-7743	rabbits	_	_	_	
+50-26	7743-7744	,	_	_	_	
+50-27	7745-7747	or	_	_	_	
+50-28	7748-7753	hares	_	_	_	
+50-29	7753-7754	,	_	_	_	
+50-30	7755-7763	although	_	_	_	
+50-31	7764-7768	they	_	_	_	
+50-32	7769-7773	have	_	_	_	
+50-33	7774-7779	tried	_	_	_	
+50-34	7780-7782	to	_	_	_	
+50-35	7783-7785	do	_	_	_	
+50-36	7786-7788	so	_	_	_	
+50-37	7788-7789	.	_	_	_	
+
+#Text=It is believed 
+#Text= that the wild animals in the forests and fields eat and destroy them, 
+#Text= namely, the cats, foxes, badgers, and large and small rats, which 
+#Text= are very numerous, and other land animals. [86] 
+#Text=  
+#Text= Throughout these islands are found a great number of monkeys, of 
+#Text= various sizes, with which at times the trees are covered.
+51-1	7790-7792	It	_	_	_	
+51-2	7793-7795	is	_	_	_	
+51-3	7796-7804	believed	_	_	_	
+51-4	7807-7811	that	_	_	_	
+51-5	7812-7815	the	Taster[46]	_	_	
+51-6	7816-7820	wild	Taster[46]	_	_	
+51-7	7821-7828	animals	Taster[46]	_	_	
+51-8	7829-7831	in	Location[47]	_	_	
+51-9	7832-7835	the	Location[47]	_	_	
+51-10	7836-7843	forests	Location[47]	_	_	
+51-11	7844-7847	and	Location[47]	_	_	
+51-12	7848-7854	fields	Location[47]	_	_	
+51-13	7855-7858	eat	Taste Word	*|*|*|*|*|*|*	51-28[49_0]|51-20[48_0]|51-23|51-25|51-39[50_0]|51-5[46_0]|51-8[47_0]	
+51-14	7859-7862	and	_	_	_	
+51-15	7863-7870	destroy	_	_	_	
+51-16	7871-7875	them	_	_	_	
+51-17	7875-7876	,	_	_	_	
+51-18	7879-7885	namely	_	_	_	
+51-19	7885-7886	,	_	_	_	
+51-20	7887-7890	the	Taste Source[48]	_	_	
+51-21	7891-7895	cats	Taste Source[48]	_	_	
+51-22	7895-7896	,	_	_	_	
+51-23	7897-7902	foxes	Taste Source	_	_	
+51-24	7902-7903	,	_	_	_	
+51-25	7904-7911	badgers	Taste Source	_	_	
+51-26	7911-7912	,	_	_	_	
+51-27	7913-7916	and	_	_	_	
+51-28	7917-7922	large	Taste Source[49]	_	_	
+51-29	7923-7926	and	Taste Source[49]	_	_	
+51-30	7927-7932	small	Taste Source[49]	_	_	
+51-31	7933-7937	rats	Taste Source[49]	_	_	
+51-32	7937-7938	,	_	_	_	
+51-33	7939-7944	which	_	_	_	
+51-34	7947-7950	are	_	_	_	
+51-35	7951-7955	very	_	_	_	
+51-36	7956-7964	numerous	_	_	_	
+51-37	7964-7965	,	_	_	_	
+51-38	7966-7969	and	_	_	_	
+51-39	7970-7975	other	Taste Source[50]	_	_	
+51-40	7976-7980	land	Taste Source[50]	_	_	
+51-41	7981-7988	animals	Taste Source[50]	_	_	
+51-42	7988-7989	.	_	_	_	
+51-43	7990-7991	[	_	_	_	
+51-44	7991-7993	86	_	_	_	
+51-45	7993-7994	]	_	_	_	
+51-46	8000-8010	Throughout	_	_	_	
+51-47	8011-8016	these	_	_	_	
+51-48	8017-8024	islands	_	_	_	
+51-49	8025-8028	are	_	_	_	
+51-50	8029-8034	found	_	_	_	
+51-51	8035-8036	a	_	_	_	
+51-52	8037-8042	great	_	_	_	
+51-53	8043-8049	number	_	_	_	
+51-54	8050-8052	of	_	_	_	
+51-55	8053-8060	monkeys	_	_	_	
+51-56	8060-8061	,	_	_	_	
+51-57	8062-8064	of	_	_	_	
+51-58	8067-8074	various	_	_	_	
+51-59	8075-8080	sizes	_	_	_	
+51-60	8080-8081	,	_	_	_	
+51-61	8082-8086	with	_	_	_	
+51-62	8087-8092	which	_	_	_	
+51-63	8093-8095	at	_	_	_	
+51-64	8096-8101	times	_	_	_	
+51-65	8102-8105	the	_	_	_	
+51-66	8106-8111	trees	_	_	_	
+51-67	8112-8115	are	_	_	_	
+51-68	8116-8123	covered	_	_	_	
+51-69	8123-8124	.	_	_	_	
+
+#Text=There are 
+#Text= green and white parrots, but they are stupid in talking; and very 
+#Text= small parroquets, of beautiful green and red colors, which talk as 
+#Text= little.
+52-1	8125-8130	There	_	_	_	
+52-2	8131-8134	are	_	_	_	
+52-3	8137-8142	green	_	_	_	
+52-4	8143-8146	and	_	_	_	
+52-5	8147-8152	white	_	_	_	
+52-6	8153-8160	parrots	_	_	_	
+52-7	8160-8161	,	_	_	_	
+52-8	8162-8165	but	_	_	_	
+52-9	8166-8170	they	_	_	_	
+52-10	8171-8174	are	_	_	_	
+52-11	8175-8181	stupid	_	_	_	
+52-12	8182-8184	in	_	_	_	
+52-13	8185-8192	talking	_	_	_	
+52-14	8192-8193	;	_	_	_	
+52-15	8194-8197	and	_	_	_	
+52-16	8198-8202	very	_	_	_	
+52-17	8205-8210	small	_	_	_	
+52-18	8211-8221	parroquets	_	_	_	
+52-19	8221-8222	,	_	_	_	
+52-20	8223-8225	of	_	_	_	
+52-21	8226-8235	beautiful	_	_	_	
+52-22	8236-8241	green	_	_	_	
+52-23	8242-8245	and	_	_	_	
+52-24	8246-8249	red	_	_	_	
+52-25	8250-8256	colors	_	_	_	
+52-26	8256-8257	,	_	_	_	
+52-27	8258-8263	which	_	_	_	
+52-28	8264-8268	talk	_	_	_	
+52-29	8269-8271	as	_	_	_	
+52-30	8274-8280	little	_	_	_	
+52-31	8280-8281	.	_	_	_	
+
+#Text=The forests and settlements have many serpents, of various 
+#Text= colors, which are generally larger than those of Castilla.
+53-1	8282-8285	The	_	_	_	
+53-2	8286-8293	forests	_	_	_	
+53-3	8294-8297	and	_	_	_	
+53-4	8298-8309	settlements	_	_	_	
+53-5	8310-8314	have	_	_	_	
+53-6	8315-8319	many	_	_	_	
+53-7	8320-8328	serpents	_	_	_	
+53-8	8328-8329	,	_	_	_	
+53-9	8330-8332	of	_	_	_	
+53-10	8333-8340	various	_	_	_	
+53-11	8343-8349	colors	_	_	_	
+53-12	8349-8350	,	_	_	_	
+53-13	8351-8356	which	_	_	_	
+53-14	8357-8360	are	_	_	_	
+53-15	8361-8370	generally	_	_	_	
+53-16	8371-8377	larger	_	_	_	
+53-17	8378-8382	than	_	_	_	
+53-18	8383-8388	those	_	_	_	
+53-19	8389-8391	of	_	_	_	
+53-20	8392-8400	Castilla	_	_	_	
+53-21	8400-8401	.	_	_	_	
+
+#Text=Some have 
+#Text= been seen in the forests of unusual size, and wonderful to behold. [87] 
+#Text= The most harmful are certain slender snakes, of less than one vara 
+#Text= in length, which dart down upon passersby from the trees (where they 
+#Text= generally hang), and sting them; their venom is so powerful that 
+#Text= within twenty-four hours the person dies raving.
+54-1	8402-8406	Some	_	_	_	
+54-2	8407-8411	have	_	_	_	
+54-3	8414-8418	been	_	_	_	
+54-4	8419-8423	seen	_	_	_	
+54-5	8424-8426	in	_	_	_	
+54-6	8427-8430	the	_	_	_	
+54-7	8431-8438	forests	_	_	_	
+54-8	8439-8441	of	_	_	_	
+54-9	8442-8449	unusual	_	_	_	
+54-10	8450-8454	size	_	_	_	
+54-11	8454-8455	,	_	_	_	
+54-12	8456-8459	and	_	_	_	
+54-13	8460-8469	wonderful	_	_	_	
+54-14	8470-8472	to	_	_	_	
+54-15	8473-8479	behold	_	_	_	
+54-16	8479-8480	.	_	_	_	
+54-17	8481-8482	[	_	_	_	
+54-18	8482-8484	87	_	_	_	
+54-19	8484-8485	]	_	_	_	
+54-20	8488-8491	The	_	_	_	
+54-21	8492-8496	most	_	_	_	
+54-22	8497-8504	harmful	_	_	_	
+54-23	8505-8508	are	_	_	_	
+54-24	8509-8516	certain	_	_	_	
+54-25	8517-8524	slender	_	_	_	
+54-26	8525-8531	snakes	_	_	_	
+54-27	8531-8532	,	_	_	_	
+54-28	8533-8535	of	_	_	_	
+54-29	8536-8540	less	_	_	_	
+54-30	8541-8545	than	_	_	_	
+54-31	8546-8549	one	_	_	_	
+54-32	8550-8554	vara	_	_	_	
+54-33	8557-8559	in	_	_	_	
+54-34	8560-8566	length	_	_	_	
+54-35	8566-8567	,	_	_	_	
+54-36	8568-8573	which	_	_	_	
+54-37	8574-8578	dart	_	_	_	
+54-38	8579-8583	down	_	_	_	
+54-39	8584-8588	upon	_	_	_	
+54-40	8589-8598	passersby	_	_	_	
+54-41	8599-8603	from	_	_	_	
+54-42	8604-8607	the	_	_	_	
+54-43	8608-8613	trees	_	_	_	
+54-44	8614-8615	(	_	_	_	
+54-45	8615-8620	where	_	_	_	
+54-46	8621-8625	they	_	_	_	
+54-47	8628-8637	generally	_	_	_	
+54-48	8638-8642	hang	_	_	_	
+54-49	8642-8643	)	_	_	_	
+54-50	8643-8644	,	_	_	_	
+54-51	8645-8648	and	_	_	_	
+54-52	8649-8654	sting	_	_	_	
+54-53	8655-8659	them	_	_	_	
+54-54	8659-8660	;	_	_	_	
+54-55	8661-8666	their	_	_	_	
+54-56	8667-8672	venom	_	_	_	
+54-57	8673-8675	is	_	_	_	
+54-58	8676-8678	so	_	_	_	
+54-59	8679-8687	powerful	_	_	_	
+54-60	8688-8692	that	_	_	_	
+54-61	8695-8701	within	_	_	_	
+54-62	8702-8713	twenty-four	_	_	_	
+54-63	8714-8719	hours	_	_	_	
+54-64	8720-8723	the	_	_	_	
+54-65	8724-8730	person	_	_	_	
+54-66	8731-8735	dies	_	_	_	
+54-67	8736-8742	raving	_	_	_	
+54-68	8742-8743	.	_	_	_	
+
+#Text=There are many very large scorpions in the rivers and creeks, and a 
+#Text= great number of crocodiles, which are very bloodthirsty and cruel.
+55-1	8749-8754	There	_	_	_	
+55-2	8755-8758	are	_	_	_	
+55-3	8759-8763	many	_	_	_	
+55-4	8764-8768	very	_	_	_	
+55-5	8769-8774	large	_	_	_	
+55-6	8775-8784	scorpions	_	_	_	
+55-7	8785-8787	in	_	_	_	
+55-8	8788-8791	the	_	_	_	
+55-9	8792-8798	rivers	_	_	_	
+55-10	8799-8802	and	_	_	_	
+55-11	8803-8809	creeks	_	_	_	
+55-12	8809-8810	,	_	_	_	
+55-13	8811-8814	and	_	_	_	
+55-14	8815-8816	a	_	_	_	
+55-15	8819-8824	great	_	_	_	
+55-16	8825-8831	number	_	_	_	
+55-17	8832-8834	of	_	_	_	
+55-18	8835-8845	crocodiles	_	_	_	
+55-19	8845-8846	,	_	_	_	
+55-20	8847-8852	which	_	_	_	
+55-21	8853-8856	are	_	_	_	
+55-22	8857-8861	very	_	_	_	
+55-23	8862-8874	bloodthirsty	_	_	_	
+55-24	8875-8878	and	_	_	_	
+55-25	8879-8884	cruel	_	_	_	
+55-26	8884-8885	.	_	_	_	
+
+#Text=They 
+#Text= quite commonly pull from their bancas the natives who go in those
+#Text=_bicudas_, _tanguingues_, soles, _plantanos_, [89] _taraquitos_, 
+#Text= needle-fish, gilt-heads, and eels; large oysters, mussels, [90] 
+#Text= _porçebes_, crawfish, shrimp, sea-spiders, center-fish, and all kinds 
+#Text= of cockles, shad, white fish, and in the Tajo River of Cagayan, [91] 
+#Text= during their season, a great number of _bobos_, which come down to 
+#Text= spawn at the bar.
+56-1	8886-8890	They	_	_	_	
+56-2	8893-8898	quite	_	_	_	
+56-3	8899-8907	commonly	_	_	_	
+56-4	8908-8912	pull	_	_	_	
+56-5	8913-8917	from	_	_	_	
+56-6	8918-8923	their	_	_	_	
+56-7	8924-8930	bancas	_	_	_	
+56-8	8931-8934	the	_	_	_	
+56-9	8935-8942	natives	_	_	_	
+56-10	8943-8946	who	_	_	_	
+56-11	8947-8949	go	_	_	_	
+56-12	8950-8952	in	_	_	_	
+56-13	8953-8958	those	_	_	_	
+56-14	8959-8960	_	_	_	_	
+56-15	8960-8967	bicudas	_	_	_	
+56-16	8967-8968	_	_	_	_	
+56-17	8968-8969	,	_	_	_	
+56-18	8970-8971	_	_	_	_	
+56-19	8971-8982	tanguingues	_	_	_	
+56-20	8982-8983	_	_	_	_	
+56-21	8983-8984	,	_	_	_	
+56-22	8985-8990	soles	_	_	_	
+56-23	8990-8991	,	_	_	_	
+56-24	8992-8993	_	_	_	_	
+56-25	8993-9002	plantanos	_	_	_	
+56-26	9002-9003	_	_	_	_	
+56-27	9003-9004	,	_	_	_	
+56-28	9005-9006	[	_	_	_	
+56-29	9006-9008	89	_	_	_	
+56-30	9008-9009	]	_	_	_	
+56-31	9010-9011	_	_	_	_	
+56-32	9011-9021	taraquitos	_	_	_	
+56-33	9021-9022	_	_	_	_	
+56-34	9022-9023	,	_	_	_	
+56-35	9026-9037	needle-fish	_	_	_	
+56-36	9037-9038	,	_	_	_	
+56-37	9039-9049	gilt-heads	_	_	_	
+56-38	9049-9050	,	_	_	_	
+56-39	9051-9054	and	_	_	_	
+56-40	9055-9059	eels	_	_	_	
+56-41	9059-9060	;	_	_	_	
+56-42	9061-9066	large	_	_	_	
+56-43	9067-9074	oysters	_	_	_	
+56-44	9074-9075	,	_	_	_	
+56-45	9076-9083	mussels	_	_	_	
+56-46	9083-9084	,	_	_	_	
+56-47	9085-9086	[	_	_	_	
+56-48	9086-9088	90	_	_	_	
+56-49	9088-9089	]	_	_	_	
+56-50	9092-9093	_	_	_	_	
+56-51	9093-9101	porçebes	_	_	_	
+56-52	9101-9102	_	_	_	_	
+56-53	9102-9103	,	_	_	_	
+56-54	9104-9112	crawfish	_	_	_	
+56-55	9112-9113	,	_	_	_	
+56-56	9114-9120	shrimp	_	_	_	
+56-57	9120-9121	,	_	_	_	
+56-58	9122-9133	sea-spiders	_	_	_	
+56-59	9133-9134	,	_	_	_	
+56-60	9135-9146	center-fish	_	_	_	
+56-61	9146-9147	,	_	_	_	
+56-62	9148-9151	and	_	_	_	
+56-63	9152-9155	all	_	_	_	
+56-64	9156-9161	kinds	_	_	_	
+56-65	9164-9166	of	_	_	_	
+56-66	9167-9174	cockles	_	_	_	
+56-67	9174-9175	,	_	_	_	
+56-68	9176-9180	shad	_	_	_	
+56-69	9180-9181	,	_	_	_	
+56-70	9182-9187	white	_	_	_	
+56-71	9188-9192	fish	_	_	_	
+56-72	9192-9193	,	_	_	_	
+56-73	9194-9197	and	_	_	_	
+56-74	9198-9200	in	_	_	_	
+56-75	9201-9204	the	_	_	_	
+56-76	9205-9209	Tajo	_	_	_	
+56-77	9210-9215	River	_	_	_	
+56-78	9216-9218	of	_	_	_	
+56-79	9219-9226	Cagayan	_	_	_	
+56-80	9226-9227	,	_	_	_	
+56-81	9228-9229	[	_	_	_	
+56-82	9229-9231	91	_	_	_	
+56-83	9231-9232	]	_	_	_	
+56-84	9235-9241	during	_	_	_	
+56-85	9242-9247	their	_	_	_	
+56-86	9248-9254	season	_	_	_	
+56-87	9254-9255	,	_	_	_	
+56-88	9256-9257	a	_	_	_	
+56-89	9258-9263	great	_	_	_	
+56-90	9264-9270	number	_	_	_	
+56-91	9271-9273	of	_	_	_	
+56-92	9274-9275	_	_	_	_	
+56-93	9275-9280	bobos	_	_	_	
+56-94	9280-9281	_	_	_	_	
+56-95	9281-9282	,	_	_	_	
+56-96	9283-9288	which	_	_	_	
+56-97	9289-9293	come	_	_	_	
+56-98	9294-9298	down	_	_	_	
+56-99	9299-9301	to	_	_	_	
+56-100	9304-9309	spawn	_	_	_	
+56-101	9310-9312	at	_	_	_	
+56-102	9313-9316	the	_	_	_	
+56-103	9317-9320	bar	_	_	_	
+56-104	9320-9321	.	_	_	_	
+
+#Text=In the lake of Bonbon, a quantity of tunny-fish, 
+#Text= not so large as those of España, but of the same shape, flesh, and 
+#Text= taste, are caught.
+57-1	9322-9324	In	Location[51]	_	_	
+57-2	9325-9328	the	Location[51]	_	_	
+57-3	9329-9333	lake	Location[51]	_	_	
+57-4	9334-9336	of	Location[51]	_	_	
+57-5	9337-9343	Bonbon	Location[51]	_	_	
+57-6	9343-9344	,	_	_	_	
+57-7	9345-9346	a	_	_	_	
+57-8	9347-9355	quantity	_	_	_	
+57-9	9356-9358	of	_	_	_	
+57-10	9359-9369	tunny-fish	Taste Source	_	_	
+57-11	9369-9370	,	_	_	_	
+57-12	9373-9376	not	_	_	_	
+57-13	9377-9379	so	_	_	_	
+57-14	9380-9385	large	_	_	_	
+57-15	9386-9388	as	Evoked Taste[52]	_	_	
+57-16	9389-9394	those	Evoked Taste[52]	_	_	
+57-17	9395-9397	of	Evoked Taste[52]	_	_	
+57-18	9398-9404	España	Evoked Taste[52]	_	_	
+57-19	9404-9405	,	_	_	_	
+57-20	9406-9409	but	_	_	_	
+57-21	9410-9412	of	_	_	_	
+57-22	9413-9416	the	_	_	_	
+57-23	9417-9421	same	_	_	_	
+57-24	9422-9427	shape	_	_	_	
+57-25	9427-9428	,	_	_	_	
+57-26	9429-9434	flesh	_	_	_	
+57-27	9434-9435	,	_	_	_	
+57-28	9436-9439	and	_	_	_	
+57-29	9442-9447	taste	Taste Word	*|*|*	57-10|57-1[51_0]|57-15[52_0]	
+57-30	9447-9448	,	_	_	_	
+57-31	9449-9452	are	_	_	_	
+57-32	9453-9459	caught	_	_	_	
+57-33	9459-9460	.	_	_	_	
+
+#Text=Many sea-fish are found in the sea, such as whales, 
+#Text= sharks, _caellas_, _marajos_, _bufeos_, and other unknown species 
+#Text= of extraordinary forms and size.
+58-1	9461-9465	Many	_	_	_	
+58-2	9466-9474	sea-fish	_	_	_	
+58-3	9475-9478	are	_	_	_	
+58-4	9479-9484	found	_	_	_	
+58-5	9485-9487	in	_	_	_	
+58-6	9488-9491	the	_	_	_	
+58-7	9492-9495	sea	_	_	_	
+58-8	9495-9496	,	_	_	_	
+58-9	9497-9501	such	_	_	_	
+58-10	9502-9504	as	_	_	_	
+58-11	9505-9511	whales	_	_	_	
+58-12	9511-9512	,	_	_	_	
+58-13	9515-9521	sharks	_	_	_	
+58-14	9521-9522	,	_	_	_	
+58-15	9523-9524	_	_	_	_	
+58-16	9524-9531	caellas	_	_	_	
+58-17	9531-9532	_	_	_	_	
+58-18	9532-9533	,	_	_	_	
+58-19	9534-9535	_	_	_	_	
+58-20	9535-9542	marajos	_	_	_	
+58-21	9542-9543	_	_	_	_	
+58-22	9543-9544	,	_	_	_	
+58-23	9545-9546	_	_	_	_	
+58-24	9546-9552	bufeos	_	_	_	
+58-25	9552-9553	_	_	_	_	
+58-26	9553-9554	,	_	_	_	
+58-27	9555-9558	and	_	_	_	
+58-28	9559-9564	other	_	_	_	
+58-29	9565-9572	unknown	_	_	_	
+58-30	9573-9580	species	_	_	_	
+58-31	9583-9585	of	_	_	_	
+58-32	9586-9599	extraordinary	_	_	_	
+58-33	9600-9605	forms	_	_	_	
+58-34	9606-9609	and	_	_	_	
+58-35	9610-9614	size	_	_	_	
+58-36	9614-9615	.	_	_	_	
+
+#Text=In the year of five hundred and 
+#Text= ninety-six, during a furious storm in the islands, a fish was flung 
+#Text= into shallow water on one of the Luzon coasts near the province of 
+#Text= Camarines.
+59-1	9616-9618	In	_	_	_	
+59-2	9619-9622	the	_	_	_	
+59-3	9623-9627	year	_	_	_	
+59-4	9628-9630	of	_	_	_	
+59-5	9631-9635	five	_	_	_	
+59-6	9636-9643	hundred	_	_	_	
+59-7	9644-9647	and	_	_	_	
+59-8	9650-9660	ninety-six	_	_	_	
+59-9	9660-9661	,	_	_	_	
+59-10	9662-9668	during	_	_	_	
+59-11	9669-9670	a	_	_	_	
+59-12	9671-9678	furious	_	_	_	
+59-13	9679-9684	storm	_	_	_	
+59-14	9685-9687	in	_	_	_	
+59-15	9688-9691	the	_	_	_	
+59-16	9692-9699	islands	_	_	_	
+59-17	9699-9700	,	_	_	_	
+59-18	9701-9702	a	_	_	_	
+59-19	9703-9707	fish	_	_	_	
+59-20	9708-9711	was	_	_	_	
+59-21	9712-9717	flung	_	_	_	
+59-22	9720-9724	into	_	_	_	
+59-23	9725-9732	shallow	_	_	_	
+59-24	9733-9738	water	_	_	_	
+59-25	9739-9741	on	_	_	_	
+59-26	9742-9745	one	_	_	_	
+59-27	9746-9748	of	_	_	_	
+59-28	9749-9752	the	_	_	_	
+59-29	9753-9758	Luzon	_	_	_	
+59-30	9759-9765	coasts	_	_	_	
+59-31	9766-9770	near	_	_	_	
+59-32	9771-9774	the	_	_	_	
+59-33	9775-9783	province	_	_	_	
+59-34	9784-9786	of	_	_	_	
+59-35	9789-9798	Camarines	_	_	_	
+59-36	9798-9799	.	_	_	_	
+
+#Text=It was so huge and misshapen, that although it lay in 
+#Text= more than three and one-half braças of water, it could not again 
+#Text= get afloat, and died there.
+60-1	9800-9802	It	_	_	_	
+60-2	9803-9806	was	_	_	_	
+60-3	9807-9809	so	_	_	_	
+60-4	9810-9814	huge	_	_	_	
+60-5	9815-9818	and	_	_	_	
+60-6	9819-9828	misshapen	_	_	_	
+60-7	9828-9829	,	_	_	_	
+60-8	9830-9834	that	_	_	_	
+60-9	9835-9843	although	_	_	_	
+60-10	9844-9846	it	_	_	_	
+60-11	9847-9850	lay	_	_	_	
+60-12	9851-9853	in	_	_	_	
+60-13	9856-9860	more	_	_	_	
+60-14	9861-9865	than	_	_	_	
+60-15	9866-9871	three	_	_	_	
+60-16	9872-9875	and	_	_	_	
+60-17	9876-9884	one-half	_	_	_	
+60-18	9885-9891	braças	_	_	_	
+60-19	9892-9894	of	_	_	_	
+60-20	9895-9900	water	_	_	_	
+60-21	9900-9901	,	_	_	_	
+60-22	9902-9904	it	_	_	_	
+60-23	9905-9910	could	_	_	_	
+60-24	9911-9914	not	_	_	_	
+60-25	9915-9920	again	_	_	_	
+60-26	9923-9926	get	_	_	_	
+60-27	9927-9933	afloat	_	_	_	
+60-28	9933-9934	,	_	_	_	
+60-29	9935-9938	and	_	_	_	
+60-30	9939-9943	died	_	_	_	
+60-31	9944-9949	there	_	_	_	
+60-32	9949-9950	.	_	_	_	
+
+#Text=The natives said that they had never 
+#Text= seen anything like it, nor another shaped like it.
+61-1	9951-9954	The	_	_	_	
+61-2	9955-9962	natives	_	_	_	
+61-3	9963-9967	said	_	_	_	
+61-4	9968-9972	that	_	_	_	
+61-5	9973-9977	they	_	_	_	
+61-6	9978-9981	had	_	_	_	
+61-7	9982-9987	never	_	_	_	
+61-8	9990-9994	seen	_	_	_	
+61-9	9995-10003	anything	_	_	_	
+61-10	10004-10008	like	_	_	_	
+61-11	10009-10011	it	_	_	_	
+61-12	10011-10012	,	_	_	_	
+61-13	10013-10016	nor	_	_	_	
+61-14	10017-10024	another	_	_	_	
+61-15	10025-10031	shaped	_	_	_	
+61-16	10032-10036	like	_	_	_	
+61-17	10037-10039	it	_	_	_	
+61-18	10039-10040	.	_	_	_	
+
+#Text=Its head was of 
+#Text= wonderful size and fierce aspect.
+62-1	10041-10044	Its	_	_	_	
+62-2	10045-10049	head	_	_	_	
+62-3	10050-10053	was	_	_	_	
+62-4	10054-10056	of	_	_	_	
+62-5	10059-10068	wonderful	_	_	_	
+62-6	10069-10073	size	_	_	_	
+62-7	10074-10077	and	_	_	_	
+62-8	10078-10084	fierce	_	_	_	
+62-9	10085-10091	aspect	_	_	_	
+62-10	10091-10092	.	_	_	_	
+
+#Text=On its frontal it bore two horns, 
+#Text= which pointed toward its back.
+63-1	10093-10095	On	_	_	_	
+63-2	10096-10099	its	_	_	_	
+63-3	10100-10107	frontal	_	_	_	
+63-4	10108-10110	it	_	_	_	
+63-5	10111-10115	bore	_	_	_	
+63-6	10116-10119	two	_	_	_	
+63-7	10120-10125	horns	_	_	_	
+63-8	10125-10126	,	_	_	_	
+63-9	10129-10134	which	_	_	_	
+63-10	10135-10142	pointed	_	_	_	
+63-11	10143-10149	toward	_	_	_	
+63-12	10150-10153	its	_	_	_	
+63-13	10154-10158	back	_	_	_	
+63-14	10158-10159	.	_	_	_	
+
+#Text=One of them was taken to Manila.
+64-1	10160-10163	One	_	_	_	
+64-2	10164-10166	of	_	_	_	
+64-3	10167-10171	them	_	_	_	
+64-4	10172-10175	was	_	_	_	
+64-5	10176-10181	taken	_	_	_	
+64-6	10182-10184	to	_	_	_	
+64-7	10185-10191	Manila	_	_	_	
+64-8	10191-10192	.	_	_	_	
+
+#Text=It 
+#Text= was covered with its skin or hide, but had no hair or scales.
+65-1	10193-10195	It	_	_	_	
+65-2	10198-10201	was	_	_	_	
+65-3	10202-10209	covered	_	_	_	
+65-4	10210-10214	with	_	_	_	
+65-5	10215-10218	its	_	_	_	
+65-6	10219-10223	skin	_	_	_	
+65-7	10224-10226	or	_	_	_	
+65-8	10227-10231	hide	_	_	_	
+65-9	10231-10232	,	_	_	_	
+65-10	10233-10236	but	_	_	_	
+65-11	10237-10240	had	_	_	_	
+65-12	10241-10243	no	_	_	_	
+65-13	10244-10248	hair	_	_	_	
+65-14	10249-10251	or	_	_	_	
+65-15	10252-10258	scales	_	_	_	
+65-16	10258-10259	.	_	_	_	
+
+#Text=It was 
+#Text= white, and twenty feet long.
+66-1	10260-10262	It	_	_	_	
+66-2	10263-10266	was	_	_	_	
+66-3	10269-10274	white	_	_	_	
+66-4	10274-10275	,	_	_	_	
+66-5	10276-10279	and	_	_	_	
+66-6	10280-10286	twenty	_	_	_	
+66-7	10287-10291	feet	_	_	_	
+66-8	10292-10296	long	_	_	_	
+66-9	10296-10297	.	_	_	_	
+
+#Text=Where it joined the head it was as thick
+#Text=for making cables for the natives  '   boats, as well as other kinds 
+#Text= of ropes.
+67-1	10298-10303	Where	_	_	_	
+67-2	10304-10306	it	_	_	_	
+67-3	10307-10313	joined	_	_	_	
+67-4	10314-10317	the	_	_	_	
+67-5	10318-10322	head	_	_	_	
+67-6	10323-10325	it	_	_	_	
+67-7	10326-10329	was	_	_	_	
+67-8	10330-10332	as	_	_	_	
+67-9	10333-10338	thick	_	_	_	
+67-10	10339-10342	for	_	_	_	
+67-11	10343-10349	making	_	_	_	
+67-12	10350-10356	cables	_	_	_	
+67-13	10357-10360	for	_	_	_	
+67-14	10361-10364	the	_	_	_	
+67-15	10365-10372	natives	_	_	_	
+67-16	10374-10375	'	_	_	_	
+67-17	10378-10383	boats	_	_	_	
+67-18	10383-10384	,	_	_	_	
+67-19	10385-10387	as	_	_	_	
+67-20	10388-10392	well	_	_	_	
+67-21	10393-10395	as	_	_	_	
+67-22	10396-10401	other	_	_	_	
+67-23	10402-10407	kinds	_	_	_	
+67-24	10410-10412	of	_	_	_	
+67-25	10413-10418	ropes	_	_	_	
+67-26	10418-10419	.	_	_	_	
+
+#Text=They catch the fish inside these corrals, having made the 
+#Text= enclosures fast by means of stakes.
+68-1	10420-10424	They	_	_	_	
+68-2	10425-10430	catch	_	_	_	
+68-3	10431-10434	the	_	_	_	
+68-4	10435-10439	fish	_	_	_	
+68-5	10440-10446	inside	_	_	_	
+68-6	10447-10452	these	_	_	_	
+68-7	10453-10460	corrals	_	_	_	
+68-8	10460-10461	,	_	_	_	
+68-9	10462-10468	having	_	_	_	
+68-10	10469-10473	made	_	_	_	
+68-11	10474-10477	the	_	_	_	
+68-12	10480-10490	enclosures	_	_	_	
+68-13	10491-10495	fast	_	_	_	
+68-14	10496-10498	by	_	_	_	
+68-15	10499-10504	means	_	_	_	
+68-16	10505-10507	of	_	_	_	
+68-17	10508-10514	stakes	_	_	_	
+68-18	10514-10515	.	_	_	_	
+
+#Text=They also catch the fish in wicker 
+#Text= baskets made from the _bejucos_, but most generally with _atarrayas_, 
+#Text= [95] _esparaveles_, other small _barrederas_, [96] and with hand 
+#Text= lines and hooks. [97] The most usual food of the natives is a fish 
+#Text= as small as _pejerreyes_. [98] They dry and cure these fish in the 
+#Text= sun and air, and cook them in many styles.
+69-1	10516-10520	They	_	_	_	
+69-2	10521-10525	also	_	_	_	
+69-3	10526-10531	catch	_	_	_	
+69-4	10532-10535	the	_	_	_	
+69-5	10536-10540	fish	_	_	_	
+69-6	10541-10543	in	_	_	_	
+69-7	10544-10550	wicker	_	_	_	
+69-8	10553-10560	baskets	_	_	_	
+69-9	10561-10565	made	_	_	_	
+69-10	10566-10570	from	_	_	_	
+69-11	10571-10574	the	_	_	_	
+69-12	10575-10576	_	_	_	_	
+69-13	10576-10583	bejucos	_	_	_	
+69-14	10583-10584	_	_	_	_	
+69-15	10584-10585	,	_	_	_	
+69-16	10586-10589	but	_	_	_	
+69-17	10590-10594	most	_	_	_	
+69-18	10595-10604	generally	_	_	_	
+69-19	10605-10609	with	_	_	_	
+69-20	10610-10611	_	_	_	_	
+69-21	10611-10620	atarrayas	_	_	_	
+69-22	10620-10621	_	_	_	_	
+69-23	10621-10622	,	_	_	_	
+69-24	10625-10626	[	_	_	_	
+69-25	10626-10628	95	_	_	_	
+69-26	10628-10629	]	_	_	_	
+69-27	10630-10631	_	_	_	_	
+69-28	10631-10642	esparaveles	_	_	_	
+69-29	10642-10643	_	_	_	_	
+69-30	10643-10644	,	_	_	_	
+69-31	10645-10650	other	_	_	_	
+69-32	10651-10656	small	_	_	_	
+69-33	10657-10658	_	_	_	_	
+69-34	10658-10668	barrederas	_	_	_	
+69-35	10668-10669	_	_	_	_	
+69-36	10669-10670	,	_	_	_	
+69-37	10671-10672	[	_	_	_	
+69-38	10672-10674	96	_	_	_	
+69-39	10674-10675	]	_	_	_	
+69-40	10676-10679	and	_	_	_	
+69-41	10680-10684	with	_	_	_	
+69-42	10685-10689	hand	_	_	_	
+69-43	10692-10697	lines	_	_	_	
+69-44	10698-10701	and	_	_	_	
+69-45	10702-10707	hooks	_	_	_	
+69-46	10707-10708	.	_	_	_	
+69-47	10709-10710	[	_	_	_	
+69-48	10710-10712	97	_	_	_	
+69-49	10712-10713	]	_	_	_	
+69-50	10714-10717	The	_	_	_	
+69-51	10718-10722	most	_	_	_	
+69-52	10723-10728	usual	_	_	_	
+69-53	10729-10733	food	_	_	_	
+69-54	10734-10736	of	_	_	_	
+69-55	10737-10740	the	_	_	_	
+69-56	10741-10748	natives	_	_	_	
+69-57	10749-10751	is	_	_	_	
+69-58	10752-10753	a	_	_	_	
+69-59	10754-10758	fish	_	_	_	
+69-60	10761-10763	as	_	_	_	
+69-61	10764-10769	small	_	_	_	
+69-62	10770-10772	as	_	_	_	
+69-63	10773-10774	_	_	_	_	
+69-64	10774-10784	pejerreyes	_	_	_	
+69-65	10784-10785	_	_	_	_	
+69-66	10785-10786	.	_	_	_	
+69-67	10787-10788	[	_	_	_	
+69-68	10788-10790	98	_	_	_	
+69-69	10790-10791	]	_	_	_	
+69-70	10792-10796	They	_	_	_	
+69-71	10797-10800	dry	_	_	_	
+69-72	10801-10804	and	_	_	_	
+69-73	10805-10809	cure	_	_	_	
+69-74	10810-10815	these	_	_	_	
+69-75	10816-10820	fish	_	_	_	
+69-76	10821-10823	in	_	_	_	
+69-77	10824-10827	the	_	_	_	
+69-78	10830-10833	sun	_	_	_	
+69-79	10834-10837	and	_	_	_	
+69-80	10838-10841	air	_	_	_	
+69-81	10841-10842	,	_	_	_	
+69-82	10843-10846	and	_	_	_	
+69-83	10847-10851	cook	_	_	_	
+69-84	10852-10856	them	_	_	_	
+69-85	10857-10859	in	_	_	_	
+69-86	10860-10864	many	_	_	_	
+69-87	10865-10871	styles	_	_	_	
+69-88	10871-10872	.	_	_	_	
+
+#Text=They like them better than 
+#Text= large fish.
+70-1	10873-10877	They	_	_	_	
+70-2	10878-10882	like	_	_	_	
+70-3	10883-10887	them	_	_	_	
+70-4	10888-10894	better	_	_	_	
+70-5	10895-10899	than	_	_	_	
+70-6	10902-10907	large	_	_	_	
+70-7	10908-10912	fish	_	_	_	
+70-8	10912-10913	.	_	_	_	
+
+#Text=It is called _laulau_ among them. [99] 
+#Text=  
+#Text= Instead of olives and other pickled fruit, they have a green fruit, 
+#Text= like walnuts, which they call _paos_. [100] Some are small, and others 
+#Text= larger in size, and when prepared they have a pleasant taste.
+71-1	10914-10916	It	_	_	_	
+71-2	10917-10919	is	_	_	_	
+71-3	10920-10926	called	_	_	_	
+71-4	10927-10928	_	_	_	_	
+71-5	10928-10934	laulau	_	_	_	
+71-6	10934-10935	_	_	_	_	
+71-7	10936-10941	among	_	_	_	
+71-8	10942-10946	them	_	_	_	
+71-9	10946-10947	.	_	_	_	
+71-10	10948-10949	[	_	_	_	
+71-11	10949-10951	99	_	_	_	
+71-12	10951-10952	]	_	_	_	
+71-13	10958-10965	Instead	_	_	_	
+71-14	10966-10968	of	_	_	_	
+71-15	10969-10975	olives	_	_	_	
+71-16	10976-10979	and	_	_	_	
+71-17	10980-10985	other	_	_	_	
+71-18	10986-10993	pickled	_	_	_	
+71-19	10994-10999	fruit	_	_	_	
+71-20	10999-11000	,	_	_	_	
+71-21	11001-11005	they	_	_	_	
+71-22	11006-11010	have	_	_	_	
+71-23	11011-11012	a	_	_	_	
+71-24	11013-11018	green	_	_	_	
+71-25	11019-11024	fruit	_	_	_	
+71-26	11024-11025	,	_	_	_	
+71-27	11028-11032	like	_	_	_	
+71-28	11033-11040	walnuts	_	_	_	
+71-29	11040-11041	,	_	_	_	
+71-30	11042-11047	which	_	_	_	
+71-31	11048-11052	they	_	_	_	
+71-32	11053-11057	call	_	_	_	
+71-33	11058-11059	_	_	_	_	
+71-34	11059-11063	paos	Taste Source	_	_	
+71-35	11063-11064	_	_	_	_	
+71-36	11064-11065	.	_	_	_	
+71-37	11066-11067	[	_	_	_	
+71-38	11067-11070	100	_	_	_	
+71-39	11070-11071	]	_	_	_	
+71-40	11072-11076	Some	_	_	_	
+71-41	11077-11080	are	_	_	_	
+71-42	11081-11086	small	_	_	_	
+71-43	11086-11087	,	_	_	_	
+71-44	11088-11091	and	_	_	_	
+71-45	11092-11098	others	_	_	_	
+71-46	11101-11107	larger	_	_	_	
+71-47	11108-11110	in	_	_	_	
+71-48	11111-11115	size	_	_	_	
+71-49	11115-11116	,	_	_	_	
+71-50	11117-11120	and	_	_	_	
+71-51	11121-11125	when	Circumstance[53]	_	_	
+71-52	11126-11134	prepared	Circumstance[53]	_	_	
+71-53	11135-11139	they	_	_	_	
+71-54	11140-11144	have	_	_	_	
+71-55	11145-11146	a	_	_	_	
+71-56	11147-11155	pleasant	Quality	_	_	
+71-57	11156-11161	taste	Taste Word	*|*|*	71-56|71-51[53_0]|71-34	
+71-58	11161-11162	.	_	_	_	
+
+#Text=They also 
+#Text= prepare _charas_ [101] in pickle brine, and all sorts of vegetables 
+#Text= and greens, which are very appetizing.
+72-1	11163-11167	They	_	_	_	
+72-2	11168-11172	also	_	_	_	
+72-3	11175-11182	prepare	_	_	_	
+72-4	11183-11184	_	_	_	_	
+72-5	11184-11190	charas	Taste Source	_	_	
+72-6	11190-11191	_	_	_	_	
+72-7	11192-11193	[	_	_	_	
+72-8	11193-11196	101	_	_	_	
+72-9	11196-11197	]	_	_	_	
+72-10	11198-11200	in	_	_	_	
+72-11	11201-11207	pickle	_	_	_	
+72-12	11208-11213	brine	_	_	_	
+72-13	11213-11214	,	_	_	_	
+72-14	11215-11218	and	_	_	_	
+72-15	11219-11222	all	Taste Source[54]	_	_	
+72-16	11223-11228	sorts	Taste Source[54]	_	_	
+72-17	11229-11231	of	Taste Source[54]	_	_	
+72-18	11232-11242	vegetables	Taste Source[54]	_	_	
+72-19	11245-11248	and	_	_	_	
+72-20	11249-11255	greens	Taste Source	_	_	
+72-21	11255-11256	,	_	_	_	
+72-22	11257-11262	which	_	_	_	
+72-23	11263-11266	are	_	_	_	
+72-24	11267-11271	very	Quality	_	_	
+72-25	11272-11282	appetizing	Taste Word[55]|Quality[56]	*|*|*|*|*	72-25[56_55]|72-24[0_55]|72-5[0_55]|72-20[0_55]|72-15[54_55]	
+72-26	11282-11283	.	_	_	_	
+
+#Text=There is much ginger, and it 
+#Text= is eaten green, pickled, and preserved.
+73-1	11284-11289	There	_	_	_	
+73-2	11290-11292	is	_	_	_	
+73-3	11293-11297	much	_	_	_	
+73-4	11298-11304	ginger	Taste Source	_	_	
+73-5	11304-11305	,	_	_	_	
+73-6	11306-11309	and	_	_	_	
+73-7	11310-11312	it	_	_	_	
+73-8	11315-11317	is	_	_	_	
+73-9	11318-11323	eaten	Taste Word	*|*|*|*	73-4|73-15|73-12|73-10	
+73-10	11324-11329	green	Circumstance	_	_	
+73-11	11329-11330	,	_	_	_	
+73-12	11331-11338	pickled	Circumstance	_	_	
+73-13	11338-11339	,	_	_	_	
+73-14	11340-11343	and	_	_	_	
+73-15	11344-11353	preserved	Circumstance	_	_	
+73-16	11353-11354	.	_	_	_	
+
+#Text=There are also quantities 
+#Text= of _cachumba_ [102] instead of saffron and other condiments.
+74-1	11355-11360	There	_	_	_	
+74-2	11361-11364	are	_	_	_	
+74-3	11365-11369	also	_	_	_	
+74-4	11370-11380	quantities	_	_	_	
+74-5	11383-11385	of	_	_	_	
+74-6	11386-11387	_	_	_	_	
+74-7	11387-11395	cachumba	_	_	_	
+74-8	11395-11396	_	_	_	_	
+74-9	11397-11398	[	_	_	_	
+74-10	11398-11401	102	_	_	_	
+74-11	11401-11402	]	_	_	_	
+74-12	11403-11410	instead	_	_	_	
+74-13	11411-11413	of	_	_	_	
+74-14	11414-11421	saffron	_	_	_	
+74-15	11422-11425	and	_	_	_	
+74-16	11426-11431	other	_	_	_	
+74-17	11432-11442	condiments	_	_	_	
+74-18	11442-11443	.	_	_	_	
+
+#Text=The 
+#Text= ordinary dainty throughout these islands, and in many kingdoms of 
+#Text= the mainland of those regions, is _buyo_ [betel].
+75-1	11444-11447	The	_	_	_	
+75-2	11450-11458	ordinary	Quality	_	_	
+75-3	11459-11465	dainty	Taste Word	*|*|*	75-4[57_0]|75-2|75-24	
+75-4	11466-11476	throughout	Location[57]	_	_	
+75-5	11477-11482	these	Location[57]	_	_	
+75-6	11483-11490	islands	Location[57]	_	_	
+75-7	11490-11491	,	Location[57]	_	_	
+75-8	11492-11495	and	Location[57]	_	_	
+75-9	11496-11498	in	Location[57]	_	_	
+75-10	11499-11503	many	Location[57]	_	_	
+75-11	11504-11512	kingdoms	Location[57]	_	_	
+75-12	11513-11515	of	Location[57]	_	_	
+75-13	11518-11521	the	Location[57]	_	_	
+75-14	11522-11530	mainland	Location[57]	_	_	
+75-15	11531-11533	of	Location[57]	_	_	
+75-16	11534-11539	those	Location[57]	_	_	
+75-17	11540-11547	regions	Location[57]	_	_	
+75-18	11547-11548	,	_	_	_	
+75-19	11549-11551	is	_	_	_	
+75-20	11552-11553	_	_	_	_	
+75-21	11553-11557	buyo	_	_	_	
+75-22	11557-11558	_	_	_	_	
+75-23	11559-11560	[	_	_	_	
+75-24	11560-11565	betel	Taste Source	_	_	
+75-25	11565-11566	]	_	_	_	
+75-26	11566-11567	.	_	_	_	
+
+#Text=This is made from 
+#Text= a tree, [103] whose leaf is shaped like that of the mulberry.
+76-1	11568-11572	This	_	_	_	
+76-2	11573-11575	is	_	_	_	
+76-3	11576-11580	made	_	_	_	
+76-4	11581-11585	from	_	_	_	
+76-5	11588-11589	a	_	_	_	
+76-6	11590-11594	tree	_	_	_	
+76-7	11594-11595	,	_	_	_	
+76-8	11596-11597	[	_	_	_	
+76-9	11597-11600	103	_	_	_	
+76-10	11600-11601	]	_	_	_	
+76-11	11602-11607	whose	_	_	_	
+76-12	11608-11612	leaf	_	_	_	
+76-13	11613-11615	is	_	_	_	
+76-14	11616-11622	shaped	_	_	_	
+76-15	11623-11627	like	_	_	_	
+76-16	11628-11632	that	_	_	_	
+76-17	11633-11635	of	_	_	_	
+76-18	11636-11639	the	_	_	_	
+76-19	11640-11648	mulberry	_	_	_	
+76-20	11648-11649	.	_	_	_	
+
+#Text=The
+#Text=bean; this is sweet, like the date, but has a much stronger odor.
+77-1	11650-11653	The	_	_	_	
+77-2	11654-11658	bean	_	_	_	
+77-3	11658-11659	;	_	_	_	
+77-4	11660-11664	this	Taste Source	anaphorical	75-24	
+77-5	11665-11667	is	_	_	_	
+77-6	11668-11673	sweet	Taste Word[58]|Quality[59]	*|*|*	77-6[59_58]|77-8[60_58]|77-4[0_58]	
+77-7	11673-11674	,	_	_	_	
+77-8	11675-11679	like	Evoked Taste[60]	_	_	
+77-9	11680-11683	the	Evoked Taste[60]	_	_	
+77-10	11684-11688	date	Evoked Taste[60]	_	_	
+77-11	11688-11689	,	_	_	_	
+77-12	11690-11693	but	_	_	_	
+77-13	11694-11697	has	_	_	_	
+77-14	11698-11699	a	_	_	_	
+77-15	11700-11704	much	_	_	_	
+77-16	11705-11713	stronger	_	_	_	
+77-17	11714-11718	odor	_	_	_	
+77-18	11718-11719	.	_	_	_	
+
+#Text=It 
+#Text= is indigestible, and when eaten should be well masticated.
+78-1	11720-11722	It	Taste Source	anaphorical	75-24	
+78-2	11725-11727	is	_	_	_	
+78-3	11728-11740	indigestible	Taste Word[61]|Quality[62]	*|*	78-3[62_61]|78-1[0_61]	
+78-4	11740-11741	,	_	_	_	
+78-5	11742-11745	and	_	_	_	
+78-6	11746-11750	when	_	_	_	
+78-7	11751-11756	eaten	Taste Word	*|*	78-10[63_0]|78-1	
+78-8	11757-11763	should	_	_	_	
+78-9	11764-11766	be	_	_	_	
+78-10	11767-11771	well	Circumstance[63]	_	_	
+78-11	11772-11782	masticated	Circumstance[63]	_	_	
+78-12	11782-11783	.	_	_	_	
+
+#Text=The shells 
+#Text= are used in cooking and resemble chestnuts.
+79-1	11784-11787	The	_	_	_	
+79-2	11788-11794	shells	_	_	_	
+79-3	11797-11800	are	_	_	_	
+79-4	11801-11805	used	_	_	_	
+79-5	11806-11808	in	_	_	_	
+79-6	11809-11816	cooking	_	_	_	
+79-7	11817-11820	and	_	_	_	
+79-8	11821-11829	resemble	_	_	_	
+79-9	11830-11839	chestnuts	_	_	_	
+79-10	11839-11840	.	_	_	_	
+
+#Text=The wood is yellow, solid, 
+#Text= and especially useful in making certain musical instruments.
+80-1	11841-11844	The	_	_	_	
+80-2	11845-11849	wood	_	_	_	
+80-3	11850-11852	is	_	_	_	
+80-4	11853-11859	yellow	_	_	_	
+80-5	11859-11860	,	_	_	_	
+80-6	11861-11866	solid	_	_	_	
+80-7	11866-11867	,	_	_	_	
+80-8	11870-11873	and	_	_	_	
+80-9	11874-11884	especially	_	_	_	
+80-10	11885-11891	useful	_	_	_	
+80-11	11892-11894	in	_	_	_	
+80-12	11895-11901	making	_	_	_	
+80-13	11902-11909	certain	_	_	_	
+80-14	11910-11917	musical	_	_	_	
+80-15	11918-11929	instruments	_	_	_	
+80-16	11929-11930	.	_	_	_	
+
+#Text=Buzeta 
+#Text= and Bravo (_Diccionario_, i, p. 35) say that there are more than 
+#Text= fifty-seven species of bananas in the Philippines
+81-1	11931-11937	Buzeta	_	_	_	
+81-2	11940-11943	and	_	_	_	
+81-3	11944-11949	Bravo	_	_	_	
+81-4	11950-11951	(	_	_	_	
+81-5	11951-11952	_	_	_	_	
+81-6	11952-11963	Diccionario	_	_	_	
+81-7	11963-11964	_	_	_	_	
+81-8	11964-11965	,	_	_	_	
+81-9	11966-11967	i	_	_	_	
+81-10	11967-11968	,	_	_	_	
+81-11	11969-11970	p	_	_	_	
+81-12	11970-11971	.	_	_	_	
+81-13	11972-11974	35	_	_	_	
+81-14	11974-11975	)	_	_	_	
+81-15	11976-11979	say	_	_	_	
+81-16	11980-11984	that	_	_	_	
+81-17	11985-11990	there	_	_	_	
+81-18	11991-11994	are	_	_	_	
+81-19	11995-11999	more	_	_	_	
+81-20	12000-12004	than	_	_	_	
+81-21	12007-12018	fifty-seven	_	_	_	
+81-22	12019-12026	species	_	_	_	
+81-23	12027-12029	of	_	_	_	
+81-24	12030-12037	bananas	_	_	_	
+81-25	12038-12040	in	_	_	_	
+81-26	12041-12044	the	_	_	_	
+81-27	12045-12056	Philippines	_	_	_	
+
+#Text=.
+82-1	12056-12057	.	_	_	_	
+
+#Text=[74] Pilê (_Canarium commune_--Linn.).
+83-1	12063-12064	[	_	_	_	
+83-2	12064-12066	74	_	_	_	
+83-3	12066-12067	]	_	_	_	
+83-4	12068-12072	Pilê	Taste Source	_	_	
+83-5	12073-12074	(	_	_	_	
+83-6	12074-12075	_	_	_	_	
+83-7	12075-12083	Canarium	_	_	_	
+83-8	12084-12091	commune	_	_	_	
+83-9	12091-12092	_	_	_	_	
+83-10	12092-12093	-	_	_	_	
+83-11	12093-12094	-	_	_	_	
+83-12	12094-12098	Linn	_	_	_	
+83-13	12098-12099	.	_	_	_	
+83-14	12099-12100	)	_	_	_	
+83-15	12100-12101	.	_	_	_	
+
+#Text=Delgado (_ut supra_) says that 
+#Text= this was one of the most notable and useful fruits of the islands.
+84-1	12102-12109	Delgado	_	_	_	
+84-2	12110-12111	(	_	_	_	
+84-3	12111-12112	_	_	_	_	
+84-4	12112-12114	ut	_	_	_	
+84-5	12115-12120	supra	_	_	_	
+84-6	12120-12121	_	_	_	_	
+84-7	12121-12122	)	_	_	_	
+84-8	12123-12127	says	_	_	_	
+84-9	12128-12132	that	_	_	_	
+84-10	12135-12139	this	_	_	_	
+84-11	12140-12143	was	_	_	_	
+84-12	12144-12147	one	_	_	_	
+84-13	12148-12150	of	_	_	_	
+84-14	12151-12154	the	_	_	_	
+84-15	12155-12159	most	_	_	_	
+84-16	12160-12167	notable	_	_	_	
+84-17	12168-12171	and	_	_	_	
+84-18	12172-12178	useful	_	_	_	
+84-19	12179-12185	fruits	_	_	_	
+84-20	12186-12188	of	_	_	_	
+84-21	12189-12192	the	_	_	_	
+84-22	12193-12200	islands	_	_	_	
+84-23	12200-12201	.	_	_	_	
+
+#Text=It 
+#Text= was generally confined to mountainous regions and grew wild.
+85-1	12202-12204	It	_	_	_	
+85-2	12207-12210	was	_	_	_	
+85-3	12211-12220	generally	_	_	_	
+85-4	12221-12229	confined	_	_	_	
+85-5	12230-12232	to	_	_	_	
+85-6	12233-12244	mountainous	_	_	_	
+85-7	12245-12252	regions	_	_	_	
+85-8	12253-12256	and	_	_	_	
+85-9	12257-12261	grew	_	_	_	
+85-10	12262-12266	wild	_	_	_	
+85-11	12266-12267	.	_	_	_	
+
+#Text=The 
+#Text= natives used the fruit and extracted a white pitch from the tree.
+86-1	12268-12271	The	_	_	_	
+86-2	12274-12281	natives	_	_	_	
+86-3	12282-12286	used	_	_	_	
+86-4	12287-12290	the	_	_	_	
+86-5	12291-12296	fruit	_	_	_	
+86-6	12297-12300	and	_	_	_	
+86-7	12301-12310	extracted	_	_	_	
+86-8	12311-12312	a	_	_	_	
+86-9	12313-12318	white	_	_	_	
+86-10	12319-12324	pitch	_	_	_	
+86-11	12325-12329	from	_	_	_	
+86-12	12330-12333	the	_	_	_	
+86-13	12334-12338	tree	_	_	_	
+86-14	12338-12339	.	_	_	_	
+
+#Text=The 
+#Text= fruit has a strong, hard shell.
+87-1	12340-12343	The	_	_	_	
+87-2	12346-12351	fruit	_	_	_	
+87-3	12352-12355	has	_	_	_	
+87-4	12356-12357	a	_	_	_	
+87-5	12358-12364	strong	_	_	_	
+87-6	12364-12365	,	_	_	_	
+87-7	12366-12370	hard	_	_	_	
+87-8	12371-12376	shell	_	_	_	
+87-9	12376-12377	.	_	_	_	
+
+#Text=The fruit itself resembles an almond, 
+#Text= both in shape and taste, although it is larger.
+88-1	12378-12381	The	Taste Source[64]	anaphorical	83-4[0_64]	
+88-2	12382-12387	fruit	Taste Source[64]	_	_	
+88-3	12388-12394	itself	Taste Source[64]	_	_	
+88-4	12395-12404	resembles	Evoked Taste[65]	_	_	
+88-5	12405-12407	an	Evoked Taste[65]	_	_	
+88-6	12408-12414	almond	Evoked Taste[65]	_	_	
+88-7	12414-12415	,	_	_	_	
+88-8	12418-12422	both	_	_	_	
+88-9	12423-12425	in	_	_	_	
+88-10	12426-12431	shape	_	_	_	
+88-11	12432-12435	and	_	_	_	
+88-12	12436-12441	taste	Taste Word	*|*	88-4[65_0]|88-1[64_0]	
+88-13	12441-12442	,	_	_	_	
+88-14	12443-12451	although	_	_	_	
+88-15	12452-12454	it	_	_	_	
+88-16	12455-12457	is	_	_	_	
+88-17	12458-12464	larger	_	_	_	
+88-18	12464-12465	.	_	_	_	
+
+#Text=The tree is very high, 
+#Text= straight, and wide-spreading.
+89-1	12466-12469	The	_	_	_	
+89-2	12470-12474	tree	_	_	_	
+89-3	12475-12477	is	_	_	_	
+89-4	12478-12482	very	_	_	_	
+89-5	12483-12487	high	_	_	_	
+89-6	12487-12488	,	_	_	_	
+89-7	12491-12499	straight	_	_	_	
+89-8	12499-12500	,	_	_	_	
+89-9	12501-12504	and	_	_	_	
+89-10	12505-12519	wide-spreading	_	_	_	
+89-11	12519-12520	.	_	_	_	
+
+#Text=Its leaves are larger than those of 
+#Text= the almond-tree
+90-1	12521-12524	Its	_	_	_	
+90-2	12525-12531	leaves	_	_	_	
+90-3	12532-12535	are	_	_	_	
+90-4	12536-12542	larger	_	_	_	
+90-5	12543-12547	than	_	_	_	
+90-6	12548-12553	those	_	_	_	
+90-7	12554-12556	of	_	_	_	
+90-8	12559-12562	the	_	_	_	
+90-9	12563-12574	almond-tree	_	_	_	
+
+#Text=.
+91-1	12574-12575	.	_	_	_	
+
+#Text=[75] Delgado (_ut supra_) describes the tree (_Cedrela 
+#Text= toona_--Roxb.) called _calanta_ in Tagál, and _lanipga_ in 
+#Text= Visayan.
+92-1	12581-12582	[	_	_	_	
+92-2	12582-12584	75	_	_	_	
+92-3	12584-12585	]	_	_	_	
+92-4	12586-12593	Delgado	_	_	_	
+92-5	12594-12595	(	_	_	_	
+92-6	12595-12596	_	_	_	_	
+92-7	12596-12598	ut	_	_	_	
+92-8	12599-12604	supra	_	_	_	
+92-9	12604-12605	_	_	_	_	
+92-10	12605-12606	)	_	_	_	
+92-11	12607-12616	describes	_	_	_	
+92-12	12617-12620	the	_	_	_	
+92-13	12621-12625	tree	_	_	_	
+92-14	12626-12627	(	_	_	_	
+92-15	12627-12628	_	_	_	_	
+92-16	12628-12635	Cedrela	_	_	_	
+92-17	12638-12643	toona	_	_	_	
+92-18	12643-12644	_	_	_	_	
+92-19	12644-12645	-	_	_	_	
+92-20	12645-12646	-	_	_	_	
+92-21	12646-12650	Roxb	_	_	_	
+92-22	12650-12651	.	_	_	_	
+92-23	12651-12652	)	_	_	_	
+92-24	12653-12659	called	_	_	_	
+92-25	12660-12661	_	_	_	_	
+92-26	12661-12668	calanta	_	_	_	
+92-27	12668-12669	_	_	_	_	
+92-28	12670-12672	in	_	_	_	
+92-29	12673-12678	Tagál	_	_	_	
+92-30	12678-12679	,	_	_	_	
+92-31	12680-12683	and	_	_	_	
+92-32	12684-12685	_	_	_	_	
+92-33	12685-12692	lanipga	_	_	_	
+92-34	12692-12693	_	_	_	_	
+92-35	12694-12696	in	_	_	_	
+92-36	12699-12706	Visayan	_	_	_	
+92-37	12706-12707	.	_	_	_	
+
+#Text=The tree is fragrant and has wood of a reddish color.
+93-1	12708-12711	The	_	_	_	
+93-2	12712-12716	tree	_	_	_	
+93-3	12717-12719	is	_	_	_	
+93-4	12720-12728	fragrant	_	_	_	
+93-5	12729-12732	and	_	_	_	
+93-6	12733-12736	has	_	_	_	
+93-7	12737-12741	wood	_	_	_	
+93-8	12742-12744	of	_	_	_	
+93-9	12745-12746	a	_	_	_	
+93-10	12747-12754	reddish	_	_	_	
+93-11	12755-12760	color	_	_	_	
+93-12	12760-12761	.	_	_	_	
+
+#Text=It 
+#Text= was used for making the hulls of vessels, because of its strength and
+#Text=and delicacy; and it is said that that made formerly (one or two 
+#Text= centuries ago) was much finer than that made now
+94-1	12762-12764	It	_	_	_	
+94-2	12767-12770	was	_	_	_	
+94-3	12771-12775	used	_	_	_	
+94-4	12776-12779	for	_	_	_	
+94-5	12780-12786	making	_	_	_	
+94-6	12787-12790	the	_	_	_	
+94-7	12791-12796	hulls	_	_	_	
+94-8	12797-12799	of	_	_	_	
+94-9	12800-12807	vessels	_	_	_	
+94-10	12807-12808	,	_	_	_	
+94-11	12809-12816	because	_	_	_	
+94-12	12817-12819	of	_	_	_	
+94-13	12820-12823	its	_	_	_	
+94-14	12824-12832	strength	_	_	_	
+94-15	12833-12836	and	_	_	_	
+94-16	12837-12840	and	_	_	_	
+94-17	12841-12849	delicacy	_	_	_	
+94-18	12849-12850	;	_	_	_	
+94-19	12851-12854	and	_	_	_	
+94-20	12855-12857	it	_	_	_	
+94-21	12858-12860	is	_	_	_	
+94-22	12861-12865	said	_	_	_	
+94-23	12866-12870	that	_	_	_	
+94-24	12871-12875	that	_	_	_	
+94-25	12876-12880	made	_	_	_	
+94-26	12881-12889	formerly	_	_	_	
+94-27	12890-12891	(	_	_	_	
+94-28	12891-12894	one	_	_	_	
+94-29	12895-12897	or	_	_	_	
+94-30	12898-12901	two	_	_	_	
+94-31	12904-12913	centuries	_	_	_	
+94-32	12914-12917	ago	_	_	_	
+94-33	12917-12918	)	_	_	_	
+94-34	12919-12922	was	_	_	_	
+94-35	12923-12927	much	_	_	_	
+94-36	12928-12933	finer	_	_	_	
+94-37	12934-12938	than	_	_	_	
+94-38	12939-12943	that	_	_	_	
+94-39	12944-12948	made	_	_	_	
+94-40	12949-12952	now	_	_	_	
+
+#Text=.
+95-1	12952-12953	.	_	_	_	
+
+#Text=[235] _Scorzonera_ is a genus of composite plants, of numerous 
+#Text= species; the leaves or roots of many are used as vegetables or 
+#Text= salads.
+96-1	12959-12960	[	_	_	_	
+96-2	12960-12963	235	_	_	_	
+96-3	12963-12964	]	_	_	_	
+96-4	12965-12966	_	_	_	_	
+96-5	12966-12976	Scorzonera	_	_	_	
+96-6	12976-12977	_	_	_	_	
+96-7	12978-12980	is	_	_	_	
+96-8	12981-12982	a	_	_	_	
+96-9	12983-12988	genus	_	_	_	
+96-10	12989-12991	of	_	_	_	
+96-11	12992-13001	composite	_	_	_	
+96-12	13002-13008	plants	_	_	_	
+96-13	13008-13009	,	_	_	_	
+96-14	13010-13012	of	_	_	_	
+96-15	13013-13021	numerous	_	_	_	
+96-16	13024-13031	species	_	_	_	
+96-17	13031-13032	;	_	_	_	
+96-18	13033-13036	the	_	_	_	
+96-19	13037-13043	leaves	_	_	_	
+96-20	13044-13046	or	_	_	_	
+96-21	13047-13052	roots	_	_	_	
+96-22	13053-13055	of	_	_	_	
+96-23	13056-13060	many	_	_	_	
+96-24	13061-13064	are	_	_	_	
+96-25	13065-13069	used	_	_	_	
+96-26	13070-13072	as	_	_	_	
+96-27	13073-13083	vegetables	_	_	_	
+96-28	13084-13086	or	_	_	_	
+96-29	13089-13095	salads	_	_	_	
+96-30	13095-13096	.	_	_	_	
+
+#Text=_S. tuberosa_ and other Eastern species have edible roots
+97-1	13097-13098	_	_	_	_	
+97-2	13098-13099	S	_	_	_	
+97-3	13099-13100	.	_	_	_	
+97-4	13101-13109	tuberosa	_	_	_	
+97-5	13109-13110	_	_	_	_	
+97-6	13111-13114	and	_	_	_	
+97-7	13115-13120	other	_	_	_	
+97-8	13121-13128	Eastern	_	_	_	
+97-9	13129-13136	species	_	_	_	
+97-10	13137-13141	have	_	_	_	
+97-11	13142-13148	edible	_	_	_	
+97-12	13149-13154	roots	_	_	_	
+
+#Text=.
+98-1	13154-13155	.	_	_	_	
+
+#Text=[236] Delgado (_ut supra_) says that this fruit (_Diospyros kaki_, 
+#Text= Linn.) was brought by the Chinese traders, and called _Xi-cu_ 
+#Text= in their language, whence is derived the word _chiquey_.
+99-1	13161-13162	[	_	_	_	
+99-2	13162-13165	236	_	_	_	
+99-3	13165-13166	]	_	_	_	
+99-4	13167-13174	Delgado	_	_	_	
+99-5	13175-13176	(	_	_	_	
+99-6	13176-13177	_	_	_	_	
+99-7	13177-13179	ut	_	_	_	
+99-8	13180-13185	supra	_	_	_	
+99-9	13185-13186	_	_	_	_	
+99-10	13186-13187	)	_	_	_	
+99-11	13188-13192	says	_	_	_	
+99-12	13193-13197	that	_	_	_	
+99-13	13198-13202	this	_	_	_	
+99-14	13203-13208	fruit	_	_	_	
+99-15	13209-13210	(	_	_	_	
+99-16	13210-13211	_	_	_	_	
+99-17	13211-13220	Diospyros	Taste Source[66]	_	_	
+99-18	13221-13225	kaki	Taste Source[66]	_	_	
+99-19	13225-13226	_	_	_	_	
+99-20	13226-13227	,	_	_	_	
+99-21	13230-13234	Linn	_	_	_	
+99-22	13234-13235	.	_	_	_	
+99-23	13235-13236	)	_	_	_	
+99-24	13237-13240	was	_	_	_	
+99-25	13241-13248	brought	_	_	_	
+99-26	13249-13251	by	_	_	_	
+99-27	13252-13255	the	_	_	_	
+99-28	13256-13263	Chinese	_	_	_	
+99-29	13264-13271	traders	_	_	_	
+99-30	13271-13272	,	_	_	_	
+99-31	13273-13276	and	_	_	_	
+99-32	13277-13283	called	_	_	_	
+99-33	13284-13285	_	_	_	_	
+99-34	13285-13290	Xi-cu	_	_	_	
+99-35	13290-13291	_	_	_	_	
+99-36	13294-13296	in	_	_	_	
+99-37	13297-13302	their	_	_	_	
+99-38	13303-13311	language	_	_	_	
+99-39	13311-13312	,	_	_	_	
+99-40	13313-13319	whence	_	_	_	
+99-41	13320-13322	is	_	_	_	
+99-42	13323-13330	derived	_	_	_	
+99-43	13331-13334	the	_	_	_	
+99-44	13335-13339	word	_	_	_	
+99-45	13340-13341	_	_	_	_	
+99-46	13341-13348	chiquey	_	_	_	
+99-47	13348-13349	_	_	_	_	
+99-48	13349-13350	.	_	_	_	
+
+#Text=It is a 
+#Text= beautiful scarlet fruit, although there is another species of a 
+#Text= yellow color.
+100-1	13351-13353	It	Taste Source	anaphorical	99-17[66_0]	
+100-2	13354-13356	is	_	_	_	
+100-3	13357-13358	a	_	_	_	
+100-4	13361-13370	beautiful	_	_	_	
+100-5	13371-13378	scarlet	_	_	_	
+100-6	13379-13384	fruit	_	_	_	
+100-7	13384-13385	,	_	_	_	
+100-8	13386-13394	although	_	_	_	
+100-9	13395-13400	there	_	_	_	
+100-10	13401-13403	is	_	_	_	
+100-11	13404-13411	another	_	_	_	
+100-12	13412-13419	species	_	_	_	
+100-13	13420-13422	of	_	_	_	
+100-14	13423-13424	a	_	_	_	
+100-15	13427-13433	yellow	_	_	_	
+100-16	13434-13439	color	_	_	_	
+100-17	13439-13440	.	_	_	_	
+
+#Text=Both are sweet and pleasant to the taste.
+101-1	13441-13445	Both	_	_	_	
+101-2	13446-13449	are	_	_	_	
+101-3	13450-13455	sweet	Taste Word[67]|Quality[68]	*	101-3[68_67]	
+101-4	13456-13459	and	_	_	_	
+101-5	13460-13468	pleasant	Quality	_	_	
+101-6	13469-13471	to	_	_	_	
+101-7	13472-13475	the	_	_	_	
+101-8	13476-13481	taste	Taste Word	*|*|*	101-5|101-3[68_0]|100-1	
+101-9	13481-13482	.	_	_	_	
+
+#Text=Some of the 
+#Text= yellow variety were grown in the Visayas, but Delgado says the tree 
+#Text= is not indigenous to the islands.
+102-1	13483-13487	Some	_	_	_	
+102-2	13488-13490	of	_	_	_	
+102-3	13491-13494	the	_	_	_	
+102-4	13497-13503	yellow	_	_	_	
+102-5	13504-13511	variety	_	_	_	
+102-6	13512-13516	were	_	_	_	
+102-7	13517-13522	grown	_	_	_	
+102-8	13523-13525	in	_	_	_	
+102-9	13526-13529	the	_	_	_	
+102-10	13530-13537	Visayas	_	_	_	
+102-11	13537-13538	,	_	_	_	
+102-12	13539-13542	but	_	_	_	
+102-13	13543-13550	Delgado	_	_	_	
+102-14	13551-13555	says	_	_	_	
+102-15	13556-13559	the	_	_	_	
+102-16	13560-13564	tree	_	_	_	
+102-17	13567-13569	is	_	_	_	
+102-18	13570-13573	not	_	_	_	
+102-19	13574-13584	indigenous	_	_	_	
+102-20	13585-13587	to	_	_	_	
+102-21	13588-13591	the	_	_	_	
+102-22	13592-13599	islands	_	_	_	
+102-23	13599-13600	.	_	_	_	
+
+#Text=The fruit is shaped like an acorn 
+#Text= but is about as large as a lemon.
+103-1	13601-13604	The	_	_	_	
+103-2	13605-13610	fruit	_	_	_	
+103-3	13611-13613	is	_	_	_	
+103-4	13614-13620	shaped	_	_	_	
+103-5	13621-13625	like	_	_	_	
+103-6	13626-13628	an	_	_	_	
+103-7	13629-13634	acorn	_	_	_	
+103-8	13637-13640	but	_	_	_	
+103-9	13641-13643	is	_	_	_	
+103-10	13644-13649	about	_	_	_	
+103-11	13650-13652	as	_	_	_	
+103-12	13653-13658	large	_	_	_	
+103-13	13659-13661	as	_	_	_	
+103-14	13662-13663	a	_	_	_	
+103-15	13664-13669	lemon	_	_	_	
+103-16	13669-13670	.	_	_	_	
+
+#Text=The peel is soft and the interior 
+#Text= like honey, and it contains several seeds.
+104-1	13671-13674	The	_	_	_	
+104-2	13675-13679	peel	_	_	_	
+104-3	13680-13682	is	_	_	_	
+104-4	13683-13687	soft	_	_	_	
+104-5	13688-13691	and	_	_	_	
+104-6	13692-13695	the	_	_	_	
+104-7	13696-13704	interior	_	_	_	
+104-8	13707-13711	like	_	_	_	
+104-9	13712-13717	honey	_	_	_	
+104-10	13717-13718	,	_	_	_	
+104-11	13719-13722	and	_	_	_	
+104-12	13723-13725	it	_	_	_	
+104-13	13726-13734	contains	_	_	_	
+104-14	13735-13742	several	_	_	_	
+104-15	13743-13748	seeds	_	_	_	
+104-16	13748-13749	.	_	_	_	
+
+#Text=The tree is wide-spreading 
+#Text= but not very tall.
+105-1	13750-13753	The	_	_	_	
+105-2	13754-13758	tree	_	_	_	
+105-3	13759-13761	is	_	_	_	
+105-4	13762-13776	wide-spreading	_	_	_	
+105-5	13779-13782	but	_	_	_	
+105-6	13783-13786	not	_	_	_	
+105-7	13787-13791	very	_	_	_	
+105-8	13792-13796	tall	_	_	_	
+105-9	13796-13797	.	_	_	_	
+
+#Text=The leaves are small and almost round.
+106-1	13798-13801	The	_	_	_	
+106-2	13802-13808	leaves	_	_	_	
+106-3	13809-13812	are	_	_	_	
+106-4	13813-13818	small	_	_	_	
+106-5	13819-13822	and	_	_	_	
+106-6	13823-13829	almost	_	_	_	
+106-7	13830-13835	round	_	_	_	
+106-8	13835-13836	.	_	_	_	
+
+#Text=_D. kaki_ 
+#Text= is the Chinese or Japanese persimmon; _D. virginiana_ is the American 
+#Text= persimmon.
+107-1	13837-13838	_	_	_	_	
+107-2	13838-13839	D	_	_	_	
+107-3	13839-13840	.	_	_	_	
+107-4	13841-13845	kaki	_	_	_	
+107-5	13845-13846	_	_	_	_	
+107-6	13849-13851	is	_	_	_	
+107-7	13852-13855	the	_	_	_	
+107-8	13856-13863	Chinese	_	_	_	
+107-9	13864-13866	or	_	_	_	
+107-10	13867-13875	Japanese	_	_	_	
+107-11	13876-13885	persimmon	_	_	_	
+107-12	13885-13886	;	_	_	_	
+107-13	13887-13888	_	_	_	_	
+107-14	13888-13889	D	_	_	_	
+107-15	13889-13890	.	_	_	_	
+107-16	13891-13901	virginiana	_	_	_	
+107-17	13901-13902	_	_	_	_	
+107-18	13903-13905	is	_	_	_	
+107-19	13906-13909	the	_	_	_	
+107-20	13910-13918	American	_	_	_	
+107-21	13921-13930	persimmon	_	_	_	
+107-22	13930-13931	.	_	_	_	
+
+#Text=From other species is obtained the valuable wood called 
+#Text= ebony.
+108-1	13932-13936	From	_	_	_	
+108-2	13937-13942	other	_	_	_	
+108-3	13943-13950	species	_	_	_	
+108-4	13951-13953	is	_	_	_	
+108-5	13954-13962	obtained	_	_	_	
+108-6	13963-13966	the	_	_	_	
+108-7	13967-13975	valuable	_	_	_	
+108-8	13976-13980	wood	_	_	_	
+108-9	13981-13987	called	_	_	_	
+108-10	13990-13995	ebony	_	_	_	
+108-11	13995-13996	.	_	_	_	

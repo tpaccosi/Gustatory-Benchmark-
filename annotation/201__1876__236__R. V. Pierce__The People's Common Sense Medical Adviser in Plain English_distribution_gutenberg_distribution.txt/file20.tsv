@@ -1,0 +1,4912 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+#T_RL=custom.Relation|label|BT_custom.Span
+
+
+#Text=to a science.
+1-1	0-2	to	_	_	_	
+1-2	3-4	a	_	_	_	
+1-3	5-12	science	_	_	_	
+1-4	12-13	.	_	_	_	
+
+#Text=SMELL.
+2-1	22-27	SMELL	_	_	_	
+2-2	27-28	.	_	_	_	
+
+#Text=[Illustration: Fig. 65. 
+#Text= 1.
+3-1	37-38	[	_	_	_	
+3-2	38-50	Illustration	_	_	_	
+3-3	50-51	:	_	_	_	
+3-4	52-55	Fig	_	_	_	
+3-5	55-56	.	_	_	_	
+3-6	57-59	65	_	_	_	
+3-7	59-60	.	_	_	_	
+3-8	63-64	1	_	_	_	
+3-9	64-65	.	_	_	_	
+
+#Text=Frontal sinus. 2.
+4-1	66-73	Frontal	_	_	_	
+4-2	74-79	sinus	_	_	_	
+4-3	79-80	.	_	_	_	
+4-4	81-82	2	_	_	_	
+4-5	82-83	.	_	_	_	
+
+#Text=Nasal bone. 3.
+5-1	84-89	Nasal	_	_	_	
+5-2	90-94	bone	_	_	_	
+5-3	94-95	.	_	_	_	
+5-4	96-97	3	_	_	_	
+5-5	97-98	.	_	_	_	
+
+#Text=Olfactory 
+#Text= ganglion and nerves. 4.
+6-1	99-108	Olfactory	_	_	_	
+6-2	111-119	ganglion	_	_	_	
+6-3	120-123	and	_	_	_	
+6-4	124-130	nerves	_	_	_	
+6-5	130-131	.	_	_	_	
+6-6	132-133	4	_	_	_	
+6-7	133-134	.	_	_	_	
+
+#Text=Nasal branch 
+#Text= of the fifth pair. 5.
+7-1	135-140	Nasal	_	_	_	
+7-2	141-147	branch	_	_	_	
+7-3	150-152	of	_	_	_	
+7-4	153-156	the	_	_	_	
+7-5	157-162	fifth	_	_	_	
+7-6	163-167	pair	_	_	_	
+7-7	167-168	.	_	_	_	
+7-8	169-170	5	_	_	_	
+7-9	170-171	.	_	_	_	
+
+#Text=Spheno-palatine ganglion. 
+#Text= 6.
+8-1	172-187	Spheno-palatine	_	_	_	
+8-2	188-196	ganglion	_	_	_	
+8-3	196-197	.	_	_	_	
+8-4	200-201	6	_	_	_	
+8-5	201-202	.	_	_	_	
+
+#Text=Soft palate. 7.
+9-1	203-207	Soft	_	_	_	
+9-2	208-214	palate	_	_	_	
+9-3	214-215	.	_	_	_	
+9-4	216-217	7	_	_	_	
+9-5	217-218	.	_	_	_	
+
+#Text=Hard palate, _a_.
+10-1	219-223	Hard	_	_	_	
+10-2	224-230	palate	_	_	_	
+10-3	230-231	,	_	_	_	
+10-4	232-233	_	_	_	_	
+10-5	233-234	a	_	_	_	
+10-6	234-235	_	_	_	_	
+10-7	235-236	.	_	_	_	
+
+#Text=Cerebrum, _b_.
+11-1	239-247	Cerebrum	_	_	_	
+11-2	247-248	,	_	_	_	
+11-3	249-250	_	_	_	_	
+11-4	250-251	b	_	_	_	
+11-5	251-252	_	_	_	_	
+11-6	252-253	.	_	_	_	
+
+#Text=Anterior lobes, _c_.
+12-1	254-262	Anterior	_	_	_	
+12-2	263-268	lobes	_	_	_	
+12-3	268-269	,	_	_	_	
+12-4	270-271	_	_	_	_	
+12-5	271-272	c	_	_	_	
+12-6	272-273	_	_	_	_	
+12-7	273-274	.	_	_	_	
+
+#Text=Corpus 
+#Text= callosum.
+13-1	275-281	Corpus	_	_	_	
+13-2	284-292	callosum	_	_	_	
+13-3	292-293	.	_	_	_	
+
+#Text=_d_.
+14-1	294-295	_	_	_	_	
+14-2	295-296	d	_	_	_	
+14-3	296-297	_	_	_	_	
+14-4	297-298	.	_	_	_	
+
+#Text=Septum lucidum.
+15-1	299-305	Septum	_	_	_	
+15-2	306-313	lucidum	_	_	_	
+15-3	313-314	.	_	_	_	
+
+#Text=_f_.
+16-1	315-316	_	_	_	_	
+16-2	316-317	f	_	_	_	
+16-3	317-318	_	_	_	_	
+16-4	318-319	.	_	_	_	
+
+#Text=Fornix.
+17-1	320-326	Fornix	_	_	_	
+17-2	326-327	.	_	_	_	
+
+#Text=_g_.
+18-1	330-331	_	_	_	_	
+18-2	331-332	g	_	_	_	
+18-3	332-333	_	_	_	_	
+18-4	333-334	.	_	_	_	
+
+#Text=Thalami optici.
+19-1	335-342	Thalami	_	_	_	
+19-2	343-349	optici	_	_	_	
+19-3	349-350	.	_	_	_	
+
+#Text=_h_.
+20-1	351-352	_	_	_	_	
+20-2	352-353	h	_	_	_	
+20-3	353-354	_	_	_	_	
+20-4	354-355	.	_	_	_	
+
+#Text=Corpora striata.]
+21-1	356-363	Corpora	_	_	_	
+21-2	364-371	striata	_	_	_	
+21-3	371-372	.	_	_	_	
+21-4	372-373	]	_	_	_	
+
+#Text=Next in order of delicacy, and more closely allied with the physical 
+#Text= functions, is the sense of smell.
+22-1	379-383	Next	_	_	_	
+22-2	384-386	in	_	_	_	
+22-3	387-392	order	_	_	_	
+22-4	393-395	of	_	_	_	
+22-5	396-404	delicacy	_	_	_	
+22-6	404-405	,	_	_	_	
+22-7	406-409	and	_	_	_	
+22-8	410-414	more	_	_	_	
+22-9	415-422	closely	_	_	_	
+22-10	423-429	allied	_	_	_	
+22-11	430-434	with	_	_	_	
+22-12	435-438	the	_	_	_	
+22-13	439-447	physical	_	_	_	
+22-14	450-459	functions	_	_	_	
+22-15	459-460	,	_	_	_	
+22-16	461-463	is	_	_	_	
+22-17	464-467	the	_	_	_	
+22-18	468-473	sense	_	_	_	
+22-19	474-476	of	_	_	_	
+22-20	477-482	smell	_	_	_	
+22-21	482-483	.	_	_	_	
+
+#Text=Delicate perfumes, or the fragrance of 
+#Text= a flower, impart an exhilarating sensation of delight, while numerous 
+#Text= odors excite a feeling of disgust.
+23-1	484-492	Delicate	_	_	_	
+23-2	493-501	perfumes	_	_	_	
+23-3	501-502	,	_	_	_	
+23-4	503-505	or	_	_	_	
+23-5	506-509	the	_	_	_	
+23-6	510-519	fragrance	_	_	_	
+23-7	520-522	of	_	_	_	
+23-8	525-526	a	_	_	_	
+23-9	527-533	flower	_	_	_	
+23-10	533-534	,	_	_	_	
+23-11	535-541	impart	_	_	_	
+23-12	542-544	an	_	_	_	
+23-13	545-557	exhilarating	_	_	_	
+23-14	558-567	sensation	_	_	_	
+23-15	568-570	of	_	_	_	
+23-16	571-578	delight	_	_	_	
+23-17	578-579	,	_	_	_	
+23-18	580-585	while	_	_	_	
+23-19	586-594	numerous	_	_	_	
+23-20	597-602	odors	_	_	_	
+23-21	603-609	excite	_	_	_	
+23-22	610-611	a	_	_	_	
+23-23	612-619	feeling	_	_	_	
+23-24	620-622	of	_	_	_	
+23-25	623-630	disgust	Taste Word	_	_	
+23-26	630-631	.	_	_	_	
+
+#Text=The organ of smell is far less 
+#Text= complicated in its structure than the eye or the ear.
+24-1	632-635	The	_	_	_	
+24-2	636-641	organ	_	_	_	
+24-3	642-644	of	_	_	_	
+24-4	645-650	smell	_	_	_	
+24-5	651-653	is	_	_	_	
+24-6	654-657	far	_	_	_	
+24-7	658-662	less	_	_	_	
+24-8	665-676	complicated	_	_	_	
+24-9	677-679	in	_	_	_	
+24-10	680-683	its	_	_	_	
+24-11	684-693	structure	_	_	_	
+24-12	694-698	than	_	_	_	
+24-13	699-702	the	_	_	_	
+24-14	703-706	eye	_	_	_	
+24-15	707-709	or	_	_	_	
+24-16	710-713	the	_	_	_	
+24-17	714-717	ear	_	_	_	
+24-18	717-718	.	_	_	_	
+
+#Text=It consists of two
+#Text=cavities having cartilaginous walls, and lined with a thick mucous coat, 
+#Text= termed the _pituitary membrane_, over which are reflected the olfactory 
+#Text= nerves.
+25-1	719-721	It	_	_	_	
+25-2	722-730	consists	_	_	_	
+25-3	731-733	of	_	_	_	
+25-4	734-737	two	_	_	_	
+25-5	738-746	cavities	_	_	_	
+25-6	747-753	having	_	_	_	
+25-7	754-767	cartilaginous	_	_	_	
+25-8	768-773	walls	_	_	_	
+25-9	773-774	,	_	_	_	
+25-10	775-778	and	_	_	_	
+25-11	779-784	lined	_	_	_	
+25-12	785-789	with	_	_	_	
+25-13	790-791	a	_	_	_	
+25-14	792-797	thick	_	_	_	
+25-15	798-804	mucous	_	_	_	
+25-16	805-809	coat	_	_	_	
+25-17	809-810	,	_	_	_	
+25-18	813-819	termed	_	_	_	
+25-19	820-823	the	_	_	_	
+25-20	824-825	_	_	_	_	
+25-21	825-834	pituitary	_	_	_	
+25-22	835-843	membrane	_	_	_	
+25-23	843-844	_	_	_	_	
+25-24	844-845	,	_	_	_	
+25-25	846-850	over	_	_	_	
+25-26	851-856	which	_	_	_	
+25-27	857-860	are	_	_	_	
+25-28	861-870	reflected	_	_	_	
+25-29	871-874	the	_	_	_	
+25-30	875-884	olfactory	_	_	_	
+25-31	887-893	nerves	_	_	_	
+25-32	893-894	.	_	_	_	
+
+#Text=Particles of matter, too minute to be visible even through the 
+#Text= microscope, are detached from the odorous body and come in contact with 
+#Text= the nerves of smell, which transmit the impressions or impulses thus 
+#Text= received to the brain.
+26-1	895-904	Particles	_	_	_	
+26-2	905-907	of	_	_	_	
+26-3	908-914	matter	_	_	_	
+26-4	914-915	,	_	_	_	
+26-5	916-919	too	_	_	_	
+26-6	920-926	minute	_	_	_	
+26-7	927-929	to	_	_	_	
+26-8	930-932	be	_	_	_	
+26-9	933-940	visible	_	_	_	
+26-10	941-945	even	_	_	_	
+26-11	946-953	through	_	_	_	
+26-12	954-957	the	_	_	_	
+26-13	960-970	microscope	_	_	_	
+26-14	970-971	,	_	_	_	
+26-15	972-975	are	_	_	_	
+26-16	976-984	detached	_	_	_	
+26-17	985-989	from	_	_	_	
+26-18	990-993	the	_	_	_	
+26-19	994-1001	odorous	_	_	_	
+26-20	1002-1006	body	_	_	_	
+26-21	1007-1010	and	_	_	_	
+26-22	1011-1015	come	_	_	_	
+26-23	1016-1018	in	_	_	_	
+26-24	1019-1026	contact	_	_	_	
+26-25	1027-1031	with	_	_	_	
+26-26	1034-1037	the	_	_	_	
+26-27	1038-1044	nerves	_	_	_	
+26-28	1045-1047	of	_	_	_	
+26-29	1048-1053	smell	_	_	_	
+26-30	1053-1054	,	_	_	_	
+26-31	1055-1060	which	_	_	_	
+26-32	1061-1069	transmit	_	_	_	
+26-33	1070-1073	the	_	_	_	
+26-34	1074-1085	impressions	_	_	_	
+26-35	1086-1088	or	_	_	_	
+26-36	1089-1097	impulses	_	_	_	
+26-37	1098-1102	thus	_	_	_	
+26-38	1105-1113	received	_	_	_	
+26-39	1114-1116	to	_	_	_	
+26-40	1117-1120	the	_	_	_	
+26-41	1121-1126	brain	_	_	_	
+26-42	1126-1127	.	_	_	_	
+
+#Text=Fig. 65 shows the distribution of the olfactory 
+#Text= nerves in the nasal passages.
+27-1	1128-1131	Fig	_	_	_	
+27-2	1131-1132	.	_	_	_	
+27-3	1133-1135	65	_	_	_	
+27-4	1136-1141	shows	_	_	_	
+27-5	1142-1145	the	_	_	_	
+27-6	1146-1158	distribution	_	_	_	
+27-7	1159-1161	of	_	_	_	
+27-8	1162-1165	the	_	_	_	
+27-9	1166-1175	olfactory	_	_	_	
+27-10	1178-1184	nerves	_	_	_	
+27-11	1185-1187	in	_	_	_	
+27-12	1188-1191	the	_	_	_	
+27-13	1192-1197	nasal	_	_	_	
+27-14	1198-1206	passages	_	_	_	
+27-15	1206-1207	.	_	_	_	
+
+#Text=The nose is supplied with two kinds of 
+#Text= filaments which are termed respectively nerves of _special_ and nerves 
+#Text= of _general sensation_.
+28-1	1208-1211	The	_	_	_	
+28-2	1212-1216	nose	_	_	_	
+28-3	1217-1219	is	_	_	_	
+28-4	1220-1228	supplied	_	_	_	
+28-5	1229-1233	with	_	_	_	
+28-6	1234-1237	two	_	_	_	
+28-7	1238-1243	kinds	_	_	_	
+28-8	1244-1246	of	_	_	_	
+28-9	1249-1258	filaments	_	_	_	
+28-10	1259-1264	which	_	_	_	
+28-11	1265-1268	are	_	_	_	
+28-12	1269-1275	termed	_	_	_	
+28-13	1276-1288	respectively	_	_	_	
+28-14	1289-1295	nerves	_	_	_	
+28-15	1296-1298	of	_	_	_	
+28-16	1299-1300	_	_	_	_	
+28-17	1300-1307	special	_	_	_	
+28-18	1307-1308	_	_	_	_	
+28-19	1309-1312	and	_	_	_	
+28-20	1313-1319	nerves	_	_	_	
+28-21	1322-1324	of	_	_	_	
+28-22	1325-1326	_	_	_	_	
+28-23	1326-1333	general	_	_	_	
+28-24	1334-1343	sensation	_	_	_	
+28-25	1343-1344	_	_	_	_	
+28-26	1344-1345	.	_	_	_	
+
+#Text=Compared with the lower animals, especially with 
+#Text= those belonging to the carnivorous species, the sense of smell in man is 
+#Text= feeble.
+29-1	1346-1354	Compared	_	_	_	
+29-2	1355-1359	with	_	_	_	
+29-3	1360-1363	the	_	_	_	
+29-4	1364-1369	lower	_	_	_	
+29-5	1370-1377	animals	_	_	_	
+29-6	1377-1378	,	_	_	_	
+29-7	1379-1389	especially	_	_	_	
+29-8	1390-1394	with	_	_	_	
+29-9	1397-1402	those	_	_	_	
+29-10	1403-1412	belonging	_	_	_	
+29-11	1413-1415	to	_	_	_	
+29-12	1416-1419	the	_	_	_	
+29-13	1420-1431	carnivorous	_	_	_	
+29-14	1432-1439	species	_	_	_	
+29-15	1439-1440	,	_	_	_	
+29-16	1441-1444	the	_	_	_	
+29-17	1445-1450	sense	_	_	_	
+29-18	1451-1453	of	_	_	_	
+29-19	1454-1459	smell	_	_	_	
+29-20	1460-1462	in	_	_	_	
+29-21	1463-1466	man	_	_	_	
+29-22	1467-1469	is	_	_	_	
+29-23	1472-1478	feeble	_	_	_	
+29-24	1478-1479	.	_	_	_	
+
+#Text=The sensation of smell is especially connected with the 
+#Text= pleasures and necessities of animal life.
+30-1	1480-1483	The	_	_	_	
+30-2	1484-1493	sensation	_	_	_	
+30-3	1494-1496	of	_	_	_	
+30-4	1497-1502	smell	_	_	_	
+30-5	1503-1505	is	_	_	_	
+30-6	1506-1516	especially	_	_	_	
+30-7	1517-1526	connected	_	_	_	
+30-8	1527-1531	with	_	_	_	
+30-9	1532-1535	the	_	_	_	
+30-10	1538-1547	pleasures	_	_	_	
+30-11	1548-1551	and	_	_	_	
+30-12	1552-1563	necessities	_	_	_	
+30-13	1564-1566	of	_	_	_	
+30-14	1567-1573	animal	_	_	_	
+30-15	1574-1578	life	_	_	_	
+30-16	1578-1579	.	_	_	_	
+
+#Text=TASTE.
+31-1	1588-1593	TASTE	Taste Word	_	_	
+31-2	1593-1594	.	_	_	_	
+
+#Text=The sense of taste is directly connected with the preservation and 
+#Text= nutrition of the body.
+32-1	1603-1606	The	_	_	_	
+32-2	1607-1612	sense	_	_	_	
+32-3	1613-1615	of	_	_	_	
+32-4	1616-1621	taste	Taste Word	_	_	
+32-5	1622-1624	is	_	_	_	
+32-6	1625-1633	directly	_	_	_	
+32-7	1634-1643	connected	_	_	_	
+32-8	1644-1648	with	_	_	_	
+32-9	1649-1652	the	_	_	_	
+32-10	1653-1665	preservation	_	_	_	
+32-11	1666-1669	and	_	_	_	
+32-12	1672-1681	nutrition	_	_	_	
+32-13	1682-1684	of	_	_	_	
+32-14	1685-1688	the	_	_	_	
+32-15	1689-1693	body	_	_	_	
+32-16	1693-1694	.	_	_	_	
+
+#Text=A delicious flavor produces a desire to eat a 
+#Text= savory substance.
+33-1	1695-1696	A	_	_	_	
+33-2	1697-1706	delicious	Quality[1]|Taste Word[2]	*	33-2[1_2]	
+33-3	1707-1713	flavor	Taste Word	*|*	33-2[1_0]|33-9[3_0]	
+33-4	1714-1722	produces	_	_	_	
+33-5	1723-1724	a	_	_	_	
+33-6	1725-1731	desire	_	_	_	
+33-7	1732-1734	to	_	_	_	
+33-8	1735-1738	eat	Taste Word	*	33-9[3_0]	
+33-9	1739-1740	a	Taste Source[3]	_	_	
+33-10	1743-1749	savory	Taste Source[3]|Quality[4]|Taste Word[5]	*|*	33-10[4_5]|33-11[6_5]	
+33-11	1750-1759	substance	Taste Source[3]|Taste Source[6]	_	_	
+33-12	1759-1760	.	Taste Source[3]	_	_	
+
+#Text=Some writers on hygiene have given this sense an
+#Text=instinctive character, by assuming that all articles having an agreeable 
+#Text= taste are suitable for diet.
+34-1	1761-1765	Some	_	_	_	
+34-2	1766-1773	writers	_	_	_	
+34-3	1774-1776	on	_	_	_	
+34-4	1777-1784	hygiene	_	_	_	
+34-5	1785-1789	have	_	_	_	
+34-6	1790-1795	given	_	_	_	
+34-7	1796-1800	this	_	_	_	
+34-8	1801-1806	sense	_	_	_	
+34-9	1807-1809	an	_	_	_	
+34-10	1810-1821	instinctive	_	_	_	
+34-11	1822-1831	character	_	_	_	
+34-12	1831-1832	,	_	_	_	
+34-13	1833-1835	by	_	_	_	
+34-14	1836-1844	assuming	_	_	_	
+34-15	1845-1849	that	_	_	_	
+34-16	1850-1853	all	_	_	_	
+34-17	1854-1862	articles	_	_	_	
+34-18	1863-1869	having	_	_	_	
+34-19	1870-1872	an	_	_	_	
+34-20	1873-1882	agreeable	Quality	_	_	
+34-21	1885-1890	taste	Taste Word	*	34-20	
+34-22	1891-1894	are	_	_	_	
+34-23	1895-1903	suitable	_	_	_	
+34-24	1904-1907	for	_	_	_	
+34-25	1908-1912	diet	_	_	_	
+34-26	1912-1913	.	_	_	_	
+
+#Text=The nerves of taste are distributed over 
+#Text= the surface of the tongue and palate, and their minute extremities 
+#Text= terminate in well developed _papillae_.
+35-1	1914-1917	The	_	_	_	
+35-2	1918-1924	nerves	_	_	_	
+35-3	1925-1927	of	_	_	_	
+35-4	1928-1933	taste	Taste Word	_	_	
+35-5	1934-1937	are	_	_	_	
+35-6	1938-1949	distributed	_	_	_	
+35-7	1950-1954	over	_	_	_	
+35-8	1957-1960	the	_	_	_	
+35-9	1961-1968	surface	_	_	_	
+35-10	1969-1971	of	_	_	_	
+35-11	1972-1975	the	_	_	_	
+35-12	1976-1982	tongue	_	_	_	
+35-13	1983-1986	and	_	_	_	
+35-14	1987-1993	palate	_	_	_	
+35-15	1993-1994	,	_	_	_	
+35-16	1995-1998	and	_	_	_	
+35-17	1999-2004	their	_	_	_	
+35-18	2005-2011	minute	_	_	_	
+35-19	2012-2023	extremities	_	_	_	
+35-20	2026-2035	terminate	_	_	_	
+35-21	2036-2038	in	_	_	_	
+35-22	2039-2043	well	_	_	_	
+35-23	2044-2053	developed	_	_	_	
+35-24	2054-2055	_	_	_	_	
+35-25	2055-2063	papillae	_	_	_	
+35-26	2063-2064	_	_	_	_	
+35-27	2064-2065	.	_	_	_	
+
+#Text=These _papillae_ are divided 
+#Text= into three classes, termed, from their microscopic appearance, 
+#Text= _filiform_, _fungiform_ and _circumvallate_.
+36-1	2066-2071	These	_	_	_	
+36-2	2072-2073	_	_	_	_	
+36-3	2073-2081	papillae	_	_	_	
+36-4	2081-2082	_	_	_	_	
+36-5	2083-2086	are	_	_	_	
+36-6	2087-2094	divided	_	_	_	
+36-7	2097-2101	into	_	_	_	
+36-8	2102-2107	three	_	_	_	
+36-9	2108-2115	classes	_	_	_	
+36-10	2115-2116	,	_	_	_	
+36-11	2117-2123	termed	_	_	_	
+36-12	2123-2124	,	_	_	_	
+36-13	2125-2129	from	_	_	_	
+36-14	2130-2135	their	_	_	_	
+36-15	2136-2147	microscopic	_	_	_	
+36-16	2148-2158	appearance	_	_	_	
+36-17	2158-2159	,	_	_	_	
+36-18	2162-2163	_	_	_	_	
+36-19	2163-2171	filiform	_	_	_	
+36-20	2171-2172	_	_	_	_	
+36-21	2172-2173	,	_	_	_	
+36-22	2174-2175	_	_	_	_	
+36-23	2175-2184	fungiform	_	_	_	
+36-24	2184-2185	_	_	_	_	
+36-25	2186-2189	and	_	_	_	
+36-26	2190-2191	_	_	_	_	
+36-27	2191-2204	circumvallate	_	_	_	
+36-28	2204-2205	_	_	_	_	
+36-29	2205-2206	.	_	_	_	
+
+#Text=The organ of taste is the 
+#Text= mucous membrane which covers the back part of the tongue and the palate.
+37-1	2207-2210	The	_	_	_	
+37-2	2211-2216	organ	_	_	_	
+37-3	2217-2219	of	_	_	_	
+37-4	2220-2225	taste	Taste Word	_	_	
+37-5	2226-2228	is	_	_	_	
+37-6	2229-2232	the	_	_	_	
+37-7	2235-2241	mucous	_	_	_	
+37-8	2242-2250	membrane	_	_	_	
+37-9	2251-2256	which	_	_	_	
+37-10	2257-2263	covers	_	_	_	
+37-11	2264-2267	the	_	_	_	
+37-12	2268-2272	back	_	_	_	
+37-13	2273-2277	part	_	_	_	
+37-14	2278-2280	of	_	_	_	
+37-15	2281-2284	the	_	_	_	
+37-16	2285-2291	tongue	_	_	_	
+37-17	2292-2295	and	_	_	_	
+37-18	2296-2299	the	_	_	_	
+37-19	2300-2306	palate	_	_	_	
+37-20	2306-2307	.	_	_	_	
+
+#Text=The papillae of the tongue are large and distinct, and covered with 
+#Text= separate coats of epithelium.
+38-1	2310-2313	The	_	_	_	
+38-2	2314-2322	papillae	_	_	_	
+38-3	2323-2325	of	_	_	_	
+38-4	2326-2329	the	_	_	_	
+38-5	2330-2336	tongue	_	_	_	
+38-6	2337-2340	are	_	_	_	
+38-7	2341-2346	large	_	_	_	
+38-8	2347-2350	and	_	_	_	
+38-9	2351-2359	distinct	_	_	_	
+38-10	2359-2360	,	_	_	_	
+38-11	2361-2364	and	_	_	_	
+38-12	2365-2372	covered	_	_	_	
+38-13	2373-2377	with	_	_	_	
+38-14	2380-2388	separate	_	_	_	
+38-15	2389-2394	coats	_	_	_	
+38-16	2395-2397	of	_	_	_	
+38-17	2398-2408	epithelium	_	_	_	
+38-18	2408-2409	.	_	_	_	
+
+#Text=The filiform papillae are generally long 
+#Text= and pointed and are found over the entire surface of the tongue.
+39-1	2410-2413	The	_	_	_	
+39-2	2414-2422	filiform	_	_	_	
+39-3	2423-2431	papillae	_	_	_	
+39-4	2432-2435	are	_	_	_	
+39-5	2436-2445	generally	_	_	_	
+39-6	2446-2450	long	_	_	_	
+39-7	2453-2456	and	_	_	_	
+39-8	2457-2464	pointed	_	_	_	
+39-9	2465-2468	and	_	_	_	
+39-10	2469-2472	are	_	_	_	
+39-11	2473-2478	found	_	_	_	
+39-12	2479-2483	over	_	_	_	
+39-13	2484-2487	the	_	_	_	
+39-14	2488-2494	entire	_	_	_	
+39-15	2495-2502	surface	_	_	_	
+39-16	2503-2505	of	_	_	_	
+39-17	2506-2509	the	_	_	_	
+39-18	2510-2516	tongue	_	_	_	
+39-19	2516-2517	.	_	_	_	
+
+#Text=The 
+#Text= fungiform are longer, small at the base and broad at the end.
+40-1	2518-2521	The	_	_	_	
+40-2	2524-2533	fungiform	_	_	_	
+40-3	2534-2537	are	_	_	_	
+40-4	2538-2544	longer	_	_	_	
+40-5	2544-2545	,	_	_	_	
+40-6	2546-2551	small	_	_	_	
+40-7	2552-2554	at	_	_	_	
+40-8	2555-2558	the	_	_	_	
+40-9	2559-2563	base	_	_	_	
+40-10	2564-2567	and	_	_	_	
+40-11	2568-2573	broad	_	_	_	
+40-12	2574-2576	at	_	_	_	
+40-13	2577-2580	the	_	_	_	
+40-14	2581-2584	end	_	_	_	
+40-15	2584-2585	.	_	_	_	
+
+#Text=The 
+#Text= circumvallate are shaped like an inverted V and are found only near the 
+#Text= root of the tongue; the largest of this class of papillae have other 
+#Text= very small papillae upon their surfaces.
+41-1	2586-2589	The	_	_	_	
+41-2	2592-2605	circumvallate	_	_	_	
+41-3	2606-2609	are	_	_	_	
+41-4	2610-2616	shaped	_	_	_	
+41-5	2617-2621	like	_	_	_	
+41-6	2622-2624	an	_	_	_	
+41-7	2625-2633	inverted	_	_	_	
+41-8	2634-2635	V	_	_	_	
+41-9	2636-2639	and	_	_	_	
+41-10	2640-2643	are	_	_	_	
+41-11	2644-2649	found	_	_	_	
+41-12	2650-2654	only	_	_	_	
+41-13	2655-2659	near	_	_	_	
+41-14	2660-2663	the	_	_	_	
+41-15	2666-2670	root	_	_	_	
+41-16	2671-2673	of	_	_	_	
+41-17	2674-2677	the	_	_	_	
+41-18	2678-2684	tongue	_	_	_	
+41-19	2684-2685	;	_	_	_	
+41-20	2686-2689	the	_	_	_	
+41-21	2690-2697	largest	_	_	_	
+41-22	2698-2700	of	_	_	_	
+41-23	2701-2705	this	_	_	_	
+41-24	2706-2711	class	_	_	_	
+41-25	2712-2714	of	_	_	_	
+41-26	2715-2723	papillae	_	_	_	
+41-27	2724-2728	have	_	_	_	
+41-28	2729-2734	other	_	_	_	
+41-29	2737-2741	very	_	_	_	
+41-30	2742-2747	small	_	_	_	
+41-31	2748-2756	papillae	_	_	_	
+41-32	2757-2761	upon	_	_	_	
+41-33	2762-2767	their	_	_	_	
+41-34	2768-2776	surfaces	_	_	_	
+41-35	2776-2777	.	_	_	_	
+
+#Text=It is now pretty satisfactorily 
+#Text= established that the circumvallate, or fungiform papillae are the only 
+#Text= ones concerned in the special sense of taste.
+42-1	2778-2780	It	_	_	_	
+42-2	2781-2783	is	_	_	_	
+42-3	2784-2787	now	_	_	_	
+42-4	2788-2794	pretty	_	_	_	
+42-5	2795-2809	satisfactorily	_	_	_	
+42-6	2812-2823	established	_	_	_	
+42-7	2824-2828	that	_	_	_	
+42-8	2829-2832	the	_	_	_	
+42-9	2833-2846	circumvallate	_	_	_	
+42-10	2846-2847	,	_	_	_	
+42-11	2848-2850	or	_	_	_	
+42-12	2851-2860	fungiform	_	_	_	
+42-13	2861-2869	papillae	_	_	_	
+42-14	2870-2873	are	_	_	_	
+42-15	2874-2877	the	_	_	_	
+42-16	2878-2882	only	_	_	_	
+42-17	2885-2889	ones	_	_	_	
+42-18	2890-2899	concerned	_	_	_	
+42-19	2900-2902	in	_	_	_	
+42-20	2903-2906	the	_	_	_	
+42-21	2907-2914	special	_	_	_	
+42-22	2915-2920	sense	_	_	_	
+42-23	2921-2923	of	_	_	_	
+42-24	2924-2929	taste	Taste Word	_	_	
+42-25	2929-2930	.	_	_	_	
+
+#Text=The conditions necessary to taste are, that the substance be in solution 
+#Text= either by artificial means, or by the action of the saliva; and that it 
+#Text= be brought in contact with the sensitive filaments imbedded in the
+#Text=mucous membrane.
+43-1	2936-2939	The	_	_	_	
+43-2	2940-2950	conditions	_	_	_	
+43-3	2951-2960	necessary	_	_	_	
+43-4	2961-2963	to	_	_	_	
+43-5	2964-2969	taste	Taste Word	*	43-9[7_0]	
+43-6	2970-2973	are	_	_	_	
+43-7	2973-2974	,	_	_	_	
+43-8	2975-2979	that	_	_	_	
+43-9	2980-2983	the	Taste Source[7]	_	_	
+43-10	2984-2993	substance	Taste Source[7]	_	_	
+43-11	2994-2996	be	_	_	_	
+43-12	2997-2999	in	_	_	_	
+43-13	3000-3008	solution	_	_	_	
+43-14	3011-3017	either	_	_	_	
+43-15	3018-3020	by	_	_	_	
+43-16	3021-3031	artificial	_	_	_	
+43-17	3032-3037	means	_	_	_	
+43-18	3037-3038	,	_	_	_	
+43-19	3039-3041	or	_	_	_	
+43-20	3042-3044	by	_	_	_	
+43-21	3045-3048	the	_	_	_	
+43-22	3049-3055	action	_	_	_	
+43-23	3056-3058	of	_	_	_	
+43-24	3059-3062	the	_	_	_	
+43-25	3063-3069	saliva	_	_	_	
+43-26	3069-3070	;	_	_	_	
+43-27	3071-3074	and	_	_	_	
+43-28	3075-3079	that	_	_	_	
+43-29	3080-3082	it	_	_	_	
+43-30	3085-3087	be	_	_	_	
+43-31	3088-3095	brought	_	_	_	
+43-32	3096-3098	in	_	_	_	
+43-33	3099-3106	contact	_	_	_	
+43-34	3107-3111	with	_	_	_	
+43-35	3112-3115	the	_	_	_	
+43-36	3116-3125	sensitive	_	_	_	
+43-37	3126-3135	filaments	_	_	_	
+43-38	3136-3144	imbedded	_	_	_	
+43-39	3145-3147	in	_	_	_	
+43-40	3148-3151	the	_	_	_	
+43-41	3152-3158	mucous	_	_	_	
+43-42	3159-3167	membrane	_	_	_	
+43-43	3167-3168	.	_	_	_	
+
+#Text=The nerves of taste are both _general_ and _special_ in 
+#Text= their functions.
+44-1	3169-3172	The	_	_	_	
+44-2	3173-3179	nerves	_	_	_	
+44-3	3180-3182	of	_	_	_	
+44-4	3183-3188	taste	Taste Word	_	_	
+44-5	3189-3192	are	_	_	_	
+44-6	3193-3197	both	_	_	_	
+44-7	3198-3199	_	_	_	_	
+44-8	3199-3206	general	_	_	_	
+44-9	3206-3207	_	_	_	_	
+44-10	3208-3211	and	_	_	_	
+44-11	3212-3213	_	_	_	_	
+44-12	3213-3220	special	_	_	_	
+44-13	3220-3221	_	_	_	_	
+44-14	3222-3224	in	_	_	_	
+44-15	3227-3232	their	_	_	_	
+44-16	3233-3242	functions	_	_	_	
+44-17	3242-3243	.	_	_	_	
+
+#Text=If the general sensibility of the nerves of taste is 
+#Text= unduly excited, the function of sensibility is lost for some time.
+45-1	3244-3246	If	_	_	_	
+45-2	3247-3250	the	_	_	_	
+45-3	3251-3258	general	_	_	_	
+45-4	3259-3270	sensibility	_	_	_	
+45-5	3271-3273	of	_	_	_	
+45-6	3274-3277	the	_	_	_	
+45-7	3278-3284	nerves	_	_	_	
+45-8	3285-3287	of	_	_	_	
+45-9	3288-3293	taste	Taste Word	_	_	
+45-10	3294-3296	is	_	_	_	
+45-11	3299-3305	unduly	_	_	_	
+45-12	3306-3313	excited	_	_	_	
+45-13	3313-3314	,	_	_	_	
+45-14	3315-3318	the	_	_	_	
+45-15	3319-3327	function	_	_	_	
+45-16	3328-3330	of	_	_	_	
+45-17	3331-3342	sensibility	_	_	_	
+45-18	3343-3345	is	_	_	_	
+45-19	3346-3350	lost	_	_	_	
+45-20	3351-3354	for	_	_	_	
+45-21	3355-3359	some	_	_	_	
+45-22	3360-3364	time	_	_	_	
+45-23	3364-3365	.	_	_	_	
+
+#Text=If a 
+#Text= peppermint lozenge is taken into the mouth, it strongly excites the 
+#Text= general sensibilities of taste, and the power of distinguishing between 
+#Text= special flavors is lost for a few moments.
+46-1	3366-3368	If	_	_	_	
+46-2	3369-3370	a	_	_	_	
+46-3	3373-3383	peppermint	Taste Source	_	_	
+46-4	3384-3391	lozenge	_	_	_	
+46-5	3392-3394	is	_	_	_	
+46-6	3395-3400	taken	_	_	_	
+46-7	3401-3405	into	Taster[8]	_	_	
+46-8	3406-3409	the	Taster[8]	_	_	
+46-9	3410-3415	mouth	Taster[8]	_	_	
+46-10	3415-3416	,	_	_	_	
+46-11	3417-3419	it	_	_	_	
+46-12	3420-3428	strongly	Quality	_	_	
+46-13	3429-3436	excites	_	_	_	
+46-14	3437-3440	the	_	_	_	
+46-15	3443-3450	general	_	_	_	
+46-16	3451-3464	sensibilities	_	_	_	
+46-17	3465-3467	of	_	_	_	
+46-18	3468-3473	taste	Taste Word	*|*|*	46-12|46-3|46-7[8_0]	
+46-19	3473-3474	,	_	_	_	
+46-20	3475-3478	and	_	_	_	
+46-21	3479-3482	the	_	_	_	
+46-22	3483-3488	power	_	_	_	
+46-23	3489-3491	of	_	_	_	
+46-24	3492-3506	distinguishing	_	_	_	
+46-25	3507-3514	between	_	_	_	
+46-26	3517-3524	special	Quality	_	_	
+46-27	3525-3532	flavors	Taste Word	*	46-26	
+46-28	3533-3535	is	_	_	_	
+46-29	3536-3540	lost	_	_	_	
+46-30	3541-3544	for	_	_	_	
+46-31	3545-3546	a	_	_	_	
+46-32	3547-3550	few	_	_	_	
+46-33	3551-3558	moments	_	_	_	
+46-34	3558-3559	.	_	_	_	
+
+#Text=A nauseous drug may then be 
+#Text= swallowed without experiencing any disagreeable taste.
+47-1	3560-3561	A	Taste Source[9]	_	_	
+47-2	3562-3570	nauseous	Taste Source[9]	_	_	
+47-3	3571-3575	drug	Taste Source[9]	_	_	
+47-4	3576-3579	may	_	_	_	
+47-5	3580-3584	then	_	_	_	
+47-6	3585-3587	be	_	_	_	
+47-7	3590-3599	swallowed	_	_	_	
+47-8	3600-3607	without	_	_	_	
+47-9	3608-3620	experiencing	_	_	_	
+47-10	3621-3624	any	_	_	_	
+47-11	3625-3637	disagreeable	Quality	_	_	
+47-12	3638-3643	taste	Taste Word	*|*	47-11|47-1[9_0]	
+47-13	3643-3644	.	_	_	_	
+
+#Text=Paralysis of the facial nerve often produces a marked effect in the 
+#Text= sensibility of the tongue.
+48-1	3650-3659	Paralysis	_	_	_	
+48-2	3660-3662	of	_	_	_	
+48-3	3663-3666	the	_	_	_	
+48-4	3667-3673	facial	_	_	_	
+48-5	3674-3679	nerve	_	_	_	
+48-6	3680-3685	often	_	_	_	
+48-7	3686-3694	produces	_	_	_	
+48-8	3695-3696	a	_	_	_	
+48-9	3697-3703	marked	_	_	_	
+48-10	3704-3710	effect	_	_	_	
+48-11	3711-3713	in	_	_	_	
+48-12	3714-3717	the	_	_	_	
+48-13	3720-3731	sensibility	_	_	_	
+48-14	3732-3734	of	_	_	_	
+48-15	3735-3738	the	_	_	_	
+48-16	3739-3745	tongue	_	_	_	
+48-17	3745-3746	.	_	_	_	
+
+#Text=Where this influence lies has not been fully 
+#Text= explained; probably it is indirect, being produced by some alteration in 
+#Text= the vascularity of the parts or a diminution of the salivary secretions.
+49-1	3747-3752	Where	_	_	_	
+49-2	3753-3757	this	_	_	_	
+49-3	3758-3767	influence	_	_	_	
+49-4	3768-3772	lies	_	_	_	
+49-5	3773-3776	has	_	_	_	
+49-6	3777-3780	not	_	_	_	
+49-7	3781-3785	been	_	_	_	
+49-8	3786-3791	fully	_	_	_	
+49-9	3794-3803	explained	_	_	_	
+49-10	3803-3804	;	_	_	_	
+49-11	3805-3813	probably	_	_	_	
+49-12	3814-3816	it	_	_	_	
+49-13	3817-3819	is	_	_	_	
+49-14	3820-3828	indirect	_	_	_	
+49-15	3828-3829	,	_	_	_	
+49-16	3830-3835	being	_	_	_	
+49-17	3836-3844	produced	_	_	_	
+49-18	3845-3847	by	_	_	_	
+49-19	3848-3852	some	_	_	_	
+49-20	3853-3863	alteration	_	_	_	
+49-21	3864-3866	in	_	_	_	
+49-22	3869-3872	the	_	_	_	
+49-23	3873-3884	vascularity	_	_	_	
+49-24	3885-3887	of	_	_	_	
+49-25	3888-3891	the	_	_	_	
+49-26	3892-3897	parts	_	_	_	
+49-27	3898-3900	or	_	_	_	
+49-28	3901-3902	a	_	_	_	
+49-29	3903-3913	diminution	_	_	_	
+49-30	3914-3916	of	_	_	_	
+49-31	3917-3920	the	_	_	_	
+49-32	3921-3929	salivary	_	_	_	
+49-33	3930-3940	secretions	_	_	_	
+49-34	3940-3941	.	_	_	_	
+
+#Text=TOUCH.
+50-1	3950-3955	TOUCH	_	_	_	
+50-2	3955-3956	.	_	_	_	
+
+#Text=By the sense of touch, we mean the _general sensibility of the skin_.
+51-1	3965-3967	By	_	_	_	
+51-2	3968-3971	the	_	_	_	
+51-3	3972-3977	sense	_	_	_	
+51-4	3978-3980	of	_	_	_	
+51-5	3981-3986	touch	_	_	_	
+51-6	3986-3987	,	_	_	_	
+51-7	3988-3990	we	_	_	_	
+51-8	3991-3995	mean	_	_	_	
+51-9	3996-3999	the	_	_	_	
+51-10	4000-4001	_	_	_	_	
+51-11	4001-4008	general	_	_	_	
+51-12	4009-4020	sensibility	_	_	_	
+51-13	4021-4023	of	_	_	_	
+51-14	4024-4027	the	_	_	_	
+51-15	4028-4032	skin	_	_	_	
+51-16	4032-4033	_	_	_	_	
+51-17	4033-4034	.	_	_	_	
+
+#Text=Sensations of heat and cold are familiar illustrations of this faculty.
+52-1	4037-4047	Sensations	_	_	_	
+52-2	4048-4050	of	_	_	_	
+52-3	4051-4055	heat	_	_	_	
+52-4	4056-4059	and	_	_	_	
+52-5	4060-4064	cold	_	_	_	
+52-6	4065-4068	are	_	_	_	
+52-7	4069-4077	familiar	_	_	_	
+52-8	4078-4091	illustrations	_	_	_	
+52-9	4092-4094	of	_	_	_	
+52-10	4095-4099	this	_	_	_	
+52-11	4100-4107	faculty	_	_	_	
+52-12	4107-4108	.	_	_	_	
+
+#Text=By the sense of touch, we obtain a knowledge of certain qualities of a
+#Text=the mouth with secretions, and a story with unsavory associations may 
+#Text= completely turn the stomach.
+53-1	4111-4113	By	_	_	_	
+53-2	4114-4117	the	_	_	_	
+53-3	4118-4123	sense	_	_	_	
+53-4	4124-4126	of	_	_	_	
+53-5	4127-4132	touch	_	_	_	
+53-6	4132-4133	,	_	_	_	
+53-7	4134-4136	we	_	_	_	
+53-8	4137-4143	obtain	_	_	_	
+53-9	4144-4145	a	_	_	_	
+53-10	4146-4155	knowledge	_	_	_	
+53-11	4156-4158	of	_	_	_	
+53-12	4159-4166	certain	_	_	_	
+53-13	4167-4176	qualities	_	_	_	
+53-14	4177-4179	of	_	_	_	
+53-15	4180-4181	a	_	_	_	
+53-16	4182-4185	the	_	_	_	
+53-17	4186-4191	mouth	_	_	_	
+53-18	4192-4196	with	_	_	_	
+53-19	4197-4207	secretions	_	_	_	
+53-20	4207-4208	,	_	_	_	
+53-21	4209-4212	and	_	_	_	
+53-22	4213-4214	a	_	_	_	
+53-23	4215-4220	story	_	_	_	
+53-24	4221-4225	with	_	_	_	
+53-25	4226-4234	unsavory	Quality[10]|Taste Word[11]	*	53-25[10_11]	
+53-26	4235-4247	associations	_	_	_	
+53-27	4248-4251	may	_	_	_	
+53-28	4254-4264	completely	_	_	_	
+53-29	4265-4269	turn	_	_	_	
+53-30	4270-4273	the	_	_	_	
+53-31	4274-4281	stomach	_	_	_	
+53-32	4281-4282	.	_	_	_	
+
+#Text=The relationship of mental and physical functions may be illustrated by 
+#Text= entirely removing the spleen of an animal, as that of a dog.
+54-1	4288-4291	The	_	_	_	
+54-2	4292-4304	relationship	_	_	_	
+54-3	4305-4307	of	_	_	_	
+54-4	4308-4314	mental	_	_	_	
+54-5	4315-4318	and	_	_	_	
+54-6	4319-4327	physical	_	_	_	
+54-7	4328-4337	functions	_	_	_	
+54-8	4338-4341	may	_	_	_	
+54-9	4342-4344	be	_	_	_	
+54-10	4345-4356	illustrated	_	_	_	
+54-11	4357-4359	by	_	_	_	
+54-12	4362-4370	entirely	_	_	_	
+54-13	4371-4379	removing	_	_	_	
+54-14	4380-4383	the	_	_	_	
+54-15	4384-4390	spleen	_	_	_	
+54-16	4391-4393	of	_	_	_	
+54-17	4394-4396	an	_	_	_	
+54-18	4397-4403	animal	_	_	_	
+54-19	4403-4404	,	_	_	_	
+54-20	4405-4407	as	_	_	_	
+54-21	4408-4412	that	_	_	_	
+54-22	4413-4415	of	_	_	_	
+54-23	4416-4417	a	_	_	_	
+54-24	4418-4421	dog	_	_	_	
+54-25	4421-4422	.	_	_	_	
+
+#Text=An 
+#Text= invariable result of its extirpation is an unusual increase of the 
+#Text= appetite, for at times the animal will eat voraciously any kind of food.
+55-1	4423-4425	An	_	_	_	
+55-2	4428-4438	invariable	_	_	_	
+55-3	4439-4445	result	_	_	_	
+55-4	4446-4448	of	_	_	_	
+55-5	4449-4452	its	_	_	_	
+55-6	4453-4464	extirpation	_	_	_	
+55-7	4465-4467	is	_	_	_	
+55-8	4468-4470	an	_	_	_	
+55-9	4471-4478	unusual	_	_	_	
+55-10	4479-4487	increase	_	_	_	
+55-11	4488-4490	of	_	_	_	
+55-12	4491-4494	the	_	_	_	
+55-13	4497-4505	appetite	_	_	_	
+55-14	4505-4506	,	_	_	_	
+55-15	4507-4510	for	_	_	_	
+55-16	4511-4513	at	_	_	_	
+55-17	4514-4519	times	_	_	_	
+55-18	4520-4523	the	Taster[12]	_	_	
+55-19	4524-4530	animal	Taster[12]	_	_	
+55-20	4531-4535	will	_	_	_	
+55-21	4536-4539	eat	Taste Word	*|*|*	55-18[12_0]|55-22|55-23[13_0]	
+55-22	4540-4551	voraciously	Quality	_	_	
+55-23	4552-4555	any	Taste Source[13]	_	_	
+55-24	4556-4560	kind	Taste Source[13]	_	_	
+55-25	4561-4563	of	Taste Source[13]	_	_	
+55-26	4564-4568	food	Taste Source[13]	_	_	
+55-27	4568-4569	.	_	_	_	
+
+#Text=The dog will devour, with avidity, the warm entrails of recently killed 
+#Text= animals, and thrive in consequence of such an appetite.
+56-1	4572-4575	The	_	_	_	
+56-2	4576-4579	dog	_	_	_	
+56-3	4580-4584	will	_	_	_	
+56-4	4585-4591	devour	_	_	_	
+56-5	4591-4592	,	_	_	_	
+56-6	4593-4597	with	_	_	_	
+56-7	4598-4605	avidity	_	_	_	
+56-8	4605-4606	,	_	_	_	
+56-9	4607-4610	the	_	_	_	
+56-10	4611-4615	warm	_	_	_	
+56-11	4616-4624	entrails	_	_	_	
+56-12	4625-4627	of	_	_	_	
+56-13	4628-4636	recently	_	_	_	
+56-14	4637-4643	killed	_	_	_	
+56-15	4646-4653	animals	_	_	_	
+56-16	4653-4654	,	_	_	_	
+56-17	4655-4658	and	_	_	_	
+56-18	4659-4665	thrive	_	_	_	
+56-19	4666-4668	in	_	_	_	
+56-20	4669-4680	consequence	_	_	_	
+56-21	4681-4683	of	_	_	_	
+56-22	4684-4688	such	_	_	_	
+56-23	4689-4691	an	_	_	_	
+56-24	4692-4700	appetite	_	_	_	
+56-25	4700-4701	.	_	_	_	
+
+#Text=Another symptom, 
+#Text= which usually follows the removal of the spleen, is an unnatural 
+#Text= ferocity of disposition.
+57-1	4702-4709	Another	_	_	_	
+57-2	4710-4717	symptom	_	_	_	
+57-3	4717-4718	,	_	_	_	
+57-4	4721-4726	which	_	_	_	
+57-5	4727-4734	usually	_	_	_	
+57-6	4735-4742	follows	_	_	_	
+57-7	4743-4746	the	_	_	_	
+57-8	4747-4754	removal	_	_	_	
+57-9	4755-4757	of	_	_	_	
+57-10	4758-4761	the	_	_	_	
+57-11	4762-4768	spleen	_	_	_	
+57-12	4768-4769	,	_	_	_	
+57-13	4770-4772	is	_	_	_	
+57-14	4773-4775	an	_	_	_	
+57-15	4776-4785	unnatural	_	_	_	
+57-16	4788-4796	ferocity	_	_	_	
+57-17	4797-4799	of	_	_	_	
+57-18	4800-4811	disposition	_	_	_	
+57-19	4811-4812	.	_	_	_	
+
+#Text=Without any apparent provocation, the animal 
+#Text= will attack others of its own, or of a different species.
+58-1	4813-4820	Without	_	_	_	
+58-2	4821-4824	any	_	_	_	
+58-3	4825-4833	apparent	_	_	_	
+58-4	4834-4845	provocation	_	_	_	
+58-5	4845-4846	,	_	_	_	
+58-6	4847-4850	the	_	_	_	
+58-7	4851-4857	animal	_	_	_	
+58-8	4860-4864	will	_	_	_	
+58-9	4865-4871	attack	_	_	_	
+58-10	4872-4878	others	_	_	_	
+58-11	4879-4881	of	_	_	_	
+58-12	4882-4885	its	_	_	_	
+58-13	4886-4889	own	_	_	_	
+58-14	4889-4890	,	_	_	_	
+58-15	4891-4893	or	_	_	_	
+58-16	4894-4896	of	_	_	_	
+58-17	4897-4898	a	_	_	_	
+58-18	4899-4908	different	_	_	_	
+58-19	4909-4916	species	_	_	_	
+58-20	4916-4917	.	_	_	_	
+
+#Text=In some 
+#Text= instances, these outbursts of irritability and violence are only 
+#Text= occasional, but the experiments show quite conclusively that the spleen 
+#Text= moderates combativeness, restrains the appetite, and co-operates with 
+#Text= the will and judgment in controlling them.
+59-1	4918-4920	In	_	_	_	
+59-2	4921-4925	some	_	_	_	
+59-3	4928-4937	instances	_	_	_	
+59-4	4937-4938	,	_	_	_	
+59-5	4939-4944	these	_	_	_	
+59-6	4945-4954	outbursts	_	_	_	
+59-7	4955-4957	of	_	_	_	
+59-8	4958-4970	irritability	_	_	_	
+59-9	4971-4974	and	_	_	_	
+59-10	4975-4983	violence	_	_	_	
+59-11	4984-4987	are	_	_	_	
+59-12	4988-4992	only	_	_	_	
+59-13	4995-5005	occasional	_	_	_	
+59-14	5005-5006	,	_	_	_	
+59-15	5007-5010	but	_	_	_	
+59-16	5011-5014	the	_	_	_	
+59-17	5015-5026	experiments	_	_	_	
+59-18	5027-5031	show	_	_	_	
+59-19	5032-5037	quite	_	_	_	
+59-20	5038-5050	conclusively	_	_	_	
+59-21	5051-5055	that	_	_	_	
+59-22	5056-5059	the	_	_	_	
+59-23	5060-5066	spleen	_	_	_	
+59-24	5069-5078	moderates	_	_	_	
+59-25	5079-5092	combativeness	_	_	_	
+59-26	5092-5093	,	_	_	_	
+59-27	5094-5103	restrains	_	_	_	
+59-28	5104-5107	the	_	_	_	
+59-29	5108-5116	appetite	_	_	_	
+59-30	5116-5117	,	_	_	_	
+59-31	5118-5121	and	_	_	_	
+59-32	5122-5133	co-operates	_	_	_	
+59-33	5134-5138	with	_	_	_	
+59-34	5141-5144	the	_	_	_	
+59-35	5145-5149	will	_	_	_	
+59-36	5150-5153	and	_	_	_	
+59-37	5154-5162	judgment	_	_	_	
+59-38	5163-5165	in	_	_	_	
+59-39	5166-5177	controlling	_	_	_	
+59-40	5178-5182	them	_	_	_	
+59-41	5182-5183	.	_	_	_	
+
+#Text=We shall briefly consider the practical question whether the elements of 
+#Text= mind can be ideally arranged and presented, so as to more completely 
+#Text= reveal their relations to, and disclose their effects upon the bodily
+#Text=source of recklessness, quarrels, frauds, falsehoods, robberies, and 
+#Text= homicides.
+60-1	5189-5191	We	_	_	_	
+60-2	5192-5197	shall	_	_	_	
+60-3	5198-5205	briefly	_	_	_	
+60-4	5206-5214	consider	_	_	_	
+60-5	5215-5218	the	_	_	_	
+60-6	5219-5228	practical	_	_	_	
+60-7	5229-5237	question	_	_	_	
+60-8	5238-5245	whether	_	_	_	
+60-9	5246-5249	the	_	_	_	
+60-10	5250-5258	elements	_	_	_	
+60-11	5259-5261	of	_	_	_	
+60-12	5264-5268	mind	_	_	_	
+60-13	5269-5272	can	_	_	_	
+60-14	5273-5275	be	_	_	_	
+60-15	5276-5283	ideally	_	_	_	
+60-16	5284-5292	arranged	_	_	_	
+60-17	5293-5296	and	_	_	_	
+60-18	5297-5306	presented	_	_	_	
+60-19	5306-5307	,	_	_	_	
+60-20	5308-5310	so	_	_	_	
+60-21	5311-5313	as	_	_	_	
+60-22	5314-5316	to	_	_	_	
+60-23	5317-5321	more	_	_	_	
+60-24	5322-5332	completely	_	_	_	
+60-25	5335-5341	reveal	_	_	_	
+60-26	5342-5347	their	_	_	_	
+60-27	5348-5357	relations	_	_	_	
+60-28	5358-5360	to	_	_	_	
+60-29	5360-5361	,	_	_	_	
+60-30	5362-5365	and	_	_	_	
+60-31	5366-5374	disclose	_	_	_	
+60-32	5375-5380	their	_	_	_	
+60-33	5381-5388	effects	_	_	_	
+60-34	5389-5393	upon	_	_	_	
+60-35	5394-5397	the	_	_	_	
+60-36	5398-5404	bodily	_	_	_	
+60-37	5405-5411	source	_	_	_	
+60-38	5412-5414	of	_	_	_	
+60-39	5415-5427	recklessness	_	_	_	
+60-40	5427-5428	,	_	_	_	
+60-41	5429-5437	quarrels	_	_	_	
+60-42	5437-5438	,	_	_	_	
+60-43	5439-5445	frauds	_	_	_	
+60-44	5445-5446	,	_	_	_	
+60-45	5447-5457	falsehoods	_	_	_	
+60-46	5457-5458	,	_	_	_	
+60-47	5459-5468	robberies	_	_	_	
+60-48	5468-5469	,	_	_	_	
+60-49	5470-5473	and	_	_	_	
+60-50	5476-5485	homicides	_	_	_	
+60-51	5485-5486	.	_	_	_	
+
+#Text=They are unlike instinct, inasmuch as they are not 
+#Text= self-limiting.
+61-1	5487-5491	They	_	_	_	
+61-2	5492-5495	are	_	_	_	
+61-3	5496-5502	unlike	_	_	_	
+61-4	5503-5511	instinct	_	_	_	
+61-5	5511-5512	,	_	_	_	
+61-6	5513-5521	inasmuch	_	_	_	
+61-7	5522-5524	as	_	_	_	
+61-8	5525-5529	they	_	_	_	
+61-9	5530-5533	are	_	_	_	
+61-10	5534-5537	not	_	_	_	
+61-11	5540-5553	self-limiting	_	_	_	
+61-12	5553-5554	.	_	_	_	
+
+#Text=The intimate relation which they sustain to the stomach 
+#Text= and nutritive functions is strikingly displayed in the habit of 
+#Text= alcoholic intoxication.
+62-1	5555-5558	The	_	_	_	
+62-2	5559-5567	intimate	_	_	_	
+62-3	5568-5576	relation	_	_	_	
+62-4	5577-5582	which	_	_	_	
+62-5	5583-5587	they	_	_	_	
+62-6	5588-5595	sustain	_	_	_	
+62-7	5596-5598	to	_	_	_	
+62-8	5599-5602	the	_	_	_	
+62-9	5603-5610	stomach	_	_	_	
+62-10	5613-5616	and	_	_	_	
+62-11	5617-5626	nutritive	_	_	_	
+62-12	5627-5636	functions	_	_	_	
+62-13	5637-5639	is	_	_	_	
+62-14	5640-5650	strikingly	_	_	_	
+62-15	5651-5660	displayed	_	_	_	
+62-16	5661-5663	in	_	_	_	
+62-17	5664-5667	the	_	_	_	
+62-18	5668-5673	habit	_	_	_	
+62-19	5674-5676	of	_	_	_	
+62-20	5679-5688	alcoholic	_	_	_	
+62-21	5689-5701	intoxication	_	_	_	
+62-22	5701-5702	.	_	_	_	
+
+#Text=Spirituous drinks deprave the appetite, derange 
+#Text= and destroy the stomach, poison the blood, and pervert all the functions 
+#Text= of mind and body; and their injurious influence upon the nerves and 
+#Text= basilar faculties is equally remarkable.
+63-1	5703-5713	Spirituous	_	_	_	
+63-2	5714-5720	drinks	_	_	_	
+63-3	5721-5728	deprave	_	_	_	
+63-4	5729-5732	the	_	_	_	
+63-5	5733-5741	appetite	_	_	_	
+63-6	5741-5742	,	_	_	_	
+63-7	5743-5750	derange	_	_	_	
+63-8	5753-5756	and	_	_	_	
+63-9	5757-5764	destroy	_	_	_	
+63-10	5765-5768	the	_	_	_	
+63-11	5769-5776	stomach	_	_	_	
+63-12	5776-5777	,	_	_	_	
+63-13	5778-5784	poison	_	_	_	
+63-14	5785-5788	the	_	_	_	
+63-15	5789-5794	blood	_	_	_	
+63-16	5794-5795	,	_	_	_	
+63-17	5796-5799	and	_	_	_	
+63-18	5800-5807	pervert	_	_	_	
+63-19	5808-5811	all	_	_	_	
+63-20	5812-5815	the	_	_	_	
+63-21	5816-5825	functions	_	_	_	
+63-22	5828-5830	of	_	_	_	
+63-23	5831-5835	mind	_	_	_	
+63-24	5836-5839	and	_	_	_	
+63-25	5840-5844	body	_	_	_	
+63-26	5844-5845	;	_	_	_	
+63-27	5846-5849	and	_	_	_	
+63-28	5850-5855	their	_	_	_	
+63-29	5856-5865	injurious	_	_	_	
+63-30	5866-5875	influence	_	_	_	
+63-31	5876-5880	upon	_	_	_	
+63-32	5881-5884	the	_	_	_	
+63-33	5885-5891	nerves	_	_	_	
+63-34	5892-5895	and	_	_	_	
+63-35	5898-5905	basilar	_	_	_	
+63-36	5906-5915	faculties	_	_	_	
+63-37	5916-5918	is	_	_	_	
+63-38	5919-5926	equally	_	_	_	
+63-39	5927-5937	remarkable	_	_	_	
+63-40	5937-5938	.	_	_	_	
+
+#Text=They excite combativeness, 
+#Text= selfishness, irritability, and exaggerate the influence of the animal 
+#Text= organs.
+64-1	5939-5943	They	_	_	_	
+64-2	5944-5950	excite	_	_	_	
+64-3	5951-5964	combativeness	_	_	_	
+64-4	5964-5965	,	_	_	_	
+64-5	5968-5979	selfishness	_	_	_	
+64-6	5979-5980	,	_	_	_	
+64-7	5981-5993	irritability	_	_	_	
+64-8	5993-5994	,	_	_	_	
+64-9	5995-5998	and	_	_	_	
+64-10	5999-6009	exaggerate	_	_	_	
+64-11	6010-6013	the	_	_	_	
+64-12	6014-6023	influence	_	_	_	
+64-13	6024-6026	of	_	_	_	
+64-14	6027-6030	the	_	_	_	
+64-15	6031-6037	animal	_	_	_	
+64-16	6040-6046	organs	_	_	_	
+64-17	6046-6047	.	_	_	_	
+
+#Text=Intemperance results in disputes, fights, brawls, and 
+#Text= murders--the legitimate consequences of which are misunderstandings, 
+#Text= suits at law, criminal proceedings, imprisonment, and the gallows.
+65-1	6048-6060	Intemperance	_	_	_	
+65-2	6061-6068	results	_	_	_	
+65-3	6069-6071	in	_	_	_	
+65-4	6072-6080	disputes	_	_	_	
+65-5	6080-6081	,	_	_	_	
+65-6	6082-6088	fights	_	_	_	
+65-7	6088-6089	,	_	_	_	
+65-8	6090-6096	brawls	_	_	_	
+65-9	6096-6097	,	_	_	_	
+65-10	6098-6101	and	_	_	_	
+65-11	6104-6111	murders	_	_	_	
+65-12	6111-6112	-	_	_	_	
+65-13	6112-6113	-	_	_	_	
+65-14	6113-6116	the	_	_	_	
+65-15	6117-6127	legitimate	_	_	_	
+65-16	6128-6140	consequences	_	_	_	
+65-17	6141-6143	of	_	_	_	
+65-18	6144-6149	which	_	_	_	
+65-19	6150-6153	are	_	_	_	
+65-20	6154-6171	misunderstandings	_	_	_	
+65-21	6171-6172	,	_	_	_	
+65-22	6175-6180	suits	_	_	_	
+65-23	6181-6183	at	_	_	_	
+65-24	6184-6187	law	_	_	_	
+65-25	6187-6188	,	_	_	_	
+65-26	6189-6197	criminal	_	_	_	
+65-27	6198-6209	proceedings	_	_	_	
+65-28	6209-6210	,	_	_	_	
+65-29	6211-6223	imprisonment	_	_	_	
+65-30	6223-6224	,	_	_	_	
+65-31	6225-6228	and	_	_	_	
+65-32	6229-6232	the	_	_	_	
+65-33	6233-6240	gallows	_	_	_	
+65-34	6240-6241	.	_	_	_	
+
+#Text=It 
+#Text= is, therefore, evident that the ultimate tendencies of these faculties 
+#Text= are tyrannical, cruel, violent, and atrocious.
+66-1	6242-6244	It	_	_	_	
+66-2	6247-6249	is	_	_	_	
+66-3	6249-6250	,	_	_	_	
+66-4	6251-6260	therefore	_	_	_	
+66-5	6260-6261	,	_	_	_	
+66-6	6262-6269	evident	_	_	_	
+66-7	6270-6274	that	_	_	_	
+66-8	6275-6278	the	_	_	_	
+66-9	6279-6287	ultimate	_	_	_	
+66-10	6288-6298	tendencies	_	_	_	
+66-11	6299-6301	of	_	_	_	
+66-12	6302-6307	these	_	_	_	
+66-13	6308-6317	faculties	_	_	_	
+66-14	6320-6323	are	_	_	_	
+66-15	6324-6334	tyrannical	_	_	_	
+66-16	6334-6335	,	_	_	_	
+66-17	6336-6341	cruel	_	_	_	
+66-18	6341-6342	,	_	_	_	
+66-19	6343-6350	violent	_	_	_	
+66-20	6350-6351	,	_	_	_	
+66-21	6352-6355	and	_	_	_	
+66-22	6356-6365	atrocious	_	_	_	
+66-23	6365-6366	.	_	_	_	
+
+#Text=They are opposed to the 
+#Text= noble, moral faculties--Faith, Love, and Devotion--and, whenever 
+#Text= temptation inordinately allures, the course of life is likely to be 
+#Text= characterized by dishonorable, deceptive, and treacherous conduct.
+67-1	6367-6371	They	_	_	_	
+67-2	6372-6375	are	_	_	_	
+67-3	6376-6383	opposed	_	_	_	
+67-4	6384-6386	to	_	_	_	
+67-5	6387-6390	the	_	_	_	
+67-6	6393-6398	noble	_	_	_	
+67-7	6398-6399	,	_	_	_	
+67-8	6400-6405	moral	_	_	_	
+67-9	6406-6415	faculties	_	_	_	
+67-10	6415-6416	-	_	_	_	
+67-11	6416-6417	-	_	_	_	
+67-12	6417-6422	Faith	_	_	_	
+67-13	6422-6423	,	_	_	_	
+67-14	6424-6428	Love	_	_	_	
+67-15	6428-6429	,	_	_	_	
+67-16	6430-6433	and	_	_	_	
+67-17	6434-6442	Devotion	_	_	_	
+67-18	6442-6443	-	_	_	_	
+67-19	6443-6444	-	_	_	_	
+67-20	6444-6447	and	_	_	_	
+67-21	6447-6448	,	_	_	_	
+67-22	6449-6457	whenever	_	_	_	
+67-23	6460-6470	temptation	_	_	_	
+67-24	6471-6483	inordinately	_	_	_	
+67-25	6484-6491	allures	_	_	_	
+67-26	6491-6492	,	_	_	_	
+67-27	6493-6496	the	_	_	_	
+67-28	6497-6503	course	_	_	_	
+67-29	6504-6506	of	_	_	_	
+67-30	6507-6511	life	_	_	_	
+67-31	6512-6514	is	_	_	_	
+67-32	6515-6521	likely	_	_	_	
+67-33	6522-6524	to	_	_	_	
+67-34	6525-6527	be	_	_	_	
+67-35	6530-6543	characterized	_	_	_	
+67-36	6544-6546	by	_	_	_	
+67-37	6547-6559	dishonorable	_	_	_	
+67-38	6559-6560	,	_	_	_	
+67-39	6561-6570	deceptive	_	_	_	
+67-40	6570-6571	,	_	_	_	
+67-41	6572-6575	and	_	_	_	
+67-42	6576-6587	treacherous	_	_	_	
+67-43	6588-6595	conduct	_	_	_	
+67-44	6595-6596	.	_	_	_	
+
+#Text=The pangs of hunger cause soldiers to act more like ravenous beasts, 
+#Text= than rational beings.
+68-1	6602-6605	The	_	_	_	
+68-2	6606-6611	pangs	_	_	_	
+68-3	6612-6614	of	_	_	_	
+68-4	6615-6621	hunger	_	_	_	
+68-5	6622-6627	cause	_	_	_	
+68-6	6628-6636	soldiers	_	_	_	
+68-7	6637-6639	to	_	_	_	
+68-8	6640-6643	act	_	_	_	
+68-9	6644-6648	more	_	_	_	
+68-10	6649-6653	like	_	_	_	
+68-11	6654-6662	ravenous	_	_	_	
+68-12	6663-6669	beasts	_	_	_	
+68-13	6669-6670	,	_	_	_	
+68-14	6673-6677	than	_	_	_	
+68-15	6678-6686	rational	_	_	_	
+68-16	6687-6693	beings	_	_	_	
+68-17	6693-6694	.	_	_	_	
+
+#Text=It is animal instinct which impels the soldier to
+#Text=seek first for the gratification of his appetite.
+69-1	6695-6697	It	_	_	_	
+69-2	6698-6700	is	_	_	_	
+69-3	6701-6707	animal	_	_	_	
+69-4	6708-6716	instinct	_	_	_	
+69-5	6717-6722	which	_	_	_	
+69-6	6723-6729	impels	_	_	_	
+69-7	6730-6733	the	_	_	_	
+69-8	6734-6741	soldier	_	_	_	
+69-9	6742-6744	to	_	_	_	
+69-10	6745-6749	seek	_	_	_	
+69-11	6750-6755	first	_	_	_	
+69-12	6756-6759	for	_	_	_	
+69-13	6760-6763	the	_	_	_	
+69-14	6764-6777	gratification	_	_	_	
+69-15	6778-6780	of	_	_	_	
+69-16	6781-6784	his	_	_	_	
+69-17	6785-6793	appetite	_	_	_	
+69-18	6793-6794	.	_	_	_	
+
+#Text=Some persons, 
+#Text= instigated by carnivorous desires, yearn for raw meat, and will not be 
+#Text= satisfied unless their food is flavored with the flesh of animals.
+70-1	6795-6799	Some	_	_	_	
+70-2	6800-6807	persons	_	_	_	
+70-3	6807-6808	,	_	_	_	
+70-4	6811-6821	instigated	_	_	_	
+70-5	6822-6824	by	_	_	_	
+70-6	6825-6836	carnivorous	_	_	_	
+70-7	6837-6844	desires	_	_	_	
+70-8	6844-6845	,	_	_	_	
+70-9	6846-6851	yearn	_	_	_	
+70-10	6852-6855	for	_	_	_	
+70-11	6856-6859	raw	_	_	_	
+70-12	6860-6864	meat	_	_	_	
+70-13	6864-6865	,	_	_	_	
+70-14	6866-6869	and	_	_	_	
+70-15	6870-6874	will	_	_	_	
+70-16	6875-6878	not	_	_	_	
+70-17	6879-6881	be	_	_	_	
+70-18	6884-6893	satisfied	_	_	_	
+70-19	6894-6900	unless	_	_	_	
+70-20	6901-6906	their	Taste Source[14]	_	_	
+70-21	6907-6911	food	Taste Source[14]	_	_	
+70-22	6912-6914	is	_	_	_	
+70-23	6915-6923	flavored	Taste Word[15]|Quality[16]	*|*|*	70-23[16_15]|70-20[14_15]|70-24[17_15]	
+70-24	6924-6928	with	Taste Modifier[17]	_	_	
+70-25	6929-6932	the	Taste Modifier[17]	_	_	
+70-26	6933-6938	flesh	Taste Modifier[17]	_	_	
+70-27	6939-6941	of	Taste Modifier[17]	_	_	
+70-28	6942-6949	animals	Taste Modifier[17]	_	_	
+70-29	6949-6950	.	_	_	_	
+
+#Text=Their 
+#Text= bodies increase and thrive, even to repletion.
+71-1	6951-6956	Their	_	_	_	
+71-2	6959-6965	bodies	_	_	_	
+71-3	6966-6974	increase	_	_	_	
+71-4	6975-6978	and	_	_	_	
+71-5	6979-6985	thrive	_	_	_	
+71-6	6985-6986	,	_	_	_	
+71-7	6987-6991	even	_	_	_	
+71-8	6992-6994	to	_	_	_	
+71-9	6995-7004	repletion	_	_	_	
+71-10	7004-7005	.	_	_	_	
+
+#Text=Contrast these 
+#Text= individuals with pale, lean, anæmic people, who crave innutritious 
+#Text= articles of diet, and eat soft stones, slate, chalk, blue clay, and soft 
+#Text= coal.
+72-1	7006-7014	Contrast	_	_	_	
+72-2	7015-7020	these	_	_	_	
+72-3	7023-7034	individuals	_	_	_	
+72-4	7035-7039	with	_	_	_	
+72-5	7040-7044	pale	_	_	_	
+72-6	7044-7045	,	_	_	_	
+72-7	7046-7050	lean	_	_	_	
+72-8	7050-7051	,	_	_	_	
+72-9	7052-7058	anæmic	Taster[18]	_	_	
+72-10	7059-7065	people	Taster[18]	_	_	
+72-11	7065-7066	,	_	_	_	
+72-12	7067-7070	who	_	_	_	
+72-13	7071-7076	crave	_	_	_	
+72-14	7077-7089	innutritious	_	_	_	
+72-15	7092-7100	articles	_	_	_	
+72-16	7101-7103	of	_	_	_	
+72-17	7104-7108	diet	_	_	_	
+72-18	7108-7109	,	_	_	_	
+72-19	7110-7113	and	_	_	_	
+72-20	7114-7117	eat	Taste Word	*|*|*|*|*|*	72-9[18_0]|72-21[19_0]|72-32[21_0]|72-28[20_0]|72-26|72-24	
+72-21	7118-7122	soft	Taste Source[19]	_	_	
+72-22	7123-7129	stones	Taste Source[19]	_	_	
+72-23	7129-7130	,	_	_	_	
+72-24	7131-7136	slate	Taste Source	_	_	
+72-25	7136-7137	,	_	_	_	
+72-26	7138-7143	chalk	Taste Source	_	_	
+72-27	7143-7144	,	_	_	_	
+72-28	7145-7149	blue	Taste Source[20]	_	_	
+72-29	7150-7154	clay	Taste Source[20]	_	_	
+72-30	7154-7155	,	_	_	_	
+72-31	7156-7159	and	_	_	_	
+72-32	7160-7164	soft	Taste Source[21]	_	_	
+72-33	7167-7171	coal	Taste Source[21]	_	_	
+72-34	7171-7172	.	_	_	_	
+
+#Text=Such perversions of the appetite are manifested only when there is 
+#Text= either a diminution in the volume of blood, deficient alimentation, 
+#Text= defective assimilation, or a general depravity of the nutritive 
+#Text= functions.
+73-1	7173-7177	Such	_	_	_	
+73-2	7178-7189	perversions	_	_	_	
+73-3	7190-7192	of	_	_	_	
+73-4	7193-7196	the	_	_	_	
+73-5	7197-7205	appetite	_	_	_	
+73-6	7206-7209	are	_	_	_	
+73-7	7210-7220	manifested	_	_	_	
+73-8	7221-7225	only	_	_	_	
+73-9	7226-7230	when	_	_	_	
+73-10	7231-7236	there	_	_	_	
+73-11	7237-7239	is	_	_	_	
+73-12	7242-7248	either	_	_	_	
+73-13	7249-7250	a	_	_	_	
+73-14	7251-7261	diminution	_	_	_	
+73-15	7262-7264	in	_	_	_	
+73-16	7265-7268	the	_	_	_	
+73-17	7269-7275	volume	_	_	_	
+73-18	7276-7278	of	_	_	_	
+73-19	7279-7284	blood	_	_	_	
+73-20	7284-7285	,	_	_	_	
+73-21	7286-7295	deficient	_	_	_	
+73-22	7296-7308	alimentation	_	_	_	
+73-23	7308-7309	,	_	_	_	
+73-24	7312-7321	defective	_	_	_	
+73-25	7322-7334	assimilation	_	_	_	
+73-26	7334-7335	,	_	_	_	
+73-27	7336-7338	or	_	_	_	
+73-28	7339-7340	a	_	_	_	
+73-29	7341-7348	general	_	_	_	
+73-30	7349-7358	depravity	_	_	_	
+73-31	7359-7361	of	_	_	_	
+73-32	7362-7365	the	_	_	_	
+73-33	7366-7375	nutritive	_	_	_	
+73-34	7378-7387	functions	_	_	_	
+73-35	7387-7388	.	_	_	_	
+
+#Text=Morbid conditions generate vitiating tendencies and destroy 
+#Text= the natural appetite.
+74-1	7389-7395	Morbid	_	_	_	
+74-2	7396-7406	conditions	_	_	_	
+74-3	7407-7415	generate	_	_	_	
+74-4	7416-7425	vitiating	_	_	_	
+74-5	7426-7436	tendencies	_	_	_	
+74-6	7437-7440	and	_	_	_	
+74-7	7441-7448	destroy	_	_	_	
+74-8	7451-7454	the	_	_	_	
+74-9	7455-7462	natural	_	_	_	
+74-10	7463-7471	appetite	_	_	_	
+74-11	7471-7472	.	_	_	_	
+
+#Text=While alcoholic stimulants affect the medulla oblongata principally, 
+#Text= opium acts chiefly on the cerebrum, and excites reverie, dreamy 
+#Text= ideality, optical delusions, and the creative powers of the imagination; 
+#Text= some of these hallucinations are said to be grotesquely beautiful and 
+#Text= enjoyable.
+75-1	7478-7483	While	_	_	_	
+75-2	7484-7493	alcoholic	_	_	_	
+75-3	7494-7504	stimulants	_	_	_	
+75-4	7505-7511	affect	_	_	_	
+75-5	7512-7515	the	_	_	_	
+75-6	7516-7523	medulla	_	_	_	
+75-7	7524-7533	oblongata	_	_	_	
+75-8	7534-7545	principally	_	_	_	
+75-9	7545-7546	,	_	_	_	
+75-10	7549-7554	opium	_	_	_	
+75-11	7555-7559	acts	_	_	_	
+75-12	7560-7567	chiefly	_	_	_	
+75-13	7568-7570	on	_	_	_	
+75-14	7571-7574	the	_	_	_	
+75-15	7575-7583	cerebrum	_	_	_	
+75-16	7583-7584	,	_	_	_	
+75-17	7585-7588	and	_	_	_	
+75-18	7589-7596	excites	_	_	_	
+75-19	7597-7604	reverie	_	_	_	
+75-20	7604-7605	,	_	_	_	
+75-21	7606-7612	dreamy	_	_	_	
+75-22	7615-7623	ideality	_	_	_	
+75-23	7623-7624	,	_	_	_	
+75-24	7625-7632	optical	_	_	_	
+75-25	7633-7642	delusions	_	_	_	
+75-26	7642-7643	,	_	_	_	
+75-27	7644-7647	and	_	_	_	
+75-28	7648-7651	the	_	_	_	
+75-29	7652-7660	creative	_	_	_	
+75-30	7661-7667	powers	_	_	_	
+75-31	7668-7670	of	_	_	_	
+75-32	7671-7674	the	_	_	_	
+75-33	7675-7686	imagination	_	_	_	
+75-34	7686-7687	;	_	_	_	
+75-35	7690-7694	some	_	_	_	
+75-36	7695-7697	of	_	_	_	
+75-37	7698-7703	these	_	_	_	
+75-38	7704-7718	hallucinations	_	_	_	
+75-39	7719-7722	are	_	_	_	
+75-40	7723-7727	said	_	_	_	
+75-41	7728-7730	to	_	_	_	
+75-42	7731-7733	be	_	_	_	
+75-43	7734-7745	grotesquely	_	_	_	
+75-44	7746-7755	beautiful	_	_	_	
+75-45	7756-7759	and	_	_	_	
+75-46	7762-7771	enjoyable	_	_	_	
+75-47	7771-7772	.	_	_	_	
+
+#Text=The effects of this agent differ from those of alcoholic 
+#Text= intoxication by not deadening the moral sensibilities, or arousing the 
+#Text= animal propensities.
+76-1	7773-7776	The	_	_	_	
+76-2	7777-7784	effects	_	_	_	
+76-3	7785-7787	of	_	_	_	
+76-4	7788-7792	this	_	_	_	
+76-5	7793-7798	agent	_	_	_	
+76-6	7799-7805	differ	_	_	_	
+76-7	7806-7810	from	_	_	_	
+76-8	7811-7816	those	_	_	_	
+76-9	7817-7819	of	_	_	_	
+76-10	7820-7829	alcoholic	_	_	_	
+76-11	7832-7844	intoxication	_	_	_	
+76-12	7845-7847	by	_	_	_	
+76-13	7848-7851	not	_	_	_	
+76-14	7852-7861	deadening	_	_	_	
+76-15	7862-7865	the	_	_	_	
+76-16	7866-7871	moral	_	_	_	
+76-17	7872-7885	sensibilities	_	_	_	
+76-18	7885-7886	,	_	_	_	
+76-19	7887-7889	or	_	_	_	
+76-20	7890-7898	arousing	_	_	_	
+76-21	7899-7902	the	_	_	_	
+76-22	7905-7911	animal	_	_	_	
+76-23	7912-7924	propensities	_	_	_	
+76-24	7924-7925	.	_	_	_	
+
+#Text=Opium smokers are dreamy and abstracted, not 
+#Text= quarrelsome or violent.
+77-1	7926-7931	Opium	_	_	_	
+77-2	7932-7939	smokers	_	_	_	
+77-3	7940-7943	are	_	_	_	
+77-4	7944-7950	dreamy	_	_	_	
+77-5	7951-7954	and	_	_	_	
+77-6	7955-7965	abstracted	_	_	_	
+77-7	7965-7966	,	_	_	_	
+77-8	7967-7970	not	_	_	_	
+77-9	7973-7984	quarrelsome	_	_	_	
+77-10	7985-7987	or	_	_	_	
+77-11	7988-7995	violent	_	_	_	
+77-12	7995-7996	.	_	_	_	
+
+#Text=Those who use ardent spirits lose their moral
+#Text=delicacy, their intellect becomes dull, the reason cloudy, and the 
+#Text= judgment is overruled by appetite.
+78-1	7997-8002	Those	_	_	_	
+78-2	8003-8006	who	_	_	_	
+78-3	8007-8010	use	_	_	_	
+78-4	8011-8017	ardent	_	_	_	
+78-5	8018-8025	spirits	_	_	_	
+78-6	8026-8030	lose	_	_	_	
+78-7	8031-8036	their	_	_	_	
+78-8	8037-8042	moral	_	_	_	
+78-9	8043-8051	delicacy	_	_	_	
+78-10	8051-8052	,	_	_	_	
+78-11	8053-8058	their	_	_	_	
+78-12	8059-8068	intellect	_	_	_	
+78-13	8069-8076	becomes	_	_	_	
+78-14	8077-8081	dull	_	_	_	
+78-15	8081-8082	,	_	_	_	
+78-16	8083-8086	the	_	_	_	
+78-17	8087-8093	reason	_	_	_	
+78-18	8094-8100	cloudy	_	_	_	
+78-19	8100-8101	,	_	_	_	
+78-20	8102-8105	and	_	_	_	
+78-21	8106-8109	the	_	_	_	
+78-22	8112-8120	judgment	_	_	_	
+78-23	8121-8123	is	_	_	_	
+78-24	8124-8133	overruled	_	_	_	
+78-25	8134-8136	by	_	_	_	
+78-26	8137-8145	appetite	_	_	_	
+78-27	8145-8146	.	_	_	_	
+
+#Text=It is conceded that the _trophic 
+#Text= center_ is principally in the medulla oblongata; the cerebellum and 
+#Text= lower cerebral ganglia, however, favorably influence the nutritive 
+#Text= functions, and, when these organs are large and active, a plethoric 
+#Text= condition is the natural consequence.
+79-1	8147-8149	It	_	_	_	
+79-2	8150-8152	is	_	_	_	
+79-3	8153-8161	conceded	_	_	_	
+79-4	8162-8166	that	_	_	_	
+79-5	8167-8170	the	_	_	_	
+79-6	8171-8172	_	_	_	_	
+79-7	8172-8179	trophic	_	_	_	
+79-8	8182-8188	center	_	_	_	
+79-9	8188-8189	_	_	_	_	
+79-10	8190-8192	is	_	_	_	
+79-11	8193-8204	principally	_	_	_	
+79-12	8205-8207	in	_	_	_	
+79-13	8208-8211	the	_	_	_	
+79-14	8212-8219	medulla	_	_	_	
+79-15	8220-8229	oblongata	_	_	_	
+79-16	8229-8230	;	_	_	_	
+79-17	8231-8234	the	_	_	_	
+79-18	8235-8245	cerebellum	_	_	_	
+79-19	8246-8249	and	_	_	_	
+79-20	8252-8257	lower	_	_	_	
+79-21	8258-8266	cerebral	_	_	_	
+79-22	8267-8274	ganglia	_	_	_	
+79-23	8274-8275	,	_	_	_	
+79-24	8276-8283	however	_	_	_	
+79-25	8283-8284	,	_	_	_	
+79-26	8285-8294	favorably	_	_	_	
+79-27	8295-8304	influence	_	_	_	
+79-28	8305-8308	the	_	_	_	
+79-29	8309-8318	nutritive	_	_	_	
+79-30	8321-8330	functions	_	_	_	
+79-31	8330-8331	,	_	_	_	
+79-32	8332-8335	and	_	_	_	
+79-33	8335-8336	,	_	_	_	
+79-34	8337-8341	when	_	_	_	
+79-35	8342-8347	these	_	_	_	
+79-36	8348-8354	organs	_	_	_	
+79-37	8355-8358	are	_	_	_	
+79-38	8359-8364	large	_	_	_	
+79-39	8365-8368	and	_	_	_	
+79-40	8369-8375	active	_	_	_	
+79-41	8375-8376	,	_	_	_	
+79-42	8377-8378	a	_	_	_	
+79-43	8379-8388	plethoric	_	_	_	
+79-44	8391-8400	condition	_	_	_	
+79-45	8401-8403	is	_	_	_	
+79-46	8404-8407	the	_	_	_	
+79-47	8408-8415	natural	_	_	_	
+79-48	8416-8427	consequence	_	_	_	
+79-49	8427-8428	.	_	_	_	
+
+#Text=Redundancy of blood in the body 
+#Text= indicates preponderance of the basilar organs.
+80-1	8429-8439	Redundancy	_	_	_	
+80-2	8440-8442	of	_	_	_	
+80-3	8443-8448	blood	_	_	_	
+80-4	8449-8451	in	_	_	_	
+80-5	8452-8455	the	_	_	_	
+80-6	8456-8460	body	_	_	_	
+80-7	8463-8472	indicates	_	_	_	
+80-8	8473-8486	preponderance	_	_	_	
+80-9	8487-8489	of	_	_	_	
+80-10	8490-8493	the	_	_	_	
+80-11	8494-8501	basilar	_	_	_	
+80-12	8502-8508	organs	_	_	_	
+80-13	8508-8509	.	_	_	_	
+
+#Text=These faculties being 
+#Text= vehement in character, an excess of animal characteristics produces 
+#Text= those conditions which result in acute and inflammatory diseases.
+81-1	8510-8515	These	_	_	_	
+81-2	8516-8525	faculties	_	_	_	
+81-3	8526-8531	being	_	_	_	
+81-4	8534-8542	vehement	_	_	_	
+81-5	8543-8545	in	_	_	_	
+81-6	8546-8555	character	_	_	_	
+81-7	8555-8556	,	_	_	_	
+81-8	8557-8559	an	_	_	_	
+81-9	8560-8566	excess	_	_	_	
+81-10	8567-8569	of	_	_	_	
+81-11	8570-8576	animal	_	_	_	
+81-12	8577-8592	characteristics	_	_	_	
+81-13	8593-8601	produces	_	_	_	
+81-14	8604-8609	those	_	_	_	
+81-15	8610-8620	conditions	_	_	_	
+81-16	8621-8626	which	_	_	_	
+81-17	8627-8633	result	_	_	_	
+81-18	8634-8636	in	_	_	_	
+81-19	8637-8642	acute	_	_	_	
+81-20	8643-8646	and	_	_	_	
+81-21	8647-8659	inflammatory	_	_	_	
+81-22	8660-8668	diseases	_	_	_	
+81-23	8668-8669	.	_	_	_	
+
+#Text=We may 
+#Text= express these conditions of the system as follows: 
+#Text=  
+#Text= The _Animal Faculties_ correspond to the lower instinctive 
+#Text= manifestations
+82-1	8670-8672	We	_	_	_	
+82-2	8673-8676	may	_	_	_	
+82-3	8679-8686	express	_	_	_	
+82-4	8687-8692	these	_	_	_	
+82-5	8693-8703	conditions	_	_	_	
+82-6	8704-8706	of	_	_	_	
+82-7	8707-8710	the	_	_	_	
+82-8	8711-8717	system	_	_	_	
+82-9	8718-8720	as	_	_	_	
+82-10	8721-8728	follows	_	_	_	
+82-11	8728-8729	:	_	_	_	
+82-12	8735-8738	The	_	_	_	
+82-13	8739-8740	_	_	_	_	
+82-14	8740-8746	Animal	_	_	_	
+82-15	8747-8756	Faculties	_	_	_	
+82-16	8756-8757	_	_	_	_	
+82-17	8758-8768	correspond	_	_	_	
+82-18	8769-8771	to	_	_	_	
+82-19	8772-8775	the	_	_	_	
+82-20	8776-8781	lower	_	_	_	
+82-21	8782-8793	instinctive	_	_	_	
+82-22	8796-8810	manifestations	_	_	_	
+
+#Text=.
+83-1	8810-8811	.	_	_	_	
+
+#Text=/ ACQUISITIVENESS, 
+#Text= The elements of character are { SELFISHNESS, 
+#Text= \\ COMBATIVENESS 
+#Text=  
+#Text= They tend to                  / TURBULENCE, 
+#Text= \\ CRIME.
+84-1	8817-8818	/	_	_	_	
+84-2	8819-8834	ACQUISITIVENESS	_	_	_	
+84-3	8834-8835	,	_	_	_	
+84-4	8838-8841	The	_	_	_	
+84-5	8842-8850	elements	_	_	_	
+84-6	8851-8853	of	_	_	_	
+84-7	8854-8863	character	_	_	_	
+84-8	8864-8867	are	_	_	_	
+84-9	8868-8869	{	_	_	_	
+84-10	8870-8881	SELFISHNESS	_	_	_	
+84-11	8881-8882	,	_	_	_	
+84-12	8885-8886	\	_	_	_	
+84-13	8887-8900	COMBATIVENESS	_	_	_	
+84-14	8906-8910	They	_	_	_	
+84-15	8911-8915	tend	_	_	_	
+84-16	8916-8918	to	_	_	_	
+84-17	8936-8937	/	_	_	_	
+84-18	8938-8948	TURBULENCE	_	_	_	
+84-19	8948-8949	,	_	_	_	
+84-20	8952-8953	\	_	_	_	
+84-21	8954-8959	CRIME	_	_	_	
+84-22	8959-8960	.	_	_	_	
+
+#Text=SOUPS.
+85-1	8961-8966	SOUPS	_	_	_	
+85-2	8966-8967	.	_	_	_	
+
+#Text=The nutritious properties, tone, and sweetness of soup depend in 
+#Text= the first place upon the freshness and quality of the meat; secondly on 
+#Text= the manner in which it is boiled.
+86-1	8968-8971	The	_	_	_	
+86-2	8972-8982	nutritious	_	_	_	
+86-3	8983-8993	properties	_	_	_	
+86-4	8993-8994	,	_	_	_	
+86-5	8995-8999	tone	_	_	_	
+86-6	8999-9000	,	_	_	_	
+86-7	9001-9004	and	_	_	_	
+86-8	9005-9014	sweetness	Taste Word[22]|Quality[23]	*|*|*	86-8[23_22]|86-9[24_22]|86-22[25_22]	
+86-9	9015-9017	of	Taste Carrier[24]	_	_	
+86-10	9018-9022	soup	Taste Carrier[24]	_	_	
+86-11	9023-9029	depend	_	_	_	
+86-12	9030-9032	in	_	_	_	
+86-13	9035-9038	the	_	_	_	
+86-14	9039-9044	first	_	_	_	
+86-15	9045-9050	place	_	_	_	
+86-16	9051-9055	upon	_	_	_	
+86-17	9056-9059	the	_	_	_	
+86-18	9060-9069	freshness	_	_	_	
+86-19	9070-9073	and	_	_	_	
+86-20	9074-9081	quality	_	_	_	
+86-21	9082-9084	of	_	_	_	
+86-22	9085-9088	the	Taste Source[25]	_	_	
+86-23	9089-9093	meat	Taste Source[25]	_	_	
+86-24	9093-9094	;	_	_	_	
+86-25	9095-9103	secondly	_	_	_	
+86-26	9104-9106	on	_	_	_	
+86-27	9109-9112	the	_	_	_	
+86-28	9113-9119	manner	_	_	_	
+86-29	9120-9122	in	_	_	_	
+86-30	9123-9128	which	_	_	_	
+86-31	9129-9131	it	_	_	_	
+86-32	9132-9134	is	_	_	_	
+86-33	9135-9141	boiled	_	_	_	
+86-34	9141-9142	.	_	_	_	
+
+#Text=Soups should be nicely and delicately 
+#Text= seasoned, according to the taste of the consumer, by using parsley, 
+#Text= sage, savory, thyme, sweet marjoram, sweet basil, or any of the 
+#Text= vegetable condiments.
+87-1	9143-9148	Soups	Taste Source	_	_	
+87-2	9149-9155	should	_	_	_	
+87-3	9156-9158	be	_	_	_	
+87-4	9159-9165	nicely	Quality	_	_	
+87-5	9166-9169	and	_	_	_	
+87-6	9170-9180	delicately	Quality	_	_	
+87-7	9183-9191	seasoned	Taste Word[26]|Quality[27]	*|*|*|*|*|*|*|*|*|*|*	87-7[27_26]|87-6[0_26]|87-4[0_26]|87-1[0_26]|87-17[29_26]|87-23[0_26]|87-25[0_26]|87-27[30_26]|87-30[34_26]|87-34[38_26]|87-21[0_26]	
+87-8	9191-9192	,	_	_	_	
+87-9	9193-9202	according	_	_	_	
+87-10	9203-9205	to	_	_	_	
+87-11	9206-9209	the	_	_	_	
+87-12	9210-9215	taste	Taste Word	*	87-13[28_0]	
+87-13	9216-9218	of	Taster[28]	_	_	
+87-14	9219-9222	the	Taster[28]	_	_	
+87-15	9223-9231	consumer	Taster[28]	_	_	
+87-16	9231-9232	,	_	_	_	
+87-17	9233-9235	by	Taste Modifier[29]	_	_	
+87-18	9236-9241	using	Taste Modifier[29]	_	_	
+87-19	9242-9249	parsley	Taste Modifier[29]	_	_	
+87-20	9249-9250	,	_	_	_	
+87-21	9253-9257	sage	Taste Modifier	_	_	
+87-22	9257-9258	,	_	_	_	
+87-23	9259-9265	savory	Taste Modifier	_	_	
+87-24	9265-9266	,	_	_	_	
+87-25	9267-9272	thyme	Taste Modifier	_	_	
+87-26	9272-9273	,	_	_	_	
+87-27	9274-9279	sweet	Taste Modifier[30]|Taste Word[31]|Quality[32]	*|*	87-28[33_31]|87-27[32_31]	
+87-28	9280-9288	marjoram	Taste Modifier[30]|Taste Source[33]	_	_	
+87-29	9288-9289	,	_	_	_	
+87-30	9290-9295	sweet	Taste Modifier[34]|Taste Word[35]|Quality[36]	*|*	87-30[36_35]|87-31[37_35]	
+87-31	9296-9301	basil	Taste Modifier[34]|Taste Source[37]	_	_	
+87-32	9301-9302	,	_	_	_	
+87-33	9303-9305	or	_	_	_	
+87-34	9306-9309	any	Taste Modifier[38]	_	_	
+87-35	9310-9312	of	Taste Modifier[38]	_	_	
+87-36	9313-9316	the	Taste Modifier[38]	_	_	
+87-37	9319-9328	vegetable	Taste Modifier[38]	_	_	
+87-38	9329-9339	condiments	Taste Modifier[38]	_	_	
+87-39	9339-9340	.	_	_	_	
+
+#Text=These may be raised in the garden, or obtained at 
+#Text= the drug stores, sifted and prepared for use.
+88-1	9341-9346	These	_	_	_	
+88-2	9347-9350	may	_	_	_	
+88-3	9351-9353	be	_	_	_	
+88-4	9354-9360	raised	_	_	_	
+88-5	9361-9363	in	_	_	_	
+88-6	9364-9367	the	_	_	_	
+88-7	9368-9374	garden	_	_	_	
+88-8	9374-9375	,	_	_	_	
+88-9	9376-9378	or	_	_	_	
+88-10	9379-9387	obtained	_	_	_	
+88-11	9388-9390	at	_	_	_	
+88-12	9393-9396	the	_	_	_	
+88-13	9397-9401	drug	_	_	_	
+88-14	9402-9408	stores	_	_	_	
+88-15	9408-9409	,	_	_	_	
+88-16	9410-9416	sifted	_	_	_	
+88-17	9417-9420	and	_	_	_	
+88-18	9421-9429	prepared	_	_	_	
+88-19	9430-9433	for	_	_	_	
+88-20	9434-9437	use	_	_	_	
+88-21	9437-9438	.	_	_	_	
+
+#Text=In extracting the juices 
+#Text= of meats, in order that soups may be most nutritious, it is important 
+#Text= that the meat be put into _cold_ water, or that which is not so hot as 
+#Text= to coagulate the albumen (which would prevent it from being extracted), 
+#Text= and then, by slow heat and a simmering process, the most nutritious 
+#Text= properties will be brought out.
+89-1	9439-9441	In	_	_	_	
+89-2	9442-9452	extracting	_	_	_	
+89-3	9453-9456	the	_	_	_	
+89-4	9457-9463	juices	_	_	_	
+89-5	9466-9468	of	_	_	_	
+89-6	9469-9474	meats	_	_	_	
+89-7	9474-9475	,	_	_	_	
+89-8	9476-9478	in	_	_	_	
+89-9	9479-9484	order	_	_	_	
+89-10	9485-9489	that	_	_	_	
+89-11	9490-9495	soups	_	_	_	
+89-12	9496-9499	may	_	_	_	
+89-13	9500-9502	be	_	_	_	
+89-14	9503-9507	most	_	_	_	
+89-15	9508-9518	nutritious	_	_	_	
+89-16	9518-9519	,	_	_	_	
+89-17	9520-9522	it	_	_	_	
+89-18	9523-9525	is	_	_	_	
+89-19	9526-9535	important	_	_	_	
+89-20	9538-9542	that	_	_	_	
+89-21	9543-9546	the	_	_	_	
+89-22	9547-9551	meat	_	_	_	
+89-23	9552-9554	be	_	_	_	
+89-24	9555-9558	put	_	_	_	
+89-25	9559-9563	into	_	_	_	
+89-26	9564-9565	_	_	_	_	
+89-27	9565-9569	cold	_	_	_	
+89-28	9569-9570	_	_	_	_	
+89-29	9571-9576	water	_	_	_	
+89-30	9576-9577	,	_	_	_	
+89-31	9578-9580	or	_	_	_	
+89-32	9581-9585	that	_	_	_	
+89-33	9586-9591	which	_	_	_	
+89-34	9592-9594	is	_	_	_	
+89-35	9595-9598	not	_	_	_	
+89-36	9599-9601	so	_	_	_	
+89-37	9602-9605	hot	_	_	_	
+89-38	9606-9608	as	_	_	_	
+89-39	9611-9613	to	_	_	_	
+89-40	9614-9623	coagulate	_	_	_	
+89-41	9624-9627	the	_	_	_	
+89-42	9628-9635	albumen	_	_	_	
+89-43	9636-9637	(	_	_	_	
+89-44	9637-9642	which	_	_	_	
+89-45	9643-9648	would	_	_	_	
+89-46	9649-9656	prevent	_	_	_	
+89-47	9657-9659	it	_	_	_	
+89-48	9660-9664	from	_	_	_	
+89-49	9665-9670	being	_	_	_	
+89-50	9671-9680	extracted	_	_	_	
+89-51	9680-9681	)	_	_	_	
+89-52	9681-9682	,	_	_	_	
+89-53	9685-9688	and	_	_	_	
+89-54	9689-9693	then	_	_	_	
+89-55	9693-9694	,	_	_	_	
+89-56	9695-9697	by	_	_	_	
+89-57	9698-9702	slow	_	_	_	
+89-58	9703-9707	heat	_	_	_	
+89-59	9708-9711	and	_	_	_	
+89-60	9712-9713	a	_	_	_	
+89-61	9714-9723	simmering	_	_	_	
+89-62	9724-9731	process	_	_	_	
+89-63	9731-9732	,	_	_	_	
+89-64	9733-9736	the	_	_	_	
+89-65	9737-9741	most	_	_	_	
+89-66	9742-9752	nutritious	_	_	_	
+89-67	9755-9765	properties	_	_	_	
+89-68	9766-9770	will	_	_	_	
+89-69	9771-9773	be	_	_	_	
+89-70	9774-9781	brought	_	_	_	
+89-71	9782-9785	out	_	_	_	
+89-72	9785-9786	.	_	_	_	
+
+#Text=BEEF SOUP may be made of any bone of the beef, by putting it into cold 
+#Text= water, adding a little salt, and skimming it well just before it boils.
+90-1	9792-9796	BEEF	_	_	_	
+90-2	9797-9801	SOUP	_	_	_	
+90-3	9802-9805	may	_	_	_	
+90-4	9806-9808	be	_	_	_	
+90-5	9809-9813	made	_	_	_	
+90-6	9814-9816	of	_	_	_	
+90-7	9817-9820	any	_	_	_	
+90-8	9821-9825	bone	_	_	_	
+90-9	9826-9828	of	_	_	_	
+90-10	9829-9832	the	_	_	_	
+90-11	9833-9837	beef	_	_	_	
+90-12	9837-9838	,	_	_	_	
+90-13	9839-9841	by	_	_	_	
+90-14	9842-9849	putting	_	_	_	
+90-15	9850-9852	it	_	_	_	
+90-16	9853-9857	into	_	_	_	
+90-17	9858-9862	cold	_	_	_	
+90-18	9865-9870	water	_	_	_	
+90-19	9870-9871	,	_	_	_	
+90-20	9872-9878	adding	_	_	_	
+90-21	9879-9880	a	_	_	_	
+90-22	9881-9887	little	_	_	_	
+90-23	9888-9892	salt	_	_	_	
+90-24	9892-9893	,	_	_	_	
+90-25	9894-9897	and	_	_	_	
+90-26	9898-9906	skimming	_	_	_	
+90-27	9907-9909	it	_	_	_	
+90-28	9910-9914	well	_	_	_	
+90-29	9915-9919	just	_	_	_	
+90-30	9920-9926	before	_	_	_	
+90-31	9927-9929	it	_	_	_	
+90-32	9930-9935	boils	_	_	_	
+90-33	9935-9936	.	_	_	_	
+
+#Text=If a vegetable flavor be desired, celery, carrots, onions, turnips, 
+#Text= cabbage, or potatoes, may be added, in sufficient quantities to suit the 
+#Text= taste.
+91-1	9939-9941	If	_	_	_	
+91-2	9942-9943	a	_	_	_	
+91-3	9944-9953	vegetable	Quality	_	_	
+91-4	9954-9960	flavor	Taste Word	*|*|*|*|*|*|*	91-3|91-19|91-8|91-10|91-12|91-14|91-16	
+91-5	9961-9963	be	_	_	_	
+91-6	9964-9971	desired	_	_	_	
+91-7	9971-9972	,	_	_	_	
+91-8	9973-9979	celery	Taste Source	_	_	
+91-9	9979-9980	,	_	_	_	
+91-10	9981-9988	carrots	Taste Source	_	_	
+91-11	9988-9989	,	_	_	_	
+91-12	9990-9996	onions	Taste Source	_	_	
+91-13	9996-9997	,	_	_	_	
+91-14	9998-10005	turnips	Taste Source	_	_	
+91-15	10005-10006	,	_	_	_	
+91-16	10009-10016	cabbage	Taste Source	_	_	
+91-17	10016-10017	,	_	_	_	
+91-18	10018-10020	or	_	_	_	
+91-19	10021-10029	potatoes	Taste Source	_	_	
+91-20	10029-10030	,	_	_	_	
+91-21	10031-10034	may	_	_	_	
+91-22	10035-10037	be	_	_	_	
+91-23	10038-10043	added	_	_	_	
+91-24	10043-10044	,	_	_	_	
+91-25	10045-10047	in	_	_	_	
+91-26	10048-10058	sufficient	_	_	_	
+91-27	10059-10069	quantities	_	_	_	
+91-28	10070-10072	to	_	_	_	
+91-29	10073-10077	suit	_	_	_	
+91-30	10078-10081	the	_	_	_	
+91-31	10084-10089	taste	Taste Word	_	_	
+91-32	10089-10090	.	_	_	_	
+
+#Text=MUTTON SOUP may be made from the fore-quarter, in the same manner as
+#Text=described above, thickened with pearl-barley or rice, and flavored to 
+#Text= suit the taste.
+92-1	10096-10102	MUTTON	Taste Source[39]	_	_	
+92-2	10103-10107	SOUP	Taste Source[39]	_	_	
+92-3	10108-10111	may	_	_	_	
+92-4	10112-10114	be	_	_	_	
+92-5	10115-10119	made	_	_	_	
+92-6	10120-10124	from	_	_	_	
+92-7	10125-10128	the	_	_	_	
+92-8	10129-10141	fore-quarter	_	_	_	
+92-9	10141-10142	,	_	_	_	
+92-10	10143-10145	in	_	_	_	
+92-11	10146-10149	the	_	_	_	
+92-12	10150-10154	same	_	_	_	
+92-13	10155-10161	manner	_	_	_	
+92-14	10162-10164	as	_	_	_	
+92-15	10165-10174	described	_	_	_	
+92-16	10175-10180	above	_	_	_	
+92-17	10180-10181	,	_	_	_	
+92-18	10182-10191	thickened	_	_	_	
+92-19	10192-10196	with	_	_	_	
+92-20	10197-10209	pearl-barley	_	_	_	
+92-21	10210-10212	or	_	_	_	
+92-22	10213-10217	rice	_	_	_	
+92-23	10217-10218	,	_	_	_	
+92-24	10219-10222	and	_	_	_	
+92-25	10223-10231	flavored	Taste Word[40]|Quality[41]	*|*	92-25[41_40]|92-1[39_40]	
+92-26	10232-10234	to	_	_	_	
+92-27	10237-10241	suit	_	_	_	
+92-28	10242-10245	the	_	_	_	
+92-29	10246-10251	taste	Taste Word	_	_	
+92-30	10251-10252	.	_	_	_	
+
+#Text=BOILED FISH.
+93-1	10258-10264	BOILED	_	_	_	
+93-2	10265-10269	FISH	_	_	_	
+93-3	10269-10270	.	_	_	_	
+
+#Text=Clean the fish nicely, then sprinkle flour on a cloth and 
+#Text= wrap it around them; salt the water, and, when it boils, put in the 
+#Text= fish; let them boil half an hour, then carefully remove them to a 
+#Text= platter, adding egg sauce and parsley.
+94-1	10271-10276	Clean	_	_	_	
+94-2	10277-10280	the	_	_	_	
+94-3	10281-10285	fish	_	_	_	
+94-4	10286-10292	nicely	_	_	_	
+94-5	10292-10293	,	_	_	_	
+94-6	10294-10298	then	_	_	_	
+94-7	10299-10307	sprinkle	_	_	_	
+94-8	10308-10313	flour	_	_	_	
+94-9	10314-10316	on	_	_	_	
+94-10	10317-10318	a	_	_	_	
+94-11	10319-10324	cloth	_	_	_	
+94-12	10325-10328	and	_	_	_	
+94-13	10331-10335	wrap	_	_	_	
+94-14	10336-10338	it	_	_	_	
+94-15	10339-10345	around	_	_	_	
+94-16	10346-10350	them	_	_	_	
+94-17	10350-10351	;	_	_	_	
+94-18	10352-10356	salt	_	_	_	
+94-19	10357-10360	the	_	_	_	
+94-20	10361-10366	water	_	_	_	
+94-21	10366-10367	,	_	_	_	
+94-22	10368-10371	and	_	_	_	
+94-23	10371-10372	,	_	_	_	
+94-24	10373-10377	when	_	_	_	
+94-25	10378-10380	it	_	_	_	
+94-26	10381-10386	boils	_	_	_	
+94-27	10386-10387	,	_	_	_	
+94-28	10388-10391	put	_	_	_	
+94-29	10392-10394	in	_	_	_	
+94-30	10395-10398	the	_	_	_	
+94-31	10401-10405	fish	_	_	_	
+94-32	10405-10406	;	_	_	_	
+94-33	10407-10410	let	_	_	_	
+94-34	10411-10415	them	_	_	_	
+94-35	10416-10420	boil	_	_	_	
+94-36	10421-10425	half	_	_	_	
+94-37	10426-10428	an	_	_	_	
+94-38	10429-10433	hour	_	_	_	
+94-39	10433-10434	,	_	_	_	
+94-40	10435-10439	then	_	_	_	
+94-41	10440-10449	carefully	_	_	_	
+94-42	10450-10456	remove	_	_	_	
+94-43	10457-10461	them	_	_	_	
+94-44	10462-10464	to	_	_	_	
+94-45	10465-10466	a	_	_	_	
+94-46	10469-10476	platter	_	_	_	
+94-47	10476-10477	,	_	_	_	
+94-48	10478-10484	adding	_	_	_	
+94-49	10485-10488	egg	_	_	_	
+94-50	10489-10494	sauce	_	_	_	
+94-51	10495-10498	and	_	_	_	
+94-52	10499-10506	parsley	_	_	_	
+94-53	10506-10507	.	_	_	_	
+
+#Text=To _bake fish_, prepare by 
+#Text= cleaning, scaling, etc., and let them remain in salt water for a short 
+#Text= time.
+95-1	10508-10510	To	_	_	_	
+95-2	10511-10512	_	_	_	_	
+95-3	10512-10516	bake	_	_	_	
+95-4	10517-10521	fish	_	_	_	
+95-5	10521-10522	_	_	_	_	
+95-6	10522-10523	,	_	_	_	
+95-7	10524-10531	prepare	_	_	_	
+95-8	10532-10534	by	_	_	_	
+95-9	10537-10545	cleaning	_	_	_	
+95-10	10545-10546	,	_	_	_	
+95-11	10547-10554	scaling	_	_	_	
+95-12	10554-10555	,	_	_	_	
+95-13	10556-10559	etc	_	_	_	
+95-14	10559-10560	.	_	_	_	
+95-15	10560-10561	,	_	_	_	
+95-16	10562-10565	and	_	_	_	
+95-17	10566-10569	let	_	_	_	
+95-18	10570-10574	them	_	_	_	
+95-19	10575-10581	remain	_	_	_	
+95-20	10582-10584	in	_	_	_	
+95-21	10585-10589	salt	_	_	_	
+95-22	10590-10595	water	_	_	_	
+95-23	10596-10599	for	_	_	_	
+95-24	10600-10601	a	_	_	_	
+95-25	10602-10607	short	_	_	_	
+95-26	10610-10614	time	_	_	_	
+95-27	10614-10615	.	_	_	_	
+
+#Text=Make a stuffing of the crumbs of light bread, and add to it a 
+#Text= little salt, pepper, butter, and sweet herbs, and stir with a spoon.
+96-1	10616-10620	Make	_	_	_	
+96-2	10621-10622	a	_	_	_	
+96-3	10623-10631	stuffing	_	_	_	
+96-4	10632-10634	of	_	_	_	
+96-5	10635-10638	the	_	_	_	
+96-6	10639-10645	crumbs	_	_	_	
+96-7	10646-10648	of	_	_	_	
+96-8	10649-10654	light	_	_	_	
+96-9	10655-10660	bread	_	_	_	
+96-10	10660-10661	,	_	_	_	
+96-11	10662-10665	and	_	_	_	
+96-12	10666-10669	add	_	_	_	
+96-13	10670-10672	to	_	_	_	
+96-14	10673-10675	it	_	_	_	
+96-15	10676-10677	a	_	_	_	
+96-16	10680-10686	little	_	_	_	
+96-17	10687-10691	salt	_	_	_	
+96-18	10691-10692	,	_	_	_	
+96-19	10693-10699	pepper	_	_	_	
+96-20	10699-10700	,	_	_	_	
+96-21	10701-10707	butter	_	_	_	
+96-22	10707-10708	,	_	_	_	
+96-23	10709-10712	and	_	_	_	
+96-24	10713-10718	sweet	Taste Word[42]|Quality[43]	*	96-25[0_42]	
+96-25	10719-10724	herbs	Taste Source	_	_	
+96-26	10724-10725	,	_	_	_	
+96-27	10726-10729	and	_	_	_	
+96-28	10730-10734	stir	_	_	_	
+96-29	10735-10739	with	_	_	_	
+96-30	10740-10741	a	_	_	_	
+96-31	10742-10747	spoon	_	_	_	
+96-32	10747-10748	.	_	_	_	
+
+#Text=Then fill the fish with the stuffing and sew it up.
+97-1	10751-10755	Then	_	_	_	
+97-2	10756-10760	fill	_	_	_	
+97-3	10761-10764	the	_	_	_	
+97-4	10765-10769	fish	_	_	_	
+97-5	10770-10774	with	_	_	_	
+97-6	10775-10778	the	_	_	_	
+97-7	10779-10787	stuffing	_	_	_	
+97-8	10788-10791	and	_	_	_	
+97-9	10792-10795	sew	_	_	_	
+97-10	10796-10798	it	_	_	_	
+97-11	10799-10801	up	_	_	_	
+97-12	10801-10802	.	_	_	_	
+
+#Text=Put on butter, salt, 
+#Text= pepper, and flour, having enough water in the dish to keep it from 
+#Text= burning, and baste often.
+98-1	10803-10806	Put	_	_	_	
+98-2	10807-10809	on	_	_	_	
+98-3	10810-10816	butter	_	_	_	
+98-4	10816-10817	,	_	_	_	
+98-5	10818-10822	salt	_	_	_	
+98-6	10822-10823	,	_	_	_	
+98-7	10826-10832	pepper	_	_	_	
+98-8	10832-10833	,	_	_	_	
+98-9	10834-10837	and	_	_	_	
+98-10	10838-10843	flour	_	_	_	
+98-11	10843-10844	,	_	_	_	
+98-12	10845-10851	having	_	_	_	
+98-13	10852-10858	enough	_	_	_	
+98-14	10859-10864	water	_	_	_	
+98-15	10865-10867	in	_	_	_	
+98-16	10868-10871	the	_	_	_	
+98-17	10872-10876	dish	_	_	_	
+98-18	10877-10879	to	_	_	_	
+98-19	10880-10884	keep	_	_	_	
+98-20	10885-10887	it	_	_	_	
+98-21	10888-10892	from	_	_	_	
+98-22	10895-10902	burning	_	_	_	
+98-23	10902-10903	,	_	_	_	
+98-24	10904-10907	and	_	_	_	
+98-25	10908-10913	baste	_	_	_	
+98-26	10914-10919	often	_	_	_	
+98-27	10919-10920	.	_	_	_	
+
+#Text=A four pound fish will bake in fifty or sixty 
+#Text= minutes.
+99-1	10921-10922	A	_	_	_	
+99-2	10923-10927	four	_	_	_	
+99-3	10928-10933	pound	_	_	_	
+99-4	10934-10938	fish	_	_	_	
+99-5	10939-10943	will	_	_	_	
+99-6	10944-10948	bake	_	_	_	
+99-7	10949-10951	in	_	_	_	
+99-8	10952-10957	fifty	_	_	_	
+99-9	10958-10960	or	_	_	_	
+99-10	10961-10966	sixty	_	_	_	
+99-11	10969-10976	minutes	_	_	_	
+99-12	10976-10977	.	_	_	_	
+
+#Text=BROILED STEAK.
+100-1	10983-10990	BROILED	_	_	_	
+100-2	10991-10996	STEAK	_	_	_	
+100-3	10996-10997	.	_	_	_	
+
+#Text=Sirloin and porter-house steaks should be broiled 
+#Text= quickly.
+101-1	10998-11005	Sirloin	_	_	_	
+101-2	11006-11009	and	_	_	_	
+101-3	11010-11022	porter-house	_	_	_	
+101-4	11023-11029	steaks	_	_	_	
+101-5	11030-11036	should	_	_	_	
+101-6	11037-11039	be	_	_	_	
+101-7	11040-11047	broiled	_	_	_	
+101-8	11050-11057	quickly	_	_	_	
+101-9	11057-11058	.	_	_	_	
+
+#Text=Preserve them on ice for a day or two and their tenderness is 
+#Text= much increased.
+102-1	11059-11067	Preserve	_	_	_	
+102-2	11068-11072	them	_	_	_	
+102-3	11073-11075	on	_	_	_	
+102-4	11076-11079	ice	_	_	_	
+102-5	11080-11083	for	_	_	_	
+102-6	11084-11085	a	_	_	_	
+102-7	11086-11089	day	_	_	_	
+102-8	11090-11092	or	_	_	_	
+102-9	11093-11096	two	_	_	_	
+102-10	11097-11100	and	_	_	_	
+102-11	11101-11106	their	_	_	_	
+102-12	11107-11117	tenderness	_	_	_	
+102-13	11118-11120	is	_	_	_	
+102-14	11123-11127	much	_	_	_	
+102-15	11128-11137	increased	_	_	_	
+102-16	11137-11138	.	_	_	_	
+
+#Text=Never broil them until the meal is ready to be served.
+103-1	11139-11144	Never	_	_	_	
+103-2	11145-11150	broil	_	_	_	
+103-3	11151-11155	them	_	_	_	
+103-4	11156-11161	until	_	_	_	
+103-5	11162-11165	the	_	_	_	
+103-6	11166-11170	meal	_	_	_	
+103-7	11171-11173	is	_	_	_	
+103-8	11174-11179	ready	_	_	_	
+103-9	11180-11182	to	_	_	_	
+103-10	11183-11185	be	_	_	_	
+103-11	11186-11192	served	_	_	_	
+103-12	11192-11193	.	_	_	_	
+
+#Text=BOILED HEAT.
+104-1	11199-11205	BOILED	_	_	_	
+104-2	11206-11210	HEAT	_	_	_	
+104-3	11210-11211	.	_	_	_	
+
+#Text=When meat is to be boiled for _eating,_ put it into boiling
+#Text=water, by which its juices are coagulated and its richness preserved.
+105-1	11212-11216	When	_	_	_	
+105-2	11217-11221	meat	Taste Source	_	_	
+105-3	11222-11224	is	_	_	_	
+105-4	11225-11227	to	_	_	_	
+105-5	11228-11230	be	_	_	_	
+105-6	11231-11237	boiled	Circumstance	_	_	
+105-7	11238-11241	for	_	_	_	
+105-8	11242-11243	_	_	_	_	
+105-9	11243-11249	eating	Taste Word	*|*	105-6|105-2	
+105-10	11249-11250	,	_	_	_	
+105-11	11250-11251	_	_	_	_	
+105-12	11252-11255	put	_	_	_	
+105-13	11256-11258	it	_	_	_	
+105-14	11259-11263	into	_	_	_	
+105-15	11264-11271	boiling	_	_	_	
+105-16	11272-11277	water	_	_	_	
+105-17	11277-11278	,	_	_	_	
+105-18	11279-11281	by	_	_	_	
+105-19	11282-11287	which	_	_	_	
+105-20	11288-11291	its	_	_	_	
+105-21	11292-11298	juices	_	_	_	
+105-22	11299-11302	are	_	_	_	
+105-23	11303-11313	coagulated	_	_	_	
+105-24	11314-11317	and	_	_	_	
+105-25	11318-11321	its	_	_	_	
+105-26	11322-11330	richness	_	_	_	
+105-27	11331-11340	preserved	_	_	_	
+105-28	11340-11341	.	_	_	_	
+
+#Text=The slower it boils, the more tender, plump, and white it will be.
+106-1	11344-11347	The	_	_	_	
+106-2	11348-11354	slower	_	_	_	
+106-3	11355-11357	it	_	_	_	
+106-4	11358-11363	boils	_	_	_	
+106-5	11363-11364	,	_	_	_	
+106-6	11365-11368	the	_	_	_	
+106-7	11369-11373	more	_	_	_	
+106-8	11374-11380	tender	_	_	_	
+106-9	11380-11381	,	_	_	_	
+106-10	11382-11387	plump	_	_	_	
+106-11	11387-11388	,	_	_	_	
+106-12	11389-11392	and	_	_	_	
+106-13	11393-11398	white	_	_	_	
+106-14	11399-11401	it	_	_	_	
+106-15	11402-11406	will	_	_	_	
+106-16	11407-11409	be	_	_	_	
+106-17	11409-11410	.	_	_	_	
+
+#Text=Meat 
+#Text= should be removed as soon as done, or it will lose its flavor and become 
+#Text= soggy.
+107-1	11411-11415	Meat	Taste Source	_	_	
+107-2	11418-11424	should	_	_	_	
+107-3	11425-11427	be	_	_	_	
+107-4	11428-11435	removed	Circumstance[44]	_	_	
+107-5	11436-11438	as	Circumstance[44]	_	_	
+107-6	11439-11443	soon	Circumstance[44]	_	_	
+107-7	11444-11446	as	Circumstance[44]	_	_	
+107-8	11447-11451	done	Circumstance[44]	_	_	
+107-9	11451-11452	,	_	_	_	
+107-10	11453-11455	or	_	_	_	
+107-11	11456-11458	it	_	_	_	
+107-12	11459-11463	will	_	_	_	
+107-13	11464-11468	lose	_	_	_	
+107-14	11469-11472	its	_	_	_	
+107-15	11473-11479	flavor	Taste Word	*|*|*	107-1|107-18|107-4[44_0]	
+107-16	11480-11483	and	_	_	_	
+107-17	11484-11490	become	_	_	_	
+107-18	11493-11498	soggy	Quality	_	_	
+107-19	11498-11499	.	_	_	_	
+
+#Text=PORK STEAKS.
+108-1	11505-11509	PORK	_	_	_	
+108-2	11510-11516	STEAKS	_	_	_	
+108-3	11516-11517	.	_	_	_	
+
+#Text=The best steaks are cut off the shoulder--ham steaks being 
+#Text= rather too dry.
+109-1	11518-11521	The	_	_	_	
+109-2	11522-11526	best	_	_	_	
+109-3	11527-11533	steaks	_	_	_	
+109-4	11534-11537	are	_	_	_	
+109-5	11538-11541	cut	_	_	_	
+109-6	11542-11545	off	_	_	_	
+109-7	11546-11549	the	_	_	_	
+109-8	11550-11558	shoulder	_	_	_	
+109-9	11558-11559	-	_	_	_	
+109-10	11559-11560	-	_	_	_	
+109-11	11560-11563	ham	_	_	_	
+109-12	11564-11570	steaks	_	_	_	
+109-13	11571-11576	being	_	_	_	
+109-14	11579-11585	rather	_	_	_	
+109-15	11586-11589	too	_	_	_	
+109-16	11590-11593	dry	_	_	_	
+109-17	11593-11594	.	_	_	_	
+
+#Text=They should be well fried, in order to destroy the 
+#Text= little living parasites, called Trichinae which sometimes infest this 
+#Text= kind of meat.
+110-1	11595-11599	They	_	_	_	
+110-2	11600-11606	should	_	_	_	
+110-3	11607-11609	be	_	_	_	
+110-4	11610-11614	well	_	_	_	
+110-5	11615-11620	fried	_	_	_	
+110-6	11620-11621	,	_	_	_	
+110-7	11622-11624	in	_	_	_	
+110-8	11625-11630	order	_	_	_	
+110-9	11631-11633	to	_	_	_	
+110-10	11634-11641	destroy	_	_	_	
+110-11	11642-11645	the	_	_	_	
+110-12	11648-11654	little	_	_	_	
+110-13	11655-11661	living	_	_	_	
+110-14	11662-11671	parasites	_	_	_	
+110-15	11671-11672	,	_	_	_	
+110-16	11673-11679	called	_	_	_	
+110-17	11680-11689	Trichinae	_	_	_	
+110-18	11690-11695	which	_	_	_	
+110-19	11696-11705	sometimes	_	_	_	
+110-20	11706-11712	infest	_	_	_	
+110-21	11713-11717	this	_	_	_	
+110-22	11720-11724	kind	_	_	_	
+110-23	11725-11727	of	_	_	_	
+110-24	11728-11732	meat	_	_	_	
+110-25	11732-11733	.	_	_	_	
+
+#Text=They are introduced into the stomach by eating ham, pork, 
+#Text= or sausages made from the flesh of hogs infested by them.
+111-1	11734-11738	They	_	_	_	
+111-2	11739-11742	are	_	_	_	
+111-3	11743-11753	introduced	_	_	_	
+111-4	11754-11758	into	_	_	_	
+111-5	11759-11762	the	_	_	_	
+111-6	11763-11770	stomach	_	_	_	
+111-7	11771-11773	by	_	_	_	
+111-8	11774-11780	eating	Taste Word	*|*|*	111-9|111-11|111-14	
+111-9	11781-11784	ham	Taste Source	_	_	
+111-10	11784-11785	,	_	_	_	
+111-11	11786-11790	pork	Taste Source	_	_	
+111-12	11790-11791	,	_	_	_	
+111-13	11794-11796	or	_	_	_	
+111-14	11797-11805	sausages	Taste Source	_	_	
+111-15	11806-11810	made	_	_	_	
+111-16	11811-11815	from	_	_	_	
+111-17	11816-11819	the	_	_	_	
+111-18	11820-11825	flesh	_	_	_	
+111-19	11826-11828	of	_	_	_	
+111-20	11829-11833	hogs	_	_	_	
+111-21	11834-11842	infested	_	_	_	
+111-22	11843-11845	by	_	_	_	
+111-23	11846-11850	them	_	_	_	
+111-24	11850-11851	.	_	_	_	
+
+#Text=Thorough 
+#Text= cooking destroys them, and those who will persist in the use of swine  '  s 
+#Text= flesh can afford to have it "_done brown._" 
+#Text=  
+#Text= BAKED MUTTON.
+112-1	11852-11860	Thorough	_	_	_	
+112-2	11863-11870	cooking	_	_	_	
+112-3	11871-11879	destroys	_	_	_	
+112-4	11880-11884	them	_	_	_	
+112-5	11884-11885	,	_	_	_	
+112-6	11886-11889	and	_	_	_	
+112-7	11890-11895	those	_	_	_	
+112-8	11896-11899	who	_	_	_	
+112-9	11900-11904	will	_	_	_	
+112-10	11905-11912	persist	_	_	_	
+112-11	11913-11915	in	_	_	_	
+112-12	11916-11919	the	_	_	_	
+112-13	11920-11923	use	_	_	_	
+112-14	11924-11926	of	_	_	_	
+112-15	11927-11932	swine	_	_	_	
+112-16	11934-11935	'	_	_	_	
+112-17	11937-11938	s	_	_	_	
+112-18	11941-11946	flesh	_	_	_	
+112-19	11947-11950	can	_	_	_	
+112-20	11951-11957	afford	_	_	_	
+112-21	11958-11960	to	_	_	_	
+112-22	11961-11965	have	_	_	_	
+112-23	11966-11968	it	_	_	_	
+112-24	11969-11970	"	_	_	_	
+112-25	11970-11971	_	_	_	_	
+112-26	11971-11975	done	_	_	_	
+112-27	11976-11981	brown	_	_	_	
+112-28	11981-11982	.	_	_	_	
+112-29	11982-11983	_	_	_	_	
+112-30	11983-11984	"	_	_	_	
+112-31	11990-11995	BAKED	_	_	_	
+112-32	11996-12002	MUTTON	_	_	_	
+112-33	12002-12003	.	_	_	_	
+
+#Text=To bake mutton well, a person should have a brisk, sharp 
+#Text= fire, and keep the meat well basted.
+113-1	12004-12006	To	_	_	_	
+113-2	12007-12011	bake	_	_	_	
+113-3	12012-12018	mutton	_	_	_	
+113-4	12019-12023	well	_	_	_	
+113-5	12023-12024	,	_	_	_	
+113-6	12025-12026	a	_	_	_	
+113-7	12027-12033	person	_	_	_	
+113-8	12034-12040	should	_	_	_	
+113-9	12041-12045	have	_	_	_	
+113-10	12046-12047	a	_	_	_	
+113-11	12048-12053	brisk	_	_	_	
+113-12	12053-12054	,	_	_	_	
+113-13	12055-12060	sharp	_	_	_	
+113-14	12063-12067	fire	_	_	_	
+113-15	12067-12068	,	_	_	_	
+113-16	12069-12072	and	_	_	_	
+113-17	12073-12077	keep	_	_	_	
+113-18	12078-12081	the	_	_	_	
+113-19	12082-12086	meat	_	_	_	
+113-20	12087-12091	well	_	_	_	
+113-21	12092-12098	basted	_	_	_	
+113-22	12098-12099	.	_	_	_	
+
+#Text=It requires two hours to bake a leg 
+#Text= of mutton, weighing eight pounds.
+114-1	12100-12102	It	_	_	_	
+114-2	12103-12111	requires	_	_	_	
+114-3	12112-12115	two	_	_	_	
+114-4	12116-12121	hours	_	_	_	
+114-5	12122-12124	to	_	_	_	
+114-6	12125-12129	bake	_	_	_	
+114-7	12130-12131	a	_	_	_	
+114-8	12132-12135	leg	_	_	_	
+114-9	12138-12140	of	_	_	_	
+114-10	12141-12147	mutton	_	_	_	
+114-11	12147-12148	,	_	_	_	
+114-12	12149-12157	weighing	_	_	_	
+114-13	12158-12163	eight	_	_	_	
+114-14	12164-12170	pounds	_	_	_	
+114-15	12170-12171	.	_	_	_	
+
+#Text=BREAD.
+115-1	12177-12182	BREAD	_	_	_	
+115-2	12182-12183	.	_	_	_	
+
+#Text=The health and happiness of a family depend, to a certain extent, 
+#Text= on good, well-baked bread.
+116-1	12184-12187	The	_	_	_	
+116-2	12188-12194	health	_	_	_	
+116-3	12195-12198	and	_	_	_	
+116-4	12199-12208	happiness	_	_	_	
+116-5	12209-12211	of	_	_	_	
+116-6	12212-12213	a	_	_	_	
+116-7	12214-12220	family	_	_	_	
+116-8	12221-12227	depend	_	_	_	
+116-9	12227-12228	,	_	_	_	
+116-10	12229-12231	to	_	_	_	
+116-11	12232-12233	a	_	_	_	
+116-12	12234-12241	certain	_	_	_	
+116-13	12242-12248	extent	_	_	_	
+116-14	12248-12249	,	_	_	_	
+116-15	12252-12254	on	_	_	_	
+116-16	12255-12259	good	_	_	_	
+116-17	12259-12260	,	_	_	_	
+116-18	12261-12271	well-baked	_	_	_	
+116-19	12272-12277	bread	_	_	_	
+116-20	12277-12278	.	_	_	_	
+
+#Text=At all events, our enjoyment would be greater 
+#Text= if it were only better prepared.
+117-1	12279-12281	At	_	_	_	
+117-2	12282-12285	all	_	_	_	
+117-3	12286-12292	events	_	_	_	
+117-4	12292-12293	,	_	_	_	
+117-5	12294-12297	our	_	_	_	
+117-6	12298-12307	enjoyment	_	_	_	
+117-7	12308-12313	would	_	_	_	
+117-8	12314-12316	be	_	_	_	
+117-9	12317-12324	greater	_	_	_	
+117-10	12327-12329	if	_	_	_	
+117-11	12330-12332	it	_	_	_	
+117-12	12333-12337	were	_	_	_	
+117-13	12338-12342	only	_	_	_	
+117-14	12343-12349	better	_	_	_	
+117-15	12350-12358	prepared	_	_	_	
+117-16	12358-12359	.	_	_	_	
+
+#Text=We make the following extract from an
+#Text=adulterated.
+118-1	12360-12362	We	_	_	_	
+118-2	12363-12367	make	_	_	_	
+118-3	12368-12371	the	_	_	_	
+118-4	12372-12381	following	_	_	_	
+118-5	12382-12389	extract	_	_	_	
+118-6	12390-12394	from	_	_	_	
+118-7	12395-12397	an	_	_	_	
+118-8	12398-12409	adulterated	_	_	_	
+118-9	12409-12410	.	_	_	_	
+
+#Text=In their pure state the objection to their use for this 
+#Text= purpose lies in the fact that they contain alcohol.
+119-1	12411-12413	In	_	_	_	
+119-2	12414-12419	their	_	_	_	
+119-3	12420-12424	pure	_	_	_	
+119-4	12425-12430	state	_	_	_	
+119-5	12431-12434	the	_	_	_	
+119-6	12435-12444	objection	_	_	_	
+119-7	12445-12447	to	_	_	_	
+119-8	12448-12453	their	_	_	_	
+119-9	12454-12457	use	_	_	_	
+119-10	12458-12461	for	_	_	_	
+119-11	12462-12466	this	_	_	_	
+119-12	12469-12476	purpose	_	_	_	
+119-13	12477-12481	lies	_	_	_	
+119-14	12482-12484	in	_	_	_	
+119-15	12485-12488	the	_	_	_	
+119-16	12489-12493	fact	_	_	_	
+119-17	12494-12498	that	_	_	_	
+119-18	12499-12503	they	_	_	_	
+119-19	12504-12511	contain	_	_	_	
+119-20	12512-12519	alcohol	_	_	_	
+119-21	12519-12520	.	_	_	_	
+
+#Text=This, as we have 
+#Text= seen, is a poisonous substance, which the human system in a state of 
+#Text= health does not need.
+120-1	12521-12525	This	_	_	_	
+120-2	12525-12526	,	_	_	_	
+120-3	12527-12529	as	_	_	_	
+120-4	12530-12532	we	_	_	_	
+120-5	12533-12537	have	_	_	_	
+120-6	12540-12544	seen	_	_	_	
+120-7	12544-12545	,	_	_	_	
+120-8	12546-12548	is	_	_	_	
+120-9	12549-12550	a	_	_	_	
+120-10	12551-12560	poisonous	_	_	_	
+120-11	12561-12570	substance	_	_	_	
+120-12	12570-12571	,	_	_	_	
+120-13	12572-12577	which	_	_	_	
+120-14	12578-12581	the	_	_	_	
+120-15	12582-12587	human	_	_	_	
+120-16	12588-12594	system	_	_	_	
+120-17	12595-12597	in	_	_	_	
+120-18	12598-12599	a	_	_	_	
+120-19	12600-12605	state	_	_	_	
+120-20	12606-12608	of	_	_	_	
+120-21	12611-12617	health	_	_	_	
+120-22	12618-12622	does	_	_	_	
+120-23	12623-12626	not	_	_	_	
+120-24	12627-12631	need	_	_	_	
+120-25	12631-12632	.	_	_	_	
+
+#Text=Its use, when the body is in a normal condition, 
+#Text= is uncalled for, and can only be deleterious.
+121-1	12633-12636	Its	_	_	_	
+121-2	12637-12640	use	_	_	_	
+121-3	12640-12641	,	_	_	_	
+121-4	12642-12646	when	_	_	_	
+121-5	12647-12650	the	_	_	_	
+121-6	12651-12655	body	_	_	_	
+121-7	12656-12658	is	_	_	_	
+121-8	12659-12661	in	_	_	_	
+121-9	12662-12663	a	_	_	_	
+121-10	12664-12670	normal	_	_	_	
+121-11	12671-12680	condition	_	_	_	
+121-12	12680-12681	,	_	_	_	
+121-13	12684-12686	is	_	_	_	
+121-14	12687-12695	uncalled	_	_	_	
+121-15	12696-12699	for	_	_	_	
+121-16	12699-12700	,	_	_	_	
+121-17	12701-12704	and	_	_	_	
+121-18	12705-12708	can	_	_	_	
+121-19	12709-12713	only	_	_	_	
+121-20	12714-12716	be	_	_	_	
+121-21	12717-12728	deleterious	_	_	_	
+121-22	12728-12729	.	_	_	_	
+
+#Text=Beverages containing this 
+#Text= poison are more or less deleterious to healthy persons, according to the 
+#Text= amount of it which they contain.
+122-1	12730-12739	Beverages	_	_	_	
+122-2	12740-12750	containing	_	_	_	
+122-3	12751-12755	this	_	_	_	
+122-4	12758-12764	poison	_	_	_	
+122-5	12765-12768	are	_	_	_	
+122-6	12769-12773	more	_	_	_	
+122-7	12774-12776	or	_	_	_	
+122-8	12777-12781	less	_	_	_	
+122-9	12782-12793	deleterious	_	_	_	
+122-10	12794-12796	to	_	_	_	
+122-11	12797-12804	healthy	_	_	_	
+122-12	12805-12812	persons	_	_	_	
+122-13	12812-12813	,	_	_	_	
+122-14	12814-12823	according	_	_	_	
+122-15	12824-12826	to	_	_	_	
+122-16	12827-12830	the	_	_	_	
+122-17	12833-12839	amount	_	_	_	
+122-18	12840-12842	of	_	_	_	
+122-19	12843-12845	it	_	_	_	
+122-20	12846-12851	which	_	_	_	
+122-21	12852-12856	they	_	_	_	
+122-22	12857-12864	contain	_	_	_	
+122-23	12864-12865	.	_	_	_	
+
+#Text=These liquors are frequently adulterated, and this increases their 
+#Text= injurious effects.
+123-1	12871-12876	These	_	_	_	
+123-2	12877-12884	liquors	Taste Source	_	_	
+123-3	12885-12888	are	_	_	_	
+123-4	12889-12899	frequently	_	_	_	
+123-5	12900-12911	adulterated	_	_	_	
+123-6	12911-12912	,	_	_	_	
+123-7	12913-12916	and	_	_	_	
+123-8	12917-12921	this	_	_	_	
+123-9	12922-12931	increases	_	_	_	
+123-10	12932-12937	their	_	_	_	
+123-11	12940-12949	injurious	_	_	_	
+123-12	12950-12957	effects	_	_	_	
+123-13	12957-12958	.	_	_	_	
+
+#Text=The ingenuity of man has been taxed to increase their 
+#Text= intoxicating properties; to heighten the color and flavor, to create 
+#Text= pungency and thirst; and to revive old beer.
+124-1	12959-12962	The	_	_	_	
+124-2	12963-12972	ingenuity	_	_	_	
+124-3	12973-12975	of	_	_	_	
+124-4	12976-12979	man	_	_	_	
+124-5	12980-12983	has	_	_	_	
+124-6	12984-12988	been	_	_	_	
+124-7	12989-12994	taxed	_	_	_	
+124-8	12995-12997	to	_	_	_	
+124-9	12998-13006	increase	_	_	_	
+124-10	13007-13012	their	_	_	_	
+124-11	13015-13027	intoxicating	_	_	_	
+124-12	13028-13038	properties	_	_	_	
+124-13	13038-13039	;	_	_	_	
+124-14	13040-13042	to	_	_	_	
+124-15	13043-13051	heighten	_	_	_	
+124-16	13052-13055	the	_	_	_	
+124-17	13056-13061	color	_	_	_	
+124-18	13062-13065	and	_	_	_	
+124-19	13066-13072	flavor	Taste Word	*	123-2	
+124-20	13072-13073	,	_	_	_	
+124-21	13074-13076	to	_	_	_	
+124-22	13077-13083	create	_	_	_	
+124-23	13086-13094	pungency	Taste Word	*	123-2	
+124-24	13095-13098	and	_	_	_	
+124-25	13099-13105	thirst	_	_	_	
+124-26	13105-13106	;	_	_	_	
+124-27	13107-13110	and	_	_	_	
+124-28	13111-13113	to	_	_	_	
+124-29	13114-13120	revive	_	_	_	
+124-30	13121-13124	old	_	_	_	
+124-31	13125-13129	beer	_	_	_	
+124-32	13129-13130	.	_	_	_	
+
+#Text=To increase the 
+#Text= intoxicating power, tobacco or the seeds of the Cocculus indicus are 
+#Text= added; to heighten the color and flavor, burnt sugar, liquorice, or 
+#Text= treacle, quassia, or strychnine, coriander, and caraway seeds are 
+#Text= employed; to increase the pungency, cayenne pepper or common salt is 
+#Text= added; to revive old beer, or ale, it is shaken up with green vitriol or 
+#Text= sulphate of iron, or with alum and common salt.
+125-1	13131-13133	To	_	_	_	
+125-2	13134-13142	increase	_	_	_	
+125-3	13143-13146	the	_	_	_	
+125-4	13149-13161	intoxicating	_	_	_	
+125-5	13162-13167	power	_	_	_	
+125-6	13167-13168	,	_	_	_	
+125-7	13169-13176	tobacco	_	_	_	
+125-8	13177-13179	or	_	_	_	
+125-9	13180-13183	the	_	_	_	
+125-10	13184-13189	seeds	_	_	_	
+125-11	13190-13192	of	_	_	_	
+125-12	13193-13196	the	_	_	_	
+125-13	13197-13205	Cocculus	_	_	_	
+125-14	13206-13213	indicus	_	_	_	
+125-15	13214-13217	are	_	_	_	
+125-16	13220-13225	added	_	_	_	
+125-17	13225-13226	;	_	_	_	
+125-18	13227-13229	to	_	_	_	
+125-19	13230-13238	heighten	_	_	_	
+125-20	13239-13242	the	_	_	_	
+125-21	13243-13248	color	_	_	_	
+125-22	13249-13252	and	_	_	_	
+125-23	13253-13259	flavor	Taste Word	*|*|*|*|*|*|*	125-25[45_0]|125-28|125-31|125-33|125-36|125-38|125-41[46_0]	
+125-24	13259-13260	,	_	_	_	
+125-25	13261-13266	burnt	Taste Modifier[45]	_	_	
+125-26	13267-13272	sugar	Taste Modifier[45]	_	_	
+125-27	13272-13273	,	_	_	_	
+125-28	13274-13283	liquorice	Taste Modifier	_	_	
+125-29	13283-13284	,	_	_	_	
+125-30	13285-13287	or	_	_	_	
+125-31	13290-13297	treacle	Taste Modifier	_	_	
+125-32	13297-13298	,	_	_	_	
+125-33	13299-13306	quassia	Taste Modifier	_	_	
+125-34	13306-13307	,	_	_	_	
+125-35	13308-13310	or	_	_	_	
+125-36	13311-13321	strychnine	Taste Modifier	_	_	
+125-37	13321-13322	,	_	_	_	
+125-38	13323-13332	coriander	Taste Modifier	_	_	
+125-39	13332-13333	,	_	_	_	
+125-40	13334-13337	and	_	_	_	
+125-41	13338-13345	caraway	Taste Modifier[46]	_	_	
+125-42	13346-13351	seeds	Taste Modifier[46]	_	_	
+125-43	13352-13355	are	_	_	_	
+125-44	13358-13366	employed	_	_	_	
+125-45	13366-13367	;	_	_	_	
+125-46	13368-13370	to	_	_	_	
+125-47	13371-13379	increase	_	_	_	
+125-48	13380-13383	the	_	_	_	
+125-49	13384-13392	pungency	Taste Word	*|*	125-54[48_0]|125-51[47_0]	
+125-50	13392-13393	,	_	_	_	
+125-51	13394-13401	cayenne	Taste Modifier[47]	_	_	
+125-52	13402-13408	pepper	Taste Modifier[47]	_	_	
+125-53	13409-13411	or	_	_	_	
+125-54	13412-13418	common	Taste Modifier[48]	_	_	
+125-55	13419-13423	salt	Taste Modifier[48]	_	_	
+125-56	13424-13426	is	_	_	_	
+125-57	13429-13434	added	_	_	_	
+125-58	13434-13435	;	_	_	_	
+125-59	13436-13438	to	_	_	_	
+125-60	13439-13445	revive	_	_	_	
+125-61	13446-13449	old	_	_	_	
+125-62	13450-13454	beer	_	_	_	
+125-63	13454-13455	,	_	_	_	
+125-64	13456-13458	or	_	_	_	
+125-65	13459-13462	ale	_	_	_	
+125-66	13462-13463	,	_	_	_	
+125-67	13464-13466	it	_	_	_	
+125-68	13467-13469	is	_	_	_	
+125-69	13470-13476	shaken	_	_	_	
+125-70	13477-13479	up	_	_	_	
+125-71	13480-13484	with	_	_	_	
+125-72	13485-13490	green	_	_	_	
+125-73	13491-13498	vitriol	_	_	_	
+125-74	13499-13501	or	_	_	_	
+125-75	13504-13512	sulphate	_	_	_	
+125-76	13513-13515	of	_	_	_	
+125-77	13516-13520	iron	_	_	_	
+125-78	13520-13521	,	_	_	_	
+125-79	13522-13524	or	_	_	_	
+125-80	13525-13529	with	_	_	_	
+125-81	13530-13534	alum	_	_	_	
+125-82	13535-13538	and	_	_	_	
+125-83	13539-13545	common	_	_	_	
+125-84	13546-13550	salt	_	_	_	
+125-85	13550-13551	.	_	_	_	
+
+#Text=FERMENTED LIQUORS.
+126-1	13557-13566	FERMENTED	_	_	_	
+126-2	13567-13574	LIQUORS	_	_	_	
+126-3	13574-13575	.	_	_	_	
+
+#Text=These are cider and wine.
+127-1	13576-13581	These	_	_	_	
+127-2	13582-13585	are	_	_	_	
+127-3	13586-13591	cider	_	_	_	
+127-4	13592-13595	and	_	_	_	
+127-5	13596-13600	wine	_	_	_	
+127-6	13600-13601	.	_	_	_	
+
+#Text=Cider contains alcohol to
+#Text=poisonous to it when in a normal condition.
+128-1	13602-13607	Cider	_	_	_	
+128-2	13608-13616	contains	_	_	_	
+128-3	13617-13624	alcohol	_	_	_	
+128-4	13625-13627	to	_	_	_	
+128-5	13628-13637	poisonous	_	_	_	
+128-6	13638-13640	to	_	_	_	
+128-7	13641-13643	it	_	_	_	
+128-8	13644-13648	when	_	_	_	
+128-9	13649-13651	in	_	_	_	
+128-10	13652-13653	a	_	_	_	
+128-11	13654-13660	normal	_	_	_	
+128-12	13661-13670	condition	_	_	_	
+128-13	13670-13671	.	_	_	_	
+
+#Text=DISTILLED LIQUORS.
+129-1	13677-13686	DISTILLED	_	_	_	
+129-2	13687-13694	LIQUORS	_	_	_	
+129-3	13694-13695	.	_	_	_	
+
+#Text=These are whiskey, brandy, and the kindred 
+#Text= productions of the still.
+130-1	13696-13701	These	_	_	_	
+130-2	13702-13705	are	_	_	_	
+130-3	13706-13713	whiskey	_	_	_	
+130-4	13713-13714	,	_	_	_	
+130-5	13715-13721	brandy	_	_	_	
+130-6	13721-13722	,	_	_	_	
+130-7	13723-13726	and	_	_	_	
+130-8	13727-13730	the	_	_	_	
+130-9	13731-13738	kindred	_	_	_	
+130-10	13741-13752	productions	_	_	_	
+130-11	13753-13755	of	_	_	_	
+130-12	13756-13759	the	_	_	_	
+130-13	13760-13765	still	_	_	_	
+130-14	13765-13766	.	_	_	_	
+
+#Text=Whiskey is a solution of alcohol in water, 
+#Text= mixed with various other principles which impart to it peculiar physical 
+#Text= properties.
+131-1	13767-13774	Whiskey	_	_	_	
+131-2	13775-13777	is	_	_	_	
+131-3	13778-13779	a	_	_	_	
+131-4	13780-13788	solution	_	_	_	
+131-5	13789-13791	of	_	_	_	
+131-6	13792-13799	alcohol	_	_	_	
+131-7	13800-13802	in	_	_	_	
+131-8	13803-13808	water	_	_	_	
+131-9	13808-13809	,	_	_	_	
+131-10	13812-13817	mixed	_	_	_	
+131-11	13818-13822	with	_	_	_	
+131-12	13823-13830	various	_	_	_	
+131-13	13831-13836	other	_	_	_	
+131-14	13837-13847	principles	_	_	_	
+131-15	13848-13853	which	_	_	_	
+131-16	13854-13860	impart	_	_	_	
+131-17	13861-13863	to	_	_	_	
+131-18	13864-13866	it	_	_	_	
+131-19	13867-13875	peculiar	_	_	_	
+131-20	13876-13884	physical	_	_	_	
+131-21	13887-13897	properties	_	_	_	
+131-22	13897-13898	.	_	_	_	
+
+#Text=The amount of alcohol which it contains varies from 
+#Text= forty-eight to fifty-six per cent.
+132-1	13899-13902	The	_	_	_	
+132-2	13903-13909	amount	_	_	_	
+132-3	13910-13912	of	_	_	_	
+132-4	13913-13920	alcohol	_	_	_	
+132-5	13921-13926	which	_	_	_	
+132-6	13927-13929	it	_	_	_	
+132-7	13930-13938	contains	_	_	_	
+132-8	13939-13945	varies	_	_	_	
+132-9	13946-13950	from	_	_	_	
+132-10	13953-13964	forty-eight	_	_	_	
+132-11	13965-13967	to	_	_	_	
+132-12	13968-13977	fifty-six	_	_	_	
+132-13	13978-13981	per	_	_	_	
+132-14	13982-13986	cent	_	_	_	
+132-15	13986-13987	.	_	_	_	
+
+#Text=Old whiskey is more highly prized 
+#Text= than the more recent product of the still, from the fact that when kept 
+#Text= for some years certain volatile oils are generated which, impart to it a 
+#Text= mellowness of flavor.
+133-1	13988-13991	Old	Taste Source[49]	_	_	
+133-2	13992-13999	whiskey	Taste Source[49]	_	_	
+133-3	14000-14002	is	_	_	_	
+133-4	14003-14007	more	_	_	_	
+133-5	14008-14014	highly	_	_	_	
+133-6	14015-14021	prized	_	_	_	
+133-7	14024-14028	than	_	_	_	
+133-8	14029-14032	the	_	_	_	
+133-9	14033-14037	more	_	_	_	
+133-10	14038-14044	recent	_	_	_	
+133-11	14045-14052	product	_	_	_	
+133-12	14053-14055	of	_	_	_	
+133-13	14056-14059	the	_	_	_	
+133-14	14060-14065	still	_	_	_	
+133-15	14065-14066	,	_	_	_	
+133-16	14067-14071	from	_	_	_	
+133-17	14072-14075	the	_	_	_	
+133-18	14076-14080	fact	_	_	_	
+133-19	14081-14085	that	_	_	_	
+133-20	14086-14090	when	_	_	_	
+133-21	14091-14095	kept	_	_	_	
+133-22	14098-14101	for	_	_	_	
+133-23	14102-14106	some	_	_	_	
+133-24	14107-14112	years	_	_	_	
+133-25	14113-14120	certain	Taste Modifier[50]	_	_	
+133-26	14121-14129	volatile	Taste Modifier[50]	_	_	
+133-27	14130-14134	oils	Taste Modifier[50]	_	_	
+133-28	14135-14138	are	_	_	_	
+133-29	14139-14148	generated	_	_	_	
+133-30	14149-14154	which	_	_	_	
+133-31	14154-14155	,	_	_	_	
+133-32	14156-14162	impart	_	_	_	
+133-33	14163-14165	to	_	_	_	
+133-34	14166-14168	it	_	_	_	
+133-35	14169-14170	a	_	_	_	
+133-36	14173-14183	mellowness	Quality	_	_	
+133-37	14184-14186	of	_	_	_	
+133-38	14187-14193	flavor	Taste Word	*|*|*	133-36|133-1[49_0]|133-25[50_0]	
+133-39	14193-14194	.	_	_	_	
+
+#Text=Brandy is a solution of alcohol in water, together with various other 
+#Text= substances.
+134-1	14200-14206	Brandy	_	_	_	
+134-2	14207-14209	is	_	_	_	
+134-3	14210-14211	a	_	_	_	
+134-4	14212-14220	solution	_	_	_	
+134-5	14221-14223	of	_	_	_	
+134-6	14224-14231	alcohol	_	_	_	
+134-7	14232-14234	in	_	_	_	
+134-8	14235-14240	water	_	_	_	
+134-9	14240-14241	,	_	_	_	
+134-10	14242-14250	together	_	_	_	
+134-11	14251-14255	with	_	_	_	
+134-12	14256-14263	various	_	_	_	
+134-13	14264-14269	other	_	_	_	
+134-14	14272-14282	substances	_	_	_	
+134-15	14282-14283	.	_	_	_	
+
+#Text=It contains from fifty to fifty-six per cent. of alcohol.
+135-1	14284-14286	It	_	_	_	
+135-2	14287-14295	contains	_	_	_	
+135-3	14296-14300	from	_	_	_	
+135-4	14301-14306	fifty	_	_	_	
+135-5	14307-14309	to	_	_	_	
+135-6	14310-14319	fifty-six	_	_	_	
+135-7	14320-14323	per	_	_	_	
+135-8	14324-14328	cent	_	_	_	
+135-9	14328-14329	.	_	_	_	
+135-10	14330-14332	of	_	_	_	
+135-11	14333-14340	alcohol	_	_	_	
+135-12	14340-14341	.	_	_	_	
+
+#Text=Pure brandy is distilled from wine, 1,000 gallons of wine yielding from 
+#Text= 100 to 150 gallons of brandy, but a very large proportion of the brandy 
+#Text= is made with little or no wine.
+136-1	14344-14348	Pure	Taste Source[51]	_	_	
+136-2	14349-14355	brandy	Taste Source[51]	_	_	
+136-3	14356-14358	is	_	_	_	
+136-4	14359-14368	distilled	_	_	_	
+136-5	14369-14373	from	_	_	_	
+136-6	14374-14378	wine	_	_	_	
+136-7	14378-14379	,	_	_	_	
+136-8	14380-14385	1,000	_	_	_	
+136-9	14386-14393	gallons	_	_	_	
+136-10	14394-14396	of	_	_	_	
+136-11	14397-14401	wine	_	_	_	
+136-12	14402-14410	yielding	_	_	_	
+136-13	14411-14415	from	_	_	_	
+136-14	14418-14421	100	_	_	_	
+136-15	14422-14424	to	_	_	_	
+136-16	14425-14428	150	_	_	_	
+136-17	14429-14436	gallons	_	_	_	
+136-18	14437-14439	of	_	_	_	
+136-19	14440-14446	brandy	_	_	_	
+136-20	14446-14447	,	_	_	_	
+136-21	14448-14451	but	_	_	_	
+136-22	14452-14453	a	_	_	_	
+136-23	14454-14458	very	_	_	_	
+136-24	14459-14464	large	_	_	_	
+136-25	14465-14475	proportion	_	_	_	
+136-26	14476-14478	of	_	_	_	
+136-27	14479-14482	the	_	_	_	
+136-28	14483-14489	brandy	_	_	_	
+136-29	14492-14494	is	_	_	_	
+136-30	14495-14499	made	_	_	_	
+136-31	14500-14504	with	_	_	_	
+136-32	14505-14511	little	_	_	_	
+136-33	14512-14514	or	_	_	_	
+136-34	14515-14517	no	_	_	_	
+136-35	14518-14522	wine	_	_	_	
+136-36	14522-14523	.	_	_	_	
+
+#Text=It is made artificially from high wines 
+#Text= by the addition of oil of Cognac, to give it flavor, burnt sugar to give 
+#Text= it color, and logwood or catechu, to impart astringency and roughness of 
+#Text= taste.
+137-1	14524-14526	It	_	_	_	
+137-2	14527-14529	is	_	_	_	
+137-3	14530-14534	made	_	_	_	
+137-4	14535-14547	artificially	_	_	_	
+137-5	14548-14552	from	_	_	_	
+137-6	14553-14557	high	_	_	_	
+137-7	14558-14563	wines	_	_	_	
+137-8	14566-14568	by	_	_	_	
+137-9	14569-14572	the	_	_	_	
+137-10	14573-14581	addition	_	_	_	
+137-11	14582-14584	of	_	_	_	
+137-12	14585-14588	oil	Taste Modifier[52]	_	_	
+137-13	14589-14591	of	Taste Modifier[52]	_	_	
+137-14	14592-14598	Cognac	Taste Modifier[52]	_	_	
+137-15	14598-14599	,	_	_	_	
+137-16	14600-14602	to	_	_	_	
+137-17	14603-14607	give	_	_	_	
+137-18	14608-14610	it	Taste Source	anaphorical	136-1[51_0]	
+137-19	14611-14617	flavor	Taste Word	*	137-12[52_0]	
+137-20	14617-14618	,	_	_	_	
+137-21	14619-14624	burnt	Taste Modifier[53]	_	_	
+137-22	14625-14630	sugar	Taste Modifier[53]	_	_	
+137-23	14631-14633	to	_	_	_	
+137-24	14634-14638	give	_	_	_	
+137-25	14641-14643	it	Taste Source	anaphorical	136-1[51_0]	
+137-26	14644-14649	color	_	_	_	
+137-27	14649-14650	,	_	_	_	
+137-28	14651-14654	and	_	_	_	
+137-29	14655-14662	logwood	_	_	_	
+137-30	14663-14665	or	_	_	_	
+137-31	14666-14673	catechu	_	_	_	
+137-32	14673-14674	,	_	_	_	
+137-33	14675-14677	to	_	_	_	
+137-34	14678-14684	impart	_	_	_	
+137-35	14685-14696	astringency	Quality	_	_	
+137-36	14697-14700	and	_	_	_	
+137-37	14701-14710	roughness	Quality	_	_	
+137-38	14711-14713	of	_	_	_	
+137-39	14716-14721	taste	Taste Word	*|*|*|*	137-37|137-35|137-21[53_0]|137-25	
+137-40	14721-14722	.	_	_	_	
+
+#Text=The best brandy is obtained by distillation from the best quality 
+#Text= of white wines, from the districts of Cognac and Armagnac in France.
+#Text=the stomach, attended by impatience, irritability, sluggishness, 
+#Text= anxiety, and melancholy; there is impairment of the appetite and taste, 
+#Text= also sourness, flatulency, and, perhaps, frequent attacks of colic, loss 
+#Text= of hope, courage, and energy; apathy, drowsiness, and frightful dreams 
+#Text= are also symptoms common in the different stages of this disease.
+138-1	14723-14726	The	_	_	_	
+138-2	14727-14731	best	_	_	_	
+138-3	14732-14738	brandy	_	_	_	
+138-4	14739-14741	is	_	_	_	
+138-5	14742-14750	obtained	_	_	_	
+138-6	14751-14753	by	_	_	_	
+138-7	14754-14766	distillation	_	_	_	
+138-8	14767-14771	from	_	_	_	
+138-9	14772-14775	the	_	_	_	
+138-10	14776-14780	best	_	_	_	
+138-11	14781-14788	quality	_	_	_	
+138-12	14791-14793	of	_	_	_	
+138-13	14794-14799	white	_	_	_	
+138-14	14800-14805	wines	_	_	_	
+138-15	14805-14806	,	_	_	_	
+138-16	14807-14811	from	_	_	_	
+138-17	14812-14815	the	_	_	_	
+138-18	14816-14825	districts	_	_	_	
+138-19	14826-14828	of	_	_	_	
+138-20	14829-14835	Cognac	_	_	_	
+138-21	14836-14839	and	_	_	_	
+138-22	14840-14848	Armagnac	_	_	_	
+138-23	14849-14851	in	_	_	_	
+138-24	14852-14858	France	_	_	_	
+138-25	14858-14859	.	_	_	_	
+138-26	14860-14863	the	_	_	_	
+138-27	14864-14871	stomach	_	_	_	
+138-28	14871-14872	,	_	_	_	
+138-29	14873-14881	attended	_	_	_	
+138-30	14882-14884	by	_	_	_	
+138-31	14885-14895	impatience	_	_	_	
+138-32	14895-14896	,	_	_	_	
+138-33	14897-14909	irritability	_	_	_	
+138-34	14909-14910	,	_	_	_	
+138-35	14911-14923	sluggishness	_	_	_	
+138-36	14923-14924	,	_	_	_	
+138-37	14927-14934	anxiety	_	_	_	
+138-38	14934-14935	,	_	_	_	
+138-39	14936-14939	and	_	_	_	
+138-40	14940-14950	melancholy	_	_	_	
+138-41	14950-14951	;	_	_	_	
+138-42	14952-14957	there	_	_	_	
+138-43	14958-14960	is	_	_	_	
+138-44	14961-14971	impairment	_	_	_	
+138-45	14972-14974	of	_	_	_	
+138-46	14975-14978	the	_	_	_	
+138-47	14979-14987	appetite	_	_	_	
+138-48	14988-14991	and	_	_	_	
+138-49	14992-14997	taste	Taste Word	_	_	
+138-50	14997-14998	,	_	_	_	
+138-51	15001-15005	also	_	_	_	
+138-52	15006-15014	sourness	Taste Word[54]|Quality[55]	*	138-52[55_54]	
+138-53	15014-15015	,	_	_	_	
+138-54	15016-15026	flatulency	_	_	_	
+138-55	15026-15027	,	_	_	_	
+138-56	15028-15031	and	_	_	_	
+138-57	15031-15032	,	_	_	_	
+138-58	15033-15040	perhaps	_	_	_	
+138-59	15040-15041	,	_	_	_	
+138-60	15042-15050	frequent	_	_	_	
+138-61	15051-15058	attacks	_	_	_	
+138-62	15059-15061	of	_	_	_	
+138-63	15062-15067	colic	_	_	_	
+138-64	15067-15068	,	_	_	_	
+138-65	15069-15073	loss	_	_	_	
+138-66	15076-15078	of	_	_	_	
+138-67	15079-15083	hope	_	_	_	
+138-68	15083-15084	,	_	_	_	
+138-69	15085-15092	courage	_	_	_	
+138-70	15092-15093	,	_	_	_	
+138-71	15094-15097	and	_	_	_	
+138-72	15098-15104	energy	_	_	_	
+138-73	15104-15105	;	_	_	_	
+138-74	15106-15112	apathy	_	_	_	
+138-75	15112-15113	,	_	_	_	
+138-76	15114-15124	drowsiness	_	_	_	
+138-77	15124-15125	,	_	_	_	
+138-78	15126-15129	and	_	_	_	
+138-79	15130-15139	frightful	_	_	_	
+138-80	15140-15146	dreams	_	_	_	
+138-81	15149-15152	are	_	_	_	
+138-82	15153-15157	also	_	_	_	
+138-83	15158-15166	symptoms	_	_	_	
+138-84	15167-15173	common	_	_	_	
+138-85	15174-15176	in	_	_	_	
+138-86	15177-15180	the	_	_	_	
+138-87	15181-15190	different	_	_	_	
+138-88	15191-15197	stages	_	_	_	
+138-89	15198-15200	of	_	_	_	
+138-90	15201-15205	this	_	_	_	
+138-91	15206-15213	disease	_	_	_	
+138-92	15213-15214	.	_	_	_	
+
+#Text=There 
+#Text= are, furthermore, the accompanying symptoms of a coated tongue, bitter 
+#Text= taste in the mouth, unpleasant eructations, scalding of the throat from 
+#Text= regurgitation, offensive breath, sick headache, giddiness, disturbed 
+#Text= sleep, sallow countenance, heart-burn, morbid craving after food, 
+#Text= constant anxiety and apprehension, fancied impotency, and fickleness.
+139-1	15215-15220	There	_	_	_	
+139-2	15223-15226	are	_	_	_	
+139-3	15226-15227	,	_	_	_	
+139-4	15228-15239	furthermore	_	_	_	
+139-5	15239-15240	,	_	_	_	
+139-6	15241-15244	the	_	_	_	
+139-7	15245-15257	accompanying	_	_	_	
+139-8	15258-15266	symptoms	_	_	_	
+139-9	15267-15269	of	_	_	_	
+139-10	15270-15271	a	_	_	_	
+139-11	15272-15278	coated	_	_	_	
+139-12	15279-15285	tongue	_	_	_	
+139-13	15285-15286	,	_	_	_	
+139-14	15287-15293	bitter	Taste Word[56]|Quality[57]	*	139-14[57_56]	
+139-15	15296-15301	taste	Taste Word	*	139-14[57_0]	
+139-16	15302-15304	in	_	_	_	
+139-17	15305-15308	the	_	_	_	
+139-18	15309-15314	mouth	_	_	_	
+139-19	15314-15315	,	_	_	_	
+139-20	15316-15326	unpleasant	_	_	_	
+139-21	15327-15338	eructations	_	_	_	
+139-22	15338-15339	,	_	_	_	
+139-23	15340-15348	scalding	_	_	_	
+139-24	15349-15351	of	_	_	_	
+139-25	15352-15355	the	_	_	_	
+139-26	15356-15362	throat	_	_	_	
+139-27	15363-15367	from	_	_	_	
+139-28	15370-15383	regurgitation	_	_	_	
+139-29	15383-15384	,	_	_	_	
+139-30	15385-15394	offensive	_	_	_	
+139-31	15395-15401	breath	_	_	_	
+139-32	15401-15402	,	_	_	_	
+139-33	15403-15407	sick	_	_	_	
+139-34	15408-15416	headache	_	_	_	
+139-35	15416-15417	,	_	_	_	
+139-36	15418-15427	giddiness	_	_	_	
+139-37	15427-15428	,	_	_	_	
+139-38	15429-15438	disturbed	_	_	_	
+139-39	15441-15446	sleep	_	_	_	
+139-40	15446-15447	,	_	_	_	
+139-41	15448-15454	sallow	_	_	_	
+139-42	15455-15466	countenance	_	_	_	
+139-43	15466-15467	,	_	_	_	
+139-44	15468-15478	heart-burn	_	_	_	
+139-45	15478-15479	,	_	_	_	
+139-46	15480-15486	morbid	_	_	_	
+139-47	15487-15494	craving	_	_	_	
+139-48	15495-15500	after	_	_	_	
+139-49	15501-15505	food	_	_	_	
+139-50	15505-15506	,	_	_	_	
+139-51	15509-15517	constant	_	_	_	
+139-52	15518-15525	anxiety	_	_	_	
+139-53	15526-15529	and	_	_	_	
+139-54	15530-15542	apprehension	_	_	_	
+139-55	15542-15543	,	_	_	_	
+139-56	15544-15551	fancied	_	_	_	
+139-57	15552-15561	impotency	_	_	_	
+139-58	15561-15562	,	_	_	_	
+139-59	15563-15566	and	_	_	_	
+139-60	15567-15577	fickleness	_	_	_	
+139-61	15577-15578	.	_	_	_	
+
+#Text=The subjects of dyspepsia frequently imagine that they require medicines 
+#Text= to act upon the liver, desire active treatment, are endlessly 
+#Text= experimenting in diet, daily rehearse their symptoms, and are morbidly 
+#Text= sensitive.
+140-1	15581-15584	The	_	_	_	
+140-2	15585-15593	subjects	_	_	_	
+140-3	15594-15596	of	_	_	_	
+140-4	15597-15606	dyspepsia	_	_	_	
+140-5	15607-15617	frequently	_	_	_	
+140-6	15618-15625	imagine	_	_	_	
+140-7	15626-15630	that	_	_	_	
+140-8	15631-15635	they	_	_	_	
+140-9	15636-15643	require	_	_	_	
+140-10	15644-15653	medicines	_	_	_	
+140-11	15656-15658	to	_	_	_	
+140-12	15659-15662	act	_	_	_	
+140-13	15663-15667	upon	_	_	_	
+140-14	15668-15671	the	_	_	_	
+140-15	15672-15677	liver	_	_	_	
+140-16	15677-15678	,	_	_	_	
+140-17	15679-15685	desire	_	_	_	
+140-18	15686-15692	active	_	_	_	
+140-19	15693-15702	treatment	_	_	_	
+140-20	15702-15703	,	_	_	_	
+140-21	15704-15707	are	_	_	_	
+140-22	15708-15717	endlessly	_	_	_	
+140-23	15720-15733	experimenting	_	_	_	
+140-24	15734-15736	in	_	_	_	
+140-25	15737-15741	diet	_	_	_	
+140-26	15741-15742	,	_	_	_	
+140-27	15743-15748	daily	_	_	_	
+140-28	15749-15757	rehearse	_	_	_	
+140-29	15758-15763	their	_	_	_	
+140-30	15764-15772	symptoms	_	_	_	
+140-31	15772-15773	,	_	_	_	
+140-32	15774-15777	and	_	_	_	
+140-33	15778-15781	are	_	_	_	
+140-34	15782-15790	morbidly	_	_	_	
+140-35	15793-15802	sensitive	_	_	_	
+140-36	15802-15803	.	_	_	_	
+
+#Text=CAUSES.
+141-1	15809-15815	CAUSES	_	_	_	
+141-2	15815-15816	.	_	_	_	
+
+#Text=Overtasking the body or mind, overloading the stomach, the use 
+#Text= of improper food, such as stale vegetables and meat, unripe fruits, 
+#Text= indigestible articles, improperly prepared food, irregular meals, 
+#Text= disorderly habits, the use of alcoholic stimulants, loss of sleep, 
+#Text= masturbation irritability of temper, anxiety, or grief may all give rise
+#Text=book.
+142-1	15817-15828	Overtasking	_	_	_	
+142-2	15829-15832	the	_	_	_	
+142-3	15833-15837	body	_	_	_	
+142-4	15838-15840	or	_	_	_	
+142-5	15841-15845	mind	_	_	_	
+142-6	15845-15846	,	_	_	_	
+142-7	15847-15858	overloading	_	_	_	
+142-8	15859-15862	the	_	_	_	
+142-9	15863-15870	stomach	_	_	_	
+142-10	15870-15871	,	_	_	_	
+142-11	15872-15875	the	_	_	_	
+142-12	15876-15879	use	_	_	_	
+142-13	15882-15884	of	_	_	_	
+142-14	15885-15893	improper	_	_	_	
+142-15	15894-15898	food	_	_	_	
+142-16	15898-15899	,	_	_	_	
+142-17	15900-15904	such	_	_	_	
+142-18	15905-15907	as	_	_	_	
+142-19	15908-15913	stale	Taste Word[58]|Quality[59]	*|*|*	142-19[59_58]|142-22[0_58]|142-20[0_58]	
+142-20	15914-15924	vegetables	Taste Source	_	_	
+142-21	15925-15928	and	_	_	_	
+142-22	15929-15933	meat	Taste Source	_	_	
+142-23	15933-15934	,	_	_	_	
+142-24	15935-15941	unripe	_	_	_	
+142-25	15942-15948	fruits	_	_	_	
+142-26	15948-15949	,	_	_	_	
+142-27	15952-15964	indigestible	Taste Word[60]|Quality[61]	*|*	142-27[61_60]|142-28[0_60]	
+142-28	15965-15973	articles	Taste Source	_	_	
+142-29	15973-15974	,	_	_	_	
+142-30	15975-15985	improperly	_	_	_	
+142-31	15986-15994	prepared	_	_	_	
+142-32	15995-15999	food	_	_	_	
+142-33	15999-16000	,	_	_	_	
+142-34	16001-16010	irregular	_	_	_	
+142-35	16011-16016	meals	_	_	_	
+142-36	16016-16017	,	_	_	_	
+142-37	16020-16030	disorderly	_	_	_	
+142-38	16031-16037	habits	_	_	_	
+142-39	16037-16038	,	_	_	_	
+142-40	16039-16042	the	_	_	_	
+142-41	16043-16046	use	_	_	_	
+142-42	16047-16049	of	_	_	_	
+142-43	16050-16059	alcoholic	_	_	_	
+142-44	16060-16070	stimulants	_	_	_	
+142-45	16070-16071	,	_	_	_	
+142-46	16072-16076	loss	_	_	_	
+142-47	16077-16079	of	_	_	_	
+142-48	16080-16085	sleep	_	_	_	
+142-49	16085-16086	,	_	_	_	
+142-50	16089-16101	masturbation	_	_	_	
+142-51	16102-16114	irritability	_	_	_	
+142-52	16115-16117	of	_	_	_	
+142-53	16118-16124	temper	_	_	_	
+142-54	16124-16125	,	_	_	_	
+142-55	16126-16133	anxiety	_	_	_	
+142-56	16133-16134	,	_	_	_	
+142-57	16135-16137	or	_	_	_	
+142-58	16138-16143	grief	_	_	_	
+142-59	16144-16147	may	_	_	_	
+142-60	16148-16151	all	_	_	_	
+142-61	16152-16156	give	_	_	_	
+142-62	16157-16161	rise	_	_	_	
+142-63	16162-16166	book	_	_	_	
+142-64	16166-16167	.	_	_	_	
+
+#Text=I have told dozens if they were sick to call on you.
+143-1	16168-16169	I	_	_	_	
+143-2	16170-16174	have	_	_	_	
+143-3	16175-16179	told	_	_	_	
+143-4	16180-16186	dozens	_	_	_	
+143-5	16187-16189	if	_	_	_	
+143-6	16190-16194	they	_	_	_	
+143-7	16195-16199	were	_	_	_	
+143-8	16200-16204	sick	_	_	_	
+143-9	16205-16207	to	_	_	_	
+143-10	16208-16212	call	_	_	_	
+143-11	16213-16215	on	_	_	_	
+143-12	16216-16219	you	_	_	_	
+143-13	16219-16220	.	_	_	_	
+
+#Text=With my best 
+#Text= wishes, and hoping that all of your patients will receive as much 
+#Text= benefit as I did, I remain, 
+#Text=  
+#Text= Very truly yours, 
+#Text= GEORGE R.
+144-1	16221-16225	With	_	_	_	
+144-2	16226-16228	my	_	_	_	
+144-3	16229-16233	best	_	_	_	
+144-4	16236-16242	wishes	_	_	_	
+144-5	16242-16243	,	_	_	_	
+144-6	16244-16247	and	_	_	_	
+144-7	16248-16254	hoping	_	_	_	
+144-8	16255-16259	that	_	_	_	
+144-9	16260-16263	all	_	_	_	
+144-10	16264-16266	of	_	_	_	
+144-11	16267-16271	your	_	_	_	
+144-12	16272-16280	patients	_	_	_	
+144-13	16281-16285	will	_	_	_	
+144-14	16286-16293	receive	_	_	_	
+144-15	16294-16296	as	_	_	_	
+144-16	16297-16301	much	_	_	_	
+144-17	16304-16311	benefit	_	_	_	
+144-18	16312-16314	as	_	_	_	
+144-19	16315-16316	I	_	_	_	
+144-20	16317-16320	did	_	_	_	
+144-21	16320-16321	,	_	_	_	
+144-22	16322-16323	I	_	_	_	
+144-23	16324-16330	remain	_	_	_	
+144-24	16330-16331	,	_	_	_	
+144-25	16337-16341	Very	_	_	_	
+144-26	16342-16347	truly	_	_	_	
+144-27	16348-16353	yours	_	_	_	
+144-28	16353-16354	,	_	_	_	
+144-29	16357-16363	GEORGE	_	_	_	
+144-30	16364-16365	R	_	_	_	
+144-31	16365-16366	.	_	_	_	
+
+#Text=KENYON 
+#Text= Batavia, Ill.
+145-1	16367-16373	KENYON	_	_	_	
+145-2	16376-16383	Batavia	_	_	_	
+145-3	16383-16384	,	_	_	_	
+145-4	16385-16388	Ill	_	_	_	
+145-5	16388-16389	.	_	_	_	
+
+#Text=DYSPEPSIA.
+146-1	16398-16407	DYSPEPSIA	_	_	_	
+146-2	16407-16408	.	_	_	_	
+
+#Text=WORLD  '  S DISPENSARY MEDICAL ASSOCIATION, Buffalo, N.Y.: 
+#Text=  
+#Text= [Illustration: J.P.
+147-1	16414-16419	WORLD	_	_	_	
+147-2	16421-16422	'	_	_	_	
+147-3	16424-16425	S	_	_	_	
+147-4	16426-16436	DISPENSARY	_	_	_	
+147-5	16437-16444	MEDICAL	_	_	_	
+147-6	16445-16456	ASSOCIATION	_	_	_	
+147-7	16456-16457	,	_	_	_	
+147-8	16458-16465	Buffalo	_	_	_	
+147-9	16465-16466	,	_	_	_	
+147-10	16467-16470	N.Y	_	_	_	
+147-11	16470-16471	.	_	_	_	
+147-12	16471-16472	:	_	_	_	
+147-13	16478-16479	[	_	_	_	
+147-14	16479-16491	Illustration	_	_	_	
+147-15	16491-16492	:	_	_	_	
+147-16	16493-16496	J.P	_	_	_	
+147-17	16496-16497	.	_	_	_	
+
+#Text=McAdams, Esq. ] 
+#Text=  
+#Text= _Gentlemen_--"A few of my symptoms were: Heartburn and fullness after 
+#Text= eating, sometimes pain in my bowels, headache, poor appetite and bad 
+#Text= taste in my mouth.
+148-1	16498-16505	McAdams	_	_	_	
+148-2	16505-16506	,	_	_	_	
+148-3	16507-16510	Esq	_	_	_	
+148-4	16510-16511	.	_	_	_	
+148-5	16512-16513	]	_	_	_	
+148-6	16519-16520	_	_	_	_	
+148-7	16520-16529	Gentlemen	_	_	_	
+148-8	16529-16530	_	_	_	_	
+148-9	16530-16531	-	_	_	_	
+148-10	16531-16532	-	_	_	_	
+148-11	16532-16533	"	_	_	_	
+148-12	16533-16534	A	_	_	_	
+148-13	16535-16538	few	_	_	_	
+148-14	16539-16541	of	_	_	_	
+148-15	16542-16544	my	_	_	_	
+148-16	16545-16553	symptoms	_	_	_	
+148-17	16554-16558	were	_	_	_	
+148-18	16558-16559	:	_	_	_	
+148-19	16560-16569	Heartburn	_	_	_	
+148-20	16570-16573	and	_	_	_	
+148-21	16574-16582	fullness	_	_	_	
+148-22	16583-16588	after	_	_	_	
+148-23	16591-16597	eating	Taste Word	_	_	
+148-24	16597-16598	,	_	_	_	
+148-25	16599-16608	sometimes	_	_	_	
+148-26	16609-16613	pain	_	_	_	
+148-27	16614-16616	in	_	_	_	
+148-28	16617-16619	my	_	_	_	
+148-29	16620-16626	bowels	_	_	_	
+148-30	16626-16627	,	_	_	_	
+148-31	16628-16636	headache	_	_	_	
+148-32	16636-16637	,	_	_	_	
+148-33	16638-16642	poor	_	_	_	
+148-34	16643-16651	appetite	_	_	_	
+148-35	16652-16655	and	_	_	_	
+148-36	16656-16659	bad	Quality	_	_	
+148-37	16662-16667	taste	Taste Word	*|*	148-36|148-38[62_0]	
+148-38	16668-16670	in	Taster[62]	_	_	
+148-39	16671-16673	my	Taster[62]	_	_	
+148-40	16674-16679	mouth	Taster[62]	_	_	
+148-41	16679-16680	.	_	_	_	
+
+#Text=At night I was feverish, with hot flushes over skin.
+149-1	16681-16683	At	_	_	_	
+149-2	16684-16689	night	_	_	_	
+149-3	16690-16691	I	_	_	_	
+149-4	16692-16695	was	_	_	_	
+149-5	16696-16704	feverish	_	_	_	
+149-6	16704-16705	,	_	_	_	
+149-7	16706-16710	with	_	_	_	
+149-8	16711-16714	hot	_	_	_	
+149-9	16715-16722	flushes	_	_	_	
+149-10	16723-16727	over	_	_	_	
+149-11	16728-16732	skin	_	_	_	
+149-12	16732-16733	.	_	_	_	
+
+#Text=After taking Dr.
+150-1	16736-16741	After	_	_	_	
+150-2	16742-16748	taking	_	_	_	
+150-3	16749-16751	Dr	_	_	_	
+150-4	16751-16752	.	_	_	_	
+
+#Text=Pierce  '  s Golden Medical Discovery I was relieved of all 
+#Text= these symptoms, and I feel perfectly well to-day."
+151-1	16753-16759	Pierce	_	_	_	
+151-2	16761-16762	'	_	_	_	
+151-3	16764-16765	s	_	_	_	
+151-4	16766-16772	Golden	_	_	_	
+151-5	16773-16780	Medical	_	_	_	
+151-6	16781-16790	Discovery	_	_	_	
+151-7	16791-16792	I	_	_	_	
+151-8	16793-16796	was	_	_	_	
+151-9	16797-16805	relieved	_	_	_	
+151-10	16806-16808	of	_	_	_	
+151-11	16809-16812	all	_	_	_	
+151-12	16815-16820	these	_	_	_	
+151-13	16821-16829	symptoms	_	_	_	
+151-14	16829-16830	,	_	_	_	
+151-15	16831-16834	and	_	_	_	
+151-16	16835-16836	I	_	_	_	
+151-17	16837-16841	feel	_	_	_	
+151-18	16842-16851	perfectly	_	_	_	
+151-19	16852-16856	well	_	_	_	
+151-20	16857-16863	to-day	_	_	_	
+151-21	16863-16864	.	_	_	_	
+151-22	16864-16865	"	_	_	_	
+
+#Text=DYSPEPSIA, TORPID LIVER--TERRIBLE SUFFERING.
+152-1	16869-16878	DYSPEPSIA	_	_	_	
+152-2	16878-16879	,	_	_	_	
+152-3	16880-16886	TORPID	_	_	_	
+152-4	16887-16892	LIVER	_	_	_	
+152-5	16892-16893	-	_	_	_	
+152-6	16893-16894	-	_	_	_	
+152-7	16894-16902	TERRIBLE	_	_	_	
+152-8	16903-16912	SUFFERING	_	_	_	
+152-9	16912-16913	.	_	_	_	
+
+#Text=[Illustration: MRS.
+153-1	16919-16920	[	_	_	_	
+153-2	16920-16932	Illustration	_	_	_	
+153-3	16932-16933	:	_	_	_	
+153-4	16934-16937	MRS	_	_	_	
+153-5	16937-16938	.	_	_	_	
+
+#Text=O  '  BANNON] 
+#Text=  
+#Text= DR.
+154-1	16939-16940	O	_	_	_	
+154-2	16942-16943	'	_	_	_	
+154-3	16945-16951	BANNON	_	_	_	
+154-4	16951-16952	]	_	_	_	
+154-5	16958-16960	DR	_	_	_	
+154-6	16960-16961	.	_	_	_	
+
+#Text=R.V.
+155-1	16962-16965	R.V	_	_	_	
+155-2	16965-16966	.	_	_	_	
+
+#Text=PIERCE: _Dear Sir_--When I commenced your medicines, had 
+#Text= headache all the time, indigestion, pain in my back and loins, soreness 
+#Text= and stiffness in my joints, my limbs ached so I could not sleep at 
+#Text= night: I could not lie in bed more than two or three hours any night; 
+#Text= when I would lie my head on the pillow I would have to rise immediately 
+#Text= to get breath, sit up and walk the floor very near all night.
+156-1	16967-16973	PIERCE	_	_	_	
+156-2	16973-16974	:	_	_	_	
+156-3	16975-16976	_	_	_	_	
+156-4	16976-16980	Dear	_	_	_	
+156-5	16981-16984	Sir	_	_	_	
+156-6	16984-16985	_	_	_	_	
+156-7	16985-16986	-	_	_	_	
+156-8	16986-16987	-	_	_	_	
+156-9	16987-16991	When	_	_	_	
+156-10	16992-16993	I	_	_	_	
+156-11	16994-17003	commenced	_	_	_	
+156-12	17004-17008	your	_	_	_	
+156-13	17009-17018	medicines	_	_	_	
+156-14	17018-17019	,	_	_	_	
+156-15	17020-17023	had	_	_	_	
+156-16	17026-17034	headache	_	_	_	
+156-17	17035-17038	all	_	_	_	
+156-18	17039-17042	the	_	_	_	
+156-19	17043-17047	time	_	_	_	
+156-20	17047-17048	,	_	_	_	
+156-21	17049-17060	indigestion	_	_	_	
+156-22	17060-17061	,	_	_	_	
+156-23	17062-17066	pain	_	_	_	
+156-24	17067-17069	in	_	_	_	
+156-25	17070-17072	my	_	_	_	
+156-26	17073-17077	back	_	_	_	
+156-27	17078-17081	and	_	_	_	
+156-28	17082-17087	loins	_	_	_	
+156-29	17087-17088	,	_	_	_	
+156-30	17089-17097	soreness	_	_	_	
+156-31	17100-17103	and	_	_	_	
+156-32	17104-17113	stiffness	_	_	_	
+156-33	17114-17116	in	_	_	_	
+156-34	17117-17119	my	_	_	_	
+156-35	17120-17126	joints	_	_	_	
+156-36	17126-17127	,	_	_	_	
+156-37	17128-17130	my	_	_	_	
+156-38	17131-17136	limbs	_	_	_	
+156-39	17137-17142	ached	_	_	_	
+156-40	17143-17145	so	_	_	_	
+156-41	17146-17147	I	_	_	_	
+156-42	17148-17153	could	_	_	_	
+156-43	17154-17157	not	_	_	_	
+156-44	17158-17163	sleep	_	_	_	
+156-45	17164-17166	at	_	_	_	
+156-46	17169-17174	night	_	_	_	
+156-47	17174-17175	:	_	_	_	
+156-48	17176-17177	I	_	_	_	
+156-49	17178-17183	could	_	_	_	
+156-50	17184-17187	not	_	_	_	
+156-51	17188-17191	lie	_	_	_	
+156-52	17192-17194	in	_	_	_	
+156-53	17195-17198	bed	_	_	_	
+156-54	17199-17203	more	_	_	_	
+156-55	17204-17208	than	_	_	_	
+156-56	17209-17212	two	_	_	_	
+156-57	17213-17215	or	_	_	_	
+156-58	17216-17221	three	_	_	_	
+156-59	17222-17227	hours	_	_	_	
+156-60	17228-17231	any	_	_	_	
+156-61	17232-17237	night	_	_	_	
+156-62	17237-17238	;	_	_	_	
+156-63	17241-17245	when	_	_	_	
+156-64	17246-17247	I	_	_	_	
+156-65	17248-17253	would	_	_	_	
+156-66	17254-17257	lie	_	_	_	
+156-67	17258-17260	my	_	_	_	
+156-68	17261-17265	head	_	_	_	
+156-69	17266-17268	on	_	_	_	
+156-70	17269-17272	the	_	_	_	
+156-71	17273-17279	pillow	_	_	_	
+156-72	17280-17281	I	_	_	_	
+156-73	17282-17287	would	_	_	_	
+156-74	17288-17292	have	_	_	_	
+156-75	17293-17295	to	_	_	_	
+156-76	17296-17300	rise	_	_	_	
+156-77	17301-17312	immediately	_	_	_	
+156-78	17315-17317	to	_	_	_	
+156-79	17318-17321	get	_	_	_	
+156-80	17322-17328	breath	_	_	_	
+156-81	17328-17329	,	_	_	_	
+156-82	17330-17333	sit	_	_	_	
+156-83	17334-17336	up	_	_	_	
+156-84	17337-17340	and	_	_	_	
+156-85	17341-17345	walk	_	_	_	
+156-86	17346-17349	the	_	_	_	
+156-87	17350-17355	floor	_	_	_	
+156-88	17356-17360	very	_	_	_	
+156-89	17361-17365	near	_	_	_	
+156-90	17366-17369	all	_	_	_	
+156-91	17370-17375	night	_	_	_	
+156-92	17375-17376	.	_	_	_	
+
+#Text=I could 
+#Text= not eat anything that would digest; I would do the cooking for the 
+#Text= family, but I was in so much pain the tears were in my eyes all the time 
+#Text= I would get a meal ready.
+157-1	17377-17378	I	Taster	_	_	
+157-2	17379-17384	could	_	_	_	
+157-3	17387-17390	not	_	_	_	
+157-4	17391-17394	eat	Taste Word	*|*	157-5|157-1	
+157-5	17395-17403	anything	Taste Source	_	_	
+157-6	17404-17408	that	_	_	_	
+157-7	17409-17414	would	_	_	_	
+157-8	17415-17421	digest	_	_	_	
+157-9	17421-17422	;	_	_	_	
+157-10	17423-17424	I	_	_	_	
+157-11	17425-17430	would	_	_	_	
+157-12	17431-17433	do	_	_	_	
+157-13	17434-17437	the	_	_	_	
+157-14	17438-17445	cooking	_	_	_	
+157-15	17446-17449	for	_	_	_	
+157-16	17450-17453	the	_	_	_	
+157-17	17456-17462	family	_	_	_	
+157-18	17462-17463	,	_	_	_	
+157-19	17464-17467	but	_	_	_	
+157-20	17468-17469	I	_	_	_	
+157-21	17470-17473	was	_	_	_	
+157-22	17474-17476	in	_	_	_	
+157-23	17477-17479	so	_	_	_	
+157-24	17480-17484	much	_	_	_	
+157-25	17485-17489	pain	_	_	_	
+157-26	17490-17493	the	_	_	_	
+157-27	17494-17499	tears	_	_	_	
+157-28	17500-17504	were	_	_	_	
+157-29	17505-17507	in	_	_	_	
+157-30	17508-17510	my	_	_	_	
+157-31	17511-17515	eyes	_	_	_	
+157-32	17516-17519	all	_	_	_	
+157-33	17520-17523	the	_	_	_	
+157-34	17524-17528	time	_	_	_	
+157-35	17531-17532	I	_	_	_	
+157-36	17533-17538	would	_	_	_	
+157-37	17539-17542	get	_	_	_	
+157-38	17543-17544	a	_	_	_	
+157-39	17545-17549	meal	_	_	_	
+157-40	17550-17555	ready	_	_	_	
+157-41	17555-17556	.	_	_	_	
+
+#Text=I would take one mouthful of bread and then go 
+#Text= off and sit down and cry with hunger, but dare not eat any more, and 
+#Text= then would have to vomit from that one mouthful of bread--I would have 
+#Text= such weak spells I could not stand on my feet.
+158-1	17557-17558	I	Taster	_	_	
+158-2	17559-17564	would	_	_	_	
+158-3	17565-17569	take	_	_	_	
+158-4	17570-17573	one	Taste Source[63]	_	_	
+158-5	17574-17582	mouthful	Taste Source[63]	_	_	
+158-6	17583-17585	of	Taste Source[63]	_	_	
+158-7	17586-17591	bread	Taste Source[63]	_	_	
+158-8	17592-17595	and	_	_	_	
+158-9	17596-17600	then	_	_	_	
+158-10	17601-17603	go	_	_	_	
+158-11	17606-17609	off	_	_	_	
+158-12	17610-17613	and	_	_	_	
+158-13	17614-17617	sit	_	_	_	
+158-14	17618-17622	down	_	_	_	
+158-15	17623-17626	and	_	_	_	
+158-16	17627-17630	cry	_	_	_	
+158-17	17631-17635	with	_	_	_	
+158-18	17636-17642	hunger	_	_	_	
+158-19	17642-17643	,	_	_	_	
+158-20	17644-17647	but	_	_	_	
+158-21	17648-17652	dare	_	_	_	
+158-22	17653-17656	not	_	_	_	
+158-23	17657-17660	eat	Taste Word	*|*	158-1|158-4[63_0]	
+158-24	17661-17664	any	_	_	_	
+158-25	17665-17669	more	_	_	_	
+158-26	17669-17670	,	_	_	_	
+158-27	17671-17674	and	_	_	_	
+158-28	17677-17681	then	_	_	_	
+158-29	17682-17687	would	_	_	_	
+158-30	17688-17692	have	_	_	_	
+158-31	17693-17695	to	_	_	_	
+158-32	17696-17701	vomit	_	_	_	
+158-33	17702-17706	from	_	_	_	
+158-34	17707-17711	that	_	_	_	
+158-35	17712-17715	one	_	_	_	
+158-36	17716-17724	mouthful	_	_	_	
+158-37	17725-17727	of	_	_	_	
+158-38	17728-17733	bread	_	_	_	
+158-39	17733-17734	-	_	_	_	
+158-40	17734-17735	-	_	_	_	
+158-41	17735-17736	I	_	_	_	
+158-42	17737-17742	would	_	_	_	
+158-43	17743-17747	have	_	_	_	
+158-44	17750-17754	such	_	_	_	
+158-45	17755-17759	weak	_	_	_	
+158-46	17760-17766	spells	_	_	_	
+158-47	17767-17768	I	_	_	_	
+158-48	17769-17774	could	_	_	_	
+158-49	17775-17778	not	_	_	_	
+158-50	17779-17784	stand	_	_	_	
+158-51	17785-17787	on	_	_	_	
+158-52	17788-17790	my	_	_	_	
+158-53	17791-17795	feet	_	_	_	
+158-54	17795-17796	.	_	_	_	
+
+#Text=I had tried five doctors, they had done me no good; I had given 
+#Text= up--never to take anything more, only to lull the pain.
+159-1	17802-17803	I	_	_	_	
+159-2	17804-17807	had	_	_	_	
+159-3	17808-17813	tried	_	_	_	
+159-4	17814-17818	five	_	_	_	
+159-5	17819-17826	doctors	_	_	_	
+159-6	17826-17827	,	_	_	_	
+159-7	17828-17832	they	_	_	_	
+159-8	17833-17836	had	_	_	_	
+159-9	17837-17841	done	_	_	_	
+159-10	17842-17844	me	_	_	_	
+159-11	17845-17847	no	_	_	_	
+159-12	17848-17852	good	_	_	_	
+159-13	17852-17853	;	_	_	_	
+159-14	17854-17855	I	_	_	_	
+159-15	17856-17859	had	_	_	_	
+159-16	17860-17865	given	_	_	_	
+159-17	17868-17870	up	_	_	_	
+159-18	17870-17871	-	_	_	_	
+159-19	17871-17872	-	_	_	_	
+159-20	17872-17877	never	_	_	_	
+159-21	17878-17880	to	_	_	_	
+159-22	17881-17885	take	_	_	_	
+159-23	17886-17894	anything	_	_	_	
+159-24	17895-17899	more	_	_	_	
+159-25	17899-17900	,	_	_	_	
+159-26	17901-17905	only	_	_	_	
+159-27	17906-17908	to	_	_	_	
+159-28	17909-17913	lull	_	_	_	
+159-29	17914-17917	the	_	_	_	
+159-30	17918-17922	pain	_	_	_	
+159-31	17922-17923	.	_	_	_	
+
+#Text=I had given up
+#Text=violent shaking, over which I had no control; circulation so feeble that 
+#Text= the extremities were scarcely supplied with blood, they were constantly 
+#Text= cold and clammy.
+160-1	17924-17925	I	_	_	_	
+160-2	17926-17929	had	_	_	_	
+160-3	17930-17935	given	_	_	_	
+160-4	17936-17938	up	_	_	_	
+160-5	17939-17946	violent	_	_	_	
+160-6	17947-17954	shaking	_	_	_	
+160-7	17954-17955	,	_	_	_	
+160-8	17956-17960	over	_	_	_	
+160-9	17961-17966	which	_	_	_	
+160-10	17967-17968	I	_	_	_	
+160-11	17969-17972	had	_	_	_	
+160-12	17973-17975	no	_	_	_	
+160-13	17976-17983	control	_	_	_	
+160-14	17983-17984	;	_	_	_	
+160-15	17985-17996	circulation	_	_	_	
+160-16	17997-17999	so	_	_	_	
+160-17	18000-18006	feeble	_	_	_	
+160-18	18007-18011	that	_	_	_	
+160-19	18014-18017	the	_	_	_	
+160-20	18018-18029	extremities	_	_	_	
+160-21	18030-18034	were	_	_	_	
+160-22	18035-18043	scarcely	_	_	_	
+160-23	18044-18052	supplied	_	_	_	
+160-24	18053-18057	with	_	_	_	
+160-25	18058-18063	blood	_	_	_	
+160-26	18063-18064	,	_	_	_	
+160-27	18065-18069	they	_	_	_	
+160-28	18070-18074	were	_	_	_	
+160-29	18075-18085	constantly	_	_	_	
+160-30	18088-18092	cold	_	_	_	
+160-31	18093-18096	and	_	_	_	
+160-32	18097-18103	clammy	_	_	_	
+160-33	18103-18104	.	_	_	_	
+
+#Text=My sleep broken and disturbed, life was fast becoming a 
+#Text= burden to me, For months, however, I endured this torture; I had 
+#Text= abandoned work altogether; I could be up but a few moments at a time and 
+#Text= could not walk across the floor without excruciating pain.
+161-1	18105-18107	My	_	_	_	
+161-2	18108-18113	sleep	_	_	_	
+161-3	18114-18120	broken	_	_	_	
+161-4	18121-18124	and	_	_	_	
+161-5	18125-18134	disturbed	_	_	_	
+161-6	18134-18135	,	_	_	_	
+161-7	18136-18140	life	_	_	_	
+161-8	18141-18144	was	_	_	_	
+161-9	18145-18149	fast	_	_	_	
+161-10	18150-18158	becoming	_	_	_	
+161-11	18159-18160	a	_	_	_	
+161-12	18163-18169	burden	_	_	_	
+161-13	18170-18172	to	_	_	_	
+161-14	18173-18175	me	_	_	_	
+161-15	18175-18176	,	_	_	_	
+161-16	18177-18180	For	_	_	_	
+161-17	18181-18187	months	_	_	_	
+161-18	18187-18188	,	_	_	_	
+161-19	18189-18196	however	_	_	_	
+161-20	18196-18197	,	_	_	_	
+161-21	18198-18199	I	_	_	_	
+161-22	18200-18207	endured	_	_	_	
+161-23	18208-18212	this	_	_	_	
+161-24	18213-18220	torture	_	_	_	
+161-25	18220-18221	;	_	_	_	
+161-26	18222-18223	I	_	_	_	
+161-27	18224-18227	had	_	_	_	
+161-28	18230-18239	abandoned	_	_	_	
+161-29	18240-18244	work	_	_	_	
+161-30	18245-18255	altogether	_	_	_	
+161-31	18255-18256	;	_	_	_	
+161-32	18257-18258	I	_	_	_	
+161-33	18259-18264	could	_	_	_	
+161-34	18265-18267	be	_	_	_	
+161-35	18268-18270	up	_	_	_	
+161-36	18271-18274	but	_	_	_	
+161-37	18275-18276	a	_	_	_	
+161-38	18277-18280	few	_	_	_	
+161-39	18281-18288	moments	_	_	_	
+161-40	18289-18291	at	_	_	_	
+161-41	18292-18293	a	_	_	_	
+161-42	18294-18298	time	_	_	_	
+161-43	18299-18302	and	_	_	_	
+161-44	18305-18310	could	_	_	_	
+161-45	18311-18314	not	_	_	_	
+161-46	18315-18319	walk	_	_	_	
+161-47	18320-18326	across	_	_	_	
+161-48	18327-18330	the	_	_	_	
+161-49	18331-18336	floor	_	_	_	
+161-50	18337-18344	without	_	_	_	
+161-51	18345-18357	excruciating	_	_	_	
+161-52	18358-18362	pain	_	_	_	
+161-53	18362-18363	.	_	_	_	
+
+#Text=There was no 
+#Text= sleep, no rest, and after a week and even more, would pass during which 
+#Text= I would never close my eyes in sleep, even when morphine, opium and 
+#Text= chloral, were administered.
+162-1	18364-18369	There	_	_	_	
+162-2	18370-18373	was	_	_	_	
+162-3	18374-18376	no	_	_	_	
+162-4	18379-18384	sleep	_	_	_	
+162-5	18384-18385	,	_	_	_	
+162-6	18386-18388	no	_	_	_	
+162-7	18389-18393	rest	_	_	_	
+162-8	18393-18394	,	_	_	_	
+162-9	18395-18398	and	_	_	_	
+162-10	18399-18404	after	_	_	_	
+162-11	18405-18406	a	_	_	_	
+162-12	18407-18411	week	_	_	_	
+162-13	18412-18415	and	_	_	_	
+162-14	18416-18420	even	_	_	_	
+162-15	18421-18425	more	_	_	_	
+162-16	18425-18426	,	_	_	_	
+162-17	18427-18432	would	_	_	_	
+162-18	18433-18437	pass	_	_	_	
+162-19	18438-18444	during	_	_	_	
+162-20	18445-18450	which	_	_	_	
+162-21	18453-18454	I	_	_	_	
+162-22	18455-18460	would	_	_	_	
+162-23	18461-18466	never	_	_	_	
+162-24	18467-18472	close	_	_	_	
+162-25	18473-18475	my	_	_	_	
+162-26	18476-18480	eyes	_	_	_	
+162-27	18481-18483	in	_	_	_	
+162-28	18484-18489	sleep	_	_	_	
+162-29	18489-18490	,	_	_	_	
+162-30	18491-18495	even	_	_	_	
+162-31	18496-18500	when	_	_	_	
+162-32	18501-18509	morphine	_	_	_	
+162-33	18509-18510	,	_	_	_	
+162-34	18511-18516	opium	_	_	_	
+162-35	18517-18520	and	_	_	_	
+162-36	18523-18530	chloral	_	_	_	
+162-37	18530-18531	,	_	_	_	
+162-38	18532-18536	were	_	_	_	
+162-39	18537-18549	administered	_	_	_	
+162-40	18549-18550	.	_	_	_	
+
+#Text=My body seemed a dead weight, while my mind 
+#Text= was alive to all my sufferings.
+163-1	18551-18553	My	_	_	_	
+163-2	18554-18558	body	_	_	_	
+163-3	18559-18565	seemed	_	_	_	
+163-4	18566-18567	a	_	_	_	
+163-5	18568-18572	dead	_	_	_	
+163-6	18573-18579	weight	_	_	_	
+163-7	18579-18580	,	_	_	_	
+163-8	18581-18586	while	_	_	_	
+163-9	18587-18589	my	_	_	_	
+163-10	18590-18594	mind	_	_	_	
+163-11	18597-18600	was	_	_	_	
+163-12	18601-18606	alive	_	_	_	
+163-13	18607-18609	to	_	_	_	
+163-14	18610-18613	all	_	_	_	
+163-15	18614-18616	my	_	_	_	
+163-16	18617-18627	sufferings	_	_	_	
+163-17	18627-18628	.	_	_	_	
+
+#Text=There seemed to be a burning pressure 
+#Text= about my head all the while.
+164-1	18629-18634	There	_	_	_	
+164-2	18635-18641	seemed	_	_	_	
+164-3	18642-18644	to	_	_	_	
+164-4	18645-18647	be	_	_	_	
+164-5	18648-18649	a	_	_	_	
+164-6	18650-18657	burning	_	_	_	
+164-7	18658-18666	pressure	_	_	_	
+164-8	18669-18674	about	_	_	_	
+164-9	18675-18677	my	_	_	_	
+164-10	18678-18682	head	_	_	_	
+164-11	18683-18686	all	_	_	_	
+164-12	18687-18690	the	_	_	_	
+164-13	18691-18696	while	_	_	_	
+164-14	18696-18697	.	_	_	_	
+
+#Text=I would have shaking spells frequently, leaving me perfectly exhausted, 
+#Text= my heart the while beating so rapidly, I could not count the pulsations; 
+#Text= it seemed to cease altogether after that, with a sinking, fainting 
+#Text= feeling over me, making it difficult to breathe at all.
+165-1	18703-18704	I	_	_	_	
+165-2	18705-18710	would	_	_	_	
+165-3	18711-18715	have	_	_	_	
+165-4	18716-18723	shaking	_	_	_	
+165-5	18724-18730	spells	_	_	_	
+165-6	18731-18741	frequently	_	_	_	
+165-7	18741-18742	,	_	_	_	
+165-8	18743-18750	leaving	_	_	_	
+165-9	18751-18753	me	_	_	_	
+165-10	18754-18763	perfectly	_	_	_	
+165-11	18764-18773	exhausted	_	_	_	
+165-12	18773-18774	,	_	_	_	
+165-13	18777-18779	my	_	_	_	
+165-14	18780-18785	heart	_	_	_	
+165-15	18786-18789	the	_	_	_	
+165-16	18790-18795	while	_	_	_	
+165-17	18796-18803	beating	_	_	_	
+165-18	18804-18806	so	_	_	_	
+165-19	18807-18814	rapidly	_	_	_	
+165-20	18814-18815	,	_	_	_	
+165-21	18816-18817	I	_	_	_	
+165-22	18818-18823	could	_	_	_	
+165-23	18824-18827	not	_	_	_	
+165-24	18828-18833	count	_	_	_	
+165-25	18834-18837	the	_	_	_	
+165-26	18838-18848	pulsations	_	_	_	
+165-27	18848-18849	;	_	_	_	
+165-28	18852-18854	it	_	_	_	
+165-29	18855-18861	seemed	_	_	_	
+165-30	18862-18864	to	_	_	_	
+165-31	18865-18870	cease	_	_	_	
+165-32	18871-18881	altogether	_	_	_	
+165-33	18882-18887	after	_	_	_	
+165-34	18888-18892	that	_	_	_	
+165-35	18892-18893	,	_	_	_	
+165-36	18894-18898	with	_	_	_	
+165-37	18899-18900	a	_	_	_	
+165-38	18901-18908	sinking	_	_	_	
+165-39	18908-18909	,	_	_	_	
+165-40	18910-18918	fainting	_	_	_	
+165-41	18921-18928	feeling	_	_	_	
+165-42	18929-18933	over	_	_	_	
+165-43	18934-18936	me	_	_	_	
+165-44	18936-18937	,	_	_	_	
+165-45	18938-18944	making	_	_	_	
+165-46	18945-18947	it	_	_	_	
+165-47	18948-18957	difficult	_	_	_	
+165-48	18958-18960	to	_	_	_	
+165-49	18961-18968	breathe	_	_	_	
+165-50	18969-18971	at	_	_	_	
+165-51	18972-18975	all	_	_	_	
+165-52	18975-18976	.	_	_	_	
+
+#Text=During my 
+#Text= menstrual periods I suffered a "thousand deaths."
+166-1	18977-18983	During	_	_	_	
+166-2	18984-18986	my	_	_	_	
+166-3	18989-18998	menstrual	_	_	_	
+166-4	18999-19006	periods	_	_	_	
+166-5	19007-19008	I	_	_	_	
+166-6	19009-19017	suffered	_	_	_	
+166-7	19018-19019	a	_	_	_	
+166-8	19020-19021	"	_	_	_	
+166-9	19021-19029	thousand	_	_	_	
+166-10	19030-19036	deaths	_	_	_	
+166-11	19036-19037	.	_	_	_	
+166-12	19037-19038	"	_	_	_	
+
+#Text=My appetite was gone, 
+#Text= mind and sight impaired, strength and flesh all gone.
+167-1	19039-19041	My	_	_	_	
+167-2	19042-19050	appetite	_	_	_	
+167-3	19051-19054	was	_	_	_	
+167-4	19055-19059	gone	_	_	_	
+167-5	19059-19060	,	_	_	_	
+167-6	19063-19067	mind	_	_	_	
+167-7	19068-19071	and	_	_	_	
+167-8	19072-19077	sight	_	_	_	
+167-9	19078-19086	impaired	_	_	_	
+167-10	19086-19087	,	_	_	_	
+167-11	19088-19096	strength	_	_	_	
+167-12	19097-19100	and	_	_	_	
+167-13	19101-19106	flesh	_	_	_	
+167-14	19107-19110	all	_	_	_	
+167-15	19111-19115	gone	_	_	_	
+167-16	19115-19116	.	_	_	_	
+
+#Text=I was a pitiable 
+#Text= object to look at, divested of all that made life endurable for me.
+168-1	19117-19118	I	_	_	_	
+168-2	19119-19122	was	_	_	_	
+168-3	19123-19124	a	_	_	_	
+168-4	19125-19133	pitiable	_	_	_	
+168-5	19136-19142	object	_	_	_	
+168-6	19143-19145	to	_	_	_	
+168-7	19146-19150	look	_	_	_	
+168-8	19151-19153	at	_	_	_	
+168-9	19153-19154	,	_	_	_	
+168-10	19155-19163	divested	_	_	_	
+168-11	19164-19166	of	_	_	_	
+168-12	19167-19170	all	_	_	_	
+168-13	19171-19175	that	_	_	_	
+168-14	19176-19180	made	_	_	_	
+168-15	19181-19185	life	_	_	_	
+168-16	19186-19195	endurable	_	_	_	
+168-17	19196-19199	for	_	_	_	
+168-18	19200-19202	me	_	_	_	
+168-19	19202-19203	.	_	_	_	
+
+#Text=I 
+#Text= had baffled the skill of two physicians, and was left, after three years
+#Text=of agony, to die, a "hopeless wreck," worse than death.
+169-1	19204-19205	I	_	_	_	
+169-2	19208-19211	had	_	_	_	
+169-3	19212-19219	baffled	_	_	_	
+169-4	19220-19223	the	_	_	_	
+169-5	19224-19229	skill	_	_	_	
+169-6	19230-19232	of	_	_	_	
+169-7	19233-19236	two	_	_	_	
+169-8	19237-19247	physicians	_	_	_	
+169-9	19247-19248	,	_	_	_	
+169-10	19249-19252	and	_	_	_	
+169-11	19253-19256	was	_	_	_	
+169-12	19257-19261	left	_	_	_	
+169-13	19261-19262	,	_	_	_	
+169-14	19263-19268	after	_	_	_	
+169-15	19269-19274	three	_	_	_	
+169-16	19275-19280	years	_	_	_	
+169-17	19281-19283	of	_	_	_	
+169-18	19284-19289	agony	_	_	_	
+169-19	19289-19290	,	_	_	_	
+169-20	19291-19293	to	_	_	_	
+169-21	19294-19297	die	_	_	_	
+169-22	19297-19298	,	_	_	_	
+169-23	19299-19300	a	_	_	_	
+169-24	19301-19302	"	_	_	_	
+169-25	19302-19310	hopeless	_	_	_	
+169-26	19311-19316	wreck	_	_	_	
+169-27	19316-19317	,	_	_	_	
+169-28	19317-19318	"	_	_	_	
+169-29	19319-19324	worse	_	_	_	
+169-30	19325-19329	than	_	_	_	
+169-31	19330-19335	death	_	_	_	
+169-32	19335-19336	.	_	_	_	
+
+#Text=Such was my condition when I applied to you for treatment.
+170-1	19342-19346	Such	_	_	_	
+170-2	19347-19350	was	_	_	_	
+170-3	19351-19353	my	_	_	_	
+170-4	19354-19363	condition	_	_	_	
+170-5	19364-19368	when	_	_	_	
+170-6	19369-19370	I	_	_	_	
+170-7	19371-19378	applied	_	_	_	
+170-8	19379-19381	to	_	_	_	
+170-9	19382-19385	you	_	_	_	
+170-10	19386-19389	for	_	_	_	
+170-11	19390-19399	treatment	_	_	_	
+170-12	19399-19400	.	_	_	_	
+
+#Text=After using 
+#Text= medicines only six days I began to improve; my nerves were steadier; 
+#Text= circulation better, hands and feet warm.
+171-1	19401-19406	After	_	_	_	
+171-2	19407-19412	using	_	_	_	
+171-3	19415-19424	medicines	_	_	_	
+171-4	19425-19429	only	_	_	_	
+171-5	19430-19433	six	_	_	_	
+171-6	19434-19438	days	_	_	_	
+171-7	19439-19440	I	_	_	_	
+171-8	19441-19446	began	_	_	_	
+171-9	19447-19449	to	_	_	_	
+171-10	19450-19457	improve	_	_	_	
+171-11	19457-19458	;	_	_	_	
+171-12	19459-19461	my	_	_	_	
+171-13	19462-19468	nerves	_	_	_	
+171-14	19469-19473	were	_	_	_	
+171-15	19474-19482	steadier	_	_	_	
+171-16	19482-19483	;	_	_	_	
+171-17	19486-19497	circulation	_	_	_	
+171-18	19498-19504	better	_	_	_	
+171-19	19504-19505	,	_	_	_	
+171-20	19506-19511	hands	_	_	_	
+171-21	19512-19515	and	_	_	_	
+171-22	19516-19520	feet	_	_	_	
+171-23	19521-19525	warm	_	_	_	
+171-24	19525-19526	.	_	_	_	
+
+#Text=Nine days after taking your 
+#Text= medicines they restored the function again.
+172-1	19527-19531	Nine	_	_	_	
+172-2	19532-19536	days	_	_	_	
+172-3	19537-19542	after	_	_	_	
+172-4	19543-19549	taking	_	_	_	
+172-5	19550-19554	your	_	_	_	
+172-6	19557-19566	medicines	_	_	_	
+172-7	19567-19571	they	_	_	_	
+172-8	19572-19580	restored	_	_	_	
+172-9	19581-19584	the	_	_	_	
+172-10	19585-19593	function	_	_	_	
+172-11	19594-19599	again	_	_	_	
+172-12	19599-19600	.	_	_	_	
+
+#Text=I will confess I expected to 
+#Text= suffer death again--I did not think the medicines had had time to effect 
+#Text= a change within so short a time.
+173-1	19601-19602	I	_	_	_	
+173-2	19603-19607	will	_	_	_	
+173-3	19608-19615	confess	_	_	_	
+173-4	19616-19617	I	_	_	_	
+173-5	19618-19626	expected	_	_	_	
+173-6	19627-19629	to	_	_	_	
+173-7	19632-19638	suffer	_	_	_	
+173-8	19639-19644	death	_	_	_	
+173-9	19645-19650	again	_	_	_	
+173-10	19650-19651	-	_	_	_	
+173-11	19651-19652	-	_	_	_	
+173-12	19652-19653	I	_	_	_	
+173-13	19654-19657	did	_	_	_	
+173-14	19658-19661	not	_	_	_	
+173-15	19662-19667	think	_	_	_	
+173-16	19668-19671	the	_	_	_	
+173-17	19672-19681	medicines	_	_	_	
+173-18	19682-19685	had	_	_	_	
+173-19	19686-19689	had	_	_	_	
+173-20	19690-19694	time	_	_	_	
+173-21	19695-19697	to	_	_	_	
+173-22	19698-19704	effect	_	_	_	
+173-23	19707-19708	a	_	_	_	
+173-24	19709-19715	change	_	_	_	
+173-25	19716-19722	within	_	_	_	
+173-26	19723-19725	so	_	_	_	
+173-27	19726-19731	short	_	_	_	
+173-28	19732-19733	a	_	_	_	
+173-29	19734-19738	time	_	_	_	
+173-30	19738-19739	.	_	_	_	
+
+#Text=Imagine my joy and surprise upon waking 
+#Text= next morning to find it had "stolen like a thief upon me in the night," 
+#Text= I knew not when.
+174-1	19740-19747	Imagine	_	_	_	
+174-2	19748-19750	my	_	_	_	
+174-3	19751-19754	joy	_	_	_	
+174-4	19755-19758	and	_	_	_	
+174-5	19759-19767	surprise	_	_	_	
+174-6	19768-19772	upon	_	_	_	
+174-7	19773-19779	waking	_	_	_	
+174-8	19782-19786	next	_	_	_	
+174-9	19787-19794	morning	_	_	_	
+174-10	19795-19797	to	_	_	_	
+174-11	19798-19802	find	_	_	_	
+174-12	19803-19805	it	_	_	_	
+174-13	19806-19809	had	_	_	_	
+174-14	19810-19811	"	_	_	_	
+174-15	19811-19817	stolen	_	_	_	
+174-16	19818-19822	like	_	_	_	
+174-17	19823-19824	a	_	_	_	
+174-18	19825-19830	thief	_	_	_	
+174-19	19831-19835	upon	_	_	_	
+174-20	19836-19838	me	_	_	_	
+174-21	19839-19841	in	_	_	_	
+174-22	19842-19845	the	_	_	_	
+174-23	19846-19851	night	_	_	_	
+174-24	19851-19852	,	_	_	_	
+174-25	19852-19853	"	_	_	_	
+174-26	19856-19857	I	_	_	_	
+174-27	19858-19862	knew	_	_	_	
+174-28	19863-19866	not	_	_	_	
+174-29	19867-19871	when	_	_	_	
+174-30	19871-19872	.	_	_	_	
+
+#Text=I spent the day in grateful tears--how could I help it?
+175-1	19873-19874	I	_	_	_	
+175-2	19875-19880	spent	_	_	_	
+175-3	19881-19884	the	_	_	_	
+175-4	19885-19888	day	_	_	_	
+175-5	19889-19891	in	_	_	_	
+175-6	19892-19900	grateful	_	_	_	
+175-7	19901-19906	tears	_	_	_	
+175-8	19906-19907	-	_	_	_	
+175-9	19907-19908	-	_	_	_	
+175-10	19908-19911	how	_	_	_	
+175-11	19912-19917	could	_	_	_	
+175-12	19918-19919	I	_	_	_	
+175-13	19920-19924	help	_	_	_	
+175-14	19925-19927	it	_	_	_	
+175-15	19927-19928	?	_	_	_	
+
+#Text=It passed off as quietly as it came, leaving my head clear of that 
+#Text= _dreadful, burning pressure_!
+176-1	19931-19933	It	_	_	_	
+176-2	19934-19940	passed	_	_	_	
+176-3	19941-19944	off	_	_	_	
+176-4	19945-19947	as	_	_	_	
+176-5	19948-19955	quietly	_	_	_	
+176-6	19956-19958	as	_	_	_	
+176-7	19959-19961	it	_	_	_	
+176-8	19962-19966	came	_	_	_	
+176-9	19966-19967	,	_	_	_	
+176-10	19968-19975	leaving	_	_	_	
+176-11	19976-19978	my	_	_	_	
+176-12	19979-19983	head	_	_	_	
+176-13	19984-19989	clear	_	_	_	
+176-14	19990-19992	of	_	_	_	
+176-15	19993-19997	that	_	_	_	
+176-16	20000-20001	_	_	_	_	
+176-17	20001-20009	dreadful	_	_	_	
+176-18	20009-20010	,	_	_	_	
+176-19	20011-20018	burning	_	_	_	
+176-20	20019-20027	pressure	_	_	_	
+176-21	20027-20028	_	_	_	_	
+176-22	20028-20029	!	_	_	_	
+
+#Text=My nerves were steady; indeed, my 
+#Text= improvement was so remarkable, that it seemed almost a delusion.
+177-1	20030-20032	My	_	_	_	
+177-2	20033-20039	nerves	_	_	_	
+177-3	20040-20044	were	_	_	_	
+177-4	20045-20051	steady	_	_	_	
+177-5	20051-20052	;	_	_	_	
+177-6	20053-20059	indeed	_	_	_	
+177-7	20059-20060	,	_	_	_	
+177-8	20061-20063	my	_	_	_	
+177-9	20066-20077	improvement	_	_	_	
+177-10	20078-20081	was	_	_	_	
+177-11	20082-20084	so	_	_	_	
+177-12	20085-20095	remarkable	_	_	_	
+177-13	20095-20096	,	_	_	_	
+177-14	20097-20101	that	_	_	_	
+177-15	20102-20104	it	_	_	_	
+177-16	20105-20111	seemed	_	_	_	
+177-17	20112-20118	almost	_	_	_	
+177-18	20119-20120	a	_	_	_	
+177-19	20121-20129	delusion	_	_	_	
+177-20	20129-20130	.	_	_	_	
+
+#Text=My 
+#Text= appetite had returned, and I was hungry for the first time in over a 
+#Text= year.
+178-1	20131-20133	My	_	_	_	
+178-2	20136-20144	appetite	_	_	_	
+178-3	20145-20148	had	_	_	_	
+178-4	20149-20157	returned	_	_	_	
+178-5	20157-20158	,	_	_	_	
+178-6	20159-20162	and	_	_	_	
+178-7	20163-20164	I	_	_	_	
+178-8	20165-20168	was	_	_	_	
+178-9	20169-20175	hungry	_	_	_	
+178-10	20176-20179	for	_	_	_	
+178-11	20180-20183	the	_	_	_	
+178-12	20184-20189	first	_	_	_	
+178-13	20190-20194	time	_	_	_	
+178-14	20195-20197	in	_	_	_	
+178-15	20198-20202	over	_	_	_	
+178-16	20203-20204	a	_	_	_	
+178-17	20207-20211	year	_	_	_	
+178-18	20211-20212	.	_	_	_	
+
+#Text=I slept well--awoke refreshed and feeling stronger.
+179-1	20213-20214	I	_	_	_	
+179-2	20215-20220	slept	_	_	_	
+179-3	20221-20225	well	_	_	_	
+179-4	20225-20226	-	_	_	_	
+179-5	20226-20227	-	_	_	_	
+179-6	20227-20232	awoke	_	_	_	
+179-7	20233-20242	refreshed	_	_	_	
+179-8	20243-20246	and	_	_	_	
+179-9	20247-20254	feeling	_	_	_	
+179-10	20255-20263	stronger	_	_	_	
+179-11	20263-20264	.	_	_	_	
+
+#Text=After two 
+#Text= weeks, I was able to walk around the house and yard without support; a 
+#Text= day or two after that I walked a hundred yards, visiting and spent the 
+#Text= day.
+180-1	20265-20270	After	_	_	_	
+180-2	20271-20274	two	_	_	_	
+180-3	20277-20282	weeks	_	_	_	
+180-4	20282-20283	,	_	_	_	
+180-5	20284-20285	I	_	_	_	
+180-6	20286-20289	was	_	_	_	
+180-7	20290-20294	able	_	_	_	
+180-8	20295-20297	to	_	_	_	
+180-9	20298-20302	walk	_	_	_	
+180-10	20303-20309	around	_	_	_	
+180-11	20310-20313	the	_	_	_	
+180-12	20314-20319	house	_	_	_	
+180-13	20320-20323	and	_	_	_	
+180-14	20324-20328	yard	_	_	_	
+180-15	20329-20336	without	_	_	_	
+180-16	20337-20344	support	_	_	_	
+180-17	20344-20345	;	_	_	_	
+180-18	20346-20347	a	_	_	_	
+180-19	20350-20353	day	_	_	_	
+180-20	20354-20356	or	_	_	_	
+180-21	20357-20360	two	_	_	_	
+180-22	20361-20366	after	_	_	_	
+180-23	20367-20371	that	_	_	_	
+180-24	20372-20373	I	_	_	_	
+180-25	20374-20380	walked	_	_	_	
+180-26	20381-20382	a	_	_	_	
+180-27	20383-20390	hundred	_	_	_	
+180-28	20391-20396	yards	_	_	_	
+180-29	20396-20397	,	_	_	_	
+180-30	20398-20406	visiting	_	_	_	
+180-31	20407-20410	and	_	_	_	
+180-32	20411-20416	spent	_	_	_	
+180-33	20417-20420	the	_	_	_	
+180-34	20423-20426	day	_	_	_	
+180-35	20426-20427	.	_	_	_	
+
+#Text=In three weeks time I went home (I had gone to my mother  '  s before 
+#Text= treatment, as I and many others thought, to die).
+181-1	20428-20430	In	_	_	_	
+181-2	20431-20436	three	_	_	_	
+181-3	20437-20442	weeks	_	_	_	
+181-4	20443-20447	time	_	_	_	
+181-5	20448-20449	I	_	_	_	
+181-6	20450-20454	went	_	_	_	
+181-7	20455-20459	home	_	_	_	
+181-8	20460-20461	(	_	_	_	
+181-9	20461-20462	I	_	_	_	
+181-10	20463-20466	had	_	_	_	
+181-11	20467-20471	gone	_	_	_	
+181-12	20472-20474	to	_	_	_	
+181-13	20475-20477	my	_	_	_	
+181-14	20478-20484	mother	_	_	_	
+181-15	20486-20487	'	_	_	_	
+181-16	20489-20490	s	_	_	_	
+181-17	20491-20497	before	_	_	_	
+181-18	20500-20509	treatment	_	_	_	
+181-19	20509-20510	,	_	_	_	
+181-20	20511-20513	as	_	_	_	
+181-21	20514-20515	I	_	_	_	
+181-22	20516-20519	and	_	_	_	
+181-23	20520-20524	many	_	_	_	
+181-24	20525-20531	others	_	_	_	
+181-25	20532-20539	thought	_	_	_	
+181-26	20539-20540	,	_	_	_	
+181-27	20541-20543	to	_	_	_	
+181-28	20544-20547	die	_	_	_	
+181-29	20547-20548	)	_	_	_	
+181-30	20548-20549	.	_	_	_	
+
+#Text=At the end of one month there was no symptom, nor sign, of the old 
+#Text= disease.
+182-1	20553-20555	At	_	_	_	
+182-2	20556-20559	the	_	_	_	
+182-3	20560-20563	end	_	_	_	
+182-4	20564-20566	of	_	_	_	
+182-5	20567-20570	one	_	_	_	
+182-6	20571-20576	month	_	_	_	
+182-7	20577-20582	there	_	_	_	
+182-8	20583-20586	was	_	_	_	
+182-9	20587-20589	no	_	_	_	
+182-10	20590-20597	symptom	_	_	_	
+182-11	20597-20598	,	_	_	_	
+182-12	20599-20602	nor	_	_	_	
+182-13	20603-20607	sign	_	_	_	
+182-14	20607-20608	,	_	_	_	
+182-15	20609-20611	of	_	_	_	
+182-16	20612-20615	the	_	_	_	
+182-17	20616-20619	old	_	_	_	
+182-18	20622-20629	disease	_	_	_	
+182-19	20629-20630	.	_	_	_	
+
+#Text=I was able to be up all day, resting a short time at noon.
+183-1	20631-20632	I	_	_	_	
+183-2	20633-20636	was	_	_	_	
+183-3	20637-20641	able	_	_	_	
+183-4	20642-20644	to	_	_	_	
+183-5	20645-20647	be	_	_	_	
+183-6	20648-20650	up	_	_	_	
+183-7	20651-20654	all	_	_	_	
+183-8	20655-20658	day	_	_	_	
+183-9	20658-20659	,	_	_	_	
+183-10	20660-20667	resting	_	_	_	
+183-11	20668-20669	a	_	_	_	
+183-12	20670-20675	short	_	_	_	
+183-13	20676-20680	time	_	_	_	
+183-14	20681-20683	at	_	_	_	
+183-15	20684-20688	noon	_	_	_	
+183-16	20688-20689	.	_	_	_	
+
+#Text=To 
+#Text= be sure of permanent results I continued treatment for one month longer, 
+#Text= and have never had a return of the disease nor any symptom of it since.
+184-1	20690-20692	To	_	_	_	
+184-2	20695-20697	be	_	_	_	
+184-3	20698-20702	sure	_	_	_	
+184-4	20703-20705	of	_	_	_	
+184-5	20706-20715	permanent	_	_	_	
+184-6	20716-20723	results	_	_	_	
+184-7	20724-20725	I	_	_	_	
+184-8	20726-20735	continued	_	_	_	
+184-9	20736-20745	treatment	_	_	_	
+184-10	20746-20749	for	_	_	_	
+184-11	20750-20753	one	_	_	_	
+184-12	20754-20759	month	_	_	_	
+184-13	20760-20766	longer	_	_	_	
+184-14	20766-20767	,	_	_	_	
+184-15	20770-20773	and	_	_	_	
+184-16	20774-20778	have	_	_	_	
+184-17	20779-20784	never	_	_	_	
+184-18	20785-20788	had	_	_	_	
+184-19	20789-20790	a	_	_	_	
+184-20	20791-20797	return	_	_	_	
+184-21	20798-20800	of	_	_	_	
+184-22	20801-20804	the	_	_	_	
+184-23	20805-20812	disease	_	_	_	
+184-24	20813-20816	nor	_	_	_	
+184-25	20817-20820	any	_	_	_	
+184-26	20821-20828	symptom	_	_	_	
+184-27	20829-20831	of	_	_	_	
+184-28	20832-20834	it	_	_	_	
+184-29	20835-20840	since	_	_	_	
+184-30	20840-20841	.	_	_	_	
+
+#Text=Before the end of the second month, I was able to be about the house, 
+#Text= helping the children with the cooking, and milking.
+185-1	20844-20850	Before	_	_	_	
+185-2	20851-20854	the	_	_	_	
+185-3	20855-20858	end	_	_	_	
+185-4	20859-20861	of	_	_	_	
+185-5	20862-20865	the	_	_	_	
+185-6	20866-20872	second	_	_	_	
+185-7	20873-20878	month	_	_	_	
+185-8	20878-20879	,	_	_	_	
+185-9	20880-20881	I	_	_	_	
+185-10	20882-20885	was	_	_	_	
+185-11	20886-20890	able	_	_	_	
+185-12	20891-20893	to	_	_	_	
+185-13	20894-20896	be	_	_	_	
+185-14	20897-20902	about	_	_	_	
+185-15	20903-20906	the	_	_	_	
+185-16	20907-20912	house	_	_	_	
+185-17	20912-20913	,	_	_	_	
+185-18	20916-20923	helping	_	_	_	
+185-19	20924-20927	the	_	_	_	
+185-20	20928-20936	children	_	_	_	
+185-21	20937-20941	with	_	_	_	
+185-22	20942-20945	the	_	_	_	
+185-23	20946-20953	cooking	_	_	_	
+185-24	20953-20954	,	_	_	_	
+185-25	20955-20958	and	_	_	_	
+185-26	20959-20966	milking	_	_	_	
+185-27	20966-20967	.	_	_	_	
+
+#Text=My weight increased 
+#Text= fourteen pounds in five months after treatment.
+186-1	20968-20970	My	_	_	_	
+186-2	20971-20977	weight	_	_	_	
+186-3	20978-20987	increased	_	_	_	
+186-4	20990-20998	fourteen	_	_	_	
+186-5	20999-21005	pounds	_	_	_	
+186-6	21006-21008	in	_	_	_	
+186-7	21009-21013	five	_	_	_	
+186-8	21014-21020	months	_	_	_	
+186-9	21021-21026	after	_	_	_	
+186-10	21027-21036	treatment	_	_	_	
+186-11	21036-21037	.	_	_	_	
+
+#Text=I have taken no medicine 
+#Text= since except one bottle of Dr.
+187-1	21038-21039	I	_	_	_	
+187-2	21040-21044	have	_	_	_	
+187-3	21045-21050	taken	_	_	_	
+187-4	21051-21053	no	_	_	_	
+187-5	21054-21062	medicine	_	_	_	
+187-6	21065-21070	since	_	_	_	
+187-7	21071-21077	except	_	_	_	
+187-8	21078-21081	one	_	_	_	
+187-9	21082-21088	bottle	_	_	_	
+187-10	21089-21091	of	_	_	_	
+187-11	21092-21094	Dr	_	_	_	
+187-12	21094-21095	.	_	_	_	
+
+#Text=Pierce  '  s Favorite Prescription, four 
+#Text= years ago.
+188-1	21096-21102	Pierce	_	_	_	
+188-2	21104-21105	'	_	_	_	
+188-3	21107-21108	s	_	_	_	
+188-4	21109-21117	Favorite	_	_	_	
+188-5	21118-21130	Prescription	_	_	_	
+188-6	21130-21131	,	_	_	_	
+188-7	21132-21136	four	_	_	_	
+188-8	21139-21144	years	_	_	_	
+188-9	21145-21148	ago	_	_	_	
+188-10	21148-21149	.	_	_	_	
+
+#Text=At this time (nine years after treatment), I find my health 
+#Text= still good, having no aches nor pains, a splendid appetite, sleep well, 
+#Text= no headache, no backache and no womb trouble.
+189-1	21150-21152	At	_	_	_	
+189-2	21153-21157	this	_	_	_	
+189-3	21158-21162	time	_	_	_	
+189-4	21163-21164	(	_	_	_	
+189-5	21164-21168	nine	_	_	_	
+189-6	21169-21174	years	_	_	_	
+189-7	21175-21180	after	_	_	_	
+189-8	21181-21190	treatment	_	_	_	
+189-9	21190-21191	)	_	_	_	
+189-10	21191-21192	,	_	_	_	
+189-11	21193-21194	I	_	_	_	
+189-12	21195-21199	find	_	_	_	
+189-13	21200-21202	my	_	_	_	
+189-14	21203-21209	health	_	_	_	
+189-15	21212-21217	still	_	_	_	
+189-16	21218-21222	good	_	_	_	
+189-17	21222-21223	,	_	_	_	
+189-18	21224-21230	having	_	_	_	
+189-19	21231-21233	no	_	_	_	
+189-20	21234-21239	aches	_	_	_	
+189-21	21240-21243	nor	_	_	_	
+189-22	21244-21249	pains	_	_	_	
+189-23	21249-21250	,	_	_	_	
+189-24	21251-21252	a	_	_	_	
+189-25	21253-21261	splendid	_	_	_	
+189-26	21262-21270	appetite	_	_	_	
+189-27	21270-21271	,	_	_	_	
+189-28	21272-21277	sleep	_	_	_	
+189-29	21278-21282	well	_	_	_	
+189-30	21282-21283	,	_	_	_	
+189-31	21286-21288	no	_	_	_	
+189-32	21289-21297	headache	_	_	_	
+189-33	21297-21298	,	_	_	_	
+189-34	21299-21301	no	_	_	_	
+189-35	21302-21310	backache	_	_	_	
+189-36	21311-21314	and	_	_	_	
+189-37	21315-21317	no	_	_	_	
+189-38	21318-21322	womb	_	_	_	
+189-39	21323-21330	trouble	_	_	_	
+189-40	21330-21331	.	_	_	_	
+
+#Text=I am able to do my house 
+#Text= work and everything; can do a day  '  s work with less fatigue than I have 
+#Text= for years before treatment.
+190-1	21332-21333	I	_	_	_	
+190-2	21334-21336	am	_	_	_	
+190-3	21337-21341	able	_	_	_	
+190-4	21342-21344	to	_	_	_	
+190-5	21345-21347	do	_	_	_	
+190-6	21348-21350	my	_	_	_	
+190-7	21351-21356	house	_	_	_	
+190-8	21359-21363	work	_	_	_	
+190-9	21364-21367	and	_	_	_	
+190-10	21368-21378	everything	_	_	_	
+190-11	21378-21379	;	_	_	_	
+190-12	21380-21383	can	_	_	_	
+190-13	21384-21386	do	_	_	_	
+190-14	21387-21388	a	_	_	_	
+190-15	21389-21392	day	_	_	_	
+190-16	21394-21395	'	_	_	_	
+190-17	21397-21398	s	_	_	_	
+190-18	21399-21403	work	_	_	_	
+190-19	21404-21408	with	_	_	_	
+190-20	21409-21413	less	_	_	_	
+190-21	21414-21421	fatigue	_	_	_	
+190-22	21422-21426	than	_	_	_	
+190-23	21427-21428	I	_	_	_	
+190-24	21429-21433	have	_	_	_	
+190-25	21436-21439	for	_	_	_	
+190-26	21440-21445	years	_	_	_	
+190-27	21446-21452	before	_	_	_	
+190-28	21453-21462	treatment	_	_	_	
+190-29	21462-21463	.	_	_	_	
+
+#Text=I feel sure that I would have been in the 
+#Text= grave years ago if it had not been for your medicines.
+191-1	21464-21465	I	_	_	_	
+191-2	21466-21470	feel	_	_	_	
+191-3	21471-21475	sure	_	_	_	
+191-4	21476-21480	that	_	_	_	
+191-5	21481-21482	I	_	_	_	
+191-6	21483-21488	would	_	_	_	
+191-7	21489-21493	have	_	_	_	
+191-8	21494-21498	been	_	_	_	
+191-9	21499-21501	in	_	_	_	
+191-10	21502-21505	the	_	_	_	
+191-11	21508-21513	grave	_	_	_	
+191-12	21514-21519	years	_	_	_	
+191-13	21520-21523	ago	_	_	_	
+191-14	21524-21526	if	_	_	_	
+191-15	21527-21529	it	_	_	_	
+191-16	21530-21533	had	_	_	_	
+191-17	21534-21537	not	_	_	_	
+191-18	21538-21542	been	_	_	_	
+191-19	21543-21546	for	_	_	_	
+191-20	21547-21551	your	_	_	_	
+191-21	21552-21561	medicines	_	_	_	
+191-22	21561-21562	.	_	_	_	
+
+#Text=I advise all 
+#Text= other ladies who are troubled with the same disease to apply to you for 
+#Text= treatment.
+192-1	21563-21564	I	_	_	_	
+192-2	21565-21571	advise	_	_	_	
+192-3	21572-21575	all	_	_	_	
+192-4	21578-21583	other	_	_	_	
+192-5	21584-21590	ladies	_	_	_	
+192-6	21591-21594	who	_	_	_	
+192-7	21595-21598	are	_	_	_	
+192-8	21599-21607	troubled	_	_	_	
+192-9	21608-21612	with	_	_	_	
+192-10	21613-21616	the	_	_	_	
+192-11	21617-21621	same	_	_	_	
+192-12	21622-21629	disease	_	_	_	
+192-13	21630-21632	to	_	_	_	
+192-14	21633-21638	apply	_	_	_	
+192-15	21639-21641	to	_	_	_	
+192-16	21642-21645	you	_	_	_	
+192-17	21646-21649	for	_	_	_	
+192-18	21652-21661	treatment	_	_	_	
+192-19	21661-21662	.	_	_	_	
+
+#Text=Be assured, that whenever I have it in my power I shall recommend your 
+#Text= invaluable remedies.
+193-1	21668-21670	Be	_	_	_	
+193-2	21671-21678	assured	_	_	_	
+193-3	21678-21679	,	_	_	_	
+193-4	21680-21684	that	_	_	_	
+193-5	21685-21693	whenever	_	_	_	
+193-6	21694-21695	I	_	_	_	
+193-7	21696-21700	have	_	_	_	
+193-8	21701-21703	it	_	_	_	
+193-9	21704-21706	in	_	_	_	
+193-10	21707-21709	my	_	_	_	
+193-11	21710-21715	power	_	_	_	
+193-12	21716-21717	I	_	_	_	
+193-13	21718-21723	shall	_	_	_	
+193-14	21724-21733	recommend	_	_	_	
+193-15	21734-21738	your	_	_	_	
+193-16	21741-21751	invaluable	_	_	_	
+193-17	21752-21760	remedies	_	_	_	
+193-18	21760-21761	.	_	_	_	
+
+#Text=I thank you a thousand times for what you have done 
+#Text= for me, and for the kindness which you have extended to me throughout.
+194-1	21762-21763	I	_	_	_	
+194-2	21764-21769	thank	_	_	_	
+194-3	21770-21773	you	_	_	_	
+194-4	21774-21775	a	_	_	_	
+194-5	21776-21784	thousand	_	_	_	
+194-6	21785-21790	times	_	_	_	
+194-7	21791-21794	for	_	_	_	
+194-8	21795-21799	what	_	_	_	
+194-9	21800-21803	you	_	_	_	
+194-10	21804-21808	have	_	_	_	
+194-11	21809-21813	done	_	_	_	
+194-12	21816-21819	for	_	_	_	
+194-13	21820-21822	me	_	_	_	
+194-14	21822-21823	,	_	_	_	
+194-15	21824-21827	and	_	_	_	
+194-16	21828-21831	for	_	_	_	
+194-17	21832-21835	the	_	_	_	
+194-18	21836-21844	kindness	_	_	_	
+194-19	21845-21850	which	_	_	_	
+194-20	21851-21854	you	_	_	_	
+194-21	21855-21859	have	_	_	_	
+194-22	21860-21868	extended	_	_	_	
+194-23	21869-21871	to	_	_	_	
+194-24	21872-21874	me	_	_	_	
+194-25	21875-21885	throughout	_	_	_	
+194-26	21885-21886	.	_	_	_	

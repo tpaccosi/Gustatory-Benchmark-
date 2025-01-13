@@ -1,0 +1,4431 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+#T_RL=custom.Relation|label|BT_custom.Span
+
+
+#Text=NOTE.
+1-1	0-4	NOTE	_	_	_	
+1-2	4-5	.	_	_	_	
+
+#Text=--When cooking products in pint or half-pint jars deduct three or
+#Text= four minutes from the time given above.
+2-1	5-6	-	_	_	_	
+2-2	6-7	-	_	_	_	
+2-3	7-11	When	_	_	_	
+2-4	12-19	cooking	_	_	_	
+2-5	20-28	products	_	_	_	
+2-6	29-31	in	_	_	_	
+2-7	32-36	pint	_	_	_	
+2-8	37-39	or	_	_	_	
+2-9	40-49	half-pint	_	_	_	
+2-10	50-54	jars	_	_	_	
+2-11	55-61	deduct	_	_	_	
+2-12	62-67	three	_	_	_	
+2-13	68-70	or	_	_	_	
+2-14	72-76	four	_	_	_	
+2-15	77-84	minutes	_	_	_	
+2-16	85-89	from	_	_	_	
+2-17	90-93	the	_	_	_	
+2-18	94-98	time	_	_	_	
+2-19	99-104	given	_	_	_	
+2-20	105-110	above	_	_	_	
+2-21	110-111	.	_	_	_	
+
+#Text=When cooking in two-quart jars
+#Text= add 3 or 4 minutes to time.
+3-1	112-116	When	_	_	_	
+3-2	117-124	cooking	_	_	_	
+3-3	125-127	in	_	_	_	
+3-4	128-137	two-quart	_	_	_	
+3-5	138-142	jars	_	_	_	
+3-6	144-147	add	_	_	_	
+3-7	148-149	3	_	_	_	
+3-8	150-152	or	_	_	_	
+3-9	153-154	4	_	_	_	
+3-10	155-162	minutes	_	_	_	
+3-11	163-165	to	_	_	_	
+3-12	166-170	time	_	_	_	
+3-13	170-171	.	_	_	_	
+
+#Text=The estimates given are for quart jars.
+4-1	172-175	The	_	_	_	
+4-2	176-185	estimates	_	_	_	
+4-3	186-191	given	_	_	_	
+4-4	192-195	are	_	_	_	
+4-5	196-199	for	_	_	_	
+4-6	200-205	quart	_	_	_	
+4-7	206-210	jars	_	_	_	
+4-8	210-211	.	_	_	_	
+
+#Text=CHAPTER IV
+#Text= 
+#Text= VEGETABLES
+#Text= 
+#Text=
+#Text= It is practical to can all vegetables, even such difficult ones as
+#Text= corn, peas and beans, by the cold-pack method of canning without using
+#Text= any preservatives, if you will follow all directions, instructions and
+#Text= the time-table accurately.
+5-1	221-228	CHAPTER	_	_	_	
+5-2	229-231	IV	_	_	_	
+5-3	235-245	VEGETABLES	_	_	_	
+5-4	250-252	It	_	_	_	
+5-5	253-255	is	_	_	_	
+5-6	256-265	practical	_	_	_	
+5-7	266-268	to	_	_	_	
+5-8	269-272	can	_	_	_	
+5-9	273-276	all	_	_	_	
+5-10	277-287	vegetables	_	_	_	
+5-11	287-288	,	_	_	_	
+5-12	289-293	even	_	_	_	
+5-13	294-298	such	_	_	_	
+5-14	299-308	difficult	_	_	_	
+5-15	309-313	ones	_	_	_	
+5-16	314-316	as	_	_	_	
+5-17	318-322	corn	_	_	_	
+5-18	322-323	,	_	_	_	
+5-19	324-328	peas	_	_	_	
+5-20	329-332	and	_	_	_	
+5-21	333-338	beans	_	_	_	
+5-22	338-339	,	_	_	_	
+5-23	340-342	by	_	_	_	
+5-24	343-346	the	_	_	_	
+5-25	347-356	cold-pack	_	_	_	
+5-26	357-363	method	_	_	_	
+5-27	364-366	of	_	_	_	
+5-28	367-374	canning	_	_	_	
+5-29	375-382	without	_	_	_	
+5-30	383-388	using	_	_	_	
+5-31	390-393	any	_	_	_	
+5-32	394-407	preservatives	_	_	_	
+5-33	407-408	,	_	_	_	
+5-34	409-411	if	_	_	_	
+5-35	412-415	you	_	_	_	
+5-36	416-420	will	_	_	_	
+5-37	421-427	follow	_	_	_	
+5-38	428-431	all	_	_	_	
+5-39	432-442	directions	_	_	_	
+5-40	442-443	,	_	_	_	
+5-41	444-456	instructions	_	_	_	
+5-42	457-460	and	_	_	_	
+5-43	462-465	the	_	_	_	
+5-44	466-476	time-table	_	_	_	
+5-45	477-487	accurately	_	_	_	
+5-46	487-488	.	_	_	_	
+
+#Text=Vegetable canning is a little more
+#Text= complicated than fruit canning.
+6-1	489-498	Vegetable	_	_	_	
+6-2	499-506	canning	_	_	_	
+6-3	507-509	is	_	_	_	
+6-4	510-511	a	_	_	_	
+6-5	512-518	little	_	_	_	
+6-6	519-523	more	_	_	_	
+6-7	525-536	complicated	_	_	_	
+6-8	537-541	than	_	_	_	
+6-9	542-547	fruit	_	_	_	
+6-10	548-555	canning	_	_	_	
+6-11	555-556	.	_	_	_	
+
+#Text=TOMATOES
+#Text= 
+#Text= Every one likes canned tomatoes.
+7-1	562-570	TOMATOES	_	_	_	
+7-2	574-579	Every	_	_	_	
+7-3	580-583	one	_	_	_	
+7-4	584-589	likes	_	_	_	
+7-5	590-596	canned	Taste Modifier[1]	_	_	
+7-6	597-605	tomatoes	Taste Modifier[1]	_	_	
+7-7	605-606	.	_	_	_	
+
+#Text=In many homes more tomatoes are
+#Text= canned than any other product.
+8-1	607-609	In	_	_	_	
+8-2	610-614	many	_	_	_	
+8-3	615-620	homes	_	_	_	
+8-4	621-625	more	_	_	_	
+8-5	626-634	tomatoes	_	_	_	
+8-6	635-638	are	_	_	_	
+8-7	640-646	canned	_	_	_	
+8-8	647-651	than	_	_	_	
+8-9	652-655	any	_	_	_	
+8-10	656-661	other	_	_	_	
+8-11	662-669	product	_	_	_	
+8-12	669-670	.	_	_	_	
+
+#Text=The housewife uses them for soups, for
+#Text= sauces and for seasoning many meat dishes.
+9-1	671-674	The	_	_	_	
+9-2	675-684	housewife	_	_	_	
+9-3	685-689	uses	_	_	_	
+9-4	690-694	them	Taste Modifier	anaphorical	7-5[1_0]	
+9-5	695-698	for	_	_	_	
+9-6	699-704	soups	_	_	_	
+9-7	704-705	,	_	_	_	
+9-8	706-709	for	_	_	_	
+9-9	711-717	sauces	_	_	_	
+9-10	718-721	and	_	_	_	
+9-11	722-725	for	_	_	_	
+9-12	726-735	seasoning	Taste Word	*|*	9-13[2_0]|9-4	
+9-13	736-740	many	Taste Source[2]	_	_	
+9-14	741-745	meat	Taste Source[2]	_	_	
+9-15	746-752	dishes	Taste Source[2]	_	_	
+9-16	752-753	.	_	_	_	
+
+#Text=Some women say: "I can
+#Text= preserve everything but tomatoes.
+10-1	754-758	Some	_	_	_	
+10-2	759-764	women	_	_	_	
+10-3	765-768	say	_	_	_	
+10-4	768-769	:	_	_	_	
+10-5	770-771	"	_	_	_	
+10-6	771-772	I	_	_	_	
+10-7	773-776	can	_	_	_	
+10-8	778-786	preserve	_	_	_	
+10-9	787-797	everything	_	_	_	
+10-10	798-801	but	_	_	_	
+10-11	802-810	tomatoes	_	_	_	
+10-12	810-811	.	_	_	_	
+
+#Text=They always spoil.
+11-1	812-816	They	_	_	_	
+11-2	817-823	always	_	_	_	
+11-3	824-829	spoil	_	_	_	
+11-4	829-830	.	_	_	_	
+
+#Text=What do I do
+#Text= wrong?"
+12-1	831-835	What	_	_	_	
+12-2	836-838	do	_	_	_	
+12-3	839-840	I	_	_	_	
+12-4	841-843	do	_	_	_	
+12-5	845-850	wrong	_	_	_	
+12-6	850-851	?	_	_	_	
+12-7	851-852	"	_	_	_	
+
+#Text=If the following directions are followed tomatoes will not
+#Text= spoil.
+13-1	853-855	If	_	_	_	
+13-2	856-859	the	_	_	_	
+13-3	860-869	following	_	_	_	
+13-4	870-880	directions	_	_	_	
+13-5	881-884	are	_	_	_	
+13-6	885-893	followed	_	_	_	
+13-7	894-902	tomatoes	_	_	_	
+13-8	903-907	will	_	_	_	
+13-9	908-911	not	_	_	_	
+13-10	913-918	spoil	_	_	_	
+13-11	918-919	.	_	_	_	
+
+#Text=Tomatoes really are the easiest vegetable to can, because the period
+#Text= of sterilization is short, and many jars may be canned in a day, or if
+#Text= one is very busy a few jars may be canned daily without the
+#Text=expenditure of a great deal of time.
+14-1	923-931	Tomatoes	_	_	_	
+14-2	932-938	really	_	_	_	
+14-3	939-942	are	_	_	_	
+14-4	943-946	the	_	_	_	
+14-5	947-954	easiest	_	_	_	
+14-6	955-964	vegetable	_	_	_	
+14-7	965-967	to	_	_	_	
+14-8	968-971	can	_	_	_	
+14-9	971-972	,	_	_	_	
+14-10	973-980	because	_	_	_	
+14-11	981-984	the	_	_	_	
+14-12	985-991	period	_	_	_	
+14-13	993-995	of	_	_	_	
+14-14	996-1009	sterilization	_	_	_	
+14-15	1010-1012	is	_	_	_	
+14-16	1013-1018	short	_	_	_	
+14-17	1018-1019	,	_	_	_	
+14-18	1020-1023	and	_	_	_	
+14-19	1024-1028	many	_	_	_	
+14-20	1029-1033	jars	_	_	_	
+14-21	1034-1037	may	_	_	_	
+14-22	1038-1040	be	_	_	_	
+14-23	1041-1047	canned	_	_	_	
+14-24	1048-1050	in	_	_	_	
+14-25	1051-1052	a	_	_	_	
+14-26	1053-1056	day	_	_	_	
+14-27	1056-1057	,	_	_	_	
+14-28	1058-1060	or	_	_	_	
+14-29	1061-1063	if	_	_	_	
+14-30	1065-1068	one	_	_	_	
+14-31	1069-1071	is	_	_	_	
+14-32	1072-1076	very	_	_	_	
+14-33	1077-1081	busy	_	_	_	
+14-34	1082-1083	a	_	_	_	
+14-35	1084-1087	few	_	_	_	
+14-36	1088-1092	jars	_	_	_	
+14-37	1093-1096	may	_	_	_	
+14-38	1097-1099	be	_	_	_	
+14-39	1100-1106	canned	_	_	_	
+14-40	1107-1112	daily	_	_	_	
+14-41	1113-1120	without	_	_	_	
+14-42	1121-1124	the	_	_	_	
+14-43	1125-1136	expenditure	_	_	_	
+14-44	1137-1139	of	_	_	_	
+14-45	1140-1141	a	_	_	_	
+14-46	1142-1147	great	_	_	_	
+14-47	1148-1152	deal	_	_	_	
+14-48	1153-1155	of	_	_	_	
+14-49	1156-1160	time	_	_	_	
+14-50	1160-1161	.	_	_	_	
+
+#Text=The best tomatoes for canning are those of moderate size, smooth and
+#Text= uniformly ripe.
+15-1	1165-1168	The	_	_	_	
+15-2	1169-1173	best	_	_	_	
+15-3	1174-1182	tomatoes	_	_	_	
+15-4	1183-1186	for	_	_	_	
+15-5	1187-1194	canning	_	_	_	
+15-6	1195-1198	are	_	_	_	
+15-7	1199-1204	those	_	_	_	
+15-8	1205-1207	of	_	_	_	
+15-9	1208-1216	moderate	_	_	_	
+15-10	1217-1221	size	_	_	_	
+15-11	1221-1222	,	_	_	_	
+15-12	1223-1229	smooth	_	_	_	
+15-13	1230-1233	and	_	_	_	
+15-14	1235-1244	uniformly	_	_	_	
+15-15	1245-1249	ripe	_	_	_	
+15-16	1249-1250	.	_	_	_	
+
+#Text=When a tomato ripens unevenly or when it is misshapen,
+#Text= it is difficult to peel, and the percentage of waste is high.
+16-1	1251-1255	When	_	_	_	
+16-2	1256-1257	a	_	_	_	
+16-3	1258-1264	tomato	_	_	_	
+16-4	1265-1271	ripens	_	_	_	
+16-5	1272-1280	unevenly	_	_	_	
+16-6	1281-1283	or	_	_	_	
+16-7	1284-1288	when	_	_	_	
+16-8	1289-1291	it	_	_	_	
+16-9	1292-1294	is	_	_	_	
+16-10	1295-1304	misshapen	_	_	_	
+16-11	1304-1305	,	_	_	_	
+16-12	1307-1309	it	_	_	_	
+16-13	1310-1312	is	_	_	_	
+16-14	1313-1322	difficult	_	_	_	
+16-15	1323-1325	to	_	_	_	
+16-16	1326-1330	peel	_	_	_	
+16-17	1330-1331	,	_	_	_	
+16-18	1332-1335	and	_	_	_	
+16-19	1336-1339	the	_	_	_	
+16-20	1340-1350	percentage	_	_	_	
+16-21	1351-1353	of	_	_	_	
+16-22	1354-1359	waste	_	_	_	
+16-23	1360-1362	is	_	_	_	
+16-24	1363-1367	high	_	_	_	
+16-25	1367-1368	.	_	_	_	
+
+#Text=Tomatoes
+#Text= should not be picked when they are green or partly ripe, for the
+#Text= flavor will not be so good as when they are allowed to remain upon
+#Text= the vines until fully ripe.
+17-1	1369-1377	Tomatoes	Taste Source	_	_	
+17-2	1379-1385	should	_	_	_	
+17-3	1386-1389	not	_	_	_	
+17-4	1390-1392	be	_	_	_	
+17-5	1393-1399	picked	Circumstance[3]	_	_	
+17-6	1400-1404	when	Circumstance[3]	_	_	
+17-7	1405-1409	they	Circumstance[3]	_	_	
+17-8	1410-1413	are	Circumstance[3]	_	_	
+17-9	1414-1419	green	Circumstance[3]	_	_	
+17-10	1420-1422	or	Circumstance[3]	_	_	
+17-11	1423-1429	partly	Circumstance[3]	_	_	
+17-12	1430-1434	ripe	Circumstance[3]	_	_	
+17-13	1434-1435	,	_	_	_	
+17-14	1436-1439	for	_	_	_	
+17-15	1440-1443	the	_	_	_	
+17-16	1445-1451	flavor	Taste Word	*|*|*	17-5[3_0]|17-18[4_0]|17-1	
+17-17	1452-1456	will	_	_	_	
+17-18	1457-1460	not	Quality[4]	_	_	
+17-19	1461-1463	be	Quality[4]	_	_	
+17-20	1464-1466	so	Quality[4]	_	_	
+17-21	1467-1471	good	Quality[4]	_	_	
+17-22	1472-1474	as	_	_	_	
+17-23	1475-1479	when	_	_	_	
+17-24	1480-1484	they	_	_	_	
+17-25	1485-1488	are	_	_	_	
+17-26	1489-1496	allowed	_	_	_	
+17-27	1497-1499	to	_	_	_	
+17-28	1500-1506	remain	_	_	_	
+17-29	1507-1511	upon	_	_	_	
+17-30	1513-1516	the	_	_	_	
+17-31	1517-1522	vines	_	_	_	
+17-32	1523-1528	until	_	_	_	
+17-33	1529-1534	fully	_	_	_	
+17-34	1535-1539	ripe	_	_	_	
+17-35	1539-1540	.	_	_	_	
+
+#Text=Care should be taken, however, not to
+#Text= allow them to become overripe before canning.
+18-1	1541-1545	Care	_	_	_	
+18-2	1546-1552	should	_	_	_	
+18-3	1553-1555	be	_	_	_	
+18-4	1556-1561	taken	_	_	_	
+18-5	1561-1562	,	_	_	_	
+18-6	1563-1570	however	_	_	_	
+18-7	1570-1571	,	_	_	_	
+18-8	1572-1575	not	_	_	_	
+18-9	1576-1578	to	_	_	_	
+18-10	1580-1585	allow	_	_	_	
+18-11	1586-1590	them	_	_	_	
+18-12	1591-1593	to	_	_	_	
+18-13	1594-1600	become	_	_	_	
+18-14	1601-1609	overripe	_	_	_	
+18-15	1610-1616	before	_	_	_	
+18-16	1617-1624	canning	_	_	_	
+18-17	1624-1625	.	_	_	_	
+
+#Text=In no instance should a tomato with a rotten spot be canned, even
+#Text= though the spot is cut out, for the occasional spoiled jar resulting
+#Text= from this attempted saving will cost more than the partly spoiled
+#Text= tomatoes are worth.
+19-1	1629-1631	In	_	_	_	
+19-2	1632-1634	no	_	_	_	
+19-3	1635-1643	instance	_	_	_	
+19-4	1644-1650	should	_	_	_	
+19-5	1651-1652	a	_	_	_	
+19-6	1653-1659	tomato	_	_	_	
+19-7	1660-1664	with	_	_	_	
+19-8	1665-1666	a	_	_	_	
+19-9	1667-1673	rotten	_	_	_	
+19-10	1674-1678	spot	_	_	_	
+19-11	1679-1681	be	_	_	_	
+19-12	1682-1688	canned	_	_	_	
+19-13	1688-1689	,	_	_	_	
+19-14	1690-1694	even	_	_	_	
+19-15	1696-1702	though	_	_	_	
+19-16	1703-1706	the	_	_	_	
+19-17	1707-1711	spot	_	_	_	
+19-18	1712-1714	is	_	_	_	
+19-19	1715-1718	cut	_	_	_	
+19-20	1719-1722	out	_	_	_	
+19-21	1722-1723	,	_	_	_	
+19-22	1724-1727	for	_	_	_	
+19-23	1728-1731	the	_	_	_	
+19-24	1732-1742	occasional	_	_	_	
+19-25	1743-1750	spoiled	_	_	_	
+19-26	1751-1754	jar	_	_	_	
+19-27	1755-1764	resulting	_	_	_	
+19-28	1766-1770	from	_	_	_	
+19-29	1771-1775	this	_	_	_	
+19-30	1776-1785	attempted	_	_	_	
+19-31	1786-1792	saving	_	_	_	
+19-32	1793-1797	will	_	_	_	
+19-33	1798-1802	cost	_	_	_	
+19-34	1803-1807	more	_	_	_	
+19-35	1808-1812	than	_	_	_	
+19-36	1813-1816	the	_	_	_	
+19-37	1817-1823	partly	_	_	_	
+19-38	1824-1831	spoiled	_	_	_	
+19-39	1833-1841	tomatoes	_	_	_	
+19-40	1842-1845	are	_	_	_	
+19-41	1846-1851	worth	_	_	_	
+19-42	1851-1852	.	_	_	_	
+
+#Text=If the housewife will can only uniformly ripe,
+#Text= sound tomatoes, saving the small, uneven but sound fruit for tomato
+#Text= _purée_, she will have a much better-looking pack and greater food
+#Text= value at the close of the season.
+20-1	1853-1855	If	_	_	_	
+20-2	1856-1859	the	_	_	_	
+20-3	1860-1869	housewife	_	_	_	
+20-4	1870-1874	will	_	_	_	
+20-5	1875-1878	can	_	_	_	
+20-6	1879-1883	only	_	_	_	
+20-7	1884-1893	uniformly	_	_	_	
+20-8	1894-1898	ripe	_	_	_	
+20-9	1898-1899	,	_	_	_	
+20-10	1901-1906	sound	_	_	_	
+20-11	1907-1915	tomatoes	_	_	_	
+20-12	1915-1916	,	_	_	_	
+20-13	1917-1923	saving	_	_	_	
+20-14	1924-1927	the	_	_	_	
+20-15	1928-1933	small	_	_	_	
+20-16	1933-1934	,	_	_	_	
+20-17	1935-1941	uneven	_	_	_	
+20-18	1942-1945	but	_	_	_	
+20-19	1946-1951	sound	_	_	_	
+20-20	1952-1957	fruit	_	_	_	
+20-21	1958-1961	for	_	_	_	
+20-22	1962-1968	tomato	_	_	_	
+20-23	1970-1971	_	_	_	_	
+20-24	1971-1976	purée	_	_	_	
+20-25	1976-1977	_	_	_	_	
+20-26	1977-1978	,	_	_	_	
+20-27	1979-1982	she	_	_	_	
+20-28	1983-1987	will	_	_	_	
+20-29	1988-1992	have	_	_	_	
+20-30	1993-1994	a	_	_	_	
+20-31	1995-1999	much	_	_	_	
+20-32	2000-2014	better-looking	_	_	_	
+20-33	2015-2019	pack	_	_	_	
+20-34	2020-2023	and	_	_	_	
+20-35	2024-2031	greater	_	_	_	
+20-36	2032-2036	food	_	_	_	
+20-37	2038-2043	value	_	_	_	
+20-38	2044-2046	at	_	_	_	
+20-39	2047-2050	the	_	_	_	
+20-40	2051-2056	close	_	_	_	
+20-41	2057-2059	of	_	_	_	
+20-42	2060-2063	the	_	_	_	
+20-43	2064-2070	season	_	_	_	
+20-44	2070-2071	.	_	_	_	
+
+#Text=Yellow tomatoes may be canned in the
+#Text= same manner as are the more common red varieties, except that it is
+#Text= not necessary to remove the cores.
+21-1	2072-2078	Yellow	_	_	_	
+21-2	2079-2087	tomatoes	_	_	_	
+21-3	2088-2091	may	_	_	_	
+21-4	2092-2094	be	_	_	_	
+21-5	2095-2101	canned	_	_	_	
+21-6	2102-2104	in	_	_	_	
+21-7	2105-2108	the	_	_	_	
+21-8	2110-2114	same	_	_	_	
+21-9	2115-2121	manner	_	_	_	
+21-10	2122-2124	as	_	_	_	
+21-11	2125-2128	are	_	_	_	
+21-12	2129-2132	the	_	_	_	
+21-13	2133-2137	more	_	_	_	
+21-14	2138-2144	common	_	_	_	
+21-15	2145-2148	red	_	_	_	
+21-16	2149-2158	varieties	_	_	_	
+21-17	2158-2159	,	_	_	_	
+21-18	2160-2166	except	_	_	_	
+21-19	2167-2171	that	_	_	_	
+21-20	2172-2174	it	_	_	_	
+21-21	2175-2177	is	_	_	_	
+21-22	2179-2182	not	_	_	_	
+21-23	2183-2192	necessary	_	_	_	
+21-24	2193-2195	to	_	_	_	
+21-25	2196-2202	remove	_	_	_	
+21-26	2203-2206	the	_	_	_	
+21-27	2207-2212	cores	_	_	_	
+21-28	2212-2213	.	_	_	_	
+
+#Text=First of all, grade for ripeness, size and quality; this is to insure
+#Text= a high-grade product.
+22-1	2216-2221	First	_	_	_	
+22-2	2222-2224	of	_	_	_	
+22-3	2225-2228	all	_	_	_	
+22-4	2228-2229	,	_	_	_	
+22-5	2230-2235	grade	_	_	_	
+22-6	2236-2239	for	_	_	_	
+22-7	2240-2248	ripeness	_	_	_	
+22-8	2248-2249	,	_	_	_	
+22-9	2250-2254	size	_	_	_	
+22-10	2255-2258	and	_	_	_	
+22-11	2259-2266	quality	_	_	_	
+22-12	2266-2267	;	_	_	_	
+22-13	2268-2272	this	_	_	_	
+22-14	2273-2275	is	_	_	_	
+22-15	2276-2278	to	_	_	_	
+22-16	2279-2285	insure	_	_	_	
+22-17	2287-2288	a	_	_	_	
+22-18	2289-2299	high-grade	_	_	_	
+22-19	2300-2307	product	_	_	_	
+22-20	2307-2308	.	_	_	_	
+
+#Text=We could, of course, can different sizes and
+#Text= shades together, but uniform products are more pleasing to the eye and
+#Text= will sterilize much more evenly.
+23-1	2309-2311	We	_	_	_	
+23-2	2312-2317	could	_	_	_	
+23-3	2317-2318	,	_	_	_	
+23-4	2319-2321	of	_	_	_	
+23-5	2322-2328	course	_	_	_	
+23-6	2328-2329	,	_	_	_	
+23-7	2330-2333	can	_	_	_	
+23-8	2334-2343	different	_	_	_	
+23-9	2344-2349	sizes	_	_	_	
+23-10	2350-2353	and	_	_	_	
+23-11	2355-2361	shades	_	_	_	
+23-12	2362-2370	together	_	_	_	
+23-13	2370-2371	,	_	_	_	
+23-14	2372-2375	but	_	_	_	
+23-15	2376-2383	uniform	_	_	_	
+23-16	2384-2392	products	_	_	_	
+23-17	2393-2396	are	_	_	_	
+23-18	2397-2401	more	_	_	_	
+23-19	2402-2410	pleasing	_	_	_	
+23-20	2411-2413	to	_	_	_	
+23-21	2414-2417	the	_	_	_	
+23-22	2418-2421	eye	_	_	_	
+23-23	2422-2425	and	_	_	_	
+23-24	2427-2431	will	_	_	_	
+23-25	2432-2441	sterilize	_	_	_	
+23-26	2442-2446	much	_	_	_	
+23-27	2447-2451	more	_	_	_	
+23-28	2452-2458	evenly	_	_	_	
+23-29	2458-2459	.	_	_	_	
+
+#Text=If the products are of the same
+#Text= ripeness and quality, the entire pack will receive the proper degree
+#Text= of cooking.
+24-1	2460-2462	If	_	_	_	
+24-2	2463-2466	the	_	_	_	
+24-3	2467-2475	products	_	_	_	
+24-4	2476-2479	are	_	_	_	
+24-5	2480-2482	of	_	_	_	
+24-6	2483-2486	the	_	_	_	
+24-7	2487-2491	same	_	_	_	
+24-8	2493-2501	ripeness	_	_	_	
+24-9	2502-2505	and	_	_	_	
+24-10	2506-2513	quality	_	_	_	
+24-11	2513-2514	,	_	_	_	
+24-12	2515-2518	the	_	_	_	
+24-13	2519-2525	entire	_	_	_	
+24-14	2526-2530	pack	_	_	_	
+24-15	2531-2535	will	_	_	_	
+24-16	2536-2543	receive	_	_	_	
+24-17	2544-2547	the	_	_	_	
+24-18	2548-2554	proper	_	_	_	
+24-19	2555-2561	degree	_	_	_	
+24-20	2563-2565	of	_	_	_	
+24-21	2566-2573	cooking	_	_	_	
+24-22	2573-2574	.	_	_	_	
+
+#Text=Wash the tomatoes.
+25-1	2578-2582	Wash	_	_	_	
+25-2	2583-2586	the	_	_	_	
+25-3	2587-2595	tomatoes	_	_	_	
+25-4	2595-2596	.	_	_	_	
+
+#Text=Have ready a kettle of boiling water.
+26-1	2597-2601	Have	_	_	_	
+26-2	2602-2607	ready	_	_	_	
+26-3	2608-2609	a	_	_	_	
+26-4	2610-2616	kettle	_	_	_	
+26-5	2617-2619	of	_	_	_	
+26-6	2620-2627	boiling	_	_	_	
+26-7	2628-2633	water	_	_	_	
+26-8	2633-2634	.	_	_	_	
+
+#Text=Put the
+#Text= tomatoes in a wire basket, or lay them on a piece of cheesecloth or a
+#Text= towel, twist the ends together to form a sack, and let this down into
+#Text= the kettle.
+27-1	2635-2638	Put	_	_	_	
+27-2	2639-2642	the	_	_	_	
+27-3	2644-2652	tomatoes	_	_	_	
+27-4	2653-2655	in	_	_	_	
+27-5	2656-2657	a	_	_	_	
+27-6	2658-2662	wire	_	_	_	
+27-7	2663-2669	basket	_	_	_	
+27-8	2669-2670	,	_	_	_	
+27-9	2671-2673	or	_	_	_	
+27-10	2674-2677	lay	_	_	_	
+27-11	2678-2682	them	_	_	_	
+27-12	2683-2685	on	_	_	_	
+27-13	2686-2687	a	_	_	_	
+27-14	2688-2693	piece	_	_	_	
+27-15	2694-2696	of	_	_	_	
+27-16	2697-2708	cheesecloth	_	_	_	
+27-17	2709-2711	or	_	_	_	
+27-18	2712-2713	a	_	_	_	
+27-19	2715-2720	towel	_	_	_	
+27-20	2720-2721	,	_	_	_	
+27-21	2722-2727	twist	_	_	_	
+27-22	2728-2731	the	_	_	_	
+27-23	2732-2736	ends	_	_	_	
+27-24	2737-2745	together	_	_	_	
+27-25	2746-2748	to	_	_	_	
+27-26	2749-2753	form	_	_	_	
+27-27	2754-2755	a	_	_	_	
+27-28	2756-2760	sack	_	_	_	
+27-29	2760-2761	,	_	_	_	
+27-30	2762-2765	and	_	_	_	
+27-31	2766-2769	let	_	_	_	
+27-32	2770-2774	this	_	_	_	
+27-33	2775-2779	down	_	_	_	
+27-34	2780-2784	into	_	_	_	
+27-35	2786-2789	the	_	_	_	
+27-36	2790-2796	kettle	_	_	_	
+27-37	2796-2797	.	_	_	_	
+
+#Text=It is a good plan to slip a rubber band round the neck of
+#Text= this sack to hold the ends in place.
+28-1	2798-2800	It	_	_	_	
+28-2	2801-2803	is	_	_	_	
+28-3	2804-2805	a	_	_	_	
+28-4	2806-2810	good	_	_	_	
+28-5	2811-2815	plan	_	_	_	
+28-6	2816-2818	to	_	_	_	
+28-7	2819-2823	slip	_	_	_	
+28-8	2824-2825	a	_	_	_	
+28-9	2826-2832	rubber	_	_	_	
+28-10	2833-2837	band	_	_	_	
+28-11	2838-2843	round	_	_	_	
+28-12	2844-2847	the	_	_	_	
+28-13	2848-2852	neck	_	_	_	
+28-14	2853-2855	of	_	_	_	
+28-15	2857-2861	this	_	_	_	
+28-16	2862-2866	sack	_	_	_	
+28-17	2867-2869	to	_	_	_	
+28-18	2870-2874	hold	_	_	_	
+28-19	2875-2878	the	_	_	_	
+28-20	2879-2883	ends	_	_	_	
+28-21	2884-2886	in	_	_	_	
+28-22	2887-2892	place	_	_	_	
+28-23	2892-2893	.	_	_	_	
+
+#Text=The ends should be long enough to
+#Text= stand up out of the water and so avoid danger of burning the fingers
+#Text= when removing the product.
+29-1	2894-2897	The	_	_	_	
+29-2	2898-2902	ends	_	_	_	
+29-3	2903-2909	should	_	_	_	
+29-4	2910-2912	be	_	_	_	
+29-5	2913-2917	long	_	_	_	
+29-6	2918-2924	enough	_	_	_	
+29-7	2925-2927	to	_	_	_	
+29-8	2929-2934	stand	_	_	_	
+29-9	2935-2937	up	_	_	_	
+29-10	2938-2941	out	_	_	_	
+29-11	2942-2944	of	_	_	_	
+29-12	2945-2948	the	_	_	_	
+29-13	2949-2954	water	_	_	_	
+29-14	2955-2958	and	_	_	_	
+29-15	2959-2961	so	_	_	_	
+29-16	2962-2967	avoid	_	_	_	
+29-17	2968-2974	danger	_	_	_	
+29-18	2975-2977	of	_	_	_	
+29-19	2978-2985	burning	_	_	_	
+29-20	2986-2989	the	_	_	_	
+29-21	2990-2997	fingers	_	_	_	
+29-22	2999-3003	when	_	_	_	
+29-23	3004-3012	removing	_	_	_	
+29-24	3013-3016	the	_	_	_	
+29-25	3017-3024	product	_	_	_	
+29-26	3024-3025	.	_	_	_	
+
+#Text=Have the water boiling hard.
+30-1	3029-3033	Have	_	_	_	
+30-2	3034-3037	the	_	_	_	
+30-3	3038-3043	water	_	_	_	
+30-4	3044-3051	boiling	_	_	_	
+30-5	3052-3056	hard	_	_	_	
+30-6	3056-3057	.	_	_	_	
+
+#Text=Lower the tomatoes into the boiling
+#Text= water.
+31-1	3058-3063	Lower	_	_	_	
+31-2	3064-3067	the	_	_	_	
+31-3	3068-3076	tomatoes	_	_	_	
+31-4	3077-3081	into	_	_	_	
+31-5	3082-3085	the	_	_	_	
+31-6	3086-3093	boiling	_	_	_	
+31-7	3095-3100	water	_	_	_	
+31-8	3100-3101	.	_	_	_	
+
+#Text=This is called scalding the tomatoes.
+32-1	3102-3106	This	_	_	_	
+32-2	3107-3109	is	_	_	_	
+32-3	3110-3116	called	_	_	_	
+32-4	3117-3125	scalding	_	_	_	
+32-5	3126-3129	the	_	_	_	
+32-6	3130-3138	tomatoes	_	_	_	
+32-7	3138-3139	.	_	_	_	
+
+#Text=We scald the tomatoes to
+#Text= loosen the skin.
+33-1	3140-3142	We	_	_	_	
+33-2	3143-3148	scald	_	_	_	
+33-3	3149-3152	the	_	_	_	
+33-4	3153-3161	tomatoes	_	_	_	
+33-5	3162-3164	to	_	_	_	
+33-6	3166-3172	loosen	_	_	_	
+33-7	3173-3176	the	_	_	_	
+33-8	3177-3181	skin	_	_	_	
+33-9	3181-3182	.	_	_	_	
+
+#Text=If the tomatoes are very ripe, one minute scalding
+#Text= will be sufficient.
+34-1	3183-3185	If	_	_	_	
+34-2	3186-3189	the	_	_	_	
+34-3	3190-3198	tomatoes	_	_	_	
+34-4	3199-3202	are	_	_	_	
+34-5	3203-3207	very	_	_	_	
+34-6	3208-3212	ripe	_	_	_	
+34-7	3212-3213	,	_	_	_	
+34-8	3214-3217	one	_	_	_	
+34-9	3218-3224	minute	_	_	_	
+34-10	3225-3233	scalding	_	_	_	
+34-11	3235-3239	will	_	_	_	
+34-12	3240-3242	be	_	_	_	
+34-13	3243-3253	sufficient	_	_	_	
+34-14	3253-3254	.	_	_	_	
+
+#Text=The average length of time for tomatoes, just
+#Text= perfect for canning, is one and a half minutes.
+35-1	3255-3258	The	_	_	_	
+35-2	3259-3266	average	_	_	_	
+35-3	3267-3273	length	_	_	_	
+35-4	3274-3276	of	_	_	_	
+35-5	3277-3281	time	_	_	_	
+35-6	3282-3285	for	_	_	_	
+35-7	3286-3294	tomatoes	_	_	_	
+35-8	3294-3295	,	_	_	_	
+35-9	3296-3300	just	_	_	_	
+35-10	3302-3309	perfect	_	_	_	
+35-11	3310-3313	for	_	_	_	
+35-12	3314-3321	canning	_	_	_	
+35-13	3321-3322	,	_	_	_	
+35-14	3323-3325	is	_	_	_	
+35-15	3326-3329	one	_	_	_	
+35-16	3330-3333	and	_	_	_	
+35-17	3334-3335	a	_	_	_	
+35-18	3336-3340	half	_	_	_	
+35-19	3341-3348	minutes	_	_	_	
+35-20	3348-3349	.	_	_	_	
+
+#Text=Do not leave the
+#Text=Place each jar in the canner as it is packed.
+36-1	3350-3352	Do	_	_	_	
+36-2	3353-3356	not	_	_	_	
+36-3	3357-3362	leave	_	_	_	
+36-4	3363-3366	the	_	_	_	
+36-5	3367-3372	Place	_	_	_	
+36-6	3373-3377	each	_	_	_	
+36-7	3378-3381	jar	_	_	_	
+36-8	3382-3384	in	_	_	_	
+36-9	3385-3388	the	_	_	_	
+36-10	3389-3395	canner	_	_	_	
+36-11	3396-3398	as	_	_	_	
+36-12	3399-3401	it	_	_	_	
+36-13	3402-3404	is	_	_	_	
+36-14	3405-3411	packed	_	_	_	
+36-15	3411-3412	.	_	_	_	
+
+#Text=The first jars in will
+#Text= not be affected by the extra cooking.
+37-1	3413-3416	The	_	_	_	
+37-2	3417-3422	first	_	_	_	
+37-3	3423-3427	jars	_	_	_	
+37-4	3428-3430	in	_	_	_	
+37-5	3431-3435	will	_	_	_	
+37-6	3437-3440	not	_	_	_	
+37-7	3441-3443	be	_	_	_	
+37-8	3444-3452	affected	_	_	_	
+37-9	3453-3455	by	_	_	_	
+37-10	3456-3459	the	_	_	_	
+37-11	3460-3465	extra	_	_	_	
+37-12	3466-3473	cooking	_	_	_	
+37-13	3473-3474	.	_	_	_	
+
+#Text=Have the water just below the
+#Text= boiling point as you put in each jar.
+38-1	3475-3479	Have	_	_	_	
+38-2	3480-3483	the	_	_	_	
+38-3	3484-3489	water	_	_	_	
+38-4	3490-3494	just	_	_	_	
+38-5	3495-3500	below	_	_	_	
+38-6	3501-3504	the	_	_	_	
+38-7	3506-3513	boiling	_	_	_	
+38-8	3514-3519	point	_	_	_	
+38-9	3520-3522	as	_	_	_	
+38-10	3523-3526	you	_	_	_	
+38-11	3527-3530	put	_	_	_	
+38-12	3531-3533	in	_	_	_	
+38-13	3534-3538	each	_	_	_	
+38-14	3539-3542	jar	_	_	_	
+38-15	3542-3543	.	_	_	_	
+
+#Text=When you have the canner full
+#Text= bring the water to the boiling point as quickly as possible and begin
+#Text= to count cooking or sterilizing time from the moment it does boil.
+39-1	3544-3548	When	_	_	_	
+39-2	3549-3552	you	_	_	_	
+39-3	3553-3557	have	_	_	_	
+39-4	3558-3561	the	_	_	_	
+39-5	3562-3568	canner	_	_	_	
+39-6	3569-3573	full	_	_	_	
+39-7	3575-3580	bring	_	_	_	
+39-8	3581-3584	the	_	_	_	
+39-9	3585-3590	water	_	_	_	
+39-10	3591-3593	to	_	_	_	
+39-11	3594-3597	the	_	_	_	
+39-12	3598-3605	boiling	_	_	_	
+39-13	3606-3611	point	_	_	_	
+39-14	3612-3614	as	_	_	_	
+39-15	3615-3622	quickly	_	_	_	
+39-16	3623-3625	as	_	_	_	
+39-17	3626-3634	possible	_	_	_	
+39-18	3635-3638	and	_	_	_	
+39-19	3639-3644	begin	_	_	_	
+39-20	3646-3648	to	_	_	_	
+39-21	3649-3654	count	_	_	_	
+39-22	3655-3662	cooking	_	_	_	
+39-23	3663-3665	or	_	_	_	
+39-24	3666-3677	sterilizing	_	_	_	
+39-25	3678-3682	time	_	_	_	
+39-26	3683-3687	from	_	_	_	
+39-27	3688-3691	the	_	_	_	
+39-28	3692-3698	moment	_	_	_	
+39-29	3699-3701	it	_	_	_	
+39-30	3702-3706	does	_	_	_	
+39-31	3707-3711	boil	_	_	_	
+39-32	3711-3712	.	_	_	_	
+
+#Text=Some women make the mistake at the end of the cooking period of
+#Text= letting the jars remain in the boiling water, standing on the false
+#Text= bottom of the canner until they are cool enough to handle with no
+#Text= danger of burning the hands.
+40-1	3716-3720	Some	_	_	_	
+40-2	3721-3726	women	_	_	_	
+40-3	3727-3731	make	_	_	_	
+40-4	3732-3735	the	_	_	_	
+40-5	3736-3743	mistake	_	_	_	
+40-6	3744-3746	at	_	_	_	
+40-7	3747-3750	the	_	_	_	
+40-8	3751-3754	end	_	_	_	
+40-9	3755-3757	of	_	_	_	
+40-10	3758-3761	the	_	_	_	
+40-11	3762-3769	cooking	_	_	_	
+40-12	3770-3776	period	_	_	_	
+40-13	3777-3779	of	_	_	_	
+40-14	3781-3788	letting	_	_	_	
+40-15	3789-3792	the	_	_	_	
+40-16	3793-3797	jars	_	_	_	
+40-17	3798-3804	remain	_	_	_	
+40-18	3805-3807	in	_	_	_	
+40-19	3808-3811	the	_	_	_	
+40-20	3812-3819	boiling	_	_	_	
+40-21	3820-3825	water	_	_	_	
+40-22	3825-3826	,	_	_	_	
+40-23	3827-3835	standing	_	_	_	
+40-24	3836-3838	on	_	_	_	
+40-25	3839-3842	the	_	_	_	
+40-26	3843-3848	false	_	_	_	
+40-27	3850-3856	bottom	_	_	_	
+40-28	3857-3859	of	_	_	_	
+40-29	3860-3863	the	_	_	_	
+40-30	3864-3870	canner	_	_	_	
+40-31	3871-3876	until	_	_	_	
+40-32	3877-3881	they	_	_	_	
+40-33	3882-3885	are	_	_	_	
+40-34	3886-3890	cool	_	_	_	
+40-35	3891-3897	enough	_	_	_	
+40-36	3898-3900	to	_	_	_	
+40-37	3901-3907	handle	_	_	_	
+40-38	3908-3912	with	_	_	_	
+40-39	3913-3915	no	_	_	_	
+40-40	3917-3923	danger	_	_	_	
+40-41	3924-3926	of	_	_	_	
+40-42	3927-3934	burning	_	_	_	
+40-43	3935-3938	the	_	_	_	
+40-44	3939-3944	hands	_	_	_	
+40-45	3944-3945	.	_	_	_	
+
+#Text=This slow method of cooling not only
+#Text= tends to create "flat sour," but it is apt to result in cloudy-looking
+#Text= jars and in mushy vegetables.
+41-1	3946-3950	This	_	_	_	
+41-2	3951-3955	slow	_	_	_	
+41-3	3956-3962	method	_	_	_	
+41-4	3963-3965	of	_	_	_	
+41-5	3966-3973	cooling	_	_	_	
+41-6	3974-3977	not	_	_	_	
+41-7	3978-3982	only	_	_	_	
+41-8	3984-3989	tends	_	_	_	
+41-9	3990-3992	to	_	_	_	
+41-10	3993-3999	create	_	_	_	
+41-11	4000-4001	"	_	_	_	
+41-12	4001-4005	flat	_	_	_	
+41-13	4006-4010	sour	_	_	_	
+41-14	4010-4011	,	_	_	_	
+41-15	4011-4012	"	_	_	_	
+41-16	4013-4016	but	_	_	_	
+41-17	4017-4019	it	_	_	_	
+41-18	4020-4022	is	_	_	_	
+41-19	4023-4026	apt	_	_	_	
+41-20	4027-4029	to	_	_	_	
+41-21	4030-4036	result	_	_	_	
+41-22	4037-4039	in	_	_	_	
+41-23	4040-4054	cloudy-looking	_	_	_	
+41-24	4056-4060	jars	_	_	_	
+41-25	4061-4064	and	_	_	_	
+41-26	4065-4067	in	_	_	_	
+41-27	4068-4073	mushy	_	_	_	
+41-28	4074-4084	vegetables	_	_	_	
+41-29	4084-4085	.	_	_	_	
+
+#Text=For this reason you should have in your equipment a lifter with which
+#Text= you can lift out the hot jars without the hands touching them.
+42-1	4089-4092	For	_	_	_	
+42-2	4093-4097	this	_	_	_	
+42-3	4098-4104	reason	_	_	_	
+42-4	4105-4108	you	_	_	_	
+42-5	4109-4115	should	_	_	_	
+42-6	4116-4120	have	_	_	_	
+42-7	4121-4123	in	_	_	_	
+42-8	4124-4128	your	_	_	_	
+42-9	4129-4138	equipment	_	_	_	
+42-10	4139-4140	a	_	_	_	
+42-11	4141-4147	lifter	_	_	_	
+42-12	4148-4152	with	_	_	_	
+42-13	4153-4158	which	_	_	_	
+42-14	4160-4163	you	_	_	_	
+42-15	4164-4167	can	_	_	_	
+42-16	4168-4172	lift	_	_	_	
+42-17	4173-4176	out	_	_	_	
+42-18	4177-4180	the	_	_	_	
+42-19	4181-4184	hot	_	_	_	
+42-20	4185-4189	jars	_	_	_	
+42-21	4190-4197	without	_	_	_	
+42-22	4198-4201	the	_	_	_	
+42-23	4202-4207	hands	_	_	_	
+42-24	4208-4216	touching	_	_	_	
+42-25	4217-4221	them	_	_	_	
+42-26	4221-4222	.	_	_	_	
+
+#Text=If you
+#Text= use a rack with wire handles this answers the same purpose.
+43-1	4223-4225	If	_	_	_	
+43-2	4226-4229	you	_	_	_	
+43-3	4231-4234	use	_	_	_	
+43-4	4235-4236	a	_	_	_	
+43-5	4237-4241	rack	_	_	_	
+43-6	4242-4246	with	_	_	_	
+43-7	4247-4251	wire	_	_	_	
+43-8	4252-4259	handles	_	_	_	
+43-9	4260-4264	this	_	_	_	
+43-10	4265-4272	answers	_	_	_	
+43-11	4273-4276	the	_	_	_	
+43-12	4277-4281	same	_	_	_	
+43-13	4282-4289	purpose	_	_	_	
+43-14	4289-4290	.	_	_	_	
+
+#Text=This "flat sour," which is not at all dangerous from the standpoint of
+#Text= health, must not be confused with the botulinus bacteria, which is an
+#Text= entirely different thing.
+44-1	4294-4298	This	_	_	_	
+44-2	4299-4300	"	_	_	_	
+44-3	4300-4304	flat	_	_	_	
+44-4	4305-4309	sour	_	_	_	
+44-5	4309-4310	,	_	_	_	
+44-6	4310-4311	"	_	_	_	
+44-7	4312-4317	which	_	_	_	
+44-8	4318-4320	is	_	_	_	
+44-9	4321-4324	not	_	_	_	
+44-10	4325-4327	at	_	_	_	
+44-11	4328-4331	all	_	_	_	
+44-12	4332-4341	dangerous	_	_	_	
+44-13	4342-4346	from	_	_	_	
+44-14	4347-4350	the	_	_	_	
+44-15	4351-4361	standpoint	_	_	_	
+44-16	4362-4364	of	_	_	_	
+44-17	4366-4372	health	_	_	_	
+44-18	4372-4373	,	_	_	_	
+44-19	4374-4378	must	_	_	_	
+44-20	4379-4382	not	_	_	_	
+44-21	4383-4385	be	_	_	_	
+44-22	4386-4394	confused	_	_	_	
+44-23	4395-4399	with	_	_	_	
+44-24	4400-4403	the	_	_	_	
+44-25	4404-4413	botulinus	_	_	_	
+44-26	4414-4422	bacteria	_	_	_	
+44-27	4422-4423	,	_	_	_	
+44-28	4424-4429	which	_	_	_	
+44-29	4430-4432	is	_	_	_	
+44-30	4433-4435	an	_	_	_	
+44-31	4437-4445	entirely	_	_	_	
+44-32	4446-4455	different	_	_	_	
+44-33	4456-4461	thing	_	_	_	
+44-34	4461-4462	.	_	_	_	
+
+#Text="Flat sour," perfectly harmless, appears often with inexperienced
+#Text= canners.
+45-1	4465-4466	"	_	_	_	
+45-2	4466-4470	Flat	_	_	_	
+45-3	4471-4475	sour	_	_	_	
+45-4	4475-4476	,	_	_	_	
+45-5	4476-4477	"	_	_	_	
+45-6	4478-4487	perfectly	_	_	_	
+45-7	4488-4496	harmless	_	_	_	
+45-8	4496-4497	,	_	_	_	
+45-9	4498-4505	appears	_	_	_	
+45-10	4506-4511	often	_	_	_	
+45-11	4512-4516	with	_	_	_	
+45-12	4517-4530	inexperienced	_	_	_	
+45-13	4532-4539	canners	_	_	_	
+45-14	4539-4540	.	_	_	_	
+
+#Text=Botulinus, harmful, appears rarely.
+46-1	4541-4550	Botulinus	_	_	_	
+46-2	4550-4551	,	_	_	_	
+46-3	4552-4559	harmful	_	_	_	
+46-4	4559-4560	,	_	_	_	
+46-5	4561-4568	appears	_	_	_	
+46-6	4569-4575	rarely	_	_	_	
+46-7	4575-4576	.	_	_	_	
+
+#Text=You need not be at all
+#Text= alarmed about eating either "flat sour" or botulinus, because the odor
+#Text= from spoiled goods is so distasteful--it really resembles rancid
+#Text= cheese--that you would never get a spoon of it to your mouth.
+47-1	4577-4580	You	Taster	_	_	
+47-2	4581-4585	need	_	_	_	
+47-3	4586-4589	not	_	_	_	
+47-4	4590-4592	be	_	_	_	
+47-5	4593-4595	at	_	_	_	
+47-6	4596-4599	all	_	_	_	
+47-7	4601-4608	alarmed	_	_	_	
+47-8	4609-4614	about	_	_	_	
+47-9	4615-4621	eating	Taste Word	*|*|*	47-12[5_0]|47-16|47-1	
+47-10	4622-4628	either	_	_	_	
+47-11	4629-4630	"	_	_	_	
+47-12	4630-4634	flat	Taste Source[5]	_	_	
+47-13	4635-4639	sour	Taste Source[5]	_	_	
+47-14	4639-4640	"	_	_	_	
+47-15	4641-4643	or	_	_	_	
+47-16	4644-4653	botulinus	Taste Source	_	_	
+47-17	4653-4654	,	_	_	_	
+47-18	4655-4662	because	_	_	_	
+47-19	4663-4666	the	_	_	_	
+47-20	4667-4671	odor	_	_	_	
+47-21	4673-4677	from	_	_	_	
+47-22	4678-4685	spoiled	Taste Source[6]	_	_	
+47-23	4686-4691	goods	Taste Source[6]	_	_	
+47-24	4692-4694	is	_	_	_	
+47-25	4695-4697	so	_	_	_	
+47-26	4698-4709	distasteful	Taste Word[7]|Quality[8]	*|*|*	47-22[6_7]|47-29[9_7]|47-26[8_7]	
+47-27	4709-4710	-	_	_	_	
+47-28	4710-4711	-	_	_	_	
+47-29	4711-4713	it	Evoked Taste[9]	_	_	
+47-30	4714-4720	really	Evoked Taste[9]	_	_	
+47-31	4721-4730	resembles	Evoked Taste[9]	_	_	
+47-32	4731-4737	rancid	Evoked Taste[9]	_	_	
+47-33	4739-4745	cheese	Evoked Taste[9]	_	_	
+47-34	4745-4746	-	_	_	_	
+47-35	4746-4747	-	_	_	_	
+47-36	4747-4751	that	_	_	_	
+47-37	4752-4755	you	_	_	_	
+47-38	4756-4761	would	_	_	_	
+47-39	4762-4767	never	_	_	_	
+47-40	4768-4771	get	_	_	_	
+47-41	4772-4773	a	_	_	_	
+47-42	4774-4779	spoon	_	_	_	
+47-43	4780-4782	of	_	_	_	
+47-44	4783-4785	it	_	_	_	
+47-45	4786-4788	to	_	_	_	
+47-46	4789-4793	your	_	_	_	
+47-47	4794-4799	mouth	_	_	_	
+47-48	4799-4800	.	_	_	_	
+
+#Text=If you are debating whether this jar or that jar of soup or vegetables
+#Text= is spoiled, do not _taste_ the contents of the jar.
+48-1	4804-4806	If	_	_	_	
+48-2	4807-4810	you	_	_	_	
+48-3	4811-4814	are	_	_	_	
+48-4	4815-4823	debating	_	_	_	
+48-5	4824-4831	whether	_	_	_	
+48-6	4832-4836	this	_	_	_	
+48-7	4837-4840	jar	_	_	_	
+48-8	4841-4843	or	_	_	_	
+48-9	4844-4848	that	_	_	_	
+48-10	4849-4852	jar	_	_	_	
+48-11	4853-4855	of	_	_	_	
+48-12	4856-4860	soup	_	_	_	
+48-13	4861-4863	or	_	_	_	
+48-14	4864-4874	vegetables	_	_	_	
+48-15	4876-4878	is	_	_	_	
+48-16	4879-4886	spoiled	_	_	_	
+48-17	4886-4887	,	_	_	_	
+48-18	4888-4890	do	_	_	_	
+48-19	4891-4894	not	_	_	_	
+48-20	4895-4896	_	_	_	_	
+48-21	4896-4901	taste	Taste Word	*	48-23[10_0]	
+48-22	4901-4902	_	_	_	_	
+48-23	4903-4906	the	Taste Source[10]	_	_	
+48-24	4907-4915	contents	Taste Source[10]	_	_	
+48-25	4916-4918	of	Taste Source[10]	_	_	
+48-26	4919-4922	the	Taste Source[10]	_	_	
+48-27	4923-4926	jar	Taste Source[10]	_	_	
+48-28	4926-4927	.	_	_	_	
+
+#Text=_Smell_ it.
+49-1	4928-4929	_	_	_	_	
+49-2	4929-4934	Smell	_	_	_	
+49-3	4934-4935	_	_	_	_	
+49-4	4936-4938	it	_	_	_	
+49-5	4938-4939	.	_	_	_	
+
+#Text=Tasting might poison you if you happened on the botulinus bacteria,
+#Text= which is so rare it need alarm no one; whereas smelling is perfectly
+#Text= safe.
+50-1	4941-4948	Tasting	Taste Word	*	50-2[11_0]	
+50-2	4949-4954	might	Effect[11]	_	_	
+50-3	4955-4961	poison	Effect[11]	_	_	
+50-4	4962-4965	you	Effect[11]	_	_	
+50-5	4966-4968	if	_	_	_	
+50-6	4969-4972	you	_	_	_	
+50-7	4973-4981	happened	_	_	_	
+50-8	4982-4984	on	_	_	_	
+50-9	4985-4988	the	_	_	_	
+50-10	4989-4998	botulinus	_	_	_	
+50-11	4999-5007	bacteria	_	_	_	
+50-12	5007-5008	,	_	_	_	
+50-13	5010-5015	which	_	_	_	
+50-14	5016-5018	is	_	_	_	
+50-15	5019-5021	so	_	_	_	
+50-16	5022-5026	rare	_	_	_	
+50-17	5027-5029	it	_	_	_	
+50-18	5030-5034	need	_	_	_	
+50-19	5035-5040	alarm	_	_	_	
+50-20	5041-5043	no	_	_	_	
+50-21	5044-5047	one	_	_	_	
+50-22	5047-5048	;	_	_	_	
+50-23	5049-5056	whereas	_	_	_	
+50-24	5057-5065	smelling	_	_	_	
+50-25	5066-5068	is	_	_	_	
+50-26	5069-5078	perfectly	_	_	_	
+50-27	5080-5084	safe	_	_	_	
+50-28	5084-5085	.	_	_	_	
+
+#Text=TIME-TABLE FOR SOUPS
+#Text= 
+#Text= 
+#Text= GRAY SOUP WITHOUT STOCK
+#Text= 
+#Text= NUMBER OF
+#Text=jelly, or can the juice for use as a beverage, for flavoring ice cream
+#Text= or some form of cooking.
+51-1	5091-5101	TIME-TABLE	_	_	_	
+51-2	5102-5105	FOR	_	_	_	
+51-3	5106-5111	SOUPS	_	_	_	
+51-4	5117-5121	GRAY	_	_	_	
+51-5	5122-5126	SOUP	_	_	_	
+51-6	5127-5134	WITHOUT	_	_	_	
+51-7	5135-5140	STOCK	_	_	_	
+51-8	5144-5150	NUMBER	_	_	_	
+51-9	5151-5153	OF	_	_	_	
+51-10	5154-5159	jelly	_	_	_	
+51-11	5159-5160	,	_	_	_	
+51-12	5161-5163	or	_	_	_	
+51-13	5164-5167	can	_	_	_	
+51-14	5168-5171	the	Taste Modifier[12]	_	_	
+51-15	5172-5177	juice	Taste Modifier[12]	_	_	
+51-16	5178-5181	for	_	_	_	
+51-17	5182-5185	use	_	_	_	
+51-18	5186-5188	as	_	_	_	
+51-19	5189-5190	a	_	_	_	
+51-20	5191-5199	beverage	_	_	_	
+51-21	5199-5200	,	_	_	_	
+51-22	5201-5204	for	_	_	_	
+51-23	5205-5214	flavoring	Taste Word	*|*	51-24[13_0]|51-14[12_0]	
+51-24	5215-5218	ice	Taste Source[13]	_	_	
+51-25	5219-5224	cream	Taste Source[13]	_	_	
+51-26	5226-5228	or	_	_	_	
+51-27	5229-5233	some	_	_	_	
+51-28	5234-5238	form	_	_	_	
+51-29	5239-5241	of	_	_	_	
+51-30	5242-5249	cooking	_	_	_	
+51-31	5249-5250	.	_	_	_	
+
+#Text=By employing this test, sugar can often be reduced, and thus the jelly
+#Text= texture will be fine, less rubbery and the flavor will be better.
+52-1	5254-5256	By	_	_	_	
+52-2	5257-5266	employing	_	_	_	
+52-3	5267-5271	this	_	_	_	
+52-4	5272-5276	test	_	_	_	
+52-5	5276-5277	,	_	_	_	
+52-6	5278-5283	sugar	_	_	_	
+52-7	5284-5287	can	_	_	_	
+52-8	5288-5293	often	_	_	_	
+52-9	5294-5296	be	_	_	_	
+52-10	5297-5304	reduced	_	_	_	
+52-11	5304-5305	,	_	_	_	
+52-12	5306-5309	and	_	_	_	
+52-13	5310-5314	thus	_	_	_	
+52-14	5315-5318	the	Taste Source[14]	_	_	
+52-15	5319-5324	jelly	Taste Source[14]	_	_	
+52-16	5326-5333	texture	_	_	_	
+52-17	5334-5338	will	_	_	_	
+52-18	5339-5341	be	_	_	_	
+52-19	5342-5346	fine	_	_	_	
+52-20	5346-5347	,	_	_	_	
+52-21	5348-5352	less	_	_	_	
+52-22	5353-5360	rubbery	_	_	_	
+52-23	5361-5364	and	_	_	_	
+52-24	5365-5368	the	_	_	_	
+52-25	5369-5375	flavor	Taste Word	*|*	52-14[14_0]|52-28	
+52-26	5376-5380	will	_	_	_	
+52-27	5381-5383	be	_	_	_	
+52-28	5384-5390	better	Quality	_	_	
+52-29	5390-5391	.	_	_	_	
+
+#Text=After the fruit has been selected and prepared as usual by washing,
+#Text= stemming, and so forth, it is ready to be heated in an acid-proof
+#Text= kettle.
+53-1	5395-5400	After	_	_	_	
+53-2	5401-5404	the	_	_	_	
+53-3	5405-5410	fruit	_	_	_	
+53-4	5411-5414	has	_	_	_	
+53-5	5415-5419	been	_	_	_	
+53-6	5420-5428	selected	_	_	_	
+53-7	5429-5432	and	_	_	_	
+53-8	5433-5441	prepared	_	_	_	
+53-9	5442-5444	as	_	_	_	
+53-10	5445-5450	usual	_	_	_	
+53-11	5451-5453	by	_	_	_	
+53-12	5454-5461	washing	_	_	_	
+53-13	5461-5462	,	_	_	_	
+53-14	5464-5472	stemming	_	_	_	
+53-15	5472-5473	,	_	_	_	
+53-16	5474-5477	and	_	_	_	
+53-17	5478-5480	so	_	_	_	
+53-18	5481-5486	forth	_	_	_	
+53-19	5486-5487	,	_	_	_	
+53-20	5488-5490	it	_	_	_	
+53-21	5491-5493	is	_	_	_	
+53-22	5494-5499	ready	_	_	_	
+53-23	5500-5502	to	_	_	_	
+53-24	5503-5505	be	_	_	_	
+53-25	5506-5512	heated	_	_	_	
+53-26	5513-5515	in	_	_	_	
+53-27	5516-5518	an	_	_	_	
+53-28	5519-5529	acid-proof	_	_	_	
+53-29	5531-5537	kettle	_	_	_	
+53-30	5537-5538	.	_	_	_	
+
+#Text=With juicy fruits use just enough water to prevent
+#Text= burning--about one cup of water to every four or five quarts of fruit.
+54-1	5539-5543	With	_	_	_	
+54-2	5544-5549	juicy	Taste Word[15]|Quality[16]	*|*	54-2[16_15]|54-3[0_15]	
+54-3	5550-5556	fruits	Taste Source	_	_	
+54-4	5557-5560	use	_	_	_	
+54-5	5561-5565	just	_	_	_	
+54-6	5566-5572	enough	_	_	_	
+54-7	5573-5578	water	_	_	_	
+54-8	5579-5581	to	_	_	_	
+54-9	5582-5589	prevent	_	_	_	
+54-10	5591-5598	burning	_	_	_	
+54-11	5598-5599	-	_	_	_	
+54-12	5599-5600	-	_	_	_	
+54-13	5600-5605	about	_	_	_	
+54-14	5606-5609	one	_	_	_	
+54-15	5610-5613	cup	_	_	_	
+54-16	5614-5616	of	_	_	_	
+54-17	5617-5622	water	_	_	_	
+54-18	5623-5625	to	_	_	_	
+54-19	5626-5631	every	_	_	_	
+54-20	5632-5636	four	_	_	_	
+54-21	5637-5639	or	_	_	_	
+54-22	5640-5644	five	_	_	_	
+54-23	5645-5651	quarts	_	_	_	
+54-24	5652-5654	of	_	_	_	
+54-25	5655-5660	fruit	_	_	_	
+54-26	5660-5661	.	_	_	_	
+
+#Text=The juicy fruits are currants, raspberries, and so forth.
+55-1	5663-5666	The	_	_	_	
+55-2	5667-5672	juicy	Taste Word[17]|Quality[18]	*|*	55-3[0_17]|55-2[18_17]	
+55-3	5673-5679	fruits	Taste Source	_	_	
+55-4	5680-5683	are	_	_	_	
+55-5	5684-5692	currants	_	_	_	
+55-6	5692-5693	,	_	_	_	
+55-7	5694-5705	raspberries	_	_	_	
+55-8	5705-5706	,	_	_	_	
+55-9	5707-5710	and	_	_	_	
+55-10	5711-5713	so	_	_	_	
+55-11	5714-5719	forth	_	_	_	
+55-12	5719-5720	.	_	_	_	
+
+#Text=With less
+#Text= juicy fruits, as apples or quinces, use enough water to cover, or
+#Text= follow the rule, half as much water as fruit.
+56-1	5721-5725	With	_	_	_	
+56-2	5726-5730	less	_	_	_	
+56-3	5732-5737	juicy	Taste Word[19]|Quality[20]	*|*	56-3[20_19]|56-4[0_19]	
+56-4	5738-5744	fruits	Taste Source	_	_	
+56-5	5744-5745	,	_	_	_	
+56-6	5746-5748	as	_	_	_	
+56-7	5749-5755	apples	_	_	_	
+56-8	5756-5758	or	_	_	_	
+56-9	5759-5766	quinces	_	_	_	
+56-10	5766-5767	,	_	_	_	
+56-11	5768-5771	use	_	_	_	
+56-12	5772-5778	enough	_	_	_	
+56-13	5779-5784	water	_	_	_	
+56-14	5785-5787	to	_	_	_	
+56-15	5788-5793	cover	_	_	_	
+56-16	5793-5794	,	_	_	_	
+56-17	5795-5797	or	_	_	_	
+56-18	5799-5805	follow	_	_	_	
+56-19	5806-5809	the	_	_	_	
+56-20	5810-5814	rule	_	_	_	
+56-21	5814-5815	,	_	_	_	
+56-22	5816-5820	half	_	_	_	
+56-23	5821-5823	as	_	_	_	
+56-24	5824-5828	much	_	_	_	
+56-25	5829-5834	water	_	_	_	
+56-26	5835-5837	as	_	_	_	
+56-27	5838-5843	fruit	_	_	_	
+56-28	5843-5844	.	_	_	_	
+
+#Text=Use the cores, skins and
+#Text= seeds; these improve the flavor and color of the jelly.
+57-1	5845-5848	Use	_	_	_	
+57-2	5849-5852	the	_	_	_	
+57-3	5853-5858	cores	_	_	_	
+57-4	5858-5859	,	_	_	_	
+57-5	5860-5865	skins	_	_	_	
+57-6	5866-5869	and	_	_	_	
+57-7	5871-5876	seeds	_	_	_	
+57-8	5876-5877	;	_	_	_	
+57-9	5878-5883	these	_	_	_	
+57-10	5884-5891	improve	_	_	_	
+57-11	5892-5895	the	_	_	_	
+57-12	5896-5902	flavor	Taste Word	*	57-16[21_0]	
+57-13	5903-5906	and	_	_	_	
+57-14	5907-5912	color	_	_	_	
+57-15	5913-5915	of	_	_	_	
+57-16	5916-5919	the	Taste Source[21]	_	_	
+57-17	5920-5925	jelly	Taste Source[21]	_	_	
+57-18	5925-5926	.	_	_	_	
+
+#Text=Berries can be mashed.
+58-1	5930-5937	Berries	_	_	_	
+58-2	5938-5941	can	_	_	_	
+58-3	5942-5944	be	_	_	_	
+58-4	5945-5951	mashed	_	_	_	
+58-5	5951-5952	.	_	_	_	
+
+#Text=Heat the fruit slowly in a covered kettle,
+#Text= stirring once in a while to obtain an even cooking.
+59-1	5953-5957	Heat	_	_	_	
+59-2	5958-5961	the	_	_	_	
+59-3	5962-5967	fruit	_	_	_	
+59-4	5968-5974	slowly	_	_	_	
+59-5	5975-5977	in	_	_	_	
+59-6	5978-5979	a	_	_	_	
+59-7	5980-5987	covered	_	_	_	
+59-8	5988-5994	kettle	_	_	_	
+59-9	5994-5995	,	_	_	_	
+59-10	5997-6005	stirring	_	_	_	
+59-11	6006-6010	once	_	_	_	
+59-12	6011-6013	in	_	_	_	
+59-13	6014-6015	a	_	_	_	
+59-14	6016-6021	while	_	_	_	
+59-15	6022-6024	to	_	_	_	
+59-16	6025-6031	obtain	_	_	_	
+59-17	6032-6034	an	_	_	_	
+59-18	6035-6039	even	_	_	_	
+59-19	6040-6047	cooking	_	_	_	
+59-20	6047-6048	.	_	_	_	
+
+#Text=When the simmering
+#Text= point is reached, crush the fruit with a well-soaked wooden masher.
+60-1	6049-6053	When	_	_	_	
+60-2	6054-6057	the	_	_	_	
+60-3	6058-6067	simmering	_	_	_	
+60-4	6069-6074	point	_	_	_	
+60-5	6075-6077	is	_	_	_	
+60-6	6078-6085	reached	_	_	_	
+60-7	6085-6086	,	_	_	_	
+60-8	6087-6092	crush	_	_	_	
+60-9	6093-6096	the	_	_	_	
+60-10	6097-6102	fruit	_	_	_	
+60-11	6103-6107	with	_	_	_	
+60-12	6108-6109	a	_	_	_	
+60-13	6110-6121	well-soaked	_	_	_	
+60-14	6122-6128	wooden	_	_	_	
+60-15	6129-6135	masher	_	_	_	
+60-16	6135-6136	.	_	_	_	
+
+#Text=When the fruit is tender or has a transparent appearance, it is ready
+#Text= to strain.
+#Text=and then boil it.
+61-1	6138-6142	When	_	_	_	
+61-2	6143-6146	the	_	_	_	
+61-3	6147-6152	fruit	_	_	_	
+61-4	6153-6155	is	_	_	_	
+61-5	6156-6162	tender	_	_	_	
+61-6	6163-6165	or	_	_	_	
+61-7	6166-6169	has	_	_	_	
+61-8	6170-6171	a	_	_	_	
+61-9	6172-6183	transparent	_	_	_	
+61-10	6184-6194	appearance	_	_	_	
+61-11	6194-6195	,	_	_	_	
+61-12	6196-6198	it	_	_	_	
+61-13	6199-6201	is	_	_	_	
+61-14	6202-6207	ready	_	_	_	
+61-15	6209-6211	to	_	_	_	
+61-16	6212-6218	strain	_	_	_	
+61-17	6218-6219	.	_	_	_	
+61-18	6220-6223	and	_	_	_	
+61-19	6224-6228	then	_	_	_	
+61-20	6229-6233	boil	_	_	_	
+61-21	6234-6236	it	_	_	_	
+61-22	6236-6237	.	_	_	_	
+
+#Text=After it is boiled, remove all meat and make a mock
+#Text= turtle stew or ragout.
+62-1	6238-6243	After	_	_	_	
+62-2	6244-6246	it	_	_	_	
+62-3	6247-6249	is	_	_	_	
+62-4	6250-6256	boiled	_	_	_	
+62-5	6256-6257	,	_	_	_	
+62-6	6258-6264	remove	_	_	_	
+62-7	6265-6268	all	_	_	_	
+62-8	6269-6273	meat	_	_	_	
+62-9	6274-6277	and	_	_	_	
+62-10	6278-6282	make	_	_	_	
+62-11	6283-6284	a	_	_	_	
+62-12	6285-6289	mock	_	_	_	
+62-13	6291-6297	turtle	_	_	_	
+62-14	6298-6302	stew	_	_	_	
+62-15	6303-6305	or	_	_	_	
+62-16	6306-6312	ragout	_	_	_	
+62-17	6312-6313	.	_	_	_	
+
+#Text=Prepare the tripe as for table use and then
+#Text= can.
+63-1	6314-6321	Prepare	_	_	_	
+63-2	6322-6325	the	_	_	_	
+63-3	6326-6331	tripe	_	_	_	
+63-4	6332-6334	as	_	_	_	
+63-5	6335-6338	for	_	_	_	
+63-6	6339-6344	table	_	_	_	
+63-7	6345-6348	use	_	_	_	
+63-8	6349-6352	and	_	_	_	
+63-9	6353-6357	then	_	_	_	
+63-10	6359-6362	can	_	_	_	
+63-11	6362-6363	.	_	_	_	
+
+#Text=After the soup stock is made and the bones are cracked for a second
+#Text= cooking, the bones need not be thrown away.
+64-1	6367-6372	After	_	_	_	
+64-2	6373-6376	the	_	_	_	
+64-3	6377-6381	soup	_	_	_	
+64-4	6382-6387	stock	_	_	_	
+64-5	6388-6390	is	_	_	_	
+64-6	6391-6395	made	_	_	_	
+64-7	6396-6399	and	_	_	_	
+64-8	6400-6403	the	_	_	_	
+64-9	6404-6409	bones	_	_	_	
+64-10	6410-6413	are	_	_	_	
+64-11	6414-6421	cracked	_	_	_	
+64-12	6422-6425	for	_	_	_	
+64-13	6426-6427	a	_	_	_	
+64-14	6428-6434	second	_	_	_	
+64-15	6436-6443	cooking	_	_	_	
+64-16	6443-6444	,	_	_	_	
+64-17	6445-6448	the	_	_	_	
+64-18	6449-6454	bones	_	_	_	
+64-19	6455-6459	need	_	_	_	
+64-20	6460-6463	not	_	_	_	
+64-21	6464-6466	be	_	_	_	
+64-22	6467-6473	thrown	_	_	_	
+64-23	6474-6478	away	_	_	_	
+64-24	6478-6479	.	_	_	_	
+
+#Text=You can dry them, run them
+#Text= through a bone crusher and either feed them to the chickens or use
+#Text= them for fertilizer.
+65-1	6480-6483	You	_	_	_	
+65-2	6484-6487	can	_	_	_	
+65-3	6488-6491	dry	_	_	_	
+65-4	6492-6496	them	_	_	_	
+65-5	6496-6497	,	_	_	_	
+65-6	6498-6501	run	_	_	_	
+65-7	6502-6506	them	_	_	_	
+65-8	6508-6515	through	_	_	_	
+65-9	6516-6517	a	_	_	_	
+65-10	6518-6522	bone	_	_	_	
+65-11	6523-6530	crusher	_	_	_	
+65-12	6531-6534	and	_	_	_	
+65-13	6535-6541	either	_	_	_	
+65-14	6542-6546	feed	_	_	_	
+65-15	6547-6551	them	_	_	_	
+65-16	6552-6554	to	_	_	_	
+65-17	6555-6558	the	_	_	_	
+65-18	6559-6567	chickens	_	_	_	
+65-19	6568-6570	or	_	_	_	
+65-20	6571-6574	use	_	_	_	
+65-21	6576-6580	them	_	_	_	
+65-22	6581-6584	for	_	_	_	
+65-23	6585-6595	fertilizer	_	_	_	
+65-24	6595-6596	.	_	_	_	
+
+#Text=In this way not a particle of the dressed animal
+#Text= is wasted.
+66-1	6597-6599	In	_	_	_	
+66-2	6600-6604	this	_	_	_	
+66-3	6605-6608	way	_	_	_	
+66-4	6609-6612	not	_	_	_	
+66-5	6613-6614	a	_	_	_	
+66-6	6615-6623	particle	_	_	_	
+66-7	6624-6626	of	_	_	_	
+66-8	6627-6630	the	_	_	_	
+66-9	6631-6638	dressed	_	_	_	
+66-10	6639-6645	animal	_	_	_	
+66-11	6647-6649	is	_	_	_	
+66-12	6650-6656	wasted	_	_	_	
+66-13	6656-6657	.	_	_	_	
+
+#Text=Here are a few ways to utilize the cuts that are really "left-overs."
+67-1	6661-6665	Here	_	_	_	
+67-2	6666-6669	are	_	_	_	
+67-3	6670-6671	a	_	_	_	
+67-4	6672-6675	few	_	_	_	
+67-5	6676-6680	ways	_	_	_	
+67-6	6681-6683	to	_	_	_	
+67-7	6684-6691	utilize	_	_	_	
+67-8	6692-6695	the	_	_	_	
+67-9	6696-6700	cuts	_	_	_	
+67-10	6701-6705	that	_	_	_	
+67-11	6706-6709	are	_	_	_	
+67-12	6710-6716	really	_	_	_	
+67-13	6717-6718	"	_	_	_	
+67-14	6718-6728	left-overs	_	_	_	
+67-15	6728-6729	.	_	_	_	
+67-16	6729-6730	"	_	_	_	
+
+#Text=GOULASH
+#Text= 
+#Text= 2 Pounds of meat scraps which can consist of beef, veal or pork.
+#Text= 2 Ounces of any fat.
+#Text= 2 Onions chopped fine.
+#Text= 1 Stalk celery, cut in small pieces.
+#Text= 2 Carrots.
+#Text=2 Cups tomatoes either canned or fresh.
+#Text= 1 Bay leaf.
+#Text= 6 Whole cloves.
+#Text= 6 Peppercorns.
+#Text= 1 Blade mace or a little thyme or both.
+68-1	6736-6743	GOULASH	Taste Source	_	_	
+68-2	6747-6748	2	_	_	_	
+68-3	6749-6755	Pounds	_	_	_	
+68-4	6756-6758	of	_	_	_	
+68-5	6759-6763	meat	_	_	_	
+68-6	6764-6770	scraps	_	_	_	
+68-7	6771-6776	which	_	_	_	
+68-8	6777-6780	can	_	_	_	
+68-9	6781-6788	consist	_	_	_	
+68-10	6789-6791	of	_	_	_	
+68-11	6792-6796	beef	_	_	_	
+68-12	6796-6797	,	_	_	_	
+68-13	6798-6802	veal	_	_	_	
+68-14	6803-6805	or	_	_	_	
+68-15	6806-6810	pork	_	_	_	
+68-16	6810-6811	.	_	_	_	
+68-17	6813-6814	2	_	_	_	
+68-18	6815-6821	Ounces	_	_	_	
+68-19	6822-6824	of	_	_	_	
+68-20	6825-6828	any	_	_	_	
+68-21	6829-6832	fat	_	_	_	
+68-22	6832-6833	.	_	_	_	
+68-23	6835-6836	2	_	_	_	
+68-24	6837-6843	Onions	_	_	_	
+68-25	6844-6851	chopped	_	_	_	
+68-26	6852-6856	fine	_	_	_	
+68-27	6856-6857	.	_	_	_	
+68-28	6859-6860	1	_	_	_	
+68-29	6861-6866	Stalk	_	_	_	
+68-30	6867-6873	celery	_	_	_	
+68-31	6873-6874	,	_	_	_	
+68-32	6875-6878	cut	_	_	_	
+68-33	6879-6881	in	_	_	_	
+68-34	6882-6887	small	_	_	_	
+68-35	6888-6894	pieces	_	_	_	
+68-36	6894-6895	.	_	_	_	
+68-37	6897-6898	2	_	_	_	
+68-38	6899-6906	Carrots	_	_	_	
+68-39	6906-6907	.	_	_	_	
+68-40	6908-6909	2	_	_	_	
+68-41	6910-6914	Cups	_	_	_	
+68-42	6915-6923	tomatoes	_	_	_	
+68-43	6924-6930	either	_	_	_	
+68-44	6931-6937	canned	_	_	_	
+68-45	6938-6940	or	_	_	_	
+68-46	6941-6946	fresh	_	_	_	
+68-47	6946-6947	.	_	_	_	
+68-48	6949-6950	1	_	_	_	
+68-49	6951-6954	Bay	_	_	_	
+68-50	6955-6959	leaf	_	_	_	
+68-51	6959-6960	.	_	_	_	
+68-52	6962-6963	6	_	_	_	
+68-53	6964-6969	Whole	_	_	_	
+68-54	6970-6976	cloves	_	_	_	
+68-55	6976-6977	.	_	_	_	
+68-56	6979-6980	6	_	_	_	
+68-57	6981-6992	Peppercorns	_	_	_	
+68-58	6992-6993	.	_	_	_	
+68-59	6995-6996	1	_	_	_	
+68-60	6997-7002	Blade	_	_	_	
+68-61	7003-7007	mace	_	_	_	
+68-62	7008-7010	or	_	_	_	
+68-63	7011-7012	a	_	_	_	
+68-64	7013-7019	little	_	_	_	
+68-65	7020-7025	thyme	_	_	_	
+68-66	7026-7028	or	_	_	_	
+68-67	7029-7033	both	_	_	_	
+68-68	7033-7034	.	_	_	_	
+
+#Text=A little flour.
+#Text= 1 Tablespoonful chopped parsley.
+69-1	7036-7037	A	_	_	_	
+69-2	7038-7044	little	_	_	_	
+69-3	7045-7050	flour	_	_	_	
+69-4	7050-7051	.	_	_	_	
+69-5	7053-7054	1	_	_	_	
+69-6	7055-7068	Tablespoonful	_	_	_	
+69-7	7069-7076	chopped	_	_	_	
+69-8	7077-7084	parsley	_	_	_	
+69-9	7084-7085	.	_	_	_	
+
+#Text=Salt and paprika to taste.
+70-1	7087-7091	Salt	Taste Modifier	_	_	
+70-2	7092-7095	and	_	_	_	
+70-3	7096-7103	paprika	Taste Modifier	_	_	
+70-4	7104-7106	to	Circumstance[22]	_	_	
+70-5	7107-7112	taste	Circumstance[22]|Taste Word[23]	*|*|*|*	70-1[0_23]|70-3[0_23]|68-1[0_23]|70-4[22_23]	
+70-6	7112-7113	.	_	_	_	
+
+#Text=Cut the meat into one inch squares and roll in flour.
+71-1	7117-7120	Cut	_	_	_	
+71-2	7121-7124	the	_	_	_	
+71-3	7125-7129	meat	_	_	_	
+71-4	7130-7134	into	_	_	_	
+71-5	7135-7138	one	_	_	_	
+71-6	7139-7143	inch	_	_	_	
+71-7	7144-7151	squares	_	_	_	
+71-8	7152-7155	and	_	_	_	
+71-9	7156-7160	roll	_	_	_	
+71-10	7161-7163	in	_	_	_	
+71-11	7164-7169	flour	_	_	_	
+71-12	7169-7170	.	_	_	_	
+
+#Text=Melt the fat in
+#Text= the frying pan, add the vegetables (onions, celery, carrots) and brown
+#Text= lightly: add the meat and brown.
+72-1	7171-7175	Melt	_	_	_	
+72-2	7176-7179	the	_	_	_	
+72-3	7180-7183	fat	_	_	_	
+72-4	7184-7186	in	_	_	_	
+72-5	7188-7191	the	_	_	_	
+72-6	7192-7198	frying	_	_	_	
+72-7	7199-7202	pan	_	_	_	
+72-8	7202-7203	,	_	_	_	
+72-9	7204-7207	add	_	_	_	
+72-10	7208-7211	the	_	_	_	
+72-11	7212-7222	vegetables	_	_	_	
+72-12	7223-7224	(	_	_	_	
+72-13	7224-7230	onions	_	_	_	
+72-14	7230-7231	,	_	_	_	
+72-15	7232-7238	celery	_	_	_	
+72-16	7238-7239	,	_	_	_	
+72-17	7240-7247	carrots	_	_	_	
+72-18	7247-7248	)	_	_	_	
+72-19	7249-7252	and	_	_	_	
+72-20	7253-7258	brown	_	_	_	
+72-21	7260-7267	lightly	_	_	_	
+72-22	7267-7268	:	_	_	_	
+72-23	7269-7272	add	_	_	_	
+72-24	7273-7276	the	_	_	_	
+72-25	7277-7281	meat	_	_	_	
+72-26	7282-7285	and	_	_	_	
+72-27	7286-7291	brown	_	_	_	
+72-28	7291-7292	.	_	_	_	
+
+#Text=Stir with a spoon or fork to prevent
+#Text= burning.
+73-1	7293-7297	Stir	_	_	_	
+73-2	7298-7302	with	_	_	_	
+73-3	7303-7304	a	_	_	_	
+73-4	7305-7310	spoon	_	_	_	
+73-5	7311-7313	or	_	_	_	
+73-6	7314-7318	fork	_	_	_	
+73-7	7319-7321	to	_	_	_	
+73-8	7322-7329	prevent	_	_	_	
+73-9	7331-7338	burning	_	_	_	
+73-10	7338-7339	.	_	_	_	
+
+#Text=When browned empty into a pan.
+74-1	7340-7344	When	_	_	_	
+74-2	7345-7352	browned	_	_	_	
+74-3	7353-7358	empty	_	_	_	
+74-4	7359-7363	into	_	_	_	
+74-5	7364-7365	a	_	_	_	
+74-6	7366-7369	pan	_	_	_	
+74-7	7369-7370	.	_	_	_	
+
+#Text=Put the bay leaf, cloves, peppercorns, mace and thyme into a
+#Text= cheesecloth bag and add to the meat, add tomatoes.
+75-1	7374-7377	Put	_	_	_	
+75-2	7378-7381	the	_	_	_	
+75-3	7382-7385	bay	_	_	_	
+75-4	7386-7390	leaf	_	_	_	
+75-5	7390-7391	,	_	_	_	
+75-6	7392-7398	cloves	_	_	_	
+75-7	7398-7399	,	_	_	_	
+75-8	7400-7411	peppercorns	_	_	_	
+75-9	7411-7412	,	_	_	_	
+75-10	7413-7417	mace	_	_	_	
+75-11	7418-7421	and	_	_	_	
+75-12	7422-7427	thyme	_	_	_	
+75-13	7428-7432	into	_	_	_	
+75-14	7433-7434	a	_	_	_	
+75-15	7436-7447	cheesecloth	_	_	_	
+75-16	7448-7451	bag	_	_	_	
+75-17	7452-7455	and	_	_	_	
+75-18	7456-7459	add	_	_	_	
+75-19	7460-7462	to	_	_	_	
+75-20	7463-7466	the	_	_	_	
+75-21	7467-7471	meat	_	_	_	
+75-22	7471-7472	,	_	_	_	
+75-23	7473-7476	add	_	_	_	
+75-24	7477-7485	tomatoes	_	_	_	
+75-25	7485-7486	.	_	_	_	
+
+#Text=Cover with soup
+#Text= stock or water and simmer 45 minutes if it is going to be canned.
+76-1	7487-7492	Cover	_	_	_	
+76-2	7493-7497	with	_	_	_	
+76-3	7498-7502	soup	_	_	_	
+76-4	7504-7509	stock	_	_	_	
+76-5	7510-7512	or	_	_	_	
+76-6	7513-7518	water	_	_	_	
+76-7	7519-7522	and	_	_	_	
+76-8	7523-7529	simmer	_	_	_	
+76-9	7530-7532	45	_	_	_	
+76-10	7533-7540	minutes	_	_	_	
+76-11	7541-7543	if	_	_	_	
+76-12	7544-7546	it	_	_	_	
+76-13	7547-7549	is	_	_	_	
+76-14	7550-7555	going	_	_	_	
+76-15	7556-7558	to	_	_	_	
+76-16	7559-7561	be	_	_	_	
+76-17	7562-7568	canned	_	_	_	
+76-18	7568-7569	.	_	_	_	
+
+#Text=If
+#Text= for immediate use, 2 hours will be necessary to thoroughly cook it.
+77-1	7570-7572	If	_	_	_	
+77-2	7574-7577	for	_	_	_	
+77-3	7578-7587	immediate	_	_	_	
+77-4	7588-7591	use	_	_	_	
+77-5	7591-7592	,	_	_	_	
+77-6	7593-7594	2	_	_	_	
+77-7	7595-7600	hours	_	_	_	
+77-8	7601-7605	will	_	_	_	
+77-9	7606-7608	be	_	_	_	
+77-10	7609-7618	necessary	_	_	_	
+77-11	7619-7621	to	_	_	_	
+77-12	7622-7632	thoroughly	_	_	_	
+77-13	7633-7637	cook	_	_	_	
+77-14	7638-7640	it	_	_	_	
+77-15	7640-7641	.	_	_	_	
+
+#Text=Remove the spices, season with salt, paprika and the chopped parsley.
+78-1	7645-7651	Remove	_	_	_	
+78-2	7652-7655	the	_	_	_	
+78-3	7656-7662	spices	_	_	_	
+78-4	7662-7663	,	_	_	_	
+78-5	7664-7670	season	Taste Word	*|*|*	78-6[24_0]|78-9|78-11[25_0]	
+78-6	7671-7675	with	Taste Modifier[24]	_	_	
+78-7	7676-7680	salt	Taste Modifier[24]	_	_	
+78-8	7680-7681	,	_	_	_	
+78-9	7682-7689	paprika	Taste Modifier	_	_	
+78-10	7690-7693	and	_	_	_	
+78-11	7694-7697	the	Taste Modifier[25]	_	_	
+78-12	7698-7705	chopped	Taste Modifier[25]	_	_	
+78-13	7706-7713	parsley	Taste Modifier[25]	_	_	
+78-14	7713-7714	.	_	_	_	
+
+#Text=You can add Worcestershire sauce or soy sauce if desired.
+79-1	7715-7718	You	_	_	_	
+79-2	7719-7722	can	_	_	_	
+79-3	7723-7726	add	_	_	_	
+79-4	7727-7741	Worcestershire	_	_	_	
+79-5	7742-7747	sauce	_	_	_	
+79-6	7748-7750	or	_	_	_	
+79-7	7751-7754	soy	_	_	_	
+79-8	7755-7760	sauce	_	_	_	
+79-9	7761-7763	if	_	_	_	
+79-10	7764-7771	desired	_	_	_	
+79-11	7771-7772	.	_	_	_	
+
+#Text=Use only
+#Text= small quantities as these sauces are very strong in their distinctive
+#Text= flavor.
+80-1	7773-7776	Use	_	_	_	
+80-2	7777-7781	only	_	_	_	
+80-3	7783-7788	small	_	_	_	
+80-4	7789-7799	quantities	_	_	_	
+80-5	7800-7802	as	_	_	_	
+80-6	7803-7808	these	Taste Source[26]	_	_	
+80-7	7809-7815	sauces	Taste Source[26]	_	_	
+80-8	7816-7819	are	_	_	_	
+80-9	7820-7824	very	Quality[27]	_	_	
+80-10	7825-7831	strong	Quality[27]	_	_	
+80-11	7832-7834	in	_	_	_	
+80-12	7835-7840	their	_	_	_	
+80-13	7841-7852	distinctive	Quality	_	_	
+80-14	7854-7860	flavor	Taste Word	*|*|*	80-13|80-9[27_0]|80-6[26_0]	
+80-15	7860-7861	.	_	_	_	
+
+#Text=Put hot mixture into cans and sterilize.
+81-1	7862-7865	Put	_	_	_	
+81-2	7866-7869	hot	_	_	_	
+81-3	7870-7877	mixture	_	_	_	
+81-4	7878-7882	into	_	_	_	
+81-5	7883-7887	cans	_	_	_	
+81-6	7888-7891	and	_	_	_	
+81-7	7892-7901	sterilize	_	_	_	
+81-8	7901-7902	.	_	_	_	
+
+#Text=If the different spices are not at hand a good goulash can be made by
+#Text= using the meat, fat, onions, tomatoes, flour, salt and pepper and
+#Text= omitting the rest of the recipe.
+82-1	7906-7908	If	_	_	_	
+82-2	7909-7912	the	_	_	_	
+82-3	7913-7922	different	_	_	_	
+82-4	7923-7929	spices	_	_	_	
+82-5	7930-7933	are	_	_	_	
+82-6	7934-7937	not	_	_	_	
+82-7	7938-7940	at	_	_	_	
+82-8	7941-7945	hand	_	_	_	
+82-9	7946-7947	a	_	_	_	
+82-10	7948-7952	good	_	_	_	
+82-11	7953-7960	goulash	_	_	_	
+82-12	7961-7964	can	_	_	_	
+82-13	7965-7967	be	_	_	_	
+82-14	7968-7972	made	_	_	_	
+82-15	7973-7975	by	_	_	_	
+82-16	7977-7982	using	_	_	_	
+82-17	7983-7986	the	_	_	_	
+82-18	7987-7991	meat	_	_	_	
+82-19	7991-7992	,	_	_	_	
+82-20	7993-7996	fat	_	_	_	
+82-21	7996-7997	,	_	_	_	
+82-22	7998-8004	onions	_	_	_	
+82-23	8004-8005	,	_	_	_	
+82-24	8006-8014	tomatoes	_	_	_	
+82-25	8014-8015	,	_	_	_	
+82-26	8016-8021	flour	_	_	_	
+82-27	8021-8022	,	_	_	_	
+82-28	8023-8027	salt	_	_	_	
+82-29	8028-8031	and	_	_	_	
+82-30	8032-8038	pepper	_	_	_	
+82-31	8039-8042	and	_	_	_	
+82-32	8044-8052	omitting	_	_	_	
+82-33	8053-8056	the	_	_	_	
+82-34	8057-8061	rest	_	_	_	
+82-35	8062-8064	of	_	_	_	
+82-36	8065-8068	the	_	_	_	
+82-37	8069-8075	recipe	_	_	_	
+82-38	8075-8076	.	_	_	_	
+
+#Text=LIVER SAUSAGE
+#Text= 
+#Text= Beef, veal, or hog liver.
+83-1	8082-8087	LIVER	_	_	_	
+83-2	8088-8095	SAUSAGE	_	_	_	
+83-3	8099-8103	Beef	_	_	_	
+83-4	8103-8104	,	_	_	_	
+83-5	8105-8109	veal	_	_	_	
+83-6	8109-8110	,	_	_	_	
+83-7	8111-8113	or	_	_	_	
+83-8	8114-8117	hog	_	_	_	
+83-9	8118-8123	liver	_	_	_	
+83-10	8123-8124	.	_	_	_	
+
+#Text=Remove the membrane and cut away the large
+#Text= blood vessels.
+84-1	8125-8131	Remove	_	_	_	
+84-2	8132-8135	the	_	_	_	
+84-3	8136-8144	membrane	_	_	_	
+84-4	8145-8148	and	_	_	_	
+84-5	8149-8152	cut	_	_	_	
+84-6	8153-8157	away	_	_	_	
+84-7	8158-8161	the	_	_	_	
+84-8	8162-8167	large	_	_	_	
+84-9	8169-8174	blood	_	_	_	
+84-10	8175-8182	vessels	_	_	_	
+84-11	8182-8183	.	_	_	_	
+
+#Text=Soak in water 1 to 2 hours to draw out blood.
+85-1	8184-8188	Soak	_	_	_	
+85-2	8189-8191	in	_	_	_	
+85-3	8192-8197	water	_	_	_	
+85-4	8198-8199	1	_	_	_	
+85-5	8200-8202	to	_	_	_	
+85-6	8203-8204	2	_	_	_	
+85-7	8205-8210	hours	_	_	_	
+85-8	8211-8213	to	_	_	_	
+85-9	8214-8218	draw	_	_	_	
+85-10	8219-8222	out	_	_	_	
+85-11	8223-8228	blood	_	_	_	
+85-12	8228-8229	.	_	_	_	
+
+#Text=Boil
+#Text= until done.
+86-1	8230-8234	Boil	_	_	_	
+86-2	8236-8241	until	_	_	_	
+86-3	8242-8246	done	_	_	_	
+86-4	8246-8247	.	_	_	_	
+
+#Text=When cooled put through a food chopper or grate finely.
+87-1	8248-8252	When	_	_	_	
+87-2	8253-8259	cooled	_	_	_	
+87-3	8260-8263	put	_	_	_	
+87-4	8264-8271	through	_	_	_	
+87-5	8272-8273	a	_	_	_	
+87-6	8274-8278	food	_	_	_	
+87-7	8279-8286	chopper	_	_	_	
+87-8	8287-8289	or	_	_	_	
+87-9	8290-8295	grate	_	_	_	
+87-10	8296-8302	finely	_	_	_	
+87-11	8302-8303	.	_	_	_	
+
+#Text=Take half as much boiled fat pork as liver.
+88-1	8305-8309	Take	_	_	_	
+88-2	8310-8314	half	_	_	_	
+88-3	8315-8317	as	_	_	_	
+88-4	8318-8322	much	_	_	_	
+88-5	8323-8329	boiled	_	_	_	
+88-6	8330-8333	fat	_	_	_	
+88-7	8334-8338	pork	_	_	_	
+88-8	8339-8341	as	_	_	_	
+88-9	8342-8347	liver	_	_	_	
+88-10	8347-8348	.	_	_	_	
+
+#Text=Divide this fat into two
+#Text= portions; chop one portion into one-quarter inch cubes; pass the other
+#Text= portion through the food chopper; mix all together thoroughly; add
+#Text= salt, ground cloves, pepper, and a little grated onion to taste.
+89-1	8349-8355	Divide	_	_	_	
+89-2	8356-8360	this	_	_	_	
+89-3	8361-8364	fat	_	_	_	
+89-4	8365-8369	into	_	_	_	
+89-5	8370-8373	two	_	_	_	
+89-6	8375-8383	portions	_	_	_	
+89-7	8383-8384	;	_	_	_	
+89-8	8385-8389	chop	_	_	_	
+89-9	8390-8393	one	_	_	_	
+89-10	8394-8401	portion	_	_	_	
+89-11	8402-8406	into	_	_	_	
+89-12	8407-8418	one-quarter	_	_	_	
+89-13	8419-8423	inch	_	_	_	
+89-14	8424-8429	cubes	_	_	_	
+89-15	8429-8430	;	_	_	_	
+89-16	8431-8435	pass	_	_	_	
+89-17	8436-8439	the	_	_	_	
+89-18	8440-8445	other	_	_	_	
+89-19	8447-8454	portion	_	_	_	
+89-20	8455-8462	through	_	_	_	
+89-21	8463-8466	the	_	_	_	
+89-22	8467-8471	food	_	_	_	
+89-23	8472-8479	chopper	_	_	_	
+89-24	8479-8480	;	_	_	_	
+89-25	8481-8484	mix	_	_	_	
+89-26	8485-8488	all	_	_	_	
+89-27	8489-8497	together	_	_	_	
+89-28	8498-8508	thoroughly	_	_	_	
+89-29	8508-8509	;	_	_	_	
+89-30	8510-8513	add	_	_	_	
+89-31	8515-8519	salt	Taste Modifier	_	_	
+89-32	8519-8520	,	_	_	_	
+89-33	8521-8527	ground	Taste Modifier[28]	_	_	
+89-34	8528-8534	cloves	Taste Modifier[28]	_	_	
+89-35	8534-8535	,	_	_	_	
+89-36	8536-8542	pepper	Taste Modifier	_	_	
+89-37	8542-8543	,	_	_	_	
+89-38	8544-8547	and	_	_	_	
+89-39	8548-8549	a	Taste Modifier[29]	_	_	
+89-40	8550-8556	little	Taste Modifier[29]	_	_	
+89-41	8557-8563	grated	Taste Modifier[29]	_	_	
+89-42	8564-8569	onion	Taste Modifier[29]	_	_	
+89-43	8570-8572	to	Circumstance[30]	_	_	
+89-44	8573-8578	taste	Circumstance[30]|Taste Word[31]	*|*|*|*|*	89-39[29_31]|89-36[0_31]|89-33[28_31]|89-31[0_31]|89-43[30_31]	
+89-45	8578-8579	.	_	_	_	
+
+#Text=A
+#Text= little thyme and marjoram may be added to suit taste.
+90-1	8580-8581	A	Taste Modifier[32]	_	_	
+90-2	8583-8589	little	Taste Modifier[32]	_	_	
+90-3	8590-8595	thyme	Taste Modifier[32]	_	_	
+90-4	8596-8599	and	_	_	_	
+90-5	8600-8608	marjoram	Taste Modifier	_	_	
+90-6	8609-8612	may	_	_	_	
+90-7	8613-8615	be	_	_	_	
+90-8	8616-8621	added	_	_	_	
+90-9	8622-8624	to	_	_	_	
+90-10	8625-8629	suit	_	_	_	
+90-11	8630-8635	taste	Taste Word	*|*	90-1[32_0]|90-5	
+90-12	8635-8636	.	_	_	_	
+
+#Text=(For a liver
+#Text= weighing 1½ pounds add ¾ pounds fat pork, 3 to 4 teaspoonfuls salt, ½
+#Text=from your own tin-canned products than from tin-canned food bought at
+#Text= the store.
+91-1	8637-8638	(	_	_	_	
+91-2	8638-8641	For	_	_	_	
+91-3	8642-8643	a	_	_	_	
+91-4	8644-8649	liver	_	_	_	
+91-5	8651-8659	weighing	_	_	_	
+91-6	8660-8662	1½	_	_	_	
+91-7	8663-8669	pounds	_	_	_	
+91-8	8670-8673	add	_	_	_	
+91-9	8674-8675	¾	_	_	_	
+91-10	8676-8682	pounds	_	_	_	
+91-11	8683-8686	fat	_	_	_	
+91-12	8687-8691	pork	_	_	_	
+91-13	8691-8692	,	_	_	_	
+91-14	8693-8694	3	_	_	_	
+91-15	8695-8697	to	_	_	_	
+91-16	8698-8699	4	_	_	_	
+91-17	8700-8712	teaspoonfuls	_	_	_	
+91-18	8713-8717	salt	_	_	_	
+91-19	8717-8718	,	_	_	_	
+91-20	8719-8720	½	_	_	_	
+91-21	8721-8725	from	_	_	_	
+91-22	8726-8730	your	_	_	_	
+91-23	8731-8734	own	_	_	_	
+91-24	8735-8745	tin-canned	_	_	_	
+91-25	8746-8754	products	_	_	_	
+91-26	8755-8759	than	_	_	_	
+91-27	8760-8764	from	_	_	_	
+91-28	8765-8775	tin-canned	_	_	_	
+91-29	8776-8780	food	_	_	_	
+91-30	8781-8787	bought	_	_	_	
+91-31	8788-8790	at	_	_	_	
+91-32	8792-8795	the	_	_	_	
+91-33	8796-8801	store	_	_	_	
+91-34	8801-8802	.	_	_	_	
+
+#Text=Most canned foods if in a spoiled condition readily show
+#Text= this condition by the swelling of the can or by odor or taste.
+92-1	8803-8807	Most	Taste Source[33]	_	_	
+92-2	8808-8814	canned	Taste Source[33]	_	_	
+92-3	8815-8820	foods	Taste Source[33]	_	_	
+92-4	8821-8823	if	Circumstance[34]	_	_	
+92-5	8824-8826	in	Circumstance[34]	_	_	
+92-6	8827-8828	a	Circumstance[34]	_	_	
+92-7	8829-8836	spoiled	Circumstance[34]	_	_	
+92-8	8837-8846	condition	Circumstance[34]	_	_	
+92-9	8847-8854	readily	_	_	_	
+92-10	8855-8859	show	_	_	_	
+92-11	8861-8865	this	_	_	_	
+92-12	8866-8875	condition	_	_	_	
+92-13	8876-8878	by	_	_	_	
+92-14	8879-8882	the	_	_	_	
+92-15	8883-8891	swelling	_	_	_	
+92-16	8892-8894	of	_	_	_	
+92-17	8895-8898	the	_	_	_	
+92-18	8899-8902	can	_	_	_	
+92-19	8903-8905	or	_	_	_	
+92-20	8906-8908	by	_	_	_	
+92-21	8909-8913	odor	_	_	_	
+92-22	8914-8916	or	_	_	_	
+92-23	8917-8922	taste	Taste Word	*|*	92-4[34_0]|92-1[33_0]	
+92-24	8922-8923	.	_	_	_	
+
+#Text=Canned
+#Text= foods showing such evidences of decomposition should not be used.
+93-1	8924-8930	Canned	_	_	_	
+93-2	8932-8937	foods	_	_	_	
+93-3	8938-8945	showing	_	_	_	
+93-4	8946-8950	such	_	_	_	
+93-5	8951-8960	evidences	_	_	_	
+93-6	8961-8963	of	_	_	_	
+93-7	8964-8977	decomposition	_	_	_	
+93-8	8978-8984	should	_	_	_	
+93-9	8985-8988	not	_	_	_	
+93-10	8989-8991	be	_	_	_	
+93-11	8992-8996	used	_	_	_	
+93-12	8996-8997	.	_	_	_	
+
+#Text=Certain foods which are high in protein, such as meats, peas, beans
+#Text= and fish products, may undergo decomposition without making this
+#Text= condition obvious to the senses.
+94-1	9001-9008	Certain	_	_	_	
+94-2	9009-9014	foods	_	_	_	
+94-3	9015-9020	which	_	_	_	
+94-4	9021-9024	are	_	_	_	
+94-5	9025-9029	high	_	_	_	
+94-6	9030-9032	in	_	_	_	
+94-7	9033-9040	protein	_	_	_	
+94-8	9040-9041	,	_	_	_	
+94-9	9042-9046	such	_	_	_	
+94-10	9047-9049	as	_	_	_	
+94-11	9050-9055	meats	_	_	_	
+94-12	9055-9056	,	_	_	_	
+94-13	9057-9061	peas	_	_	_	
+94-14	9061-9062	,	_	_	_	
+94-15	9063-9068	beans	_	_	_	
+94-16	9070-9073	and	_	_	_	
+94-17	9074-9078	fish	_	_	_	
+94-18	9079-9087	products	_	_	_	
+94-19	9087-9088	,	_	_	_	
+94-20	9089-9092	may	_	_	_	
+94-21	9093-9100	undergo	_	_	_	
+94-22	9101-9114	decomposition	_	_	_	
+94-23	9115-9122	without	_	_	_	
+94-24	9123-9129	making	_	_	_	
+94-25	9130-9134	this	_	_	_	
+94-26	9136-9145	condition	_	_	_	
+94-27	9146-9153	obvious	_	_	_	
+94-28	9154-9156	to	_	_	_	
+94-29	9157-9160	the	_	_	_	
+94-30	9161-9167	senses	_	_	_	
+94-31	9167-9168	.	_	_	_	
+
+#Text=It is essential, therefore, that the
+#Text= greatest care be taken to subject such products to proper preparation
+#Text= and ample processing.
+95-1	9169-9171	It	_	_	_	
+95-2	9172-9174	is	_	_	_	
+95-3	9175-9184	essential	_	_	_	
+95-4	9184-9185	,	_	_	_	
+95-5	9186-9195	therefore	_	_	_	
+95-6	9195-9196	,	_	_	_	
+95-7	9197-9201	that	_	_	_	
+95-8	9202-9205	the	_	_	_	
+95-9	9207-9215	greatest	_	_	_	
+95-10	9216-9220	care	_	_	_	
+95-11	9221-9223	be	_	_	_	
+95-12	9224-9229	taken	_	_	_	
+95-13	9230-9232	to	_	_	_	
+95-14	9233-9240	subject	_	_	_	
+95-15	9241-9245	such	_	_	_	
+95-16	9246-9254	products	_	_	_	
+95-17	9255-9257	to	_	_	_	
+95-18	9258-9264	proper	_	_	_	
+95-19	9265-9276	preparation	_	_	_	
+95-20	9278-9281	and	_	_	_	
+95-21	9282-9287	ample	_	_	_	
+95-22	9288-9298	processing	_	_	_	
+95-23	9298-9299	.	_	_	_	
+
+#Text=It should be remembered that canned foods, after
+#Text= opening the containers, should be treated as perishable products and
+#Text= should be handled with the same precautions that are applied when
+#Text= fresh products are being used.
+96-1	9300-9302	It	_	_	_	
+96-2	9303-9309	should	_	_	_	
+96-3	9310-9312	be	_	_	_	
+96-4	9313-9323	remembered	_	_	_	
+96-5	9324-9328	that	_	_	_	
+96-6	9329-9335	canned	_	_	_	
+96-7	9336-9341	foods	_	_	_	
+96-8	9341-9342	,	_	_	_	
+96-9	9343-9348	after	_	_	_	
+96-10	9350-9357	opening	_	_	_	
+96-11	9358-9361	the	_	_	_	
+96-12	9362-9372	containers	_	_	_	
+96-13	9372-9373	,	_	_	_	
+96-14	9374-9380	should	_	_	_	
+96-15	9381-9383	be	_	_	_	
+96-16	9384-9391	treated	_	_	_	
+96-17	9392-9394	as	_	_	_	
+96-18	9395-9405	perishable	_	_	_	
+96-19	9406-9414	products	_	_	_	
+96-20	9415-9418	and	_	_	_	
+96-21	9420-9426	should	_	_	_	
+96-22	9427-9429	be	_	_	_	
+96-23	9430-9437	handled	_	_	_	
+96-24	9438-9442	with	_	_	_	
+96-25	9443-9446	the	_	_	_	
+96-26	9447-9451	same	_	_	_	
+96-27	9452-9463	precautions	_	_	_	
+96-28	9464-9468	that	_	_	_	
+96-29	9469-9472	are	_	_	_	
+96-30	9473-9480	applied	_	_	_	
+96-31	9481-9485	when	_	_	_	
+96-32	9487-9492	fresh	_	_	_	
+96-33	9493-9501	products	_	_	_	
+96-34	9502-9505	are	_	_	_	
+96-35	9506-9511	being	_	_	_	
+96-36	9512-9516	used	_	_	_	
+96-37	9516-9517	.	_	_	_	
+
+#Text=ADVANTAGES OF CANS
+#Text= 
+#Text= Many housewives ask, "Why can in tin when we have always used glass
+#Text= jars?"
+97-1	9523-9533	ADVANTAGES	_	_	_	
+97-2	9534-9536	OF	_	_	_	
+97-3	9537-9541	CANS	_	_	_	
+97-4	9545-9549	Many	_	_	_	
+97-5	9550-9560	housewives	_	_	_	
+97-6	9561-9564	ask	_	_	_	
+97-7	9564-9565	,	_	_	_	
+97-8	9566-9567	"	_	_	_	
+97-9	9567-9570	Why	_	_	_	
+97-10	9571-9574	can	_	_	_	
+97-11	9575-9577	in	_	_	_	
+97-12	9578-9581	tin	_	_	_	
+97-13	9582-9586	when	_	_	_	
+97-14	9587-9589	we	_	_	_	
+97-15	9590-9594	have	_	_	_	
+97-16	9595-9601	always	_	_	_	
+97-17	9602-9606	used	_	_	_	
+97-18	9607-9612	glass	_	_	_	
+97-19	9614-9618	jars	_	_	_	
+97-20	9618-9619	?	_	_	_	
+97-21	9619-9620	"	_	_	_	
+
+#Text=There are many advantages in canning in tin which we can well
+#Text= consider.
+98-1	9621-9626	There	_	_	_	
+98-2	9627-9630	are	_	_	_	
+98-3	9631-9635	many	_	_	_	
+98-4	9636-9646	advantages	_	_	_	
+98-5	9647-9649	in	_	_	_	
+98-6	9650-9657	canning	_	_	_	
+98-7	9658-9660	in	_	_	_	
+98-8	9661-9664	tin	_	_	_	
+98-9	9665-9670	which	_	_	_	
+98-10	9671-9673	we	_	_	_	
+98-11	9674-9677	can	_	_	_	
+98-12	9678-9682	well	_	_	_	
+98-13	9684-9692	consider	_	_	_	
+98-14	9692-9693	.	_	_	_	
+
+#Text=There is no breakage as in glass; you can handle the tin
+#Text=cans as carelessly as you choose and you will not hear a snap or crack
+#Text= indicating a lost jar.
+99-1	9694-9699	There	_	_	_	
+99-2	9700-9702	is	_	_	_	
+99-3	9703-9705	no	_	_	_	
+99-4	9706-9714	breakage	_	_	_	
+99-5	9715-9717	as	_	_	_	
+99-6	9718-9720	in	_	_	_	
+99-7	9721-9726	glass	_	_	_	
+99-8	9726-9727	;	_	_	_	
+99-9	9728-9731	you	_	_	_	
+99-10	9732-9735	can	_	_	_	
+99-11	9736-9742	handle	_	_	_	
+99-12	9743-9746	the	_	_	_	
+99-13	9747-9750	tin	_	_	_	
+99-14	9751-9755	cans	_	_	_	
+99-15	9756-9758	as	_	_	_	
+99-16	9759-9769	carelessly	_	_	_	
+99-17	9770-9772	as	_	_	_	
+99-18	9773-9776	you	_	_	_	
+99-19	9777-9783	choose	_	_	_	
+99-20	9784-9787	and	_	_	_	
+99-21	9788-9791	you	_	_	_	
+99-22	9792-9796	will	_	_	_	
+99-23	9797-9800	not	_	_	_	
+99-24	9801-9805	hear	_	_	_	
+99-25	9806-9807	a	_	_	_	
+99-26	9808-9812	snap	_	_	_	
+99-27	9813-9815	or	_	_	_	
+99-28	9816-9821	crack	_	_	_	
+99-29	9823-9833	indicating	_	_	_	
+99-30	9834-9835	a	_	_	_	
+99-31	9836-9840	lost	_	_	_	
+99-32	9841-9844	jar	_	_	_	
+99-33	9844-9845	.	_	_	_	
+
+#Text=Furthermore, tin cans are easier to handle not
+#Text= only in canning but in storing.
+100-1	9846-9857	Furthermore	_	_	_	
+100-2	9857-9858	,	_	_	_	
+100-3	9859-9862	tin	_	_	_	
+100-4	9863-9867	cans	_	_	_	
+100-5	9868-9871	are	_	_	_	
+100-6	9872-9878	easier	_	_	_	
+100-7	9879-9881	to	_	_	_	
+100-8	9882-9888	handle	_	_	_	
+100-9	9889-9892	not	_	_	_	
+100-10	9894-9898	only	_	_	_	
+100-11	9899-9901	in	_	_	_	
+100-12	9902-9909	canning	_	_	_	
+100-13	9910-9913	but	_	_	_	
+100-14	9914-9916	in	_	_	_	
+100-15	9917-9924	storing	_	_	_	
+100-16	9924-9925	.	_	_	_	
+
+#Text=The expense each year of new tin covers or new tin cans is no more
+#Text= than the purchase of new rubbers and the replacement of broken glass
+#Text= jars.
+101-1	9929-9932	The	_	_	_	
+101-2	9933-9940	expense	_	_	_	
+101-3	9941-9945	each	_	_	_	
+101-4	9946-9950	year	_	_	_	
+101-5	9951-9953	of	_	_	_	
+101-6	9954-9957	new	_	_	_	
+101-7	9958-9961	tin	_	_	_	
+101-8	9962-9968	covers	_	_	_	
+101-9	9969-9971	or	_	_	_	
+101-10	9972-9975	new	_	_	_	
+101-11	9976-9979	tin	_	_	_	
+101-12	9980-9984	cans	_	_	_	
+101-13	9985-9987	is	_	_	_	
+101-14	9988-9990	no	_	_	_	
+101-15	9991-9995	more	_	_	_	
+101-16	9997-10001	than	_	_	_	
+101-17	10002-10005	the	_	_	_	
+101-18	10006-10014	purchase	_	_	_	
+101-19	10015-10017	of	_	_	_	
+101-20	10018-10021	new	_	_	_	
+101-21	10022-10029	rubbers	_	_	_	
+101-22	10030-10033	and	_	_	_	
+101-23	10034-10037	the	_	_	_	
+101-24	10038-10049	replacement	_	_	_	
+101-25	10050-10052	of	_	_	_	
+101-26	10053-10059	broken	_	_	_	
+101-27	10060-10065	glass	_	_	_	
+101-28	10067-10071	jars	_	_	_	
+101-29	10071-10072	.	_	_	_	
+
+#Text=Furthermore, one big advantage of tin over glass is that tin
+#Text= cans can be cooled quickly by plunging them into cold water
+#Text= immediately upon removal from the canner, and thus the cooking is
+#Text= stopped at the proper moment.
+102-1	10073-10084	Furthermore	_	_	_	
+102-2	10084-10085	,	_	_	_	
+102-3	10086-10089	one	_	_	_	
+102-4	10090-10093	big	_	_	_	
+102-5	10094-10103	advantage	_	_	_	
+102-6	10104-10106	of	_	_	_	
+102-7	10107-10110	tin	_	_	_	
+102-8	10111-10115	over	_	_	_	
+102-9	10116-10121	glass	_	_	_	
+102-10	10122-10124	is	_	_	_	
+102-11	10125-10129	that	_	_	_	
+102-12	10130-10133	tin	_	_	_	
+102-13	10135-10139	cans	_	_	_	
+102-14	10140-10143	can	_	_	_	
+102-15	10144-10146	be	_	_	_	
+102-16	10147-10153	cooled	_	_	_	
+102-17	10154-10161	quickly	_	_	_	
+102-18	10162-10164	by	_	_	_	
+102-19	10165-10173	plunging	_	_	_	
+102-20	10174-10178	them	_	_	_	
+102-21	10179-10183	into	_	_	_	
+102-22	10184-10188	cold	_	_	_	
+102-23	10189-10194	water	_	_	_	
+102-24	10196-10207	immediately	_	_	_	
+102-25	10208-10212	upon	_	_	_	
+102-26	10213-10220	removal	_	_	_	
+102-27	10221-10225	from	_	_	_	
+102-28	10226-10229	the	_	_	_	
+102-29	10230-10236	canner	_	_	_	
+102-30	10236-10237	,	_	_	_	
+102-31	10238-10241	and	_	_	_	
+102-32	10242-10246	thus	_	_	_	
+102-33	10247-10250	the	_	_	_	
+102-34	10251-10258	cooking	_	_	_	
+102-35	10259-10261	is	_	_	_	
+102-36	10263-10270	stopped	_	_	_	
+102-37	10271-10273	at	_	_	_	
+102-38	10274-10277	the	_	_	_	
+102-39	10278-10284	proper	_	_	_	
+102-40	10285-10291	moment	_	_	_	
+102-41	10291-10292	.	_	_	_	
+
+#Text=The product is consequently better in
+#Text= form and flavor than when the cooking is prolonged, as it must be in
+#Text= glass jars.
+103-1	10293-10296	The	Taste Source[35]	_	_	
+103-2	10297-10304	product	Taste Source[35]	_	_	
+103-3	10305-10307	is	_	_	_	
+103-4	10308-10320	consequently	_	_	_	
+103-5	10321-10327	better	Quality	_	_	
+103-6	10328-10330	in	_	_	_	
+103-7	10332-10336	form	_	_	_	
+103-8	10337-10340	and	_	_	_	
+103-9	10341-10347	flavor	Taste Word	*|*|*|*	103-5|103-1[35_0]|103-11[36_0]|103-21[37_0]	
+103-10	10348-10352	than	_	_	_	
+103-11	10353-10357	when	Circumstance[36]	_	_	
+103-12	10358-10361	the	Circumstance[36]	_	_	
+103-13	10362-10369	cooking	Circumstance[36]	_	_	
+103-14	10370-10372	is	Circumstance[36]	_	_	
+103-15	10373-10382	prolonged	Circumstance[36]	_	_	
+103-16	10382-10383	,	_	_	_	
+103-17	10384-10386	as	_	_	_	
+103-18	10387-10389	it	_	_	_	
+103-19	10390-10394	must	_	_	_	
+103-20	10395-10397	be	_	_	_	
+103-21	10398-10400	in	Taste Carrier[37]	_	_	
+103-22	10402-10407	glass	Taste Carrier[37]	_	_	
+103-23	10408-10412	jars	Taste Carrier[37]	_	_	
+103-24	10412-10413	.	_	_	_	
+
+#Text=Many women like the large openings of cans because they
+#Text= can make better packs than when using narrow-necked jars.
+104-1	10414-10418	Many	_	_	_	
+104-2	10419-10424	women	_	_	_	
+104-3	10425-10429	like	_	_	_	
+104-4	10430-10433	the	_	_	_	
+104-5	10434-10439	large	_	_	_	
+104-6	10440-10448	openings	_	_	_	
+104-7	10449-10451	of	_	_	_	
+104-8	10452-10456	cans	_	_	_	
+104-9	10457-10464	because	_	_	_	
+104-10	10465-10469	they	_	_	_	
+104-11	10471-10474	can	_	_	_	
+104-12	10475-10479	make	_	_	_	
+104-13	10480-10486	better	_	_	_	
+104-14	10487-10492	packs	_	_	_	
+104-15	10493-10497	than	_	_	_	
+104-16	10498-10502	when	_	_	_	
+104-17	10503-10508	using	_	_	_	
+104-18	10509-10522	narrow-necked	_	_	_	
+104-19	10523-10527	jars	_	_	_	
+104-20	10527-10528	.	_	_	_	
+
+#Text=If you do not care to bother with the soldering you can purchase a
+#Text= safe and simple device that will do the work for you.
+105-1	10532-10534	If	_	_	_	
+105-2	10535-10538	you	_	_	_	
+105-3	10539-10541	do	_	_	_	
+105-4	10542-10545	not	_	_	_	
+105-5	10546-10550	care	_	_	_	
+105-6	10551-10553	to	_	_	_	
+105-7	10554-10560	bother	_	_	_	
+105-8	10561-10565	with	_	_	_	
+105-9	10566-10569	the	_	_	_	
+105-10	10570-10579	soldering	_	_	_	
+105-11	10580-10583	you	_	_	_	
+105-12	10584-10587	can	_	_	_	
+105-13	10588-10596	purchase	_	_	_	
+105-14	10597-10598	a	_	_	_	
+105-15	10600-10604	safe	_	_	_	
+105-16	10605-10608	and	_	_	_	
+105-17	10609-10615	simple	_	_	_	
+105-18	10616-10622	device	_	_	_	
+105-19	10623-10627	that	_	_	_	
+105-20	10628-10632	will	_	_	_	
+105-21	10633-10635	do	_	_	_	
+105-22	10636-10639	the	_	_	_	
+105-23	10640-10644	work	_	_	_	
+105-24	10645-10648	for	_	_	_	
+105-25	10649-10652	you	_	_	_	
+105-26	10652-10653	.	_	_	_	
+
+#Text=This device is
+#Text= called a tin-can sealer.
+106-1	10654-10658	This	_	_	_	
+106-2	10659-10665	device	_	_	_	
+106-3	10666-10668	is	_	_	_	
+106-4	10670-10676	called	_	_	_	
+106-5	10677-10678	a	_	_	_	
+106-6	10679-10686	tin-can	_	_	_	
+106-7	10687-10693	sealer	_	_	_	
+106-8	10693-10694	.	_	_	_	
+
+#Text=With a sealer no soldering is necessary.
+107-1	10695-10699	With	_	_	_	
+107-2	10700-10701	a	_	_	_	
+107-3	10702-10708	sealer	_	_	_	
+107-4	10709-10711	no	_	_	_	
+107-5	10712-10721	soldering	_	_	_	
+107-6	10722-10724	is	_	_	_	
+107-7	10725-10734	necessary	_	_	_	
+107-8	10734-10735	.	_	_	_	
+
+#Text=Even an inexperienced person, by following directions carefully, can
+#Text= seal a can as well as an experienced one.
+108-1	10737-10741	Even	_	_	_	
+108-2	10742-10744	an	_	_	_	
+108-3	10745-10758	inexperienced	_	_	_	
+108-4	10759-10765	person	_	_	_	
+108-5	10765-10766	,	_	_	_	
+108-6	10767-10769	by	_	_	_	
+108-7	10770-10779	following	_	_	_	
+108-8	10780-10790	directions	_	_	_	
+108-9	10791-10800	carefully	_	_	_	
+108-10	10800-10801	,	_	_	_	
+108-11	10802-10805	can	_	_	_	
+108-12	10807-10811	seal	_	_	_	
+108-13	10812-10813	a	_	_	_	
+108-14	10814-10817	can	_	_	_	
+108-15	10818-10820	as	_	_	_	
+108-16	10821-10825	well	_	_	_	
+108-17	10826-10828	as	_	_	_	
+108-18	10829-10831	an	_	_	_	
+108-19	10832-10843	experienced	_	_	_	
+108-20	10844-10847	one	_	_	_	
+108-21	10847-10848	.	_	_	_	
+
+#Text=The sealed cans look exactly
+#Text= like those purchased at the store.
+109-1	10849-10852	The	_	_	_	
+109-2	10853-10859	sealed	_	_	_	
+109-3	10860-10864	cans	_	_	_	
+109-4	10865-10869	look	_	_	_	
+109-5	10870-10877	exactly	_	_	_	
+109-6	10879-10883	like	_	_	_	
+109-7	10884-10889	those	_	_	_	
+109-8	10890-10899	purchased	_	_	_	
+109-9	10900-10902	at	_	_	_	
+109-10	10903-10906	the	_	_	_	
+109-11	10907-10912	store	_	_	_	
+109-12	10912-10913	.	_	_	_	
+
+#Text=Two or three cans a minute can be
+#Text=
+#Text= Flat-sour often causes annoyance to beginners in canning some
+#Text= vegetables, such as corn, peas, beans and asparagus.
+110-1	10914-10917	Two	_	_	_	
+110-2	10918-10920	or	_	_	_	
+110-3	10921-10926	three	_	_	_	
+110-4	10927-10931	cans	_	_	_	
+110-5	10932-10933	a	_	_	_	
+110-6	10934-10940	minute	_	_	_	
+110-7	10941-10944	can	_	_	_	
+110-8	10945-10947	be	_	_	_	
+110-9	10950-10959	Flat-sour	_	_	_	
+110-10	10960-10965	often	_	_	_	
+110-11	10966-10972	causes	_	_	_	
+110-12	10973-10982	annoyance	_	_	_	
+110-13	10983-10985	to	_	_	_	
+110-14	10986-10995	beginners	_	_	_	
+110-15	10996-10998	in	_	_	_	
+110-16	10999-11006	canning	_	_	_	
+110-17	11007-11011	some	_	_	_	
+110-18	11013-11023	vegetables	_	_	_	
+110-19	11023-11024	,	_	_	_	
+110-20	11025-11029	such	_	_	_	
+110-21	11030-11032	as	_	_	_	
+110-22	11033-11037	corn	_	_	_	
+110-23	11037-11038	,	_	_	_	
+110-24	11039-11043	peas	_	_	_	
+110-25	11043-11044	,	_	_	_	
+110-26	11045-11050	beans	_	_	_	
+110-27	11051-11054	and	_	_	_	
+110-28	11055-11064	asparagus	_	_	_	
+110-29	11064-11065	.	_	_	_	
+
+#Text=These canned
+#Text= foods may show no signs of spoilage and yet when the can is opened the
+#Text= product may have a sour taste and a disagreeable odor.
+111-1	11066-11071	These	Taste Source[38]	_	_	
+111-2	11072-11078	canned	Taste Source[38]	_	_	
+111-3	11080-11085	foods	Taste Source[38]	_	_	
+111-4	11086-11089	may	_	_	_	
+111-5	11090-11094	show	_	_	_	
+111-6	11095-11097	no	_	_	_	
+111-7	11098-11103	signs	_	_	_	
+111-8	11104-11106	of	_	_	_	
+111-9	11107-11115	spoilage	_	_	_	
+111-10	11116-11119	and	_	_	_	
+111-11	11120-11123	yet	_	_	_	
+111-12	11124-11128	when	_	_	_	
+111-13	11129-11132	the	_	_	_	
+111-14	11133-11136	can	_	_	_	
+111-15	11137-11139	is	_	_	_	
+111-16	11140-11146	opened	_	_	_	
+111-17	11147-11150	the	_	_	_	
+111-18	11152-11159	product	_	_	_	
+111-19	11160-11163	may	_	_	_	
+111-20	11164-11168	have	_	_	_	
+111-21	11169-11170	a	_	_	_	
+111-22	11171-11175	sour	Taste Word[39]|Quality[40]	*	111-22[40_39]	
+111-23	11176-11181	taste	Taste Word	*|*	111-22[40_0]|111-1[38_0]	
+111-24	11182-11185	and	_	_	_	
+111-25	11186-11187	a	_	_	_	
+111-26	11188-11200	disagreeable	_	_	_	
+111-27	11201-11205	odor	_	_	_	
+111-28	11205-11206	.	_	_	_	
+
+#Text=This
+#Text= "flat-sour" is not harmful and must not be confused with "botulinus,"
+#Text= which is harmful.
+112-1	11207-11211	This	_	_	_	
+112-2	11213-11214	"	_	_	_	
+112-3	11214-11223	flat-sour	_	_	_	
+112-4	11223-11224	"	_	_	_	
+112-5	11225-11227	is	_	_	_	
+112-6	11228-11231	not	_	_	_	
+112-7	11232-11239	harmful	_	_	_	
+112-8	11240-11243	and	_	_	_	
+112-9	11244-11248	must	_	_	_	
+112-10	11249-11252	not	_	_	_	
+112-11	11253-11255	be	_	_	_	
+112-12	11256-11264	confused	_	_	_	
+112-13	11265-11269	with	_	_	_	
+112-14	11270-11271	"	_	_	_	
+112-15	11271-11280	botulinus	_	_	_	
+112-16	11280-11281	,	_	_	_	
+112-17	11281-11282	"	_	_	_	
+112-18	11284-11289	which	_	_	_	
+112-19	11290-11292	is	_	_	_	
+112-20	11293-11300	harmful	_	_	_	
+112-21	11300-11301	.	_	_	_	
+
+#Text=However, the taste and odor are so disagreeable you
+#Text= will have no desire to eat "flat-sour" canned goods.
+113-1	11302-11309	However	_	_	_	
+113-2	11309-11310	,	_	_	_	
+113-3	11311-11314	the	_	_	_	
+113-4	11315-11320	taste	Taste Word	*|*	113-8[41_0]|113-18[42_0]	
+113-5	11321-11324	and	_	_	_	
+113-6	11325-11329	odor	_	_	_	
+113-7	11330-11333	are	_	_	_	
+113-8	11334-11336	so	Quality[41]	_	_	
+113-9	11337-11349	disagreeable	Quality[41]	_	_	
+113-10	11350-11353	you	Taster	_	_	
+113-11	11355-11359	will	_	_	_	
+113-12	11360-11364	have	_	_	_	
+113-13	11365-11367	no	_	_	_	
+113-14	11368-11374	desire	_	_	_	
+113-15	11375-11377	to	_	_	_	
+113-16	11378-11381	eat	Taste Word	*|*	113-18[42_0]|113-10	
+113-17	11382-11383	"	_	_	_	
+113-18	11383-11392	flat-sour	Taste Source[42]	_	_	
+113-19	11392-11393	"	Taste Source[42]	_	_	
+113-20	11394-11400	canned	Taste Source[42]	_	_	
+113-21	11401-11406	goods	Taste Source[42]	_	_	
+113-22	11406-11407	.	_	_	_	
+
+#Text=This trouble can be avoided if you will use fresh products, that is,
+#Text= those which have not been allowed to wilt or stand around the shops
+#Text= for several days, and will blanch, cold-dip, and pack one jar of
+#Text= product at a time, and place each jar in the canner as it is packed.
+114-1	11411-11415	This	_	_	_	
+114-2	11416-11423	trouble	_	_	_	
+114-3	11424-11427	can	_	_	_	
+114-4	11428-11430	be	_	_	_	
+114-5	11431-11438	avoided	_	_	_	
+114-6	11439-11441	if	_	_	_	
+114-7	11442-11445	you	_	_	_	
+114-8	11446-11450	will	_	_	_	
+114-9	11451-11454	use	_	_	_	
+114-10	11455-11460	fresh	_	_	_	
+114-11	11461-11469	products	_	_	_	
+114-12	11469-11470	,	_	_	_	
+114-13	11471-11475	that	_	_	_	
+114-14	11476-11478	is	_	_	_	
+114-15	11478-11479	,	_	_	_	
+114-16	11481-11486	those	_	_	_	
+114-17	11487-11492	which	_	_	_	
+114-18	11493-11497	have	_	_	_	
+114-19	11498-11501	not	_	_	_	
+114-20	11502-11506	been	_	_	_	
+114-21	11507-11514	allowed	_	_	_	
+114-22	11515-11517	to	_	_	_	
+114-23	11518-11522	wilt	_	_	_	
+114-24	11523-11525	or	_	_	_	
+114-25	11526-11531	stand	_	_	_	
+114-26	11532-11538	around	_	_	_	
+114-27	11539-11542	the	_	_	_	
+114-28	11543-11548	shops	_	_	_	
+114-29	11550-11553	for	_	_	_	
+114-30	11554-11561	several	_	_	_	
+114-31	11562-11566	days	_	_	_	
+114-32	11566-11567	,	_	_	_	
+114-33	11568-11571	and	_	_	_	
+114-34	11572-11576	will	_	_	_	
+114-35	11577-11583	blanch	_	_	_	
+114-36	11583-11584	,	_	_	_	
+114-37	11585-11593	cold-dip	_	_	_	
+114-38	11593-11594	,	_	_	_	
+114-39	11595-11598	and	_	_	_	
+114-40	11599-11603	pack	_	_	_	
+114-41	11604-11607	one	_	_	_	
+114-42	11608-11611	jar	_	_	_	
+114-43	11612-11614	of	_	_	_	
+114-44	11616-11623	product	_	_	_	
+114-45	11624-11626	at	_	_	_	
+114-46	11627-11628	a	_	_	_	
+114-47	11629-11633	time	_	_	_	
+114-48	11633-11634	,	_	_	_	
+114-49	11635-11638	and	_	_	_	
+114-50	11639-11644	place	_	_	_	
+114-51	11645-11649	each	_	_	_	
+114-52	11650-11653	jar	_	_	_	
+114-53	11654-11656	in	_	_	_	
+114-54	11657-11660	the	_	_	_	
+114-55	11661-11667	canner	_	_	_	
+114-56	11668-11670	as	_	_	_	
+114-57	11671-11673	it	_	_	_	
+114-58	11674-11676	is	_	_	_	
+114-59	11677-11683	packed	_	_	_	
+114-60	11683-11684	.	_	_	_	
+
+#Text=The first jars in will not be affected by the extra cooking.
+115-1	11686-11689	The	_	_	_	
+115-2	11690-11695	first	_	_	_	
+115-3	11696-11700	jars	_	_	_	
+115-4	11701-11703	in	_	_	_	
+115-5	11704-11708	will	_	_	_	
+115-6	11709-11712	not	_	_	_	
+115-7	11713-11715	be	_	_	_	
+115-8	11716-11724	affected	_	_	_	
+115-9	11725-11727	by	_	_	_	
+115-10	11728-11731	the	_	_	_	
+115-11	11732-11737	extra	_	_	_	
+115-12	11738-11745	cooking	_	_	_	
+115-13	11745-11746	.	_	_	_	
+
+#Text=When the
+#Text= steam-pressure canner is used the jars or cans may be placed in the
+#Text= retort and the cover placed into position but not clamped down until
+#Text= the retort is filled.
+116-1	11747-11751	When	_	_	_	
+116-2	11752-11755	the	_	_	_	
+116-3	11757-11771	steam-pressure	_	_	_	
+116-4	11772-11778	canner	_	_	_	
+116-5	11779-11781	is	_	_	_	
+116-6	11782-11786	used	_	_	_	
+116-7	11787-11790	the	_	_	_	
+116-8	11791-11795	jars	_	_	_	
+116-9	11796-11798	or	_	_	_	
+116-10	11799-11803	cans	_	_	_	
+116-11	11804-11807	may	_	_	_	
+116-12	11808-11810	be	_	_	_	
+116-13	11811-11817	placed	_	_	_	
+116-14	11818-11820	in	_	_	_	
+116-15	11821-11824	the	_	_	_	
+116-16	11826-11832	retort	_	_	_	
+116-17	11833-11836	and	_	_	_	
+116-18	11837-11840	the	_	_	_	
+116-19	11841-11846	cover	_	_	_	
+116-20	11847-11853	placed	_	_	_	
+116-21	11854-11858	into	_	_	_	
+116-22	11859-11867	position	_	_	_	
+116-23	11868-11871	but	_	_	_	
+116-24	11872-11875	not	_	_	_	
+116-25	11876-11883	clamped	_	_	_	
+116-26	11884-11888	down	_	_	_	
+116-27	11889-11894	until	_	_	_	
+116-28	11896-11899	the	_	_	_	
+116-29	11900-11906	retort	_	_	_	
+116-30	11907-11909	is	_	_	_	
+116-31	11910-11916	filled	_	_	_	
+116-32	11916-11917	.	_	_	_	
+
+#Text=TROUBLES WITH CORN
+#Text=minutes as the canning is."
+117-1	11923-11931	TROUBLES	_	_	_	
+117-2	11932-11936	WITH	_	_	_	
+117-3	11937-11941	CORN	_	_	_	
+117-4	11942-11949	minutes	_	_	_	
+117-5	11950-11952	as	_	_	_	
+117-6	11953-11956	the	_	_	_	
+117-7	11957-11964	canning	_	_	_	
+117-8	11965-11967	is	_	_	_	
+117-9	11967-11968	.	_	_	_	
+117-10	11968-11969	"	_	_	_	
+
+#Text=And another woman said: "What I do not
+#Text= like about drying is having the stuff standing round the house
+#Text= somewhere for so many hours.
+118-1	11970-11973	And	_	_	_	
+118-2	11974-11981	another	_	_	_	
+118-3	11982-11987	woman	_	_	_	
+118-4	11988-11992	said	_	_	_	
+118-5	11992-11993	:	_	_	_	
+118-6	11994-11995	"	_	_	_	
+118-7	11995-11999	What	_	_	_	
+118-8	12000-12001	I	_	_	_	
+118-9	12002-12004	do	_	_	_	
+118-10	12005-12008	not	_	_	_	
+118-11	12010-12014	like	_	_	_	
+118-12	12015-12020	about	_	_	_	
+118-13	12021-12027	drying	_	_	_	
+118-14	12028-12030	is	_	_	_	
+118-15	12031-12037	having	_	_	_	
+118-16	12038-12041	the	_	_	_	
+118-17	12042-12047	stuff	_	_	_	
+118-18	12048-12056	standing	_	_	_	
+118-19	12057-12062	round	_	_	_	
+118-20	12063-12066	the	_	_	_	
+118-21	12067-12072	house	_	_	_	
+118-22	12074-12083	somewhere	_	_	_	
+118-23	12084-12087	for	_	_	_	
+118-24	12088-12090	so	_	_	_	
+118-25	12091-12095	many	_	_	_	
+118-26	12096-12101	hours	_	_	_	
+118-27	12101-12102	.	_	_	_	
+
+#Text=I like to get things in the jars and out
+#Text= of sight."
+119-1	12103-12104	I	_	_	_	
+119-2	12105-12109	like	_	_	_	
+119-3	12110-12112	to	_	_	_	
+119-4	12113-12116	get	_	_	_	
+119-5	12117-12123	things	_	_	_	
+119-6	12124-12126	in	_	_	_	
+119-7	12127-12130	the	_	_	_	
+119-8	12131-12135	jars	_	_	_	
+119-9	12136-12139	and	_	_	_	
+119-10	12140-12143	out	_	_	_	
+119-11	12145-12147	of	_	_	_	
+119-12	12148-12153	sight	_	_	_	
+119-13	12153-12154	.	_	_	_	
+119-14	12154-12155	"	_	_	_	
+
+#Text=These two objections seem to be expressed more than any other.
+120-1	12159-12164	These	_	_	_	
+120-2	12165-12168	two	_	_	_	
+120-3	12169-12179	objections	_	_	_	
+120-4	12180-12184	seem	_	_	_	
+120-5	12185-12187	to	_	_	_	
+120-6	12188-12190	be	_	_	_	
+120-7	12191-12200	expressed	_	_	_	
+120-8	12201-12205	more	_	_	_	
+120-9	12206-12210	than	_	_	_	
+120-10	12211-12214	any	_	_	_	
+120-11	12215-12220	other	_	_	_	
+120-12	12220-12221	.	_	_	_	
+
+#Text=And in
+#Text= addition there is a third objection to drying: "I want my prepared
+#Text= food ready to use on a minute  '  s notice.
+121-1	12222-12225	And	_	_	_	
+121-2	12226-12228	in	_	_	_	
+121-3	12230-12238	addition	_	_	_	
+121-4	12239-12244	there	_	_	_	
+121-5	12245-12247	is	_	_	_	
+121-6	12248-12249	a	_	_	_	
+121-7	12250-12255	third	_	_	_	
+121-8	12256-12265	objection	_	_	_	
+121-9	12266-12268	to	_	_	_	
+121-10	12269-12275	drying	_	_	_	
+121-11	12275-12276	:	_	_	_	
+121-12	12277-12278	"	_	_	_	
+121-13	12278-12279	I	_	_	_	
+121-14	12280-12284	want	_	_	_	
+121-15	12285-12287	my	_	_	_	
+121-16	12288-12296	prepared	_	_	_	
+121-17	12298-12302	food	_	_	_	
+121-18	12303-12308	ready	_	_	_	
+121-19	12309-12311	to	_	_	_	
+121-20	12312-12315	use	_	_	_	
+121-21	12316-12318	on	_	_	_	
+121-22	12319-12320	a	_	_	_	
+121-23	12321-12327	minute	_	_	_	
+121-24	12329-12330	'	_	_	_	
+121-25	12332-12333	s	_	_	_	
+121-26	12334-12340	notice	_	_	_	
+121-27	12340-12341	.	_	_	_	
+
+#Text=I can quickly open a can of my
+#Text= fruit and vegetables and there it is ready.
+122-1	12342-12343	I	_	_	_	
+122-2	12344-12347	can	_	_	_	
+122-3	12348-12355	quickly	_	_	_	
+122-4	12356-12360	open	_	_	_	
+122-5	12361-12362	a	_	_	_	
+122-6	12363-12366	can	_	_	_	
+122-7	12367-12369	of	_	_	_	
+122-8	12370-12372	my	_	_	_	
+122-9	12374-12379	fruit	_	_	_	
+122-10	12380-12383	and	_	_	_	
+122-11	12384-12394	vegetables	_	_	_	
+122-12	12395-12398	and	_	_	_	
+122-13	12399-12404	there	_	_	_	
+122-14	12405-12407	it	_	_	_	
+122-15	12408-12410	is	_	_	_	
+122-16	12411-12416	ready	_	_	_	
+122-17	12416-12417	.	_	_	_	
+
+#Text=With my dried things I
+#Text= have to allow time for soaking and cooking."
+123-1	12418-12422	With	_	_	_	
+123-2	12423-12425	my	_	_	_	
+123-3	12426-12431	dried	_	_	_	
+123-4	12432-12438	things	_	_	_	
+123-5	12439-12440	I	_	_	_	
+123-6	12442-12446	have	_	_	_	
+123-7	12447-12449	to	_	_	_	
+123-8	12450-12455	allow	_	_	_	
+123-9	12456-12460	time	_	_	_	
+123-10	12461-12464	for	_	_	_	
+123-11	12465-12472	soaking	_	_	_	
+123-12	12473-12476	and	_	_	_	
+123-13	12477-12484	cooking	_	_	_	
+123-14	12484-12485	.	_	_	_	
+123-15	12485-12486	"	_	_	_	
+
+#Text=This we will have to
+#Text= admit is true.
+124-1	12487-12491	This	_	_	_	
+124-2	12492-12494	we	_	_	_	
+124-3	12495-12499	will	_	_	_	
+124-4	12500-12504	have	_	_	_	
+124-5	12505-12507	to	_	_	_	
+124-6	12509-12514	admit	_	_	_	
+124-7	12515-12517	is	_	_	_	
+124-8	12518-12522	true	_	_	_	
+124-9	12522-12523	.	_	_	_	
+
+#Text=But what weight have these three arguments against the
+#Text= many advantages of drying?
+125-1	12524-12527	But	_	_	_	
+125-2	12528-12532	what	_	_	_	
+125-3	12533-12539	weight	_	_	_	
+125-4	12540-12544	have	_	_	_	
+125-5	12545-12550	these	_	_	_	
+125-6	12551-12556	three	_	_	_	
+125-7	12557-12566	arguments	_	_	_	
+125-8	12567-12574	against	_	_	_	
+125-9	12575-12578	the	_	_	_	
+125-10	12580-12584	many	_	_	_	
+125-11	12585-12595	advantages	_	_	_	
+125-12	12596-12598	of	_	_	_	
+125-13	12599-12605	drying	_	_	_	
+125-14	12605-12606	?	_	_	_	
+
+#Text=When we study the history of food preservation we find that drying was
+#Text= practiced before canning, pickling or preserving.
+126-1	12610-12614	When	_	_	_	
+126-2	12615-12617	we	_	_	_	
+126-3	12618-12623	study	_	_	_	
+126-4	12624-12627	the	_	_	_	
+126-5	12628-12635	history	_	_	_	
+126-6	12636-12638	of	_	_	_	
+126-7	12639-12643	food	_	_	_	
+126-8	12644-12656	preservation	_	_	_	
+126-9	12657-12659	we	_	_	_	
+126-10	12660-12664	find	_	_	_	
+126-11	12665-12669	that	_	_	_	
+126-12	12670-12676	drying	_	_	_	
+126-13	12677-12680	was	_	_	_	
+126-14	12682-12691	practiced	_	_	_	
+126-15	12692-12698	before	_	_	_	
+126-16	12699-12706	canning	_	_	_	
+126-17	12706-12707	,	_	_	_	
+126-18	12708-12716	pickling	_	_	_	
+126-19	12717-12719	or	_	_	_	
+126-20	12720-12730	preserving	_	_	_	
+126-21	12730-12731	.	_	_	_	
+
+#Text=I know my
+#Text= grandmother successfully dried quantities of things.
+127-1	12732-12733	I	_	_	_	
+127-2	12734-12738	know	_	_	_	
+127-3	12739-12741	my	_	_	_	
+127-4	12743-12754	grandmother	_	_	_	
+127-5	12755-12767	successfully	_	_	_	
+127-6	12768-12773	dried	_	_	_	
+127-7	12774-12784	quantities	_	_	_	
+127-8	12785-12787	of	_	_	_	
+127-9	12788-12794	things	_	_	_	
+127-10	12794-12795	.	_	_	_	
+
+#Text=Vegetable and fruit drying have been little practiced for a
+#Text= generation or more, though there have been some thrifty housekeepers
+#Text= who have clung to their dried corn, peas, beans and apples.
+128-1	12799-12808	Vegetable	_	_	_	
+128-2	12809-12812	and	_	_	_	
+128-3	12813-12818	fruit	_	_	_	
+128-4	12819-12825	drying	_	_	_	
+128-5	12826-12830	have	_	_	_	
+128-6	12831-12835	been	_	_	_	
+128-7	12836-12842	little	_	_	_	
+128-8	12843-12852	practiced	_	_	_	
+128-9	12853-12856	for	_	_	_	
+128-10	12857-12858	a	_	_	_	
+128-11	12860-12870	generation	_	_	_	
+128-12	12871-12873	or	_	_	_	
+128-13	12874-12878	more	_	_	_	
+128-14	12878-12879	,	_	_	_	
+128-15	12880-12886	though	_	_	_	
+128-16	12887-12892	there	_	_	_	
+128-17	12893-12897	have	_	_	_	
+128-18	12898-12902	been	_	_	_	
+128-19	12903-12907	some	_	_	_	
+128-20	12908-12915	thrifty	_	_	_	
+128-21	12916-12928	housekeepers	_	_	_	
+128-22	12930-12933	who	_	_	_	
+128-23	12934-12938	have	_	_	_	
+128-24	12939-12944	clung	_	_	_	
+128-25	12945-12947	to	_	_	_	
+128-26	12948-12953	their	_	_	_	
+128-27	12954-12959	dried	_	_	_	
+128-28	12960-12964	corn	_	_	_	
+128-29	12964-12965	,	_	_	_	
+128-30	12966-12970	peas	_	_	_	
+128-31	12970-12971	,	_	_	_	
+128-32	12972-12977	beans	_	_	_	
+128-33	12978-12981	and	_	_	_	
+128-34	12982-12988	apples	_	_	_	
+128-35	12988-12989	.	_	_	_	
+
+#Text=A friend
+#Text=of mine says: "Why, dried corn has a much better, sweeter taste than
+#Text= your canned stuff.
+129-1	12990-12991	A	_	_	_	
+129-2	12992-12998	friend	_	_	_	
+129-3	12999-13001	of	_	_	_	
+129-4	13002-13006	mine	_	_	_	
+129-5	13007-13011	says	_	_	_	
+129-6	13011-13012	:	_	_	_	
+129-7	13013-13014	"	_	_	_	
+129-8	13014-13017	Why	_	_	_	
+129-9	13017-13018	,	_	_	_	
+129-10	13019-13024	dried	Taste Source[43]	_	_	
+129-11	13025-13029	corn	Taste Source[43]	_	_	
+129-12	13030-13033	has	_	_	_	
+129-13	13034-13035	a	_	_	_	
+129-14	13036-13040	much	Quality[44]	_	_	
+129-15	13041-13047	better	Quality[44]	_	_	
+129-16	13047-13048	,	_	_	_	
+129-17	13049-13056	sweeter	Quality[45]|Taste Word[46]	*	129-17[45_46]	
+129-18	13057-13062	taste	Taste Word	*|*|*|*	129-17[45_0]|129-14[44_0]|129-10[43_0]|129-19[47_0]	
+129-19	13063-13067	than	Evoked Taste[47]	_	_	
+129-20	13069-13073	your	Evoked Taste[47]	_	_	
+129-21	13074-13080	canned	Evoked Taste[47]	_	_	
+129-22	13081-13086	stuff	Evoked Taste[47]	_	_	
+129-23	13086-13087	.	_	_	_	
+
+#Text=I would rather have one little dish of my delicious
+#Text= dried corn than two big dishes of your canned corn."
+130-1	13088-13089	I	_	_	_	
+130-2	13090-13095	would	_	_	_	
+130-3	13096-13102	rather	_	_	_	
+130-4	13103-13107	have	_	_	_	
+130-5	13108-13111	one	_	_	_	
+130-6	13112-13118	little	_	_	_	
+130-7	13119-13123	dish	_	_	_	
+130-8	13124-13126	of	_	_	_	
+130-9	13127-13129	my	_	_	_	
+130-10	13130-13139	delicious	Quality[48]|Taste Word[49]	*|*	130-10[48_49]|130-11[50_49]	
+130-11	13141-13146	dried	Taste Source[50]	_	_	
+130-12	13147-13151	corn	Taste Source[50]	_	_	
+130-13	13152-13156	than	_	_	_	
+130-14	13157-13160	two	_	_	_	
+130-15	13161-13164	big	_	_	_	
+130-16	13165-13171	dishes	_	_	_	
+130-17	13172-13174	of	_	_	_	
+130-18	13175-13179	your	_	_	_	
+130-19	13180-13186	canned	_	_	_	
+130-20	13187-13191	corn	_	_	_	
+130-21	13191-13192	.	_	_	_	
+130-22	13192-13193	"	_	_	_	
+
+#Text=Drying, I think we will all admit, does not and cannot take the place
+#Text= of canning fruits and vegetables in glass or tin.
+131-1	13197-13203	Drying	_	_	_	
+131-2	13203-13204	,	_	_	_	
+131-3	13205-13206	I	_	_	_	
+131-4	13207-13212	think	_	_	_	
+131-5	13213-13215	we	_	_	_	
+131-6	13216-13220	will	_	_	_	
+131-7	13221-13224	all	_	_	_	
+131-8	13225-13230	admit	_	_	_	
+131-9	13230-13231	,	_	_	_	
+131-10	13232-13236	does	_	_	_	
+131-11	13237-13240	not	_	_	_	
+131-12	13241-13244	and	_	_	_	
+131-13	13245-13251	cannot	_	_	_	
+131-14	13252-13256	take	_	_	_	
+131-15	13257-13260	the	_	_	_	
+131-16	13261-13266	place	_	_	_	
+131-17	13268-13270	of	_	_	_	
+131-18	13271-13278	canning	_	_	_	
+131-19	13279-13285	fruits	_	_	_	
+131-20	13286-13289	and	_	_	_	
+131-21	13290-13300	vegetables	_	_	_	
+131-22	13301-13303	in	_	_	_	
+131-23	13304-13309	glass	_	_	_	
+131-24	13310-13312	or	_	_	_	
+131-25	13313-13316	tin	_	_	_	
+131-26	13316-13317	.	_	_	_	
+
+#Text=Drying and canning
+#Text= are twin sisters, and always go hand in hand.
+132-1	13318-13324	Drying	_	_	_	
+132-2	13325-13328	and	_	_	_	
+132-3	13329-13336	canning	_	_	_	
+132-4	13338-13341	are	_	_	_	
+132-5	13342-13346	twin	_	_	_	
+132-6	13347-13354	sisters	_	_	_	
+132-7	13354-13355	,	_	_	_	
+132-8	13356-13359	and	_	_	_	
+132-9	13360-13366	always	_	_	_	
+132-10	13367-13369	go	_	_	_	
+132-11	13370-13374	hand	_	_	_	
+132-12	13375-13377	in	_	_	_	
+132-13	13378-13382	hand	_	_	_	
+132-14	13382-13383	.	_	_	_	
+
+#Text=The ideal arrangement for all homes, whether on the farm, in the
+#Text= village, in the town or in the city, is to have an ample supply of
+#Text= canned food for emergencies and quick service, and an equally ample
+#Text= supply of dried foods when meals are planned beforehand and there is
+#Text= time enough for the soaking and cooking of the dried foods.
+133-1	13387-13390	The	_	_	_	
+133-2	13391-13396	ideal	_	_	_	
+133-3	13397-13408	arrangement	_	_	_	
+133-4	13409-13412	for	_	_	_	
+133-5	13413-13416	all	_	_	_	
+133-6	13417-13422	homes	_	_	_	
+133-7	13422-13423	,	_	_	_	
+133-8	13424-13431	whether	_	_	_	
+133-9	13432-13434	on	_	_	_	
+133-10	13435-13438	the	_	_	_	
+133-11	13439-13443	farm	_	_	_	
+133-12	13443-13444	,	_	_	_	
+133-13	13445-13447	in	_	_	_	
+133-14	13448-13451	the	_	_	_	
+133-15	13453-13460	village	_	_	_	
+133-16	13460-13461	,	_	_	_	
+133-17	13462-13464	in	_	_	_	
+133-18	13465-13468	the	_	_	_	
+133-19	13469-13473	town	_	_	_	
+133-20	13474-13476	or	_	_	_	
+133-21	13477-13479	in	_	_	_	
+133-22	13480-13483	the	_	_	_	
+133-23	13484-13488	city	_	_	_	
+133-24	13488-13489	,	_	_	_	
+133-25	13490-13492	is	_	_	_	
+133-26	13493-13495	to	_	_	_	
+133-27	13496-13500	have	_	_	_	
+133-28	13501-13503	an	_	_	_	
+133-29	13504-13509	ample	_	_	_	
+133-30	13510-13516	supply	_	_	_	
+133-31	13517-13519	of	_	_	_	
+133-32	13521-13527	canned	_	_	_	
+133-33	13528-13532	food	_	_	_	
+133-34	13533-13536	for	_	_	_	
+133-35	13537-13548	emergencies	_	_	_	
+133-36	13549-13552	and	_	_	_	
+133-37	13553-13558	quick	_	_	_	
+133-38	13559-13566	service	_	_	_	
+133-39	13566-13567	,	_	_	_	
+133-40	13568-13571	and	_	_	_	
+133-41	13572-13574	an	_	_	_	
+133-42	13575-13582	equally	_	_	_	
+133-43	13583-13588	ample	_	_	_	
+133-44	13590-13596	supply	_	_	_	
+133-45	13597-13599	of	_	_	_	
+133-46	13600-13605	dried	_	_	_	
+133-47	13606-13611	foods	_	_	_	
+133-48	13612-13616	when	_	_	_	
+133-49	13617-13622	meals	_	_	_	
+133-50	13623-13626	are	_	_	_	
+133-51	13627-13634	planned	_	_	_	
+133-52	13635-13645	beforehand	_	_	_	
+133-53	13646-13649	and	_	_	_	
+133-54	13650-13655	there	_	_	_	
+133-55	13656-13658	is	_	_	_	
+133-56	13660-13664	time	_	_	_	
+133-57	13665-13671	enough	_	_	_	
+133-58	13672-13675	for	_	_	_	
+133-59	13676-13679	the	_	_	_	
+133-60	13680-13687	soaking	_	_	_	
+133-61	13688-13691	and	_	_	_	
+133-62	13692-13699	cooking	_	_	_	
+133-63	13700-13702	of	_	_	_	
+133-64	13703-13706	the	_	_	_	
+133-65	13707-13712	dried	_	_	_	
+133-66	13713-13718	foods	_	_	_	
+133-67	13718-13719	.	_	_	_	
+
+#Text=THE ADVANTAGES OF DRYING
+#Text= 
+#Text= When we come right down to facts, drying has many advantages over
+#Text= canning.
+134-1	13725-13728	THE	_	_	_	
+134-2	13729-13739	ADVANTAGES	_	_	_	
+134-3	13740-13742	OF	_	_	_	
+134-4	13743-13749	DRYING	_	_	_	
+134-5	13753-13757	When	_	_	_	
+134-6	13758-13760	we	_	_	_	
+134-7	13761-13765	come	_	_	_	
+134-8	13766-13771	right	_	_	_	
+134-9	13772-13776	down	_	_	_	
+134-10	13777-13779	to	_	_	_	
+134-11	13780-13785	facts	_	_	_	
+134-12	13785-13786	,	_	_	_	
+134-13	13787-13793	drying	_	_	_	
+134-14	13794-13797	has	_	_	_	
+134-15	13798-13802	many	_	_	_	
+134-16	13803-13813	advantages	_	_	_	
+134-17	13814-13818	over	_	_	_	
+134-18	13820-13827	canning	_	_	_	
+134-19	13827-13828	.	_	_	_	
+
+#Text=The process is very simple, as you will see.
+135-1	13831-13834	The	_	_	_	
+135-2	13835-13842	process	_	_	_	
+135-3	13843-13845	is	_	_	_	
+135-4	13846-13850	very	_	_	_	
+135-5	13851-13857	simple	_	_	_	
+135-6	13857-13858	,	_	_	_	
+135-7	13859-13861	as	_	_	_	
+135-8	13862-13865	you	_	_	_	
+135-9	13866-13870	will	_	_	_	
+135-10	13871-13874	see	_	_	_	
+135-11	13874-13875	.	_	_	_	
+
+#Text=The cost is slight.
+136-1	13876-13879	The	_	_	_	
+136-2	13880-13884	cost	_	_	_	
+136-3	13885-13887	is	_	_	_	
+136-4	13888-13894	slight	_	_	_	
+136-5	13894-13895	.	_	_	_	
+
+#Text=In
+#Text= almost every home the necessary equipment, in its simplest form, is
+#Text= already at hand.
+137-1	13896-13898	In	_	_	_	
+137-2	13900-13906	almost	_	_	_	
+137-3	13907-13912	every	_	_	_	
+137-4	13913-13917	home	_	_	_	
+137-5	13918-13921	the	_	_	_	
+137-6	13922-13931	necessary	_	_	_	
+137-7	13932-13941	equipment	_	_	_	
+137-8	13941-13942	,	_	_	_	
+137-9	13943-13945	in	_	_	_	
+137-10	13946-13949	its	_	_	_	
+137-11	13950-13958	simplest	_	_	_	
+137-12	13959-13963	form	_	_	_	
+137-13	13963-13964	,	_	_	_	
+137-14	13965-13967	is	_	_	_	
+137-15	13969-13976	already	_	_	_	
+137-16	13977-13979	at	_	_	_	
+137-17	13980-13984	hand	_	_	_	
+137-18	13984-13985	.	_	_	_	
+
+#Text=There is no expense for glass jars or tin cans, and
+#Text= with ordinary care there is no loss of products, as there may be in
+#Text= handling glass jars or from spoilage.
+138-1	13986-13991	There	_	_	_	
+138-2	13992-13994	is	_	_	_	
+138-3	13995-13997	no	_	_	_	
+138-4	13998-14005	expense	_	_	_	
+138-5	14006-14009	for	_	_	_	
+138-6	14010-14015	glass	_	_	_	
+138-7	14016-14020	jars	_	_	_	
+138-8	14021-14023	or	_	_	_	
+138-9	14024-14027	tin	_	_	_	
+138-10	14028-14032	cans	_	_	_	
+138-11	14032-14033	,	_	_	_	
+138-12	14034-14037	and	_	_	_	
+138-13	14039-14043	with	_	_	_	
+138-14	14044-14052	ordinary	_	_	_	
+138-15	14053-14057	care	_	_	_	
+138-16	14058-14063	there	_	_	_	
+138-17	14064-14066	is	_	_	_	
+138-18	14067-14069	no	_	_	_	
+138-19	14070-14074	loss	_	_	_	
+138-20	14075-14077	of	_	_	_	
+138-21	14078-14086	products	_	_	_	
+138-22	14086-14087	,	_	_	_	
+138-23	14088-14090	as	_	_	_	
+138-24	14091-14096	there	_	_	_	
+138-25	14097-14100	may	_	_	_	
+138-26	14101-14103	be	_	_	_	
+138-27	14104-14106	in	_	_	_	
+138-28	14108-14116	handling	_	_	_	
+138-29	14117-14122	glass	_	_	_	
+138-30	14123-14127	jars	_	_	_	
+138-31	14128-14130	or	_	_	_	
+138-32	14131-14135	from	_	_	_	
+138-33	14136-14144	spoilage	_	_	_	
+138-34	14144-14145	.	_	_	_	
+
+#Text=The actual work requires less
+#Text= time and less skill than canning and the dried products when properly
+#Text= prepared are just as good as the canned ones--some say better.
+139-1	14146-14149	The	_	_	_	
+139-2	14150-14156	actual	_	_	_	
+139-3	14157-14161	work	_	_	_	
+139-4	14162-14170	requires	_	_	_	
+139-5	14171-14175	less	_	_	_	
+139-6	14177-14181	time	_	_	_	
+139-7	14182-14185	and	_	_	_	
+139-8	14186-14190	less	_	_	_	
+139-9	14191-14196	skill	_	_	_	
+139-10	14197-14201	than	_	_	_	
+139-11	14202-14209	canning	_	_	_	
+139-12	14210-14213	and	_	_	_	
+139-13	14214-14217	the	_	_	_	
+139-14	14218-14223	dried	_	_	_	
+139-15	14224-14232	products	_	_	_	
+139-16	14233-14237	when	_	_	_	
+139-17	14238-14246	properly	_	_	_	
+139-18	14248-14256	prepared	_	_	_	
+139-19	14257-14260	are	_	_	_	
+139-20	14261-14265	just	_	_	_	
+139-21	14266-14268	as	_	_	_	
+139-22	14269-14273	good	_	_	_	
+139-23	14274-14276	as	_	_	_	
+139-24	14277-14280	the	_	_	_	
+139-25	14281-14287	canned	_	_	_	
+139-26	14288-14292	ones	_	_	_	
+139-27	14292-14293	-	_	_	_	
+139-28	14293-14294	-	_	_	_	
+139-29	14294-14298	some	_	_	_	
+139-30	14299-14302	say	_	_	_	
+139-31	14303-14309	better	_	_	_	
+139-32	14309-14310	.	_	_	_	
+
+#Text=One special thing in favor of drying is the little storage space
+#Text= needed.
+140-1	14314-14317	One	_	_	_	
+140-2	14318-14325	special	_	_	_	
+140-3	14326-14331	thing	_	_	_	
+140-4	14332-14334	in	_	_	_	
+140-5	14335-14340	favor	_	_	_	
+140-6	14341-14343	of	_	_	_	
+140-7	14344-14350	drying	_	_	_	
+140-8	14351-14353	is	_	_	_	
+140-9	14354-14357	the	_	_	_	
+140-10	14358-14364	little	_	_	_	
+140-11	14365-14372	storage	_	_	_	
+140-12	14373-14378	space	_	_	_	
+140-13	14380-14386	needed	_	_	_	
+140-14	14386-14387	.	_	_	_	
+
+#Text=You can often reduce 100 pounds of fresh product to ten
+#Text= pounds by drying, without any loss of food value and with little loss
+#Text= of flavor.
+141-1	14388-14391	You	_	_	_	
+141-2	14392-14395	can	_	_	_	
+141-3	14396-14401	often	_	_	_	
+141-4	14402-14408	reduce	_	_	_	
+141-5	14409-14412	100	_	_	_	
+141-6	14413-14419	pounds	_	_	_	
+141-7	14420-14422	of	_	_	_	
+141-8	14423-14428	fresh	_	_	_	
+141-9	14429-14436	product	_	_	_	
+141-10	14437-14439	to	_	_	_	
+141-11	14440-14443	ten	_	_	_	
+141-12	14445-14451	pounds	_	_	_	
+141-13	14452-14454	by	_	_	_	
+141-14	14455-14461	drying	_	_	_	
+141-15	14461-14462	,	_	_	_	
+141-16	14463-14470	without	_	_	_	
+141-17	14471-14474	any	_	_	_	
+141-18	14475-14479	loss	_	_	_	
+141-19	14480-14482	of	_	_	_	
+141-20	14483-14487	food	Taste Source	_	_	
+141-21	14488-14493	value	_	_	_	
+141-22	14494-14497	and	_	_	_	
+141-23	14498-14502	with	_	_	_	
+141-24	14503-14509	little	_	_	_	
+141-25	14510-14514	loss	_	_	_	
+141-26	14516-14518	of	_	_	_	
+141-27	14519-14525	flavor	Taste Word	*	141-20	
+141-28	14525-14526	.	_	_	_	
+
+#Text=Dried products can be moved more conveniently than glass jars or tin
+#Text= cans, for they are usually reduced to from one-third to one-fifth of
+#Text= the original bulk.
+142-1	14530-14535	Dried	_	_	_	
+142-2	14536-14544	products	_	_	_	
+142-3	14545-14548	can	_	_	_	
+142-4	14549-14551	be	_	_	_	
+142-5	14552-14557	moved	_	_	_	
+142-6	14558-14562	more	_	_	_	
+142-7	14563-14575	conveniently	_	_	_	
+142-8	14576-14580	than	_	_	_	
+142-9	14581-14586	glass	_	_	_	
+142-10	14587-14591	jars	_	_	_	
+142-11	14592-14594	or	_	_	_	
+142-12	14595-14598	tin	_	_	_	
+142-13	14600-14604	cans	_	_	_	
+142-14	14604-14605	,	_	_	_	
+142-15	14606-14609	for	_	_	_	
+142-16	14610-14614	they	_	_	_	
+142-17	14615-14618	are	_	_	_	
+142-18	14619-14626	usually	_	_	_	
+142-19	14627-14634	reduced	_	_	_	
+142-20	14635-14637	to	_	_	_	
+142-21	14638-14642	from	_	_	_	
+142-22	14643-14652	one-third	_	_	_	
+142-23	14653-14655	to	_	_	_	
+142-24	14656-14665	one-fifth	_	_	_	
+142-25	14666-14668	of	_	_	_	
+142-26	14670-14673	the	_	_	_	
+142-27	14674-14682	original	_	_	_	
+142-28	14683-14687	bulk	_	_	_	
+142-29	14687-14688	.	_	_	_	
+
+#Text=Another valuable thing about drying is that the little odds and ends
+#Text= one would scarcely bother to can may be dried in the oven as you go
+#Text= about your housework.
+143-1	14692-14699	Another	_	_	_	
+143-2	14700-14708	valuable	_	_	_	
+143-3	14709-14714	thing	_	_	_	
+143-4	14715-14720	about	_	_	_	
+143-5	14721-14727	drying	_	_	_	
+143-6	14728-14730	is	_	_	_	
+143-7	14731-14735	that	_	_	_	
+143-8	14736-14739	the	_	_	_	
+143-9	14740-14746	little	_	_	_	
+143-10	14747-14751	odds	_	_	_	
+143-11	14752-14755	and	_	_	_	
+143-12	14756-14760	ends	_	_	_	
+143-13	14762-14765	one	_	_	_	
+143-14	14766-14771	would	_	_	_	
+143-15	14772-14780	scarcely	_	_	_	
+143-16	14781-14787	bother	_	_	_	
+143-17	14788-14790	to	_	_	_	
+143-18	14791-14794	can	_	_	_	
+143-19	14795-14798	may	_	_	_	
+143-20	14799-14801	be	_	_	_	
+143-21	14802-14807	dried	_	_	_	
+143-22	14808-14810	in	_	_	_	
+143-23	14811-14814	the	_	_	_	
+143-24	14815-14819	oven	_	_	_	
+143-25	14820-14822	as	_	_	_	
+143-26	14823-14826	you	_	_	_	
+143-27	14827-14829	go	_	_	_	
+143-28	14831-14836	about	_	_	_	
+143-29	14837-14841	your	_	_	_	
+143-30	14842-14851	housework	_	_	_	
+143-31	14851-14852	.	_	_	_	
+
+#Text=I have often been asked the difference between the meaning of the
+#Text= terms "evaporated," "dried," "desiccated" and "dehydrated."
+144-1	14855-14856	I	_	_	_	
+144-2	14857-14861	have	_	_	_	
+144-3	14862-14867	often	_	_	_	
+144-4	14868-14872	been	_	_	_	
+144-5	14873-14878	asked	_	_	_	
+144-6	14879-14882	the	_	_	_	
+144-7	14883-14893	difference	_	_	_	
+144-8	14894-14901	between	_	_	_	
+144-9	14902-14905	the	_	_	_	
+144-10	14906-14913	meaning	_	_	_	
+144-11	14914-14916	of	_	_	_	
+144-12	14917-14920	the	_	_	_	
+144-13	14922-14927	terms	_	_	_	
+144-14	14928-14929	"	_	_	_	
+144-15	14929-14939	evaporated	_	_	_	
+144-16	14939-14940	,	_	_	_	
+144-17	14940-14941	"	_	_	_	
+144-18	14942-14943	"	_	_	_	
+144-19	14943-14948	dried	_	_	_	
+144-20	14948-14949	,	_	_	_	
+144-21	14949-14950	"	_	_	_	
+144-22	14951-14952	"	_	_	_	
+144-23	14952-14962	desiccated	_	_	_	
+144-24	14962-14963	"	_	_	_	
+144-25	14964-14967	and	_	_	_	
+144-26	14968-14969	"	_	_	_	
+144-27	14969-14979	dehydrated	_	_	_	
+144-28	14979-14980	.	_	_	_	
+144-29	14980-14981	"	_	_	_	
+
+#Text=These
+#Text= terms are used more or less interchangeably when applied to foods from
+#Text= which the moisture has been removed.
+145-1	14982-14987	These	_	_	_	
+145-2	14989-14994	terms	_	_	_	
+145-3	14995-14998	are	_	_	_	
+145-4	14999-15003	used	_	_	_	
+145-5	15004-15008	more	_	_	_	
+145-6	15009-15011	or	_	_	_	
+145-7	15012-15016	less	_	_	_	
+145-8	15017-15032	interchangeably	_	_	_	
+145-9	15033-15037	when	_	_	_	
+145-10	15038-15045	applied	_	_	_	
+145-11	15046-15048	to	_	_	_	
+145-12	15049-15054	foods	_	_	_	
+145-13	15055-15059	from	_	_	_	
+145-14	15061-15066	which	_	_	_	
+145-15	15067-15070	the	_	_	_	
+145-16	15071-15079	moisture	_	_	_	
+145-17	15080-15083	has	_	_	_	
+145-18	15084-15088	been	_	_	_	
+145-19	15089-15096	removed	_	_	_	
+145-20	15096-15097	.	_	_	_	
+
+#Text=In a general way, however,
+#Text= "evaporated" products are those from which the moisture has been
+#Text= removed through the agency of artificial heat; dried fruit is that
+#Text= which has been exposed to the heat of the sun, though not infrequently
+#Text= the term is applied to products handled in the evaporator.
+146-1	15098-15100	In	_	_	_	
+146-2	15101-15102	a	_	_	_	
+146-3	15103-15110	general	_	_	_	
+146-4	15111-15114	way	_	_	_	
+146-5	15114-15115	,	_	_	_	
+146-6	15116-15123	however	_	_	_	
+146-7	15123-15124	,	_	_	_	
+146-8	15126-15127	"	_	_	_	
+146-9	15127-15137	evaporated	_	_	_	
+146-10	15137-15138	"	_	_	_	
+146-11	15139-15147	products	_	_	_	
+146-12	15148-15151	are	_	_	_	
+146-13	15152-15157	those	_	_	_	
+146-14	15158-15162	from	_	_	_	
+146-15	15163-15168	which	_	_	_	
+146-16	15169-15172	the	_	_	_	
+146-17	15173-15181	moisture	_	_	_	
+146-18	15182-15185	has	_	_	_	
+146-19	15186-15190	been	_	_	_	
+146-20	15192-15199	removed	_	_	_	
+146-21	15200-15207	through	_	_	_	
+146-22	15208-15211	the	_	_	_	
+146-23	15212-15218	agency	_	_	_	
+146-24	15219-15221	of	_	_	_	
+146-25	15222-15232	artificial	_	_	_	
+146-26	15233-15237	heat	_	_	_	
+146-27	15237-15238	;	_	_	_	
+146-28	15239-15244	dried	_	_	_	
+146-29	15245-15250	fruit	_	_	_	
+146-30	15251-15253	is	_	_	_	
+146-31	15254-15258	that	_	_	_	
+146-32	15260-15265	which	_	_	_	
+146-33	15266-15269	has	_	_	_	
+146-34	15270-15274	been	_	_	_	
+146-35	15275-15282	exposed	_	_	_	
+146-36	15283-15285	to	_	_	_	
+146-37	15286-15289	the	_	_	_	
+146-38	15290-15294	heat	_	_	_	
+146-39	15295-15297	of	_	_	_	
+146-40	15298-15301	the	_	_	_	
+146-41	15302-15305	sun	_	_	_	
+146-42	15305-15306	,	_	_	_	
+146-43	15307-15313	though	_	_	_	
+146-44	15314-15317	not	_	_	_	
+146-45	15318-15330	infrequently	_	_	_	
+146-46	15332-15335	the	_	_	_	
+146-47	15336-15340	term	_	_	_	
+146-48	15341-15343	is	_	_	_	
+146-49	15344-15351	applied	_	_	_	
+146-50	15352-15354	to	_	_	_	
+146-51	15355-15363	products	_	_	_	
+146-52	15364-15371	handled	_	_	_	
+146-53	15372-15374	in	_	_	_	
+146-54	15375-15378	the	_	_	_	
+146-55	15379-15389	evaporator	_	_	_	
+146-56	15389-15390	.	_	_	_	
+
+#Text=The other
+#Text= terms are commonly applied to products that have been evaporated by
+#Text= one of the various patented processes in which equipment of some
+#Text= special design has been used.
+147-1	15391-15394	The	_	_	_	
+147-2	15395-15400	other	_	_	_	
+147-3	15402-15407	terms	_	_	_	
+147-4	15408-15411	are	_	_	_	
+147-5	15412-15420	commonly	_	_	_	
+147-6	15421-15428	applied	_	_	_	
+147-7	15429-15431	to	_	_	_	
+147-8	15432-15440	products	_	_	_	
+147-9	15441-15445	that	_	_	_	
+147-10	15446-15450	have	_	_	_	
+147-11	15451-15455	been	_	_	_	
+147-12	15456-15466	evaporated	_	_	_	
+147-13	15467-15469	by	_	_	_	
+147-14	15471-15474	one	_	_	_	
+147-15	15475-15477	of	_	_	_	
+147-16	15478-15481	the	_	_	_	
+147-17	15482-15489	various	_	_	_	
+147-18	15490-15498	patented	_	_	_	
+147-19	15499-15508	processes	_	_	_	
+147-20	15509-15511	in	_	_	_	
+147-21	15512-15517	which	_	_	_	
+147-22	15518-15527	equipment	_	_	_	
+147-23	15528-15530	of	_	_	_	
+147-24	15531-15535	some	_	_	_	
+147-25	15537-15544	special	_	_	_	
+147-26	15545-15551	design	_	_	_	
+147-27	15552-15555	has	_	_	_	
+147-28	15556-15560	been	_	_	_	
+147-29	15561-15565	used	_	_	_	
+147-30	15565-15566	.	_	_	_	
+
+#Text=To avoid any confusion we will use the general term "dried" for all
+#Text= products that have enough of the water removed to prevent bacterial
+#Text= action, but which still retain the maximum food value, color and
+#Text= flavor of the original product.
+148-1	15570-15572	To	_	_	_	
+148-2	15573-15578	avoid	_	_	_	
+148-3	15579-15582	any	_	_	_	
+148-4	15583-15592	confusion	_	_	_	
+148-5	15593-15595	we	_	_	_	
+148-6	15596-15600	will	_	_	_	
+148-7	15601-15604	use	_	_	_	
+148-8	15605-15608	the	_	_	_	
+148-9	15609-15616	general	_	_	_	
+148-10	15617-15621	term	_	_	_	
+148-11	15622-15623	"	_	_	_	
+148-12	15623-15628	dried	_	_	_	
+148-13	15628-15629	"	_	_	_	
+148-14	15630-15633	for	_	_	_	
+148-15	15634-15637	all	_	_	_	
+148-16	15639-15647	products	_	_	_	
+148-17	15648-15652	that	_	_	_	
+148-18	15653-15657	have	_	_	_	
+148-19	15658-15664	enough	_	_	_	
+148-20	15665-15667	of	_	_	_	
+148-21	15668-15671	the	_	_	_	
+148-22	15672-15677	water	_	_	_	
+148-23	15678-15685	removed	_	_	_	
+148-24	15686-15688	to	_	_	_	
+148-25	15689-15696	prevent	_	_	_	
+148-26	15697-15706	bacterial	_	_	_	
+148-27	15708-15714	action	_	_	_	
+148-28	15714-15715	,	_	_	_	
+148-29	15716-15719	but	_	_	_	
+148-30	15720-15725	which	_	_	_	
+148-31	15726-15731	still	_	_	_	
+148-32	15732-15738	retain	_	_	_	
+148-33	15739-15742	the	_	_	_	
+148-34	15743-15750	maximum	_	_	_	
+148-35	15751-15755	food	_	_	_	
+148-36	15756-15761	value	_	_	_	
+148-37	15761-15762	,	_	_	_	
+148-38	15763-15768	color	_	_	_	
+148-39	15769-15772	and	_	_	_	
+148-40	15774-15780	flavor	Taste Word	*	148-41[51_0]	
+148-41	15781-15783	of	Taste Source[51]	_	_	
+148-42	15784-15787	the	Taste Source[51]	_	_	
+148-43	15788-15796	original	Taste Source[51]	_	_	
+148-44	15797-15804	product	Taste Source[51]	_	_	
+148-45	15804-15805	.	_	_	_	
+
+#Text=And that is what we want to accomplish
+#Text= when we attempt to dry.
+149-1	15806-15809	And	_	_	_	
+149-2	15810-15814	that	_	_	_	
+149-3	15815-15817	is	_	_	_	
+149-4	15818-15822	what	_	_	_	
+149-5	15823-15825	we	_	_	_	
+149-6	15826-15830	want	_	_	_	
+149-7	15831-15833	to	_	_	_	
+149-8	15834-15844	accomplish	_	_	_	
+149-9	15846-15850	when	_	_	_	
+149-10	15851-15853	we	_	_	_	
+149-11	15854-15861	attempt	_	_	_	
+149-12	15862-15864	to	_	_	_	
+149-13	15865-15868	dry	_	_	_	
+149-14	15868-15869	.	_	_	_	
+
+#Text=How are we to remove the water and still retain food value, color and
+#Text=flavor?
+150-1	15873-15876	How	_	_	_	
+150-2	15877-15880	are	_	_	_	
+150-3	15881-15883	we	_	_	_	
+150-4	15884-15886	to	_	_	_	
+150-5	15887-15893	remove	_	_	_	
+150-6	15894-15897	the	_	_	_	
+150-7	15898-15903	water	_	_	_	
+150-8	15904-15907	and	_	_	_	
+150-9	15908-15913	still	_	_	_	
+150-10	15914-15920	retain	_	_	_	
+150-11	15921-15925	food	Taste Source	_	_	
+150-12	15926-15931	value	_	_	_	
+150-13	15931-15932	,	_	_	_	
+150-14	15933-15938	color	_	_	_	
+150-15	15939-15942	and	_	_	_	
+150-16	15943-15949	flavor	Taste Word	*	150-11	
+150-17	15949-15950	?	_	_	_	
+
+#Text=There are three principal methods by which we can do this.
+151-1	15951-15956	There	_	_	_	
+151-2	15957-15960	are	_	_	_	
+151-3	15961-15966	three	_	_	_	
+151-4	15967-15976	principal	_	_	_	
+151-5	15977-15984	methods	_	_	_	
+151-6	15985-15987	by	_	_	_	
+151-7	15988-15993	which	_	_	_	
+151-8	15994-15996	we	_	_	_	
+151-9	15997-16000	can	_	_	_	
+151-10	16001-16003	do	_	_	_	
+151-11	16004-16008	this	_	_	_	
+151-12	16008-16009	.	_	_	_	
+
+#Text=First, by artificial heat.
+152-1	16011-16016	First	_	_	_	
+152-2	16016-16017	,	_	_	_	
+152-3	16018-16020	by	_	_	_	
+152-4	16021-16031	artificial	_	_	_	
+152-5	16032-16036	heat	_	_	_	
+152-6	16036-16037	.	_	_	_	
+
+#Text=Drying by artificial heat is done in the
+#Text= oven or on top of a cookstove or range, in trays suspended on the
+#Text= stove or in a specially constructed dryer built at home or purchased.
+153-1	16038-16044	Drying	_	_	_	
+153-2	16045-16047	by	_	_	_	
+153-3	16048-16058	artificial	_	_	_	
+153-4	16059-16063	heat	_	_	_	
+153-5	16064-16066	is	_	_	_	
+153-6	16067-16071	done	_	_	_	
+153-7	16072-16074	in	_	_	_	
+153-8	16075-16078	the	_	_	_	
+153-9	16080-16084	oven	_	_	_	
+153-10	16085-16087	or	_	_	_	
+153-11	16088-16090	on	_	_	_	
+153-12	16091-16094	top	_	_	_	
+153-13	16095-16097	of	_	_	_	
+153-14	16098-16099	a	_	_	_	
+153-15	16100-16109	cookstove	_	_	_	
+153-16	16110-16112	or	_	_	_	
+153-17	16113-16118	range	_	_	_	
+153-18	16118-16119	,	_	_	_	
+153-19	16120-16122	in	_	_	_	
+153-20	16123-16128	trays	_	_	_	
+153-21	16129-16138	suspended	_	_	_	
+153-22	16139-16141	on	_	_	_	
+153-23	16142-16145	the	_	_	_	
+153-24	16147-16152	stove	_	_	_	
+153-25	16153-16155	or	_	_	_	
+153-26	16156-16158	in	_	_	_	
+153-27	16159-16160	a	_	_	_	
+153-28	16161-16170	specially	_	_	_	
+153-29	16171-16182	constructed	_	_	_	
+153-30	16183-16188	dryer	_	_	_	
+153-31	16189-16194	built	_	_	_	
+153-32	16195-16197	at	_	_	_	
+153-33	16198-16202	home	_	_	_	
+153-34	16203-16205	or	_	_	_	
+153-35	16206-16215	purchased	_	_	_	
+153-36	16215-16216	.	_	_	_	
+
+#Text=Second, by the sun.
+154-1	16220-16226	Second	_	_	_	
+154-2	16226-16227	,	_	_	_	
+154-3	16228-16230	by	_	_	_	
+154-4	16231-16234	the	_	_	_	
+154-5	16235-16238	sun	_	_	_	
+154-6	16238-16239	.	_	_	_	
+
+#Text=Sun drying is done either out of doors in the sun,
+#Text= under glass in sun parlors, or the products are hung in the attic
+#Text= where the sun has free access.
+155-1	16240-16243	Sun	_	_	_	
+155-2	16244-16250	drying	_	_	_	
+155-3	16251-16253	is	_	_	_	
+155-4	16254-16258	done	_	_	_	
+155-5	16259-16265	either	_	_	_	
+155-6	16266-16269	out	_	_	_	
+155-7	16270-16272	of	_	_	_	
+155-8	16273-16278	doors	_	_	_	
+155-9	16279-16281	in	_	_	_	
+155-10	16282-16285	the	_	_	_	
+155-11	16286-16289	sun	_	_	_	
+155-12	16289-16290	,	_	_	_	
+155-13	16292-16297	under	_	_	_	
+155-14	16298-16303	glass	_	_	_	
+155-15	16304-16306	in	_	_	_	
+155-16	16307-16310	sun	_	_	_	
+155-17	16311-16318	parlors	_	_	_	
+155-18	16318-16319	,	_	_	_	
+155-19	16320-16322	or	_	_	_	
+155-20	16323-16326	the	_	_	_	
+155-21	16327-16335	products	_	_	_	
+155-22	16336-16339	are	_	_	_	
+155-23	16340-16344	hung	_	_	_	
+155-24	16345-16347	in	_	_	_	
+155-25	16348-16351	the	_	_	_	
+155-26	16352-16357	attic	_	_	_	
+155-27	16359-16364	where	_	_	_	
+155-28	16365-16368	the	_	_	_	
+155-29	16369-16372	sun	_	_	_	
+155-30	16373-16376	has	_	_	_	
+155-31	16377-16381	free	_	_	_	
+155-32	16382-16388	access	_	_	_	
+155-33	16388-16389	.	_	_	_	
+
+#Text=Third, satisfactory drying may be done by an air blast from an
+#Text= electric fan.
+156-1	16393-16398	Third	_	_	_	
+156-2	16398-16399	,	_	_	_	
+156-3	16400-16412	satisfactory	_	_	_	
+156-4	16413-16419	drying	_	_	_	
+156-5	16420-16423	may	_	_	_	
+156-6	16424-16426	be	_	_	_	
+156-7	16427-16431	done	_	_	_	
+156-8	16432-16434	by	_	_	_	
+156-9	16435-16437	an	_	_	_	
+156-10	16438-16441	air	_	_	_	
+156-11	16442-16447	blast	_	_	_	
+156-12	16448-16452	from	_	_	_	
+156-13	16453-16455	an	_	_	_	
+156-14	16457-16465	electric	_	_	_	
+156-15	16466-16469	fan	_	_	_	
+156-16	16469-16470	.	_	_	_	
+
+#Text=Of course any one of these may be used alone or two different methods
+#Text= may be combined.
+157-1	16474-16476	Of	_	_	_	
+157-2	16477-16483	course	_	_	_	
+157-3	16484-16487	any	_	_	_	
+157-4	16488-16491	one	_	_	_	
+157-5	16492-16494	of	_	_	_	
+157-6	16495-16500	these	_	_	_	
+157-7	16501-16504	may	_	_	_	
+157-8	16505-16507	be	_	_	_	
+157-9	16508-16512	used	_	_	_	
+157-10	16513-16518	alone	_	_	_	
+157-11	16519-16521	or	_	_	_	
+157-12	16522-16525	two	_	_	_	
+157-13	16526-16535	different	_	_	_	
+157-14	16536-16543	methods	_	_	_	
+157-15	16545-16548	may	_	_	_	
+157-16	16549-16551	be	_	_	_	
+157-17	16552-16560	combined	_	_	_	
+157-18	16560-16561	.	_	_	_	
+
+#Text=You can start a product on the stove and finish it in
+#Text= the sun, or _vice versa._
+#Text= 
+#Text= The simplest and yet the most effective drying may be done on plates
+#Text= or dishes placed in the oven.
+158-1	16562-16565	You	_	_	_	
+158-2	16566-16569	can	_	_	_	
+158-3	16570-16575	start	_	_	_	
+158-4	16576-16577	a	_	_	_	
+158-5	16578-16585	product	_	_	_	
+158-6	16586-16588	on	_	_	_	
+158-7	16589-16592	the	_	_	_	
+158-8	16593-16598	stove	_	_	_	
+158-9	16599-16602	and	_	_	_	
+158-10	16603-16609	finish	_	_	_	
+158-11	16610-16612	it	_	_	_	
+158-12	16613-16615	in	_	_	_	
+158-13	16617-16620	the	_	_	_	
+158-14	16621-16624	sun	_	_	_	
+158-15	16624-16625	,	_	_	_	
+158-16	16626-16628	or	_	_	_	
+158-17	16629-16630	_	_	_	_	
+158-18	16630-16634	vice	_	_	_	
+158-19	16635-16640	versa	_	_	_	
+158-20	16640-16641	.	_	_	_	
+158-21	16641-16642	_	_	_	_	
+158-22	16646-16649	The	_	_	_	
+158-23	16650-16658	simplest	_	_	_	
+158-24	16659-16662	and	_	_	_	
+158-25	16663-16666	yet	_	_	_	
+158-26	16667-16670	the	_	_	_	
+158-27	16671-16675	most	_	_	_	
+158-28	16676-16685	effective	_	_	_	
+158-29	16686-16692	drying	_	_	_	
+158-30	16693-16696	may	_	_	_	
+158-31	16697-16699	be	_	_	_	
+158-32	16700-16704	done	_	_	_	
+158-33	16705-16707	on	_	_	_	
+158-34	16708-16714	plates	_	_	_	
+158-35	16716-16718	or	_	_	_	
+158-36	16719-16725	dishes	_	_	_	
+158-37	16726-16732	placed	_	_	_	
+158-38	16733-16735	in	_	_	_	
+158-39	16736-16739	the	_	_	_	
+158-40	16740-16744	oven	_	_	_	
+158-41	16744-16745	.	_	_	_	
+
+#Text=It may be done on the back of the
+#Text= kitchen stove with these same utensils while the oven is being used
+#Text= for baking.
+159-1	16746-16748	It	_	_	_	
+159-2	16749-16752	may	_	_	_	
+159-3	16753-16755	be	_	_	_	
+159-4	16756-16760	done	_	_	_	
+159-5	16761-16763	on	_	_	_	
+159-6	16764-16767	the	_	_	_	
+159-7	16768-16772	back	_	_	_	
+159-8	16773-16775	of	_	_	_	
+159-9	16776-16779	the	_	_	_	
+159-10	16781-16788	kitchen	_	_	_	
+159-11	16789-16794	stove	_	_	_	
+159-12	16795-16799	with	_	_	_	
+159-13	16800-16805	these	_	_	_	
+159-14	16806-16810	same	_	_	_	
+159-15	16811-16819	utensils	_	_	_	
+159-16	16820-16825	while	_	_	_	
+159-17	16826-16829	the	_	_	_	
+159-18	16830-16834	oven	_	_	_	
+159-19	16835-16837	is	_	_	_	
+159-20	16838-16843	being	_	_	_	
+159-21	16844-16848	used	_	_	_	
+159-22	16850-16853	for	_	_	_	
+159-23	16854-16860	baking	_	_	_	
+159-24	16860-16861	.	_	_	_	
+
+#Text=In this way left-overs and other bits of food may be dried
+#Text=
+#Text= Green Tomatoes.
+160-1	16862-16864	In	_	_	_	
+160-2	16865-16869	this	_	_	_	
+160-3	16870-16873	way	_	_	_	
+160-4	16874-16884	left-overs	_	_	_	
+160-5	16885-16888	and	_	_	_	
+160-6	16889-16894	other	_	_	_	
+160-7	16895-16899	bits	_	_	_	
+160-8	16900-16902	of	_	_	_	
+160-9	16903-16907	food	_	_	_	
+160-10	16908-16911	may	_	_	_	
+160-11	16912-16914	be	_	_	_	
+160-12	16915-16920	dried	_	_	_	
+160-13	16923-16928	Green	_	_	_	
+160-14	16929-16937	Tomatoes	_	_	_	
+160-15	16937-16938	.	_	_	_	
+
+#Text=Green tomatoes should be packed whole and prepared
+#Text= as cucumbers.
+161-1	16939-16944	Green	_	_	_	
+161-2	16945-16953	tomatoes	_	_	_	
+161-3	16954-16960	should	_	_	_	
+161-4	16961-16963	be	_	_	_	
+161-5	16964-16970	packed	_	_	_	
+161-6	16971-16976	whole	_	_	_	
+161-7	16977-16980	and	_	_	_	
+161-8	16981-16989	prepared	_	_	_	
+161-9	16991-16993	as	_	_	_	
+161-10	16994-17003	cucumbers	_	_	_	
+161-11	17003-17004	.	_	_	_	
+
+#Text=The dill and spice may be added if desired.
+162-1	17005-17008	The	_	_	_	
+162-2	17009-17013	dill	_	_	_	
+162-3	17014-17017	and	_	_	_	
+162-4	17018-17023	spice	_	_	_	
+162-5	17024-17027	may	_	_	_	
+162-6	17028-17030	be	_	_	_	
+162-7	17031-17036	added	_	_	_	
+162-8	17037-17039	if	_	_	_	
+162-9	17040-17047	desired	_	_	_	
+162-10	17047-17048	.	_	_	_	
+
+#Text=Beets.
+163-1	17052-17057	Beets	_	_	_	
+163-2	17057-17058	.	_	_	_	
+
+#Text=Beets must be scrubbed thoroughly and packed whole.
+164-1	17059-17064	Beets	_	_	_	
+164-2	17065-17069	must	_	_	_	
+164-3	17070-17072	be	_	_	_	
+164-4	17073-17081	scrubbed	_	_	_	
+164-5	17082-17092	thoroughly	_	_	_	
+164-6	17093-17096	and	_	_	_	
+164-7	17097-17103	packed	_	_	_	
+164-8	17104-17109	whole	_	_	_	
+164-9	17109-17110	.	_	_	_	
+
+#Text=If peeled
+#Text= or sliced before being fermented the beets lose considerable color and
+#Text= flavor.
+165-1	17111-17113	If	Circumstance[52]	_	_	
+165-2	17114-17120	peeled	Circumstance[52]	_	_	
+165-3	17122-17124	or	Circumstance[52]	_	_	
+165-4	17125-17131	sliced	Circumstance[52]	_	_	
+165-5	17132-17138	before	Circumstance[52]	_	_	
+165-6	17139-17144	being	Circumstance[52]	_	_	
+165-7	17145-17154	fermented	Circumstance[52]	_	_	
+165-8	17155-17158	the	Taste Source[53]	_	_	
+165-9	17159-17164	beets	Taste Source[53]	_	_	
+165-10	17165-17169	lose	_	_	_	
+165-11	17170-17182	considerable	_	_	_	
+165-12	17183-17188	color	_	_	_	
+165-13	17189-17192	and	_	_	_	
+165-14	17194-17200	flavor	Taste Word	*|*	165-8[53_0]|165-1[52_0]	
+165-15	17200-17201	.	_	_	_	
+
+#Text=Beet Tops and Turnip Tops.
+166-1	17205-17209	Beet	_	_	_	
+166-2	17210-17214	Tops	_	_	_	
+166-3	17215-17218	and	_	_	_	
+166-4	17219-17225	Turnip	_	_	_	
+166-5	17226-17230	Tops	_	_	_	
+166-6	17230-17231	.	_	_	_	
+
+#Text=These should be washed thoroughly and
+#Text= packed into the container without being cut up.
+167-1	17232-17237	These	_	_	_	
+167-2	17238-17244	should	_	_	_	
+167-3	17245-17247	be	_	_	_	
+167-4	17248-17254	washed	_	_	_	
+167-5	17255-17265	thoroughly	_	_	_	
+167-6	17266-17269	and	_	_	_	
+167-7	17271-17277	packed	_	_	_	
+167-8	17278-17282	into	_	_	_	
+167-9	17283-17286	the	_	_	_	
+167-10	17287-17296	container	_	_	_	
+167-11	17297-17304	without	_	_	_	
+167-12	17305-17310	being	_	_	_	
+167-13	17311-17314	cut	_	_	_	
+167-14	17315-17317	up	_	_	_	
+167-15	17317-17318	.	_	_	_	
+
+#Text=Peas.
+168-1	17322-17326	Peas	_	_	_	
+168-2	17326-17327	.	_	_	_	
+
+#Text=Green peas should be shelled and packed in the same way as
+#Text= string beans.
+169-1	17328-17333	Green	_	_	_	
+169-2	17334-17338	peas	_	_	_	
+169-3	17339-17345	should	_	_	_	
+169-4	17346-17348	be	_	_	_	
+169-5	17349-17356	shelled	_	_	_	
+169-6	17357-17360	and	_	_	_	
+169-7	17361-17367	packed	_	_	_	
+169-8	17368-17370	in	_	_	_	
+169-9	17371-17374	the	_	_	_	
+169-10	17375-17379	same	_	_	_	
+169-11	17380-17383	way	_	_	_	
+169-12	17384-17386	as	_	_	_	
+169-13	17388-17394	string	_	_	_	
+169-14	17395-17400	beans	_	_	_	
+169-15	17400-17401	.	_	_	_	
+
+#Text=It is advisable to use fairly small containers for peas,
+#Text= so that the quantity opened up will be used before it has a chance to
+#Text= spoil.
+170-1	17402-17404	It	_	_	_	
+170-2	17405-17407	is	_	_	_	
+170-3	17408-17417	advisable	_	_	_	
+170-4	17418-17420	to	_	_	_	
+170-5	17421-17424	use	_	_	_	
+170-6	17425-17431	fairly	_	_	_	
+170-7	17432-17437	small	_	_	_	
+170-8	17438-17448	containers	_	_	_	
+170-9	17449-17452	for	_	_	_	
+170-10	17453-17457	peas	_	_	_	
+170-11	17457-17458	,	_	_	_	
+170-12	17460-17462	so	_	_	_	
+170-13	17463-17467	that	_	_	_	
+170-14	17468-17471	the	_	_	_	
+170-15	17472-17480	quantity	_	_	_	
+170-16	17481-17487	opened	_	_	_	
+170-17	17488-17490	up	_	_	_	
+170-18	17491-17495	will	_	_	_	
+170-19	17496-17498	be	_	_	_	
+170-20	17499-17503	used	_	_	_	
+170-21	17504-17510	before	_	_	_	
+170-22	17511-17513	it	_	_	_	
+170-23	17514-17517	has	_	_	_	
+170-24	17518-17519	a	_	_	_	
+170-25	17520-17526	chance	_	_	_	
+170-26	17527-17529	to	_	_	_	
+170-27	17531-17536	spoil	_	_	_	
+170-28	17536-17537	.	_	_	_	
+
+#Text=Corn.
+171-1	17541-17545	Corn	_	_	_	
+171-2	17545-17546	.	_	_	_	
+
+#Text=Husk and clean the silk from the corn; wash and place the ears
+#Text= on end in the jar, packing the jar nearly full.
+172-1	17547-17551	Husk	_	_	_	
+172-2	17552-17555	and	_	_	_	
+172-3	17556-17561	clean	_	_	_	
+172-4	17562-17565	the	_	_	_	
+172-5	17566-17570	silk	_	_	_	
+172-6	17571-17575	from	_	_	_	
+172-7	17576-17579	the	_	_	_	
+172-8	17580-17584	corn	_	_	_	
+172-9	17584-17585	;	_	_	_	
+172-10	17586-17590	wash	_	_	_	
+172-11	17591-17594	and	_	_	_	
+172-12	17595-17600	place	_	_	_	
+172-13	17601-17604	the	_	_	_	
+172-14	17605-17609	ears	_	_	_	
+172-15	17611-17613	on	_	_	_	
+172-16	17614-17617	end	_	_	_	
+172-17	17618-17620	in	_	_	_	
+172-18	17621-17624	the	_	_	_	
+172-19	17625-17628	jar	_	_	_	
+172-20	17628-17629	,	_	_	_	
+172-21	17630-17637	packing	_	_	_	
+172-22	17638-17641	the	_	_	_	
+172-23	17642-17645	jar	_	_	_	
+172-24	17646-17652	nearly	_	_	_	
+172-25	17653-17657	full	_	_	_	
+172-26	17657-17658	.	_	_	_	
+
+#Text=Pour the brine over
+#Text= the ears; add cover and weights.
+173-1	17659-17663	Pour	_	_	_	
+173-2	17664-17667	the	_	_	_	
+173-3	17668-17673	brine	_	_	_	
+173-4	17674-17678	over	_	_	_	
+173-5	17680-17683	the	_	_	_	
+173-6	17684-17688	ears	_	_	_	
+173-7	17688-17689	;	_	_	_	
+173-8	17690-17693	add	_	_	_	
+173-9	17694-17699	cover	_	_	_	
+173-10	17700-17703	and	_	_	_	
+173-11	17704-17711	weights	_	_	_	
+173-12	17711-17712	.	_	_	_	
+
+#Text=Fermented corn has a sour taste,
+#Text= which may not be relished if the corn is eaten alone.
+174-1	17713-17722	Fermented	Taste Source[54]	_	_	
+174-2	17723-17727	corn	Taste Source[54]	_	_	
+174-3	17728-17731	has	_	_	_	
+174-4	17732-17733	a	_	_	_	
+174-5	17734-17738	sour	Quality[55]|Taste Word[56]	*	174-5[55_56]	
+174-6	17739-17744	taste	Taste Word	*|*	174-5[55_0]|174-1[54_0]	
+174-7	17744-17745	,	_	_	_	
+174-8	17747-17752	which	_	_	_	
+174-9	17753-17756	may	_	_	_	
+174-10	17757-17760	not	_	_	_	
+174-11	17761-17763	be	_	_	_	
+174-12	17764-17772	relished	Taste Word	*	174-14[57_0]	
+174-13	17773-17775	if	_	_	_	
+174-14	17776-17779	the	Taste Source[57]	_	_	
+174-15	17780-17784	corn	Taste Source[57]	_	_	
+174-16	17785-17787	is	_	_	_	
+174-17	17788-17793	eaten	Taste Word	*|*	174-18|174-14[57_0]	
+174-18	17794-17799	alone	Circumstance	_	_	
+174-19	17799-17800	.	_	_	_	
+
+#Text=For this reason
+#Text=it will be preferable in most cases to preserve corn by canning,
+#Text= drying or by salting without fermentation.
+175-1	17801-17804	For	_	_	_	
+175-2	17805-17809	this	_	_	_	
+175-3	17810-17816	reason	_	_	_	
+175-4	17817-17819	it	_	_	_	
+175-5	17820-17824	will	_	_	_	
+175-6	17825-17827	be	_	_	_	
+175-7	17828-17838	preferable	_	_	_	
+175-8	17839-17841	in	_	_	_	
+175-9	17842-17846	most	_	_	_	
+175-10	17847-17852	cases	_	_	_	
+175-11	17853-17855	to	_	_	_	
+175-12	17856-17864	preserve	_	_	_	
+175-13	17865-17869	corn	_	_	_	
+175-14	17870-17872	by	_	_	_	
+175-15	17873-17880	canning	_	_	_	
+175-16	17880-17881	,	_	_	_	
+175-17	17883-17889	drying	_	_	_	
+175-18	17890-17892	or	_	_	_	
+175-19	17893-17895	by	_	_	_	
+175-20	17896-17903	salting	_	_	_	
+175-21	17904-17911	without	_	_	_	
+175-22	17912-17924	fermentation	_	_	_	
+175-23	17924-17925	.	_	_	_	
+
+#Text=Fermented corn, however,
+#Text= may be used in the preparation of some dishes, such as chowders,
+#Text= omelets, and so forth, where its flavor will be masked to some extent
+#Text= by the other ingredients.
+176-1	17926-17935	Fermented	Taste Source[58]	_	_	
+176-2	17936-17940	corn	Taste Source[58]	_	_	
+176-3	17940-17941	,	_	_	_	
+176-4	17942-17949	however	_	_	_	
+176-5	17949-17950	,	_	_	_	
+176-6	17952-17955	may	_	_	_	
+176-7	17956-17958	be	_	_	_	
+176-8	17959-17963	used	_	_	_	
+176-9	17964-17966	in	_	_	_	
+176-10	17967-17970	the	_	_	_	
+176-11	17971-17982	preparation	_	_	_	
+176-12	17983-17985	of	_	_	_	
+176-13	17986-17990	some	_	_	_	
+176-14	17991-17997	dishes	_	_	_	
+176-15	17997-17998	,	_	_	_	
+176-16	17999-18003	such	_	_	_	
+176-17	18004-18006	as	_	_	_	
+176-18	18007-18015	chowders	_	_	_	
+176-19	18015-18016	,	_	_	_	
+176-20	18018-18025	omelets	_	_	_	
+176-21	18025-18026	,	_	_	_	
+176-22	18027-18030	and	_	_	_	
+176-23	18031-18033	so	_	_	_	
+176-24	18034-18039	forth	_	_	_	
+176-25	18039-18040	,	_	_	_	
+176-26	18041-18046	where	_	_	_	
+176-27	18047-18050	its	Taste Source	anaphorical	176-1[58_0]	
+176-28	18051-18057	flavor	Taste Word	*	176-27	
+176-29	18058-18062	will	_	_	_	
+176-30	18063-18065	be	_	_	_	
+176-31	18066-18072	masked	_	_	_	
+176-32	18073-18075	to	_	_	_	
+176-33	18076-18080	some	_	_	_	
+176-34	18081-18087	extent	_	_	_	
+176-35	18089-18091	by	_	_	_	
+176-36	18092-18095	the	_	_	_	
+176-37	18096-18101	other	_	_	_	
+176-38	18102-18113	ingredients	_	_	_	
+176-39	18113-18114	.	_	_	_	
+
+#Text=To some people this peculiar acid taste of
+#Text= fermented corn is not at all objectionable.
+177-1	18115-18117	To	Taster[59]	_	_	
+177-2	18118-18122	some	Taster[59]	_	_	
+177-3	18123-18129	people	Taster[59]	_	_	
+177-4	18130-18134	this	_	_	_	
+177-5	18135-18143	peculiar	Quality	_	_	
+177-6	18144-18148	acid	Quality[60]|Taste Word[61]	*|*	177-6[60_61]|177-5[0_61]	
+177-7	18149-18154	taste	Taste Word	*|*|*	177-6[60_0]|177-8[62_0]|177-1[59_0]	
+177-8	18155-18157	of	Taste Source[62]	_	_	
+177-9	18159-18168	fermented	Taste Source[62]	_	_	
+177-10	18169-18173	corn	Taste Source[62]	_	_	
+177-11	18174-18176	is	_	_	_	
+177-12	18177-18180	not	_	_	_	
+177-13	18181-18183	at	_	_	_	
+177-14	18184-18187	all	_	_	_	
+177-15	18188-18201	objectionable	_	_	_	
+177-16	18201-18202	.	_	_	_	
+
+#Text=Salting Without Fermentation.
+178-1	18206-18213	Salting	_	_	_	
+178-2	18214-18221	Without	_	_	_	
+178-3	18222-18234	Fermentation	_	_	_	
+178-4	18234-18235	.	_	_	_	
+
+#Text=In this method the vegetables are
+#Text= packed with enough salt to prevent fermentation or the growth of
+#Text= yeasts or molds.
+179-1	18236-18238	In	_	_	_	
+179-2	18239-18243	this	_	_	_	
+179-3	18244-18250	method	_	_	_	
+179-4	18251-18254	the	_	_	_	
+179-5	18255-18265	vegetables	_	_	_	
+179-6	18266-18269	are	_	_	_	
+179-7	18271-18277	packed	_	_	_	
+179-8	18278-18282	with	_	_	_	
+179-9	18283-18289	enough	_	_	_	
+179-10	18290-18294	salt	_	_	_	
+179-11	18295-18297	to	_	_	_	
+179-12	18298-18305	prevent	_	_	_	
+179-13	18306-18318	fermentation	_	_	_	
+179-14	18319-18321	or	_	_	_	
+179-15	18322-18325	the	_	_	_	
+179-16	18326-18332	growth	_	_	_	
+179-17	18333-18335	of	_	_	_	
+179-18	18337-18343	yeasts	_	_	_	
+179-19	18344-18346	or	_	_	_	
+179-20	18347-18352	molds	_	_	_	
+179-21	18352-18353	.	_	_	_	
+
+#Text=The vegetables preserved most satisfactorily by this
+#Text= method are dandelions, beet tops, turnip tops, spinach, kale, chard,
+#Text= cabbage, cauliflower, string beans, green peas and corn.
+180-1	18354-18357	The	_	_	_	
+180-2	18358-18368	vegetables	_	_	_	
+180-3	18369-18378	preserved	_	_	_	
+180-4	18379-18383	most	_	_	_	
+180-5	18384-18398	satisfactorily	_	_	_	
+180-6	18399-18401	by	_	_	_	
+180-7	18402-18406	this	_	_	_	
+180-8	18408-18414	method	_	_	_	
+180-9	18415-18418	are	_	_	_	
+180-10	18419-18429	dandelions	_	_	_	
+180-11	18429-18430	,	_	_	_	
+180-12	18431-18435	beet	_	_	_	
+180-13	18436-18440	tops	_	_	_	
+180-14	18440-18441	,	_	_	_	
+180-15	18442-18448	turnip	_	_	_	
+180-16	18449-18453	tops	_	_	_	
+180-17	18453-18454	,	_	_	_	
+180-18	18455-18462	spinach	_	_	_	
+180-19	18462-18463	,	_	_	_	
+180-20	18464-18468	kale	_	_	_	
+180-21	18468-18469	,	_	_	_	
+180-22	18470-18475	chard	_	_	_	
+180-23	18475-18476	,	_	_	_	
+180-24	18478-18485	cabbage	_	_	_	
+180-25	18485-18486	,	_	_	_	
+180-26	18487-18498	cauliflower	_	_	_	
+180-27	18498-18499	,	_	_	_	
+180-28	18500-18506	string	_	_	_	
+180-29	18507-18512	beans	_	_	_	
+180-30	18512-18513	,	_	_	_	
+180-31	18514-18519	green	_	_	_	
+180-32	18520-18524	peas	_	_	_	
+180-33	18525-18528	and	_	_	_	
+180-34	18529-18533	corn	_	_	_	
+180-35	18533-18534	.	_	_	_	
+
+#Text=The following
+#Text= directions should be followed:
+#Text= 
+#Text= The vegetables should be washed, drained and weighed.
+181-1	18535-18538	The	_	_	_	
+181-2	18539-18548	following	_	_	_	
+181-3	18550-18560	directions	_	_	_	
+181-4	18561-18567	should	_	_	_	
+181-5	18568-18570	be	_	_	_	
+181-6	18571-18579	followed	_	_	_	
+181-7	18579-18580	:	_	_	_	
+181-8	18584-18587	The	_	_	_	
+181-9	18588-18598	vegetables	_	_	_	
+181-10	18599-18605	should	_	_	_	
+181-11	18606-18608	be	_	_	_	
+181-12	18609-18615	washed	_	_	_	
+181-13	18615-18616	,	_	_	_	
+181-14	18617-18624	drained	_	_	_	
+181-15	18625-18628	and	_	_	_	
+181-16	18629-18636	weighed	_	_	_	
+181-17	18636-18637	.	_	_	_	
+
+#Text=The amount of
+#Text= salt needed will be a quarter of the weight of the vegetables.
+182-1	18638-18641	The	_	_	_	
+182-2	18642-18648	amount	_	_	_	
+182-3	18649-18651	of	_	_	_	
+182-4	18653-18657	salt	_	_	_	
+182-5	18658-18664	needed	_	_	_	
+182-6	18665-18669	will	_	_	_	
+182-7	18670-18672	be	_	_	_	
+182-8	18673-18674	a	_	_	_	
+182-9	18675-18682	quarter	_	_	_	
+182-10	18683-18685	of	_	_	_	
+182-11	18686-18689	the	_	_	_	
+182-12	18690-18696	weight	_	_	_	
+182-13	18697-18699	of	_	_	_	
+182-14	18700-18703	the	_	_	_	
+182-15	18704-18714	vegetables	_	_	_	
+182-16	18714-18715	.	_	_	_	
+
+#Text=Kegs or
+#Text= crocks make satisfactory containers.
+183-1	18716-18720	Kegs	_	_	_	
+183-2	18721-18723	or	_	_	_	
+183-3	18725-18731	crocks	_	_	_	
+183-4	18732-18736	make	_	_	_	
+183-5	18737-18749	satisfactory	_	_	_	
+183-6	18750-18760	containers	_	_	_	
+183-7	18760-18761	.	_	_	_	
+
+#Text=Put a layer of vegetables about
+#Text= an inch thick on the bottom of the container.
+184-1	18762-18765	Put	_	_	_	
+184-2	18766-18767	a	_	_	_	
+184-3	18768-18773	layer	_	_	_	
+184-4	18774-18776	of	_	_	_	
+184-5	18777-18787	vegetables	_	_	_	
+184-6	18788-18793	about	_	_	_	
+184-7	18795-18797	an	_	_	_	
+184-8	18798-18802	inch	_	_	_	
+184-9	18803-18808	thick	_	_	_	
+184-10	18809-18811	on	_	_	_	
+184-11	18812-18815	the	_	_	_	
+184-12	18816-18822	bottom	_	_	_	
+184-13	18823-18825	of	_	_	_	
+184-14	18826-18829	the	_	_	_	
+184-15	18830-18839	container	_	_	_	
+184-16	18839-18840	.	_	_	_	
+
+#Text=Cover this with salt.
+185-1	18841-18846	Cover	_	_	_	
+185-2	18847-18851	this	_	_	_	
+185-3	18852-18856	with	_	_	_	
+185-4	18857-18861	salt	_	_	_	
+185-5	18861-18862	.	_	_	_	
+
+#Text=Continue making alternate layers of vegetables and salt until the
+#Text= container is almost filled.
+186-1	18864-18872	Continue	_	_	_	
+186-2	18873-18879	making	_	_	_	
+186-3	18880-18889	alternate	_	_	_	
+186-4	18890-18896	layers	_	_	_	
+186-5	18897-18899	of	_	_	_	
+186-6	18900-18910	vegetables	_	_	_	
+186-7	18911-18914	and	_	_	_	
+186-8	18915-18919	salt	_	_	_	
+186-9	18920-18925	until	_	_	_	
+186-10	18926-18929	the	_	_	_	
+186-11	18931-18940	container	_	_	_	
+186-12	18941-18943	is	_	_	_	
+186-13	18944-18950	almost	_	_	_	
+186-14	18951-18957	filled	_	_	_	
+186-15	18957-18958	.	_	_	_	
+
+#Text=The salt should be evenly distributed so
+187-1	18959-18962	The	_	_	_	
+187-2	18963-18967	salt	_	_	_	
+187-3	18968-18974	should	_	_	_	
+187-4	18975-18977	be	_	_	_	
+187-5	18978-18984	evenly	_	_	_	
+187-6	18985-18996	distributed	_	_	_	
+187-7	18997-18999	so	_	_	_	

@@ -1,0 +1,4969 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+#T_RL=custom.Relation|label|BT_custom.Span
+
+
+#Text=The refuse of packing-houses is  sold to the poor at a low rate, under the name of tea endings and  tea bones; and if a few of the rarest sorts do not go abroad,  neither do the poorest.
+1-1	0-3	The	_	_	_	
+1-2	4-10	refuse	_	_	_	
+1-3	11-13	of	_	_	_	
+1-4	14-28	packing-houses	_	_	_	
+1-5	29-31	is	_	_	_	
+1-6	33-37	sold	_	_	_	
+1-7	38-40	to	_	_	_	
+1-8	41-44	the	_	_	_	
+1-9	45-49	poor	_	_	_	
+1-10	50-52	at	_	_	_	
+1-11	53-54	a	_	_	_	
+1-12	55-58	low	_	_	_	
+1-13	59-63	rate	_	_	_	
+1-14	63-64	,	_	_	_	
+1-15	65-70	under	_	_	_	
+1-16	71-74	the	_	_	_	
+1-17	75-79	name	_	_	_	
+1-18	80-82	of	_	_	_	
+1-19	83-86	tea	_	_	_	
+1-20	87-94	endings	_	_	_	
+1-21	95-98	and	_	_	_	
+1-22	100-103	tea	_	_	_	
+1-23	104-109	bones	_	_	_	
+1-24	109-110	;	_	_	_	
+1-25	111-114	and	_	_	_	
+1-26	115-117	if	_	_	_	
+1-27	118-119	a	_	_	_	
+1-28	120-123	few	_	_	_	
+1-29	124-126	of	_	_	_	
+1-30	127-130	the	_	_	_	
+1-31	131-137	rarest	_	_	_	
+1-32	138-143	sorts	_	_	_	
+1-33	144-146	do	_	_	_	
+1-34	147-150	not	_	_	_	
+1-35	151-153	go	_	_	_	
+1-36	154-160	abroad	_	_	_	
+1-37	160-161	,	_	_	_	
+1-38	163-170	neither	_	_	_	
+1-39	171-173	do	_	_	_	
+1-40	174-177	the	_	_	_	
+1-41	178-185	poorest	_	_	_	
+1-42	185-186	.	_	_	_	
+
+#Text=It is a necessary of life to all classes of  Chinese, and that its use is not injurious is abundantly evident  from its general acceptance and extending adoption; and the  prejudice against it among some out of China may be attributed  chiefly to the use of strong green tea, which is no doubt  prejudicial.
+2-1	187-189	It	_	_	_	
+2-2	190-192	is	_	_	_	
+2-3	193-194	a	_	_	_	
+2-4	195-204	necessary	_	_	_	
+2-5	205-207	of	_	_	_	
+2-6	208-212	life	_	_	_	
+2-7	213-215	to	_	_	_	
+2-8	216-219	all	_	_	_	
+2-9	220-227	classes	_	_	_	
+2-10	228-230	of	_	_	_	
+2-11	232-239	Chinese	_	_	_	
+2-12	239-240	,	_	_	_	
+2-13	241-244	and	_	_	_	
+2-14	245-249	that	_	_	_	
+2-15	250-253	its	_	_	_	
+2-16	254-257	use	_	_	_	
+2-17	258-260	is	_	_	_	
+2-18	261-264	not	_	_	_	
+2-19	265-274	injurious	_	_	_	
+2-20	275-277	is	_	_	_	
+2-21	278-288	abundantly	_	_	_	
+2-22	289-296	evident	_	_	_	
+2-23	298-302	from	_	_	_	
+2-24	303-306	its	_	_	_	
+2-25	307-314	general	_	_	_	
+2-26	315-325	acceptance	_	_	_	
+2-27	326-329	and	_	_	_	
+2-28	330-339	extending	_	_	_	
+2-29	340-348	adoption	_	_	_	
+2-30	348-349	;	_	_	_	
+2-31	350-353	and	_	_	_	
+2-32	354-357	the	_	_	_	
+2-33	359-368	prejudice	_	_	_	
+2-34	369-376	against	_	_	_	
+2-35	377-379	it	_	_	_	
+2-36	380-385	among	_	_	_	
+2-37	386-390	some	_	_	_	
+2-38	391-394	out	_	_	_	
+2-39	395-397	of	_	_	_	
+2-40	398-403	China	_	_	_	
+2-41	404-407	may	_	_	_	
+2-42	408-410	be	_	_	_	
+2-43	411-421	attributed	_	_	_	
+2-44	423-430	chiefly	_	_	_	
+2-45	431-433	to	_	_	_	
+2-46	434-437	the	_	_	_	
+2-47	438-441	use	_	_	_	
+2-48	442-444	of	_	_	_	
+2-49	445-451	strong	_	_	_	
+2-50	452-457	green	_	_	_	
+2-51	458-461	tea	_	_	_	
+2-52	461-462	,	_	_	_	
+2-53	463-468	which	_	_	_	
+2-54	469-471	is	_	_	_	
+2-55	472-474	no	_	_	_	
+2-56	475-480	doubt	_	_	_	
+2-57	482-493	prejudicial	_	_	_	
+2-58	493-494	.	_	_	_	
+
+#Text=If those who have given it up on this account will  adopt a weaker infusion of black tea, general experience is proof  that it will do them no great harm, and they may be sure that they  will not be deceived by a colored article; Neither the Chinese nor  Japanese use milk or sugar in their tea, and the peculiar taste and  aroma of the infusion is much better perceived without those  additions; nor can it be drunk so strong without tasting an  unpleasant bitterness, which the milk partly hides.
+3-1	495-497	If	_	_	_	
+3-2	498-503	those	_	_	_	
+3-3	504-507	who	_	_	_	
+3-4	508-512	have	_	_	_	
+3-5	513-518	given	_	_	_	
+3-6	519-521	it	_	_	_	
+3-7	522-524	up	_	_	_	
+3-8	525-527	on	_	_	_	
+3-9	528-532	this	_	_	_	
+3-10	533-540	account	_	_	_	
+3-11	541-545	will	_	_	_	
+3-12	547-552	adopt	_	_	_	
+3-13	553-554	a	_	_	_	
+3-14	555-561	weaker	_	_	_	
+3-15	562-570	infusion	_	_	_	
+3-16	571-573	of	_	_	_	
+3-17	574-579	black	_	_	_	
+3-18	580-583	tea	_	_	_	
+3-19	583-584	,	_	_	_	
+3-20	585-592	general	_	_	_	
+3-21	593-603	experience	_	_	_	
+3-22	604-606	is	_	_	_	
+3-23	607-612	proof	_	_	_	
+3-24	614-618	that	_	_	_	
+3-25	619-621	it	_	_	_	
+3-26	622-626	will	_	_	_	
+3-27	627-629	do	_	_	_	
+3-28	630-634	them	_	_	_	
+3-29	635-637	no	_	_	_	
+3-30	638-643	great	_	_	_	
+3-31	644-648	harm	_	_	_	
+3-32	648-649	,	_	_	_	
+3-33	650-653	and	_	_	_	
+3-34	654-658	they	_	_	_	
+3-35	659-662	may	_	_	_	
+3-36	663-665	be	_	_	_	
+3-37	666-670	sure	_	_	_	
+3-38	671-675	that	_	_	_	
+3-39	676-680	they	_	_	_	
+3-40	682-686	will	_	_	_	
+3-41	687-690	not	_	_	_	
+3-42	691-693	be	_	_	_	
+3-43	694-702	deceived	_	_	_	
+3-44	703-705	by	_	_	_	
+3-45	706-707	a	_	_	_	
+3-46	708-715	colored	_	_	_	
+3-47	716-723	article	_	_	_	
+3-48	723-724	;	_	_	_	
+3-49	725-732	Neither	_	_	_	
+3-50	733-736	the	_	_	_	
+3-51	737-744	Chinese	_	_	_	
+3-52	745-748	nor	_	_	_	
+3-53	750-758	Japanese	_	_	_	
+3-54	759-762	use	_	_	_	
+3-55	763-767	milk	_	_	_	
+3-56	768-770	or	_	_	_	
+3-57	771-776	sugar	_	_	_	
+3-58	777-779	in	_	_	_	
+3-59	780-785	their	_	_	_	
+3-60	786-789	tea	Taste Source	_	_	
+3-61	789-790	,	_	_	_	
+3-62	791-794	and	_	_	_	
+3-63	795-798	the	_	_	_	
+3-64	799-807	peculiar	Quality	_	_	
+3-65	808-813	taste	Taste Word	*|*	3-64|3-60	
+3-66	814-817	and	_	_	_	
+3-67	819-824	aroma	_	_	_	
+3-68	825-827	of	_	_	_	
+3-69	828-831	the	_	_	_	
+3-70	832-840	infusion	_	_	_	
+3-71	841-843	is	_	_	_	
+3-72	844-848	much	_	_	_	
+3-73	849-855	better	_	_	_	
+3-74	856-865	perceived	_	_	_	
+3-75	866-873	without	_	_	_	
+3-76	874-879	those	_	_	_	
+3-77	881-890	additions	_	_	_	
+3-78	890-891	;	_	_	_	
+3-79	892-895	nor	_	_	_	
+3-80	896-899	can	_	_	_	
+3-81	900-902	it	Taste Source	anaphorical	3-60	
+3-82	903-905	be	_	_	_	
+3-83	906-911	drunk	Taste Word	*|*|*	3-84[1_0]|3-81|3-86[2_0]	
+3-84	912-914	so	Quality[1]	_	_	
+3-85	915-921	strong	Quality[1]	_	_	
+3-86	922-929	without	Circumstance[2]	_	_	
+3-87	930-937	tasting	Circumstance[2]|Taste Word[3]	_	_	
+3-88	938-940	an	Circumstance[2]	_	_	
+3-89	942-952	unpleasant	Circumstance[2]|Quality[4]	_	_	
+3-90	953-963	bitterness	Circumstance[2]|Taste Word[5]	*|*	3-89[4_5]|3-60[0_5]	
+3-91	963-964	,	_	_	_	
+3-92	965-970	which	_	_	_	
+3-93	971-974	the	_	_	_	
+3-94	975-979	milk	_	_	_	
+3-95	980-986	partly	_	_	_	
+3-96	987-992	hides	_	_	_	
+3-97	992-993	.	_	_	_	
+
+#Text=The Japanese  sometimes reduce the leaves to a powder, and pour boiling water  through them in a cullender, in the same way that coffee is often  made."
+4-1	994-997	The	_	_	_	
+4-2	998-1006	Japanese	_	_	_	
+4-3	1008-1017	sometimes	_	_	_	
+4-4	1018-1024	reduce	_	_	_	
+4-5	1025-1028	the	_	_	_	
+4-6	1029-1035	leaves	_	_	_	
+4-7	1036-1038	to	_	_	_	
+4-8	1039-1040	a	_	_	_	
+4-9	1041-1047	powder	_	_	_	
+4-10	1047-1048	,	_	_	_	
+4-11	1049-1052	and	_	_	_	
+4-12	1053-1057	pour	_	_	_	
+4-13	1058-1065	boiling	_	_	_	
+4-14	1066-1071	water	_	_	_	
+4-15	1073-1080	through	_	_	_	
+4-16	1081-1085	them	_	_	_	
+4-17	1086-1088	in	_	_	_	
+4-18	1089-1090	a	_	_	_	
+4-19	1091-1100	cullender	_	_	_	
+4-20	1100-1101	,	_	_	_	
+4-21	1102-1104	in	_	_	_	
+4-22	1105-1108	the	_	_	_	
+4-23	1109-1113	same	_	_	_	
+4-24	1114-1117	way	_	_	_	
+4-25	1118-1122	that	_	_	_	
+4-26	1123-1129	coffee	_	_	_	
+4-27	1130-1132	is	_	_	_	
+4-28	1133-1138	often	_	_	_	
+4-29	1140-1144	made	_	_	_	
+4-30	1144-1145	.	_	_	_	
+4-31	1145-1146	"	_	_	_	
+
+#Text=_Method and season for plucking and gathering leaves_.
+5-1	1151-1152	_	_	_	_	
+5-2	1152-1158	Method	_	_	_	
+5-3	1159-1162	and	_	_	_	
+5-4	1163-1169	season	_	_	_	
+5-5	1170-1173	for	_	_	_	
+5-6	1174-1182	plucking	_	_	_	
+5-7	1183-1186	and	_	_	_	
+5-8	1187-1196	gathering	_	_	_	
+5-9	1197-1203	leaves	_	_	_	
+5-10	1203-1204	_	_	_	_	
+5-11	1204-1205	.	_	_	_	
+
+#Text=--The season  for picking leaves commences in April and continues until October.
+6-1	1205-1206	-	_	_	_	
+6-2	1206-1207	-	_	_	_	
+6-3	1207-1210	The	_	_	_	
+6-4	1211-1217	season	_	_	_	
+6-5	1219-1222	for	_	_	_	
+6-6	1223-1230	picking	_	_	_	
+6-7	1231-1237	leaves	_	_	_	
+6-8	1238-1247	commences	_	_	_	
+6-9	1248-1250	in	_	_	_	
+6-10	1251-1256	April	_	_	_	
+6-11	1257-1260	and	_	_	_	
+6-12	1261-1270	continues	_	_	_	
+6-13	1271-1276	until	_	_	_	
+6-14	1277-1284	October	_	_	_	
+6-15	1284-1285	.	_	_	_	
+
+#Text=The number of gatherings varies, depending on the moisture[12] or  dryness of the season.
+7-1	1287-1290	The	_	_	_	
+7-2	1291-1297	number	_	_	_	
+7-3	1298-1300	of	_	_	_	
+7-4	1301-1311	gatherings	_	_	_	
+7-5	1312-1318	varies	_	_	_	
+7-6	1318-1319	,	_	_	_	
+7-7	1320-1329	depending	_	_	_	
+7-8	1330-1332	on	_	_	_	
+7-9	1333-1336	the	_	_	_	
+7-10	1337-1345	moisture	_	_	_	
+7-11	1345-1346	[	_	_	_	
+7-12	1346-1348	12	_	_	_	
+7-13	1348-1349	]	_	_	_	
+7-14	1350-1352	or	_	_	_	
+7-15	1354-1361	dryness	_	_	_	
+7-16	1362-1364	of	_	_	_	
+7-17	1365-1368	the	_	_	_	
+7-18	1369-1375	season	_	_	_	
+7-19	1375-1376	.	_	_	_	
+
+#Text=If the season be good, as many as seven  gatherings may be obtained.
+8-1	1377-1379	If	_	_	_	
+8-2	1380-1383	the	_	_	_	
+8-3	1384-1390	season	_	_	_	
+8-4	1391-1393	be	_	_	_	
+8-5	1394-1398	good	_	_	_	
+8-6	1398-1399	,	_	_	_	
+8-7	1400-1402	as	_	_	_	
+8-8	1403-1407	many	_	_	_	
+8-9	1408-1410	as	_	_	_	
+8-10	1411-1416	seven	_	_	_	
+8-11	1418-1428	gatherings	_	_	_	
+8-12	1429-1432	may	_	_	_	
+8-13	1433-1435	be	_	_	_	
+8-14	1436-1444	obtained	_	_	_	
+8-15	1444-1445	.	_	_	_	
+
+#Text=If, however, the rains are partial, only  four or five.
+9-1	1446-1448	If	_	_	_	
+9-2	1448-1449	,	_	_	_	
+9-3	1450-1457	however	_	_	_	
+9-4	1457-1458	,	_	_	_	
+9-5	1459-1462	the	_	_	_	
+9-6	1463-1468	rains	_	_	_	
+9-7	1469-1472	are	_	_	_	
+9-8	1473-1480	partial	_	_	_	
+9-9	1480-1481	,	_	_	_	
+9-10	1482-1486	only	_	_	_	
+9-11	1488-1492	four	_	_	_	
+9-12	1493-1495	or	_	_	_	
+9-13	1496-1500	five	_	_	_	
+9-14	1500-1501	.	_	_	_	
+
+#Text=These, however, may be reduced to their general  periods for gathering--that is, from April to June, from July to  15th August, and from September to the end of October.
+10-1	1502-1507	These	_	_	_	
+10-2	1507-1508	,	_	_	_	
+10-3	1509-1516	however	_	_	_	
+10-4	1516-1517	,	_	_	_	
+10-5	1518-1521	may	_	_	_	
+10-6	1522-1524	be	_	_	_	
+10-7	1525-1532	reduced	_	_	_	
+10-8	1533-1535	to	_	_	_	
+10-9	1536-1541	their	_	_	_	
+10-10	1542-1549	general	_	_	_	
+10-11	1551-1558	periods	_	_	_	
+10-12	1559-1562	for	_	_	_	
+10-13	1563-1572	gathering	_	_	_	
+10-14	1572-1573	-	_	_	_	
+10-15	1573-1574	-	_	_	_	
+10-16	1574-1578	that	_	_	_	
+10-17	1579-1581	is	_	_	_	
+10-18	1581-1582	,	_	_	_	
+10-19	1583-1587	from	_	_	_	
+10-20	1588-1593	April	_	_	_	
+10-21	1594-1596	to	_	_	_	
+10-22	1597-1601	June	_	_	_	
+10-23	1601-1602	,	_	_	_	
+10-24	1603-1607	from	_	_	_	
+10-25	1608-1612	July	_	_	_	
+10-26	1613-1615	to	_	_	_	
+10-27	1617-1621	15th	_	_	_	
+10-28	1622-1628	August	_	_	_	
+10-29	1628-1629	,	_	_	_	
+10-30	1630-1633	and	_	_	_	
+10-31	1634-1638	from	_	_	_	
+10-32	1639-1648	September	_	_	_	
+10-33	1649-1651	to	_	_	_	
+10-34	1652-1655	the	_	_	_	
+10-35	1656-1659	end	_	_	_	
+10-36	1660-1662	of	_	_	_	
+10-37	1663-1670	October	_	_	_	
+10-38	1670-1671	.	_	_	_	
+
+#Text=But few  leaves are collected after the 15th of the latter month.
+11-1	1672-1675	But	_	_	_	
+11-2	1676-1679	few	_	_	_	
+11-3	1681-1687	leaves	_	_	_	
+11-4	1688-1691	are	_	_	_	
+11-5	1692-1701	collected	_	_	_	
+11-6	1702-1707	after	_	_	_	
+11-7	1708-1711	the	_	_	_	
+11-8	1712-1716	15th	_	_	_	
+11-9	1717-1719	of	_	_	_	
+11-10	1720-1723	the	_	_	_	
+11-11	1724-1730	latter	_	_	_	
+11-12	1731-1736	month	_	_	_	
+11-13	1736-1737	.	_	_	_	
+
+#Text=As soon as  the new and young leaves have appeared in April, the plucking takes  place, this being done by the Chinese, assisted by the Mallees.
+12-1	1738-1740	As	_	_	_	
+12-2	1741-1745	soon	_	_	_	
+12-3	1746-1748	as	_	_	_	
+12-4	1750-1753	the	_	_	_	
+12-5	1754-1757	new	_	_	_	
+12-6	1758-1761	and	_	_	_	
+12-7	1762-1767	young	_	_	_	
+12-8	1768-1774	leaves	_	_	_	
+12-9	1775-1779	have	_	_	_	
+12-10	1780-1788	appeared	_	_	_	
+12-11	1789-1791	in	_	_	_	
+12-12	1792-1797	April	_	_	_	
+12-13	1797-1798	,	_	_	_	
+12-14	1799-1802	the	_	_	_	
+12-15	1803-1811	plucking	_	_	_	
+12-16	1812-1817	takes	_	_	_	
+12-17	1819-1824	place	_	_	_	
+12-18	1824-1825	,	_	_	_	
+12-19	1826-1830	this	_	_	_	
+12-20	1831-1836	being	_	_	_	
+12-21	1837-1841	done	_	_	_	
+12-22	1842-1844	by	_	_	_	
+12-23	1845-1848	the	_	_	_	
+12-24	1849-1856	Chinese	_	_	_	
+12-25	1856-1857	,	_	_	_	
+12-26	1858-1866	assisted	_	_	_	
+12-27	1867-1869	by	_	_	_	
+12-28	1870-1873	the	_	_	_	
+12-29	1874-1881	Mallees	_	_	_	
+12-30	1881-1882	.	_	_	_	
+
+#Text=The  following is the method adopted:--A certain division of the  plantation is marked off, and to each man a small basket is given,  with instructions to proceed to a certain point, so that no plant  may be passed over.
+13-1	1883-1886	The	_	_	_	
+13-2	1888-1897	following	_	_	_	
+13-3	1898-1900	is	_	_	_	
+13-4	1901-1904	the	_	_	_	
+13-5	1905-1911	method	_	_	_	
+13-6	1912-1919	adopted	_	_	_	
+13-7	1919-1920	:	_	_	_	
+13-8	1920-1921	-	_	_	_	
+13-9	1921-1922	-	_	_	_	
+13-10	1922-1923	A	_	_	_	
+13-11	1924-1931	certain	_	_	_	
+13-12	1932-1940	division	_	_	_	
+13-13	1941-1943	of	_	_	_	
+13-14	1944-1947	the	_	_	_	
+13-15	1949-1959	plantation	_	_	_	
+13-16	1960-1962	is	_	_	_	
+13-17	1963-1969	marked	_	_	_	
+13-18	1970-1973	off	_	_	_	
+13-19	1973-1974	,	_	_	_	
+13-20	1975-1978	and	_	_	_	
+13-21	1979-1981	to	_	_	_	
+13-22	1982-1986	each	_	_	_	
+13-23	1987-1990	man	_	_	_	
+13-24	1991-1992	a	_	_	_	
+13-25	1993-1998	small	_	_	_	
+13-26	1999-2005	basket	_	_	_	
+13-27	2006-2008	is	_	_	_	
+13-28	2009-2014	given	_	_	_	
+13-29	2014-2015	,	_	_	_	
+13-30	2017-2021	with	_	_	_	
+13-31	2022-2034	instructions	_	_	_	
+13-32	2035-2037	to	_	_	_	
+13-33	2038-2045	proceed	_	_	_	
+13-34	2046-2048	to	_	_	_	
+13-35	2049-2050	a	_	_	_	
+13-36	2051-2058	certain	_	_	_	
+13-37	2059-2064	point	_	_	_	
+13-38	2064-2065	,	_	_	_	
+13-39	2066-2068	so	_	_	_	
+13-40	2069-2073	that	_	_	_	
+13-41	2074-2076	no	_	_	_	
+13-42	2077-2082	plant	_	_	_	
+13-43	2084-2087	may	_	_	_	
+13-44	2088-2090	be	_	_	_	
+13-45	2091-2097	passed	_	_	_	
+13-46	2098-2102	over	_	_	_	
+13-47	2102-2103	.	_	_	_	
+
+#Text=On the small basket being filled, the leaves are
+#Text=_3rd.
+14-1	2104-2106	On	_	_	_	
+14-2	2107-2110	the	_	_	_	
+14-3	2111-2116	small	_	_	_	
+14-4	2117-2123	basket	_	_	_	
+14-5	2124-2129	being	_	_	_	
+14-6	2130-2136	filled	_	_	_	
+14-7	2136-2137	,	_	_	_	
+14-8	2138-2141	the	_	_	_	
+14-9	2142-2148	leaves	_	_	_	
+14-10	2149-2152	are	_	_	_	
+14-11	2153-2154	_	_	_	_	
+14-12	2154-2157	3rd	_	_	_	
+14-13	2157-2158	.	_	_	_	
+
+#Text=On the vegetation of China and the Himalayas_.
+15-1	2161-2163	On	_	_	_	
+15-2	2164-2167	the	_	_	_	
+15-3	2168-2178	vegetation	_	_	_	
+15-4	2179-2181	of	_	_	_	
+15-5	2182-2187	China	_	_	_	
+15-6	2188-2191	and	_	_	_	
+15-7	2192-2195	the	_	_	_	
+15-8	2196-2205	Himalayas	_	_	_	
+15-9	2205-2206	_	_	_	_	
+15-10	2206-2207	.	_	_	_	
+
+#Text=One of the  use, and the present backward state of sugar manufacture is  attributable: I unhesitatingly assert that, if there be an acid  present in the cane-juice, the addition of lime to it will be  injurious instead of beneficial.
+16-1	2208-2211	One	_	_	_	
+16-2	2212-2214	of	_	_	_	
+16-3	2215-2218	the	_	_	_	
+16-4	2220-2223	use	_	_	_	
+16-5	2223-2224	,	_	_	_	
+16-6	2225-2228	and	_	_	_	
+16-7	2229-2232	the	_	_	_	
+16-8	2233-2240	present	_	_	_	
+16-9	2241-2249	backward	_	_	_	
+16-10	2250-2255	state	_	_	_	
+16-11	2256-2258	of	_	_	_	
+16-12	2259-2264	sugar	_	_	_	
+16-13	2265-2276	manufacture	_	_	_	
+16-14	2277-2279	is	_	_	_	
+16-15	2281-2293	attributable	_	_	_	
+16-16	2293-2294	:	_	_	_	
+16-17	2295-2296	I	_	_	_	
+16-18	2297-2311	unhesitatingly	_	_	_	
+16-19	2312-2318	assert	_	_	_	
+16-20	2319-2323	that	_	_	_	
+16-21	2323-2324	,	_	_	_	
+16-22	2325-2327	if	_	_	_	
+16-23	2328-2333	there	_	_	_	
+16-24	2334-2336	be	_	_	_	
+16-25	2337-2339	an	_	_	_	
+16-26	2340-2344	acid	_	_	_	
+16-27	2346-2353	present	_	_	_	
+16-28	2354-2356	in	_	_	_	
+16-29	2357-2360	the	_	_	_	
+16-30	2361-2371	cane-juice	_	_	_	
+16-31	2371-2372	,	_	_	_	
+16-32	2373-2376	the	_	_	_	
+16-33	2377-2385	addition	_	_	_	
+16-34	2386-2388	of	_	_	_	
+16-35	2389-2393	lime	_	_	_	
+16-36	2394-2396	to	_	_	_	
+16-37	2397-2399	it	_	_	_	
+16-38	2400-2404	will	_	_	_	
+16-39	2405-2407	be	_	_	_	
+16-40	2409-2418	injurious	_	_	_	
+16-41	2419-2426	instead	_	_	_	
+16-42	2427-2429	of	_	_	_	
+16-43	2430-2440	beneficial	_	_	_	
+16-44	2440-2441	.	_	_	_	
+
+#Text=There are only four acids that we  could expect to find in cane juice--mucous, saccholactic or saclactic,  oxalic, and acetic acids.
+17-1	2442-2447	There	_	_	_	
+17-2	2448-2451	are	_	_	_	
+17-3	2452-2456	only	_	_	_	
+17-4	2457-2461	four	_	_	_	
+17-5	2462-2467	acids	_	_	_	
+17-6	2468-2472	that	_	_	_	
+17-7	2473-2475	we	_	_	_	
+17-8	2477-2482	could	_	_	_	
+17-9	2483-2489	expect	_	_	_	
+17-10	2490-2492	to	_	_	_	
+17-11	2493-2497	find	_	_	_	
+17-12	2498-2500	in	_	_	_	
+17-13	2501-2505	cane	_	_	_	
+17-14	2506-2511	juice	_	_	_	
+17-15	2511-2512	-	_	_	_	
+17-16	2512-2513	-	_	_	_	
+17-17	2513-2519	mucous	_	_	_	
+17-18	2519-2520	,	_	_	_	
+17-19	2521-2533	saccholactic	_	_	_	
+17-20	2534-2536	or	_	_	_	
+17-21	2537-2546	saclactic	_	_	_	
+17-22	2546-2547	,	_	_	_	
+17-23	2549-2555	oxalic	_	_	_	
+17-24	2555-2556	,	_	_	_	
+17-25	2557-2560	and	_	_	_	
+17-26	2561-2567	acetic	Taste Source[6]	_	_	
+17-27	2568-2573	acids	Taste Source[6]	_	_	
+17-28	2573-2574	.	_	_	_	
+
+#Text=The three first named of these, however,  have never been traced, even in the most minute quantities; and if the  latter be present, which, unfortunately, is but too often the case,  the addition of lime would only result in the formation of acetate of  lime, which is, as I have already observed, an exceedingly difficult  crystallisable, very soluble, and deliquescent salt.
+18-1	2575-2578	The	_	_	_	
+18-2	2579-2584	three	_	_	_	
+18-3	2585-2590	first	_	_	_	
+18-4	2591-2596	named	_	_	_	
+18-5	2597-2599	of	_	_	_	
+18-6	2600-2605	these	_	_	_	
+18-7	2605-2606	,	_	_	_	
+18-8	2607-2614	however	_	_	_	
+18-9	2614-2615	,	_	_	_	
+18-10	2617-2621	have	_	_	_	
+18-11	2622-2627	never	_	_	_	
+18-12	2628-2632	been	_	_	_	
+18-13	2633-2639	traced	_	_	_	
+18-14	2639-2640	,	_	_	_	
+18-15	2641-2645	even	_	_	_	
+18-16	2646-2648	in	_	_	_	
+18-17	2649-2652	the	_	_	_	
+18-18	2653-2657	most	_	_	_	
+18-19	2658-2664	minute	_	_	_	
+18-20	2665-2675	quantities	_	_	_	
+18-21	2675-2676	;	_	_	_	
+18-22	2677-2680	and	_	_	_	
+18-23	2681-2683	if	_	_	_	
+18-24	2684-2687	the	_	_	_	
+18-25	2689-2695	latter	_	_	_	
+18-26	2696-2698	be	_	_	_	
+18-27	2699-2706	present	_	_	_	
+18-28	2706-2707	,	_	_	_	
+18-29	2708-2713	which	_	_	_	
+18-30	2713-2714	,	_	_	_	
+18-31	2715-2728	unfortunately	_	_	_	
+18-32	2728-2729	,	_	_	_	
+18-33	2730-2732	is	_	_	_	
+18-34	2733-2736	but	_	_	_	
+18-35	2737-2740	too	_	_	_	
+18-36	2741-2746	often	_	_	_	
+18-37	2747-2750	the	_	_	_	
+18-38	2751-2755	case	_	_	_	
+18-39	2755-2756	,	_	_	_	
+18-40	2758-2761	the	_	_	_	
+18-41	2762-2770	addition	_	_	_	
+18-42	2771-2773	of	_	_	_	
+18-43	2774-2778	lime	_	_	_	
+18-44	2779-2784	would	_	_	_	
+18-45	2785-2789	only	_	_	_	
+18-46	2790-2796	result	_	_	_	
+18-47	2797-2799	in	_	_	_	
+18-48	2800-2803	the	_	_	_	
+18-49	2804-2813	formation	_	_	_	
+18-50	2814-2816	of	_	_	_	
+18-51	2817-2824	acetate	_	_	_	
+18-52	2825-2827	of	_	_	_	
+18-53	2829-2833	lime	_	_	_	
+18-54	2833-2834	,	_	_	_	
+18-55	2835-2840	which	_	_	_	
+18-56	2841-2843	is	_	_	_	
+18-57	2843-2844	,	_	_	_	
+18-58	2845-2847	as	_	_	_	
+18-59	2848-2849	I	_	_	_	
+18-60	2850-2854	have	_	_	_	
+18-61	2855-2862	already	_	_	_	
+18-62	2863-2871	observed	_	_	_	
+18-63	2871-2872	,	_	_	_	
+18-64	2873-2875	an	_	_	_	
+18-65	2876-2887	exceedingly	_	_	_	
+18-66	2888-2897	difficult	_	_	_	
+18-67	2899-2913	crystallisable	_	_	_	
+18-68	2913-2914	,	_	_	_	
+18-69	2915-2919	very	_	_	_	
+18-70	2920-2927	soluble	_	_	_	
+18-71	2927-2928	,	_	_	_	
+18-72	2929-2932	and	_	_	_	
+18-73	2933-2945	deliquescent	_	_	_	
+18-74	2946-2950	salt	_	_	_	
+18-75	2950-2951	.	_	_	_	
+
+#Text=It has a bitter,  saline taste; 100 parts consist of 64.5 acid, 35.5 lime, and it is  easily recognisable by its taste in the molasses made from sour  cane-juice: so that, supposing the cane-juice sour, every pint of acid  present would require nearly half a pound of lime for its  neutralisation, independent of the quantity required for the tempering  or precipitation of the feculencies contained in it, and would result  in the formation of one-and-a-half pound of the above mentioned highly  deleterious salt.
+19-1	2952-2954	It	Taste Source	anaphorical	17-26[6_0]	
+19-2	2955-2958	has	_	_	_	
+19-3	2959-2960	a	_	_	_	
+19-4	2961-2967	bitter	Taste Word[7]|Quality[8]	*	19-4[8_7]	
+19-5	2967-2968	,	_	_	_	
+19-6	2970-2976	saline	Quality	_	_	
+19-7	2977-2982	taste	Taste Word	*|*|*	19-4[8_0]|19-6|19-1	
+19-8	2982-2983	;	_	_	_	
+19-9	2984-2987	100	_	_	_	
+19-10	2988-2993	parts	_	_	_	
+19-11	2994-3001	consist	_	_	_	
+19-12	3002-3004	of	_	_	_	
+19-13	3005-3009	64.5	_	_	_	
+19-14	3010-3014	acid	_	_	_	
+19-15	3014-3015	,	_	_	_	
+19-16	3016-3020	35.5	_	_	_	
+19-17	3021-3025	lime	_	_	_	
+19-18	3025-3026	,	_	_	_	
+19-19	3027-3030	and	_	_	_	
+19-20	3031-3033	it	_	_	_	
+19-21	3034-3036	is	_	_	_	
+19-22	3038-3044	easily	_	_	_	
+19-23	3045-3057	recognisable	_	_	_	
+19-24	3058-3060	by	_	_	_	
+19-25	3061-3064	its	_	_	_	
+19-26	3065-3070	taste	Taste Word	*|*	19-27[9_0]|19-1	
+19-27	3071-3073	in	Taste Carrier[9]	_	_	
+19-28	3074-3077	the	Taste Carrier[9]	_	_	
+19-29	3078-3086	molasses	Taste Carrier[9]	_	_	
+19-30	3087-3091	made	Taste Carrier[9]	_	_	
+19-31	3092-3096	from	Taste Carrier[9]	_	_	
+19-32	3097-3101	sour	Taste Carrier[9]|Taste Word[10]|Quality[11]	*|*	19-32[11_10]|19-33[12_10]	
+19-33	3103-3113	cane-juice	Taste Carrier[9]|Taste Source[12]	_	_	
+19-34	3113-3114	:	_	_	_	
+19-35	3115-3117	so	_	_	_	
+19-36	3118-3122	that	_	_	_	
+19-37	3122-3123	,	_	_	_	
+19-38	3124-3133	supposing	_	_	_	
+19-39	3134-3137	the	_	_	_	
+19-40	3138-3148	cane-juice	Taste Source	_	_	
+19-41	3149-3153	sour	Taste Word[13]|Quality[14]	*|*	19-41[14_13]|19-40[0_13]	
+19-42	3153-3154	,	_	_	_	
+19-43	3155-3160	every	_	_	_	
+19-44	3161-3165	pint	_	_	_	
+19-45	3166-3168	of	_	_	_	
+19-46	3169-3173	acid	_	_	_	
+19-47	3175-3182	present	_	_	_	
+19-48	3183-3188	would	_	_	_	
+19-49	3189-3196	require	_	_	_	
+19-50	3197-3203	nearly	_	_	_	
+19-51	3204-3208	half	_	_	_	
+19-52	3209-3210	a	_	_	_	
+19-53	3211-3216	pound	_	_	_	
+19-54	3217-3219	of	_	_	_	
+19-55	3220-3224	lime	_	_	_	
+19-56	3225-3228	for	_	_	_	
+19-57	3229-3232	its	_	_	_	
+19-58	3234-3248	neutralisation	_	_	_	
+19-59	3248-3249	,	_	_	_	
+19-60	3250-3261	independent	_	_	_	
+19-61	3262-3264	of	_	_	_	
+19-62	3265-3268	the	_	_	_	
+19-63	3269-3277	quantity	_	_	_	
+19-64	3278-3286	required	_	_	_	
+19-65	3287-3290	for	_	_	_	
+19-66	3291-3294	the	_	_	_	
+19-67	3295-3304	tempering	_	_	_	
+19-68	3306-3308	or	_	_	_	
+19-69	3309-3322	precipitation	_	_	_	
+19-70	3323-3325	of	_	_	_	
+19-71	3326-3329	the	_	_	_	
+19-72	3330-3341	feculencies	_	_	_	
+19-73	3342-3351	contained	_	_	_	
+19-74	3352-3354	in	_	_	_	
+19-75	3355-3357	it	_	_	_	
+19-76	3357-3358	,	_	_	_	
+19-77	3359-3362	and	_	_	_	
+19-78	3363-3368	would	_	_	_	
+19-79	3369-3375	result	_	_	_	
+19-80	3377-3379	in	_	_	_	
+19-81	3380-3383	the	_	_	_	
+19-82	3384-3393	formation	_	_	_	
+19-83	3394-3396	of	_	_	_	
+19-84	3397-3411	one-and-a-half	_	_	_	
+19-85	3412-3417	pound	_	_	_	
+19-86	3418-3420	of	_	_	_	
+19-87	3421-3424	the	_	_	_	
+19-88	3425-3430	above	_	_	_	
+19-89	3431-3440	mentioned	_	_	_	
+19-90	3441-3447	highly	_	_	_	
+19-91	3449-3460	deleterious	_	_	_	
+19-92	3461-3465	salt	_	_	_	
+19-93	3465-3466	.	_	_	_	
+
+#Text=Suppose we boil the cane-juice prior to tempering it, we then drive  off a great portion of acetic acid, much less lime will be required,  and if we could, by filtration or subsidence, get rid of the  precipitated feculencies, we should make a tolerably good sugar; but  as, under the present plan, we have no means of so doing, the acetic  acid, which is forming during the whole process of evaporation (as  fermentation still goes on), unites with the lime before it can be  dissipated by the heat, and thus not only forms acetate of lime, but  causes the re-solution of the precipitated feculencies, thus rendering  it necessary to add a fresh portion of lime in the tache, a proceeding  always to be avoided, if possible, but generally necessary in boiling  down sour liquor.
+20-1	3472-3479	Suppose	_	_	_	
+20-2	3480-3482	we	_	_	_	
+20-3	3483-3487	boil	_	_	_	
+20-4	3488-3491	the	_	_	_	
+20-5	3492-3502	cane-juice	_	_	_	
+20-6	3503-3508	prior	_	_	_	
+20-7	3509-3511	to	_	_	_	
+20-8	3512-3521	tempering	_	_	_	
+20-9	3522-3524	it	_	_	_	
+20-10	3524-3525	,	_	_	_	
+20-11	3526-3528	we	_	_	_	
+20-12	3529-3533	then	_	_	_	
+20-13	3534-3539	drive	_	_	_	
+20-14	3541-3544	off	_	_	_	
+20-15	3545-3546	a	_	_	_	
+20-16	3547-3552	great	_	_	_	
+20-17	3553-3560	portion	_	_	_	
+20-18	3561-3563	of	_	_	_	
+20-19	3564-3570	acetic	_	_	_	
+20-20	3571-3575	acid	_	_	_	
+20-21	3575-3576	,	_	_	_	
+20-22	3577-3581	much	_	_	_	
+20-23	3582-3586	less	_	_	_	
+20-24	3587-3591	lime	_	_	_	
+20-25	3592-3596	will	_	_	_	
+20-26	3597-3599	be	_	_	_	
+20-27	3600-3608	required	_	_	_	
+20-28	3608-3609	,	_	_	_	
+20-29	3611-3614	and	_	_	_	
+20-30	3615-3617	if	_	_	_	
+20-31	3618-3620	we	_	_	_	
+20-32	3621-3626	could	_	_	_	
+20-33	3626-3627	,	_	_	_	
+20-34	3628-3630	by	_	_	_	
+20-35	3631-3641	filtration	_	_	_	
+20-36	3642-3644	or	_	_	_	
+20-37	3645-3655	subsidence	_	_	_	
+20-38	3655-3656	,	_	_	_	
+20-39	3657-3660	get	_	_	_	
+20-40	3661-3664	rid	_	_	_	
+20-41	3665-3667	of	_	_	_	
+20-42	3668-3671	the	_	_	_	
+20-43	3673-3685	precipitated	_	_	_	
+20-44	3686-3697	feculencies	_	_	_	
+20-45	3697-3698	,	_	_	_	
+20-46	3699-3701	we	_	_	_	
+20-47	3702-3708	should	_	_	_	
+20-48	3709-3713	make	_	_	_	
+20-49	3714-3715	a	_	_	_	
+20-50	3716-3725	tolerably	_	_	_	
+20-51	3726-3730	good	_	_	_	
+20-52	3731-3736	sugar	_	_	_	
+20-53	3736-3737	;	_	_	_	
+20-54	3738-3741	but	_	_	_	
+20-55	3743-3745	as	_	_	_	
+20-56	3745-3746	,	_	_	_	
+20-57	3747-3752	under	_	_	_	
+20-58	3753-3756	the	_	_	_	
+20-59	3757-3764	present	_	_	_	
+20-60	3765-3769	plan	_	_	_	
+20-61	3769-3770	,	_	_	_	
+20-62	3771-3773	we	_	_	_	
+20-63	3774-3778	have	_	_	_	
+20-64	3779-3781	no	_	_	_	
+20-65	3782-3787	means	_	_	_	
+20-66	3788-3790	of	_	_	_	
+20-67	3791-3793	so	_	_	_	
+20-68	3794-3799	doing	_	_	_	
+20-69	3799-3800	,	_	_	_	
+20-70	3801-3804	the	_	_	_	
+20-71	3805-3811	acetic	_	_	_	
+20-72	3813-3817	acid	_	_	_	
+20-73	3817-3818	,	_	_	_	
+20-74	3819-3824	which	_	_	_	
+20-75	3825-3827	is	_	_	_	
+20-76	3828-3835	forming	_	_	_	
+20-77	3836-3842	during	_	_	_	
+20-78	3843-3846	the	_	_	_	
+20-79	3847-3852	whole	_	_	_	
+20-80	3853-3860	process	_	_	_	
+20-81	3861-3863	of	_	_	_	
+20-82	3864-3875	evaporation	_	_	_	
+20-83	3876-3877	(	_	_	_	
+20-84	3877-3879	as	_	_	_	
+20-85	3881-3893	fermentation	_	_	_	
+20-86	3894-3899	still	_	_	_	
+20-87	3900-3904	goes	_	_	_	
+20-88	3905-3907	on	_	_	_	
+20-89	3907-3908	)	_	_	_	
+20-90	3908-3909	,	_	_	_	
+20-91	3910-3916	unites	_	_	_	
+20-92	3917-3921	with	_	_	_	
+20-93	3922-3925	the	_	_	_	
+20-94	3926-3930	lime	_	_	_	
+20-95	3931-3937	before	_	_	_	
+20-96	3938-3940	it	_	_	_	
+20-97	3941-3944	can	_	_	_	
+20-98	3945-3947	be	_	_	_	
+20-99	3949-3959	dissipated	_	_	_	
+20-100	3960-3962	by	_	_	_	
+20-101	3963-3966	the	_	_	_	
+20-102	3967-3971	heat	_	_	_	
+20-103	3971-3972	,	_	_	_	
+20-104	3973-3976	and	_	_	_	
+20-105	3977-3981	thus	_	_	_	
+20-106	3982-3985	not	_	_	_	
+20-107	3986-3990	only	_	_	_	
+20-108	3991-3996	forms	_	_	_	
+20-109	3997-4004	acetate	_	_	_	
+20-110	4005-4007	of	_	_	_	
+20-111	4008-4012	lime	_	_	_	
+20-112	4012-4013	,	_	_	_	
+20-113	4014-4017	but	_	_	_	
+20-114	4019-4025	causes	_	_	_	
+20-115	4026-4029	the	_	_	_	
+20-116	4030-4041	re-solution	_	_	_	
+20-117	4042-4044	of	_	_	_	
+20-118	4045-4048	the	_	_	_	
+20-119	4049-4061	precipitated	_	_	_	
+20-120	4062-4073	feculencies	_	_	_	
+20-121	4073-4074	,	_	_	_	
+20-122	4075-4079	thus	_	_	_	
+20-123	4080-4089	rendering	_	_	_	
+20-124	4091-4093	it	_	_	_	
+20-125	4094-4103	necessary	_	_	_	
+20-126	4104-4106	to	_	_	_	
+20-127	4107-4110	add	_	_	_	
+20-128	4111-4112	a	_	_	_	
+20-129	4113-4118	fresh	_	_	_	
+20-130	4119-4126	portion	_	_	_	
+20-131	4127-4129	of	_	_	_	
+20-132	4130-4134	lime	_	_	_	
+20-133	4135-4137	in	_	_	_	
+20-134	4138-4141	the	_	_	_	
+20-135	4142-4147	tache	_	_	_	
+20-136	4147-4148	,	_	_	_	
+20-137	4149-4150	a	_	_	_	
+20-138	4151-4161	proceeding	_	_	_	
+20-139	4163-4169	always	_	_	_	
+20-140	4170-4172	to	_	_	_	
+20-141	4173-4175	be	_	_	_	
+20-142	4176-4183	avoided	_	_	_	
+20-143	4183-4184	,	_	_	_	
+20-144	4185-4187	if	_	_	_	
+20-145	4188-4196	possible	_	_	_	
+20-146	4196-4197	,	_	_	_	
+20-147	4198-4201	but	_	_	_	
+20-148	4202-4211	generally	_	_	_	
+20-149	4212-4221	necessary	_	_	_	
+20-150	4222-4224	in	_	_	_	
+20-151	4225-4232	boiling	_	_	_	
+20-152	4234-4238	down	_	_	_	
+20-153	4239-4243	sour	Taste Word[15]|Quality[16]	*|*	20-153[16_15]|20-154[0_15]	
+20-154	4244-4250	liquor	Taste Source	_	_	
+20-155	4250-4251	.	_	_	_	
+
+#Text=Take a small portion of cane-juice (hot or cold) in  a tumbler, and temper it with lime until the feculencies are  precipitated and the flakes perfectly visible, then add vinegar by  drops, and it will be found that the flakes will speedily disappear  and be re-dissolved, showing that lime has a greater affinity for  acetic acid than starch, and that, although when added to sour  cane-juice, it neutralises the acidity, still that result is a  consequence, not the cause, of the application, and is highly of an agreeable flavor, for the essential oil which it contains is  made, instead of the beautiful and delicious sweet which the maple,  properly treated, is sure to yield.
+21-1	4252-4256	Take	_	_	_	
+21-2	4257-4258	a	_	_	_	
+21-3	4259-4264	small	_	_	_	
+21-4	4265-4272	portion	_	_	_	
+21-5	4273-4275	of	_	_	_	
+21-6	4276-4286	cane-juice	_	_	_	
+21-7	4287-4288	(	_	_	_	
+21-8	4288-4291	hot	_	_	_	
+21-9	4292-4294	or	_	_	_	
+21-10	4295-4299	cold	_	_	_	
+21-11	4299-4300	)	_	_	_	
+21-12	4301-4303	in	_	_	_	
+21-13	4305-4306	a	_	_	_	
+21-14	4307-4314	tumbler	_	_	_	
+21-15	4314-4315	,	_	_	_	
+21-16	4316-4319	and	_	_	_	
+21-17	4320-4326	temper	_	_	_	
+21-18	4327-4329	it	_	_	_	
+21-19	4330-4334	with	_	_	_	
+21-20	4335-4339	lime	Taste Modifier	_	_	
+21-21	4340-4345	until	_	_	_	
+21-22	4346-4349	the	_	_	_	
+21-23	4350-4361	feculencies	_	_	_	
+21-24	4362-4365	are	_	_	_	
+21-25	4367-4379	precipitated	_	_	_	
+21-26	4380-4383	and	_	_	_	
+21-27	4384-4387	the	_	_	_	
+21-28	4388-4394	flakes	_	_	_	
+21-29	4395-4404	perfectly	_	_	_	
+21-30	4405-4412	visible	_	_	_	
+21-31	4412-4413	,	_	_	_	
+21-32	4414-4418	then	_	_	_	
+21-33	4419-4422	add	_	_	_	
+21-34	4423-4430	vinegar	_	_	_	
+21-35	4431-4433	by	_	_	_	
+21-36	4435-4440	drops	_	_	_	
+21-37	4440-4441	,	_	_	_	
+21-38	4442-4445	and	_	_	_	
+21-39	4446-4448	it	_	_	_	
+21-40	4449-4453	will	_	_	_	
+21-41	4454-4456	be	_	_	_	
+21-42	4457-4462	found	_	_	_	
+21-43	4463-4467	that	_	_	_	
+21-44	4468-4471	the	_	_	_	
+21-45	4472-4478	flakes	_	_	_	
+21-46	4479-4483	will	_	_	_	
+21-47	4484-4492	speedily	_	_	_	
+21-48	4493-4502	disappear	_	_	_	
+21-49	4504-4507	and	_	_	_	
+21-50	4508-4510	be	_	_	_	
+21-51	4511-4523	re-dissolved	_	_	_	
+21-52	4523-4524	,	_	_	_	
+21-53	4525-4532	showing	_	_	_	
+21-54	4533-4537	that	_	_	_	
+21-55	4538-4542	lime	_	_	_	
+21-56	4543-4546	has	_	_	_	
+21-57	4547-4548	a	_	_	_	
+21-58	4549-4556	greater	_	_	_	
+21-59	4557-4565	affinity	_	_	_	
+21-60	4566-4569	for	_	_	_	
+21-61	4571-4577	acetic	_	_	_	
+21-62	4578-4582	acid	_	_	_	
+21-63	4583-4587	than	_	_	_	
+21-64	4588-4594	starch	_	_	_	
+21-65	4594-4595	,	_	_	_	
+21-66	4596-4599	and	_	_	_	
+21-67	4600-4604	that	_	_	_	
+21-68	4604-4605	,	_	_	_	
+21-69	4606-4614	although	_	_	_	
+21-70	4615-4619	when	_	_	_	
+21-71	4620-4625	added	_	_	_	
+21-72	4626-4628	to	_	_	_	
+21-73	4629-4633	sour	Taste Word[17]|Quality[18]	*|*	21-73[18_17]|21-74[0_17]	
+21-74	4635-4645	cane-juice	Taste Source	_	_	
+21-75	4645-4646	,	_	_	_	
+21-76	4647-4649	it	_	_	_	
+21-77	4650-4661	neutralises	_	_	_	
+21-78	4662-4665	the	_	_	_	
+21-79	4666-4673	acidity	Taste Word	*	21-74	
+21-80	4673-4674	,	_	_	_	
+21-81	4675-4680	still	_	_	_	
+21-82	4681-4685	that	_	_	_	
+21-83	4686-4692	result	_	_	_	
+21-84	4693-4695	is	_	_	_	
+21-85	4696-4697	a	_	_	_	
+21-86	4699-4710	consequence	_	_	_	
+21-87	4710-4711	,	_	_	_	
+21-88	4712-4715	not	_	_	_	
+21-89	4716-4719	the	_	_	_	
+21-90	4720-4725	cause	_	_	_	
+21-91	4725-4726	,	_	_	_	
+21-92	4727-4729	of	_	_	_	
+21-93	4730-4733	the	_	_	_	
+21-94	4734-4745	application	_	_	_	
+21-95	4745-4746	,	_	_	_	
+21-96	4747-4750	and	_	_	_	
+21-97	4751-4753	is	_	_	_	
+21-98	4754-4760	highly	_	_	_	
+21-99	4761-4763	of	_	_	_	
+21-100	4764-4766	an	_	_	_	
+21-101	4767-4776	agreeable	Quality	_	_	
+21-102	4777-4783	flavor	Taste Word	*|*|*	21-101|21-74|21-20	
+21-103	4783-4784	,	_	_	_	
+21-104	4785-4788	for	_	_	_	
+21-105	4789-4792	the	_	_	_	
+21-106	4793-4802	essential	_	_	_	
+21-107	4803-4806	oil	_	_	_	
+21-108	4807-4812	which	_	_	_	
+21-109	4813-4815	it	_	_	_	
+21-110	4816-4824	contains	_	_	_	
+21-111	4825-4827	is	_	_	_	
+21-112	4829-4833	made	_	_	_	
+21-113	4833-4834	,	_	_	_	
+21-114	4835-4842	instead	_	_	_	
+21-115	4843-4845	of	_	_	_	
+21-116	4846-4849	the	_	_	_	
+21-117	4850-4859	beautiful	Quality	_	_	
+21-118	4860-4863	and	_	_	_	
+21-119	4864-4873	delicious	Quality[19]|Taste Word[20]	*	21-119[19_20]	
+21-120	4874-4879	sweet	Taste Word	*|*|*	21-117|21-119[19_0]|21-122[21_0]	
+21-121	4880-4885	which	_	_	_	
+21-122	4886-4889	the	Taste Source[21]	_	_	
+21-123	4890-4895	maple	Taste Source[21]	_	_	
+21-124	4895-4896	,	_	_	_	
+21-125	4898-4906	properly	_	_	_	
+21-126	4907-4914	treated	_	_	_	
+21-127	4914-4915	,	_	_	_	
+21-128	4916-4918	is	_	_	_	
+21-129	4919-4923	sure	_	_	_	
+21-130	4924-4926	to	_	_	_	
+21-131	4927-4932	yield	_	_	_	
+21-132	4932-4933	.	_	_	_	
+
+#Text=The quantity of sugar produced in a year varies considerably from the  same trees.
+22-1	4937-4940	The	_	_	_	
+22-2	4941-4949	quantity	_	_	_	
+22-3	4950-4952	of	_	_	_	
+22-4	4953-4958	sugar	_	_	_	
+22-5	4959-4967	produced	_	_	_	
+22-6	4968-4970	in	_	_	_	
+22-7	4971-4972	a	_	_	_	
+22-8	4973-4977	year	_	_	_	
+22-9	4978-4984	varies	_	_	_	
+22-10	4985-4997	considerably	_	_	_	
+22-11	4998-5002	from	_	_	_	
+22-12	5003-5006	the	_	_	_	
+22-13	5008-5012	same	_	_	_	
+22-14	5013-5018	trees	_	_	_	
+22-15	5018-5019	.	_	_	_	
+
+#Text=The cause of this difference is to be found in the depth  of snow, continued cold, or a sudden transition from cold to warm,  thus abridging the period of sugar-making.
+23-1	5020-5023	The	_	_	_	
+23-2	5024-5029	cause	_	_	_	
+23-3	5030-5032	of	_	_	_	
+23-4	5033-5037	this	_	_	_	
+23-5	5038-5048	difference	_	_	_	
+23-6	5049-5051	is	_	_	_	
+23-7	5052-5054	to	_	_	_	
+23-8	5055-5057	be	_	_	_	
+23-9	5058-5063	found	_	_	_	
+23-10	5064-5066	in	_	_	_	
+23-11	5067-5070	the	_	_	_	
+23-12	5071-5076	depth	_	_	_	
+23-13	5078-5080	of	_	_	_	
+23-14	5081-5085	snow	_	_	_	
+23-15	5085-5086	,	_	_	_	
+23-16	5087-5096	continued	_	_	_	
+23-17	5097-5101	cold	_	_	_	
+23-18	5101-5102	,	_	_	_	
+23-19	5103-5105	or	_	_	_	
+23-20	5106-5107	a	_	_	_	
+23-21	5108-5114	sudden	_	_	_	
+23-22	5115-5125	transition	_	_	_	
+23-23	5126-5130	from	_	_	_	
+23-24	5131-5135	cold	_	_	_	
+23-25	5136-5138	to	_	_	_	
+23-26	5139-5143	warm	_	_	_	
+23-27	5143-5144	,	_	_	_	
+23-28	5146-5150	thus	_	_	_	
+23-29	5151-5160	abridging	_	_	_	
+23-30	5161-5164	the	_	_	_	
+23-31	5165-5171	period	_	_	_	
+23-32	5172-5174	of	_	_	_	
+23-33	5175-5187	sugar-making	_	_	_	
+23-34	5187-5188	.	_	_	_	
+
+#Text=A sharp frost at night,  with clear warm days, is the most favorable to the sugar-maker.
+24-1	5189-5190	A	_	_	_	
+24-2	5191-5196	sharp	_	_	_	
+24-3	5197-5202	frost	_	_	_	
+24-4	5203-5205	at	_	_	_	
+24-5	5206-5211	night	_	_	_	
+24-6	5211-5212	,	_	_	_	
+24-7	5214-5218	with	_	_	_	
+24-8	5219-5224	clear	_	_	_	
+24-9	5225-5229	warm	_	_	_	
+24-10	5230-5234	days	_	_	_	
+24-11	5234-5235	,	_	_	_	
+24-12	5236-5238	is	_	_	_	
+24-13	5239-5242	the	_	_	_	
+24-14	5243-5247	most	_	_	_	
+24-15	5248-5257	favorable	_	_	_	
+24-16	5258-5260	to	_	_	_	
+24-17	5261-5264	the	_	_	_	
+24-18	5265-5276	sugar-maker	_	_	_	
+24-19	5276-5277	.	_	_	_	
+
+#Text=Perhaps four pounds of sugar from a tree may be a pretty fair average  of seasons generally, although we have known the growth to exceed six  pounds, and sink as low as three.
+25-1	5279-5286	Perhaps	_	_	_	
+25-2	5287-5291	four	_	_	_	
+25-3	5292-5298	pounds	_	_	_	
+25-4	5299-5301	of	_	_	_	
+25-5	5302-5307	sugar	_	_	_	
+25-6	5308-5312	from	_	_	_	
+25-7	5313-5314	a	_	_	_	
+25-8	5315-5319	tree	_	_	_	
+25-9	5320-5323	may	_	_	_	
+25-10	5324-5326	be	_	_	_	
+25-11	5327-5328	a	_	_	_	
+25-12	5329-5335	pretty	_	_	_	
+25-13	5336-5340	fair	_	_	_	
+25-14	5341-5348	average	_	_	_	
+25-15	5350-5352	of	_	_	_	
+25-16	5353-5360	seasons	_	_	_	
+25-17	5361-5370	generally	_	_	_	
+25-18	5370-5371	,	_	_	_	
+25-19	5372-5380	although	_	_	_	
+25-20	5381-5383	we	_	_	_	
+25-21	5384-5388	have	_	_	_	
+25-22	5389-5394	known	_	_	_	
+25-23	5395-5398	the	_	_	_	
+25-24	5399-5405	growth	_	_	_	
+25-25	5406-5408	to	_	_	_	
+25-26	5409-5415	exceed	_	_	_	
+25-27	5416-5419	six	_	_	_	
+25-28	5421-5427	pounds	_	_	_	
+25-29	5427-5428	,	_	_	_	
+25-30	5429-5432	and	_	_	_	
+25-31	5433-5437	sink	_	_	_	
+25-32	5438-5440	as	_	_	_	
+25-33	5441-5444	low	_	_	_	
+25-34	5445-5447	as	_	_	_	
+25-35	5448-5453	three	_	_	_	
+25-36	5453-5454	.	_	_	_	
+
+#Text=A man will take care of one hundred  trees easily, during the season of sugar, which usually lasts from  about the middle of March into April, perhaps employing him twenty  days in the whole.
+26-1	5455-5456	A	_	_	_	
+26-2	5457-5460	man	_	_	_	
+26-3	5461-5465	will	_	_	_	
+26-4	5466-5470	take	_	_	_	
+26-5	5471-5475	care	_	_	_	
+26-6	5476-5478	of	_	_	_	
+26-7	5479-5482	one	_	_	_	
+26-8	5483-5490	hundred	_	_	_	
+26-9	5492-5497	trees	_	_	_	
+26-10	5498-5504	easily	_	_	_	
+26-11	5504-5505	,	_	_	_	
+26-12	5506-5512	during	_	_	_	
+26-13	5513-5516	the	_	_	_	
+26-14	5517-5523	season	_	_	_	
+26-15	5524-5526	of	_	_	_	
+26-16	5527-5532	sugar	_	_	_	
+26-17	5532-5533	,	_	_	_	
+26-18	5534-5539	which	_	_	_	
+26-19	5540-5547	usually	_	_	_	
+26-20	5548-5553	lasts	_	_	_	
+26-21	5554-5558	from	_	_	_	
+26-22	5560-5565	about	_	_	_	
+26-23	5566-5569	the	_	_	_	
+26-24	5570-5576	middle	_	_	_	
+26-25	5577-5579	of	_	_	_	
+26-26	5580-5585	March	_	_	_	
+26-27	5586-5590	into	_	_	_	
+26-28	5591-5596	April	_	_	_	
+26-29	5596-5597	,	_	_	_	
+26-30	5598-5605	perhaps	_	_	_	
+26-31	5606-5615	employing	_	_	_	
+26-32	5616-5619	him	_	_	_	
+26-33	5620-5626	twenty	_	_	_	
+26-34	5628-5632	days	_	_	_	
+26-35	5633-5635	in	_	_	_	
+26-36	5636-5639	the	_	_	_	
+26-37	5640-5645	whole	_	_	_	
+26-38	5645-5646	.	_	_	_	
+
+#Text=Dr.
+27-1	5647-5649	Dr	_	_	_	
+27-2	5649-5650	.	_	_	_	
+
+#Text=Jackson, in his Report of the Maine Geological  Survey, gives the following instances of the production of sugar in  that State:--    Lbs. of Sugar.
+28-1	5651-5658	Jackson	_	_	_	
+28-2	5658-5659	,	_	_	_	
+28-3	5660-5662	in	_	_	_	
+28-4	5663-5666	his	_	_	_	
+28-5	5667-5673	Report	_	_	_	
+28-6	5674-5676	of	_	_	_	
+28-7	5677-5680	the	_	_	_	
+28-8	5681-5686	Maine	_	_	_	
+28-9	5687-5697	Geological	_	_	_	
+28-10	5699-5705	Survey	_	_	_	
+28-11	5705-5706	,	_	_	_	
+28-12	5707-5712	gives	_	_	_	
+28-13	5713-5716	the	_	_	_	
+28-14	5717-5726	following	_	_	_	
+28-15	5727-5736	instances	_	_	_	
+28-16	5737-5739	of	_	_	_	
+28-17	5740-5743	the	_	_	_	
+28-18	5744-5754	production	_	_	_	
+28-19	5755-5757	of	_	_	_	
+28-20	5758-5763	sugar	_	_	_	
+28-21	5764-5766	in	_	_	_	
+28-22	5768-5772	that	_	_	_	
+28-23	5773-5778	State	_	_	_	
+28-24	5778-5779	:	_	_	_	
+28-25	5779-5780	-	_	_	_	
+28-26	5780-5781	-	_	_	_	
+28-27	5785-5788	Lbs	_	_	_	
+28-28	5788-5789	.	_	_	_	
+28-29	5790-5792	of	_	_	_	
+28-30	5793-5798	Sugar	_	_	_	
+28-31	5798-5799	.	_	_	_	
+
+#Text=At the Forks of the Kennebec, twelve persons made    3,605
+#Text=
+#Text=Another lot of the sap, reduced to sugar  without lime-water, granulated, but not so well, was sour to the  taste, deliquesced by exposure, and gave a considerable quantity of  molasses.
+29-1	5801-5803	At	_	_	_	
+29-2	5804-5807	the	_	_	_	
+29-3	5808-5813	Forks	_	_	_	
+29-4	5814-5816	of	_	_	_	
+29-5	5817-5820	the	_	_	_	
+29-6	5821-5829	Kennebec	_	_	_	
+29-7	5829-5830	,	_	_	_	
+29-8	5831-5837	twelve	_	_	_	
+29-9	5838-5845	persons	_	_	_	
+29-10	5846-5850	made	_	_	_	
+29-11	5854-5859	3,605	_	_	_	
+29-12	5861-5868	Another	_	_	_	
+29-13	5869-5872	lot	_	_	_	
+29-14	5873-5875	of	_	_	_	
+29-15	5876-5879	the	_	_	_	
+29-16	5880-5883	sap	_	_	_	
+29-17	5883-5884	,	_	_	_	
+29-18	5885-5892	reduced	_	_	_	
+29-19	5893-5895	to	_	_	_	
+29-20	5896-5901	sugar	Taste Source	_	_	
+29-21	5903-5910	without	Circumstance[22]	_	_	
+29-22	5911-5921	lime-water	Circumstance[22]	_	_	
+29-23	5921-5922	,	_	_	_	
+29-24	5923-5933	granulated	_	_	_	
+29-25	5933-5934	,	_	_	_	
+29-26	5935-5938	but	_	_	_	
+29-27	5939-5942	not	_	_	_	
+29-28	5943-5945	so	_	_	_	
+29-29	5946-5950	well	_	_	_	
+29-30	5950-5951	,	_	_	_	
+29-31	5952-5955	was	_	_	_	
+29-32	5956-5960	sour	Taste Word[23]|Quality[24]	*	29-32[24_23]	
+29-33	5961-5963	to	_	_	_	
+29-34	5964-5967	the	_	_	_	
+29-35	5969-5974	taste	Taste Word	*|*|*	29-32[24_0]|29-21[22_0]|29-20	
+29-36	5974-5975	,	_	_	_	
+29-37	5976-5987	deliquesced	_	_	_	
+29-38	5988-5990	by	_	_	_	
+29-39	5991-5999	exposure	_	_	_	
+29-40	5999-6000	,	_	_	_	
+29-41	6001-6004	and	_	_	_	
+29-42	6005-6009	gave	_	_	_	
+29-43	6010-6011	a	_	_	_	
+29-44	6012-6024	considerable	_	_	_	
+29-45	6025-6033	quantity	_	_	_	
+29-46	6034-6036	of	_	_	_	
+29-47	6038-6046	molasses	_	_	_	
+29-48	6046-6047	.	_	_	_	
+
+#Text=Having studied the nature of the peculiar acid of the maple, I found  that its combinations with lime were excessively soluble in alcohol,  so that the yellow sugar first described could be rendered white in  a few minutes, by placing it in an inverted cone open at the bottom,  and pouring a fresh quantity of alcohol upon it, and allowing it to  filtrate through the sugar.
+30-1	6051-6057	Having	_	_	_	
+30-2	6058-6065	studied	_	_	_	
+30-3	6066-6069	the	_	_	_	
+30-4	6070-6076	nature	_	_	_	
+30-5	6077-6079	of	_	_	_	
+30-6	6080-6083	the	_	_	_	
+30-7	6084-6092	peculiar	_	_	_	
+30-8	6093-6097	acid	_	_	_	
+30-9	6098-6100	of	_	_	_	
+30-10	6101-6104	the	_	_	_	
+30-11	6105-6110	maple	_	_	_	
+30-12	6110-6111	,	_	_	_	
+30-13	6112-6113	I	_	_	_	
+30-14	6114-6119	found	_	_	_	
+30-15	6121-6125	that	_	_	_	
+30-16	6126-6129	its	_	_	_	
+30-17	6130-6142	combinations	_	_	_	
+30-18	6143-6147	with	_	_	_	
+30-19	6148-6152	lime	_	_	_	
+30-20	6153-6157	were	_	_	_	
+30-21	6158-6169	excessively	_	_	_	
+30-22	6170-6177	soluble	_	_	_	
+30-23	6178-6180	in	_	_	_	
+30-24	6181-6188	alcohol	_	_	_	
+30-25	6188-6189	,	_	_	_	
+30-26	6191-6193	so	_	_	_	
+30-27	6194-6198	that	_	_	_	
+30-28	6199-6202	the	_	_	_	
+30-29	6203-6209	yellow	_	_	_	
+30-30	6210-6215	sugar	_	_	_	
+30-31	6216-6221	first	_	_	_	
+30-32	6222-6231	described	_	_	_	
+30-33	6232-6237	could	_	_	_	
+30-34	6238-6240	be	_	_	_	
+30-35	6241-6249	rendered	_	_	_	
+30-36	6250-6255	white	_	_	_	
+30-37	6256-6258	in	_	_	_	
+30-38	6260-6261	a	_	_	_	
+30-39	6262-6265	few	_	_	_	
+30-40	6266-6273	minutes	_	_	_	
+30-41	6273-6274	,	_	_	_	
+30-42	6275-6277	by	_	_	_	
+30-43	6278-6285	placing	_	_	_	
+30-44	6286-6288	it	_	_	_	
+30-45	6289-6291	in	_	_	_	
+30-46	6292-6294	an	_	_	_	
+30-47	6295-6303	inverted	_	_	_	
+30-48	6304-6308	cone	_	_	_	
+30-49	6309-6313	open	_	_	_	
+30-50	6314-6316	at	_	_	_	
+30-51	6317-6320	the	_	_	_	
+30-52	6321-6327	bottom	_	_	_	
+30-53	6327-6328	,	_	_	_	
+30-54	6330-6333	and	_	_	_	
+30-55	6334-6341	pouring	_	_	_	
+30-56	6342-6343	a	_	_	_	
+30-57	6344-6349	fresh	_	_	_	
+30-58	6350-6358	quantity	_	_	_	
+30-59	6359-6361	of	_	_	_	
+30-60	6362-6369	alcohol	_	_	_	
+30-61	6370-6374	upon	_	_	_	
+30-62	6375-6377	it	_	_	_	
+30-63	6377-6378	,	_	_	_	
+30-64	6379-6382	and	_	_	_	
+30-65	6383-6391	allowing	_	_	_	
+30-66	6392-6394	it	_	_	_	
+30-67	6395-6397	to	_	_	_	
+30-68	6399-6407	filtrate	_	_	_	
+30-69	6408-6415	through	_	_	_	
+30-70	6416-6419	the	_	_	_	
+30-71	6420-6425	sugar	_	_	_	
+30-72	6425-6426	.	_	_	_	
+
+#Text=The whitened sugar was then taken and  re-dissolved in boiling water and crystallised, by which all the  alcoholic flavour was entirely removed, and a perfectly fine  crystallised and pure sugar resulted.
+31-1	6427-6430	The	Taste Source[25]	_	_	
+31-2	6431-6439	whitened	Taste Source[25]	_	_	
+31-3	6440-6445	sugar	Taste Source[25]	_	_	
+31-4	6446-6449	was	_	_	_	
+31-5	6450-6454	then	_	_	_	
+31-6	6455-6460	taken	_	_	_	
+31-7	6461-6464	and	_	_	_	
+31-8	6466-6478	re-dissolved	_	_	_	
+31-9	6479-6481	in	_	_	_	
+31-10	6482-6489	boiling	_	_	_	
+31-11	6490-6495	water	_	_	_	
+31-12	6496-6499	and	_	_	_	
+31-13	6500-6512	crystallised	_	_	_	
+31-14	6512-6513	,	_	_	_	
+31-15	6514-6516	by	_	_	_	
+31-16	6517-6522	which	_	_	_	
+31-17	6523-6526	all	_	_	_	
+31-18	6527-6530	the	_	_	_	
+31-19	6532-6541	alcoholic	Quality	_	_	
+31-20	6542-6549	flavour	Taste Word	*|*	31-19|31-1[25_0]	
+31-21	6550-6553	was	_	_	_	
+31-22	6554-6562	entirely	_	_	_	
+31-23	6563-6570	removed	_	_	_	
+31-24	6570-6571	,	_	_	_	
+31-25	6572-6575	and	_	_	_	
+31-26	6576-6577	a	_	_	_	
+31-27	6578-6587	perfectly	_	_	_	
+31-28	6588-6592	fine	_	_	_	
+31-29	6594-6606	crystallised	_	_	_	
+31-30	6607-6610	and	_	_	_	
+31-31	6611-6615	pure	_	_	_	
+31-32	6616-6621	sugar	_	_	_	
+31-33	6622-6630	resulted	_	_	_	
+31-34	6630-6631	.	_	_	_	
+
+#Text=Now, in the large way, I  advise the following method of manufacturing maple sugar.
+32-1	6632-6635	Now	_	_	_	
+32-2	6635-6636	,	_	_	_	
+32-3	6637-6639	in	_	_	_	
+32-4	6640-6643	the	_	_	_	
+32-5	6644-6649	large	_	_	_	
+32-6	6650-6653	way	_	_	_	
+32-7	6653-6654	,	_	_	_	
+32-8	6655-6656	I	_	_	_	
+32-9	6658-6664	advise	_	_	_	
+32-10	6665-6668	the	_	_	_	
+32-11	6669-6678	following	_	_	_	
+32-12	6679-6685	method	_	_	_	
+32-13	6686-6688	of	_	_	_	
+32-14	6689-6702	manufacturing	_	_	_	
+32-15	6703-6708	maple	_	_	_	
+32-16	6709-6714	sugar	_	_	_	
+32-17	6714-6715	.	_	_	_	
+
+#Text=Obtain  several large copper or brass kettles, and set them up in a row,  either by tripods with iron rings, or by hanging them on a  cross-bar; clean them well, then collect the sap in buckets, if  possible, so that but little rain-water will be mixed with the sap, in the hills is fermented into a kind of beer or sweet wort, drank  warm.
+33-1	6716-6722	Obtain	_	_	_	
+33-2	6724-6731	several	_	_	_	
+33-3	6732-6737	large	_	_	_	
+33-4	6738-6744	copper	_	_	_	
+33-5	6745-6747	or	_	_	_	
+33-6	6748-6753	brass	_	_	_	
+33-7	6754-6761	kettles	_	_	_	
+33-8	6761-6762	,	_	_	_	
+33-9	6763-6766	and	_	_	_	
+33-10	6767-6770	set	_	_	_	
+33-11	6771-6775	them	_	_	_	
+33-12	6776-6778	up	_	_	_	
+33-13	6779-6781	in	_	_	_	
+33-14	6782-6783	a	_	_	_	
+33-15	6784-6787	row	_	_	_	
+33-16	6787-6788	,	_	_	_	
+33-17	6790-6796	either	_	_	_	
+33-18	6797-6799	by	_	_	_	
+33-19	6800-6807	tripods	_	_	_	
+33-20	6808-6812	with	_	_	_	
+33-21	6813-6817	iron	_	_	_	
+33-22	6818-6823	rings	_	_	_	
+33-23	6823-6824	,	_	_	_	
+33-24	6825-6827	or	_	_	_	
+33-25	6828-6830	by	_	_	_	
+33-26	6831-6838	hanging	_	_	_	
+33-27	6839-6843	them	_	_	_	
+33-28	6844-6846	on	_	_	_	
+33-29	6847-6848	a	_	_	_	
+33-30	6850-6859	cross-bar	_	_	_	
+33-31	6859-6860	;	_	_	_	
+33-32	6861-6866	clean	_	_	_	
+33-33	6867-6871	them	_	_	_	
+33-34	6872-6876	well	_	_	_	
+33-35	6876-6877	,	_	_	_	
+33-36	6878-6882	then	_	_	_	
+33-37	6883-6890	collect	_	_	_	
+33-38	6891-6894	the	_	_	_	
+33-39	6895-6898	sap	_	_	_	
+33-40	6899-6901	in	_	_	_	
+33-41	6902-6909	buckets	_	_	_	
+33-42	6909-6910	,	_	_	_	
+33-43	6911-6913	if	_	_	_	
+33-44	6915-6923	possible	_	_	_	
+33-45	6923-6924	,	_	_	_	
+33-46	6925-6927	so	_	_	_	
+33-47	6928-6932	that	_	_	_	
+33-48	6933-6936	but	_	_	_	
+33-49	6937-6943	little	_	_	_	
+33-50	6944-6954	rain-water	_	_	_	
+33-51	6955-6959	will	_	_	_	
+33-52	6960-6962	be	_	_	_	
+33-53	6963-6968	mixed	_	_	_	
+33-54	6969-6973	with	_	_	_	
+33-55	6974-6977	the	_	_	_	
+33-56	6978-6981	sap	_	_	_	
+33-57	6981-6982	,	_	_	_	
+33-58	6983-6985	in	_	_	_	
+33-59	6986-6989	the	_	_	_	
+33-60	6990-6995	hills	_	_	_	
+33-61	6996-6998	is	_	_	_	
+33-62	6999-7008	fermented	_	_	_	
+33-63	7009-7013	into	_	_	_	
+33-64	7014-7015	a	_	_	_	
+33-65	7016-7020	kind	_	_	_	
+33-66	7021-7023	of	_	_	_	
+33-67	7024-7028	beer	Taste Source	_	_	
+33-68	7029-7031	or	_	_	_	
+33-69	7032-7037	sweet	Taste Word[26]|Quality[27]	*|*	33-69[27_26]|33-70[0_26]	
+33-70	7038-7042	wort	Taste Source	_	_	
+33-71	7042-7043	,	_	_	_	
+33-72	7044-7049	drank	Taste Word	*|*|*	33-67|33-73|33-70	
+33-73	7051-7055	warm	Circumstance	_	_	
+33-74	7055-7056	.	_	_	_	
+
+#Text=_Holcus spicatus_, the _Panicum spicatum_ of Roxburgh, is cultivated  in Mysore, Behar, and the provinces more to the north.
+34-1	7060-7061	_	_	_	_	
+34-2	7061-7067	Holcus	_	_	_	
+34-3	7068-7076	spicatus	_	_	_	
+34-4	7076-7077	_	_	_	_	
+34-5	7077-7078	,	_	_	_	
+34-6	7079-7082	the	_	_	_	
+34-7	7083-7084	_	_	_	_	
+34-8	7084-7091	Panicum	_	_	_	
+34-9	7092-7100	spicatum	_	_	_	
+34-10	7100-7101	_	_	_	_	
+34-11	7102-7104	of	_	_	_	
+34-12	7105-7113	Roxburgh	_	_	_	
+34-13	7113-7114	,	_	_	_	
+34-14	7115-7117	is	_	_	_	
+34-15	7118-7128	cultivated	_	_	_	
+34-16	7130-7132	in	_	_	_	
+34-17	7133-7139	Mysore	_	_	_	
+34-18	7139-7140	,	_	_	_	
+34-19	7141-7146	Behar	_	_	_	
+34-20	7146-7147	,	_	_	_	
+34-21	7148-7151	and	_	_	_	
+34-22	7152-7155	the	_	_	_	
+34-23	7156-7165	provinces	_	_	_	
+34-24	7166-7170	more	_	_	_	
+34-25	7171-7173	to	_	_	_	
+34-26	7174-7177	the	_	_	_	
+34-27	7178-7183	north	_	_	_	
+34-28	7183-7184	.	_	_	_	
+
+#Text=From one to  four seers are sown on a biggah of land, and the yield is about four  maunds per acre.
+35-1	7187-7191	From	_	_	_	
+35-2	7192-7195	one	_	_	_	
+35-3	7196-7198	to	_	_	_	
+35-4	7200-7204	four	_	_	_	
+35-5	7205-7210	seers	_	_	_	
+35-6	7211-7214	are	_	_	_	
+35-7	7215-7219	sown	_	_	_	
+35-8	7220-7222	on	_	_	_	
+35-9	7223-7224	a	_	_	_	
+35-10	7225-7231	biggah	_	_	_	
+35-11	7232-7234	of	_	_	_	
+35-12	7235-7239	land	_	_	_	
+35-13	7239-7240	,	_	_	_	
+35-14	7241-7244	and	_	_	_	
+35-15	7245-7248	the	_	_	_	
+35-16	7249-7254	yield	_	_	_	
+35-17	7255-7257	is	_	_	_	
+35-18	7258-7263	about	_	_	_	
+35-19	7264-7268	four	_	_	_	
+35-20	7270-7276	maunds	_	_	_	
+35-21	7277-7280	per	_	_	_	
+35-22	7281-7285	acre	_	_	_	
+35-23	7285-7286	.	_	_	_	
+
+#Text=It is sown after the heavy rains commence, and the  plough serves to cover the seed.
+36-1	7287-7289	It	_	_	_	
+36-2	7290-7292	is	_	_	_	
+36-3	7293-7297	sown	_	_	_	
+36-4	7298-7303	after	_	_	_	
+36-5	7304-7307	the	_	_	_	
+36-6	7308-7313	heavy	_	_	_	
+36-7	7314-7319	rains	_	_	_	
+36-8	7320-7328	commence	_	_	_	
+36-9	7328-7329	,	_	_	_	
+36-10	7330-7333	and	_	_	_	
+36-11	7334-7337	the	_	_	_	
+36-12	7339-7345	plough	_	_	_	
+36-13	7346-7352	serves	_	_	_	
+36-14	7353-7355	to	_	_	_	
+36-15	7356-7361	cover	_	_	_	
+36-16	7362-7365	the	_	_	_	
+36-17	7366-7370	seed	_	_	_	
+36-18	7370-7371	.	_	_	_	
+
+#Text=The crop is ripe in three months, and  the ears only are taken off at first.
+37-1	7372-7375	The	_	_	_	
+37-2	7376-7380	crop	_	_	_	
+37-3	7381-7383	is	_	_	_	
+37-4	7384-7388	ripe	_	_	_	
+37-5	7389-7391	in	_	_	_	
+37-6	7392-7397	three	_	_	_	
+37-7	7398-7404	months	_	_	_	
+37-8	7404-7405	,	_	_	_	
+37-9	7406-7409	and	_	_	_	
+37-10	7411-7414	the	_	_	_	
+37-11	7415-7419	ears	_	_	_	
+37-12	7420-7424	only	_	_	_	
+37-13	7425-7428	are	_	_	_	
+37-14	7429-7434	taken	_	_	_	
+37-15	7435-7438	off	_	_	_	
+37-16	7439-7441	at	_	_	_	
+37-17	7442-7447	first	_	_	_	
+37-18	7447-7448	.	_	_	_	
+
+#Text=Afterwards the straw is cut down  close to the surface of the soil, to be used for thatching, for it is  not much in request as fodder.
+38-1	7449-7459	Afterwards	_	_	_	
+38-2	7460-7463	the	_	_	_	
+38-3	7464-7469	straw	_	_	_	
+38-4	7470-7472	is	_	_	_	
+38-5	7473-7476	cut	_	_	_	
+38-6	7477-7481	down	_	_	_	
+38-7	7483-7488	close	_	_	_	
+38-8	7489-7491	to	_	_	_	
+38-9	7492-7495	the	_	_	_	
+38-10	7496-7503	surface	_	_	_	
+38-11	7504-7506	of	_	_	_	
+38-12	7507-7510	the	_	_	_	
+38-13	7511-7515	soil	_	_	_	
+38-14	7515-7516	,	_	_	_	
+38-15	7517-7519	to	_	_	_	
+38-16	7520-7522	be	_	_	_	
+38-17	7523-7527	used	_	_	_	
+38-18	7528-7531	for	_	_	_	
+38-19	7532-7541	thatching	_	_	_	
+38-20	7541-7542	,	_	_	_	
+38-21	7543-7546	for	_	_	_	
+38-22	7547-7549	it	_	_	_	
+38-23	7550-7552	is	_	_	_	
+38-24	7554-7557	not	_	_	_	
+38-25	7558-7562	much	_	_	_	
+38-26	7563-7565	in	_	_	_	
+38-27	7566-7573	request	_	_	_	
+38-28	7574-7576	as	_	_	_	
+38-29	7577-7583	fodder	_	_	_	
+38-30	7583-7584	.	_	_	_	
+
+#Text=Being a grain of small price, it is a  common food of the poorer class of natives, and really yields a sweet  palatable flour.
+39-1	7585-7590	Being	_	_	_	
+39-2	7591-7592	a	_	_	_	
+39-3	7593-7598	grain	_	_	_	
+39-4	7599-7601	of	_	_	_	
+39-5	7602-7607	small	_	_	_	
+39-6	7608-7613	price	_	_	_	
+39-7	7613-7614	,	_	_	_	
+39-8	7615-7617	it	_	_	_	
+39-9	7618-7620	is	_	_	_	
+39-10	7621-7622	a	_	_	_	
+39-11	7624-7630	common	_	_	_	
+39-12	7631-7635	food	_	_	_	
+39-13	7636-7638	of	_	_	_	
+39-14	7639-7642	the	_	_	_	
+39-15	7643-7649	poorer	_	_	_	
+39-16	7650-7655	class	_	_	_	
+39-17	7656-7658	of	_	_	_	
+39-18	7659-7666	natives	_	_	_	
+39-19	7666-7667	,	_	_	_	
+39-20	7668-7671	and	_	_	_	
+39-21	7672-7678	really	_	_	_	
+39-22	7679-7685	yields	_	_	_	
+39-23	7686-7687	a	_	_	_	
+39-24	7688-7693	sweet	Taste Word[28]|Quality[29]	*|*	39-24[29_28]|39-26[0_28]	
+39-25	7695-7704	palatable	Taste Word[30]|Quality[31]	*|*	39-25[31_30]|39-26[0_30]	
+39-26	7705-7710	flour	Taste Source	_	_	
+39-27	7710-7711	.	_	_	_	
+
+#Text=It is also excellent as a fattening grain for  poultry.
+40-1	7712-7714	It	_	_	_	
+40-2	7715-7717	is	_	_	_	
+40-3	7718-7722	also	_	_	_	
+40-4	7723-7732	excellent	_	_	_	
+40-5	7733-7735	as	_	_	_	
+40-6	7736-7737	a	_	_	_	
+40-7	7738-7747	fattening	_	_	_	
+40-8	7748-7753	grain	_	_	_	
+40-9	7754-7757	for	_	_	_	
+40-10	7759-7766	poultry	_	_	_	
+40-11	7766-7767	.	_	_	_	
+
+#Text=The _Poa Abyssinica_is one of the bread-corns of Abyssinia.
+41-1	7771-7774	The	_	_	_	
+41-2	7775-7776	_	_	_	_	
+41-3	7776-7779	Poa	_	_	_	
+41-4	7780-7793	Abyssinica_is	_	_	_	
+41-5	7794-7797	one	_	_	_	
+41-6	7798-7800	of	_	_	_	
+41-7	7801-7804	the	_	_	_	
+41-8	7805-7816	bread-corns	_	_	_	
+41-9	7817-7819	of	_	_	_	
+41-10	7820-7829	Abyssinia	_	_	_	
+41-11	7829-7830	.	_	_	_	
+
+#Text=The bread  made from it is called _teff_, and is the ordinary food of the  country, that made from wheat being only used by the higher classes.
+42-1	7831-7834	The	_	_	_	
+42-2	7835-7840	bread	_	_	_	
+42-3	7842-7846	made	_	_	_	
+42-4	7847-7851	from	_	_	_	
+42-5	7852-7854	it	_	_	_	
+42-6	7855-7857	is	_	_	_	
+42-7	7858-7864	called	_	_	_	
+42-8	7865-7866	_	_	_	_	
+42-9	7866-7870	teff	_	_	_	
+42-10	7870-7871	_	_	_	_	
+42-11	7871-7872	,	_	_	_	
+42-12	7873-7876	and	_	_	_	
+42-13	7877-7879	is	_	_	_	
+42-14	7880-7883	the	_	_	_	
+42-15	7884-7892	ordinary	_	_	_	
+42-16	7893-7897	food	_	_	_	
+42-17	7898-7900	of	_	_	_	
+42-18	7901-7904	the	_	_	_	
+42-19	7906-7913	country	_	_	_	
+42-20	7913-7914	,	_	_	_	
+42-21	7915-7919	that	_	_	_	
+42-22	7920-7924	made	_	_	_	
+42-23	7925-7929	from	_	_	_	
+42-24	7930-7935	wheat	_	_	_	
+42-25	7936-7941	being	_	_	_	
+42-26	7942-7946	only	_	_	_	
+42-27	7947-7951	used	_	_	_	
+42-28	7952-7954	by	_	_	_	
+42-29	7955-7958	the	_	_	_	
+42-30	7959-7965	higher	_	_	_	
+42-31	7966-7973	classes	_	_	_	
+42-32	7973-7974	.	_	_	_	
+
+#Text=The way of manufacturing it is by allowing the dough to become sour,  when, generating carbonic acid gas, it serves instead of yeast.
+43-1	7976-7979	The	_	_	_	
+43-2	7980-7983	way	_	_	_	
+43-3	7984-7986	of	_	_	_	
+43-4	7987-8000	manufacturing	_	_	_	
+43-5	8001-8003	it	_	_	_	
+43-6	8004-8006	is	_	_	_	
+43-7	8007-8009	by	_	_	_	
+43-8	8010-8018	allowing	_	_	_	
+43-9	8019-8022	the	Taste Source[32]	_	_	
+43-10	8023-8028	dough	Taste Source[32]	_	_	
+43-11	8029-8031	to	_	_	_	
+43-12	8032-8038	become	_	_	_	
+43-13	8039-8043	sour	Taste Word[33]|Quality[34]	*|*	43-13[34_33]|43-9[32_33]	
+43-14	8043-8044	,	_	_	_	
+43-15	8046-8050	when	_	_	_	
+43-16	8050-8051	,	_	_	_	
+43-17	8052-8062	generating	_	_	_	
+43-18	8063-8071	carbonic	_	_	_	
+43-19	8072-8076	acid	_	_	_	
+43-20	8077-8080	gas	_	_	_	
+43-21	8080-8081	,	_	_	_	
+43-22	8082-8084	it	_	_	_	
+43-23	8085-8091	serves	_	_	_	
+43-24	8092-8099	instead	_	_	_	
+43-25	8100-8102	of	_	_	_	
+43-26	8103-8108	yeast	_	_	_	
+43-27	8108-8109	.	_	_	_	
+
+#Text=It is Commercial, of English manufacture    
+#Text=
+#Text=That the extremes in this table should occur in the case of the  starches of commerce, was, perhaps, to be expected; nevertheless the  difference between the starch of the sweet potato and that of the  bitter cassava is nearly as great, and both these specimens were  prepared in the laboratory, by the same process, and subject to the  same temperature and exposure.
+44-1	8110-8112	It	_	_	_	
+44-2	8113-8115	is	_	_	_	
+44-3	8116-8126	Commercial	_	_	_	
+44-4	8126-8127	,	_	_	_	
+44-5	8128-8130	of	_	_	_	
+44-6	8131-8138	English	_	_	_	
+44-7	8139-8150	manufacture	_	_	_	
+44-8	8156-8160	That	_	_	_	
+44-9	8161-8164	the	_	_	_	
+44-10	8165-8173	extremes	_	_	_	
+44-11	8174-8176	in	_	_	_	
+44-12	8177-8181	this	_	_	_	
+44-13	8182-8187	table	_	_	_	
+44-14	8188-8194	should	_	_	_	
+44-15	8195-8200	occur	_	_	_	
+44-16	8201-8203	in	_	_	_	
+44-17	8204-8207	the	_	_	_	
+44-18	8208-8212	case	_	_	_	
+44-19	8213-8215	of	_	_	_	
+44-20	8216-8219	the	_	_	_	
+44-21	8221-8229	starches	_	_	_	
+44-22	8230-8232	of	_	_	_	
+44-23	8233-8241	commerce	_	_	_	
+44-24	8241-8242	,	_	_	_	
+44-25	8243-8246	was	_	_	_	
+44-26	8246-8247	,	_	_	_	
+44-27	8248-8255	perhaps	_	_	_	
+44-28	8255-8256	,	_	_	_	
+44-29	8257-8259	to	_	_	_	
+44-30	8260-8262	be	_	_	_	
+44-31	8263-8271	expected	_	_	_	
+44-32	8271-8272	;	_	_	_	
+44-33	8273-8285	nevertheless	_	_	_	
+44-34	8286-8289	the	_	_	_	
+44-35	8291-8301	difference	_	_	_	
+44-36	8302-8309	between	_	_	_	
+44-37	8310-8313	the	_	_	_	
+44-38	8314-8320	starch	_	_	_	
+44-39	8321-8323	of	_	_	_	
+44-40	8324-8327	the	_	_	_	
+44-41	8328-8333	sweet	Taste Word[35]|Quality[36]	*|*	44-42[0_35]|44-41[36_35]	
+44-42	8334-8340	potato	Taste Source	_	_	
+44-43	8341-8344	and	_	_	_	
+44-44	8345-8349	that	_	_	_	
+44-45	8350-8352	of	_	_	_	
+44-46	8353-8356	the	_	_	_	
+44-47	8358-8364	bitter	Taste Word[37]|Quality[38]	*|*	44-47[38_37]|44-48[0_37]	
+44-48	8365-8372	cassava	Taste Source	_	_	
+44-49	8373-8375	is	_	_	_	
+44-50	8376-8382	nearly	_	_	_	
+44-51	8383-8385	as	_	_	_	
+44-52	8386-8391	great	_	_	_	
+44-53	8391-8392	,	_	_	_	
+44-54	8393-8396	and	_	_	_	
+44-55	8397-8401	both	_	_	_	
+44-56	8402-8407	these	_	_	_	
+44-57	8408-8417	specimens	_	_	_	
+44-58	8418-8422	were	_	_	_	
+44-59	8424-8432	prepared	_	_	_	
+44-60	8433-8435	in	_	_	_	
+44-61	8436-8439	the	_	_	_	
+44-62	8440-8450	laboratory	_	_	_	
+44-63	8450-8451	,	_	_	_	
+44-64	8452-8454	by	_	_	_	
+44-65	8455-8458	the	_	_	_	
+44-66	8459-8463	same	_	_	_	
+44-67	8464-8471	process	_	_	_	
+44-68	8471-8472	,	_	_	_	
+44-69	8473-8476	and	_	_	_	
+44-70	8477-8484	subject	_	_	_	
+44-71	8485-8487	to	_	_	_	
+44-72	8488-8491	the	_	_	_	
+44-73	8493-8497	same	_	_	_	
+44-74	8498-8509	temperature	_	_	_	
+44-75	8510-8513	and	_	_	_	
+44-76	8514-8522	exposure	_	_	_	
+44-77	8522-8523	.	_	_	_	
+
+#Text=From the foregoing list it appears that the sweet and bitter cassava  merit attention as starch-producing plants.
+45-1	8527-8531	From	_	_	_	
+45-2	8532-8535	the	_	_	_	
+45-3	8536-8545	foregoing	_	_	_	
+45-4	8546-8550	list	_	_	_	
+45-5	8551-8553	it	_	_	_	
+45-6	8554-8561	appears	_	_	_	
+45-7	8562-8566	that	_	_	_	
+45-8	8567-8570	the	_	_	_	
+45-9	8571-8576	sweet	Taste Word[39]|Quality[40]	*|*	45-9[40_39]|45-12[0_39]	
+45-10	8577-8580	and	_	_	_	
+45-11	8581-8587	bitter	Taste Word[41]|Quality[42]	*|*	45-11[42_41]|45-12[0_41]	
+45-12	8588-8595	cassava	Taste Source	_	_	
+45-13	8597-8602	merit	_	_	_	
+45-14	8603-8612	attention	_	_	_	
+45-15	8613-8615	as	_	_	_	
+45-16	8616-8632	starch-producing	_	_	_	
+45-17	8633-8639	plants	_	_	_	
+45-18	8639-8640	.	_	_	_	
+
+#Text=They are occasionally  grown for this purpose in the colonies, and yield a large per centage  of starch; but there exists an opinion, whether well or ill founded,  that it is liable to rot linen, and the preference is given here to  the starch of arrowroot.
+46-1	8641-8645	They	_	_	_	
+46-2	8646-8649	are	_	_	_	
+46-3	8650-8662	occasionally	_	_	_	
+46-4	8664-8669	grown	_	_	_	
+46-5	8670-8673	for	_	_	_	
+46-6	8674-8678	this	_	_	_	
+46-7	8679-8686	purpose	_	_	_	
+46-8	8687-8689	in	_	_	_	
+46-9	8690-8693	the	_	_	_	
+46-10	8694-8702	colonies	_	_	_	
+46-11	8702-8703	,	_	_	_	
+46-12	8704-8707	and	_	_	_	
+46-13	8708-8713	yield	_	_	_	
+46-14	8714-8715	a	_	_	_	
+46-15	8716-8721	large	_	_	_	
+46-16	8722-8725	per	_	_	_	
+46-17	8726-8733	centage	_	_	_	
+46-18	8735-8737	of	_	_	_	
+46-19	8738-8744	starch	_	_	_	
+46-20	8744-8745	;	_	_	_	
+46-21	8746-8749	but	_	_	_	
+46-22	8750-8755	there	_	_	_	
+46-23	8756-8762	exists	_	_	_	
+46-24	8763-8765	an	_	_	_	
+46-25	8766-8773	opinion	_	_	_	
+46-26	8773-8774	,	_	_	_	
+46-27	8775-8782	whether	_	_	_	
+46-28	8783-8787	well	_	_	_	
+46-29	8788-8790	or	_	_	_	
+46-30	8791-8794	ill	_	_	_	
+46-31	8795-8802	founded	_	_	_	
+46-32	8802-8803	,	_	_	_	
+46-33	8805-8809	that	_	_	_	
+46-34	8810-8812	it	_	_	_	
+46-35	8813-8815	is	_	_	_	
+46-36	8816-8822	liable	_	_	_	
+46-37	8823-8825	to	_	_	_	
+46-38	8826-8829	rot	_	_	_	
+46-39	8830-8835	linen	_	_	_	
+46-40	8835-8836	,	_	_	_	
+46-41	8837-8840	and	_	_	_	
+46-42	8841-8844	the	_	_	_	
+46-43	8845-8855	preference	_	_	_	
+46-44	8856-8858	is	_	_	_	
+46-45	8859-8864	given	_	_	_	
+46-46	8865-8869	here	_	_	_	
+46-47	8870-8872	to	_	_	_	
+46-48	8874-8877	the	_	_	_	
+46-49	8878-8884	starch	_	_	_	
+46-50	8885-8887	of	_	_	_	
+46-51	8888-8897	arrowroot	_	_	_	
+46-52	8897-8898	.	_	_	_	
+
+#Text=It remains to be seen, however, what estimate  will be formed of this starch in England, for if it should prove an  esteemed variety, there can be no doubt of its proving a highly  profitable cultivation.
+47-1	8899-8901	It	_	_	_	
+47-2	8902-8909	remains	_	_	_	
+47-3	8910-8912	to	_	_	_	
+47-4	8913-8915	be	_	_	_	
+47-5	8916-8920	seen	_	_	_	
+47-6	8920-8921	,	_	_	_	
+47-7	8922-8929	however	_	_	_	
+47-8	8929-8930	,	_	_	_	
+47-9	8931-8935	what	_	_	_	
+47-10	8936-8944	estimate	_	_	_	
+47-11	8946-8950	will	_	_	_	
+47-12	8951-8953	be	_	_	_	
+47-13	8954-8960	formed	_	_	_	
+47-14	8961-8963	of	_	_	_	
+47-15	8964-8968	this	_	_	_	
+47-16	8969-8975	starch	_	_	_	
+47-17	8976-8978	in	_	_	_	
+47-18	8979-8986	England	_	_	_	
+47-19	8986-8987	,	_	_	_	
+47-20	8988-8991	for	_	_	_	
+47-21	8992-8994	if	_	_	_	
+47-22	8995-8997	it	_	_	_	
+47-23	8998-9004	should	_	_	_	
+47-24	9005-9010	prove	_	_	_	
+47-25	9011-9013	an	_	_	_	
+47-26	9015-9023	esteemed	_	_	_	
+47-27	9024-9031	variety	_	_	_	
+47-28	9031-9032	,	_	_	_	
+47-29	9033-9038	there	_	_	_	
+47-30	9039-9042	can	_	_	_	
+47-31	9043-9045	be	_	_	_	
+47-32	9046-9048	no	_	_	_	
+47-33	9049-9054	doubt	_	_	_	
+47-34	9055-9057	of	_	_	_	
+47-35	9058-9061	its	_	_	_	
+47-36	9062-9069	proving	_	_	_	
+47-37	9070-9071	a	_	_	_	
+47-38	9072-9078	highly	_	_	_	
+47-39	9080-9090	profitable	_	_	_	
+47-40	9091-9102	cultivation	_	_	_	
+47-41	9102-9103	.	_	_	_	
+
+#Text=Cassava grows readily in almost any soil, and  when the drainage is tolerable, two crops of the sweet variety can, it  is stated be grown in a year.
+48-1	9104-9111	Cassava	Taste Source	_	_	
+48-2	9112-9117	grows	_	_	_	
+48-3	9118-9125	readily	_	_	_	
+48-4	9126-9128	in	_	_	_	
+48-5	9129-9135	almost	_	_	_	
+48-6	9136-9139	any	_	_	_	
+48-7	9140-9144	soil	_	_	_	
+48-8	9144-9145	,	_	_	_	
+48-9	9146-9149	and	_	_	_	
+48-10	9151-9155	when	_	_	_	
+48-11	9156-9159	the	_	_	_	
+48-12	9160-9168	drainage	_	_	_	
+48-13	9169-9171	is	_	_	_	
+48-14	9172-9181	tolerable	_	_	_	
+48-15	9181-9182	,	_	_	_	
+48-16	9183-9186	two	_	_	_	
+48-17	9187-9192	crops	_	_	_	
+48-18	9193-9195	of	_	_	_	
+48-19	9196-9199	the	_	_	_	
+48-20	9200-9205	sweet	Taste Word[43]|Quality[44]	*|*	48-20[44_43]|48-1[0_43]	
+48-21	9206-9213	variety	_	_	_	
+48-22	9214-9217	can	_	_	_	
+48-23	9217-9218	,	_	_	_	
+48-24	9219-9221	it	_	_	_	
+48-25	9223-9225	is	_	_	_	
+48-26	9226-9232	stated	_	_	_	
+48-27	9233-9235	be	_	_	_	
+48-28	9236-9241	grown	_	_	_	
+48-29	9242-9244	in	_	_	_	
+48-30	9245-9246	a	_	_	_	
+48-31	9247-9251	year	_	_	_	
+48-32	9251-9252	.	_	_	_	
+
+#Text=I have seen it growing luxuriantly in  the light soils of the interior, as well as in the stiff clay soils of  the coasts.
+49-1	9253-9254	I	_	_	_	
+49-2	9255-9259	have	_	_	_	
+49-3	9260-9264	seen	_	_	_	
+49-4	9265-9267	it	_	_	_	
+49-5	9268-9275	growing	_	_	_	
+49-6	9276-9287	luxuriantly	_	_	_	
+49-7	9288-9290	in	_	_	_	
+49-8	9292-9295	the	_	_	_	
+49-9	9296-9301	light	_	_	_	
+49-10	9302-9307	soils	_	_	_	
+49-11	9308-9310	of	_	_	_	
+49-12	9311-9314	the	_	_	_	
+49-13	9315-9323	interior	_	_	_	
+49-14	9323-9324	,	_	_	_	
+49-15	9325-9327	as	_	_	_	
+49-16	9328-9332	well	_	_	_	
+49-17	9333-9335	as	_	_	_	
+49-18	9336-9338	in	_	_	_	
+49-19	9339-9342	the	_	_	_	
+49-20	9343-9348	stiff	_	_	_	
+49-21	9349-9353	clay	_	_	_	
+49-22	9354-9359	soils	_	_	_	
+49-23	9360-9362	of	_	_	_	
+49-24	9364-9367	the	_	_	_	
+49-25	9368-9374	coasts	_	_	_	
+49-26	9374-9375	.	_	_	_	
+
+#Text=It is considered an excellent preparatory crop in new and  stiff land, on account of its tendency to loosen the soil.
+50-1	9376-9378	It	_	_	_	
+50-2	9379-9381	is	_	_	_	
+50-3	9382-9392	considered	_	_	_	
+50-4	9393-9395	an	_	_	_	
+50-5	9396-9405	excellent	_	_	_	
+50-6	9406-9417	preparatory	_	_	_	
+50-7	9418-9422	crop	_	_	_	
+50-8	9423-9425	in	_	_	_	
+50-9	9426-9429	new	_	_	_	
+50-10	9430-9433	and	_	_	_	
+50-11	9435-9440	stiff	_	_	_	
+50-12	9441-9445	land	_	_	_	
+50-13	9445-9446	,	_	_	_	
+50-14	9447-9449	on	_	_	_	
+50-15	9450-9457	account	_	_	_	
+50-16	9458-9460	of	_	_	_	
+50-17	9461-9464	its	_	_	_	
+50-18	9465-9473	tendency	_	_	_	
+50-19	9474-9476	to	_	_	_	
+50-20	9477-9483	loosen	_	_	_	
+50-21	9484-9487	the	_	_	_	
+50-22	9488-9492	soil	_	_	_	
+50-23	9492-9493	.	_	_	_	
+
+#Text=Were the  bitter variety fixed on, the preparation of _Casareep_ might be  combined with the preparation of starch; and as that substance is one  of the most esteemed bases for the preparation of various sauces, it  is probable that this might turn out the most profitable part of the  produce.
+51-1	9494-9498	Were	_	_	_	
+51-2	9499-9502	the	_	_	_	
+51-3	9504-9510	bitter	Taste Word[45]|Quality[46]	*|*	51-3[46_45]|48-1[0_45]	
+51-4	9511-9518	variety	_	_	_	
+51-5	9519-9524	fixed	_	_	_	
+51-6	9525-9527	on	_	_	_	
+51-7	9527-9528	,	_	_	_	
+51-8	9529-9532	the	_	_	_	
+51-9	9533-9544	preparation	_	_	_	
+51-10	9545-9547	of	_	_	_	
+51-11	9548-9549	_	_	_	_	
+51-12	9549-9557	Casareep	_	_	_	
+51-13	9557-9558	_	_	_	_	
+51-14	9559-9564	might	_	_	_	
+51-15	9565-9567	be	_	_	_	
+51-16	9569-9577	combined	_	_	_	
+51-17	9578-9582	with	_	_	_	
+51-18	9583-9586	the	_	_	_	
+51-19	9587-9598	preparation	_	_	_	
+51-20	9599-9601	of	_	_	_	
+51-21	9602-9608	starch	_	_	_	
+51-22	9608-9609	;	_	_	_	
+51-23	9610-9613	and	_	_	_	
+51-24	9614-9616	as	_	_	_	
+51-25	9617-9621	that	_	_	_	
+51-26	9622-9631	substance	_	_	_	
+51-27	9632-9634	is	_	_	_	
+51-28	9635-9638	one	_	_	_	
+51-29	9640-9642	of	_	_	_	
+51-30	9643-9646	the	_	_	_	
+51-31	9647-9651	most	_	_	_	
+51-32	9652-9660	esteemed	_	_	_	
+51-33	9661-9666	bases	_	_	_	
+51-34	9667-9670	for	_	_	_	
+51-35	9671-9674	the	_	_	_	
+51-36	9675-9686	preparation	_	_	_	
+51-37	9687-9689	of	_	_	_	
+51-38	9690-9697	various	_	_	_	
+51-39	9698-9704	sauces	_	_	_	
+51-40	9704-9705	,	_	_	_	
+51-41	9706-9708	it	_	_	_	
+51-42	9710-9712	is	_	_	_	
+51-43	9713-9721	probable	_	_	_	
+51-44	9722-9726	that	_	_	_	
+51-45	9727-9731	this	_	_	_	
+51-46	9732-9737	might	_	_	_	
+51-47	9738-9742	turn	_	_	_	
+51-48	9743-9746	out	_	_	_	
+51-49	9747-9750	the	_	_	_	
+51-50	9751-9755	most	_	_	_	
+51-51	9756-9766	profitable	_	_	_	
+51-52	9767-9771	part	_	_	_	
+51-53	9772-9774	of	_	_	_	
+51-54	9775-9778	the	_	_	_	
+51-55	9780-9787	produce	_	_	_	
+51-56	9787-9788	.	_	_	_	
+
+#Text=At all events, bitter cassava would have this advantage over  all other starch-producing roots, that the juice of the roots could be turned, to account as well as the starch nor is it possessed of any unpalatable flavor, the pecularity being  between that of rice and the potato.
+52-1	9789-9791	At	_	_	_	
+52-2	9792-9795	all	_	_	_	
+52-3	9796-9802	events	_	_	_	
+52-4	9802-9803	,	_	_	_	
+52-5	9804-9810	bitter	Taste Word[47]|Quality[48]	*|*	52-5[48_47]|52-6[0_47]	
+52-6	9811-9818	cassava	Taste Source	_	_	
+52-7	9819-9824	would	_	_	_	
+52-8	9825-9829	have	_	_	_	
+52-9	9830-9834	this	_	_	_	
+52-10	9835-9844	advantage	_	_	_	
+52-11	9845-9849	over	_	_	_	
+52-12	9851-9854	all	_	_	_	
+52-13	9855-9860	other	_	_	_	
+52-14	9861-9877	starch-producing	_	_	_	
+52-15	9878-9883	roots	_	_	_	
+52-16	9883-9884	,	_	_	_	
+52-17	9885-9889	that	_	_	_	
+52-18	9890-9893	the	Taste Source[49]	_	_	
+52-19	9894-9899	juice	Taste Source[49]	_	_	
+52-20	9900-9902	of	Taste Source[49]	_	_	
+52-21	9903-9906	the	Taste Source[49]	_	_	
+52-22	9907-9912	roots	Taste Source[49]	_	_	
+52-23	9913-9918	could	_	_	_	
+52-24	9919-9921	be	_	_	_	
+52-25	9922-9928	turned	_	_	_	
+52-26	9928-9929	,	_	_	_	
+52-27	9930-9932	to	_	_	_	
+52-28	9933-9940	account	_	_	_	
+52-29	9941-9943	as	_	_	_	
+52-30	9944-9948	well	_	_	_	
+52-31	9949-9951	as	_	_	_	
+52-32	9952-9955	the	_	_	_	
+52-33	9956-9962	starch	_	_	_	
+52-34	9963-9966	nor	_	_	_	
+52-35	9967-9969	is	_	_	_	
+52-36	9970-9972	it	_	_	_	
+52-37	9973-9982	possessed	_	_	_	
+52-38	9983-9985	of	_	_	_	
+52-39	9986-9989	any	Quality	_	_	
+52-40	9990-10001	unpalatable	Quality[50]|Taste Word[51]	*|*	52-40[50_51]|52-39[0_51]	
+52-41	10002-10008	flavor	Taste Word	*|*	52-40[50_0]|52-18[49_0]	
+52-42	10008-10009	,	_	_	_	
+52-43	10010-10013	the	_	_	_	
+52-44	10014-10024	pecularity	_	_	_	
+52-45	10025-10030	being	_	_	_	
+52-46	10032-10039	between	_	_	_	
+52-47	10040-10044	that	_	_	_	
+52-48	10045-10047	of	_	_	_	
+52-49	10048-10052	rice	_	_	_	
+52-50	10053-10056	and	_	_	_	
+52-51	10057-10060	the	_	_	_	
+52-52	10061-10067	potato	_	_	_	
+52-53	10067-10068	.	_	_	_	
+
+#Text=Dressed in milk, or mashed, they  are absolutely a delicacy; and from the abundance in which they are  cultivated in the West Indies and other parts, they promise to become  a most economical and nutritious substitute for the potato.
+53-1	10069-10076	Dressed	Circumstance[52]	_	_	
+53-2	10077-10079	in	Circumstance[52]	_	_	
+53-3	10080-10084	milk	Circumstance[52]	_	_	
+53-4	10084-10085	,	_	_	_	
+53-5	10086-10088	or	_	_	_	
+53-6	10089-10095	mashed	Circumstance	_	_	
+53-7	10095-10096	,	_	_	_	
+53-8	10097-10101	they	_	_	_	
+53-9	10103-10106	are	_	_	_	
+53-10	10107-10117	absolutely	_	_	_	
+53-11	10118-10119	a	_	_	_	
+53-12	10120-10128	delicacy	Taste Word	*|*	53-1[52_0]|53-6	
+53-13	10128-10129	;	_	_	_	
+53-14	10130-10133	and	_	_	_	
+53-15	10134-10138	from	_	_	_	
+53-16	10139-10142	the	_	_	_	
+53-17	10143-10152	abundance	_	_	_	
+53-18	10153-10155	in	_	_	_	
+53-19	10156-10161	which	_	_	_	
+53-20	10162-10166	they	_	_	_	
+53-21	10167-10170	are	_	_	_	
+53-22	10172-10182	cultivated	_	_	_	
+53-23	10183-10185	in	_	_	_	
+53-24	10186-10189	the	_	_	_	
+53-25	10190-10194	West	_	_	_	
+53-26	10195-10201	Indies	_	_	_	
+53-27	10202-10205	and	_	_	_	
+53-28	10206-10211	other	_	_	_	
+53-29	10212-10217	parts	_	_	_	
+53-30	10217-10218	,	_	_	_	
+53-31	10219-10223	they	_	_	_	
+53-32	10224-10231	promise	_	_	_	
+53-33	10232-10234	to	_	_	_	
+53-34	10235-10241	become	_	_	_	
+53-35	10243-10244	a	_	_	_	
+53-36	10245-10249	most	_	_	_	
+53-37	10250-10260	economical	_	_	_	
+53-38	10261-10264	and	_	_	_	
+53-39	10265-10275	nutritious	_	_	_	
+53-40	10276-10286	substitute	_	_	_	
+53-41	10287-10290	for	_	_	_	
+53-42	10291-10294	the	_	_	_	
+53-43	10295-10301	potato	_	_	_	
+53-44	10301-10302	.	_	_	_	
+
+#Text=The yam frequently grows to the enormous size of forty or fifty pounds  weight, but in this large state it is coarse-flavored and fibrous.
+54-1	10306-10309	The	_	_	_	
+54-2	10310-10313	yam	_	_	_	
+54-3	10314-10324	frequently	_	_	_	
+54-4	10325-10330	grows	_	_	_	
+54-5	10331-10333	to	_	_	_	
+54-6	10334-10337	the	_	_	_	
+54-7	10338-10346	enormous	_	_	_	
+54-8	10347-10351	size	_	_	_	
+54-9	10352-10354	of	_	_	_	
+54-10	10355-10360	forty	_	_	_	
+54-11	10361-10363	or	_	_	_	
+54-12	10364-10369	fifty	_	_	_	
+54-13	10370-10376	pounds	_	_	_	
+54-14	10378-10384	weight	_	_	_	
+54-15	10384-10385	,	_	_	_	
+54-16	10386-10389	but	_	_	_	
+54-17	10390-10392	in	_	_	_	
+54-18	10393-10397	this	_	_	_	
+54-19	10398-10403	large	_	_	_	
+54-20	10404-10409	state	_	_	_	
+54-21	10410-10412	it	_	_	_	
+54-22	10413-10415	is	_	_	_	
+54-23	10416-10431	coarse-flavored	_	_	_	
+54-24	10432-10435	and	_	_	_	
+54-25	10436-10443	fibrous	_	_	_	
+54-26	10443-10444	.	_	_	_	
+
+#Text=An acre of land is capable of producing 4½ tons of yams, and the same  quantity of sweet potatoes, within the twelve months, or nine tons per  acre for both, being nearly as much as the return obtained at home in  the cultivation of potatoes; and I have the authority of all  analytical chemists for saying that in point of value, as an article  of food, the superiority is as two to one in favor of the tropical  roots.
+55-1	10448-10450	An	_	_	_	
+55-2	10451-10455	acre	_	_	_	
+55-3	10456-10458	of	_	_	_	
+55-4	10459-10463	land	_	_	_	
+55-5	10464-10466	is	_	_	_	
+55-6	10467-10474	capable	_	_	_	
+55-7	10475-10477	of	_	_	_	
+55-8	10478-10487	producing	_	_	_	
+55-9	10488-10490	4½	_	_	_	
+55-10	10491-10495	tons	_	_	_	
+55-11	10496-10498	of	_	_	_	
+55-12	10499-10503	yams	_	_	_	
+55-13	10503-10504	,	_	_	_	
+55-14	10505-10508	and	_	_	_	
+55-15	10509-10512	the	_	_	_	
+55-16	10513-10517	same	_	_	_	
+55-17	10519-10527	quantity	_	_	_	
+55-18	10528-10530	of	_	_	_	
+55-19	10531-10536	sweet	Taste Word[53]|Quality[54]	*|*	55-19[54_53]|55-20[0_53]	
+55-20	10537-10545	potatoes	Taste Source	_	_	
+55-21	10545-10546	,	_	_	_	
+55-22	10547-10553	within	_	_	_	
+55-23	10554-10557	the	_	_	_	
+55-24	10558-10564	twelve	_	_	_	
+55-25	10565-10571	months	_	_	_	
+55-26	10571-10572	,	_	_	_	
+55-27	10573-10575	or	_	_	_	
+55-28	10576-10580	nine	_	_	_	
+55-29	10581-10585	tons	_	_	_	
+55-30	10586-10589	per	_	_	_	
+55-31	10591-10595	acre	_	_	_	
+55-32	10596-10599	for	_	_	_	
+55-33	10600-10604	both	_	_	_	
+55-34	10604-10605	,	_	_	_	
+55-35	10606-10611	being	_	_	_	
+55-36	10612-10618	nearly	_	_	_	
+55-37	10619-10621	as	_	_	_	
+55-38	10622-10626	much	_	_	_	
+55-39	10627-10629	as	_	_	_	
+55-40	10630-10633	the	_	_	_	
+55-41	10634-10640	return	_	_	_	
+55-42	10641-10649	obtained	_	_	_	
+55-43	10650-10652	at	_	_	_	
+55-44	10653-10657	home	_	_	_	
+55-45	10658-10660	in	_	_	_	
+55-46	10662-10665	the	_	_	_	
+55-47	10666-10677	cultivation	_	_	_	
+55-48	10678-10680	of	_	_	_	
+55-49	10681-10689	potatoes	_	_	_	
+55-50	10689-10690	;	_	_	_	
+55-51	10691-10694	and	_	_	_	
+55-52	10695-10696	I	_	_	_	
+55-53	10697-10701	have	_	_	_	
+55-54	10702-10705	the	_	_	_	
+55-55	10706-10715	authority	_	_	_	
+55-56	10716-10718	of	_	_	_	
+55-57	10719-10722	all	_	_	_	
+55-58	10724-10734	analytical	_	_	_	
+55-59	10735-10743	chemists	_	_	_	
+55-60	10744-10747	for	_	_	_	
+55-61	10748-10754	saying	_	_	_	
+55-62	10755-10759	that	_	_	_	
+55-63	10760-10762	in	_	_	_	
+55-64	10763-10768	point	_	_	_	
+55-65	10769-10771	of	_	_	_	
+55-66	10772-10777	value	_	_	_	
+55-67	10777-10778	,	_	_	_	
+55-68	10779-10781	as	_	_	_	
+55-69	10782-10784	an	_	_	_	
+55-70	10785-10792	article	_	_	_	
+55-71	10794-10796	of	_	_	_	
+55-72	10797-10801	food	_	_	_	
+55-73	10801-10802	,	_	_	_	
+55-74	10803-10806	the	_	_	_	
+55-75	10807-10818	superiority	_	_	_	
+55-76	10819-10821	is	_	_	_	
+55-77	10822-10824	as	_	_	_	
+55-78	10825-10828	two	_	_	_	
+55-79	10829-10831	to	_	_	_	
+55-80	10832-10835	one	_	_	_	
+55-81	10836-10838	in	_	_	_	
+55-82	10839-10844	favor	_	_	_	
+55-83	10845-10847	of	_	_	_	
+55-84	10848-10851	the	_	_	_	
+55-85	10852-10860	tropical	_	_	_	
+55-86	10862-10867	roots	_	_	_	
+55-87	10867-10868	.	_	_	_	
+
+#Text=The kidney-rooted yam (_D. pentaphylla_), is indigenous to the  Polynesian islands, and is sometimes cultivated for its roots.
+56-1	10872-10875	The	_	_	_	
+56-2	10876-10889	kidney-rooted	_	_	_	
+56-3	10890-10893	yam	_	_	_	
+56-4	10894-10895	(	_	_	_	
+56-5	10895-10896	_	_	_	_	
+56-6	10896-10897	D	_	_	_	
+56-7	10897-10898	.	_	_	_	
+56-8	10899-10910	pentaphylla	_	_	_	
+56-9	10910-10911	_	_	_	_	
+56-10	10911-10912	)	_	_	_	
+56-11	10912-10913	,	_	_	_	
+56-12	10914-10916	is	_	_	_	
+56-13	10917-10927	indigenous	_	_	_	
+56-14	10928-10930	to	_	_	_	
+56-15	10931-10934	the	_	_	_	
+56-16	10936-10946	Polynesian	_	_	_	
+56-17	10947-10954	islands	_	_	_	
+56-18	10954-10955	,	_	_	_	
+56-19	10956-10959	and	_	_	_	
+56-20	10960-10962	is	_	_	_	
+56-21	10963-10972	sometimes	_	_	_	
+56-22	10973-10983	cultivated	_	_	_	
+56-23	10984-10987	for	_	_	_	
+56-24	10988-10991	its	_	_	_	
+56-25	10992-10997	roots	_	_	_	
+56-26	10997-10998	.	_	_	_	
+
+#Text=It is
+#Text=called _kawaii_ in the Feejee islands.
+57-1	10999-11001	It	_	_	_	
+57-2	11002-11004	is	_	_	_	
+57-3	11005-11011	called	_	_	_	
+57-4	11012-11013	_	_	_	_	
+57-5	11013-11019	kawaii	_	_	_	
+57-6	11019-11020	_	_	_	_	
+57-7	11021-11023	in	_	_	_	
+57-8	11024-11027	the	_	_	_	
+57-9	11028-11034	Feejee	_	_	_	
+57-10	11035-11042	islands	_	_	_	
+57-11	11042-11043	.	_	_	_	
+
+#Text=_D. bulbifera_, a native of the  The amount of sweet potatoes exported from South Carolina in 1747-48,  was 700 bushels; that of the common potato exported from the United  States, 1820-21, 90,889,000 bushels; in 1830-31, 112,875,000 bushels;  in 1840-41, 136,095,000 bushels; in 1850-51, 106,342,000 bushels.
+58-1	11044-11045	_	_	_	_	
+58-2	11045-11046	D	_	_	_	
+58-3	11046-11047	.	_	_	_	
+58-4	11048-11057	bulbifera	_	_	_	
+58-5	11057-11058	_	_	_	_	
+58-6	11058-11059	,	_	_	_	
+58-7	11060-11061	a	_	_	_	
+58-8	11062-11068	native	_	_	_	
+58-9	11069-11071	of	_	_	_	
+58-10	11072-11075	the	_	_	_	
+58-11	11077-11080	The	_	_	_	
+58-12	11081-11087	amount	_	_	_	
+58-13	11088-11090	of	_	_	_	
+58-14	11091-11096	sweet	Taste Word[55]|Quality[56]	*|*|*	58-14[56_55]|58-15[0_55]|58-17[57_55]	
+58-15	11097-11105	potatoes	Taste Source	_	_	
+58-16	11106-11114	exported	_	_	_	
+58-17	11115-11119	from	Location[57]	_	_	
+58-18	11120-11125	South	Location[57]	_	_	
+58-19	11126-11134	Carolina	Location[57]	_	_	
+58-20	11135-11137	in	_	_	_	
+58-21	11138-11142	1747	_	_	_	
+58-22	11142-11143	-	_	_	_	
+58-23	11143-11145	48	_	_	_	
+58-24	11145-11146	,	_	_	_	
+58-25	11148-11151	was	_	_	_	
+58-26	11152-11155	700	_	_	_	
+58-27	11156-11163	bushels	_	_	_	
+58-28	11163-11164	;	_	_	_	
+58-29	11165-11169	that	_	_	_	
+58-30	11170-11172	of	_	_	_	
+58-31	11173-11176	the	_	_	_	
+58-32	11177-11183	common	_	_	_	
+58-33	11184-11190	potato	_	_	_	
+58-34	11191-11199	exported	_	_	_	
+58-35	11200-11204	from	_	_	_	
+58-36	11205-11208	the	_	_	_	
+58-37	11209-11215	United	_	_	_	
+58-38	11217-11223	States	_	_	_	
+58-39	11223-11224	,	_	_	_	
+58-40	11225-11229	1820	_	_	_	
+58-41	11229-11230	-	_	_	_	
+58-42	11230-11232	21	_	_	_	
+58-43	11232-11233	,	_	_	_	
+58-44	11234-11244	90,889,000	_	_	_	
+58-45	11245-11252	bushels	_	_	_	
+58-46	11252-11253	;	_	_	_	
+58-47	11254-11256	in	_	_	_	
+58-48	11257-11261	1830	_	_	_	
+58-49	11261-11262	-	_	_	_	
+58-50	11262-11264	31	_	_	_	
+58-51	11264-11265	,	_	_	_	
+58-52	11266-11277	112,875,000	_	_	_	
+58-53	11278-11285	bushels	_	_	_	
+58-54	11285-11286	;	_	_	_	
+58-55	11288-11290	in	_	_	_	
+58-56	11291-11295	1840	_	_	_	
+58-57	11295-11296	-	_	_	_	
+58-58	11296-11298	41	_	_	_	
+58-59	11298-11299	,	_	_	_	
+58-60	11300-11311	136,095,000	_	_	_	
+58-61	11312-11319	bushels	_	_	_	
+58-62	11319-11320	;	_	_	_	
+58-63	11321-11323	in	_	_	_	
+58-64	11324-11328	1850	_	_	_	
+58-65	11328-11329	-	_	_	_	
+58-66	11329-11331	51	_	_	_	
+58-67	11331-11332	,	_	_	_	
+58-68	11333-11344	106,342,000	_	_	_	
+58-69	11345-11352	bushels	_	_	_	
+58-70	11352-11353	.	_	_	_	
+
+#Text=The sweet potato is cultivated generally in all the intertropical  regions, for the sake of its roots, and as a legume in temperate  countries.
+59-1	11357-11360	The	_	_	_	
+59-2	11361-11366	sweet	Taste Word[58]|Quality[59]	*|*|*	59-2[59_58]|59-3[0_58]|59-7[60_58]	
+59-3	11367-11373	potato	Taste Source	_	_	
+59-4	11374-11376	is	_	_	_	
+59-5	11377-11387	cultivated	_	_	_	
+59-6	11388-11397	generally	_	_	_	
+59-7	11398-11400	in	Location[60]	_	_	
+59-8	11401-11404	all	Location[60]	_	_	
+59-9	11405-11408	the	Location[60]	_	_	
+59-10	11409-11422	intertropical	Location[60]	_	_	
+59-11	11424-11431	regions	Location[60]	_	_	
+59-12	11431-11432	,	_	_	_	
+59-13	11433-11436	for	_	_	_	
+59-14	11437-11440	the	_	_	_	
+59-15	11441-11445	sake	_	_	_	
+59-16	11446-11448	of	_	_	_	
+59-17	11449-11452	its	_	_	_	
+59-18	11453-11458	roots	_	_	_	
+59-19	11458-11459	,	_	_	_	
+59-20	11460-11463	and	_	_	_	
+59-21	11464-11466	as	_	_	_	
+59-22	11467-11468	a	_	_	_	
+59-23	11469-11475	legume	_	_	_	
+59-24	11476-11478	in	_	_	_	
+59-25	11479-11488	temperate	_	_	_	
+59-26	11490-11499	countries	_	_	_	
+59-27	11499-11500	.	_	_	_	
+
+#Text=In the Southern States of North America, the culture ceases  in Carolina under latitude 36 degs.; in Portugal and Spain it reaches  to latitude 40 and 42 deg.; and as a legume its cultivation is  attempted to the vicinity of Paris.
+60-1	11501-11503	In	_	_	_	
+60-2	11504-11507	the	_	_	_	
+60-3	11508-11516	Southern	_	_	_	
+60-4	11517-11523	States	_	_	_	
+60-5	11524-11526	of	_	_	_	
+60-6	11527-11532	North	_	_	_	
+60-7	11533-11540	America	_	_	_	
+60-8	11540-11541	,	_	_	_	
+60-9	11542-11545	the	_	_	_	
+60-10	11546-11553	culture	_	_	_	
+60-11	11554-11560	ceases	_	_	_	
+60-12	11562-11564	in	_	_	_	
+60-13	11565-11573	Carolina	_	_	_	
+60-14	11574-11579	under	_	_	_	
+60-15	11580-11588	latitude	_	_	_	
+60-16	11589-11591	36	_	_	_	
+60-17	11592-11596	degs	_	_	_	
+60-18	11596-11597	.	_	_	_	
+60-19	11597-11598	;	_	_	_	
+60-20	11599-11601	in	_	_	_	
+60-21	11602-11610	Portugal	_	_	_	
+60-22	11611-11614	and	_	_	_	
+60-23	11615-11620	Spain	_	_	_	
+60-24	11621-11623	it	_	_	_	
+60-25	11624-11631	reaches	_	_	_	
+60-26	11633-11635	to	_	_	_	
+60-27	11636-11644	latitude	_	_	_	
+60-28	11645-11647	40	_	_	_	
+60-29	11648-11651	and	_	_	_	
+60-30	11652-11654	42	_	_	_	
+60-31	11655-11658	deg	_	_	_	
+60-32	11658-11659	.	_	_	_	
+60-33	11659-11660	;	_	_	_	
+60-34	11661-11664	and	_	_	_	
+60-35	11665-11667	as	_	_	_	
+60-36	11668-11669	a	_	_	_	
+60-37	11670-11676	legume	_	_	_	
+60-38	11677-11680	its	_	_	_	
+60-39	11681-11692	cultivation	_	_	_	
+60-40	11693-11695	is	_	_	_	
+60-41	11697-11706	attempted	_	_	_	
+60-42	11707-11709	to	_	_	_	
+60-43	11710-11713	the	_	_	_	
+60-44	11714-11722	vicinity	_	_	_	
+60-45	11723-11725	of	_	_	_	
+60-46	11726-11731	Paris	_	_	_	
+60-47	11731-11732	.	_	_	_	
+
+#Text=In India it is a very common crop;  its tubers are very similar to the potato, but have a sweeter taste,  whence the common name; but it must not be confounded with the  topinambur (_Helianthus tuberosus_), a native of Brazil, which is less  cultivated.
+61-1	11733-11735	In	Location[61]	_	_	
+61-2	11736-11741	India	Location[61]	_	_	
+61-3	11742-11744	it	_	_	_	
+61-4	11745-11747	is	_	_	_	
+61-5	11748-11749	a	_	_	_	
+61-6	11750-11754	very	_	_	_	
+61-7	11755-11761	common	_	_	_	
+61-8	11762-11766	crop	_	_	_	
+61-9	11766-11767	;	_	_	_	
+61-10	11769-11772	its	Taste Source[62]	_	_	
+61-11	11773-11779	tubers	Taste Source[62]	_	_	
+61-12	11780-11783	are	_	_	_	
+61-13	11784-11788	very	Evoked Taste[63]	_	_	
+61-14	11789-11796	similar	Evoked Taste[63]	_	_	
+61-15	11797-11799	to	Evoked Taste[63]	_	_	
+61-16	11800-11803	the	Evoked Taste[63]	_	_	
+61-17	11804-11810	potato	Evoked Taste[63]	_	_	
+61-18	11810-11811	,	_	_	_	
+61-19	11812-11815	but	_	_	_	
+61-20	11816-11820	have	_	_	_	
+61-21	11821-11822	a	_	_	_	
+61-22	11823-11830	sweeter	Quality[64]|Taste Word[65]	*	61-22[64_65]	
+61-23	11831-11836	taste	Taste Word	*|*|*|*	61-22[64_0]|61-13[63_0]|61-1[61_0]|61-10[62_0]	
+61-24	11836-11837	,	_	_	_	
+61-25	11839-11845	whence	_	_	_	
+61-26	11846-11849	the	_	_	_	
+61-27	11850-11856	common	_	_	_	
+61-28	11857-11861	name	_	_	_	
+61-29	11861-11862	;	_	_	_	
+61-30	11863-11866	but	_	_	_	
+61-31	11867-11869	it	_	_	_	
+61-32	11870-11874	must	_	_	_	
+61-33	11875-11878	not	_	_	_	
+61-34	11879-11881	be	_	_	_	
+61-35	11882-11892	confounded	_	_	_	
+61-36	11893-11897	with	_	_	_	
+61-37	11898-11901	the	_	_	_	
+61-38	11903-11913	topinambur	_	_	_	
+61-39	11914-11915	(	_	_	_	
+61-40	11915-11916	_	_	_	_	
+61-41	11916-11926	Helianthus	_	_	_	
+61-42	11927-11936	tuberosus	_	_	_	
+61-43	11936-11937	_	_	_	_	
+61-44	11937-11938	)	_	_	_	
+61-45	11938-11939	,	_	_	_	
+61-46	11940-11941	a	_	_	_	
+61-47	11942-11948	native	_	_	_	
+61-48	11949-11951	of	_	_	_	
+61-49	11952-11958	Brazil	_	_	_	
+61-50	11958-11959	,	_	_	_	
+61-51	11960-11965	which	_	_	_	
+61-52	11966-11968	is	_	_	_	
+61-53	11969-11973	less	_	_	_	
+61-54	11975-11985	cultivated	_	_	_	
+61-55	11985-11986	.	_	_	_	
+
+#Text=The root contains much saccharine and amylaceous matter.
+62-1	11987-11990	The	_	_	_	
+62-2	11991-11995	root	_	_	_	
+62-3	11996-12004	contains	_	_	_	
+62-4	12005-12009	much	_	_	_	
+62-5	12010-12020	saccharine	_	_	_	
+62-6	12021-12024	and	_	_	_	
+62-7	12025-12035	amylaceous	_	_	_	
+62-8	12036-12042	matter	_	_	_	
+62-9	12042-12043	.	_	_	_	
+
+#Text=Several marked varieties of the sweet potato are raised in the  Polynesian groups.
+63-1	12047-12054	Several	_	_	_	
+63-2	12055-12061	marked	_	_	_	
+63-3	12062-12071	varieties	_	_	_	
+63-4	12072-12074	of	_	_	_	
+63-5	12075-12078	the	_	_	_	
+63-6	12079-12084	sweet	Taste Word[66]|Quality[67]	*|*	63-6[67_66]|63-10[68_66]	
+63-7	12085-12091	potato	Taste Source	*	63-6[67_0]	
+63-8	12092-12095	are	_	_	_	
+63-9	12096-12102	raised	_	_	_	
+63-10	12103-12105	in	Location[68]	_	_	
+63-11	12106-12109	the	Location[68]	_	_	
+63-12	12111-12121	Polynesian	Location[68]	_	_	
+63-13	12122-12128	groups	Location[68]	_	_	
+63-14	12128-12129	.	_	_	_	
+
+#Text=In some islands it forms the principal object of  cultivation.
+#Text=other crops, are found to yield a good return when planted with sweet  potatoes.
+64-1	12130-12132	In	Location[69]	_	_	
+64-2	12133-12137	some	Location[69]	_	_	
+64-3	12138-12145	islands	Location[69]	_	_	
+64-4	12146-12148	it	_	_	_	
+64-5	12149-12154	forms	_	_	_	
+64-6	12155-12158	the	_	_	_	
+64-7	12159-12168	principal	_	_	_	
+64-8	12169-12175	object	_	_	_	
+64-9	12176-12178	of	_	_	_	
+64-10	12180-12191	cultivation	_	_	_	
+64-11	12191-12192	.	_	_	_	
+64-12	12193-12198	other	_	_	_	
+64-13	12199-12204	crops	_	_	_	
+64-14	12204-12205	,	_	_	_	
+64-15	12206-12209	are	_	_	_	
+64-16	12210-12215	found	_	_	_	
+64-17	12216-12218	to	_	_	_	
+64-18	12219-12224	yield	_	_	_	
+64-19	12225-12226	a	_	_	_	
+64-20	12227-12231	good	_	_	_	
+64-21	12232-12238	return	_	_	_	
+64-22	12239-12243	when	_	_	_	
+64-23	12244-12251	planted	_	_	_	
+64-24	12252-12256	with	_	_	_	
+64-25	12257-12262	sweet	Taste Word[70]|Quality[71]	*|*|*	64-25[71_70]|64-26[0_70]|64-1[69_70]	
+64-26	12264-12272	potatoes	Taste Source	_	_	
+64-27	12272-12273	.	_	_	_	
+
+#Text=The best time to plant slips to get stock from, is the  latter end of August or early in September, as the season may suit.
+65-1	12274-12277	The	_	_	_	
+65-2	12278-12282	best	_	_	_	
+65-3	12283-12287	time	_	_	_	
+65-4	12288-12290	to	_	_	_	
+65-5	12291-12296	plant	_	_	_	
+65-6	12297-12302	slips	_	_	_	
+65-7	12303-12305	to	_	_	_	
+65-8	12306-12309	get	_	_	_	
+65-9	12310-12315	stock	_	_	_	
+65-10	12316-12320	from	_	_	_	
+65-11	12320-12321	,	_	_	_	
+65-12	12322-12324	is	_	_	_	
+65-13	12325-12328	the	_	_	_	
+65-14	12330-12336	latter	_	_	_	
+65-15	12337-12340	end	_	_	_	
+65-16	12341-12343	of	_	_	_	
+65-17	12344-12350	August	_	_	_	
+65-18	12351-12353	or	_	_	_	
+65-19	12354-12359	early	_	_	_	
+65-20	12360-12362	in	_	_	_	
+65-21	12363-12372	September	_	_	_	
+65-22	12372-12373	,	_	_	_	
+65-23	12374-12376	as	_	_	_	
+65-24	12377-12380	the	_	_	_	
+65-25	12381-12387	season	_	_	_	
+65-26	12388-12391	may	_	_	_	
+65-27	12392-12396	suit	_	_	_	
+65-28	12396-12397	.	_	_	_	
+
+#Text=The sweet potato of Java, says Mr.
+66-1	12401-12404	The	_	_	_	
+66-2	12405-12410	sweet	Quality[72]|Taste Word[73]	*|*|*|*	66-2[72_73]|66-3[0_73]|66-4[74_73]|67-5[0_73]	
+66-3	12411-12417	potato	Taste Source	_	_	
+66-4	12418-12420	of	Location[74]	_	_	
+66-5	12421-12425	Java	Location[74]	_	_	
+66-6	12425-12426	,	_	_	_	
+66-7	12427-12431	says	_	_	_	
+66-8	12432-12434	Mr	_	_	_	
+66-9	12434-12435	.	_	_	_	
+
+#Text=Crawfurd, is the finest I ever met  with.
+67-1	12436-12444	Crawfurd	_	_	_	
+67-2	12444-12445	,	_	_	_	
+67-3	12446-12448	is	_	_	_	
+67-4	12449-12452	the	_	_	_	
+67-5	12453-12459	finest	Quality	_	_	
+67-6	12460-12461	I	_	_	_	
+67-7	12462-12466	ever	_	_	_	
+67-8	12467-12470	met	_	_	_	
+67-9	12472-12476	with	_	_	_	
+67-10	12476-12477	.	_	_	_	
+
+#Text=Some are frequently of several pounds weight, and now and then  have been found of the enormous weight of 50 lbs.
+68-1	12478-12482	Some	_	_	_	
+68-2	12483-12486	are	_	_	_	
+68-3	12487-12497	frequently	_	_	_	
+68-4	12498-12500	of	_	_	_	
+68-5	12501-12508	several	_	_	_	
+68-6	12509-12515	pounds	_	_	_	
+68-7	12516-12522	weight	_	_	_	
+68-8	12522-12523	,	_	_	_	
+68-9	12524-12527	and	_	_	_	
+68-10	12528-12531	now	_	_	_	
+68-11	12532-12535	and	_	_	_	
+68-12	12536-12540	then	_	_	_	
+68-13	12542-12546	have	_	_	_	
+68-14	12547-12551	been	_	_	_	
+68-15	12552-12557	found	_	_	_	
+68-16	12558-12560	of	_	_	_	
+68-17	12561-12564	the	_	_	_	
+68-18	12565-12573	enormous	_	_	_	
+68-19	12574-12580	weight	_	_	_	
+68-20	12581-12583	of	_	_	_	
+68-21	12584-12586	50	_	_	_	
+68-22	12587-12590	lbs	_	_	_	
+68-23	12590-12591	.	_	_	_	
+
+#Text=The sweetness is not  disagreeable to the palate, though considerable, and they contain a  large portion of farinaceous matter, being as mealy as the best of our  own potatoes.
+69-1	12592-12595	The	_	_	_	
+69-2	12596-12605	sweetness	Taste Word	*|*	69-4[75_0]|69-6[76_0]	
+69-3	12606-12608	is	_	_	_	
+69-4	12609-12612	not	Quality[75]	_	_	
+69-5	12614-12626	disagreeable	Quality[75]	_	_	
+69-6	12627-12629	to	Taster[76]	_	_	
+69-7	12630-12633	the	Taster[76]	_	_	
+69-8	12634-12640	palate	Taster[76]	_	_	
+69-9	12640-12641	,	_	_	_	
+69-10	12642-12648	though	_	_	_	
+69-11	12649-12661	considerable	_	_	_	
+69-12	12661-12662	,	_	_	_	
+69-13	12663-12666	and	_	_	_	
+69-14	12667-12671	they	_	_	_	
+69-15	12672-12679	contain	_	_	_	
+69-16	12680-12681	a	_	_	_	
+69-17	12683-12688	large	_	_	_	
+69-18	12689-12696	portion	_	_	_	
+69-19	12697-12699	of	_	_	_	
+69-20	12700-12711	farinaceous	_	_	_	
+69-21	12712-12718	matter	_	_	_	
+69-22	12718-12719	,	_	_	_	
+69-23	12720-12725	being	_	_	_	
+69-24	12726-12728	as	_	_	_	
+69-25	12729-12734	mealy	_	_	_	
+69-26	12735-12737	as	_	_	_	
+69-27	12738-12741	the	_	_	_	
+69-28	12742-12746	best	_	_	_	
+69-29	12747-12749	of	_	_	_	
+69-30	12750-12753	our	_	_	_	
+69-31	12755-12758	own	_	_	_	
+69-32	12759-12767	potatoes	_	_	_	
+69-33	12767-12768	.	_	_	_	
+
+#Text=In Java it is cultivated in ordinary upland arable, or  in the dry season as a green crop in succession to rice.
+70-1	12769-12771	In	_	_	_	
+70-2	12772-12776	Java	_	_	_	
+70-3	12777-12779	it	_	_	_	
+70-4	12780-12782	is	_	_	_	
+70-5	12783-12793	cultivated	_	_	_	
+70-6	12794-12796	in	_	_	_	
+70-7	12797-12805	ordinary	_	_	_	
+70-8	12806-12812	upland	_	_	_	
+70-9	12813-12819	arable	_	_	_	
+70-10	12819-12820	,	_	_	_	
+70-11	12821-12823	or	_	_	_	
+70-12	12825-12827	in	_	_	_	
+70-13	12828-12831	the	_	_	_	
+70-14	12832-12835	dry	_	_	_	
+70-15	12836-12842	season	_	_	_	
+70-16	12843-12845	as	_	_	_	
+70-17	12846-12847	a	_	_	_	
+70-18	12848-12853	green	_	_	_	
+70-19	12854-12858	crop	_	_	_	
+70-20	12859-12861	in	_	_	_	
+70-21	12862-12872	succession	_	_	_	
+70-22	12873-12875	to	_	_	_	
+70-23	12876-12880	rice	_	_	_	
+70-24	12880-12881	.	_	_	_	
+
+#Text=A tuberous root (_Ocymum tuberosum_), an inhabitant of the hot plains,  is frequently cultivated in Java.
+71-1	12885-12886	A	_	_	_	
+71-2	12887-12895	tuberous	_	_	_	
+71-3	12896-12900	root	_	_	_	
+71-4	12901-12902	(	_	_	_	
+71-5	12902-12903	_	_	_	_	
+71-6	12903-12909	Ocymum	_	_	_	
+71-7	12910-12919	tuberosum	_	_	_	
+71-8	12919-12920	_	_	_	_	
+71-9	12920-12921	)	_	_	_	
+71-10	12921-12922	,	_	_	_	
+71-11	12923-12925	an	_	_	_	
+71-12	12926-12936	inhabitant	_	_	_	
+71-13	12937-12939	of	_	_	_	
+71-14	12940-12943	the	_	_	_	
+71-15	12944-12947	hot	_	_	_	
+71-16	12948-12954	plains	_	_	_	
+71-17	12954-12955	,	_	_	_	
+71-18	12957-12959	is	_	_	_	
+71-19	12960-12970	frequently	_	_	_	
+71-20	12971-12981	cultivated	_	_	_	
+71-21	12982-12984	in	Location[77]	_	_	
+71-22	12985-12989	Java	Location[77]	_	_	
+71-23	12989-12990	.	_	_	_	
+
+#Text=It is small, round, and much  resembling in appearance the American potato, but has no great flavor.
+72-1	12991-12993	It	_	_	_	
+72-2	12994-12996	is	_	_	_	
+72-3	12997-13002	small	_	_	_	
+72-4	13002-13003	,	_	_	_	
+72-5	13004-13009	round	_	_	_	
+72-6	13009-13010	,	_	_	_	
+72-7	13011-13014	and	_	_	_	
+72-8	13015-13019	much	_	_	_	
+72-9	13021-13031	resembling	_	_	_	
+72-10	13032-13034	in	_	_	_	
+72-11	13035-13045	appearance	_	_	_	
+72-12	13046-13049	the	_	_	_	
+72-13	13050-13058	American	_	_	_	
+72-14	13059-13065	potato	_	_	_	
+72-15	13065-13066	,	_	_	_	
+72-16	13067-13070	but	_	_	_	
+72-17	13071-13074	has	_	_	_	
+72-18	13075-13077	no	Quality[78]	_	_	
+72-19	13078-13083	great	Quality[78]	_	_	
+72-20	13084-13090	flavor	Taste Word	*|*|*	72-18[78_0]|71-21[77_0]|73-6	
+72-21	13090-13091	.	_	_	_	
+
+#Text=Its local name is _kantang_.
+73-1	13093-13096	Its	_	_	_	
+73-2	13097-13102	local	_	_	_	
+73-3	13103-13107	name	_	_	_	
+73-4	13108-13110	is	_	_	_	
+73-5	13111-13112	_	_	_	_	
+73-6	13112-13119	kantang	Taste Source	_	_	
+73-7	13119-13120	_	_	_	_	
+73-8	13120-13121	.	_	_	_	
+
+#Text=CASSAVA OR MANIOC.
+74-1	13127-13134	CASSAVA	Taste Source	_	_	
+74-2	13135-13137	OR	_	_	_	
+74-3	13138-13144	MANIOC	Taste Source	_	_	
+74-4	13144-13145	.	_	_	_	
+
+#Text=Of this plant, which is a shrub about six feet high, extensively grown  for its farinaceous root, there are several species, nearly all  natives of America, principally of Brazil, whence it derives one of  its common names of Manihot or Mandioc.
+75-1	13148-13150	Of	_	_	_	
+75-2	13151-13155	this	_	_	_	
+75-3	13156-13161	plant	_	_	_	
+75-4	13161-13162	,	_	_	_	
+75-5	13163-13168	which	_	_	_	
+75-6	13169-13171	is	_	_	_	
+75-7	13172-13173	a	_	_	_	
+75-8	13174-13179	shrub	_	_	_	
+75-9	13180-13185	about	_	_	_	
+75-10	13186-13189	six	_	_	_	
+75-11	13190-13194	feet	_	_	_	
+75-12	13195-13199	high	_	_	_	
+75-13	13199-13200	,	_	_	_	
+75-14	13201-13212	extensively	_	_	_	
+75-15	13213-13218	grown	_	_	_	
+75-16	13220-13223	for	_	_	_	
+75-17	13224-13227	its	_	_	_	
+75-18	13228-13239	farinaceous	_	_	_	
+75-19	13240-13244	root	_	_	_	
+75-20	13244-13245	,	_	_	_	
+75-21	13246-13251	there	_	_	_	
+75-22	13252-13255	are	_	_	_	
+75-23	13256-13263	several	_	_	_	
+75-24	13264-13271	species	_	_	_	
+75-25	13271-13272	,	_	_	_	
+75-26	13273-13279	nearly	_	_	_	
+75-27	13280-13283	all	_	_	_	
+75-28	13285-13292	natives	_	_	_	
+75-29	13293-13295	of	_	_	_	
+75-30	13296-13303	America	_	_	_	
+75-31	13303-13304	,	_	_	_	
+75-32	13305-13316	principally	_	_	_	
+75-33	13317-13319	of	_	_	_	
+75-34	13320-13326	Brazil	_	_	_	
+75-35	13326-13327	,	_	_	_	
+75-36	13328-13334	whence	_	_	_	
+75-37	13335-13337	it	_	_	_	
+75-38	13338-13345	derives	_	_	_	
+75-39	13346-13349	one	_	_	_	
+75-40	13350-13352	of	_	_	_	
+75-41	13354-13357	its	_	_	_	
+75-42	13358-13364	common	_	_	_	
+75-43	13365-13370	names	_	_	_	
+75-44	13371-13373	of	_	_	_	
+75-45	13374-13381	Manihot	_	_	_	
+75-46	13382-13384	or	_	_	_	
+75-47	13385-13392	Mandioc	_	_	_	
+75-48	13392-13393	.	_	_	_	
+
+#Text=Two species of Manihot have  been found indigenous in South Australia.
+76-1	13394-13397	Two	_	_	_	
+76-2	13398-13405	species	_	_	_	
+76-3	13406-13408	of	_	_	_	
+76-4	13409-13416	Manihot	_	_	_	
+76-5	13417-13421	have	_	_	_	
+76-6	13423-13427	been	_	_	_	
+76-7	13428-13433	found	_	_	_	
+76-8	13434-13444	indigenous	_	_	_	
+76-9	13445-13447	in	_	_	_	
+76-10	13448-13453	South	_	_	_	
+76-11	13454-13463	Australia	_	_	_	
+76-12	13463-13464	.	_	_	_	
+
+#Text=The varieties commonly  cultivated for their roots, are the sweet and the bitter.    1.
+77-1	13465-13468	The	_	_	_	
+77-2	13469-13478	varieties	_	_	_	
+77-3	13479-13487	commonly	_	_	_	
+77-4	13489-13499	cultivated	_	_	_	
+77-5	13500-13503	for	_	_	_	
+77-6	13504-13509	their	_	_	_	
+77-7	13510-13515	roots	_	_	_	
+77-8	13515-13516	,	_	_	_	
+77-9	13517-13520	are	_	_	_	
+77-10	13521-13524	the	_	_	_	
+77-11	13525-13530	sweet	Taste Word[79]|Quality[80]	*|*|*	77-11[80_79]|74-1[0_79]|74-3[0_79]	
+77-12	13531-13534	and	_	_	_	
+77-13	13535-13538	the	_	_	_	
+77-14	13539-13545	bitter	Taste Word[81]|Quality[82]	*|*|*	77-14[82_81]|74-1[0_81]|74-3[0_81]	
+77-15	13545-13546	.	_	_	_	
+77-16	13550-13551	1	_	_	_	
+77-17	13551-13552	.	_	_	_	
+
+#Text=Sweet cassava (_Janiphi_ (or _Jatropha_,) _Loeflingii_, Kunth;  _Manihot Aipi_, of Pohl).
+78-1	13553-13558	Sweet	Taste Word[83]|Quality[84]	*|*	78-1[84_83]|78-2[0_83]	
+78-2	13559-13566	cassava	Taste Source	_	_	
+78-3	13567-13568	(	_	_	_	
+78-4	13568-13569	_	_	_	_	
+78-5	13569-13576	Janiphi	_	_	_	
+78-6	13576-13577	_	_	_	_	
+78-7	13578-13579	(	_	_	_	
+78-8	13579-13581	or	_	_	_	
+78-9	13582-13583	_	_	_	_	
+78-10	13583-13591	Jatropha	_	_	_	
+78-11	13591-13592	_	_	_	_	
+78-12	13592-13593	,	_	_	_	
+78-13	13593-13594	)	_	_	_	
+78-14	13595-13596	_	_	_	_	
+78-15	13596-13606	Loeflingii	_	_	_	
+78-16	13606-13607	_	_	_	_	
+78-17	13607-13608	,	_	_	_	
+78-18	13609-13614	Kunth	_	_	_	
+78-19	13614-13615	;	_	_	_	
+78-20	13617-13618	_	_	_	_	
+78-21	13618-13625	Manihot	_	_	_	
+78-22	13626-13630	Aipi	_	_	_	
+78-23	13630-13631	_	_	_	_	
+78-24	13631-13632	,	_	_	_	
+78-25	13633-13635	of	_	_	_	
+78-26	13636-13640	Pohl	_	_	_	
+78-27	13640-13641	)	_	_	_	
+78-28	13641-13642	.	_	_	_	
+
+#Text=--This species has a spindle-shaped root  brown externally, about six or seven ounces or more in weight, which  contains amylaceous matter, without any bitterness, and is used as  food, after being rasped and washed, so as to cleanse it from the  fibrous matter, in the same manner as arrowroot is prepared.
+79-1	13642-13643	-	_	_	_	
+79-2	13643-13644	-	_	_	_	
+79-3	13644-13648	This	_	_	_	
+79-4	13649-13656	species	_	_	_	
+79-5	13657-13660	has	_	_	_	
+79-6	13661-13662	a	_	_	_	
+79-7	13663-13677	spindle-shaped	_	_	_	
+79-8	13678-13682	root	_	_	_	
+79-9	13684-13689	brown	_	_	_	
+79-10	13690-13700	externally	_	_	_	
+79-11	13700-13701	,	_	_	_	
+79-12	13702-13707	about	_	_	_	
+79-13	13708-13711	six	_	_	_	
+79-14	13712-13714	or	_	_	_	
+79-15	13715-13720	seven	_	_	_	
+79-16	13721-13727	ounces	_	_	_	
+79-17	13728-13730	or	_	_	_	
+79-18	13731-13735	more	_	_	_	
+79-19	13736-13738	in	_	_	_	
+79-20	13739-13745	weight	_	_	_	
+79-21	13745-13746	,	_	_	_	
+79-22	13747-13752	which	_	_	_	
+79-23	13754-13762	contains	_	_	_	
+79-24	13763-13773	amylaceous	_	_	_	
+79-25	13774-13780	matter	_	_	_	
+79-26	13780-13781	,	_	_	_	
+79-27	13782-13789	without	Quality[85]	_	_	
+79-28	13790-13793	any	Quality[85]	_	_	
+79-29	13794-13804	bitterness	Taste Word	*|*	79-27[85_0]|78-2	
+79-30	13804-13805	,	_	_	_	
+79-31	13806-13809	and	_	_	_	
+79-32	13810-13812	is	_	_	_	
+79-33	13813-13817	used	_	_	_	
+79-34	13818-13820	as	_	_	_	
+79-35	13822-13826	food	_	_	_	
+79-36	13826-13827	,	_	_	_	
+79-37	13828-13833	after	_	_	_	
+79-38	13834-13839	being	_	_	_	
+79-39	13840-13846	rasped	_	_	_	
+79-40	13847-13850	and	_	_	_	
+79-41	13851-13857	washed	_	_	_	
+79-42	13857-13858	,	_	_	_	
+79-43	13859-13861	so	_	_	_	
+79-44	13862-13864	as	_	_	_	
+79-45	13865-13867	to	_	_	_	
+79-46	13868-13875	cleanse	_	_	_	
+79-47	13876-13878	it	_	_	_	
+79-48	13879-13883	from	_	_	_	
+79-49	13884-13887	the	_	_	_	
+79-50	13889-13896	fibrous	_	_	_	
+79-51	13897-13903	matter	_	_	_	
+79-52	13903-13904	,	_	_	_	
+79-53	13905-13907	in	_	_	_	
+79-54	13908-13911	the	_	_	_	
+79-55	13912-13916	same	_	_	_	
+79-56	13917-13923	manner	_	_	_	
+79-57	13924-13926	as	_	_	_	
+79-58	13927-13936	arrowroot	_	_	_	
+79-59	13937-13939	is	_	_	_	
+79-60	13940-13948	prepared	_	_	_	
+79-61	13948-13949	.	_	_	_	
+
+#Text=It is  distinguished from the bitter cassava by a tough ligneous fibre, which  runs through the heart of the tuber.
+80-1	13950-13952	It	_	_	_	
+80-2	13953-13955	is	_	_	_	
+80-3	13957-13970	distinguished	_	_	_	
+80-4	13971-13975	from	_	_	_	
+80-5	13976-13979	the	_	_	_	
+80-6	13980-13986	bitter	Taste Word[86]|Quality[87]	*|*	80-6[87_86]|80-7[0_86]	
+80-7	13987-13994	cassava	Taste Source	_	_	
+80-8	13995-13997	by	_	_	_	
+80-9	13998-13999	a	_	_	_	
+80-10	14000-14005	tough	_	_	_	
+80-11	14006-14014	ligneous	_	_	_	
+80-12	14015-14020	fibre	_	_	_	
+80-13	14020-14021	,	_	_	_	
+80-14	14022-14027	which	_	_	_	
+80-15	14029-14033	runs	_	_	_	
+80-16	14034-14041	through	_	_	_	
+80-17	14042-14045	the	_	_	_	
+80-18	14046-14051	heart	_	_	_	
+80-19	14052-14054	of	_	_	_	
+80-20	14055-14058	the	_	_	_	
+80-21	14059-14064	tuber	_	_	_	
+80-22	14064-14065	.	_	_	_	
+
+#Text=Manihot starch is sometimes  imported into Europe under the name of Brazilian arrowroot.
+81-1	14066-14073	Manihot	_	_	_	
+81-2	14074-14080	starch	_	_	_	
+81-3	14081-14083	is	_	_	_	
+81-4	14084-14093	sometimes	_	_	_	
+81-5	14095-14103	imported	_	_	_	
+81-6	14104-14108	into	_	_	_	
+81-7	14109-14115	Europe	_	_	_	
+81-8	14116-14121	under	_	_	_	
+81-9	14122-14125	the	_	_	_	
+81-10	14126-14130	name	_	_	_	
+81-11	14131-14133	of	_	_	_	
+81-12	14134-14143	Brazilian	_	_	_	
+81-13	14144-14153	arrowroot	_	_	_	
+81-14	14153-14154	.	_	_	_	
+
+#Text=The  cassava is known in Peru as _yucca_.
+82-1	14155-14158	The	_	_	_	
+82-2	14160-14167	cassava	_	_	_	
+82-3	14168-14170	is	_	_	_	
+82-4	14171-14176	known	_	_	_	
+82-5	14177-14179	in	_	_	_	
+82-6	14180-14184	Peru	_	_	_	
+82-7	14185-14187	as	_	_	_	
+82-8	14188-14189	_	_	_	_	
+82-9	14189-14194	yucca	_	_	_	
+82-10	14194-14195	_	_	_	_	
+82-11	14195-14196	.	_	_	_	
+
+#Text=A dry mixed soil is best suited to its culture.
+83-1	14200-14201	A	_	_	_	
+83-2	14202-14205	dry	_	_	_	
+83-3	14206-14211	mixed	_	_	_	
+83-4	14212-14216	soil	_	_	_	
+83-5	14217-14219	is	_	_	_	
+83-6	14220-14224	best	_	_	_	
+83-7	14225-14231	suited	_	_	_	
+83-8	14232-14234	to	_	_	_	
+83-9	14235-14238	its	_	_	_	
+83-10	14239-14246	culture	_	_	_	
+83-11	14246-14247	.	_	_	_	
+
+#Text=So exhausting is this  crop, that it cannot be raised more than two or three times
+#Text=when boiled is quite wholesome.
+84-1	14248-14250	So	_	_	_	
+84-2	14251-14261	exhausting	_	_	_	
+84-3	14262-14264	is	_	_	_	
+84-4	14265-14269	this	_	_	_	
+84-5	14271-14275	crop	_	_	_	
+84-6	14275-14276	,	_	_	_	
+84-7	14277-14281	that	_	_	_	
+84-8	14282-14284	it	_	_	_	
+84-9	14285-14291	cannot	_	_	_	
+84-10	14292-14294	be	_	_	_	
+84-11	14295-14301	raised	_	_	_	
+84-12	14302-14306	more	_	_	_	
+84-13	14307-14311	than	_	_	_	
+84-14	14312-14315	two	_	_	_	
+84-15	14316-14318	or	_	_	_	
+84-16	14319-14324	three	_	_	_	
+84-17	14325-14330	times	_	_	_	
+84-18	14331-14335	when	_	_	_	
+84-19	14336-14342	boiled	_	_	_	
+84-20	14343-14345	is	_	_	_	
+84-21	14346-14351	quite	_	_	_	
+84-22	14352-14361	wholesome	_	_	_	
+84-23	14361-14362	.	_	_	_	
+
+#Text=done, its success is certain.
+85-1	14364-14368	done	_	_	_	
+85-2	14368-14369	,	_	_	_	
+85-3	14370-14373	its	_	_	_	
+85-4	14374-14381	success	_	_	_	
+85-5	14382-14384	is	_	_	_	
+85-6	14385-14392	certain	_	_	_	
+85-7	14392-14393	.	_	_	_	
+
+#Text=The North American Indians have several wild roots which they dig up  for sustenance when other food is exhausted.
+86-1	14397-14400	The	_	_	_	
+86-2	14401-14406	North	_	_	_	
+86-3	14407-14415	American	_	_	_	
+86-4	14416-14423	Indians	_	_	_	
+86-5	14424-14428	have	_	_	_	
+86-6	14429-14436	several	_	_	_	
+86-7	14437-14441	wild	_	_	_	
+86-8	14442-14447	roots	_	_	_	
+86-9	14448-14453	which	_	_	_	
+86-10	14454-14458	they	_	_	_	
+86-11	14459-14462	dig	_	_	_	
+86-12	14463-14465	up	_	_	_	
+86-13	14467-14470	for	_	_	_	
+86-14	14471-14481	sustenance	_	_	_	
+86-15	14482-14486	when	_	_	_	
+86-16	14487-14492	other	_	_	_	
+86-17	14493-14497	food	_	_	_	
+86-18	14498-14500	is	_	_	_	
+86-19	14501-14510	exhausted	_	_	_	
+86-20	14510-14511	.	_	_	_	
+
+#Text=Among these are--1st, the  mendo, or wild sweet potato; 2nd, the tip-sin-ah, or wild prairie  turnip; 3rd, the omen-e-chah, or wild bean.
+87-1	14512-14517	Among	_	_	_	
+87-2	14518-14523	these	_	_	_	
+87-3	14524-14527	are	_	_	_	
+87-4	14527-14528	-	_	_	_	
+87-5	14528-14529	-	_	_	_	
+87-6	14529-14532	1st	_	_	_	
+87-7	14532-14533	,	_	_	_	
+87-8	14534-14537	the	Taste Source[88]	_	_	
+87-9	14539-14544	mendo	Taste Source[88]	_	_	
+87-10	14544-14545	,	_	_	_	
+87-11	14546-14548	or	_	_	_	
+87-12	14549-14553	wild	_	_	_	
+87-13	14554-14559	sweet	Taste Word[89]|Quality[90]	*|*	87-14[0_89]|87-13[90_89]	
+87-14	14560-14566	potato	Taste Source	_	_	
+87-15	14566-14567	;	_	_	_	
+87-16	14568-14571	2nd	_	_	_	
+87-17	14571-14572	,	_	_	_	
+87-18	14573-14576	the	_	_	_	
+87-19	14577-14587	tip-sin-ah	_	_	_	
+87-20	14587-14588	,	_	_	_	
+87-21	14589-14591	or	_	_	_	
+87-22	14592-14596	wild	_	_	_	
+87-23	14597-14604	prairie	_	_	_	
+87-24	14606-14612	turnip	_	_	_	
+87-25	14612-14613	;	_	_	_	
+87-26	14614-14617	3rd	_	_	_	
+87-27	14617-14618	,	_	_	_	
+87-28	14619-14622	the	_	_	_	
+87-29	14623-14634	omen-e-chah	_	_	_	
+87-30	14634-14635	,	_	_	_	
+87-31	14636-14638	or	_	_	_	
+87-32	14639-14643	wild	_	_	_	
+87-33	14644-14648	bean	_	_	_	
+87-34	14648-14649	.	_	_	_	
+
+#Text=The first is found  throughout the valleys of the Mississippi and St.
+88-1	14650-14653	The	_	_	_	
+88-2	14654-14659	first	_	_	_	
+88-3	14660-14662	is	_	_	_	
+88-4	14663-14668	found	_	_	_	
+88-5	14670-14680	throughout	_	_	_	
+88-6	14681-14684	the	_	_	_	
+88-7	14685-14692	valleys	_	_	_	
+88-8	14693-14695	of	_	_	_	
+88-9	14696-14699	the	_	_	_	
+88-10	14700-14711	Mississippi	_	_	_	
+88-11	14712-14715	and	_	_	_	
+88-12	14716-14718	St	_	_	_	
+88-13	14718-14719	.	_	_	_	
+
+#Text=Peter   '   s, about the  basis of bluffs, in rather moist but soft and rich ground.
+89-1	14720-14725	Peter	_	_	_	
+89-2	14728-14729	'	_	_	_	
+89-3	14732-14733	s	_	_	_	
+89-4	14733-14734	,	_	_	_	
+89-5	14735-14740	about	_	_	_	
+89-6	14741-14744	the	_	_	_	
+89-7	14746-14751	basis	_	_	_	
+89-8	14752-14754	of	_	_	_	
+89-9	14755-14761	bluffs	_	_	_	
+89-10	14761-14762	,	_	_	_	
+89-11	14763-14765	in	_	_	_	
+89-12	14766-14772	rather	_	_	_	
+89-13	14773-14778	moist	_	_	_	
+89-14	14779-14782	but	_	_	_	
+89-15	14783-14787	soft	_	_	_	
+89-16	14788-14791	and	_	_	_	
+89-17	14792-14796	rich	_	_	_	
+89-18	14797-14803	ground	_	_	_	
+89-19	14803-14804	.	_	_	_	
+
+#Text=The plant  resembles the sweet potato, and the root is similar in taste and  growth.
+90-1	14805-14808	The	Taste Source[91]	anaphorical	87-8[88_91]	
+90-2	14809-14814	plant	Taste Source[91]	_	_	
+90-3	14816-14825	resembles	_	_	_	
+90-4	14826-14829	the	_	_	_	
+90-5	14830-14835	sweet	Taste Word[92]|Quality[93]	*|*	90-5[93_92]|90-6[0_92]	
+90-6	14836-14842	potato	Taste Source	_	_	
+90-7	14842-14843	,	_	_	_	
+90-8	14844-14847	and	_	_	_	
+90-9	14848-14851	the	Evoked Taste[94]	_	_	
+90-10	14852-14856	root	Evoked Taste[94]	_	_	
+90-11	14857-14859	is	Evoked Taste[94]	_	_	
+90-12	14860-14867	similar	Evoked Taste[94]	_	_	
+90-13	14868-14870	in	_	_	_	
+90-14	14871-14876	taste	Taste Word	*|*	90-9[94_0]|90-1[91_0]	
+90-15	14877-14880	and	_	_	_	
+90-16	14882-14888	growth	_	_	_	
+90-17	14888-14889	.	_	_	_	
+
+#Text=It does not grow so large or long as the cultivated sweet  potato, but I should have thought it the same, were it not that the  wild potato is not affected by the frost.
+91-1	14890-14892	It	_	_	_	
+91-2	14893-14897	does	_	_	_	
+91-3	14898-14901	not	_	_	_	
+91-4	14902-14906	grow	_	_	_	
+91-5	14907-14909	so	_	_	_	
+91-6	14910-14915	large	_	_	_	
+91-7	14916-14918	or	_	_	_	
+91-8	14919-14923	long	_	_	_	
+91-9	14924-14926	as	_	_	_	
+91-10	14927-14930	the	_	_	_	
+91-11	14931-14941	cultivated	_	_	_	
+91-12	14942-14947	sweet	Taste Word[95]|Quality[96]	*|*	91-13[0_95]|91-12[96_95]	
+91-13	14949-14955	potato	Taste Source	_	_	
+91-14	14955-14956	,	_	_	_	
+91-15	14957-14960	but	_	_	_	
+91-16	14961-14962	I	_	_	_	
+91-17	14963-14969	should	_	_	_	
+91-18	14970-14974	have	_	_	_	
+91-19	14975-14982	thought	_	_	_	
+91-20	14983-14985	it	_	_	_	
+91-21	14986-14989	the	_	_	_	
+91-22	14990-14994	same	_	_	_	
+91-23	14994-14995	,	_	_	_	
+91-24	14996-15000	were	_	_	_	
+91-25	15001-15003	it	_	_	_	
+91-26	15004-15007	not	_	_	_	
+91-27	15008-15012	that	_	_	_	
+91-28	15013-15016	the	Taste Source[97]	_	_	
+91-29	15018-15022	wild	Taste Source[97]	_	_	
+91-30	15023-15029	potato	Taste Source[97]	_	_	
+91-31	15030-15032	is	_	_	_	
+91-32	15033-15036	not	_	_	_	
+91-33	15037-15045	affected	_	_	_	
+91-34	15046-15048	by	_	_	_	
+91-35	15049-15052	the	_	_	_	
+91-36	15053-15058	frost	_	_	_	
+91-37	15058-15059	.	_	_	_	
+
+#Text=A woman will dig from a peck  to half a bushel a day.
+92-1	15060-15061	A	_	_	_	
+92-2	15062-15067	woman	_	_	_	
+92-3	15068-15072	will	_	_	_	
+92-4	15073-15076	dig	_	_	_	
+92-5	15077-15081	from	_	_	_	
+92-6	15082-15083	a	_	_	_	
+92-7	15084-15088	peck	_	_	_	
+92-8	15090-15092	to	_	_	_	
+92-9	15093-15097	half	_	_	_	
+92-10	15098-15099	a	_	_	_	
+92-11	15100-15106	bushel	_	_	_	
+92-12	15107-15108	a	_	_	_	
+92-13	15109-15112	day	_	_	_	
+92-14	15112-15113	.	_	_	_	
+
+#Text=The Indians eat them, simply boiled in water, but prefer them cooked  with fat meat.
+93-1	15117-15120	The	Taster[98]	_	_	
+93-2	15121-15128	Indians	Taster[98]	_	_	
+93-3	15129-15132	eat	Taste Word	*|*|*|*	93-1[98_0]|93-14[100_0]|93-4|93-6[99_0]	
+93-4	15133-15137	them	Taste Source	anaphorical	91-28[97_0]	
+93-5	15137-15138	,	_	_	_	
+93-6	15139-15145	simply	Circumstance[99]	_	_	
+93-7	15146-15152	boiled	Circumstance[99]	_	_	
+93-8	15153-15155	in	Circumstance[99]	_	_	
+93-9	15156-15161	water	Circumstance[99]	_	_	
+93-10	15161-15162	,	_	_	_	
+93-11	15163-15166	but	_	_	_	
+93-12	15167-15173	prefer	_	_	_	
+93-13	15174-15178	them	_	_	_	
+93-14	15179-15185	cooked	Circumstance[100]	_	_	
+93-15	15187-15191	with	Circumstance[100]	_	_	
+93-16	15192-15195	fat	Circumstance[100]	_	_	
+93-17	15196-15200	meat	Circumstance[100]	_	_	
+93-18	15200-15201	.	_	_	_	
+
+#Text=The wild potato, of the north-west of America, is a general article of  food; it is called by them wabessepin; it resembles the common potato,
+#Text=feet deep.
+94-1	15205-15208	The	_	_	_	
+94-2	15209-15213	wild	_	_	_	
+94-3	15214-15220	potato	_	_	_	
+94-4	15220-15221	,	_	_	_	
+94-5	15222-15224	of	_	_	_	
+94-6	15225-15228	the	_	_	_	
+94-7	15229-15239	north-west	_	_	_	
+94-8	15240-15242	of	_	_	_	
+94-9	15243-15250	America	_	_	_	
+94-10	15250-15251	,	_	_	_	
+94-11	15252-15254	is	_	_	_	
+94-12	15255-15256	a	_	_	_	
+94-13	15257-15264	general	_	_	_	
+94-14	15265-15272	article	_	_	_	
+94-15	15273-15275	of	_	_	_	
+94-16	15277-15281	food	_	_	_	
+94-17	15281-15282	;	_	_	_	
+94-18	15283-15285	it	_	_	_	
+94-19	15286-15288	is	_	_	_	
+94-20	15289-15295	called	_	_	_	
+94-21	15296-15298	by	_	_	_	
+94-22	15299-15303	them	_	_	_	
+94-23	15304-15314	wabessepin	_	_	_	
+94-24	15314-15315	;	_	_	_	
+94-25	15316-15318	it	_	_	_	
+94-26	15319-15328	resembles	_	_	_	
+94-27	15329-15332	the	_	_	_	
+94-28	15333-15339	common	_	_	_	
+94-29	15340-15346	potato	_	_	_	
+94-30	15346-15347	,	_	_	_	
+94-31	15348-15352	feet	_	_	_	
+94-32	15353-15357	deep	_	_	_	
+94-33	15357-15358	.	_	_	_	
+
+#Text=The Indian women dive for them, and frequently obtain as  many as they are able to carry.
+95-1	15359-15362	The	_	_	_	
+95-2	15363-15369	Indian	_	_	_	
+95-3	15370-15375	women	_	_	_	
+95-4	15376-15380	dive	_	_	_	
+95-5	15381-15384	for	_	_	_	
+95-6	15385-15389	them	_	_	_	
+95-7	15389-15390	,	_	_	_	
+95-8	15391-15394	and	_	_	_	
+95-9	15395-15405	frequently	_	_	_	
+95-10	15406-15412	obtain	_	_	_	
+95-11	15413-15415	as	_	_	_	
+95-12	15417-15421	many	_	_	_	
+95-13	15422-15424	as	_	_	_	
+95-14	15425-15429	they	_	_	_	
+95-15	15430-15433	are	_	_	_	
+95-16	15434-15438	able	_	_	_	
+95-17	15439-15441	to	_	_	_	
+95-18	15442-15447	carry	_	_	_	
+95-19	15447-15448	.	_	_	_	
+
+#Text=The root is from one to two feet in  height, very porous; there are as many as six or eight cells running  the whole length of the root.
+96-1	15449-15452	The	Taste Source[101]	_	_	
+96-2	15453-15457	root	Taste Source[101]	_	_	
+96-3	15458-15460	is	_	_	_	
+96-4	15461-15465	from	_	_	_	
+96-5	15466-15469	one	_	_	_	
+96-6	15470-15472	to	_	_	_	
+96-7	15473-15476	two	_	_	_	
+96-8	15477-15481	feet	_	_	_	
+96-9	15482-15484	in	_	_	_	
+96-10	15486-15492	height	_	_	_	
+96-11	15492-15493	,	_	_	_	
+96-12	15494-15498	very	_	_	_	
+96-13	15499-15505	porous	_	_	_	
+96-14	15505-15506	;	_	_	_	
+96-15	15507-15512	there	_	_	_	
+96-16	15513-15516	are	_	_	_	
+96-17	15517-15519	as	_	_	_	
+96-18	15520-15524	many	_	_	_	
+96-19	15525-15527	as	_	_	_	
+96-20	15528-15531	six	_	_	_	
+96-21	15532-15534	or	_	_	_	
+96-22	15535-15540	eight	_	_	_	
+96-23	15541-15546	cells	_	_	_	
+96-24	15547-15554	running	_	_	_	
+96-25	15556-15559	the	_	_	_	
+96-26	15560-15565	whole	_	_	_	
+96-27	15566-15572	length	_	_	_	
+96-28	15573-15575	of	_	_	_	
+96-29	15576-15579	the	_	_	_	
+96-30	15580-15584	root	_	_	_	
+96-31	15584-15585	.	_	_	_	
+
+#Text=It is very difficult to describe the  flavor.
+97-1	15586-15588	It	_	_	_	
+97-2	15589-15591	is	_	_	_	
+97-3	15592-15596	very	_	_	_	
+97-4	15597-15606	difficult	_	_	_	
+97-5	15607-15609	to	_	_	_	
+97-6	15610-15618	describe	_	_	_	
+97-7	15619-15622	the	_	_	_	
+97-8	15624-15630	flavor	Taste Word	*|*|*|*|*	96-1[101_0]|98-6|98-4[103_0]|98-18[105_0]|98-10[104_0]	
+97-9	15630-15631	.	_	_	_	
+
+#Text=It is slightly sweet and glutinous, and is generally boiled  with wild fowl, but is occasionally roasted.
+98-1	15632-15634	It	_	_	_	
+98-2	15635-15637	is	_	_	_	
+98-3	15638-15646	slightly	Quality	_	_	
+98-4	15647-15652	sweet	Taste Word[102]|Quality[103]	*|*	98-4[103_102]|98-3[0_102]	
+98-5	15653-15656	and	_	_	_	
+98-6	15657-15666	glutinous	Quality	_	_	
+98-7	15666-15667	,	_	_	_	
+98-8	15668-15671	and	_	_	_	
+98-9	15672-15674	is	_	_	_	
+98-10	15675-15684	generally	Circumstance[104]	_	_	
+98-11	15685-15691	boiled	Circumstance[104]	_	_	
+98-12	15693-15697	with	Circumstance[104]	_	_	
+98-13	15698-15702	wild	Circumstance[104]	_	_	
+98-14	15703-15707	fowl	Circumstance[104]	_	_	
+98-15	15707-15708	,	_	_	_	
+98-16	15709-15712	but	_	_	_	
+98-17	15713-15715	is	_	_	_	
+98-18	15716-15728	occasionally	Circumstance[105]	_	_	
+98-19	15729-15736	roasted	Circumstance[105]	_	_	
+98-20	15736-15737	.	_	_	_	
+
+#Text=In his exploring expedition into the interior of Guiana, in the region  of the Upper Essequibo, Sir E.
+99-1	15741-15743	In	_	_	_	
+99-2	15744-15747	his	_	_	_	
+99-3	15748-15757	exploring	_	_	_	
+99-4	15758-15768	expedition	_	_	_	
+99-5	15769-15773	into	_	_	_	
+99-6	15774-15777	the	_	_	_	
+99-7	15778-15786	interior	_	_	_	
+99-8	15787-15789	of	_	_	_	
+99-9	15790-15796	Guiana	_	_	_	
+99-10	15796-15797	,	_	_	_	
+99-11	15798-15800	in	_	_	_	
+99-12	15801-15804	the	_	_	_	
+99-13	15805-15811	region	_	_	_	
+99-14	15813-15815	of	_	_	_	
+99-15	15816-15819	the	_	_	_	
+99-16	15820-15825	Upper	_	_	_	
+99-17	15826-15835	Essequibo	_	_	_	
+99-18	15835-15836	,	_	_	_	
+99-19	15837-15840	Sir	_	_	_	
+99-20	15841-15842	E	_	_	_	
+99-21	15842-15843	.	_	_	_	
+
+#Text=Schomburgk notices the discovery of a  variety of Leguminosæ, whose tubers grow to an enormous size, fully  equal to the largest yam.
+100-1	15844-15854	Schomburgk	_	_	_	
+100-2	15855-15862	notices	_	_	_	
+100-3	15863-15866	the	_	_	_	
+100-4	15867-15876	discovery	_	_	_	
+100-5	15877-15879	of	_	_	_	
+100-6	15880-15881	a	_	_	_	
+100-7	15883-15890	variety	_	_	_	
+100-8	15891-15893	of	_	_	_	
+100-9	15894-15904	Leguminosæ	_	_	_	
+100-10	15904-15905	,	_	_	_	
+100-11	15906-15911	whose	_	_	_	
+100-12	15912-15918	tubers	_	_	_	
+100-13	15919-15923	grow	_	_	_	
+100-14	15924-15926	to	_	_	_	
+100-15	15927-15929	an	_	_	_	
+100-16	15930-15938	enormous	_	_	_	
+100-17	15939-15943	size	_	_	_	
+100-18	15943-15944	,	_	_	_	
+100-19	15945-15950	fully	_	_	_	
+100-20	15952-15957	equal	_	_	_	
+100-21	15958-15960	to	_	_	_	
+100-22	15961-15964	the	_	_	_	
+100-23	15965-15972	largest	_	_	_	
+100-24	15973-15976	yam	_	_	_	
+100-25	15976-15977	.	_	_	_	
+
+#Text=These roots were not, at the time he was  there, in full perfection, but their taste was somewhat between the  yam and the sweet potato.
+101-1	15978-15983	These	Taste Source[106]	_	_	
+101-2	15984-15989	roots	Taste Source[106]	_	_	
+101-3	15990-15994	were	_	_	_	
+101-4	15995-15998	not	_	_	_	
+101-5	15998-15999	,	_	_	_	
+101-6	16000-16002	at	_	_	_	
+101-7	16003-16006	the	_	_	_	
+101-8	16007-16011	time	_	_	_	
+101-9	16012-16014	he	_	_	_	
+101-10	16015-16018	was	_	_	_	
+101-11	16020-16025	there	_	_	_	
+101-12	16025-16026	,	_	_	_	
+101-13	16027-16029	in	_	_	_	
+101-14	16030-16034	full	_	_	_	
+101-15	16035-16045	perfection	_	_	_	
+101-16	16045-16046	,	_	_	_	
+101-17	16047-16050	but	_	_	_	
+101-18	16051-16056	their	_	_	_	
+101-19	16057-16062	taste	Taste Word	*|*	101-1[106_0]|101-20[107_0]	
+101-20	16063-16066	was	Evoked Taste[107]	_	_	
+101-21	16067-16075	somewhat	Evoked Taste[107]	_	_	
+101-22	16076-16083	between	Evoked Taste[107]	_	_	
+101-23	16084-16087	the	Evoked Taste[107]	_	_	
+101-24	16089-16092	yam	Evoked Taste[107]	_	_	
+101-25	16093-16096	and	Evoked Taste[107]	_	_	
+101-26	16097-16100	the	Evoked Taste[107]	_	_	
+101-27	16101-16106	sweet	Evoked Taste[107]|Taste Word[108]|Quality[109]	*|*	101-28[110_108]|101-27[109_108]	
+101-28	16107-16113	potato	Evoked Taste[107]|Taste Source[110]	_	_	
+101-29	16113-16114	.	_	_	_	
+
+#Text=The Taruma Indians called them Cuyupa.
+102-1	16115-16118	The	_	_	_	
+102-2	16119-16125	Taruma	_	_	_	
+102-3	16126-16133	Indians	_	_	_	
+102-4	16134-16140	called	_	_	_	
+102-5	16141-16145	them	_	_	_	
+102-6	16146-16152	Cuyupa	_	_	_	
+102-7	16152-16153	.	_	_	_	
+
+#Text=The  roots are considered fit for use when the herb above ground dies.
+103-1	16154-16157	The	_	_	_	
+103-2	16159-16164	roots	_	_	_	
+103-3	16165-16168	are	_	_	_	
+103-4	16169-16179	considered	_	_	_	
+103-5	16180-16183	fit	_	_	_	
+103-6	16184-16187	for	_	_	_	
+103-7	16188-16191	use	_	_	_	
+103-8	16192-16196	when	_	_	_	
+103-9	16197-16200	the	_	_	_	
+103-10	16201-16205	herb	_	_	_	
+103-11	16206-16211	above	_	_	_	
+103-12	16212-16218	ground	_	_	_	
+103-13	16219-16223	dies	_	_	_	
+103-14	16223-16224	.	_	_	_	
+
+#Text=Sir  Robert brought a few of the seeds of the plant with him on his return  to Demerara.
+104-1	16225-16228	Sir	_	_	_	
+104-2	16230-16236	Robert	_	_	_	
+104-3	16237-16244	brought	_	_	_	
+104-4	16245-16246	a	_	_	_	
+104-5	16247-16250	few	_	_	_	
+104-6	16251-16253	of	_	_	_	
+104-7	16254-16257	the	_	_	_	
+104-8	16258-16263	seeds	_	_	_	
+104-9	16264-16266	of	_	_	_	
+104-10	16267-16270	the	_	_	_	
+104-11	16271-16276	plant	_	_	_	
+104-12	16277-16281	with	_	_	_	
+104-13	16282-16285	him	_	_	_	
+104-14	16286-16288	on	_	_	_	
+104-15	16289-16292	his	_	_	_	
+104-16	16293-16299	return	_	_	_	
+104-17	16301-16303	to	_	_	_	
+104-18	16304-16312	Demerara	_	_	_	
+104-19	16312-16313	.	_	_	_	
+
+#Text=Two interesting productions have been recently introduced into the  Jardin des Plantes, at Paris, from the Ecuador, by M.
+105-1	16317-16320	Two	_	_	_	
+105-2	16321-16332	interesting	_	_	_	
+105-3	16333-16344	productions	_	_	_	
+105-4	16345-16349	have	_	_	_	
+105-5	16350-16354	been	_	_	_	
+105-6	16355-16363	recently	_	_	_	
+105-7	16364-16374	introduced	_	_	_	
+105-8	16375-16379	into	_	_	_	
+105-9	16380-16383	the	_	_	_	
+105-10	16385-16391	Jardin	_	_	_	
+105-11	16392-16395	des	_	_	_	
+105-12	16396-16403	Plantes	_	_	_	
+105-13	16403-16404	,	_	_	_	
+105-14	16405-16407	at	_	_	_	
+105-15	16408-16413	Paris	_	_	_	
+105-16	16413-16414	,	_	_	_	
+105-17	16415-16419	from	_	_	_	
+105-18	16420-16423	the	_	_	_	
+105-19	16424-16431	Ecuador	_	_	_	
+105-20	16431-16432	,	_	_	_	
+105-21	16433-16435	by	_	_	_	
+105-22	16436-16437	M	_	_	_	
+105-23	16437-16438	.	_	_	_	
+
+#Text=Bourcier,  formerly Consul-General of France in that country.
+106-1	16439-16447	Bourcier	_	_	_	
+106-2	16447-16448	,	_	_	_	
+106-3	16450-16458	formerly	_	_	_	
+106-4	16459-16473	Consul-General	_	_	_	
+106-5	16474-16476	of	_	_	_	
+106-6	16477-16483	France	_	_	_	
+106-7	16484-16486	in	_	_	_	
+106-8	16487-16491	that	_	_	_	
+106-9	16492-16499	country	_	_	_	
+106-10	16499-16500	.	_	_	_	
+
+#Text=One is the red and
+#Text=been favorable, a great part of their diet.
+107-1	16501-16504	One	_	_	_	
+107-2	16505-16507	is	_	_	_	
+107-3	16508-16511	the	_	_	_	
+107-4	16512-16515	red	_	_	_	
+107-5	16516-16519	and	_	_	_	
+107-6	16520-16524	been	_	_	_	
+107-7	16525-16534	favorable	_	_	_	
+107-8	16534-16535	,	_	_	_	
+107-9	16536-16537	a	_	_	_	
+107-10	16538-16543	great	_	_	_	
+107-11	16544-16548	part	_	_	_	
+107-12	16549-16551	of	_	_	_	
+107-13	16552-16557	their	_	_	_	
+107-14	16558-16562	diet	_	_	_	
+107-15	16562-16563	.	_	_	_	
+
+#Text=The seeds of the cones of the nut pine (_Pinus monophyllus_), a new  species described by Dr.
+108-1	16567-16570	The	_	_	_	
+108-2	16571-16576	seeds	_	_	_	
+108-3	16577-16579	of	_	_	_	
+108-4	16580-16583	the	_	_	_	
+108-5	16584-16589	cones	_	_	_	
+108-6	16590-16592	of	_	_	_	
+108-7	16593-16596	the	_	_	_	
+108-8	16597-16600	nut	_	_	_	
+108-9	16601-16605	pine	_	_	_	
+108-10	16606-16607	(	_	_	_	
+108-11	16607-16608	_	_	_	_	
+108-12	16608-16613	Pinus	_	_	_	
+108-13	16614-16625	monophyllus	_	_	_	
+108-14	16625-16626	_	_	_	_	
+108-15	16626-16627	)	_	_	_	
+108-16	16627-16628	,	_	_	_	
+108-17	16629-16630	a	_	_	_	
+108-18	16631-16634	new	_	_	_	
+108-19	16636-16643	species	_	_	_	
+108-20	16644-16653	described	_	_	_	
+108-21	16654-16656	by	_	_	_	
+108-22	16657-16659	Dr	_	_	_	
+108-23	16659-16660	.	_	_	_	
+
+#Text=Torrey, and alluded to by Col.
+109-1	16661-16667	Torrey	_	_	_	
+109-2	16667-16668	,	_	_	_	
+109-3	16669-16672	and	_	_	_	
+109-4	16673-16680	alluded	_	_	_	
+109-5	16681-16683	to	_	_	_	
+109-6	16684-16686	by	_	_	_	
+109-7	16687-16690	Col	_	_	_	
+109-8	16690-16691	.	_	_	_	
+
+#Text=Fremont in his  exploring expedition to the Rocky Mountains, are largely used by the  North American Indians.
+110-1	16692-16699	Fremont	_	_	_	
+110-2	16700-16702	in	_	_	_	
+110-3	16703-16706	his	_	_	_	
+110-4	16708-16717	exploring	_	_	_	
+110-5	16718-16728	expedition	_	_	_	
+110-6	16729-16731	to	_	_	_	
+110-7	16732-16735	the	_	_	_	
+110-8	16736-16741	Rocky	_	_	_	
+110-9	16742-16751	Mountains	_	_	_	
+110-10	16751-16752	,	_	_	_	
+110-11	16753-16756	are	_	_	_	
+110-12	16757-16764	largely	_	_	_	
+110-13	16765-16769	used	_	_	_	
+110-14	16770-16772	by	_	_	_	
+110-15	16773-16776	the	_	_	_	
+110-16	16778-16783	North	_	_	_	
+110-17	16784-16792	American	_	_	_	
+110-18	16793-16800	Indians	_	_	_	
+110-19	16800-16801	.	_	_	_	
+
+#Text=The nut is oily, of a most agreeable flavor,  and must be very nutritious as it constitutes the principal  subsistence of many of the native tribes.
+111-1	16802-16805	The	Taste Source[111]	_	_	
+111-2	16806-16809	nut	Taste Source[111]	_	_	
+111-3	16810-16812	is	_	_	_	
+111-4	16813-16817	oily	_	_	_	
+111-5	16817-16818	,	_	_	_	
+111-6	16819-16821	of	_	_	_	
+111-7	16822-16823	a	_	_	_	
+111-8	16824-16828	most	Quality[112]	_	_	
+111-9	16829-16838	agreeable	Quality[112]	_	_	
+111-10	16839-16845	flavor	Taste Word	*|*	111-8[112_0]|111-1[111_0]	
+111-11	16845-16846	,	_	_	_	
+111-12	16848-16851	and	_	_	_	
+111-13	16852-16856	must	_	_	_	
+111-14	16857-16859	be	_	_	_	
+111-15	16860-16864	very	_	_	_	
+111-16	16865-16875	nutritious	_	_	_	
+111-17	16876-16878	as	_	_	_	
+111-18	16879-16881	it	_	_	_	
+111-19	16882-16893	constitutes	_	_	_	
+111-20	16894-16897	the	_	_	_	
+111-21	16898-16907	principal	_	_	_	
+111-22	16909-16920	subsistence	_	_	_	
+111-23	16921-16923	of	_	_	_	
+111-24	16924-16928	many	_	_	_	
+111-25	16929-16931	of	_	_	_	
+111-26	16932-16935	the	_	_	_	
+111-27	16936-16942	native	_	_	_	
+111-28	16943-16949	tribes	_	_	_	
+111-29	16949-16950	.	_	_	_	
+
+#Text=The cone of another magnificent pine (_Auracaria Bidwillii_),  indigenous to the Eastern coast of Australia, about the Moreton Bay  district, is frequently met with twelve inches in diameter, and  containing 150 edible seeds as large as a walnut.
+112-1	16954-16957	The	_	_	_	
+112-2	16958-16962	cone	_	_	_	
+112-3	16963-16965	of	_	_	_	
+112-4	16966-16973	another	_	_	_	
+112-5	16974-16985	magnificent	_	_	_	
+112-6	16986-16990	pine	_	_	_	
+112-7	16991-16992	(	_	_	_	
+112-8	16992-16993	_	_	_	_	
+112-9	16993-17002	Auracaria	_	_	_	
+112-10	17003-17012	Bidwillii	_	_	_	
+112-11	17012-17013	_	_	_	_	
+112-12	17013-17014	)	_	_	_	
+112-13	17014-17015	,	_	_	_	
+112-14	17017-17027	indigenous	_	_	_	
+112-15	17028-17030	to	_	_	_	
+112-16	17031-17034	the	_	_	_	
+112-17	17035-17042	Eastern	_	_	_	
+112-18	17043-17048	coast	_	_	_	
+112-19	17049-17051	of	_	_	_	
+112-20	17052-17061	Australia	_	_	_	
+112-21	17061-17062	,	_	_	_	
+112-22	17063-17068	about	_	_	_	
+112-23	17069-17072	the	_	_	_	
+112-24	17073-17080	Moreton	_	_	_	
+112-25	17081-17084	Bay	_	_	_	
+112-26	17086-17094	district	_	_	_	
+112-27	17094-17095	,	_	_	_	
+112-28	17096-17098	is	_	_	_	
+112-29	17099-17109	frequently	_	_	_	
+112-30	17110-17113	met	_	_	_	
+112-31	17114-17118	with	_	_	_	
+112-32	17119-17125	twelve	_	_	_	
+112-33	17126-17132	inches	_	_	_	
+112-34	17133-17135	in	_	_	_	
+112-35	17136-17144	diameter	_	_	_	
+112-36	17144-17145	,	_	_	_	
+112-37	17146-17149	and	_	_	_	
+112-38	17151-17161	containing	_	_	_	
+112-39	17162-17165	150	_	_	_	
+112-40	17166-17172	edible	Taste Source[113]	_	_	
+112-41	17173-17178	seeds	Taste Source[113]	_	_	
+112-42	17179-17181	as	_	_	_	
+112-43	17182-17187	large	_	_	_	
+112-44	17188-17190	as	_	_	_	
+112-45	17191-17192	a	_	_	_	
+112-46	17193-17199	walnut	_	_	_	
+112-47	17199-17200	.	_	_	_	
+
+#Text=The aborigines  roast these seeds, crack the husk between two stones, and eat them  hot.
+113-1	17201-17204	The	Taster[114]	_	_	
+113-2	17205-17215	aborigines	Taster[114]	_	_	
+113-3	17217-17222	roast	_	_	_	
+113-4	17223-17228	these	_	_	_	
+113-5	17229-17234	seeds	_	_	_	
+113-6	17234-17235	,	_	_	_	
+113-7	17236-17241	crack	_	_	_	
+113-8	17242-17245	the	_	_	_	
+113-9	17246-17250	husk	_	_	_	
+113-10	17251-17258	between	_	_	_	
+113-11	17259-17262	two	_	_	_	
+113-12	17263-17269	stones	_	_	_	
+113-13	17269-17270	,	_	_	_	
+113-14	17271-17274	and	_	_	_	
+113-15	17275-17278	eat	Taste Word	*|*|*	113-17|113-1[114_0]|113-16	
+113-16	17279-17283	them	Taste Source	anaphorical	112-40[113_0]	
+113-17	17285-17288	hot	Circumstance	_	_	
+113-18	17288-17289	.	_	_	_	
+
+#Text=They taste something like a yam or hard dry potato.
+114-1	17290-17294	They	Taste Source	anaphorical	112-40[113_0]	
+114-2	17295-17300	taste	Taste Word	*|*|*	114-3[115_0]|114-8[116_0]|114-1	
+114-3	17301-17310	something	Evoked Taste[115]	_	_	
+114-4	17311-17315	like	Evoked Taste[115]	_	_	
+114-5	17316-17317	a	Evoked Taste[115]	_	_	
+114-6	17318-17321	yam	Evoked Taste[115]	_	_	
+114-7	17322-17324	or	_	_	_	
+114-8	17325-17329	hard	Evoked Taste[116]	_	_	
+114-9	17330-17333	dry	Evoked Taste[116]	_	_	
+114-10	17334-17340	potato	Evoked Taste[116]	_	_	
+114-11	17340-17341	.	_	_	_	
+
+#Text=The trees  bear cones only once in four years, during a period of six months.
+115-1	17342-17345	The	_	_	_	
+115-2	17346-17351	trees	_	_	_	
+115-3	17353-17357	bear	_	_	_	
+115-4	17358-17363	cones	_	_	_	
+115-5	17364-17368	only	_	_	_	
+115-6	17369-17373	once	_	_	_	
+115-7	17374-17376	in	_	_	_	
+115-8	17377-17381	four	_	_	_	
+115-9	17382-17387	years	_	_	_	
+115-10	17387-17388	,	_	_	_	
+115-11	17389-17395	during	_	_	_	
+115-12	17396-17397	a	_	_	_	
+115-13	17398-17404	period	_	_	_	
+115-14	17405-17407	of	_	_	_	
+115-15	17408-17411	six	_	_	_	
+115-16	17412-17418	months	_	_	_	
+115-17	17418-17419	.	_	_	_	
+
+#Text=This season is held as a great festival by the aborigines of that  locality, called by them Bunga Bunga, and they congregate in greater  numbers than is known in any other part of Australia, frequently  coming from a distance of 300 miles.
+116-1	17421-17425	This	_	_	_	
+116-2	17426-17432	season	_	_	_	
+116-3	17433-17435	is	_	_	_	
+116-4	17436-17440	held	_	_	_	
+116-5	17441-17443	as	_	_	_	
+116-6	17444-17445	a	_	_	_	
+116-7	17446-17451	great	_	_	_	
+116-8	17452-17460	festival	_	_	_	
+116-9	17461-17463	by	_	_	_	
+116-10	17464-17467	the	_	_	_	
+116-11	17468-17478	aborigines	_	_	_	
+116-12	17479-17481	of	_	_	_	
+116-13	17482-17486	that	_	_	_	
+116-14	17488-17496	locality	_	_	_	
+116-15	17496-17497	,	_	_	_	
+116-16	17498-17504	called	_	_	_	
+116-17	17505-17507	by	_	_	_	
+116-18	17508-17512	them	_	_	_	
+116-19	17513-17518	Bunga	_	_	_	
+116-20	17519-17524	Bunga	_	_	_	
+116-21	17524-17525	,	_	_	_	
+116-22	17526-17529	and	_	_	_	
+116-23	17530-17534	they	_	_	_	
+116-24	17535-17545	congregate	_	_	_	
+116-25	17546-17548	in	_	_	_	
+116-26	17549-17556	greater	_	_	_	
+116-27	17558-17565	numbers	_	_	_	
+116-28	17566-17570	than	_	_	_	
+116-29	17571-17573	is	_	_	_	
+116-30	17574-17579	known	_	_	_	
+116-31	17580-17582	in	_	_	_	
+116-32	17583-17586	any	_	_	_	
+116-33	17587-17592	other	_	_	_	
+116-34	17593-17597	part	_	_	_	
+116-35	17598-17600	of	_	_	_	
+116-36	17601-17610	Australia	_	_	_	
+116-37	17610-17611	,	_	_	_	
+116-38	17612-17622	frequently	_	_	_	
+116-39	17624-17630	coming	_	_	_	
+116-40	17631-17635	from	_	_	_	
+116-41	17636-17637	a	_	_	_	
+116-42	17638-17646	distance	_	_	_	
+116-43	17647-17649	of	_	_	_	
+116-44	17650-17653	300	_	_	_	
+116-45	17654-17659	miles	_	_	_	
+116-46	17659-17660	.	_	_	_	
+
+#Text=They grow sleek and fat upon this
+#Text=nicasol (_Vitex Negundo_).
+117-1	17661-17665	They	_	_	_	
+117-2	17666-17670	grow	_	_	_	
+117-3	17671-17676	sleek	_	_	_	
+117-4	17677-17680	and	_	_	_	
+117-5	17681-17684	fat	_	_	_	
+117-6	17685-17689	upon	_	_	_	
+117-7	17690-17694	this	_	_	_	
+117-8	17695-17702	nicasol	_	_	_	
+117-9	17703-17704	(	_	_	_	
+117-10	17704-17705	_	_	_	_	
+117-11	17705-17710	Vitex	_	_	_	
+117-12	17711-17718	Negundo	_	_	_	
+117-13	17718-17719	_	_	_	_	
+117-14	17719-17720	)	_	_	_	
+117-15	17720-17721	.	_	_	_	
+
+#Text=The bark of this tree has neither taste or  rather pliable; it ought to be about the substance of royal paper, or  somewhat thicker.
+118-1	17722-17725	The	Taste Source[117]	_	_	
+118-2	17726-17730	bark	Taste Source[117]	_	_	
+118-3	17731-17733	of	Taste Source[117]	_	_	
+118-4	17734-17738	this	Taste Source[117]	_	_	
+118-5	17739-17743	tree	Taste Source[117]	_	_	
+118-6	17744-17747	has	_	_	_	
+118-7	17748-17755	neither	_	_	_	
+118-8	17756-17761	taste	Taste Word	*	118-1[117_0]	
+118-9	17762-17764	or	_	_	_	
+118-10	17766-17772	rather	_	_	_	
+118-11	17773-17780	pliable	_	_	_	
+118-12	17780-17781	;	_	_	_	
+118-13	17782-17784	it	_	_	_	
+118-14	17785-17790	ought	_	_	_	
+118-15	17791-17793	to	_	_	_	
+118-16	17794-17796	be	_	_	_	
+118-17	17797-17802	about	_	_	_	
+118-18	17803-17806	the	_	_	_	
+118-19	17807-17816	substance	_	_	_	
+118-20	17817-17819	of	_	_	_	
+118-21	17820-17825	royal	_	_	_	
+118-22	17826-17831	paper	_	_	_	
+118-23	17831-17832	,	_	_	_	
+118-24	17833-17835	or	_	_	_	
+118-25	17837-17845	somewhat	_	_	_	
+118-26	17846-17853	thicker	_	_	_	
+118-27	17853-17854	.	_	_	_	
+
+#Text=It admits of a considerable degree of pressure, and  bends before it breaks; the fracture is then splintering.
+119-1	17855-17857	It	_	_	_	
+119-2	17858-17864	admits	_	_	_	
+119-3	17865-17867	of	_	_	_	
+119-4	17868-17869	a	_	_	_	
+119-5	17870-17882	considerable	_	_	_	
+119-6	17883-17889	degree	_	_	_	
+119-7	17890-17892	of	_	_	_	
+119-8	17893-17901	pressure	_	_	_	
+119-9	17901-17902	,	_	_	_	
+119-10	17903-17906	and	_	_	_	
+119-11	17908-17913	bends	_	_	_	
+119-12	17914-17920	before	_	_	_	
+119-13	17921-17923	it	_	_	_	
+119-14	17924-17930	breaks	_	_	_	
+119-15	17930-17931	;	_	_	_	
+119-16	17932-17935	the	_	_	_	
+119-17	17936-17944	fracture	_	_	_	
+119-18	17945-17947	is	_	_	_	
+119-19	17948-17952	then	_	_	_	
+119-20	17953-17964	splintering	_	_	_	
+119-21	17964-17965	.	_	_	_	
+
+#Text=It is of a  light color, approaching to yellow, bordering but little upon the  brown; it possesses a sweetish taste, at the same time it is not  stronger than can be borne without pain, and is not succeeded by any  after-taste.
+120-1	17966-17968	It	_	_	_	
+120-2	17969-17971	is	_	_	_	
+120-3	17972-17974	of	_	_	_	
+120-4	17975-17976	a	_	_	_	
+120-5	17978-17983	light	_	_	_	
+120-6	17984-17989	color	_	_	_	
+120-7	17989-17990	,	_	_	_	
+120-8	17991-18002	approaching	_	_	_	
+120-9	18003-18005	to	_	_	_	
+120-10	18006-18012	yellow	_	_	_	
+120-11	18012-18013	,	_	_	_	
+120-12	18014-18023	bordering	_	_	_	
+120-13	18024-18027	but	_	_	_	
+120-14	18028-18034	little	_	_	_	
+120-15	18035-18039	upon	_	_	_	
+120-16	18040-18043	the	_	_	_	
+120-17	18045-18050	brown	_	_	_	
+120-18	18050-18051	;	_	_	_	
+120-19	18052-18054	it	Taste Source	anaphorical	118-1[117_0]	
+120-20	18055-18064	possesses	_	_	_	
+120-21	18065-18066	a	_	_	_	
+120-22	18067-18075	sweetish	Quality[118]|Taste Word[119]	*	120-22[118_119]	
+120-23	18076-18081	taste	Taste Word	*|*	120-22[118_0]|120-19	
+120-24	18081-18082	,	_	_	_	
+120-25	18083-18085	at	_	_	_	
+120-26	18086-18089	the	_	_	_	
+120-27	18090-18094	same	_	_	_	
+120-28	18095-18099	time	_	_	_	
+120-29	18100-18102	it	_	_	_	
+120-30	18103-18105	is	_	_	_	
+120-31	18106-18109	not	_	_	_	
+120-32	18111-18119	stronger	_	_	_	
+120-33	18120-18124	than	_	_	_	
+120-34	18125-18128	can	_	_	_	
+120-35	18129-18131	be	_	_	_	
+120-36	18132-18137	borne	_	_	_	
+120-37	18138-18145	without	_	_	_	
+120-38	18146-18150	pain	_	_	_	
+120-39	18150-18151	,	_	_	_	
+120-40	18152-18155	and	_	_	_	
+120-41	18156-18158	is	_	_	_	
+120-42	18159-18162	not	_	_	_	
+120-43	18163-18172	succeeded	_	_	_	
+120-44	18173-18175	by	_	_	_	
+120-45	18176-18179	any	Quality	_	_	
+120-46	18181-18192	after-taste	Taste Word	*|*	120-45|120-19	
+120-47	18192-18193	.	_	_	_	
+
+#Text=The more cinnamon departs from these characteristics, the  coarser and less serviceable it is esteemed; and it should be rejected  if it be hard, and thick as a half-crown piece; if it be very dark  colored or brown; if it be very pungent and hot on the tongue, with a  taste bordering upon that of cloves, so that it cannot be suffered  without pain.
+121-1	18194-18197	The	_	_	_	
+121-2	18198-18202	more	_	_	_	
+121-3	18203-18211	cinnamon	Taste Source	_	_	
+121-4	18212-18219	departs	_	_	_	
+121-5	18220-18224	from	_	_	_	
+121-6	18225-18230	these	_	_	_	
+121-7	18231-18246	characteristics	_	_	_	
+121-8	18246-18247	,	_	_	_	
+121-9	18248-18251	the	_	_	_	
+121-10	18253-18260	coarser	_	_	_	
+121-11	18261-18264	and	_	_	_	
+121-12	18265-18269	less	_	_	_	
+121-13	18270-18281	serviceable	_	_	_	
+121-14	18282-18284	it	_	_	_	
+121-15	18285-18287	is	_	_	_	
+121-16	18288-18296	esteemed	_	_	_	
+121-17	18296-18297	;	_	_	_	
+121-18	18298-18301	and	_	_	_	
+121-19	18302-18304	it	_	_	_	
+121-20	18305-18311	should	_	_	_	
+121-21	18312-18314	be	_	_	_	
+121-22	18315-18323	rejected	_	_	_	
+121-23	18325-18327	if	_	_	_	
+121-24	18328-18330	it	_	_	_	
+121-25	18331-18333	be	_	_	_	
+121-26	18334-18338	hard	_	_	_	
+121-27	18338-18339	,	_	_	_	
+121-28	18340-18343	and	_	_	_	
+121-29	18344-18349	thick	_	_	_	
+121-30	18350-18352	as	_	_	_	
+121-31	18353-18354	a	_	_	_	
+121-32	18355-18365	half-crown	_	_	_	
+121-33	18366-18371	piece	_	_	_	
+121-34	18371-18372	;	_	_	_	
+121-35	18373-18375	if	_	_	_	
+121-36	18376-18378	it	_	_	_	
+121-37	18379-18381	be	_	_	_	
+121-38	18382-18386	very	_	_	_	
+121-39	18387-18391	dark	_	_	_	
+121-40	18393-18400	colored	_	_	_	
+121-41	18401-18403	or	_	_	_	
+121-42	18404-18409	brown	_	_	_	
+121-43	18409-18410	;	_	_	_	
+121-44	18411-18413	if	_	_	_	
+121-45	18414-18416	it	Taste Source	anaphorical	121-3	
+121-46	18417-18419	be	_	_	_	
+121-47	18420-18424	very	Quality	_	_	
+121-48	18425-18432	pungent	Quality[120]|Taste Word[121]	*|*|*|*	121-48[120_121]|121-47[0_121]|121-50[122_121]|121-45[0_121]	
+121-49	18433-18436	and	_	_	_	
+121-50	18437-18440	hot	Effect[122]	_	_	
+121-51	18441-18443	on	Effect[122]	_	_	
+121-52	18444-18447	the	Effect[122]	_	_	
+121-53	18448-18454	tongue	Effect[122]	_	_	
+121-54	18454-18455	,	_	_	_	
+121-55	18456-18460	with	_	_	_	
+121-56	18461-18462	a	_	_	_	
+121-57	18464-18469	taste	Taste Word	*|*|*	121-58[123_0]|121-66[124_0]|121-45	
+121-58	18470-18479	bordering	Evoked Taste[123]	_	_	
+121-59	18480-18484	upon	Evoked Taste[123]	_	_	
+121-60	18485-18489	that	Evoked Taste[123]	_	_	
+121-61	18490-18492	of	Evoked Taste[123]	_	_	
+121-62	18493-18499	cloves	Evoked Taste[123]	_	_	
+121-63	18499-18500	,	_	_	_	
+121-64	18501-18503	so	_	_	_	
+121-65	18504-18508	that	_	_	_	
+121-66	18509-18511	it	Effect[124]	_	_	
+121-67	18512-18518	cannot	Effect[124]	_	_	
+121-68	18519-18521	be	Effect[124]	_	_	
+121-69	18522-18530	suffered	Effect[124]	_	_	
+121-70	18532-18539	without	Effect[124]	_	_	
+121-71	18540-18544	pain	Effect[124]	_	_	
+121-72	18544-18545	.	_	_	_	
+
+#Text=Particular care should be taken that it is not  false-packed, or mixed with cinnamon of a common sort.
+122-1	18546-18556	Particular	_	_	_	
+122-2	18557-18561	care	_	_	_	
+122-3	18562-18568	should	_	_	_	
+122-4	18569-18571	be	_	_	_	
+122-5	18572-18577	taken	_	_	_	
+122-6	18578-18582	that	_	_	_	
+122-7	18583-18585	it	_	_	_	
+122-8	18586-18588	is	_	_	_	
+122-9	18589-18592	not	_	_	_	
+122-10	18594-18606	false-packed	_	_	_	
+122-11	18606-18607	,	_	_	_	
+122-12	18608-18610	or	_	_	_	
+122-13	18611-18616	mixed	_	_	_	
+122-14	18617-18621	with	_	_	_	
+122-15	18622-18630	cinnamon	_	_	_	
+122-16	18631-18633	of	_	_	_	
+122-17	18634-18635	a	_	_	_	
+122-18	18636-18642	common	_	_	_	
+122-19	18643-18647	sort	_	_	_	
+122-20	18647-18648	.	_	_	_	
+
+#Text=The following remarks, by Mr.
+123-1	18652-18655	The	_	_	_	
+123-2	18656-18665	following	_	_	_	
+123-3	18666-18673	remarks	_	_	_	
+123-4	18673-18674	,	_	_	_	
+123-5	18675-18677	by	_	_	_	
+123-6	18678-18680	Mr	_	_	_	
+123-7	18680-18681	.	_	_	_	
+
+#Text=Dunewille, of Malacca, as to the  suitability of the Straits   '    Settlements for cinnamon culture, are  interesting, although in some instances a repetition of previous  observations:--  
+#Text=millions of poor in that country can obtain to eat with their insipid  sowings are usually the most productive, and the dye obtained from  them the finest.
+124-1	18682-18691	Dunewille	_	_	_	
+124-2	18691-18692	,	_	_	_	
+124-3	18693-18695	of	_	_	_	
+124-4	18696-18703	Malacca	_	_	_	
+124-5	18703-18704	,	_	_	_	
+124-6	18705-18707	as	_	_	_	
+124-7	18708-18710	to	_	_	_	
+124-8	18711-18714	the	_	_	_	
+124-9	18716-18727	suitability	_	_	_	
+124-10	18728-18730	of	_	_	_	
+124-11	18731-18734	the	_	_	_	
+124-12	18735-18742	Straits	_	_	_	
+124-13	18745-18746	'	_	_	_	
+124-14	18750-18761	Settlements	_	_	_	
+124-15	18762-18765	for	_	_	_	
+124-16	18766-18774	cinnamon	_	_	_	
+124-17	18775-18782	culture	_	_	_	
+124-18	18782-18783	,	_	_	_	
+124-19	18784-18787	are	_	_	_	
+124-20	18789-18800	interesting	_	_	_	
+124-21	18800-18801	,	_	_	_	
+124-22	18802-18810	although	_	_	_	
+124-23	18811-18813	in	_	_	_	
+124-24	18814-18818	some	_	_	_	
+124-25	18819-18828	instances	_	_	_	
+124-26	18829-18830	a	_	_	_	
+124-27	18831-18841	repetition	_	_	_	
+124-28	18842-18844	of	_	_	_	
+124-29	18845-18853	previous	_	_	_	
+124-30	18855-18867	observations	_	_	_	
+124-31	18867-18868	:	_	_	_	
+124-32	18868-18869	-	_	_	_	
+124-33	18869-18870	-	_	_	_	
+124-34	18873-18881	millions	Taster[125]	_	_	
+124-35	18882-18884	of	Taster[125]	_	_	
+124-36	18885-18889	poor	Taster[125]	_	_	
+124-37	18890-18892	in	Location[126]	_	_	
+124-38	18893-18897	that	Location[126]	_	_	
+124-39	18898-18905	country	Location[126]	_	_	
+124-40	18906-18909	can	_	_	_	
+124-41	18910-18916	obtain	_	_	_	
+124-42	18917-18919	to	_	_	_	
+124-43	18920-18923	eat	Taste Word	*|*|*	124-34[125_0]|124-37[126_0]|124-47	
+124-44	18924-18928	with	_	_	_	
+124-45	18929-18934	their	_	_	_	
+124-46	18935-18942	insipid	Taste Word[127]|Quality[128]	*|*	124-46[128_127]|124-47[0_127]	
+124-47	18944-18951	sowings	Taste Source	_	_	
+124-48	18952-18955	are	_	_	_	
+124-49	18956-18963	usually	_	_	_	
+124-50	18964-18967	the	_	_	_	
+124-51	18968-18972	most	_	_	_	
+124-52	18973-18983	productive	_	_	_	
+124-53	18983-18984	,	_	_	_	
+124-54	18985-18988	and	_	_	_	
+124-55	18989-18992	the	_	_	_	
+124-56	18993-18996	dye	_	_	_	
+124-57	18997-19005	obtained	_	_	_	
+124-58	19006-19010	from	_	_	_	
+124-59	19012-19016	them	_	_	_	
+124-60	19017-19020	the	_	_	_	
+124-61	19021-19027	finest	_	_	_	
+124-62	19027-19028	.	_	_	_	
+
+#Text=The object for thus delaying the sowing is, that  the young plants may have a more genial season for vegetation.
+125-1	19029-19032	The	_	_	_	
+125-2	19033-19039	object	_	_	_	
+125-3	19040-19043	for	_	_	_	
+125-4	19044-19048	thus	_	_	_	
+125-5	19049-19057	delaying	_	_	_	
+125-6	19058-19061	the	_	_	_	
+125-7	19062-19068	sowing	_	_	_	
+125-8	19069-19071	is	_	_	_	
+125-9	19071-19072	,	_	_	_	
+125-10	19073-19077	that	_	_	_	
+125-11	19079-19082	the	_	_	_	
+125-12	19083-19088	young	_	_	_	
+125-13	19089-19095	plants	_	_	_	
+125-14	19096-19099	may	_	_	_	
+125-15	19100-19104	have	_	_	_	
+125-16	19105-19106	a	_	_	_	
+125-17	19107-19111	more	_	_	_	
+125-18	19112-19118	genial	_	_	_	
+125-19	19119-19125	season	_	_	_	
+125-20	19126-19129	for	_	_	_	
+125-21	19130-19140	vegetation	_	_	_	
+125-22	19140-19141	.	_	_	_	
+
+#Text=Those  who prefer sowing earlier, and yet are aware of the importance of  saving the young plants as much as possible from the comparative low  temperature of the season, sow some other crop with their indigo.
+126-1	19142-19147	Those	_	_	_	
+126-2	19149-19152	who	_	_	_	
+126-3	19153-19159	prefer	_	_	_	
+126-4	19160-19166	sowing	_	_	_	
+126-5	19167-19174	earlier	_	_	_	
+126-6	19174-19175	,	_	_	_	
+126-7	19176-19179	and	_	_	_	
+126-8	19180-19183	yet	_	_	_	
+126-9	19184-19187	are	_	_	_	
+126-10	19188-19193	aware	_	_	_	
+126-11	19194-19196	of	_	_	_	
+126-12	19197-19200	the	_	_	_	
+126-13	19201-19211	importance	_	_	_	
+126-14	19212-19214	of	_	_	_	
+126-15	19216-19222	saving	_	_	_	
+126-16	19223-19226	the	_	_	_	
+126-17	19227-19232	young	_	_	_	
+126-18	19233-19239	plants	_	_	_	
+126-19	19240-19242	as	_	_	_	
+126-20	19243-19247	much	_	_	_	
+126-21	19248-19250	as	_	_	_	
+126-22	19251-19259	possible	_	_	_	
+126-23	19260-19264	from	_	_	_	
+126-24	19265-19268	the	_	_	_	
+126-25	19269-19280	comparative	_	_	_	
+126-26	19281-19284	low	_	_	_	
+126-27	19286-19297	temperature	_	_	_	
+126-28	19298-19300	of	_	_	_	
+126-29	19301-19304	the	_	_	_	
+126-30	19305-19311	season	_	_	_	
+126-31	19311-19312	,	_	_	_	
+126-32	19313-19316	sow	_	_	_	
+126-33	19317-19321	some	_	_	_	
+126-34	19322-19327	other	_	_	_	
+126-35	19328-19332	crop	_	_	_	
+126-36	19333-19337	with	_	_	_	
+126-37	19338-19343	their	_	_	_	
+126-38	19344-19350	indigo	_	_	_	
+126-39	19350-19351	.	_	_	_	
+
+#Text=Til, the country linseed, is good for this purpose in high lying  soils.
+127-1	19353-19356	Til	_	_	_	
+127-2	19356-19357	,	_	_	_	
+127-3	19358-19361	the	_	_	_	
+127-4	19362-19369	country	_	_	_	
+127-5	19370-19377	linseed	_	_	_	
+127-6	19377-19378	,	_	_	_	
+127-7	19379-19381	is	_	_	_	
+127-8	19382-19386	good	_	_	_	
+127-9	19387-19390	for	_	_	_	
+127-10	19391-19395	this	_	_	_	
+127-11	19396-19403	purpose	_	_	_	
+127-12	19404-19406	in	_	_	_	
+127-13	19407-19411	high	_	_	_	
+127-14	19412-19417	lying	_	_	_	
+127-15	19419-19424	soils	_	_	_	
+127-16	19424-19425	.	_	_	_	
+
+#Text=But I never knew an intermixture of crops that was not  attended by inconveniences and injuries more than was compensated by  the advantages gained.
+128-1	19426-19429	But	_	_	_	
+128-2	19430-19431	I	_	_	_	
+128-3	19432-19437	never	_	_	_	
+128-4	19438-19442	knew	_	_	_	
+128-5	19443-19445	an	_	_	_	
+128-6	19446-19458	intermixture	_	_	_	
+128-7	19459-19461	of	_	_	_	
+128-8	19462-19467	crops	_	_	_	
+128-9	19468-19472	that	_	_	_	
+128-10	19473-19476	was	_	_	_	
+128-11	19477-19480	not	_	_	_	
+128-12	19482-19490	attended	_	_	_	
+128-13	19491-19493	by	_	_	_	
+128-14	19494-19508	inconveniences	_	_	_	
+128-15	19509-19512	and	_	_	_	
+128-16	19513-19521	injuries	_	_	_	
+128-17	19522-19526	more	_	_	_	
+128-18	19527-19531	than	_	_	_	
+128-19	19532-19535	was	_	_	_	
+128-20	19536-19547	compensated	_	_	_	
+128-21	19548-19550	by	_	_	_	
+128-22	19552-19555	the	_	_	_	
+128-23	19556-19566	advantages	_	_	_	
+128-24	19567-19573	gained	_	_	_	
+128-25	19573-19574	.	_	_	_	
+
+#Text=The success of sowings during March and April is very doubtful.
+129-1	19578-19581	The	_	_	_	
+129-2	19582-19589	success	_	_	_	
+129-3	19590-19592	of	_	_	_	
+129-4	19593-19600	sowings	_	_	_	
+129-5	19601-19607	during	_	_	_	
+129-6	19608-19613	March	_	_	_	
+129-7	19614-19617	and	_	_	_	
+129-8	19618-19623	April	_	_	_	
+129-9	19624-19626	is	_	_	_	
+129-10	19627-19631	very	_	_	_	
+129-11	19632-19640	doubtful	_	_	_	
+129-12	19640-19641	.	_	_	_	
+
+#Text=It  depends entirely upon the occurrence of rain, which in those months  is proverbially uncertain.
+130-1	19642-19644	It	_	_	_	
+130-2	19646-19653	depends	_	_	_	
+130-3	19654-19662	entirely	_	_	_	
+130-4	19663-19667	upon	_	_	_	
+130-5	19668-19671	the	_	_	_	
+130-6	19672-19682	occurrence	_	_	_	
+130-7	19683-19685	of	_	_	_	
+130-8	19686-19690	rain	_	_	_	
+130-9	19690-19691	,	_	_	_	
+130-10	19692-19697	which	_	_	_	
+130-11	19698-19700	in	_	_	_	
+130-12	19701-19706	those	_	_	_	
+130-13	19707-19713	months	_	_	_	
+130-14	19715-19717	is	_	_	_	
+130-15	19718-19730	proverbially	_	_	_	
+130-16	19731-19740	uncertain	_	_	_	
+130-17	19740-19741	.	_	_	_	
+
+#Text=If the season should be sufficiently wet,  the sowing may be performed in May; but a June sowing is very rarely  remunerating.
+131-1	19742-19744	If	_	_	_	
+131-2	19745-19748	the	_	_	_	
+131-3	19749-19755	season	_	_	_	
+131-4	19756-19762	should	_	_	_	
+131-5	19763-19765	be	_	_	_	
+131-6	19766-19778	sufficiently	_	_	_	
+131-7	19779-19782	wet	_	_	_	
+131-8	19782-19783	,	_	_	_	
+131-9	19785-19788	the	_	_	_	
+131-10	19789-19795	sowing	_	_	_	
+131-11	19796-19799	may	_	_	_	
+131-12	19800-19802	be	_	_	_	
+131-13	19803-19812	performed	_	_	_	
+131-14	19813-19815	in	_	_	_	
+131-15	19816-19819	May	_	_	_	
+131-16	19819-19820	;	_	_	_	
+131-17	19821-19824	but	_	_	_	
+131-18	19825-19826	a	_	_	_	
+131-19	19827-19831	June	_	_	_	
+131-20	19832-19838	sowing	_	_	_	
+131-21	19839-19841	is	_	_	_	
+131-22	19842-19846	very	_	_	_	
+131-23	19847-19853	rarely	_	_	_	
+131-24	19855-19867	remunerating	_	_	_	
+131-25	19867-19868	.	_	_	_	
+
+#Text=The rains setting in during the latter part of this  month so promote the growth of weeds, that the young plants are  choked and generally destroyed.
+132-1	19869-19872	The	_	_	_	
+132-2	19873-19878	rains	_	_	_	
+132-3	19879-19886	setting	_	_	_	
+132-4	19887-19889	in	_	_	_	
+132-5	19890-19896	during	_	_	_	
+132-6	19897-19900	the	_	_	_	
+132-7	19901-19907	latter	_	_	_	
+132-8	19908-19912	part	_	_	_	
+132-9	19913-19915	of	_	_	_	
+132-10	19916-19920	this	_	_	_	
+132-11	19922-19927	month	_	_	_	
+132-12	19928-19930	so	_	_	_	
+132-13	19931-19938	promote	_	_	_	
+132-14	19939-19942	the	_	_	_	
+132-15	19943-19949	growth	_	_	_	
+132-16	19950-19952	of	_	_	_	
+132-17	19953-19958	weeds	_	_	_	
+132-18	19958-19959	,	_	_	_	
+132-19	19960-19964	that	_	_	_	
+132-20	19965-19968	the	_	_	_	
+132-21	19969-19974	young	_	_	_	
+132-22	19975-19981	plants	_	_	_	
+132-23	19982-19985	are	_	_	_	
+132-24	19987-19993	choked	_	_	_	
+132-25	19994-19997	and	_	_	_	
+132-26	19998-20007	generally	_	_	_	
+132-27	20008-20017	destroyed	_	_	_	
+132-28	20017-20018	.	_	_	_	
+
+#Text=The exceptions only occur in high  lands, in unusually propitious seasons, and ought never to be relied weight of flowers to three weights of oil in a bottle, which being  of a dollar per hundred in their natural state, to captains of ships,  who freely purchase them, or manufactured into oil, they are a very  remunerative product.
+133-1	20019-20022	The	_	_	_	
+133-2	20023-20033	exceptions	_	_	_	
+133-3	20034-20038	only	_	_	_	
+133-4	20039-20044	occur	_	_	_	
+133-5	20045-20047	in	_	_	_	
+133-6	20048-20052	high	_	_	_	
+133-7	20054-20059	lands	_	_	_	
+133-8	20059-20060	,	_	_	_	
+133-9	20061-20063	in	_	_	_	
+133-10	20064-20073	unusually	_	_	_	
+133-11	20074-20084	propitious	_	_	_	
+133-12	20085-20092	seasons	_	_	_	
+133-13	20092-20093	,	_	_	_	
+133-14	20094-20097	and	_	_	_	
+133-15	20098-20103	ought	_	_	_	
+133-16	20104-20109	never	_	_	_	
+133-17	20110-20112	to	_	_	_	
+133-18	20113-20115	be	_	_	_	
+133-19	20116-20122	relied	_	_	_	
+133-20	20123-20129	weight	_	_	_	
+133-21	20130-20132	of	_	_	_	
+133-22	20133-20140	flowers	_	_	_	
+133-23	20141-20143	to	_	_	_	
+133-24	20144-20149	three	_	_	_	
+133-25	20150-20157	weights	_	_	_	
+133-26	20158-20160	of	_	_	_	
+133-27	20161-20164	oil	_	_	_	
+133-28	20165-20167	in	_	_	_	
+133-29	20168-20169	a	_	_	_	
+133-30	20170-20176	bottle	_	_	_	
+133-31	20176-20177	,	_	_	_	
+133-32	20178-20183	which	_	_	_	
+133-33	20184-20189	being	_	_	_	
+133-34	20191-20193	of	_	_	_	
+133-35	20194-20195	a	_	_	_	
+133-36	20196-20202	dollar	_	_	_	
+133-37	20203-20206	per	_	_	_	
+133-38	20207-20214	hundred	_	_	_	
+133-39	20215-20217	in	_	_	_	
+133-40	20218-20223	their	_	_	_	
+133-41	20224-20231	natural	_	_	_	
+133-42	20232-20237	state	_	_	_	
+133-43	20237-20238	,	_	_	_	
+133-44	20239-20241	to	_	_	_	
+133-45	20242-20250	captains	_	_	_	
+133-46	20251-20253	of	_	_	_	
+133-47	20254-20259	ships	_	_	_	
+133-48	20259-20260	,	_	_	_	
+133-49	20262-20265	who	_	_	_	
+133-50	20266-20272	freely	_	_	_	
+133-51	20273-20281	purchase	_	_	_	
+133-52	20282-20286	them	_	_	_	
+133-53	20286-20287	,	_	_	_	
+133-54	20288-20290	or	_	_	_	
+133-55	20291-20303	manufactured	_	_	_	
+133-56	20304-20308	into	_	_	_	
+133-57	20309-20312	oil	_	_	_	
+133-58	20312-20313	,	_	_	_	
+133-59	20314-20318	they	_	_	_	
+133-60	20319-20322	are	_	_	_	
+133-61	20323-20324	a	_	_	_	
+133-62	20325-20329	very	_	_	_	
+133-63	20331-20343	remunerative	_	_	_	
+133-64	20344-20351	product	_	_	_	
+133-65	20351-20352	.	_	_	_	
+
+#Text=Each tree in the West Indies is calculated to  produce nuts to the value of one dollar yearly.
+134-1	20353-20357	Each	_	_	_	
+134-2	20358-20362	tree	_	_	_	
+134-3	20363-20365	in	_	_	_	
+134-4	20366-20369	the	_	_	_	
+134-5	20370-20374	West	_	_	_	
+134-6	20375-20381	Indies	_	_	_	
+134-7	20382-20384	is	_	_	_	
+134-8	20385-20395	calculated	_	_	_	
+134-9	20396-20398	to	_	_	_	
+134-10	20400-20407	produce	_	_	_	
+134-11	20408-20412	nuts	_	_	_	
+134-12	20413-20415	to	_	_	_	
+134-13	20416-20419	the	_	_	_	
+134-14	20420-20425	value	_	_	_	
+134-15	20426-20428	of	_	_	_	
+134-16	20429-20432	one	_	_	_	
+134-17	20433-20439	dollar	_	_	_	
+134-18	20440-20446	yearly	_	_	_	
+134-19	20446-20447	.	_	_	_	
+
+#Text=There is one thing to  which we would draw the attention of chemists and other scientific  men.
+135-1	20448-20453	There	_	_	_	
+135-2	20454-20456	is	_	_	_	
+135-3	20457-20460	one	_	_	_	
+135-4	20461-20466	thing	_	_	_	
+135-5	20467-20469	to	_	_	_	
+135-6	20471-20476	which	_	_	_	
+135-7	20477-20479	we	_	_	_	
+135-8	20480-20485	would	_	_	_	
+135-9	20486-20490	draw	_	_	_	
+135-10	20491-20494	the	_	_	_	
+135-11	20495-20504	attention	_	_	_	
+135-12	20505-20507	of	_	_	_	
+135-13	20508-20516	chemists	_	_	_	
+135-14	20517-20520	and	_	_	_	
+135-15	20521-20526	other	_	_	_	
+135-16	20527-20537	scientific	_	_	_	
+135-17	20539-20542	men	_	_	_	
+135-18	20542-20543	.	_	_	_	
+
+#Text=For twenty-four or even forty-eight hours after its manufacture this  oil is as free from any unpleasant taste as olive oil, and can be used  in lieu of it for all culinary purposes, but after that time it  acquires such a rancid taste as to be wholly unpalateable.
+136-1	20547-20550	For	Circumstance[129]	_	_	
+136-2	20551-20562	twenty-four	Circumstance[129]	_	_	
+136-3	20563-20565	or	Circumstance[129]	_	_	
+136-4	20566-20570	even	Circumstance[129]	_	_	
+136-5	20571-20582	forty-eight	Circumstance[129]	_	_	
+136-6	20583-20588	hours	Circumstance[129]	_	_	
+136-7	20589-20594	after	Circumstance[129]	_	_	
+136-8	20595-20598	its	Circumstance[129]	_	_	
+136-9	20599-20610	manufacture	Circumstance[129]	_	_	
+136-10	20611-20615	this	Taste Source[130]	_	_	
+136-11	20617-20620	oil	Taste Source[130]	_	_	
+136-12	20621-20623	is	_	_	_	
+136-13	20624-20626	as	_	_	_	
+136-14	20627-20631	free	Quality[131]	_	_	
+136-15	20632-20636	from	Quality[131]	_	_	
+136-16	20637-20640	any	Quality[131]	_	_	
+136-17	20641-20651	unpleasant	Quality[131]	_	_	
+136-18	20652-20657	taste	Taste Word	*|*|*|*|*	136-14[131_0]|136-10[130_0]|136-1[129_0]|136-19[132_0]|136-24[133_0]	
+136-19	20658-20660	as	Evoked Taste[132]	_	_	
+136-20	20661-20666	olive	Evoked Taste[132]	_	_	
+136-21	20667-20670	oil	Evoked Taste[132]	_	_	
+136-22	20670-20671	,	_	_	_	
+136-23	20672-20675	and	_	_	_	
+136-24	20676-20679	can	Circumstance[133]	_	_	
+136-25	20680-20682	be	Circumstance[133]	_	_	
+136-26	20683-20687	used	Circumstance[133]	_	_	
+136-27	20689-20691	in	Circumstance[133]	_	_	
+136-28	20692-20696	lieu	Circumstance[133]	_	_	
+136-29	20697-20699	of	Circumstance[133]	_	_	
+136-30	20700-20702	it	Circumstance[133]	_	_	
+136-31	20703-20706	for	Circumstance[133]	_	_	
+136-32	20707-20710	all	Circumstance[133]	_	_	
+136-33	20711-20719	culinary	Circumstance[133]	_	_	
+136-34	20720-20728	purposes	Circumstance[133]	_	_	
+136-35	20728-20729	,	_	_	_	
+136-36	20730-20733	but	_	_	_	
+136-37	20734-20739	after	Circumstance[134]	_	_	
+136-38	20740-20744	that	Circumstance[134]	_	_	
+136-39	20745-20749	time	Circumstance[134]	_	_	
+136-40	20750-20752	it	Taste Source	anaphorical	136-10[130_0]	
+136-41	20754-20762	acquires	_	_	_	
+136-42	20763-20767	such	_	_	_	
+136-43	20768-20769	a	_	_	_	
+136-44	20770-20776	rancid	Quality[135]|Taste Word[136]	*	136-44[135_136]	
+136-45	20777-20782	taste	Taste Word	*|*|*	136-44[135_0]|136-40|136-46[137_0]	
+136-46	20783-20785	as	Effect[137]	_	_	
+136-47	20786-20788	to	Effect[137]	_	_	
+136-48	20789-20791	be	Effect[137]	_	_	
+136-49	20792-20798	wholly	Effect[137]|Quality[138]	_	_	
+136-50	20799-20811	unpalateable	Effect[137]|Taste Word[139]|Quality[140]	*|*|*	136-50[140_139]|136-49[138_139]|136-10[130_139]	
+136-51	20811-20812	.	_	_	_	
+
+#Text=If any  means could be discovered of preventing this deterioration in quality,  and preserving it fresh and sweet, it could compete with olive oil,  and the price and consumption would be largely raised.
+137-1	20813-20815	If	_	_	_	
+137-2	20816-20819	any	_	_	_	
+137-3	20821-20826	means	_	_	_	
+137-4	20827-20832	could	_	_	_	
+137-5	20833-20835	be	_	_	_	
+137-6	20836-20846	discovered	_	_	_	
+137-7	20847-20849	of	_	_	_	
+137-8	20850-20860	preventing	_	_	_	
+137-9	20861-20865	this	_	_	_	
+137-10	20866-20879	deterioration	_	_	_	
+137-11	20880-20882	in	_	_	_	
+137-12	20883-20890	quality	_	_	_	
+137-13	20890-20891	,	_	_	_	
+137-14	20893-20896	and	_	_	_	
+137-15	20897-20907	preserving	_	_	_	
+137-16	20908-20910	it	Taste Source	anaphorical	136-10[130_0]	
+137-17	20911-20916	fresh	_	_	_	
+137-18	20917-20920	and	_	_	_	
+137-19	20921-20926	sweet	Taste Word[141]|Quality[142]	*|*	137-19[142_141]|137-16[0_141]	
+137-20	20926-20927	,	_	_	_	
+137-21	20928-20930	it	_	_	_	
+137-22	20931-20936	could	_	_	_	
+137-23	20937-20944	compete	_	_	_	
+137-24	20945-20949	with	_	_	_	
+137-25	20950-20955	olive	_	_	_	
+137-26	20956-20959	oil	_	_	_	
+137-27	20959-20960	,	_	_	_	
+137-28	20962-20965	and	_	_	_	
+137-29	20966-20969	the	_	_	_	
+137-30	20970-20975	price	_	_	_	
+137-31	20976-20979	and	_	_	_	
+137-32	20980-20991	consumption	_	_	_	
+137-33	20992-20997	would	_	_	_	
+137-34	20998-21000	be	_	_	_	
+137-35	21001-21008	largely	_	_	_	
+137-36	21009-21015	raised	_	_	_	
+137-37	21015-21016	.	_	_	_	
+
+#Text=COCO-NUT OIL IMPORTED INTO THE UNITED KINGDOM.
+138-1	21020-21028	COCO-NUT	_	_	_	
+138-2	21029-21032	OIL	_	_	_	
+138-3	21033-21041	IMPORTED	_	_	_	
+138-4	21042-21046	INTO	_	_	_	
+138-5	21047-21050	THE	_	_	_	
+138-6	21051-21057	UNITED	_	_	_	
+138-7	21058-21065	KINGDOM	_	_	_	
+138-8	21065-21066	.	_	_	_	
+
+#Text=Imports.
+139-1	21070-21077	Imports	_	_	_	
+139-2	21077-21078	.	_	_	_	
+
+#Text=Retained for home consumption.
+140-1	21081-21089	Retained	_	_	_	
+140-2	21090-21093	for	_	_	_	
+140-3	21094-21098	home	_	_	_	
+140-4	21099-21110	consumption	_	_	_	
+140-5	21110-21111	.	_	_	_	
+
+#Text=cwts.
+141-1	21113-21117	cwts	_	_	_	
+141-2	21117-21118	.	_	_	_	
+
+#Text=The leaves are almost insipid,  but when a small quantity of lime is mixed with them, they have a very  agreeable sweet taste.
+142-1	21120-21123	The	Taste Source[143]	_	_	
+142-2	21124-21130	leaves	Taste Source[143]	_	_	
+142-3	21131-21134	are	_	_	_	
+142-4	21135-21141	almost	Quality	_	_	
+142-5	21142-21149	insipid	Quality[144]|Taste Word[145]	*|*|*	142-5[144_145]|142-4[0_145]|142-1[143_145]	
+142-6	21149-21150	,	_	_	_	
+142-7	21152-21155	but	_	_	_	
+142-8	21156-21160	when	Circumstance[146]	_	_	
+142-9	21161-21162	a	Circumstance[146]	_	_	
+142-10	21163-21168	small	Circumstance[146]	_	_	
+142-11	21169-21177	quantity	Circumstance[146]	_	_	
+142-12	21178-21180	of	Circumstance[146]	_	_	
+142-13	21181-21185	lime	Circumstance[146]	_	_	
+142-14	21186-21188	is	Circumstance[146]	_	_	
+142-15	21189-21194	mixed	Circumstance[146]	_	_	
+142-16	21195-21199	with	Circumstance[146]	_	_	
+142-17	21200-21204	them	Circumstance[146]	_	_	
+142-18	21204-21205	,	_	_	_	
+142-19	21206-21210	they	Taste Source	anaphorical	142-1[143_0]	
+142-20	21211-21215	have	_	_	_	
+142-21	21216-21217	a	_	_	_	
+142-22	21218-21222	very	Quality[147]	_	_	
+142-23	21224-21233	agreeable	Quality[147]	_	_	
+142-24	21234-21239	sweet	Taste Word[148]|Quality[149]	*	142-24[149_148]	
+142-25	21240-21245	taste	Taste Word	*|*|*|*	142-8[146_0]|142-22[147_0]|142-24[149_0]|142-19	
+142-26	21245-21246	.	_	_	_	
+
+#Text=The natives generally carry with them a leather  pouch containing coca, and a small calabash holding lime or the ashes  of the molle to mix with them.
+143-1	21247-21250	The	_	_	_	
+143-2	21251-21258	natives	_	_	_	
+143-3	21259-21268	generally	_	_	_	
+143-4	21269-21274	carry	_	_	_	
+143-5	21275-21279	with	_	_	_	
+143-6	21280-21284	them	_	_	_	
+143-7	21285-21286	a	_	_	_	
+143-8	21287-21294	leather	_	_	_	
+143-9	21296-21301	pouch	_	_	_	
+143-10	21302-21312	containing	_	_	_	
+143-11	21313-21317	coca	_	_	_	
+143-12	21317-21318	,	_	_	_	
+143-13	21319-21322	and	_	_	_	
+143-14	21323-21324	a	_	_	_	
+143-15	21325-21330	small	_	_	_	
+143-16	21331-21339	calabash	_	_	_	
+143-17	21340-21347	holding	_	_	_	
+143-18	21348-21352	lime	_	_	_	
+143-19	21353-21355	or	_	_	_	
+143-20	21356-21359	the	_	_	_	
+143-21	21360-21365	ashes	_	_	_	
+143-22	21367-21369	of	_	_	_	
+143-23	21370-21373	the	_	_	_	
+143-24	21374-21379	molle	_	_	_	
+143-25	21380-21382	to	_	_	_	
+143-26	21383-21386	mix	_	_	_	
+143-27	21387-21391	with	_	_	_	
+143-28	21392-21396	them	_	_	_	
+143-29	21396-21397	.	_	_	_	
+
+#Text=_Cocculus indicus_, or Indian berries.
+144-1	21403-21404	_	_	_	_	
+144-2	21404-21412	Cocculus	_	_	_	
+144-3	21413-21420	indicus	_	_	_	
+144-4	21420-21421	_	_	_	_	
+144-5	21421-21422	,	_	_	_	
+144-6	21423-21425	or	_	_	_	
+144-7	21426-21432	Indian	_	_	_	
+144-8	21433-21440	berries	_	_	_	
+144-9	21440-21441	.	_	_	_	
+
+#Text=--This is the commercial name  for the berries or fruit of the _Menispermum Cocculus_ of Linnæus, _M.
+145-1	21441-21442	-	_	_	_	
+145-2	21442-21443	-	_	_	_	
+145-3	21443-21447	This	_	_	_	
+145-4	21448-21450	is	_	_	_	
+145-5	21451-21454	the	_	_	_	
+145-6	21455-21465	commercial	_	_	_	
+145-7	21466-21470	name	_	_	_	
+145-8	21472-21475	for	_	_	_	
+145-9	21476-21479	the	_	_	_	
+145-10	21480-21487	berries	_	_	_	
+145-11	21488-21490	or	_	_	_	
+145-12	21491-21496	fruit	_	_	_	
+145-13	21497-21499	of	_	_	_	
+145-14	21500-21503	the	_	_	_	
+145-15	21504-21505	_	_	_	_	
+145-16	21505-21516	Menispermum	_	_	_	
+145-17	21517-21525	Cocculus	_	_	_	
+145-18	21525-21526	_	_	_	_	
+145-19	21527-21529	of	_	_	_	
+145-20	21530-21537	Linnæus	_	_	_	
+145-21	21537-21538	,	_	_	_	
+145-22	21539-21540	_	_	_	_	
+145-23	21540-21541	M	_	_	_	
+145-24	21541-21542	.	_	_	_	
+
+#Text=heteroclitum_ of Roxburgh, _Animerta paniculata_ of Colebrooke, _A.
+146-1	21544-21556	heteroclitum	_	_	_	
+146-2	21556-21557	_	_	_	_	
+146-3	21558-21560	of	_	_	_	
+146-4	21561-21569	Roxburgh	_	_	_	
+146-5	21569-21570	,	_	_	_	
+146-6	21571-21572	_	_	_	_	
+146-7	21572-21580	Animerta	_	_	_	
+146-8	21581-21591	paniculata	_	_	_	
+146-9	21591-21592	_	_	_	_	
+146-10	21593-21595	of	_	_	_	
+146-11	21596-21606	Colebrooke	_	_	_	
+146-12	21606-21607	,	_	_	_	
+146-13	21608-21609	_	_	_	_	
+146-14	21609-21610	A	_	_	_	
+146-15	21610-21611	.	_	_	_	
+
+#Text=Cocculus_ of Wright and Arnot, and _Cocculus suberosus_ of Decandolle.
+147-1	21613-21621	Cocculus	_	_	_	
+147-2	21621-21622	_	_	_	_	
+147-3	21623-21625	of	_	_	_	
+147-4	21626-21632	Wright	_	_	_	
+147-5	21633-21636	and	_	_	_	
+147-6	21637-21642	Arnot	_	_	_	
+147-7	21642-21643	,	_	_	_	
+147-8	21644-21647	and	_	_	_	
+147-9	21648-21649	_	_	_	_	
+147-10	21649-21657	Cocculus	_	_	_	
+147-11	21658-21667	suberosus	_	_	_	
+147-12	21667-21668	_	_	_	_	
+147-13	21669-21671	of	_	_	_	
+147-14	21672-21682	Decandolle	_	_	_	
+147-15	21682-21683	.	_	_	_	
+
+#Text=It is a strong climbing shrub or tree, native of Malabar, Ceylon, and  the Eastern Islands.
+148-1	21685-21687	It	_	_	_	
+148-2	21688-21690	is	_	_	_	
+148-3	21691-21692	a	_	_	_	
+148-4	21693-21699	strong	_	_	_	
+148-5	21700-21708	climbing	_	_	_	
+148-6	21709-21714	shrub	_	_	_	
+148-7	21715-21717	or	_	_	_	
+148-8	21718-21722	tree	_	_	_	
+148-9	21722-21723	,	_	_	_	
+148-10	21724-21730	native	_	_	_	
+148-11	21731-21733	of	_	_	_	
+148-12	21734-21741	Malabar	_	_	_	
+148-13	21741-21742	,	_	_	_	
+148-14	21743-21749	Ceylon	_	_	_	
+148-15	21749-21750	,	_	_	_	
+148-16	21751-21754	and	_	_	_	
+148-17	21756-21759	the	_	_	_	
+148-18	21760-21767	Eastern	_	_	_	
+148-19	21768-21775	Islands	_	_	_	
+148-20	21775-21776	.	_	_	_	
+
+#Text=The seeds or drupes contain a bitter poisonous  acid, and are used for the purpose of stupefying fish, and, in the  form of a black extract, for fraudulently increasing the intoxicating power of malt liquors; one pound of the berries, it is said, will go  The seeds or nuts form a chief ingredient in the celebrated eastern  masticatory called Pan and which seems to owe its stimulating  properties to the leaves of the _Piper Betel_.
+149-1	21777-21780	The	Taste Source[150]	_	_	
+149-2	21781-21786	seeds	Taste Source[150]	_	_	
+149-3	21787-21789	or	_	_	_	
+149-4	21790-21796	drupes	_	_	_	
+149-5	21797-21804	contain	_	_	_	
+149-6	21805-21806	a	_	_	_	
+149-7	21807-21813	bitter	Taste Word[151]|Quality[152]	*|*|*|*|*	149-7[152_151]|149-1[150_151]|149-13[153_151]|149-31[155_151]|149-23[154_151]	
+149-8	21814-21823	poisonous	_	_	_	
+149-9	21825-21829	acid	_	_	_	
+149-10	21829-21830	,	_	_	_	
+149-11	21831-21834	and	_	_	_	
+149-12	21835-21838	are	_	_	_	
+149-13	21839-21843	used	Effect[153]	_	_	
+149-14	21844-21847	for	Effect[153]	_	_	
+149-15	21848-21851	the	Effect[153]	_	_	
+149-16	21852-21859	purpose	Effect[153]	_	_	
+149-17	21860-21862	of	Effect[153]	_	_	
+149-18	21863-21873	stupefying	Effect[153]	_	_	
+149-19	21874-21878	fish	Effect[153]	_	_	
+149-20	21878-21879	,	_	_	_	
+149-21	21880-21883	and	_	_	_	
+149-22	21883-21884	,	_	_	_	
+149-23	21885-21887	in	Circumstance[154]	_	_	
+149-24	21888-21891	the	Circumstance[154]	_	_	
+149-25	21893-21897	form	Circumstance[154]	_	_	
+149-26	21898-21900	of	Circumstance[154]	_	_	
+149-27	21901-21902	a	Circumstance[154]	_	_	
+149-28	21903-21908	black	Circumstance[154]	_	_	
+149-29	21909-21916	extract	Circumstance[154]	_	_	
+149-30	21916-21917	,	_	_	_	
+149-31	21918-21921	for	Effect[155]	_	_	
+149-32	21922-21934	fraudulently	Effect[155]	_	_	
+149-33	21935-21945	increasing	Effect[155]	_	_	
+149-34	21946-21949	the	Effect[155]	_	_	
+149-35	21950-21962	intoxicating	Effect[155]	_	_	
+149-36	21963-21968	power	Effect[155]	_	_	
+149-37	21969-21971	of	Effect[155]	_	_	
+149-38	21972-21976	malt	Effect[155]	_	_	
+149-39	21977-21984	liquors	Effect[155]	_	_	
+149-40	21984-21985	;	_	_	_	
+149-41	21986-21989	one	_	_	_	
+149-42	21990-21995	pound	_	_	_	
+149-43	21996-21998	of	_	_	_	
+149-44	21999-22002	the	_	_	_	
+149-45	22003-22010	berries	_	_	_	
+149-46	22010-22011	,	_	_	_	
+149-47	22012-22014	it	_	_	_	
+149-48	22015-22017	is	_	_	_	
+149-49	22018-22022	said	_	_	_	
+149-50	22022-22023	,	_	_	_	
+149-51	22024-22028	will	_	_	_	
+149-52	22029-22031	go	_	_	_	
+149-53	22033-22036	The	_	_	_	
+149-54	22037-22042	seeds	_	_	_	
+149-55	22043-22045	or	_	_	_	
+149-56	22046-22050	nuts	_	_	_	
+149-57	22051-22055	form	_	_	_	
+149-58	22056-22057	a	_	_	_	
+149-59	22058-22063	chief	_	_	_	
+149-60	22064-22074	ingredient	_	_	_	
+149-61	22075-22077	in	_	_	_	
+149-62	22078-22081	the	_	_	_	
+149-63	22082-22092	celebrated	_	_	_	
+149-64	22093-22100	eastern	_	_	_	
+149-65	22102-22113	masticatory	_	_	_	
+149-66	22114-22120	called	_	_	_	
+149-67	22121-22124	Pan	_	_	_	
+149-68	22125-22128	and	_	_	_	
+149-69	22129-22134	which	_	_	_	
+149-70	22135-22140	seems	_	_	_	
+149-71	22141-22143	to	_	_	_	
+149-72	22144-22147	owe	_	_	_	
+149-73	22148-22151	its	_	_	_	
+149-74	22152-22163	stimulating	_	_	_	
+149-75	22165-22175	properties	_	_	_	
+149-76	22176-22178	to	_	_	_	
+149-77	22179-22182	the	_	_	_	
+149-78	22183-22189	leaves	_	_	_	
+149-79	22190-22192	of	_	_	_	
+149-80	22193-22196	the	_	_	_	
+149-81	22197-22198	_	_	_	_	
+149-82	22198-22203	Piper	_	_	_	
+149-83	22204-22209	Betel	_	_	_	
+149-84	22209-22210	_	_	_	_	
+149-85	22210-22211	.	_	_	_	
+
+#Text=When prepared for use,  the nut is cut into slices and wrapped in the fresh leaves of the  betel pepper vine, together with a quantity of quicklime (_Chunam_) to  give it a flavor.
+150-1	22212-22216	When	_	_	_	
+150-2	22217-22225	prepared	_	_	_	
+150-3	22226-22229	for	_	_	_	
+150-4	22230-22233	use	_	_	_	
+150-5	22233-22234	,	_	_	_	
+150-6	22236-22239	the	Taste Source[156]	_	_	
+150-7	22240-22243	nut	Taste Source[156]	_	_	
+150-8	22244-22246	is	_	_	_	
+150-9	22247-22250	cut	Circumstance[157]	_	_	
+150-10	22251-22255	into	Circumstance[157]	_	_	
+150-11	22256-22262	slices	Circumstance[157]	_	_	
+150-12	22263-22266	and	Circumstance[157]	_	_	
+150-13	22267-22274	wrapped	Circumstance[157]	_	_	
+150-14	22275-22277	in	Circumstance[157]	_	_	
+150-15	22278-22281	the	Circumstance[157]	_	_	
+150-16	22282-22287	fresh	Circumstance[157]	_	_	
+150-17	22288-22294	leaves	Circumstance[157]	_	_	
+150-18	22295-22297	of	Circumstance[157]	_	_	
+150-19	22298-22301	the	Circumstance[157]	_	_	
+150-20	22303-22308	betel	Circumstance[157]	_	_	
+150-21	22309-22315	pepper	Circumstance[157]	_	_	
+150-22	22316-22320	vine	Circumstance[157]	_	_	
+150-23	22320-22321	,	Circumstance[157]	_	_	
+150-24	22322-22330	together	Circumstance[157]	_	_	
+150-25	22331-22335	with	Circumstance[157]	_	_	
+150-26	22336-22337	a	Circumstance[157]	_	_	
+150-27	22338-22346	quantity	Circumstance[157]	_	_	
+150-28	22347-22349	of	Circumstance[157]	_	_	
+150-29	22350-22359	quicklime	Circumstance[157]	_	_	
+150-30	22360-22361	(	_	_	_	
+150-31	22361-22362	_	_	_	_	
+150-32	22362-22368	Chunam	_	_	_	
+150-33	22368-22369	_	_	_	_	
+150-34	22369-22370	)	_	_	_	
+150-35	22371-22373	to	_	_	_	
+150-36	22375-22379	give	_	_	_	
+150-37	22380-22382	it	_	_	_	
+150-38	22383-22384	a	_	_	_	
+150-39	22385-22391	flavor	Taste Word	*|*	150-6[156_0]|150-9[157_0]	
+150-40	22391-22392	.	_	_	_	
+
+#Text=The flavor is peculiar, between an herbaceous and an  aromatic taste.
+151-1	22393-22396	The	_	_	_	
+151-2	22397-22403	flavor	Taste Word	*|*	151-4|150-6[156_0]	
+151-3	22404-22406	is	_	_	_	
+151-4	22407-22415	peculiar	Quality	_	_	
+151-5	22415-22416	,	_	_	_	
+151-6	22417-22424	between	_	_	_	
+151-7	22425-22427	an	_	_	_	
+151-8	22428-22438	herbaceous	Quality	_	_	
+151-9	22439-22442	and	_	_	_	
+151-10	22443-22445	an	_	_	_	
+151-11	22447-22455	aromatic	Quality	_	_	
+151-12	22456-22461	taste	Taste Word	*|*|*|*|*|*	151-11|151-8|150-6[156_0]|152-13[158_0]|152-18[159_0]|152-23[160_0]	
+151-13	22461-22462	.	_	_	_	
+
+#Text=All classes, male and female, chew it; they say it sweetens the  breath, strengthens the stomach, and preserves the teeth, to which it  gives a reddish hue; there is probably less objection to its use than  tobacco or opium, and its taste is more pleasant; but, if taken to  excess, it will produce stupor like other narcotics, and even  intoxication.
+152-1	22466-22469	All	_	_	_	
+152-2	22470-22477	classes	_	_	_	
+152-3	22477-22478	,	_	_	_	
+152-4	22479-22483	male	_	_	_	
+152-5	22484-22487	and	_	_	_	
+152-6	22488-22494	female	_	_	_	
+152-7	22494-22495	,	_	_	_	
+152-8	22496-22500	chew	_	_	_	
+152-9	22501-22503	it	_	_	_	
+152-10	22503-22504	;	_	_	_	
+152-11	22505-22509	they	_	_	_	
+152-12	22510-22513	say	_	_	_	
+152-13	22514-22516	it	Effect[158]	_	_	
+152-14	22517-22525	sweetens	Effect[158]	_	_	
+152-15	22526-22529	the	Effect[158]	_	_	
+152-16	22531-22537	breath	Effect[158]	_	_	
+152-17	22537-22538	,	_	_	_	
+152-18	22539-22550	strengthens	Effect[159]	_	_	
+152-19	22551-22554	the	Effect[159]	_	_	
+152-20	22555-22562	stomach	Effect[159]	_	_	
+152-21	22562-22563	,	_	_	_	
+152-22	22564-22567	and	_	_	_	
+152-23	22568-22577	preserves	Effect[160]	_	_	
+152-24	22578-22581	the	Effect[160]	_	_	
+152-25	22582-22587	teeth	Effect[160]	_	_	
+152-26	22587-22588	,	_	_	_	
+152-27	22589-22591	to	_	_	_	
+152-28	22592-22597	which	_	_	_	
+152-29	22598-22600	it	_	_	_	
+152-30	22602-22607	gives	_	_	_	
+152-31	22608-22609	a	_	_	_	
+152-32	22610-22617	reddish	_	_	_	
+152-33	22618-22621	hue	_	_	_	
+152-34	22621-22622	;	_	_	_	
+152-35	22623-22628	there	_	_	_	
+152-36	22629-22631	is	_	_	_	
+152-37	22632-22640	probably	_	_	_	
+152-38	22641-22645	less	_	_	_	
+152-39	22646-22655	objection	_	_	_	
+152-40	22656-22658	to	_	_	_	
+152-41	22659-22662	its	_	_	_	
+152-42	22663-22666	use	_	_	_	
+152-43	22667-22671	than	_	_	_	
+152-44	22673-22680	tobacco	_	_	_	
+152-45	22681-22683	or	_	_	_	
+152-46	22684-22689	opium	_	_	_	
+152-47	22689-22690	,	_	_	_	
+152-48	22691-22694	and	_	_	_	
+152-49	22695-22698	its	Taste Source	anaphorical	150-6[156_0]	
+152-50	22699-22704	taste	Taste Word	*|*|*|*	152-52[161_0]|152-57[162_0]|152-62[163_0]|152-49	
+152-51	22705-22707	is	_	_	_	
+152-52	22708-22712	more	Quality[161]	_	_	
+152-53	22713-22721	pleasant	Quality[161]	_	_	
+152-54	22721-22722	;	_	_	_	
+152-55	22723-22726	but	_	_	_	
+152-56	22726-22727	,	_	_	_	
+152-57	22728-22730	if	Circumstance[162]	_	_	
+152-58	22731-22736	taken	Circumstance[162]	_	_	
+152-59	22737-22739	to	Circumstance[162]	_	_	
+152-60	22741-22747	excess	Circumstance[162]	_	_	
+152-61	22747-22748	,	_	_	_	
+152-62	22749-22751	it	Effect[163]	_	_	
+152-63	22752-22756	will	Effect[163]	_	_	
+152-64	22757-22764	produce	Effect[163]	_	_	
+152-65	22765-22771	stupor	Effect[163]	_	_	
+152-66	22772-22776	like	Effect[163]	_	_	
+152-67	22777-22782	other	Effect[163]	_	_	
+152-68	22783-22792	narcotics	Effect[163]	_	_	
+152-69	22792-22793	,	Effect[163]	_	_	
+152-70	22794-22797	and	Effect[163]	_	_	
+152-71	22798-22802	even	Effect[163]	_	_	
+152-72	22804-22816	intoxication	Effect[163]	_	_	
+152-73	22816-22817	.	_	_	_	
+
+#Text=The nuts grow in large bunches at the top, and when ripe  are red and have a beautiful appearance; they resemble the nutmeg in  shape and color, but are larger and harder.
+153-1	22818-22821	The	_	_	_	
+153-2	22822-22826	nuts	_	_	_	
+153-3	22827-22831	grow	_	_	_	
+153-4	22832-22834	in	_	_	_	
+153-5	22835-22840	large	_	_	_	
+153-6	22841-22848	bunches	_	_	_	
+153-7	22849-22851	at	_	_	_	
+153-8	22852-22855	the	_	_	_	
+153-9	22856-22859	top	_	_	_	
+153-10	22859-22860	,	_	_	_	
+153-11	22861-22864	and	_	_	_	
+153-12	22865-22869	when	_	_	_	
+153-13	22870-22874	ripe	_	_	_	
+153-14	22876-22879	are	_	_	_	
+153-15	22880-22883	red	_	_	_	
+153-16	22884-22887	and	_	_	_	
+153-17	22888-22892	have	_	_	_	
+153-18	22893-22894	a	_	_	_	
+153-19	22895-22904	beautiful	_	_	_	
+153-20	22905-22915	appearance	_	_	_	
+153-21	22915-22916	;	_	_	_	
+153-22	22917-22921	they	_	_	_	
+153-23	22922-22930	resemble	_	_	_	
+153-24	22931-22934	the	_	_	_	
+153-25	22935-22941	nutmeg	_	_	_	
+153-26	22942-22944	in	_	_	_	
+153-27	22946-22951	shape	_	_	_	
+153-28	22952-22955	and	_	_	_	
+153-29	22956-22961	color	_	_	_	
+153-30	22961-22962	,	_	_	_	
+153-31	22963-22966	but	_	_	_	
+153-32	22967-22970	are	_	_	_	
+153-33	22971-22977	larger	_	_	_	
+153-34	22978-22981	and	_	_	_	
+153-35	22982-22988	harder	_	_	_	
+153-36	22988-22989	.	_	_	_	
+
+#Text=When gathered they are  laid in heaps until the shell be somewhat rotted, and then dried in  the sun, after which the process of shelling commences.
+154-1	22990-22994	When	_	_	_	
+154-2	22995-23003	gathered	_	_	_	
+154-3	23004-23008	they	_	_	_	
+154-4	23009-23012	are	_	_	_	
+154-5	23014-23018	laid	_	_	_	
+154-6	23019-23021	in	_	_	_	
+154-7	23022-23027	heaps	_	_	_	
+154-8	23028-23033	until	_	_	_	
+154-9	23034-23037	the	_	_	_	
+154-10	23038-23043	shell	_	_	_	
+154-11	23044-23046	be	_	_	_	
+154-12	23047-23055	somewhat	_	_	_	
+154-13	23056-23062	rotted	_	_	_	
+154-14	23062-23063	,	_	_	_	
+154-15	23064-23067	and	_	_	_	
+154-16	23068-23072	then	_	_	_	
+154-17	23073-23078	dried	_	_	_	
+154-18	23079-23081	in	_	_	_	
+154-19	23083-23086	the	_	_	_	
+154-20	23087-23090	sun	_	_	_	
+154-21	23090-23091	,	_	_	_	
+154-22	23092-23097	after	_	_	_	
+154-23	23098-23103	which	_	_	_	
+154-24	23104-23107	the	_	_	_	
+154-25	23108-23115	process	_	_	_	
+154-26	23116-23118	of	_	_	_	
+154-27	23119-23127	shelling	_	_	_	
+154-28	23128-23137	commences	_	_	_	
+154-29	23137-23138	.	_	_	_	
+
+#Text=The trees vary  in their yield from 300 to 1,000 nuts, averaging about 14 lbs.; which
+155-1	23139-23142	The	_	_	_	
+155-2	23143-23148	trees	_	_	_	
+155-3	23149-23153	vary	_	_	_	
+155-4	23155-23157	in	_	_	_	
+155-5	23158-23163	their	_	_	_	
+155-6	23164-23169	yield	_	_	_	
+155-7	23170-23174	from	_	_	_	
+155-8	23175-23178	300	_	_	_	
+155-9	23179-23181	to	_	_	_	
+155-10	23182-23187	1,000	_	_	_	
+155-11	23188-23192	nuts	_	_	_	
+155-12	23192-23193	,	_	_	_	
+155-13	23194-23203	averaging	_	_	_	
+155-14	23204-23209	about	_	_	_	
+155-15	23210-23212	14	_	_	_	
+155-16	23213-23216	lbs	_	_	_	
+155-17	23216-23217	.	_	_	_	
+155-18	23217-23218	;	_	_	_	
+155-19	23219-23224	which	_	_	_	

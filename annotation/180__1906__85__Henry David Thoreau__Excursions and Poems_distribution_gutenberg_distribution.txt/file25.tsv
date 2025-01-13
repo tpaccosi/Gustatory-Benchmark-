@@ -1,0 +1,2406 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+#T_RL=custom.Relation|label|BT_custom.Span
+
+
+#Text=By the end of some October, when its leaves have fallen, I frequently 
+#Text= see such a central sprig, whose progress I have watched, when I 
+#Text= thought it had forgotten its destiny, as I had, bearing its first crop 
+#Text= of small green or yellow or rosy fruit, which the cows cannot get at 
+#Text= over the bushy and thorny hedge which surrounds it, and I make haste 
+#Text= to taste the new and undescribed variety.
+1-1	1-3	By	_	_	_	
+1-2	4-7	the	_	_	_	
+1-3	8-11	end	_	_	_	
+1-4	12-14	of	_	_	_	
+1-5	15-19	some	_	_	_	
+1-6	20-27	October	_	_	_	
+1-7	27-28	,	_	_	_	
+1-8	29-33	when	_	_	_	
+1-9	34-37	its	_	_	_	
+1-10	38-44	leaves	_	_	_	
+1-11	45-49	have	_	_	_	
+1-12	50-56	fallen	_	_	_	
+1-13	56-57	,	_	_	_	
+1-14	58-59	I	_	_	_	
+1-15	60-70	frequently	_	_	_	
+1-16	73-76	see	_	_	_	
+1-17	77-81	such	_	_	_	
+1-18	82-83	a	_	_	_	
+1-19	84-91	central	_	_	_	
+1-20	92-97	sprig	_	_	_	
+1-21	97-98	,	_	_	_	
+1-22	99-104	whose	_	_	_	
+1-23	105-113	progress	_	_	_	
+1-24	114-115	I	_	_	_	
+1-25	116-120	have	_	_	_	
+1-26	121-128	watched	_	_	_	
+1-27	128-129	,	_	_	_	
+1-28	130-134	when	_	_	_	
+1-29	135-136	I	_	_	_	
+1-30	139-146	thought	_	_	_	
+1-31	147-149	it	_	_	_	
+1-32	150-153	had	_	_	_	
+1-33	154-163	forgotten	_	_	_	
+1-34	164-167	its	_	_	_	
+1-35	168-175	destiny	_	_	_	
+1-36	175-176	,	_	_	_	
+1-37	177-179	as	_	_	_	
+1-38	180-181	I	_	_	_	
+1-39	182-185	had	_	_	_	
+1-40	185-186	,	_	_	_	
+1-41	187-194	bearing	_	_	_	
+1-42	195-198	its	_	_	_	
+1-43	199-204	first	_	_	_	
+1-44	205-209	crop	_	_	_	
+1-45	212-214	of	_	_	_	
+1-46	215-220	small	_	_	_	
+1-47	221-226	green	_	_	_	
+1-48	227-229	or	_	_	_	
+1-49	230-236	yellow	_	_	_	
+1-50	237-239	or	_	_	_	
+1-51	240-244	rosy	_	_	_	
+1-52	245-250	fruit	_	_	_	
+1-53	250-251	,	_	_	_	
+1-54	252-257	which	_	_	_	
+1-55	258-261	the	_	_	_	
+1-56	262-266	cows	_	_	_	
+1-57	267-273	cannot	_	_	_	
+1-58	274-277	get	_	_	_	
+1-59	278-280	at	_	_	_	
+1-60	283-287	over	_	_	_	
+1-61	288-291	the	_	_	_	
+1-62	292-297	bushy	_	_	_	
+1-63	298-301	and	_	_	_	
+1-64	302-308	thorny	_	_	_	
+1-65	309-314	hedge	_	_	_	
+1-66	315-320	which	_	_	_	
+1-67	321-330	surrounds	_	_	_	
+1-68	331-333	it	_	_	_	
+1-69	333-334	,	_	_	_	
+1-70	335-338	and	_	_	_	
+1-71	339-340	I	_	_	_	
+1-72	341-345	make	_	_	_	
+1-73	346-351	haste	_	_	_	
+1-74	354-356	to	_	_	_	
+1-75	357-362	taste	Taste Word	*	1-76[1_0]	
+1-76	363-366	the	Taste Source[1]	_	_	
+1-77	367-370	new	Taste Source[1]	_	_	
+1-78	371-374	and	Taste Source[1]	_	_	
+1-79	375-386	undescribed	Taste Source[1]	_	_	
+1-80	387-394	variety	Taste Source[1]	_	_	
+1-81	394-395	.	_	_	_	
+
+#Text=We have all heard of the 
+#Text= numerous varieties of fruit invented by Van Mons and Knight.
+2-1	396-398	We	_	_	_	
+2-2	399-403	have	_	_	_	
+2-3	404-407	all	_	_	_	
+2-4	408-413	heard	_	_	_	
+2-5	414-416	of	_	_	_	
+2-6	417-420	the	_	_	_	
+2-7	423-431	numerous	_	_	_	
+2-8	432-441	varieties	_	_	_	
+2-9	442-444	of	_	_	_	
+2-10	445-450	fruit	_	_	_	
+2-11	451-459	invented	_	_	_	
+2-12	460-462	by	_	_	_	
+2-13	463-466	Van	_	_	_	
+2-14	467-471	Mons	_	_	_	
+2-15	472-475	and	_	_	_	
+2-16	476-482	Knight	_	_	_	
+2-17	482-483	.	_	_	_	
+
+#Text=This is 
+#Text= the system of Van Cow, and she has invented far more and more 
+#Text= memorable varieties than both of them.
+3-1	484-488	This	_	_	_	
+3-2	489-491	is	_	_	_	
+3-3	494-497	the	_	_	_	
+3-4	498-504	system	_	_	_	
+3-5	505-507	of	_	_	_	
+3-6	508-511	Van	_	_	_	
+3-7	512-515	Cow	_	_	_	
+3-8	515-516	,	_	_	_	
+3-9	517-520	and	_	_	_	
+3-10	521-524	she	_	_	_	
+3-11	525-528	has	_	_	_	
+3-12	529-537	invented	_	_	_	
+3-13	538-541	far	_	_	_	
+3-14	542-546	more	_	_	_	
+3-15	547-550	and	_	_	_	
+3-16	551-555	more	_	_	_	
+3-17	558-567	memorable	_	_	_	
+3-18	568-577	varieties	_	_	_	
+3-19	578-582	than	_	_	_	
+3-20	583-587	both	_	_	_	
+3-21	588-590	of	_	_	_	
+3-22	591-595	them	_	_	_	
+3-23	595-596	.	_	_	_	
+
+#Text=Through what hardships it may attain to bear a sweet fruit!
+4-1	602-609	Through	_	_	_	
+4-2	610-614	what	_	_	_	
+4-3	615-624	hardships	_	_	_	
+4-4	625-627	it	_	_	_	
+4-5	628-631	may	_	_	_	
+4-6	632-638	attain	_	_	_	
+4-7	639-641	to	_	_	_	
+4-8	642-646	bear	_	_	_	
+4-9	647-648	a	_	_	_	
+4-10	649-654	sweet	Taste Word[2]|Quality[3]	*|*	4-10[3_2]|4-11[0_2]	
+4-11	655-660	fruit	Taste Source	_	_	
+4-12	660-661	!	_	_	_	
+
+#Text=Though 
+#Text= somewhat small, it may prove equal, if not superior, in flavor to that 
+#Text= which has grown in a garden,--will perchance be all the sweeter and 
+#Text= more palatable for the very difficulties it has had to contend with.
+5-1	662-668	Though	_	_	_	
+5-2	671-679	somewhat	_	_	_	
+5-3	680-685	small	_	_	_	
+5-4	685-686	,	_	_	_	
+5-5	687-689	it	Taste Source	anaphorical	4-11	
+5-6	690-693	may	_	_	_	
+5-7	694-699	prove	_	_	_	
+5-8	700-705	equal	Quality	_	_	
+5-9	705-706	,	_	_	_	
+5-10	707-709	if	_	_	_	
+5-11	710-713	not	_	_	_	
+5-12	714-722	superior	Quality	_	_	
+5-13	722-723	,	_	_	_	
+5-14	724-726	in	_	_	_	
+5-15	727-733	flavor	Taste Word	*|*|*|*|*	5-12|5-8|5-35[7_0]|5-32[4_0]|5-5	
+5-16	734-736	to	_	_	_	
+5-17	737-741	that	_	_	_	
+5-18	744-749	which	_	_	_	
+5-19	750-753	has	_	_	_	
+5-20	754-759	grown	_	_	_	
+5-21	760-762	in	_	_	_	
+5-22	763-764	a	_	_	_	
+5-23	765-771	garden	_	_	_	
+5-24	771-772	,	_	_	_	
+5-25	772-773	-	_	_	_	
+5-26	773-774	-	_	_	_	
+5-27	774-778	will	_	_	_	
+5-28	779-788	perchance	_	_	_	
+5-29	789-791	be	_	_	_	
+5-30	792-795	all	_	_	_	
+5-31	796-799	the	_	_	_	
+5-32	800-807	sweeter	Quality[4]|Taste Word[5]	*	5-32[4_5]	
+5-33	808-811	and	_	_	_	
+5-34	814-818	more	Quality	_	_	
+5-35	819-828	palatable	Taste Word[6]|Quality[7]	*|*	5-35[7_6]|5-34[0_6]	
+5-36	829-832	for	_	_	_	
+5-37	833-836	the	_	_	_	
+5-38	837-841	very	_	_	_	
+5-39	842-854	difficulties	_	_	_	
+5-40	855-857	it	_	_	_	
+5-41	858-861	has	_	_	_	
+5-42	862-865	had	_	_	_	
+5-43	866-868	to	_	_	_	
+5-44	869-876	contend	_	_	_	
+5-45	877-881	with	_	_	_	
+5-46	881-882	.	_	_	_	
+
+#Text=Who knows but this chance wild fruit, planted by a cow or a bird on 
+#Text= some remote and rocky hillside, where it is as yet unobserved by man.
+6-1	885-888	Who	_	_	_	
+6-2	889-894	knows	_	_	_	
+6-3	895-898	but	_	_	_	
+6-4	899-903	this	_	_	_	
+6-5	904-910	chance	_	_	_	
+6-6	911-915	wild	_	_	_	
+6-7	916-921	fruit	_	_	_	
+6-8	921-922	,	_	_	_	
+6-9	923-930	planted	_	_	_	
+6-10	931-933	by	_	_	_	
+6-11	934-935	a	_	_	_	
+6-12	936-939	cow	_	_	_	
+6-13	940-942	or	_	_	_	
+6-14	943-944	a	_	_	_	
+6-15	945-949	bird	_	_	_	
+6-16	950-952	on	_	_	_	
+6-17	955-959	some	_	_	_	
+6-18	960-966	remote	_	_	_	
+6-19	967-970	and	_	_	_	
+6-20	971-976	rocky	_	_	_	
+6-21	977-985	hillside	_	_	_	
+6-22	985-986	,	_	_	_	
+6-23	987-992	where	_	_	_	
+6-24	993-995	it	_	_	_	
+6-25	996-998	is	_	_	_	
+6-26	999-1001	as	_	_	_	
+6-27	1002-1005	yet	_	_	_	
+6-28	1006-1016	unobserved	_	_	_	
+6-29	1017-1019	by	_	_	_	
+6-30	1020-1023	man	_	_	_	
+6-31	1023-1024	.	_	_	_	
+
+#Text=THE FRUIT, AND ITS FLAVOR 
+#Text=  
+#Text= The time for wild apples is the last of October and the first of 
+#Text= November.
+7-1	1027-1030	THE	Taste Source[8]	_	_	
+7-2	1031-1036	FRUIT	Taste Source[8]	_	_	
+7-3	1036-1037	,	_	_	_	
+7-4	1038-1041	AND	_	_	_	
+7-5	1042-1045	ITS	_	_	_	
+7-6	1046-1052	FLAVOR	Taste Word	*	7-1[8_0]	
+7-7	1058-1061	The	_	_	_	
+7-8	1062-1066	time	_	_	_	
+7-9	1067-1070	for	_	_	_	
+7-10	1071-1075	wild	Taste Source[9]	_	_	
+7-11	1076-1082	apples	Taste Source[9]	_	_	
+7-12	1083-1085	is	_	_	_	
+7-13	1086-1089	the	_	_	_	
+7-14	1090-1094	last	_	_	_	
+7-15	1095-1097	of	_	_	_	
+7-16	1098-1105	October	_	_	_	
+7-17	1106-1109	and	_	_	_	
+7-18	1110-1113	the	_	_	_	
+7-19	1114-1119	first	_	_	_	
+7-20	1120-1122	of	_	_	_	
+7-21	1125-1133	November	_	_	_	
+7-22	1133-1134	.	_	_	_	
+
+#Text=They then get to be palatable, for they ripen late, and they 
+#Text= are still perhaps as beautiful as ever.
+8-1	1135-1139	They	_	_	_	
+8-2	1140-1144	then	_	_	_	
+8-3	1145-1148	get	_	_	_	
+8-4	1149-1151	to	_	_	_	
+8-5	1152-1154	be	_	_	_	
+8-6	1155-1164	palatable	Taste Word[10]|Quality[11]	*|*	8-6[11_10]|7-10[9_10]	
+8-7	1164-1165	,	_	_	_	
+8-8	1166-1169	for	_	_	_	
+8-9	1170-1174	they	_	_	_	
+8-10	1175-1180	ripen	_	_	_	
+8-11	1181-1185	late	_	_	_	
+8-12	1185-1186	,	_	_	_	
+8-13	1187-1190	and	_	_	_	
+8-14	1191-1195	they	_	_	_	
+8-15	1198-1201	are	_	_	_	
+8-16	1202-1207	still	_	_	_	
+8-17	1208-1215	perhaps	_	_	_	
+8-18	1216-1218	as	_	_	_	
+8-19	1219-1228	beautiful	_	_	_	
+8-20	1229-1231	as	_	_	_	
+8-21	1232-1236	ever	_	_	_	
+8-22	1236-1237	.	_	_	_	
+
+#Text=I make a great account of 
+#Text= these fruits, which the farmers do not think it worth the while to 
+#Text= gather,--wild flavors of the Muse, vivacious and inspiriting.
+9-1	1238-1239	I	_	_	_	
+9-2	1240-1244	make	_	_	_	
+9-3	1245-1246	a	_	_	_	
+9-4	1247-1252	great	_	_	_	
+9-5	1253-1260	account	_	_	_	
+9-6	1261-1263	of	_	_	_	
+9-7	1266-1271	these	_	_	_	
+9-8	1272-1278	fruits	_	_	_	
+9-9	1278-1279	,	_	_	_	
+9-10	1280-1285	which	_	_	_	
+9-11	1286-1289	the	_	_	_	
+9-12	1290-1297	farmers	_	_	_	
+9-13	1298-1300	do	_	_	_	
+9-14	1301-1304	not	_	_	_	
+9-15	1305-1310	think	_	_	_	
+9-16	1311-1313	it	_	_	_	
+9-17	1314-1319	worth	_	_	_	
+9-18	1320-1323	the	_	_	_	
+9-19	1324-1329	while	_	_	_	
+9-20	1330-1332	to	_	_	_	
+9-21	1335-1341	gather	_	_	_	
+9-22	1341-1342	,	_	_	_	
+9-23	1342-1343	-	_	_	_	
+9-24	1343-1344	-	_	_	_	
+9-25	1344-1348	wild	Quality	_	_	
+9-26	1349-1356	flavors	Taste Word	*	9-25	
+9-27	1357-1359	of	_	_	_	
+9-28	1360-1363	the	_	_	_	
+9-29	1364-1368	Muse	_	_	_	
+9-30	1368-1369	,	_	_	_	
+9-31	1370-1379	vivacious	_	_	_	
+9-32	1380-1383	and	_	_	_	
+9-33	1384-1395	inspiriting	_	_	_	
+9-34	1395-1396	.	_	_	_	
+
+#Text=The 
+#Text= farmer thinks that he has better in his barrels, but he is mistaken, 
+#Text= unless he has a walker  '  s appetite and imagination, neither of which 
+#Text= can he have.
+10-1	1397-1400	The	_	_	_	
+10-2	1403-1409	farmer	_	_	_	
+10-3	1410-1416	thinks	_	_	_	
+10-4	1417-1421	that	_	_	_	
+10-5	1422-1424	he	_	_	_	
+10-6	1425-1428	has	_	_	_	
+10-7	1429-1435	better	_	_	_	
+10-8	1436-1438	in	_	_	_	
+10-9	1439-1442	his	_	_	_	
+10-10	1443-1450	barrels	_	_	_	
+10-11	1450-1451	,	_	_	_	
+10-12	1452-1455	but	_	_	_	
+10-13	1456-1458	he	_	_	_	
+10-14	1459-1461	is	_	_	_	
+10-15	1462-1470	mistaken	_	_	_	
+10-16	1470-1471	,	_	_	_	
+10-17	1474-1480	unless	_	_	_	
+10-18	1481-1483	he	_	_	_	
+10-19	1484-1487	has	_	_	_	
+10-20	1488-1489	a	_	_	_	
+10-21	1490-1496	walker	_	_	_	
+10-22	1498-1499	'	_	_	_	
+10-23	1501-1502	s	_	_	_	
+10-24	1503-1511	appetite	_	_	_	
+10-25	1512-1515	and	_	_	_	
+10-26	1516-1527	imagination	_	_	_	
+10-27	1527-1528	,	_	_	_	
+10-28	1529-1536	neither	_	_	_	
+10-29	1537-1539	of	_	_	_	
+10-30	1540-1545	which	_	_	_	
+10-31	1548-1551	can	_	_	_	
+10-32	1552-1554	he	_	_	_	
+10-33	1555-1559	have	_	_	_	
+10-34	1559-1560	.	_	_	_	
+
+#Text=Such as grow quite wild, and are left out till the first of November, 
+#Text= I presume that the owner does not mean to gather.
+11-1	1566-1570	Such	_	_	_	
+11-2	1571-1573	as	_	_	_	
+11-3	1574-1578	grow	_	_	_	
+11-4	1579-1584	quite	_	_	_	
+11-5	1585-1589	wild	_	_	_	
+11-6	1589-1590	,	_	_	_	
+11-7	1591-1594	and	_	_	_	
+11-8	1595-1598	are	_	_	_	
+11-9	1599-1603	left	_	_	_	
+11-10	1604-1607	out	_	_	_	
+11-11	1608-1612	till	_	_	_	
+11-12	1613-1616	the	_	_	_	
+11-13	1617-1622	first	_	_	_	
+11-14	1623-1625	of	_	_	_	
+11-15	1626-1634	November	_	_	_	
+11-16	1634-1635	,	_	_	_	
+11-17	1638-1639	I	_	_	_	
+11-18	1640-1647	presume	_	_	_	
+11-19	1648-1652	that	_	_	_	
+11-20	1653-1656	the	_	_	_	
+11-21	1657-1662	owner	_	_	_	
+11-22	1663-1667	does	_	_	_	
+11-23	1668-1671	not	_	_	_	
+11-24	1672-1676	mean	_	_	_	
+11-25	1677-1679	to	_	_	_	
+11-26	1680-1686	gather	_	_	_	
+11-27	1686-1687	.	_	_	_	
+
+#Text=They belong to 
+#Text= children as wild as themselves,--to certain active boys that I 
+#Text= know,--to the wild-eyed woman of the fields, to whom nothing comes 
+#Text= amiss, who gleans after all the world, and, moreover, to us walkers.
+12-1	1688-1692	They	_	_	_	
+12-2	1693-1699	belong	_	_	_	
+12-3	1700-1702	to	_	_	_	
+12-4	1705-1713	children	_	_	_	
+12-5	1714-1716	as	_	_	_	
+12-6	1717-1721	wild	_	_	_	
+12-7	1722-1724	as	_	_	_	
+12-8	1725-1735	themselves	_	_	_	
+12-9	1735-1736	,	_	_	_	
+12-10	1736-1737	-	_	_	_	
+12-11	1737-1738	-	_	_	_	
+12-12	1738-1740	to	_	_	_	
+12-13	1741-1748	certain	_	_	_	
+12-14	1749-1755	active	_	_	_	
+12-15	1756-1760	boys	_	_	_	
+12-16	1761-1765	that	_	_	_	
+12-17	1766-1767	I	_	_	_	
+12-18	1770-1774	know	_	_	_	
+12-19	1774-1775	,	_	_	_	
+12-20	1775-1776	-	_	_	_	
+12-21	1776-1777	-	_	_	_	
+12-22	1777-1779	to	_	_	_	
+12-23	1780-1783	the	_	_	_	
+12-24	1784-1793	wild-eyed	_	_	_	
+12-25	1794-1799	woman	_	_	_	
+12-26	1800-1802	of	_	_	_	
+12-27	1803-1806	the	_	_	_	
+12-28	1807-1813	fields	_	_	_	
+12-29	1813-1814	,	_	_	_	
+12-30	1815-1817	to	_	_	_	
+12-31	1818-1822	whom	_	_	_	
+12-32	1823-1830	nothing	_	_	_	
+12-33	1831-1836	comes	_	_	_	
+12-34	1839-1844	amiss	_	_	_	
+12-35	1844-1845	,	_	_	_	
+12-36	1846-1849	who	_	_	_	
+12-37	1850-1856	gleans	_	_	_	
+12-38	1857-1862	after	_	_	_	
+12-39	1863-1866	all	_	_	_	
+12-40	1867-1870	the	_	_	_	
+12-41	1871-1876	world	_	_	_	
+12-42	1876-1877	,	_	_	_	
+12-43	1878-1881	and	_	_	_	
+12-44	1881-1882	,	_	_	_	
+12-45	1883-1891	moreover	_	_	_	
+12-46	1891-1892	,	_	_	_	
+12-47	1893-1895	to	_	_	_	
+12-48	1896-1898	us	_	_	_	
+12-49	1899-1906	walkers	_	_	_	
+12-50	1906-1907	.	_	_	_	
+
+#Text=We have met with them, and they are ours.
+13-1	1910-1912	We	_	_	_	
+13-2	1913-1917	have	_	_	_	
+13-3	1918-1921	met	_	_	_	
+13-4	1922-1926	with	_	_	_	
+13-5	1927-1931	them	_	_	_	
+13-6	1931-1932	,	_	_	_	
+13-7	1933-1936	and	_	_	_	
+13-8	1937-1941	they	_	_	_	
+13-9	1942-1945	are	_	_	_	
+13-10	1946-1950	ours	_	_	_	
+13-11	1950-1951	.	_	_	_	
+
+#Text=These rights, long enough 
+#Text= insisted upon, have come to be an institution in some old countries, 
+#Text= where they have learned how to live.
+14-1	1952-1957	These	_	_	_	
+14-2	1958-1964	rights	_	_	_	
+14-3	1964-1965	,	_	_	_	
+14-4	1966-1970	long	_	_	_	
+14-5	1971-1977	enough	_	_	_	
+14-6	1980-1988	insisted	_	_	_	
+14-7	1989-1993	upon	_	_	_	
+14-8	1993-1994	,	_	_	_	
+14-9	1995-1999	have	_	_	_	
+14-10	2000-2004	come	_	_	_	
+14-11	2005-2007	to	_	_	_	
+14-12	2008-2010	be	_	_	_	
+14-13	2011-2013	an	_	_	_	
+14-14	2014-2025	institution	_	_	_	
+14-15	2026-2028	in	_	_	_	
+14-16	2029-2033	some	_	_	_	
+14-17	2034-2037	old	_	_	_	
+14-18	2038-2047	countries	_	_	_	
+14-19	2047-2048	,	_	_	_	
+14-20	2051-2056	where	_	_	_	
+14-21	2057-2061	they	_	_	_	
+14-22	2062-2066	have	_	_	_	
+14-23	2067-2074	learned	_	_	_	
+14-24	2075-2078	how	_	_	_	
+14-25	2079-2081	to	_	_	_	
+14-26	2082-2086	live	_	_	_	
+14-27	2086-2087	.	_	_	_	
+
+#Text=I hear that "the custom of 
+#Text= grippling, which may be called apple-gleaning, is, or was formerly,
+#Text=America," though they are more memorable to my taste than the grafted 
+#Text= kinds; more racy and wild American flavors do they possess when 
+#Text= October and November, when December and January, and perhaps February 
+#Text= and March even, have assuaged them somewhat.
+15-1	2088-2089	I	_	_	_	
+15-2	2090-2094	hear	_	_	_	
+15-3	2095-2099	that	_	_	_	
+15-4	2100-2101	"	_	_	_	
+15-5	2101-2104	the	_	_	_	
+15-6	2105-2111	custom	_	_	_	
+15-7	2112-2114	of	_	_	_	
+15-8	2117-2126	grippling	_	_	_	
+15-9	2126-2127	,	_	_	_	
+15-10	2128-2133	which	_	_	_	
+15-11	2134-2137	may	_	_	_	
+15-12	2138-2140	be	_	_	_	
+15-13	2141-2147	called	_	_	_	
+15-14	2148-2162	apple-gleaning	_	_	_	
+15-15	2162-2163	,	_	_	_	
+15-16	2164-2166	is	_	_	_	
+15-17	2166-2167	,	_	_	_	
+15-18	2168-2170	or	_	_	_	
+15-19	2171-2174	was	_	_	_	
+15-20	2175-2183	formerly	_	_	_	
+15-21	2183-2184	,	_	_	_	
+15-22	2185-2192	America	_	_	_	
+15-23	2192-2193	,	_	_	_	
+15-24	2193-2194	"	_	_	_	
+15-25	2195-2201	though	_	_	_	
+15-26	2202-2206	they	_	_	_	
+15-27	2207-2210	are	_	_	_	
+15-28	2211-2215	more	Quality[12]	_	_	
+15-29	2216-2225	memorable	Quality[12]	_	_	
+15-30	2226-2228	to	_	_	_	
+15-31	2229-2231	my	_	_	_	
+15-32	2232-2237	taste	Taste Word	*	15-28[12_0]	
+15-33	2238-2242	than	_	_	_	
+15-34	2243-2246	the	_	_	_	
+15-35	2247-2254	grafted	_	_	_	
+15-36	2257-2262	kinds	_	_	_	
+15-37	2262-2263	;	_	_	_	
+15-38	2264-2268	more	_	_	_	
+15-39	2269-2273	racy	Taste Word[13]|Quality[14]	*	15-39[14_13]	
+15-40	2274-2277	and	_	_	_	
+15-41	2278-2282	wild	Quality[15]	_	_	
+15-42	2283-2291	American	Quality[15]	_	_	
+15-43	2292-2299	flavors	Taste Word	*|*	15-41[15_0]|15-39[14_0]	
+15-44	2300-2302	do	_	_	_	
+15-45	2303-2307	they	_	_	_	
+15-46	2308-2315	possess	_	_	_	
+15-47	2316-2320	when	_	_	_	
+15-48	2323-2330	October	_	_	_	
+15-49	2331-2334	and	_	_	_	
+15-50	2335-2343	November	_	_	_	
+15-51	2343-2344	,	_	_	_	
+15-52	2345-2349	when	_	_	_	
+15-53	2350-2358	December	_	_	_	
+15-54	2359-2362	and	_	_	_	
+15-55	2363-2370	January	_	_	_	
+15-56	2370-2371	,	_	_	_	
+15-57	2372-2375	and	_	_	_	
+15-58	2376-2383	perhaps	_	_	_	
+15-59	2384-2392	February	_	_	_	
+15-60	2395-2398	and	_	_	_	
+15-61	2399-2404	March	_	_	_	
+15-62	2405-2409	even	_	_	_	
+15-63	2409-2410	,	_	_	_	
+15-64	2411-2415	have	_	_	_	
+15-65	2416-2424	assuaged	_	_	_	
+15-66	2425-2429	them	_	_	_	
+15-67	2430-2438	somewhat	_	_	_	
+15-68	2438-2439	.	_	_	_	
+
+#Text=An old farmer in my 
+#Text= neighborhood, who always selects the right word, says that "they have 
+#Text= a kind of bow-arrow tang."
+16-1	2440-2442	An	_	_	_	
+16-2	2443-2446	old	_	_	_	
+16-3	2447-2453	farmer	_	_	_	
+16-4	2454-2456	in	_	_	_	
+16-5	2457-2459	my	_	_	_	
+16-6	2462-2474	neighborhood	_	_	_	
+16-7	2474-2475	,	_	_	_	
+16-8	2476-2479	who	_	_	_	
+16-9	2480-2486	always	_	_	_	
+16-10	2487-2494	selects	_	_	_	
+16-11	2495-2498	the	_	_	_	
+16-12	2499-2504	right	_	_	_	
+16-13	2505-2509	word	_	_	_	
+16-14	2509-2510	,	_	_	_	
+16-15	2511-2515	says	_	_	_	
+16-16	2516-2520	that	_	_	_	
+16-17	2521-2522	"	_	_	_	
+16-18	2522-2526	they	_	_	_	
+16-19	2527-2531	have	_	_	_	
+16-20	2534-2535	a	_	_	_	
+16-21	2536-2540	kind	_	_	_	
+16-22	2541-2543	of	_	_	_	
+16-23	2544-2553	bow-arrow	_	_	_	
+16-24	2554-2558	tang	_	_	_	
+16-25	2558-2559	.	_	_	_	
+16-26	2559-2560	"	_	_	_	
+
+#Text=Apples for grafting appear to have been selected commonly, not so much 
+#Text= for their spirited flavor, as for their mildness, their size, and 
+#Text= bearing qualities,--not so much for their beauty, as for their 
+#Text= fairness and soundness.
+17-1	2566-2572	Apples	Taste Source	_	_	
+17-2	2573-2576	for	_	_	_	
+17-3	2577-2585	grafting	_	_	_	
+17-4	2586-2592	appear	_	_	_	
+17-5	2593-2595	to	_	_	_	
+17-6	2596-2600	have	_	_	_	
+17-7	2601-2605	been	_	_	_	
+17-8	2606-2614	selected	_	_	_	
+17-9	2615-2623	commonly	_	_	_	
+17-10	2623-2624	,	_	_	_	
+17-11	2625-2628	not	_	_	_	
+17-12	2629-2631	so	_	_	_	
+17-13	2632-2636	much	_	_	_	
+17-14	2639-2642	for	_	_	_	
+17-15	2643-2648	their	_	_	_	
+17-16	2649-2657	spirited	Quality	_	_	
+17-17	2658-2664	flavor	Taste Word	*|*	17-16|17-1	
+17-18	2664-2665	,	_	_	_	
+17-19	2666-2668	as	_	_	_	
+17-20	2669-2672	for	_	_	_	
+17-21	2673-2678	their	_	_	_	
+17-22	2679-2687	mildness	_	_	_	
+17-23	2687-2688	,	_	_	_	
+17-24	2689-2694	their	_	_	_	
+17-25	2695-2699	size	_	_	_	
+17-26	2699-2700	,	_	_	_	
+17-27	2701-2704	and	_	_	_	
+17-28	2707-2714	bearing	_	_	_	
+17-29	2715-2724	qualities	_	_	_	
+17-30	2724-2725	,	_	_	_	
+17-31	2725-2726	-	_	_	_	
+17-32	2726-2727	-	_	_	_	
+17-33	2727-2730	not	_	_	_	
+17-34	2731-2733	so	_	_	_	
+17-35	2734-2738	much	_	_	_	
+17-36	2739-2742	for	_	_	_	
+17-37	2743-2748	their	_	_	_	
+17-38	2749-2755	beauty	_	_	_	
+17-39	2755-2756	,	_	_	_	
+17-40	2757-2759	as	_	_	_	
+17-41	2760-2763	for	_	_	_	
+17-42	2764-2769	their	_	_	_	
+17-43	2772-2780	fairness	_	_	_	
+17-44	2781-2784	and	_	_	_	
+17-45	2785-2794	soundness	_	_	_	
+17-46	2794-2795	.	_	_	_	
+
+#Text=Indeed, I have no faith in the selected lists 
+#Text= of pomological gentlemen.
+18-1	2796-2802	Indeed	_	_	_	
+18-2	2802-2803	,	_	_	_	
+18-3	2804-2805	I	_	_	_	
+18-4	2806-2810	have	_	_	_	
+18-5	2811-2813	no	_	_	_	
+18-6	2814-2819	faith	_	_	_	
+18-7	2820-2822	in	_	_	_	
+18-8	2823-2826	the	_	_	_	
+18-9	2827-2835	selected	_	_	_	
+18-10	2836-2841	lists	_	_	_	
+18-11	2844-2846	of	_	_	_	
+18-12	2847-2858	pomological	_	_	_	
+18-13	2859-2868	gentlemen	_	_	_	
+18-14	2868-2869	.	_	_	_	
+
+#Text=Their "Favorites" and "None-suches" and 
+#Text= "Seek-no-farthers," when I have fruited them, commonly turn out very 
+#Text= tame and forgettable.
+19-1	2870-2875	Their	_	_	_	
+19-2	2876-2877	"	_	_	_	
+19-3	2877-2886	Favorites	_	_	_	
+19-4	2886-2887	"	_	_	_	
+19-5	2888-2891	and	_	_	_	
+19-6	2892-2893	"	_	_	_	
+19-7	2893-2904	None-suches	_	_	_	
+19-8	2904-2905	"	_	_	_	
+19-9	2906-2909	and	_	_	_	
+19-10	2912-2913	"	_	_	_	
+19-11	2913-2929	Seek-no-farthers	_	_	_	
+19-12	2929-2930	,	_	_	_	
+19-13	2930-2931	"	_	_	_	
+19-14	2932-2936	when	_	_	_	
+19-15	2937-2938	I	_	_	_	
+19-16	2939-2943	have	_	_	_	
+19-17	2944-2951	fruited	_	_	_	
+19-18	2952-2956	them	_	_	_	
+19-19	2956-2957	,	_	_	_	
+19-20	2958-2966	commonly	_	_	_	
+19-21	2967-2971	turn	_	_	_	
+19-22	2972-2975	out	_	_	_	
+19-23	2976-2980	very	_	_	_	
+19-24	2983-2987	tame	_	_	_	
+19-25	2988-2991	and	_	_	_	
+19-26	2992-3003	forgettable	_	_	_	
+19-27	3003-3004	.	_	_	_	
+
+#Text=They are eaten with comparatively little zest, 
+#Text= and have no real _tang_ nor _smack_ to them.
+20-1	3005-3009	They	Taste Source	anaphorical	17-1	
+20-2	3010-3013	are	_	_	_	
+20-3	3014-3019	eaten	Taste Word	*	20-1	
+20-4	3020-3024	with	_	_	_	
+20-5	3025-3038	comparatively	_	_	_	
+20-6	3039-3045	little	_	_	_	
+20-7	3046-3050	zest	_	_	_	
+20-8	3050-3051	,	_	_	_	
+20-9	3054-3057	and	_	_	_	
+20-10	3058-3062	have	_	_	_	
+20-11	3063-3065	no	Quality[16]	_	_	
+20-12	3066-3070	real	Quality[16]	_	_	
+20-13	3071-3072	_	_	_	_	
+20-14	3072-3076	tang	Taste Word	*|*	20-11[16_0]|20-1	
+20-15	3076-3077	_	_	_	_	
+20-16	3078-3081	nor	Quality	_	_	
+20-17	3082-3083	_	_	_	_	
+20-18	3083-3088	smack	Taste Word	*|*	20-1|20-16	
+20-19	3088-3089	_	_	_	_	
+20-20	3090-3092	to	_	_	_	
+20-21	3093-3097	them	_	_	_	
+20-22	3097-3098	.	_	_	_	
+
+#Text=What if some of these wildings are acrid and puckery, genuine 
+#Text= _verjuice_, do they not still belong to the _Pomaceæ_, which are 
+#Text= uniformly innocent and kind to our race?
+21-1	3104-3108	What	_	_	_	
+21-2	3109-3111	if	_	_	_	
+21-3	3112-3116	some	_	_	_	
+21-4	3117-3119	of	_	_	_	
+21-5	3120-3125	these	_	_	_	
+21-6	3126-3134	wildings	_	_	_	
+21-7	3135-3138	are	_	_	_	
+21-8	3139-3144	acrid	_	_	_	
+21-9	3145-3148	and	_	_	_	
+21-10	3149-3156	puckery	_	_	_	
+21-11	3156-3157	,	_	_	_	
+21-12	3158-3165	genuine	_	_	_	
+21-13	3168-3169	_	_	_	_	
+21-14	3169-3177	verjuice	_	_	_	
+21-15	3177-3178	_	_	_	_	
+21-16	3178-3179	,	_	_	_	
+21-17	3180-3182	do	_	_	_	
+21-18	3183-3187	they	_	_	_	
+21-19	3188-3191	not	_	_	_	
+21-20	3192-3197	still	_	_	_	
+21-21	3198-3204	belong	_	_	_	
+21-22	3205-3207	to	_	_	_	
+21-23	3208-3211	the	_	_	_	
+21-24	3212-3213	_	_	_	_	
+21-25	3213-3220	Pomaceæ	_	_	_	
+21-26	3220-3221	_	_	_	_	
+21-27	3221-3222	,	_	_	_	
+21-28	3223-3228	which	_	_	_	
+21-29	3229-3232	are	_	_	_	
+21-30	3235-3244	uniformly	_	_	_	
+21-31	3245-3253	innocent	_	_	_	
+21-32	3254-3257	and	_	_	_	
+21-33	3258-3262	kind	_	_	_	
+21-34	3263-3265	to	_	_	_	
+21-35	3266-3269	our	_	_	_	
+21-36	3270-3274	race	_	_	_	
+21-37	3274-3275	?	_	_	_	
+
+#Text=I still begrudge them to the 
+#Text= cider-mill.
+22-1	3276-3277	I	_	_	_	
+22-2	3278-3283	still	_	_	_	
+22-3	3284-3292	begrudge	_	_	_	
+22-4	3293-3297	them	_	_	_	
+22-5	3298-3300	to	_	_	_	
+22-6	3301-3304	the	_	_	_	
+22-7	3307-3317	cider-mill	_	_	_	
+22-8	3317-3318	.	_	_	_	
+
+#Text=Perhaps they are not fairly ripe yet.
+23-1	3319-3326	Perhaps	_	_	_	
+23-2	3327-3331	they	_	_	_	
+23-3	3332-3335	are	_	_	_	
+23-4	3336-3339	not	_	_	_	
+23-5	3340-3346	fairly	_	_	_	
+23-6	3347-3351	ripe	_	_	_	
+23-7	3352-3355	yet	_	_	_	
+23-8	3355-3356	.	_	_	_	
+
+#Text=No wonder that these small and high-colored apples are thought to make 
+#Text= the best cider.
+24-1	3360-3362	No	_	_	_	
+24-2	3363-3369	wonder	_	_	_	
+24-3	3370-3374	that	_	_	_	
+24-4	3375-3380	these	_	_	_	
+24-5	3381-3386	small	_	_	_	
+24-6	3387-3390	and	_	_	_	
+24-7	3391-3403	high-colored	_	_	_	
+24-8	3404-3410	apples	_	_	_	
+24-9	3411-3414	are	_	_	_	
+24-10	3415-3422	thought	_	_	_	
+24-11	3423-3425	to	_	_	_	
+24-12	3426-3430	make	_	_	_	
+24-13	3433-3436	the	_	_	_	
+24-14	3437-3441	best	_	_	_	
+24-15	3442-3447	cider	_	_	_	
+24-16	3447-3448	.	_	_	_	
+
+#Text=Loudon quotes from the "Herefordshire Report," that 
+#Text= "apples of a small size are always, if equal in quality, to be 
+#Text= preferred to those of a larger size, in order that the rind and kernel 
+#Text= may bear the greatest proportion to the pulp, which affords the 
+#Text= weakest and most watery juice."
+25-1	3449-3455	Loudon	_	_	_	
+25-2	3456-3462	quotes	_	_	_	
+25-3	3463-3467	from	_	_	_	
+25-4	3468-3471	the	_	_	_	
+25-5	3472-3473	"	_	_	_	
+25-6	3473-3486	Herefordshire	_	_	_	
+25-7	3487-3493	Report	_	_	_	
+25-8	3493-3494	,	_	_	_	
+25-9	3494-3495	"	_	_	_	
+25-10	3496-3500	that	_	_	_	
+25-11	3503-3504	"	_	_	_	
+25-12	3504-3510	apples	_	_	_	
+25-13	3511-3513	of	_	_	_	
+25-14	3514-3515	a	_	_	_	
+25-15	3516-3521	small	_	_	_	
+25-16	3522-3526	size	_	_	_	
+25-17	3527-3530	are	_	_	_	
+25-18	3531-3537	always	_	_	_	
+25-19	3537-3538	,	_	_	_	
+25-20	3539-3541	if	_	_	_	
+25-21	3542-3547	equal	_	_	_	
+25-22	3548-3550	in	_	_	_	
+25-23	3551-3558	quality	_	_	_	
+25-24	3558-3559	,	_	_	_	
+25-25	3560-3562	to	_	_	_	
+25-26	3563-3565	be	_	_	_	
+25-27	3568-3577	preferred	_	_	_	
+25-28	3578-3580	to	_	_	_	
+25-29	3581-3586	those	_	_	_	
+25-30	3587-3589	of	_	_	_	
+25-31	3590-3591	a	_	_	_	
+25-32	3592-3598	larger	_	_	_	
+25-33	3599-3603	size	_	_	_	
+25-34	3603-3604	,	_	_	_	
+25-35	3605-3607	in	_	_	_	
+25-36	3608-3613	order	_	_	_	
+25-37	3614-3618	that	_	_	_	
+25-38	3619-3622	the	_	_	_	
+25-39	3623-3627	rind	_	_	_	
+25-40	3628-3631	and	_	_	_	
+25-41	3632-3638	kernel	_	_	_	
+25-42	3641-3644	may	_	_	_	
+25-43	3645-3649	bear	_	_	_	
+25-44	3650-3653	the	_	_	_	
+25-45	3654-3662	greatest	_	_	_	
+25-46	3663-3673	proportion	_	_	_	
+25-47	3674-3676	to	_	_	_	
+25-48	3677-3680	the	_	_	_	
+25-49	3681-3685	pulp	_	_	_	
+25-50	3685-3686	,	_	_	_	
+25-51	3687-3692	which	_	_	_	
+25-52	3693-3700	affords	_	_	_	
+25-53	3701-3704	the	_	_	_	
+25-54	3707-3714	weakest	_	_	_	
+25-55	3715-3718	and	_	_	_	
+25-56	3719-3723	most	_	_	_	
+25-57	3724-3730	watery	_	_	_	
+25-58	3731-3736	juice	_	_	_	
+25-59	3736-3737	.	_	_	_	
+25-60	3737-3738	"	_	_	_	
+
+#Text=And he says that, "to prove this, Dr.
+26-1	3739-3742	And	_	_	_	
+26-2	3743-3745	he	_	_	_	
+26-3	3746-3750	says	_	_	_	
+26-4	3751-3755	that	_	_	_	
+26-5	3755-3756	,	_	_	_	
+26-6	3757-3758	"	_	_	_	
+26-7	3758-3760	to	_	_	_	
+26-8	3761-3766	prove	_	_	_	
+26-9	3767-3771	this	_	_	_	
+26-10	3771-3772	,	_	_	_	
+26-11	3773-3775	Dr	_	_	_	
+26-12	3775-3776	.	_	_	_	
+
+#Text=Symonds, of Hereford, about the year 1800, made one hogshead of cider 
+#Text= entirely from the rinds and cores of apples, and another from the pulp 
+#Text= only, when the first was found of extraordinary strength and flavor, 
+#Text= while the latter was sweet and insipid."
+27-1	3779-3786	Symonds	_	_	_	
+27-2	3786-3787	,	_	_	_	
+27-3	3788-3790	of	_	_	_	
+27-4	3791-3799	Hereford	_	_	_	
+27-5	3799-3800	,	_	_	_	
+27-6	3801-3806	about	_	_	_	
+27-7	3807-3810	the	_	_	_	
+27-8	3811-3815	year	_	_	_	
+27-9	3816-3820	1800	_	_	_	
+27-10	3820-3821	,	_	_	_	
+27-11	3822-3826	made	_	_	_	
+27-12	3827-3830	one	Taste Carrier[17]	_	_	
+27-13	3831-3839	hogshead	Taste Carrier[17]	_	_	
+27-14	3840-3842	of	_	_	_	
+27-15	3843-3848	cider	Taste Source	_	_	
+27-16	3851-3859	entirely	_	_	_	
+27-17	3860-3864	from	_	_	_	
+27-18	3865-3868	the	_	_	_	
+27-19	3869-3874	rinds	_	_	_	
+27-20	3875-3878	and	_	_	_	
+27-21	3879-3884	cores	_	_	_	
+27-22	3885-3887	of	_	_	_	
+27-23	3888-3894	apples	_	_	_	
+27-24	3894-3895	,	_	_	_	
+27-25	3896-3899	and	_	_	_	
+27-26	3900-3907	another	_	_	_	
+27-27	3908-3912	from	_	_	_	
+27-28	3913-3916	the	_	_	_	
+27-29	3917-3921	pulp	_	_	_	
+27-30	3924-3928	only	_	_	_	
+27-31	3928-3929	,	_	_	_	
+27-32	3930-3934	when	_	_	_	
+27-33	3935-3938	the	_	_	_	
+27-34	3939-3944	first	_	_	_	
+27-35	3945-3948	was	_	_	_	
+27-36	3949-3954	found	_	_	_	
+27-37	3955-3957	of	_	_	_	
+27-38	3958-3971	extraordinary	_	_	_	
+27-39	3972-3980	strength	_	_	_	
+27-40	3981-3984	and	_	_	_	
+27-41	3985-3991	flavor	Taste Word	*|*|*|*	27-47[19_0]|27-49[20_0]|27-15|27-12[17_0]	
+27-42	3991-3992	,	_	_	_	
+27-43	3995-4000	while	_	_	_	
+27-44	4001-4004	the	_	_	_	
+27-45	4005-4011	latter	_	_	_	
+27-46	4012-4015	was	_	_	_	
+27-47	4016-4021	sweet	Taste Word[18]|Quality[19]	*	27-47[19_18]	
+27-48	4022-4025	and	_	_	_	
+27-49	4026-4033	insipid	Quality[20]|Taste Word[21]	*	27-49[20_21]	
+27-50	4033-4034	.	_	_	_	
+27-51	4034-4035	"	_	_	_	
+
+#Text=Evelyn says that the "Red-strake" was the favorite cider-apple in his 
+#Text= day; and he quotes one Dr.
+28-1	4041-4047	Evelyn	_	_	_	
+28-2	4048-4052	says	_	_	_	
+28-3	4053-4057	that	_	_	_	
+28-4	4058-4061	the	_	_	_	
+28-5	4062-4063	"	_	_	_	
+28-6	4063-4073	Red-strake	_	_	_	
+28-7	4073-4074	"	_	_	_	
+28-8	4075-4078	was	_	_	_	
+28-9	4079-4082	the	_	_	_	
+28-10	4083-4091	favorite	_	_	_	
+28-11	4092-4103	cider-apple	_	_	_	
+28-12	4104-4106	in	_	_	_	
+28-13	4107-4110	his	_	_	_	
+28-14	4113-4116	day	_	_	_	
+28-15	4116-4117	;	_	_	_	
+28-16	4118-4121	and	_	_	_	
+28-17	4122-4124	he	_	_	_	
+28-18	4125-4131	quotes	_	_	_	
+28-19	4132-4135	one	_	_	_	
+28-20	4136-4138	Dr	_	_	_	
+28-21	4138-4139	.	_	_	_	
+
+#Text=Newburg as saying, "In Jersey   '  tis a 
+#Text= general observation, as I hear, that the more of red any apple has in 
+#Text= its rind, the more proper it is for this use.
+29-1	4140-4147	Newburg	_	_	_	
+29-2	4148-4150	as	_	_	_	
+29-3	4151-4157	saying	_	_	_	
+29-4	4157-4158	,	_	_	_	
+29-5	4159-4160	"	_	_	_	
+29-6	4160-4162	In	_	_	_	
+29-7	4163-4169	Jersey	_	_	_	
+29-8	4172-4173	'	_	_	_	
+29-9	4175-4178	tis	_	_	_	
+29-10	4179-4180	a	_	_	_	
+29-11	4183-4190	general	_	_	_	
+29-12	4191-4202	observation	_	_	_	
+29-13	4202-4203	,	_	_	_	
+29-14	4204-4206	as	_	_	_	
+29-15	4207-4208	I	_	_	_	
+29-16	4209-4213	hear	_	_	_	
+29-17	4213-4214	,	_	_	_	
+29-18	4215-4219	that	_	_	_	
+29-19	4220-4223	the	_	_	_	
+29-20	4224-4228	more	_	_	_	
+29-21	4229-4231	of	_	_	_	
+29-22	4232-4235	red	_	_	_	
+29-23	4236-4239	any	_	_	_	
+29-24	4240-4245	apple	_	_	_	
+29-25	4246-4249	has	_	_	_	
+29-26	4250-4252	in	_	_	_	
+29-27	4255-4258	its	_	_	_	
+29-28	4259-4263	rind	_	_	_	
+29-29	4263-4264	,	_	_	_	
+29-30	4265-4268	the	_	_	_	
+29-31	4269-4273	more	_	_	_	
+29-32	4274-4280	proper	_	_	_	
+29-33	4281-4283	it	_	_	_	
+29-34	4284-4286	is	_	_	_	
+29-35	4287-4290	for	_	_	_	
+29-36	4291-4295	this	_	_	_	
+29-37	4296-4299	use	_	_	_	
+29-38	4299-4300	.	_	_	_	
+
+#Text=Pale-faced apples they 
+#Text= exclude as much as may be from their cider-vat."
+30-1	4301-4311	Pale-faced	_	_	_	
+30-2	4312-4318	apples	_	_	_	
+30-3	4319-4323	they	_	_	_	
+30-4	4326-4333	exclude	_	_	_	
+30-5	4334-4336	as	_	_	_	
+30-6	4337-4341	much	_	_	_	
+30-7	4342-4344	as	_	_	_	
+30-8	4345-4348	may	_	_	_	
+30-9	4349-4351	be	_	_	_	
+30-10	4352-4356	from	_	_	_	
+30-11	4357-4362	their	_	_	_	
+30-12	4363-4372	cider-vat	_	_	_	
+30-13	4372-4373	.	_	_	_	
+30-14	4373-4374	"	_	_	_	
+
+#Text=This opinion still 
+#Text= prevails.
+31-1	4375-4379	This	_	_	_	
+31-2	4380-4387	opinion	_	_	_	
+31-3	4388-4393	still	_	_	_	
+31-4	4396-4404	prevails	_	_	_	
+31-5	4404-4405	.	_	_	_	
+
+#Text=All apples are good in November.
+32-1	4411-4414	All	_	_	_	
+32-2	4415-4421	apples	Taste Source	_	_	
+32-3	4422-4425	are	_	_	_	
+32-4	4426-4430	good	_	_	_	
+32-5	4431-4433	in	_	_	_	
+32-6	4434-4442	November	_	_	_	
+32-7	4442-4443	.	_	_	_	
+
+#Text=Those which the farmer leaves out as
+#Text=unsalable and unpalatable to those who frequent the markets are 
+#Text= choicest fruit to the walker.
+33-1	4444-4449	Those	_	_	_	
+33-2	4450-4455	which	_	_	_	
+33-3	4456-4459	the	_	_	_	
+33-4	4460-4466	farmer	_	_	_	
+33-5	4467-4473	leaves	_	_	_	
+33-6	4474-4477	out	_	_	_	
+33-7	4478-4480	as	_	_	_	
+33-8	4481-4490	unsalable	_	_	_	
+33-9	4491-4494	and	_	_	_	
+33-10	4495-4506	unpalatable	Quality[22]|Taste Word[23]	*|*	32-2[0_22]|33-10[22_23]	
+33-11	4507-4509	to	_	_	_	
+33-12	4510-4515	those	_	_	_	
+33-13	4516-4519	who	_	_	_	
+33-14	4520-4528	frequent	_	_	_	
+33-15	4529-4532	the	_	_	_	
+33-16	4533-4540	markets	_	_	_	
+33-17	4541-4544	are	_	_	_	
+33-18	4547-4555	choicest	_	_	_	
+33-19	4556-4561	fruit	_	_	_	
+33-20	4562-4564	to	_	_	_	
+33-21	4565-4568	the	_	_	_	
+33-22	4569-4575	walker	_	_	_	
+33-23	4575-4576	.	_	_	_	
+
+#Text=But it is remarkable that the wild apple, 
+#Text= which I praise as so spirited and racy when eaten in the fields or 
+#Text= woods, being brought into the house has frequently a harsh and crabbed 
+#Text= taste.
+34-1	4577-4580	But	_	_	_	
+34-2	4581-4583	it	_	_	_	
+34-3	4584-4586	is	_	_	_	
+34-4	4587-4597	remarkable	_	_	_	
+34-5	4598-4602	that	_	_	_	
+34-6	4603-4606	the	_	_	_	
+34-7	4607-4611	wild	Taste Source[24]	_	_	
+34-8	4612-4617	apple	Taste Source[24]	_	_	
+34-9	4617-4618	,	_	_	_	
+34-10	4621-4626	which	_	_	_	
+34-11	4627-4628	I	_	_	_	
+34-12	4629-4635	praise	_	_	_	
+34-13	4636-4638	as	_	_	_	
+34-14	4639-4641	so	_	_	_	
+34-15	4642-4650	spirited	_	_	_	
+34-16	4651-4654	and	_	_	_	
+34-17	4655-4659	racy	Taste Word[25]|Quality[26]	*	34-17[26_25]	
+34-18	4660-4664	when	_	_	_	
+34-19	4665-4670	eaten	Taste Word	*|*|*|*	34-17[26_0]|34-7[24_0]|34-20[27_0]|34-24	
+34-20	4671-4673	in	Location[27]	_	_	
+34-21	4674-4677	the	Location[27]	_	_	
+34-22	4678-4684	fields	Location[27]	_	_	
+34-23	4685-4687	or	_	_	_	
+34-24	4690-4695	woods	Location	_	_	
+34-25	4695-4696	,	_	_	_	
+34-26	4697-4702	being	_	_	_	
+34-27	4703-4710	brought	_	_	_	
+34-28	4711-4715	into	Location[28]	_	_	
+34-29	4716-4719	the	Location[28]	_	_	
+34-30	4720-4725	house	Location[28]	_	_	
+34-31	4726-4729	has	_	_	_	
+34-32	4730-4740	frequently	_	_	_	
+34-33	4741-4742	a	_	_	_	
+34-34	4743-4748	harsh	Quality	_	_	
+34-35	4749-4752	and	_	_	_	
+34-36	4753-4760	crabbed	Quality	_	_	
+34-37	4763-4768	taste	Taste Word	*|*|*	34-36|34-34|34-28[28_0]	
+34-38	4768-4769	.	_	_	_	
+
+#Text=The Saunterer  '  s Apple not even the saunterer can eat in the 
+#Text= house.
+35-1	4770-4773	The	Taste Source[29]	_	_	
+35-2	4774-4783	Saunterer	Taste Source[29]	_	_	
+35-3	4785-4786	'	Taste Source[29]	_	_	
+35-4	4788-4789	s	Taste Source[29]	_	_	
+35-5	4790-4795	Apple	Taste Source[29]	_	_	
+35-6	4796-4799	not	_	_	_	
+35-7	4800-4804	even	_	_	_	
+35-8	4805-4808	the	Taster[30]	_	_	
+35-9	4809-4818	saunterer	Taster[30]	_	_	
+35-10	4819-4822	can	_	_	_	
+35-11	4823-4826	eat	Taste Word	*|*|*	35-12[31_0]|35-8[30_0]|35-1[29_0]	
+35-12	4827-4829	in	Location[31]	_	_	
+35-13	4830-4833	the	Location[31]	_	_	
+35-14	4836-4841	house	Location[31]	_	_	
+35-15	4841-4842	.	_	_	_	
+
+#Text=The palate rejects it there, as it does haws and acorns, and 
+#Text= demands a tamed one; for there you miss the November air, which is the 
+#Text= sauce it is to be eaten with.
+36-1	4843-4846	The	_	_	_	
+36-2	4847-4853	palate	_	_	_	
+36-3	4854-4861	rejects	_	_	_	
+36-4	4862-4864	it	_	_	_	
+36-5	4865-4870	there	_	_	_	
+36-6	4870-4871	,	_	_	_	
+36-7	4872-4874	as	_	_	_	
+36-8	4875-4877	it	_	_	_	
+36-9	4878-4882	does	_	_	_	
+36-10	4883-4887	haws	_	_	_	
+36-11	4888-4891	and	_	_	_	
+36-12	4892-4898	acorns	_	_	_	
+36-13	4898-4899	,	_	_	_	
+36-14	4900-4903	and	_	_	_	
+36-15	4906-4913	demands	_	_	_	
+36-16	4914-4915	a	_	_	_	
+36-17	4916-4921	tamed	_	_	_	
+36-18	4922-4925	one	_	_	_	
+36-19	4925-4926	;	_	_	_	
+36-20	4927-4930	for	_	_	_	
+36-21	4931-4936	there	_	_	_	
+36-22	4937-4940	you	_	_	_	
+36-23	4941-4945	miss	_	_	_	
+36-24	4946-4949	the	_	_	_	
+36-25	4950-4958	November	_	_	_	
+36-26	4959-4962	air	_	_	_	
+36-27	4962-4963	,	_	_	_	
+36-28	4964-4969	which	_	_	_	
+36-29	4970-4972	is	_	_	_	
+36-30	4973-4976	the	Taste Source[32]	_	_	
+36-31	4979-4984	sauce	Taste Source[32]	_	_	
+36-32	4985-4987	it	_	_	_	
+36-33	4988-4990	is	_	_	_	
+36-34	4991-4993	to	_	_	_	
+36-35	4994-4996	be	_	_	_	
+36-36	4997-5002	eaten	Taste Word	*	36-30[32_0]	
+36-37	5003-5007	with	_	_	_	
+36-38	5007-5008	.	_	_	_	
+
+#Text=Accordingly, when Tityrus, seeing the 
+#Text= lengthening shadows, invites Meliboeus to go home and pass the night 
+#Text= with him, he promises him _mild_ apples and soft chestnuts,--_mitia 
+#Text= poma_, _castaneæ molles_.
+37-1	5009-5020	Accordingly	_	_	_	
+37-2	5020-5021	,	_	_	_	
+37-3	5022-5026	when	_	_	_	
+37-4	5027-5034	Tityrus	_	_	_	
+37-5	5034-5035	,	_	_	_	
+37-6	5036-5042	seeing	_	_	_	
+37-7	5043-5046	the	_	_	_	
+37-8	5049-5060	lengthening	_	_	_	
+37-9	5061-5068	shadows	_	_	_	
+37-10	5068-5069	,	_	_	_	
+37-11	5070-5077	invites	_	_	_	
+37-12	5078-5087	Meliboeus	_	_	_	
+37-13	5088-5090	to	_	_	_	
+37-14	5091-5093	go	_	_	_	
+37-15	5094-5098	home	_	_	_	
+37-16	5099-5102	and	_	_	_	
+37-17	5103-5107	pass	_	_	_	
+37-18	5108-5111	the	_	_	_	
+37-19	5112-5117	night	_	_	_	
+37-20	5120-5124	with	_	_	_	
+37-21	5125-5128	him	_	_	_	
+37-22	5128-5129	,	_	_	_	
+37-23	5130-5132	he	_	_	_	
+37-24	5133-5141	promises	_	_	_	
+37-25	5142-5145	him	_	_	_	
+37-26	5146-5147	_	_	_	_	
+37-27	5147-5151	mild	_	_	_	
+37-28	5151-5152	_	_	_	_	
+37-29	5153-5159	apples	_	_	_	
+37-30	5160-5163	and	_	_	_	
+37-31	5164-5168	soft	_	_	_	
+37-32	5169-5178	chestnuts	_	_	_	
+37-33	5178-5179	,	_	_	_	
+37-34	5179-5180	-	_	_	_	
+37-35	5180-5181	-	_	_	_	
+37-36	5181-5182	_	_	_	_	
+37-37	5182-5187	mitia	_	_	_	
+37-38	5190-5194	poma	_	_	_	
+37-39	5194-5195	_	_	_	_	
+37-40	5195-5196	,	_	_	_	
+37-41	5197-5198	_	_	_	_	
+37-42	5198-5206	castaneæ	_	_	_	
+37-43	5207-5213	molles	_	_	_	
+37-44	5213-5214	_	_	_	_	
+37-45	5214-5215	.	_	_	_	
+
+#Text=I frequently pluck wild apples of so rich 
+#Text= and spicy a flavor that I wonder all orchardists do not get a scion 
+#Text= from that tree, and I fail not to bring home my pockets full.
+38-1	5216-5217	I	_	_	_	
+38-2	5218-5228	frequently	_	_	_	
+38-3	5229-5234	pluck	_	_	_	
+38-4	5235-5239	wild	Taste Source[33]	_	_	
+38-5	5240-5246	apples	Taste Source[33]	_	_	
+38-6	5247-5249	of	_	_	_	
+38-7	5250-5252	so	Quality[34]	_	_	
+38-8	5253-5257	rich	Quality[34]	_	_	
+38-9	5260-5263	and	_	_	_	
+38-10	5264-5269	spicy	Quality[35]|Taste Word[36]	*	38-10[35_36]	
+38-11	5270-5271	a	_	_	_	
+38-12	5272-5278	flavor	Taste Word	*|*|*	38-7[34_0]|38-10[35_0]|38-4[33_0]	
+38-13	5279-5283	that	_	_	_	
+38-14	5284-5285	I	_	_	_	
+38-15	5286-5292	wonder	_	_	_	
+38-16	5293-5296	all	_	_	_	
+38-17	5297-5308	orchardists	_	_	_	
+38-18	5309-5311	do	_	_	_	
+38-19	5312-5315	not	_	_	_	
+38-20	5316-5319	get	_	_	_	
+38-21	5320-5321	a	_	_	_	
+38-22	5322-5327	scion	_	_	_	
+38-23	5330-5334	from	_	_	_	
+38-24	5335-5339	that	_	_	_	
+38-25	5340-5344	tree	_	_	_	
+38-26	5344-5345	,	_	_	_	
+38-27	5346-5349	and	_	_	_	
+38-28	5350-5351	I	_	_	_	
+38-29	5352-5356	fail	_	_	_	
+38-30	5357-5360	not	_	_	_	
+38-31	5361-5363	to	_	_	_	
+38-32	5364-5369	bring	_	_	_	
+38-33	5370-5374	home	_	_	_	
+38-34	5375-5377	my	_	_	_	
+38-35	5378-5385	pockets	_	_	_	
+38-36	5386-5390	full	_	_	_	
+38-37	5390-5391	.	_	_	_	
+
+#Text=But 
+#Text= perchance, when I take one out of my desk and taste it in my chamber, 
+#Text= I find it unexpectedly crude,--sour enough to set a squirrel  '  s teeth 
+#Text= on edge and make a jay scream.
+39-1	5392-5395	But	_	_	_	
+39-2	5398-5407	perchance	_	_	_	
+39-3	5407-5408	,	_	_	_	
+39-4	5409-5413	when	_	_	_	
+39-5	5414-5415	I	Taster	_	_	
+39-6	5416-5420	take	_	_	_	
+39-7	5421-5424	one	_	_	_	
+39-8	5425-5428	out	_	_	_	
+39-9	5429-5431	of	_	_	_	
+39-10	5432-5434	my	_	_	_	
+39-11	5435-5439	desk	_	_	_	
+39-12	5440-5443	and	_	_	_	
+39-13	5444-5449	taste	Taste Word	*|*|*|*|*	39-5|39-14|39-15[37_0]|39-22[38_0]|39-27[40_0]	
+39-14	5450-5452	it	Taste Source	anaphorical	38-4[33_0]	
+39-15	5453-5455	in	Location[37]	_	_	
+39-16	5456-5458	my	Location[37]	_	_	
+39-17	5459-5466	chamber	Location[37]	_	_	
+39-18	5466-5467	,	_	_	_	
+39-19	5470-5471	I	_	_	_	
+39-20	5472-5476	find	_	_	_	
+39-21	5477-5479	it	_	_	_	
+39-22	5480-5492	unexpectedly	Quality[38]	_	_	
+39-23	5493-5498	crude	Quality[38]	_	_	
+39-24	5498-5499	,	_	_	_	
+39-25	5499-5500	-	_	_	_	
+39-26	5500-5501	-	_	_	_	
+39-27	5501-5505	sour	Taste Word[39]|Quality[40]	*|*	39-27[40_39]|39-29[41_39]	
+39-28	5506-5512	enough	_	_	_	
+39-29	5513-5515	to	Effect[41]	_	_	
+39-30	5516-5519	set	Effect[41]	_	_	
+39-31	5520-5521	a	Effect[41]	_	_	
+39-32	5522-5530	squirrel	Effect[41]	_	_	
+39-33	5532-5533	'	Effect[41]	_	_	
+39-34	5535-5536	s	Effect[41]	_	_	
+39-35	5537-5542	teeth	Effect[41]	_	_	
+39-36	5545-5547	on	Effect[41]	_	_	
+39-37	5548-5552	edge	Effect[41]	_	_	
+39-38	5553-5556	and	Effect[41]	_	_	
+39-39	5557-5561	make	Effect[41]	_	_	
+39-40	5562-5563	a	Effect[41]	_	_	
+39-41	5564-5567	jay	Effect[41]	_	_	
+39-42	5568-5574	scream	Effect[41]	_	_	
+39-43	5574-5575	.	_	_	_	
+
+#Text=These apples have hung in the wind and frost and rain till they have 
+#Text= absorbed the qualities of the weather or season, and thus are highly 
+#Text= _seasoned_, and they _pierce_ and _sting_ and _permeate_ us with their
+#Text=spirit.
+40-1	5581-5586	These	Taste Source[42]	_	_	
+40-2	5587-5593	apples	Taste Source[42]	_	_	
+40-3	5594-5598	have	_	_	_	
+40-4	5599-5603	hung	_	_	_	
+40-5	5604-5606	in	_	_	_	
+40-6	5607-5610	the	_	_	_	
+40-7	5611-5615	wind	_	_	_	
+40-8	5616-5619	and	_	_	_	
+40-9	5620-5625	frost	_	_	_	
+40-10	5626-5629	and	_	_	_	
+40-11	5630-5634	rain	_	_	_	
+40-12	5635-5639	till	_	_	_	
+40-13	5640-5644	they	_	_	_	
+40-14	5645-5649	have	_	_	_	
+40-15	5652-5660	absorbed	_	_	_	
+40-16	5661-5664	the	_	_	_	
+40-17	5665-5674	qualities	_	_	_	
+40-18	5675-5677	of	_	_	_	
+40-19	5678-5681	the	_	_	_	
+40-20	5682-5689	weather	_	_	_	
+40-21	5690-5692	or	_	_	_	
+40-22	5693-5699	season	_	_	_	
+40-23	5699-5700	,	_	_	_	
+40-24	5701-5704	and	_	_	_	
+40-25	5705-5709	thus	_	_	_	
+40-26	5710-5713	are	_	_	_	
+40-27	5714-5720	highly	Quality	_	_	
+40-28	5723-5724	_	_	_	_	
+40-29	5724-5732	seasoned	Taste Word[43]|Quality[44]	*|*|*|*	40-29[44_43]|40-27[0_43]|40-1[42_43]|40-33[45_43]	
+40-30	5732-5733	_	_	_	_	
+40-31	5733-5734	,	_	_	_	
+40-32	5735-5738	and	_	_	_	
+40-33	5739-5743	they	Effect[45]	_	_	
+40-34	5744-5745	_	Effect[45]	_	_	
+40-35	5745-5751	pierce	Effect[45]	_	_	
+40-36	5751-5752	_	Effect[45]	_	_	
+40-37	5753-5756	and	Effect[45]	_	_	
+40-38	5757-5758	_	Effect[45]	_	_	
+40-39	5758-5763	sting	Effect[45]	_	_	
+40-40	5763-5764	_	Effect[45]	_	_	
+40-41	5765-5768	and	Effect[45]	_	_	
+40-42	5769-5770	_	Effect[45]	_	_	
+40-43	5770-5778	permeate	Effect[45]	_	_	
+40-44	5778-5779	_	Effect[45]	_	_	
+40-45	5780-5782	us	Effect[45]	_	_	
+40-46	5783-5787	with	Effect[45]	_	_	
+40-47	5788-5793	their	Effect[45]	_	_	
+40-48	5794-5800	spirit	Effect[45]	_	_	
+40-49	5800-5801	.	_	_	_	
+
+#Text=They must be eaten in _season_, accordingly,--that is, 
+#Text= out-of-doors.
+41-1	5802-5806	They	Taste Source	anaphorical	40-1[42_0]	
+41-2	5807-5811	must	_	_	_	
+41-3	5812-5814	be	_	_	_	
+41-4	5815-5820	eaten	Taste Word	*|*|*	41-1|41-17|41-5[46_0]	
+41-5	5821-5823	in	Circumstance[46]	_	_	
+41-6	5824-5825	_	Circumstance[46]	_	_	
+41-7	5825-5831	season	Circumstance[46]	_	_	
+41-8	5831-5832	_	Circumstance[46]	_	_	
+41-9	5832-5833	,	_	_	_	
+41-10	5834-5845	accordingly	_	_	_	
+41-11	5845-5846	,	_	_	_	
+41-12	5846-5847	-	_	_	_	
+41-13	5847-5848	-	_	_	_	
+41-14	5848-5852	that	_	_	_	
+41-15	5853-5855	is	_	_	_	
+41-16	5855-5856	,	_	_	_	
+41-17	5859-5871	out-of-doors	Circumstance	_	_	
+41-18	5871-5872	.	_	_	_	
+
+#Text=To appreciate the wild and sharp flavors of these October fruits, it 
+#Text= is necessary that you be breathing the sharp October or November air.
+42-1	5878-5880	To	_	_	_	
+42-2	5881-5891	appreciate	_	_	_	
+42-3	5892-5895	the	_	_	_	
+42-4	5896-5900	wild	Quality	_	_	
+42-5	5901-5904	and	_	_	_	
+42-6	5905-5910	sharp	Quality[47]|Taste Word[48]	*	42-6[47_48]	
+42-7	5911-5918	flavors	Taste Word	*|*|*	42-8[49_0]|42-6[47_0]|42-4	
+42-8	5919-5921	of	Taste Source[49]	_	_	
+42-9	5922-5927	these	Taste Source[49]	_	_	
+42-10	5928-5935	October	Taste Source[49]	_	_	
+42-11	5936-5942	fruits	Taste Source[49]	_	_	
+42-12	5942-5943	,	_	_	_	
+42-13	5944-5946	it	_	_	_	
+42-14	5949-5951	is	_	_	_	
+42-15	5952-5961	necessary	_	_	_	
+42-16	5962-5966	that	_	_	_	
+42-17	5967-5970	you	_	_	_	
+42-18	5971-5973	be	_	_	_	
+42-19	5974-5983	breathing	_	_	_	
+42-20	5984-5987	the	_	_	_	
+42-21	5988-5993	sharp	_	_	_	
+42-22	5994-6001	October	_	_	_	
+42-23	6002-6004	or	_	_	_	
+42-24	6005-6013	November	_	_	_	
+42-25	6014-6017	air	_	_	_	
+42-26	6017-6018	.	_	_	_	
+
+#Text=The outdoor air and exercise which the walker gets give a different 
+#Text= tone to his palate, and he craves a fruit which the sedentary would 
+#Text= call harsh and crabbed.
+43-1	6021-6024	The	_	_	_	
+43-2	6025-6032	outdoor	_	_	_	
+43-3	6033-6036	air	_	_	_	
+43-4	6037-6040	and	_	_	_	
+43-5	6041-6049	exercise	_	_	_	
+43-6	6050-6055	which	_	_	_	
+43-7	6056-6059	the	_	_	_	
+43-8	6060-6066	walker	_	_	_	
+43-9	6067-6071	gets	_	_	_	
+43-10	6072-6076	give	_	_	_	
+43-11	6077-6078	a	_	_	_	
+43-12	6079-6088	different	_	_	_	
+43-13	6091-6095	tone	_	_	_	
+43-14	6096-6098	to	_	_	_	
+43-15	6099-6102	his	_	_	_	
+43-16	6103-6109	palate	_	_	_	
+43-17	6109-6110	,	_	_	_	
+43-18	6111-6114	and	_	_	_	
+43-19	6115-6117	he	_	_	_	
+43-20	6118-6124	craves	_	_	_	
+43-21	6125-6126	a	_	_	_	
+43-22	6127-6132	fruit	_	_	_	
+43-23	6133-6138	which	_	_	_	
+43-24	6139-6142	the	_	_	_	
+43-25	6143-6152	sedentary	_	_	_	
+43-26	6153-6158	would	_	_	_	
+43-27	6161-6165	call	_	_	_	
+43-28	6166-6171	harsh	_	_	_	
+43-29	6172-6175	and	_	_	_	
+43-30	6176-6183	crabbed	_	_	_	
+43-31	6183-6184	.	_	_	_	
+
+#Text=They must be eaten in the fields, when your 
+#Text= system is all aglow with exercise, when the frosty weather nips your 
+#Text= fingers, the wind rattles the bare boughs or rustles the few remaining 
+#Text= leaves, and the jay is heard screaming around.
+44-1	6185-6189	They	Taste Source	anaphorical	42-8[49_0]	
+44-2	6190-6194	must	_	_	_	
+44-3	6195-6197	be	_	_	_	
+44-4	6198-6203	eaten	Taste Word	*|*|*	44-1|44-5[50_0]|44-9[51_0]	
+44-5	6204-6206	in	Location[50]	_	_	
+44-6	6207-6210	the	Location[50]	_	_	
+44-7	6211-6217	fields	Location[50]	_	_	
+44-8	6217-6218	,	_	_	_	
+44-9	6219-6223	when	Circumstance[51]	_	_	
+44-10	6224-6228	your	Circumstance[51]	_	_	
+44-11	6231-6237	system	Circumstance[51]	_	_	
+44-12	6238-6240	is	Circumstance[51]	_	_	
+44-13	6241-6244	all	Circumstance[51]	_	_	
+44-14	6245-6250	aglow	Circumstance[51]	_	_	
+44-15	6251-6255	with	Circumstance[51]	_	_	
+44-16	6256-6264	exercise	Circumstance[51]	_	_	
+44-17	6264-6265	,	Circumstance[51]	_	_	
+44-18	6266-6270	when	Circumstance[51]	_	_	
+44-19	6271-6274	the	Circumstance[51]	_	_	
+44-20	6275-6281	frosty	Circumstance[51]	_	_	
+44-21	6282-6289	weather	Circumstance[51]	_	_	
+44-22	6290-6294	nips	Circumstance[51]	_	_	
+44-23	6295-6299	your	Circumstance[51]	_	_	
+44-24	6302-6309	fingers	Circumstance[51]	_	_	
+44-25	6309-6310	,	Circumstance[51]	_	_	
+44-26	6311-6314	the	Circumstance[51]	_	_	
+44-27	6315-6319	wind	Circumstance[51]	_	_	
+44-28	6320-6327	rattles	Circumstance[51]	_	_	
+44-29	6328-6331	the	Circumstance[51]	_	_	
+44-30	6332-6336	bare	Circumstance[51]	_	_	
+44-31	6337-6343	boughs	Circumstance[51]	_	_	
+44-32	6344-6346	or	Circumstance[51]	_	_	
+44-33	6347-6354	rustles	Circumstance[51]	_	_	
+44-34	6355-6358	the	Circumstance[51]	_	_	
+44-35	6359-6362	few	Circumstance[51]	_	_	
+44-36	6363-6372	remaining	Circumstance[51]	_	_	
+44-37	6375-6381	leaves	Circumstance[51]	_	_	
+44-38	6381-6382	,	Circumstance[51]	_	_	
+44-39	6383-6386	and	Circumstance[51]	_	_	
+44-40	6387-6390	the	Circumstance[51]	_	_	
+44-41	6391-6394	jay	Circumstance[51]	_	_	
+44-42	6395-6397	is	Circumstance[51]	_	_	
+44-43	6398-6403	heard	Circumstance[51]	_	_	
+44-44	6404-6413	screaming	Circumstance[51]	_	_	
+44-45	6414-6420	around	Circumstance[51]	_	_	
+44-46	6420-6421	.	_	_	_	
+
+#Text=What is sour in the 
+#Text= house a bracing walk makes sweet.
+45-1	6422-6426	What	_	_	_	
+45-2	6427-6429	is	_	_	_	
+45-3	6430-6434	sour	Taste Word[52]|Quality[53]	*|*	45-3[53_52]|45-4[54_52]	
+45-4	6435-6437	in	Location[54]	_	_	
+45-5	6438-6441	the	Location[54]	_	_	
+45-6	6444-6449	house	Location[54]	_	_	
+45-7	6450-6451	a	_	_	_	
+45-8	6452-6459	bracing	_	_	_	
+45-9	6460-6464	walk	_	_	_	
+45-10	6465-6470	makes	_	_	_	
+45-11	6471-6476	sweet	Quality[55]|Taste Word[56]	*	45-11[55_56]	
+45-12	6476-6477	.	_	_	_	
+
+#Text=Some of these apples might be 
+#Text= labeled, "To be eaten in the wind."
+46-1	6478-6482	Some	Taste Source[57]	_	_	
+46-2	6483-6485	of	Taste Source[57]	_	_	
+46-3	6486-6491	these	Taste Source[57]	_	_	
+46-4	6492-6498	apples	Taste Source[57]	_	_	
+46-5	6499-6504	might	_	_	_	
+46-6	6505-6507	be	_	_	_	
+46-7	6510-6517	labeled	_	_	_	
+46-8	6517-6518	,	_	_	_	
+46-9	6519-6520	"	_	_	_	
+46-10	6520-6522	To	_	_	_	
+46-11	6523-6525	be	_	_	_	
+46-12	6526-6531	eaten	Taste Word	*|*	46-1[57_0]|46-13[58_0]	
+46-13	6532-6534	in	Circumstance[58]	_	_	
+46-14	6535-6538	the	Circumstance[58]	_	_	
+46-15	6539-6543	wind	Circumstance[58]	_	_	
+46-16	6543-6544	.	_	_	_	
+46-17	6544-6545	"	_	_	_	
+
+#Text=Of course no flavors are thrown away; they are intended for the taste 
+#Text= that is up to them.
+47-1	6551-6553	Of	_	_	_	
+47-2	6554-6560	course	_	_	_	
+47-3	6561-6563	no	_	_	_	
+47-4	6564-6571	flavors	Taste Word	_	_	
+47-5	6572-6575	are	_	_	_	
+47-6	6576-6582	thrown	_	_	_	
+47-7	6583-6587	away	_	_	_	
+47-8	6587-6588	;	_	_	_	
+47-9	6589-6593	they	Taste Source	anaphorical	46-1[57_0]	
+47-10	6594-6597	are	_	_	_	
+47-11	6598-6606	intended	_	_	_	
+47-12	6607-6610	for	_	_	_	
+47-13	6611-6614	the	_	_	_	
+47-14	6615-6620	taste	Taste Word	*	47-9	
+47-15	6623-6627	that	_	_	_	
+47-16	6628-6630	is	_	_	_	
+47-17	6631-6633	up	_	_	_	
+47-18	6634-6636	to	_	_	_	
+47-19	6637-6641	them	_	_	_	
+47-20	6641-6642	.	_	_	_	
+
+#Text=Some apples have two distinct flavors, and perhaps 
+#Text= one half of them must be eaten in the house, the other outdoors.
+48-1	6643-6647	Some	Taste Source[59]	_	_	
+48-2	6648-6654	apples	Taste Source[59]	_	_	
+48-3	6655-6659	have	_	_	_	
+48-4	6660-6663	two	_	_	_	
+48-5	6664-6672	distinct	Quality	_	_	
+48-6	6673-6680	flavors	Taste Word	*|*	48-1[59_0]|48-5	
+48-7	6680-6681	,	_	_	_	
+48-8	6682-6685	and	_	_	_	
+48-9	6686-6693	perhaps	_	_	_	
+48-10	6696-6699	one	_	_	_	
+48-11	6700-6704	half	_	_	_	
+48-12	6705-6707	of	_	_	_	
+48-13	6708-6712	them	_	_	_	
+48-14	6713-6717	must	_	_	_	
+48-15	6718-6720	be	_	_	_	
+48-16	6721-6726	eaten	Taste Word	*|*|*	48-17[60_0]|48-1[59_0]|48-23	
+48-17	6727-6729	in	Location[60]	_	_	
+48-18	6730-6733	the	Location[60]	_	_	
+48-19	6734-6739	house	Location[60]	_	_	
+48-20	6739-6740	,	_	_	_	
+48-21	6741-6744	the	_	_	_	
+48-22	6745-6750	other	_	_	_	
+48-23	6751-6759	outdoors	Location	_	_	
+48-24	6759-6760	.	_	_	_	
+
+#Text=One 
+#Text= Peter Whitney wrote from Northborough in 1782, for the Proceedings of 
+#Text= the Boston Academy, describing an apple tree in that town "producing 
+#Text= fruit of opposite qualities, part of the same apple being frequently
+#Text=sour and the other sweet;" also some all sour, and others all sweet, 
+#Text= and this diversity on all parts of the tree.
+49-1	6761-6764	One	_	_	_	
+49-2	6767-6772	Peter	_	_	_	
+49-3	6773-6780	Whitney	_	_	_	
+49-4	6781-6786	wrote	_	_	_	
+49-5	6787-6791	from	_	_	_	
+49-6	6792-6804	Northborough	_	_	_	
+49-7	6805-6807	in	_	_	_	
+49-8	6808-6812	1782	_	_	_	
+49-9	6812-6813	,	_	_	_	
+49-10	6814-6817	for	_	_	_	
+49-11	6818-6821	the	_	_	_	
+49-12	6822-6833	Proceedings	_	_	_	
+49-13	6834-6836	of	_	_	_	
+49-14	6839-6842	the	_	_	_	
+49-15	6843-6849	Boston	_	_	_	
+49-16	6850-6857	Academy	_	_	_	
+49-17	6857-6858	,	_	_	_	
+49-18	6859-6869	describing	_	_	_	
+49-19	6870-6872	an	_	_	_	
+49-20	6873-6878	apple	_	_	_	
+49-21	6879-6883	tree	_	_	_	
+49-22	6884-6886	in	_	_	_	
+49-23	6887-6891	that	_	_	_	
+49-24	6892-6896	town	_	_	_	
+49-25	6897-6898	"	_	_	_	
+49-26	6898-6907	producing	_	_	_	
+49-27	6910-6915	fruit	_	_	_	
+49-28	6916-6918	of	_	_	_	
+49-29	6919-6927	opposite	_	_	_	
+49-30	6928-6937	qualities	_	_	_	
+49-31	6937-6938	,	_	_	_	
+49-32	6939-6943	part	Taste Source[61]	_	_	
+49-33	6944-6946	of	Taste Source[61]	_	_	
+49-34	6947-6950	the	Taste Source[61]	_	_	
+49-35	6951-6955	same	Taste Source[61]	_	_	
+49-36	6956-6961	apple	Taste Source[61]	_	_	
+49-37	6962-6967	being	_	_	_	
+49-38	6968-6978	frequently	_	_	_	
+49-39	6979-6983	sour	Taste Word[62]|Quality[63]	*|*	49-39[63_62]|49-32[61_62]	
+49-40	6984-6987	and	_	_	_	
+49-41	6988-6991	the	_	_	_	
+49-42	6992-6997	other	_	_	_	
+49-43	6998-7003	sweet	Quality[64]|Taste Word[65]	*|*	49-43[64_65]|49-32[61_65]	
+49-44	7003-7004	;	_	_	_	
+49-45	7004-7005	"	_	_	_	
+49-46	7006-7010	also	_	_	_	
+49-47	7011-7015	some	Taste Source[66]	_	_	
+49-48	7016-7019	all	Taste Source[66]	_	_	
+49-49	7020-7024	sour	Taste Word[67]|Quality[68]	*|*	49-49[68_67]|49-47[66_67]	
+49-50	7024-7025	,	_	_	_	
+49-51	7026-7029	and	_	_	_	
+49-52	7030-7036	others	_	_	_	
+49-53	7037-7040	all	_	_	_	
+49-54	7041-7046	sweet	Quality[69]|Taste Word[70]	*|*	49-54[69_70]|49-47[66_70]	
+49-55	7046-7047	,	_	_	_	
+49-56	7050-7053	and	_	_	_	
+49-57	7054-7058	this	_	_	_	
+49-58	7059-7068	diversity	_	_	_	
+49-59	7069-7071	on	_	_	_	
+49-60	7072-7075	all	_	_	_	
+49-61	7076-7081	parts	_	_	_	
+49-62	7082-7084	of	_	_	_	
+49-63	7085-7088	the	_	_	_	
+49-64	7089-7093	tree	_	_	_	
+49-65	7093-7094	.	_	_	_	
+
+#Text=There is a wild apple on Nawshawtuct Hill in my town which has to me a 
+#Text= peculiarly pleasant bitter tang, not perceived till it is 
+#Text= three-quarters tasted.
+50-1	7100-7105	There	_	_	_	
+50-2	7106-7108	is	_	_	_	
+50-3	7109-7110	a	_	_	_	
+50-4	7111-7115	wild	Taste Source[71]	_	_	
+50-5	7116-7121	apple	Taste Source[71]	_	_	
+50-6	7122-7124	on	Location[72]	_	_	
+50-7	7125-7136	Nawshawtuct	Location[72]	_	_	
+50-8	7137-7141	Hill	Location[72]	_	_	
+50-9	7142-7144	in	_	_	_	
+50-10	7145-7147	my	_	_	_	
+50-11	7148-7152	town	_	_	_	
+50-12	7153-7158	which	_	_	_	
+50-13	7159-7162	has	_	_	_	
+50-14	7163-7165	to	_	_	_	
+50-15	7166-7168	me	_	_	_	
+50-16	7169-7170	a	_	_	_	
+50-17	7173-7183	peculiarly	Quality[73]	_	_	
+50-18	7184-7192	pleasant	Quality[73]	_	_	
+50-19	7193-7199	bitter	Quality[74]|Taste Word[75]	*	50-19[74_75]	
+50-20	7200-7204	tang	Taste Word	*|*|*|*	50-17[73_0]|50-19[74_0]|50-4[71_0]|50-6[72_0]	
+50-21	7204-7205	,	_	_	_	
+50-22	7206-7209	not	Circumstance[76]	_	_	
+50-23	7210-7219	perceived	Circumstance[76]	_	_	
+50-24	7220-7224	till	Circumstance[76]	_	_	
+50-25	7225-7227	it	Circumstance[76]	_	_	
+50-26	7228-7230	is	Circumstance[76]	_	_	
+50-27	7233-7247	three-quarters	Circumstance[76]	_	_	
+50-28	7248-7254	tasted	Taste Word	*	50-22[76_0]	
+50-29	7254-7255	.	_	_	_	
+
+#Text=It remains on the tongue.
+51-1	7256-7258	It	_	_	_	
+51-2	7259-7266	remains	_	_	_	
+51-3	7267-7269	on	_	_	_	
+51-4	7270-7273	the	_	_	_	
+51-5	7274-7280	tongue	_	_	_	
+51-6	7280-7281	.	_	_	_	
+
+#Text=As you eat it, it 
+#Text= smells exactly like a squash-bug.
+52-1	7282-7284	As	_	_	_	
+52-2	7285-7288	you	Taster	_	_	
+52-3	7289-7292	eat	Taste Word	*|*	52-2|52-4	
+52-4	7293-7295	it	Taste Source	anaphorical	50-4[71_0]	
+52-5	7295-7296	,	_	_	_	
+52-6	7297-7299	it	_	_	_	
+52-7	7302-7308	smells	_	_	_	
+52-8	7309-7316	exactly	_	_	_	
+52-9	7317-7321	like	_	_	_	
+52-10	7322-7323	a	_	_	_	
+52-11	7324-7334	squash-bug	_	_	_	
+52-12	7334-7335	.	_	_	_	
+
+#Text=It is a sort of triumph to eat and 
+#Text= relish it.
+53-1	7336-7338	It	_	_	_	
+53-2	7339-7341	is	_	_	_	
+53-3	7342-7343	a	_	_	_	
+53-4	7344-7348	sort	_	_	_	
+53-5	7349-7351	of	_	_	_	
+53-6	7352-7359	triumph	_	_	_	
+53-7	7360-7362	to	_	_	_	
+53-8	7363-7366	eat	Taste Word	*	53-11	
+53-9	7367-7370	and	_	_	_	
+53-10	7373-7379	relish	Taste Word	*	53-11	
+53-11	7380-7382	it	Taste Source	anaphorical	50-4[71_0]	
+53-12	7382-7383	.	_	_	_	
+
+#Text=I hear that the fruit of a kind of plum tree in Provence is "called 
+#Text= _Prunes sibarelles_, because it is impossible to whistle after having 
+#Text= eaten them, from their sourness."
+54-1	7389-7390	I	_	_	_	
+54-2	7391-7395	hear	_	_	_	
+54-3	7396-7400	that	_	_	_	
+54-4	7401-7404	the	_	_	_	
+54-5	7405-7410	fruit	_	_	_	
+54-6	7411-7413	of	_	_	_	
+54-7	7414-7415	a	_	_	_	
+54-8	7416-7420	kind	_	_	_	
+54-9	7421-7423	of	_	_	_	
+54-10	7424-7428	plum	_	_	_	
+54-11	7429-7433	tree	_	_	_	
+54-12	7434-7436	in	Location[77]	_	_	
+54-13	7437-7445	Provence	Location[77]	_	_	
+54-14	7446-7448	is	_	_	_	
+54-15	7449-7450	"	_	_	_	
+54-16	7450-7456	called	_	_	_	
+54-17	7459-7460	_	_	_	_	
+54-18	7460-7466	Prunes	Taste Source[78]	_	_	
+54-19	7467-7477	sibarelles	Taste Source[78]	_	_	
+54-20	7477-7478	_	_	_	_	
+54-21	7478-7479	,	_	_	_	
+54-22	7480-7487	because	_	_	_	
+54-23	7488-7490	it	_	_	_	
+54-24	7491-7493	is	_	_	_	
+54-25	7494-7504	impossible	_	_	_	
+54-26	7505-7507	to	_	_	_	
+54-27	7508-7515	whistle	_	_	_	
+54-28	7516-7521	after	_	_	_	
+54-29	7522-7528	having	_	_	_	
+54-30	7531-7536	eaten	Taste Word	*|*	54-31|54-12[77_0]	
+54-31	7537-7541	them	Taste Source	anaphorical	54-18[78_0]	
+54-32	7541-7542	,	_	_	_	
+54-33	7543-7547	from	_	_	_	
+54-34	7548-7553	their	_	_	_	
+54-35	7554-7562	sourness	Taste Word[79]|Quality[80]	*	54-35[80_79]	
+54-36	7562-7563	.	_	_	_	
+54-37	7563-7564	"	_	_	_	
+
+#Text=But perhaps they were only eaten in 
+#Text= the house and in summer, and if tried out-of-doors in a stinging 
+#Text= atmosphere, who knows but you could whistle an octave higher and 
+#Text= clearer?
+55-1	7565-7568	But	_	_	_	
+55-2	7569-7576	perhaps	_	_	_	
+55-3	7577-7581	they	Taste Source	anaphorical	54-18[78_0]	
+55-4	7582-7586	were	_	_	_	
+55-5	7587-7591	only	_	_	_	
+55-6	7592-7597	eaten	Taste Word	*|*|*	55-3|55-7[81_0]|55-11[82_0]	
+55-7	7598-7600	in	Location[81]	_	_	
+55-8	7603-7606	the	Location[81]	_	_	
+55-9	7607-7612	house	Location[81]	_	_	
+55-10	7613-7616	and	_	_	_	
+55-11	7617-7619	in	Circumstance[82]	_	_	
+55-12	7620-7626	summer	Circumstance[82]	_	_	
+55-13	7626-7627	,	_	_	_	
+55-14	7628-7631	and	_	_	_	
+55-15	7632-7634	if	_	_	_	
+55-16	7635-7640	tried	_	_	_	
+55-17	7641-7653	out-of-doors	_	_	_	
+55-18	7654-7656	in	_	_	_	
+55-19	7657-7658	a	_	_	_	
+55-20	7659-7667	stinging	_	_	_	
+55-21	7670-7680	atmosphere	_	_	_	
+55-22	7680-7681	,	_	_	_	
+55-23	7682-7685	who	_	_	_	
+55-24	7686-7691	knows	_	_	_	
+55-25	7692-7695	but	_	_	_	
+55-26	7696-7699	you	_	_	_	
+55-27	7700-7705	could	_	_	_	
+55-28	7706-7713	whistle	_	_	_	
+55-29	7714-7716	an	_	_	_	
+55-30	7717-7723	octave	_	_	_	
+55-31	7724-7730	higher	_	_	_	
+55-32	7731-7734	and	_	_	_	
+55-33	7737-7744	clearer	_	_	_	
+55-34	7744-7745	?	_	_	_	
+
+#Text=In the fields only are the sours and bitters of Nature appreciated; 
+#Text= just as the woodchopper eats his meal in a sunny glade, in the middle 
+#Text= of a winter day, with content, basks in a sunny ray there, and dreams 
+#Text= of summer in a degree of cold which, experienced in a chamber, would
+#Text=make a student miserable.
+56-1	7751-7753	In	Location[83]	_	_	
+56-2	7754-7757	the	Location[83]	_	_	
+56-3	7758-7764	fields	Location[83]	_	_	
+56-4	7765-7769	only	_	_	_	
+56-5	7770-7773	are	_	_	_	
+56-6	7774-7777	the	_	_	_	
+56-7	7778-7783	sours	Taste Word	*	56-1[83_0]	
+56-8	7784-7787	and	_	_	_	
+56-9	7788-7795	bitters	Taste Word	*	56-1[83_0]	
+56-10	7796-7798	of	_	_	_	
+56-11	7799-7805	Nature	_	_	_	
+56-12	7806-7817	appreciated	_	_	_	
+56-13	7817-7818	;	_	_	_	
+56-14	7821-7825	just	_	_	_	
+56-15	7826-7828	as	_	_	_	
+56-16	7829-7832	the	Taster[84]	_	_	
+56-17	7833-7844	woodchopper	Taster[84]	_	_	
+56-18	7845-7849	eats	Taste Word	*|*|*	56-19[85_0]|56-16[84_0]|56-21[86_0]	
+56-19	7850-7853	his	Taste Source[85]	_	_	
+56-20	7854-7858	meal	Taste Source[85]	_	_	
+56-21	7859-7861	in	Circumstance[86]	_	_	
+56-22	7862-7863	a	Circumstance[86]	_	_	
+56-23	7864-7869	sunny	Circumstance[86]	_	_	
+56-24	7870-7875	glade	Circumstance[86]	_	_	
+56-25	7875-7876	,	_	_	_	
+56-26	7877-7879	in	_	_	_	
+56-27	7880-7883	the	_	_	_	
+56-28	7884-7890	middle	_	_	_	
+56-29	7893-7895	of	_	_	_	
+56-30	7896-7897	a	_	_	_	
+56-31	7898-7904	winter	_	_	_	
+56-32	7905-7908	day	_	_	_	
+56-33	7908-7909	,	_	_	_	
+56-34	7910-7914	with	_	_	_	
+56-35	7915-7922	content	_	_	_	
+56-36	7922-7923	,	_	_	_	
+56-37	7924-7929	basks	_	_	_	
+56-38	7930-7932	in	_	_	_	
+56-39	7933-7934	a	_	_	_	
+56-40	7935-7940	sunny	_	_	_	
+56-41	7941-7944	ray	_	_	_	
+56-42	7945-7950	there	_	_	_	
+56-43	7950-7951	,	_	_	_	
+56-44	7952-7955	and	_	_	_	
+56-45	7956-7962	dreams	_	_	_	
+56-46	7965-7967	of	_	_	_	
+56-47	7968-7974	summer	_	_	_	
+56-48	7975-7977	in	_	_	_	
+56-49	7978-7979	a	_	_	_	
+56-50	7980-7986	degree	_	_	_	
+56-51	7987-7989	of	_	_	_	
+56-52	7990-7994	cold	_	_	_	
+56-53	7995-8000	which	_	_	_	
+56-54	8000-8001	,	_	_	_	
+56-55	8002-8013	experienced	_	_	_	
+56-56	8014-8016	in	_	_	_	
+56-57	8017-8018	a	_	_	_	
+56-58	8019-8026	chamber	_	_	_	
+56-59	8026-8027	,	_	_	_	
+56-60	8028-8033	would	_	_	_	
+56-61	8034-8038	make	_	_	_	
+56-62	8039-8040	a	_	_	_	
+56-63	8041-8048	student	_	_	_	
+56-64	8049-8058	miserable	_	_	_	
+56-65	8058-8059	.	_	_	_	
+
+#Text=They who are at work abroad are not cold, 
+#Text= but rather it is they who sit shivering in houses.
+57-1	8060-8064	They	_	_	_	
+57-2	8065-8068	who	_	_	_	
+57-3	8069-8072	are	_	_	_	
+57-4	8073-8075	at	_	_	_	
+57-5	8076-8080	work	_	_	_	
+57-6	8081-8087	abroad	_	_	_	
+57-7	8088-8091	are	_	_	_	
+57-8	8092-8095	not	_	_	_	
+57-9	8096-8100	cold	_	_	_	
+57-10	8100-8101	,	_	_	_	
+57-11	8104-8107	but	_	_	_	
+57-12	8108-8114	rather	_	_	_	
+57-13	8115-8117	it	_	_	_	
+57-14	8118-8120	is	_	_	_	
+57-15	8121-8125	they	_	_	_	
+57-16	8126-8129	who	_	_	_	
+57-17	8130-8133	sit	_	_	_	
+57-18	8134-8143	shivering	_	_	_	
+57-19	8144-8146	in	_	_	_	
+57-20	8147-8153	houses	_	_	_	
+57-21	8153-8154	.	_	_	_	
+
+#Text=As with 
+#Text= temperatures, so with flavors; as with cold and heat, so with sour and 
+#Text= sweet.
+58-1	8155-8157	As	_	_	_	
+58-2	8158-8162	with	_	_	_	
+58-3	8165-8177	temperatures	_	_	_	
+58-4	8177-8178	,	_	_	_	
+58-5	8179-8181	so	_	_	_	
+58-6	8182-8186	with	_	_	_	
+58-7	8187-8194	flavors	Taste Word	*|*	58-17[88_0]|58-19[90_0]	
+58-8	8194-8195	;	_	_	_	
+58-9	8196-8198	as	_	_	_	
+58-10	8199-8203	with	_	_	_	
+58-11	8204-8208	cold	_	_	_	
+58-12	8209-8212	and	_	_	_	
+58-13	8213-8217	heat	_	_	_	
+58-14	8217-8218	,	_	_	_	
+58-15	8219-8221	so	_	_	_	
+58-16	8222-8226	with	_	_	_	
+58-17	8227-8231	sour	Taste Word[87]|Quality[88]	*	58-17[88_87]	
+58-18	8232-8235	and	_	_	_	
+58-19	8238-8243	sweet	Taste Word[89]|Quality[90]	*	58-19[90_89]	
+58-20	8243-8244	.	_	_	_	
+
+#Text=This natural raciness, the sours and bitters which the diseased 
+#Text= palate refuses, are the true condiments.
+59-1	8245-8249	This	_	_	_	
+59-2	8250-8257	natural	Quality	_	_	
+59-3	8258-8266	raciness	Taste Word	*	59-2	
+59-4	8266-8267	,	_	_	_	
+59-5	8268-8271	the	_	_	_	
+59-6	8272-8277	sours	Taste Word	*	59-10[91_0]	
+59-7	8278-8281	and	_	_	_	
+59-8	8282-8289	bitters	Taste Word	*	59-10[91_0]	
+59-9	8290-8295	which	_	_	_	
+59-10	8296-8299	the	Taster[91]	_	_	
+59-11	8300-8308	diseased	Taster[91]	_	_	
+59-12	8311-8317	palate	Taster[91]	_	_	
+59-13	8318-8325	refuses	_	_	_	
+59-14	8325-8326	,	_	_	_	
+59-15	8327-8330	are	_	_	_	
+59-16	8331-8334	the	_	_	_	
+59-17	8335-8339	true	_	_	_	
+59-18	8340-8350	condiments	_	_	_	
+59-19	8350-8351	.	_	_	_	
+
+#Text=Let your condiments be in the condition of your senses.
+60-1	8357-8360	Let	_	_	_	
+60-2	8361-8365	your	_	_	_	
+60-3	8366-8376	condiments	_	_	_	
+60-4	8377-8379	be	_	_	_	
+60-5	8380-8382	in	_	_	_	
+60-6	8383-8386	the	_	_	_	
+60-7	8387-8396	condition	_	_	_	
+60-8	8397-8399	of	_	_	_	
+60-9	8400-8404	your	_	_	_	
+60-10	8405-8411	senses	_	_	_	
+60-11	8411-8412	.	_	_	_	
+
+#Text=To appreciate 
+#Text= the flavor of these wild apples requires vigorous and healthy senses, 
+#Text= _papillæ_ firm and erect on the tongue and palate, not easily 
+#Text= flattened and tamed.
+61-1	8413-8415	To	_	_	_	
+61-2	8416-8426	appreciate	_	_	_	
+61-3	8429-8432	the	_	_	_	
+61-4	8433-8439	flavor	Taste Word	*|*	61-5[92_0]|61-25[93_0]	
+61-5	8440-8442	of	Taste Source[92]	_	_	
+61-6	8443-8448	these	Taste Source[92]	_	_	
+61-7	8449-8453	wild	Taste Source[92]	_	_	
+61-8	8454-8460	apples	Taste Source[92]	_	_	
+61-9	8461-8469	requires	_	_	_	
+61-10	8470-8478	vigorous	_	_	_	
+61-11	8479-8482	and	_	_	_	
+61-12	8483-8490	healthy	_	_	_	
+61-13	8491-8497	senses	_	_	_	
+61-14	8497-8498	,	_	_	_	
+61-15	8501-8502	_	_	_	_	
+61-16	8502-8509	papillæ	_	_	_	
+61-17	8509-8510	_	_	_	_	
+61-18	8511-8515	firm	_	_	_	
+61-19	8516-8519	and	_	_	_	
+61-20	8520-8525	erect	_	_	_	
+61-21	8526-8528	on	_	_	_	
+61-22	8529-8532	the	_	_	_	
+61-23	8533-8539	tongue	_	_	_	
+61-24	8540-8543	and	_	_	_	
+61-25	8544-8550	palate	Taster[93]	_	_	
+61-26	8550-8551	,	Taster[93]	_	_	
+61-27	8552-8555	not	Taster[93]	_	_	
+61-28	8556-8562	easily	Taster[93]	_	_	
+61-29	8565-8574	flattened	Taster[93]	_	_	
+61-30	8575-8578	and	Taster[93]	_	_	
+61-31	8579-8584	tamed	Taster[93]	_	_	
+61-32	8584-8585	.	_	_	_	
+
+#Text=From my experience with wild apples, I can understand that there may 
+#Text= be reason for a savage  '  s preferring many kinds of food which the 
+#Text= civilized man rejects.
+62-1	8591-8595	From	_	_	_	
+62-2	8596-8598	my	_	_	_	
+62-3	8599-8609	experience	_	_	_	
+62-4	8610-8614	with	_	_	_	
+62-5	8615-8619	wild	_	_	_	
+62-6	8620-8626	apples	_	_	_	
+62-7	8626-8627	,	_	_	_	
+62-8	8628-8629	I	_	_	_	
+62-9	8630-8633	can	_	_	_	
+62-10	8634-8644	understand	_	_	_	
+62-11	8645-8649	that	_	_	_	
+62-12	8650-8655	there	_	_	_	
+62-13	8656-8659	may	_	_	_	
+62-14	8662-8664	be	_	_	_	
+62-15	8665-8671	reason	_	_	_	
+62-16	8672-8675	for	_	_	_	
+62-17	8676-8677	a	_	_	_	
+62-18	8678-8684	savage	_	_	_	
+62-19	8686-8687	'	_	_	_	
+62-20	8689-8690	s	_	_	_	
+62-21	8691-8701	preferring	_	_	_	
+62-22	8702-8706	many	_	_	_	
+62-23	8707-8712	kinds	_	_	_	
+62-24	8713-8715	of	_	_	_	
+62-25	8716-8720	food	_	_	_	
+62-26	8721-8726	which	_	_	_	
+62-27	8727-8730	the	_	_	_	
+62-28	8733-8742	civilized	_	_	_	
+62-29	8743-8746	man	_	_	_	
+62-30	8747-8754	rejects	_	_	_	
+62-31	8754-8755	.	_	_	_	
+
+#Text=The former has the palate of an outdoor man.
+63-1	8756-8759	The	_	_	_	
+63-2	8760-8766	former	_	_	_	
+63-3	8767-8770	has	_	_	_	
+63-4	8771-8774	the	_	_	_	
+63-5	8775-8781	palate	_	_	_	
+63-6	8782-8784	of	_	_	_	
+63-7	8785-8787	an	_	_	_	
+63-8	8788-8795	outdoor	_	_	_	
+63-9	8796-8799	man	_	_	_	
+63-10	8799-8800	.	_	_	_	
+
+#Text=It 
+#Text= takes a savage or wild taste to appreciate a wild fruit.
+64-1	8801-8803	It	_	_	_	
+64-2	8806-8811	takes	_	_	_	
+64-3	8812-8813	a	_	_	_	
+64-4	8814-8820	savage	Quality	_	_	
+64-5	8821-8823	or	_	_	_	
+64-6	8824-8828	wild	Quality	_	_	
+64-7	8829-8834	taste	Taste Word	*|*|*	64-4|64-6|64-10[94_0]	
+64-8	8835-8837	to	_	_	_	
+64-9	8838-8848	appreciate	_	_	_	
+64-10	8849-8850	a	Taste Source[94]	_	_	
+64-11	8851-8855	wild	Taste Source[94]	_	_	
+64-12	8856-8861	fruit	Taste Source[94]	_	_	
+64-13	8861-8862	.	_	_	_	
+
+#Text=What a healthy out-of-door appetite it takes to relish the apple of 
+#Text= life, the apple of the world, then!
+65-1	8868-8872	What	_	_	_	
+65-2	8873-8874	a	_	_	_	
+65-3	8875-8882	healthy	_	_	_	
+65-4	8883-8894	out-of-door	_	_	_	
+65-5	8895-8903	appetite	_	_	_	
+65-6	8904-8906	it	_	_	_	
+65-7	8907-8912	takes	_	_	_	
+65-8	8913-8915	to	_	_	_	
+65-9	8916-8922	relish	Taste Word	*|*	65-10[95_0]|65-15[96_0]	
+65-10	8923-8926	the	Taste Source[95]	_	_	
+65-11	8927-8932	apple	Taste Source[95]	_	_	
+65-12	8933-8935	of	Taste Source[95]	_	_	
+65-13	8938-8942	life	Taste Source[95]	_	_	
+65-14	8942-8943	,	_	_	_	
+65-15	8944-8947	the	Taste Source[96]	_	_	
+65-16	8948-8953	apple	Taste Source[96]	_	_	
+65-17	8954-8956	of	Taste Source[96]	_	_	
+65-18	8957-8960	the	Taste Source[96]	_	_	
+65-19	8961-8966	world	Taste Source[96]	_	_	
+65-20	8966-8967	,	_	_	_	
+65-21	8968-8972	then	_	_	_	
+65-22	8972-8973	!	_	_	_	
+
+#Text="Nor is it every apple I desire,
+#Text=beginning of the winter they freeze hard, and soon, though undecayed, 
+#Text= acquire the color of a baked apple.
+66-1	8979-8980	"	_	_	_	
+66-2	8980-8983	Nor	_	_	_	
+66-3	8984-8986	is	_	_	_	
+66-4	8987-8989	it	_	_	_	
+66-5	8990-8995	every	_	_	_	
+66-6	8996-9001	apple	_	_	_	
+66-7	9002-9003	I	_	_	_	
+66-8	9004-9010	desire	_	_	_	
+66-9	9010-9011	,	_	_	_	
+66-10	9012-9021	beginning	_	_	_	
+66-11	9022-9024	of	_	_	_	
+66-12	9025-9028	the	_	_	_	
+66-13	9029-9035	winter	_	_	_	
+66-14	9036-9040	they	_	_	_	
+66-15	9041-9047	freeze	_	_	_	
+66-16	9048-9052	hard	_	_	_	
+66-17	9052-9053	,	_	_	_	
+66-18	9054-9057	and	_	_	_	
+66-19	9058-9062	soon	_	_	_	
+66-20	9062-9063	,	_	_	_	
+66-21	9064-9070	though	_	_	_	
+66-22	9071-9080	undecayed	_	_	_	
+66-23	9080-9081	,	_	_	_	
+66-24	9084-9091	acquire	_	_	_	
+66-25	9092-9095	the	_	_	_	
+66-26	9096-9101	color	_	_	_	
+66-27	9102-9104	of	_	_	_	
+66-28	9105-9106	a	_	_	_	
+66-29	9107-9112	baked	Circumstance	_	_	
+66-30	9113-9118	apple	Taste Source	*	66-29	
+66-31	9118-9119	.	_	_	_	
+
+#Text=Before the end of December, generally, they experience their first 
+#Text= thawing.
+67-1	9125-9131	Before	_	_	_	
+67-2	9132-9135	the	_	_	_	
+67-3	9136-9139	end	_	_	_	
+67-4	9140-9142	of	_	_	_	
+67-5	9143-9151	December	_	_	_	
+67-6	9151-9152	,	_	_	_	
+67-7	9153-9162	generally	_	_	_	
+67-8	9162-9163	,	_	_	_	
+67-9	9164-9168	they	_	_	_	
+67-10	9169-9179	experience	_	_	_	
+67-11	9180-9185	their	_	_	_	
+67-12	9186-9191	first	_	_	_	
+67-13	9194-9201	thawing	_	_	_	
+67-14	9201-9202	.	_	_	_	
+
+#Text=Those which a month ago were sour, crabbed, and quite 
+#Text= unpalatable to the civilized taste, such at least as were frozen while 
+#Text= sound, let a warmer sun come to thaw them,--for they are extremely 
+#Text= sensitive to its rays,--are found to be filled with a rich, sweet 
+#Text= cider, better than any bottled cider that I know of, and with which I 
+#Text= am better acquainted than with wine.
+68-1	9203-9208	Those	_	_	_	
+68-2	9209-9214	which	_	_	_	
+68-3	9215-9216	a	Circumstance[97]	_	_	
+68-4	9217-9222	month	Circumstance[97]	_	_	
+68-5	9223-9226	ago	Circumstance[97]	_	_	
+68-6	9227-9231	were	_	_	_	
+68-7	9232-9236	sour	Taste Word[98]|Quality[99]	*	68-7[99_98]	
+68-8	9236-9237	,	_	_	_	
+68-9	9238-9245	crabbed	Quality	_	_	
+68-10	9245-9246	,	_	_	_	
+68-11	9247-9250	and	_	_	_	
+68-12	9251-9256	quite	Quality	_	_	
+68-13	9259-9270	unpalatable	Taste Word[100]|Quality[101]	*|*	68-13[101_100]|68-12[0_100]	
+68-14	9271-9273	to	_	_	_	
+68-15	9274-9277	the	_	_	_	
+68-16	9278-9287	civilized	Quality	_	_	
+68-17	9288-9293	taste	Taste Word	*|*|*|*|*|*	68-16|68-7[99_0]|68-9|66-30|68-13[101_0]|68-3[97_0]	
+68-18	9293-9294	,	_	_	_	
+68-19	9295-9299	such	_	_	_	
+68-20	9300-9302	at	_	_	_	
+68-21	9303-9308	least	_	_	_	
+68-22	9309-9311	as	_	_	_	
+68-23	9312-9316	were	_	_	_	
+68-24	9317-9323	frozen	_	_	_	
+68-25	9324-9329	while	_	_	_	
+68-26	9332-9337	sound	_	_	_	
+68-27	9337-9338	,	_	_	_	
+68-28	9339-9342	let	_	_	_	
+68-29	9343-9344	a	_	_	_	
+68-30	9345-9351	warmer	_	_	_	
+68-31	9352-9355	sun	_	_	_	
+68-32	9356-9360	come	_	_	_	
+68-33	9361-9363	to	_	_	_	
+68-34	9364-9368	thaw	_	_	_	
+68-35	9369-9373	them	_	_	_	
+68-36	9373-9374	,	_	_	_	
+68-37	9374-9375	-	_	_	_	
+68-38	9375-9376	-	_	_	_	
+68-39	9376-9379	for	_	_	_	
+68-40	9380-9384	they	_	_	_	
+68-41	9385-9388	are	_	_	_	
+68-42	9389-9398	extremely	_	_	_	
+68-43	9401-9410	sensitive	_	_	_	
+68-44	9411-9413	to	_	_	_	
+68-45	9414-9417	its	_	_	_	
+68-46	9418-9422	rays	_	_	_	
+68-47	9422-9423	,	_	_	_	
+68-48	9423-9424	-	_	_	_	
+68-49	9424-9425	-	_	_	_	
+68-50	9425-9428	are	_	_	_	
+68-51	9429-9434	found	_	_	_	
+68-52	9435-9437	to	_	_	_	
+68-53	9438-9440	be	_	_	_	
+68-54	9441-9447	filled	_	_	_	
+68-55	9448-9452	with	_	_	_	
+68-56	9453-9454	a	_	_	_	
+68-57	9455-9459	rich	_	_	_	
+68-58	9459-9460	,	_	_	_	
+68-59	9461-9466	sweet	Taste Word[102]|Quality[103]	*|*	68-59[103_102]|68-60[0_102]	
+68-60	9469-9474	cider	Taste Source	_	_	
+68-61	9474-9475	,	_	_	_	
+68-62	9476-9482	better	_	_	_	
+68-63	9483-9487	than	_	_	_	
+68-64	9488-9491	any	_	_	_	
+68-65	9492-9499	bottled	_	_	_	
+68-66	9500-9505	cider	_	_	_	
+68-67	9506-9510	that	_	_	_	
+68-68	9511-9512	I	_	_	_	
+68-69	9513-9517	know	_	_	_	
+68-70	9518-9520	of	_	_	_	
+68-71	9520-9521	,	_	_	_	
+68-72	9522-9525	and	_	_	_	
+68-73	9526-9530	with	_	_	_	
+68-74	9531-9536	which	_	_	_	
+68-75	9537-9538	I	_	_	_	
+68-76	9541-9543	am	_	_	_	
+68-77	9544-9550	better	_	_	_	
+68-78	9551-9561	acquainted	_	_	_	
+68-79	9562-9566	than	_	_	_	
+68-80	9567-9571	with	_	_	_	
+68-81	9572-9576	wine	_	_	_	
+68-82	9576-9577	.	_	_	_	
+
+#Text=All apples are good in this 
+#Text= state, and your jaws are the cider-press.
+69-1	9578-9581	All	_	_	_	
+69-2	9582-9588	apples	_	_	_	
+69-3	9589-9592	are	_	_	_	
+69-4	9593-9597	good	_	_	_	
+69-5	9598-9600	in	_	_	_	
+69-6	9601-9605	this	_	_	_	
+69-7	9608-9613	state	_	_	_	
+69-8	9613-9614	,	_	_	_	
+69-9	9615-9618	and	_	_	_	
+69-10	9619-9623	your	_	_	_	
+69-11	9624-9628	jaws	_	_	_	
+69-12	9629-9632	are	_	_	_	
+69-13	9633-9636	the	_	_	_	
+69-14	9637-9648	cider-press	_	_	_	
+69-15	9648-9649	.	_	_	_	
+
+#Text=Others, which have more 
+#Text= substance, are a sweet and luscious food,--in my opinion of more worth 
+#Text= than the pineapples which are imported from the West Indies.
+70-1	9650-9656	Others	_	_	_	
+70-2	9656-9657	,	_	_	_	
+70-3	9658-9663	which	_	_	_	
+70-4	9664-9668	have	_	_	_	
+70-5	9669-9673	more	_	_	_	
+70-6	9676-9685	substance	_	_	_	
+70-7	9685-9686	,	_	_	_	
+70-8	9687-9690	are	_	_	_	
+70-9	9691-9692	a	_	_	_	
+70-10	9693-9698	sweet	Taste Word[104]|Quality[105]	*|*	70-10[105_104]|70-13[0_104]	
+70-11	9699-9702	and	_	_	_	
+70-12	9703-9711	luscious	_	_	_	
+70-13	9712-9716	food	Taste Source	_	_	
+70-14	9716-9717	,	_	_	_	
+70-15	9717-9718	-	_	_	_	
+70-16	9718-9719	-	_	_	_	
+70-17	9719-9721	in	_	_	_	
+70-18	9722-9724	my	_	_	_	
+70-19	9725-9732	opinion	_	_	_	
+70-20	9733-9735	of	_	_	_	
+70-21	9736-9740	more	_	_	_	
+70-22	9741-9746	worth	_	_	_	
+70-23	9749-9753	than	_	_	_	
+70-24	9754-9757	the	_	_	_	
+70-25	9758-9768	pineapples	_	_	_	
+70-26	9769-9774	which	_	_	_	
+70-27	9775-9778	are	_	_	_	
+70-28	9779-9787	imported	_	_	_	
+70-29	9788-9792	from	_	_	_	
+70-30	9793-9796	the	_	_	_	
+70-31	9797-9801	West	_	_	_	
+70-32	9802-9808	Indies	_	_	_	
+70-33	9808-9809	.	_	_	_	
+
+#Text=Those 
+#Text= which lately even I tasted only to repent of it,--for I am 
+#Text= semicivilized,--which the farmer willingly left on the tree, I am now 
+#Text= glad to find have the property of hanging on like the leaves of the 
+#Text= young oaks.
+71-1	9810-9815	Those	_	_	_	
+71-2	9818-9823	which	_	_	_	
+71-3	9824-9830	lately	_	_	_	
+71-4	9831-9835	even	_	_	_	
+71-5	9836-9837	I	Taster	_	_	
+71-6	9838-9844	tasted	Taste Word	*	71-5	
+71-7	9845-9849	only	_	_	_	
+71-8	9850-9852	to	_	_	_	
+71-9	9853-9859	repent	_	_	_	
+71-10	9860-9862	of	_	_	_	
+71-11	9863-9865	it	_	_	_	
+71-12	9865-9866	,	_	_	_	
+71-13	9866-9867	-	_	_	_	
+71-14	9867-9868	-	_	_	_	
+71-15	9868-9871	for	_	_	_	
+71-16	9872-9873	I	_	_	_	
+71-17	9874-9876	am	_	_	_	
+71-18	9879-9892	semicivilized	_	_	_	
+71-19	9892-9893	,	_	_	_	
+71-20	9893-9894	-	_	_	_	
+71-21	9894-9895	-	_	_	_	
+71-22	9895-9900	which	_	_	_	
+71-23	9901-9904	the	_	_	_	
+71-24	9905-9911	farmer	_	_	_	
+71-25	9912-9921	willingly	_	_	_	
+71-26	9922-9926	left	_	_	_	
+71-27	9927-9929	on	_	_	_	
+71-28	9930-9933	the	_	_	_	
+71-29	9934-9938	tree	_	_	_	
+71-30	9938-9939	,	_	_	_	
+71-31	9940-9941	I	_	_	_	
+71-32	9942-9944	am	_	_	_	
+71-33	9945-9948	now	_	_	_	
+71-34	9951-9955	glad	_	_	_	
+71-35	9956-9958	to	_	_	_	
+71-36	9959-9963	find	_	_	_	
+71-37	9964-9968	have	_	_	_	
+71-38	9969-9972	the	_	_	_	
+71-39	9973-9981	property	_	_	_	
+71-40	9982-9984	of	_	_	_	
+71-41	9985-9992	hanging	_	_	_	
+71-42	9993-9995	on	_	_	_	
+71-43	9996-10000	like	_	_	_	
+71-44	10001-10004	the	_	_	_	
+71-45	10005-10011	leaves	_	_	_	
+71-46	10012-10014	of	_	_	_	
+71-47	10015-10018	the	_	_	_	
+71-48	10021-10026	young	_	_	_	
+71-49	10027-10031	oaks	_	_	_	
+71-50	10031-10032	.	_	_	_	
+
+#Text=It is a way to keep cider sweet without boiling.
+72-1	10033-10035	It	_	_	_	
+72-2	10036-10038	is	_	_	_	
+72-3	10039-10040	a	_	_	_	
+72-4	10041-10044	way	_	_	_	
+72-5	10045-10047	to	_	_	_	
+72-6	10048-10052	keep	_	_	_	
+72-7	10053-10058	cider	Taste Source	_	_	
+72-8	10059-10064	sweet	Taste Word[106]|Quality[107]	*|*|*	72-8[107_106]|72-7[0_106]|72-9[108_106]	
+72-9	10065-10072	without	Circumstance[108]	_	_	
+72-10	10073-10080	boiling	Circumstance[108]	_	_	
+72-11	10080-10081	.	_	_	_	
+
+#Text=Let the 
+#Text= frost come to freeze them first, solid as stones, and then the rain or 
+#Text= a warm winter day to thaw them, and they will seem to have borrowed a 
+#Text= flavor from heaven through the medium of the air in which they hang.
+73-1	10082-10085	Let	_	_	_	
+73-2	10086-10089	the	_	_	_	
+73-3	10092-10097	frost	_	_	_	
+73-4	10098-10102	come	_	_	_	
+73-5	10103-10105	to	_	_	_	
+73-6	10106-10112	freeze	Circumstance	_	_	
+73-7	10113-10117	them	_	_	_	
+73-8	10118-10123	first	_	_	_	
+73-9	10123-10124	,	_	_	_	
+73-10	10125-10130	solid	_	_	_	
+73-11	10131-10133	as	_	_	_	
+73-12	10134-10140	stones	_	_	_	
+73-13	10140-10141	,	_	_	_	
+73-14	10142-10145	and	_	_	_	
+73-15	10146-10150	then	_	_	_	
+73-16	10151-10154	the	_	_	_	
+73-17	10155-10159	rain	_	_	_	
+73-18	10160-10162	or	_	_	_	
+73-19	10165-10166	a	_	_	_	
+73-20	10167-10171	warm	_	_	_	
+73-21	10172-10178	winter	_	_	_	
+73-22	10179-10182	day	_	_	_	
+73-23	10183-10185	to	_	_	_	
+73-24	10186-10190	thaw	_	_	_	
+73-25	10191-10195	them	_	_	_	
+73-26	10195-10196	,	_	_	_	
+73-27	10197-10200	and	_	_	_	
+73-28	10201-10205	they	Taste Source	_	_	
+73-29	10206-10210	will	_	_	_	
+73-30	10211-10215	seem	_	_	_	
+73-31	10216-10218	to	_	_	_	
+73-32	10219-10223	have	_	_	_	
+73-33	10224-10232	borrowed	_	_	_	
+73-34	10233-10234	a	_	_	_	
+73-35	10237-10243	flavor	Taste Word	*|*	73-28|73-6	
+73-36	10244-10248	from	_	_	_	
+73-37	10249-10255	heaven	_	_	_	
+73-38	10256-10263	through	_	_	_	
+73-39	10264-10267	the	_	_	_	
+73-40	10268-10274	medium	_	_	_	
+73-41	10275-10277	of	_	_	_	
+73-42	10278-10281	the	_	_	_	
+73-43	10282-10285	air	_	_	_	
+73-44	10286-10288	in	_	_	_	
+73-45	10289-10294	which	_	_	_	
+73-46	10295-10299	they	_	_	_	
+73-47	10300-10304	hang	_	_	_	
+73-48	10304-10305	.	_	_	_	

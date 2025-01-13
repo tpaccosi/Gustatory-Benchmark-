@@ -1,0 +1,5226 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+#T_RL=custom.Relation|label|BT_custom.Span
+
+
+#Text=The cathedral at Amiens made ample amends for the country we passed 
+#Text= through to see it; the _Nef d  '  Amiens_ deserves the fame of a first-rate 
+#Text= structure: and the ornaments of its high altar seem particularly well 
+#Text= chosen, of an excellent taste, and very capital execution.
+1-1	1-4	The	_	_	_	
+1-2	5-14	cathedral	_	_	_	
+1-3	15-17	at	_	_	_	
+1-4	18-24	Amiens	_	_	_	
+1-5	25-29	made	_	_	_	
+1-6	30-35	ample	_	_	_	
+1-7	36-42	amends	_	_	_	
+1-8	43-46	for	_	_	_	
+1-9	47-50	the	_	_	_	
+1-10	51-58	country	_	_	_	
+1-11	59-61	we	_	_	_	
+1-12	62-68	passed	_	_	_	
+1-13	71-78	through	_	_	_	
+1-14	79-81	to	_	_	_	
+1-15	82-85	see	_	_	_	
+1-16	86-88	it	_	_	_	
+1-17	88-89	;	_	_	_	
+1-18	90-93	the	_	_	_	
+1-19	94-95	_	_	_	_	
+1-20	95-98	Nef	_	_	_	
+1-21	99-100	d	_	_	_	
+1-22	102-103	'	_	_	_	
+1-23	105-111	Amiens	_	_	_	
+1-24	111-112	_	_	_	_	
+1-25	113-121	deserves	_	_	_	
+1-26	122-125	the	_	_	_	
+1-27	126-130	fame	_	_	_	
+1-28	131-133	of	_	_	_	
+1-29	134-135	a	_	_	_	
+1-30	136-146	first-rate	_	_	_	
+1-31	149-158	structure	_	_	_	
+1-32	158-159	:	_	_	_	
+1-33	160-163	and	_	_	_	
+1-34	164-167	the	_	_	_	
+1-35	168-177	ornaments	_	_	_	
+1-36	178-180	of	_	_	_	
+1-37	181-184	its	_	_	_	
+1-38	185-189	high	_	_	_	
+1-39	190-195	altar	_	_	_	
+1-40	196-200	seem	_	_	_	
+1-41	201-213	particularly	_	_	_	
+1-42	214-218	well	_	_	_	
+1-43	221-227	chosen	_	_	_	
+1-44	227-228	,	_	_	_	
+1-45	229-231	of	_	_	_	
+1-46	232-234	an	_	_	_	
+1-47	235-244	excellent	_	_	_	
+1-48	245-250	taste	_	_	_	
+1-49	250-251	,	_	_	_	
+1-50	252-255	and	_	_	_	
+1-51	256-260	very	_	_	_	
+1-52	261-268	capital	_	_	_	
+1-53	269-278	execution	_	_	_	
+1-54	278-279	.	_	_	_	
+
+#Text=The vineyards 
+#Text= from thence hither shew, that either the climate, or season, or both, 
+#Text= improve upon one: the grapes climbing up some not very tall 
+#Text= golden-pippin trees, and mingling their fruits at the top, have a mighty 
+#Text= pleasing effect; and I observe the rage for Lombardy poplars is in equal 
+#Text= force here as about London: no tolerable house have I passed without 
+#Text= seeing long rows of them; all young plantations, as one may perceive by 
+#Text= their size.
+2-1	280-283	The	_	_	_	
+2-2	284-293	vineyards	_	_	_	
+2-3	296-300	from	_	_	_	
+2-4	301-307	thence	_	_	_	
+2-5	308-314	hither	_	_	_	
+2-6	315-319	shew	_	_	_	
+2-7	319-320	,	_	_	_	
+2-8	321-325	that	_	_	_	
+2-9	326-332	either	_	_	_	
+2-10	333-336	the	_	_	_	
+2-11	337-344	climate	_	_	_	
+2-12	344-345	,	_	_	_	
+2-13	346-348	or	_	_	_	
+2-14	349-355	season	_	_	_	
+2-15	355-356	,	_	_	_	
+2-16	357-359	or	_	_	_	
+2-17	360-364	both	_	_	_	
+2-18	364-365	,	_	_	_	
+2-19	368-375	improve	_	_	_	
+2-20	376-380	upon	_	_	_	
+2-21	381-384	one	_	_	_	
+2-22	384-385	:	_	_	_	
+2-23	386-389	the	_	_	_	
+2-24	390-396	grapes	_	_	_	
+2-25	397-405	climbing	_	_	_	
+2-26	406-408	up	_	_	_	
+2-27	409-413	some	_	_	_	
+2-28	414-417	not	_	_	_	
+2-29	418-422	very	_	_	_	
+2-30	423-427	tall	_	_	_	
+2-31	430-443	golden-pippin	_	_	_	
+2-32	444-449	trees	_	_	_	
+2-33	449-450	,	_	_	_	
+2-34	451-454	and	_	_	_	
+2-35	455-463	mingling	_	_	_	
+2-36	464-469	their	_	_	_	
+2-37	470-476	fruits	_	_	_	
+2-38	477-479	at	_	_	_	
+2-39	480-483	the	_	_	_	
+2-40	484-487	top	_	_	_	
+2-41	487-488	,	_	_	_	
+2-42	489-493	have	_	_	_	
+2-43	494-495	a	_	_	_	
+2-44	496-502	mighty	_	_	_	
+2-45	505-513	pleasing	_	_	_	
+2-46	514-520	effect	_	_	_	
+2-47	520-521	;	_	_	_	
+2-48	522-525	and	_	_	_	
+2-49	526-527	I	_	_	_	
+2-50	528-535	observe	_	_	_	
+2-51	536-539	the	_	_	_	
+2-52	540-544	rage	_	_	_	
+2-53	545-548	for	_	_	_	
+2-54	549-557	Lombardy	_	_	_	
+2-55	558-565	poplars	_	_	_	
+2-56	566-568	is	_	_	_	
+2-57	569-571	in	_	_	_	
+2-58	572-577	equal	_	_	_	
+2-59	580-585	force	_	_	_	
+2-60	586-590	here	_	_	_	
+2-61	591-593	as	_	_	_	
+2-62	594-599	about	_	_	_	
+2-63	600-606	London	_	_	_	
+2-64	606-607	:	_	_	_	
+2-65	608-610	no	_	_	_	
+2-66	611-620	tolerable	_	_	_	
+2-67	621-626	house	_	_	_	
+2-68	627-631	have	_	_	_	
+2-69	632-633	I	_	_	_	
+2-70	634-640	passed	_	_	_	
+2-71	641-648	without	_	_	_	
+2-72	651-657	seeing	_	_	_	
+2-73	658-662	long	_	_	_	
+2-74	663-667	rows	_	_	_	
+2-75	668-670	of	_	_	_	
+2-76	671-675	them	_	_	_	
+2-77	675-676	;	_	_	_	
+2-78	677-680	all	_	_	_	
+2-79	681-686	young	_	_	_	
+2-80	687-698	plantations	_	_	_	
+2-81	698-699	,	_	_	_	
+2-82	700-702	as	_	_	_	
+2-83	703-706	one	_	_	_	
+2-84	707-710	may	_	_	_	
+2-85	711-719	perceive	_	_	_	
+2-86	720-722	by	_	_	_	
+2-87	725-730	their	_	_	_	
+2-88	731-735	size	_	_	_	
+2-89	735-736	.	_	_	_	
+
+#Text=Refined countries always are panting for speedy enjoyment: 
+#Text= the maxim of _carpe diem_[Footnote: Seize the present moment.] came into 
+#Text= Rome when luxury triumphed there; and poets and philosophers lent their 
+#Text= assistance to decorate and dignify her gaudy car.
+3-1	737-744	Refined	_	_	_	
+3-2	745-754	countries	_	_	_	
+3-3	755-761	always	_	_	_	
+3-4	762-765	are	_	_	_	
+3-5	766-773	panting	_	_	_	
+3-6	774-777	for	_	_	_	
+3-7	778-784	speedy	_	_	_	
+3-8	785-794	enjoyment	_	_	_	
+3-9	794-795	:	_	_	_	
+3-10	798-801	the	_	_	_	
+3-11	802-807	maxim	_	_	_	
+3-12	808-810	of	_	_	_	
+3-13	811-812	_	_	_	_	
+3-14	812-817	carpe	_	_	_	
+3-15	818-822	diem	_	_	_	
+3-16	822-823	_	_	_	_	
+3-17	823-824	[	_	_	_	
+3-18	824-832	Footnote	_	_	_	
+3-19	832-833	:	_	_	_	
+3-20	834-839	Seize	_	_	_	
+3-21	840-843	the	_	_	_	
+3-22	844-851	present	_	_	_	
+3-23	852-858	moment	_	_	_	
+3-24	858-859	.	_	_	_	
+3-25	859-860	]	_	_	_	
+3-26	861-865	came	_	_	_	
+3-27	866-870	into	_	_	_	
+3-28	873-877	Rome	_	_	_	
+3-29	878-882	when	_	_	_	
+3-30	883-889	luxury	_	_	_	
+3-31	890-899	triumphed	_	_	_	
+3-32	900-905	there	_	_	_	
+3-33	905-906	;	_	_	_	
+3-34	907-910	and	_	_	_	
+3-35	911-916	poets	_	_	_	
+3-36	917-920	and	_	_	_	
+3-37	921-933	philosophers	_	_	_	
+3-38	934-938	lent	_	_	_	
+3-39	939-944	their	_	_	_	
+3-40	947-957	assistance	_	_	_	
+3-41	958-960	to	_	_	_	
+3-42	961-969	decorate	_	_	_	
+3-43	970-973	and	_	_	_	
+3-44	974-981	dignify	_	_	_	
+3-45	982-985	her	_	_	_	
+3-46	986-991	gaudy	_	_	_	
+3-47	992-995	car	_	_	_	
+3-48	995-996	.	_	_	_	
+
+#Text=Till then we read of 
+#Text= no such haste to be happy; and on the same principle, while Americans 
+#Text= contentedly wait the slow growth of their columnal chesnut, our hot-bed 
+#Text= inhabitants measure the slender poplar with canes, anxiously admiring 
+#Text= its quick growth and early elegance; yet are often cut down themselves,
+#Text=which, when once tasted, will not seldom be preferred to the attentive 
+#Text= watchfulness of more confined society.
+4-1	997-1001	Till	_	_	_	
+4-2	1002-1006	then	_	_	_	
+4-3	1007-1009	we	_	_	_	
+4-4	1010-1014	read	_	_	_	
+4-5	1015-1017	of	_	_	_	
+4-6	1020-1022	no	_	_	_	
+4-7	1023-1027	such	_	_	_	
+4-8	1028-1033	haste	_	_	_	
+4-9	1034-1036	to	_	_	_	
+4-10	1037-1039	be	_	_	_	
+4-11	1040-1045	happy	_	_	_	
+4-12	1045-1046	;	_	_	_	
+4-13	1047-1050	and	_	_	_	
+4-14	1051-1053	on	_	_	_	
+4-15	1054-1057	the	_	_	_	
+4-16	1058-1062	same	_	_	_	
+4-17	1063-1072	principle	_	_	_	
+4-18	1072-1073	,	_	_	_	
+4-19	1074-1079	while	_	_	_	
+4-20	1080-1089	Americans	_	_	_	
+4-21	1092-1103	contentedly	_	_	_	
+4-22	1104-1108	wait	_	_	_	
+4-23	1109-1112	the	_	_	_	
+4-24	1113-1117	slow	_	_	_	
+4-25	1118-1124	growth	_	_	_	
+4-26	1125-1127	of	_	_	_	
+4-27	1128-1133	their	_	_	_	
+4-28	1134-1142	columnal	_	_	_	
+4-29	1143-1150	chesnut	_	_	_	
+4-30	1150-1151	,	_	_	_	
+4-31	1152-1155	our	_	_	_	
+4-32	1156-1163	hot-bed	_	_	_	
+4-33	1166-1177	inhabitants	_	_	_	
+4-34	1178-1185	measure	_	_	_	
+4-35	1186-1189	the	_	_	_	
+4-36	1190-1197	slender	_	_	_	
+4-37	1198-1204	poplar	_	_	_	
+4-38	1205-1209	with	_	_	_	
+4-39	1210-1215	canes	_	_	_	
+4-40	1215-1216	,	_	_	_	
+4-41	1217-1226	anxiously	_	_	_	
+4-42	1227-1235	admiring	_	_	_	
+4-43	1238-1241	its	_	_	_	
+4-44	1242-1247	quick	_	_	_	
+4-45	1248-1254	growth	_	_	_	
+4-46	1255-1258	and	_	_	_	
+4-47	1259-1264	early	_	_	_	
+4-48	1265-1273	elegance	_	_	_	
+4-49	1273-1274	;	_	_	_	
+4-50	1275-1278	yet	_	_	_	
+4-51	1279-1282	are	_	_	_	
+4-52	1283-1288	often	_	_	_	
+4-53	1289-1292	cut	_	_	_	
+4-54	1293-1297	down	_	_	_	
+4-55	1298-1308	themselves	_	_	_	
+4-56	1308-1309	,	_	_	_	
+4-57	1310-1315	which	_	_	_	
+4-58	1315-1316	,	_	_	_	
+4-59	1317-1321	when	_	_	_	
+4-60	1322-1326	once	_	_	_	
+4-61	1327-1333	tasted	_	_	_	
+4-62	1333-1334	,	_	_	_	
+4-63	1335-1339	will	_	_	_	
+4-64	1340-1343	not	_	_	_	
+4-65	1344-1350	seldom	_	_	_	
+4-66	1351-1353	be	_	_	_	
+4-67	1354-1363	preferred	_	_	_	
+4-68	1364-1366	to	_	_	_	
+4-69	1367-1370	the	_	_	_	
+4-70	1371-1380	attentive	_	_	_	
+4-71	1383-1395	watchfulness	_	_	_	
+4-72	1396-1398	of	_	_	_	
+4-73	1399-1403	more	_	_	_	
+4-74	1404-1412	confined	_	_	_	
+4-75	1413-1420	society	_	_	_	
+4-76	1420-1421	.	_	_	_	
+
+#Text=The famous Venetian too, who has written so many successful comedies, 
+#Text= and is now employed upon his own Memoirs, at the age of eighty-four, 
+#Text= was a delightful addition to our Coterie, _Goldoni_.
+5-1	1427-1430	The	_	_	_	
+5-2	1431-1437	famous	_	_	_	
+5-3	1438-1446	Venetian	_	_	_	
+5-4	1447-1450	too	_	_	_	
+5-5	1450-1451	,	_	_	_	
+5-6	1452-1455	who	_	_	_	
+5-7	1456-1459	has	_	_	_	
+5-8	1460-1467	written	_	_	_	
+5-9	1468-1470	so	_	_	_	
+5-10	1471-1475	many	_	_	_	
+5-11	1476-1486	successful	_	_	_	
+5-12	1487-1495	comedies	_	_	_	
+5-13	1495-1496	,	_	_	_	
+5-14	1499-1502	and	_	_	_	
+5-15	1503-1505	is	_	_	_	
+5-16	1506-1509	now	_	_	_	
+5-17	1510-1518	employed	_	_	_	
+5-18	1519-1523	upon	_	_	_	
+5-19	1524-1527	his	_	_	_	
+5-20	1528-1531	own	_	_	_	
+5-21	1532-1539	Memoirs	_	_	_	
+5-22	1539-1540	,	_	_	_	
+5-23	1541-1543	at	_	_	_	
+5-24	1544-1547	the	_	_	_	
+5-25	1548-1551	age	_	_	_	
+5-26	1552-1554	of	_	_	_	
+5-27	1555-1566	eighty-four	_	_	_	
+5-28	1566-1567	,	_	_	_	
+5-29	1570-1573	was	_	_	_	
+5-30	1574-1575	a	_	_	_	
+5-31	1576-1586	delightful	_	_	_	
+5-32	1587-1595	addition	_	_	_	
+5-33	1596-1598	to	_	_	_	
+5-34	1599-1602	our	_	_	_	
+5-35	1603-1610	Coterie	_	_	_	
+5-36	1610-1611	,	_	_	_	
+5-37	1612-1613	_	_	_	_	
+5-38	1613-1620	Goldoni	_	_	_	
+5-39	1620-1621	_	_	_	_	
+5-40	1621-1622	.	_	_	_	
+
+#Text=He is garrulous, 
+#Text= good-humoured, and gay; resembling the late James Harris of Salisbury in 
+#Text= person not manner, and seems justly esteemed, and highly, by his 
+#Text= countrymen.
+6-1	1623-1625	He	_	_	_	
+6-2	1626-1628	is	_	_	_	
+6-3	1629-1638	garrulous	_	_	_	
+6-4	1638-1639	,	_	_	_	
+6-5	1642-1655	good-humoured	_	_	_	
+6-6	1655-1656	,	_	_	_	
+6-7	1657-1660	and	_	_	_	
+6-8	1661-1664	gay	_	_	_	
+6-9	1664-1665	;	_	_	_	
+6-10	1666-1676	resembling	_	_	_	
+6-11	1677-1680	the	_	_	_	
+6-12	1681-1685	late	_	_	_	
+6-13	1686-1691	James	_	_	_	
+6-14	1692-1698	Harris	_	_	_	
+6-15	1699-1701	of	_	_	_	
+6-16	1702-1711	Salisbury	_	_	_	
+6-17	1712-1714	in	_	_	_	
+6-18	1717-1723	person	_	_	_	
+6-19	1724-1727	not	_	_	_	
+6-20	1728-1734	manner	_	_	_	
+6-21	1734-1735	,	_	_	_	
+6-22	1736-1739	and	_	_	_	
+6-23	1740-1745	seems	_	_	_	
+6-24	1746-1752	justly	_	_	_	
+6-25	1753-1761	esteemed	_	_	_	
+6-26	1761-1762	,	_	_	_	
+6-27	1763-1766	and	_	_	_	
+6-28	1767-1773	highly	_	_	_	
+6-29	1773-1774	,	_	_	_	
+6-30	1775-1777	by	_	_	_	
+6-31	1778-1781	his	_	_	_	
+6-32	1784-1794	countrymen	_	_	_	
+6-33	1794-1795	.	_	_	_	
+
+#Text=The conversation of the Marquis Trotti and the Abate Bucchetti is 
+#Text= likewise particularly pleasing; especially to me, who am naturally 
+#Text= desirous to live as much as possible among Italians of general 
+#Text= knowledge, good taste, and polished manners, before I enter their 
+#Text= country, where the language will be so very indispensable.
+7-1	1801-1804	The	_	_	_	
+7-2	1805-1817	conversation	_	_	_	
+7-3	1818-1820	of	_	_	_	
+7-4	1821-1824	the	_	_	_	
+7-5	1825-1832	Marquis	_	_	_	
+7-6	1833-1839	Trotti	_	_	_	
+7-7	1840-1843	and	_	_	_	
+7-8	1844-1847	the	_	_	_	
+7-9	1848-1853	Abate	_	_	_	
+7-10	1854-1863	Bucchetti	_	_	_	
+7-11	1864-1866	is	_	_	_	
+7-12	1869-1877	likewise	_	_	_	
+7-13	1878-1890	particularly	_	_	_	
+7-14	1891-1899	pleasing	_	_	_	
+7-15	1899-1900	;	_	_	_	
+7-16	1901-1911	especially	_	_	_	
+7-17	1912-1914	to	_	_	_	
+7-18	1915-1917	me	_	_	_	
+7-19	1917-1918	,	_	_	_	
+7-20	1919-1922	who	_	_	_	
+7-21	1923-1925	am	_	_	_	
+7-22	1926-1935	naturally	_	_	_	
+7-23	1938-1946	desirous	_	_	_	
+7-24	1947-1949	to	_	_	_	
+7-25	1950-1954	live	_	_	_	
+7-26	1955-1957	as	_	_	_	
+7-27	1958-1962	much	_	_	_	
+7-28	1963-1965	as	_	_	_	
+7-29	1966-1974	possible	_	_	_	
+7-30	1975-1980	among	_	_	_	
+7-31	1981-1989	Italians	Taster	_	_	
+7-32	1990-1992	of	_	_	_	
+7-33	1993-2000	general	_	_	_	
+7-34	2003-2012	knowledge	_	_	_	
+7-35	2012-2013	,	_	_	_	
+7-36	2014-2018	good	Quality	_	_	
+7-37	2019-2024	taste	Taste Word	*|*	7-36|7-31	
+7-38	2024-2025	,	_	_	_	
+7-39	2026-2029	and	_	_	_	
+7-40	2030-2038	polished	_	_	_	
+7-41	2039-2046	manners	_	_	_	
+7-42	2046-2047	,	_	_	_	
+7-43	2048-2054	before	_	_	_	
+7-44	2055-2056	I	_	_	_	
+7-45	2057-2062	enter	_	_	_	
+7-46	2063-2068	their	_	_	_	
+7-47	2071-2078	country	_	_	_	
+7-48	2078-2079	,	_	_	_	
+7-49	2080-2085	where	_	_	_	
+7-50	2086-2089	the	_	_	_	
+7-51	2090-2098	language	_	_	_	
+7-52	2099-2103	will	_	_	_	
+7-53	2104-2106	be	_	_	_	
+7-54	2107-2109	so	_	_	_	
+7-55	2110-2114	very	_	_	_	
+7-56	2115-2128	indispensable	_	_	_	
+7-57	2128-2129	.	_	_	_	
+
+#Text=Mean time I 
+#Text= have stolen a day to visit my old acquaintance the English Austin Nuns 
+#Text= at the Fossée, and found the whole community alive and cheerful; they 
+#Text= are many of them agreeable women, and having seen Dr.
+8-1	2130-2134	Mean	_	_	_	
+8-2	2135-2139	time	_	_	_	
+8-3	2140-2141	I	_	_	_	
+8-4	2144-2148	have	_	_	_	
+8-5	2149-2155	stolen	_	_	_	
+8-6	2156-2157	a	_	_	_	
+8-7	2158-2161	day	_	_	_	
+8-8	2162-2164	to	_	_	_	
+8-9	2165-2170	visit	_	_	_	
+8-10	2171-2173	my	_	_	_	
+8-11	2174-2177	old	_	_	_	
+8-12	2178-2190	acquaintance	_	_	_	
+8-13	2191-2194	the	_	_	_	
+8-14	2195-2202	English	_	_	_	
+8-15	2203-2209	Austin	_	_	_	
+8-16	2210-2214	Nuns	_	_	_	
+8-17	2217-2219	at	_	_	_	
+8-18	2220-2223	the	_	_	_	
+8-19	2224-2230	Fossée	_	_	_	
+8-20	2230-2231	,	_	_	_	
+8-21	2232-2235	and	_	_	_	
+8-22	2236-2241	found	_	_	_	
+8-23	2242-2245	the	_	_	_	
+8-24	2246-2251	whole	_	_	_	
+8-25	2252-2261	community	_	_	_	
+8-26	2262-2267	alive	_	_	_	
+8-27	2268-2271	and	_	_	_	
+8-28	2272-2280	cheerful	_	_	_	
+8-29	2280-2281	;	_	_	_	
+8-30	2282-2286	they	_	_	_	
+8-31	2289-2292	are	_	_	_	
+8-32	2293-2297	many	_	_	_	
+8-33	2298-2300	of	_	_	_	
+8-34	2301-2305	them	_	_	_	
+8-35	2306-2315	agreeable	_	_	_	
+8-36	2316-2321	women	_	_	_	
+8-37	2321-2322	,	_	_	_	
+8-38	2323-2326	and	_	_	_	
+8-39	2327-2333	having	_	_	_	
+8-40	2334-2338	seen	_	_	_	
+8-41	2339-2341	Dr	_	_	_	
+8-42	2341-2342	.	_	_	_	
+
+#Text=Johnson with me 
+#Text= when I was last abroad, enquired much for him: Mrs.
+9-1	2343-2350	Johnson	_	_	_	
+9-2	2351-2355	with	_	_	_	
+9-3	2356-2358	me	_	_	_	
+9-4	2361-2365	when	_	_	_	
+9-5	2366-2367	I	_	_	_	
+9-6	2368-2371	was	_	_	_	
+9-7	2372-2376	last	_	_	_	
+9-8	2377-2383	abroad	_	_	_	
+9-9	2383-2384	,	_	_	_	
+9-10	2385-2393	enquired	_	_	_	
+9-11	2394-2398	much	_	_	_	
+9-12	2399-2402	for	_	_	_	
+9-13	2403-2406	him	_	_	_	
+9-14	2406-2407	:	_	_	_	
+9-15	2408-2411	Mrs	_	_	_	
+9-16	2411-2412	.	_	_	_	
+
+#Text=Fermor, the 
+#Text= Prioress, niece to Belinda in the Rape of the Lock, taking occasion to
+#Text=tell me, comically enough, "That she believed there was but little 
+#Text= comfort to be found in a house that harboured _poets_; for that she 
+#Text= remembered Mr.
+10-1	2413-2419	Fermor	_	_	_	
+10-2	2419-2420	,	_	_	_	
+10-3	2421-2424	the	_	_	_	
+10-4	2427-2435	Prioress	_	_	_	
+10-5	2435-2436	,	_	_	_	
+10-6	2437-2442	niece	_	_	_	
+10-7	2443-2445	to	_	_	_	
+10-8	2446-2453	Belinda	_	_	_	
+10-9	2454-2456	in	_	_	_	
+10-10	2457-2460	the	_	_	_	
+10-11	2461-2465	Rape	_	_	_	
+10-12	2466-2468	of	_	_	_	
+10-13	2469-2472	the	_	_	_	
+10-14	2473-2477	Lock	_	_	_	
+10-15	2477-2478	,	_	_	_	
+10-16	2479-2485	taking	_	_	_	
+10-17	2486-2494	occasion	_	_	_	
+10-18	2495-2497	to	_	_	_	
+10-19	2498-2502	tell	_	_	_	
+10-20	2503-2505	me	_	_	_	
+10-21	2505-2506	,	_	_	_	
+10-22	2507-2516	comically	_	_	_	
+10-23	2517-2523	enough	_	_	_	
+10-24	2523-2524	,	_	_	_	
+10-25	2525-2526	"	_	_	_	
+10-26	2526-2530	That	_	_	_	
+10-27	2531-2534	she	_	_	_	
+10-28	2535-2543	believed	_	_	_	
+10-29	2544-2549	there	_	_	_	
+10-30	2550-2553	was	_	_	_	
+10-31	2554-2557	but	_	_	_	
+10-32	2558-2564	little	_	_	_	
+10-33	2567-2574	comfort	_	_	_	
+10-34	2575-2577	to	_	_	_	
+10-35	2578-2580	be	_	_	_	
+10-36	2581-2586	found	_	_	_	
+10-37	2587-2589	in	_	_	_	
+10-38	2590-2591	a	_	_	_	
+10-39	2592-2597	house	_	_	_	
+10-40	2598-2602	that	_	_	_	
+10-41	2603-2612	harboured	_	_	_	
+10-42	2613-2614	_	_	_	_	
+10-43	2614-2619	poets	_	_	_	
+10-44	2619-2620	_	_	_	_	
+10-45	2620-2621	;	_	_	_	
+10-46	2622-2625	for	_	_	_	
+10-47	2626-2630	that	_	_	_	
+10-48	2631-2634	she	_	_	_	
+10-49	2637-2647	remembered	_	_	_	
+10-50	2648-2650	Mr	Taster[1]	_	_	
+10-51	2650-2651	.	Taster[1]	_	_	
+
+#Text=Pope  '  s praise made her aunt very troublesome and 
+#Text= conceited, while his numberless caprices would have employed ten 
+#Text= servants to wait on him; and he gave one" (said she) "no amends by his 
+#Text= talk neither, for he only sate dozing all day, when the sweet wine was 
+#Text= out, and made his verses chiefly in the night; during which season he 
+#Text= kept himself awake by drinking coffee, which it was one of the maids 
+#Text= business to make for him, and they took it by turns."
+11-1	2652-2656	Pope	Taster[1]	_	_	
+11-2	2658-2659	'	_	_	_	
+11-3	2661-2662	s	_	_	_	
+11-4	2663-2669	praise	_	_	_	
+11-5	2670-2674	made	_	_	_	
+11-6	2675-2678	her	_	_	_	
+11-7	2679-2683	aunt	_	_	_	
+11-8	2684-2688	very	_	_	_	
+11-9	2689-2700	troublesome	_	_	_	
+11-10	2701-2704	and	_	_	_	
+11-11	2707-2716	conceited	_	_	_	
+11-12	2716-2717	,	_	_	_	
+11-13	2718-2723	while	_	_	_	
+11-14	2724-2727	his	_	_	_	
+11-15	2728-2738	numberless	_	_	_	
+11-16	2739-2747	caprices	_	_	_	
+11-17	2748-2753	would	_	_	_	
+11-18	2754-2758	have	_	_	_	
+11-19	2759-2767	employed	_	_	_	
+11-20	2768-2771	ten	_	_	_	
+11-21	2774-2782	servants	_	_	_	
+11-22	2783-2785	to	_	_	_	
+11-23	2786-2790	wait	_	_	_	
+11-24	2791-2793	on	_	_	_	
+11-25	2794-2797	him	_	_	_	
+11-26	2797-2798	;	_	_	_	
+11-27	2799-2802	and	_	_	_	
+11-28	2803-2805	he	_	_	_	
+11-29	2806-2810	gave	_	_	_	
+11-30	2811-2814	one	_	_	_	
+11-31	2814-2815	"	_	_	_	
+11-32	2816-2817	(	_	_	_	
+11-33	2817-2821	said	_	_	_	
+11-34	2822-2825	she	_	_	_	
+11-35	2825-2826	)	_	_	_	
+11-36	2827-2828	"	_	_	_	
+11-37	2828-2830	no	_	_	_	
+11-38	2831-2837	amends	_	_	_	
+11-39	2838-2840	by	_	_	_	
+11-40	2841-2844	his	_	_	_	
+11-41	2847-2851	talk	_	_	_	
+11-42	2852-2859	neither	_	_	_	
+11-43	2859-2860	,	_	_	_	
+11-44	2861-2864	for	_	_	_	
+11-45	2865-2867	he	_	_	_	
+11-46	2868-2872	only	_	_	_	
+11-47	2873-2877	sate	_	_	_	
+11-48	2878-2884	dozing	_	_	_	
+11-49	2885-2888	all	_	_	_	
+11-50	2889-2892	day	_	_	_	
+11-51	2892-2893	,	_	_	_	
+11-52	2894-2898	when	_	_	_	
+11-53	2899-2902	the	_	_	_	
+11-54	2903-2908	sweet	Taste Word[2]|Quality[3]	*|*	11-55[0_2]|11-54[3_2]	
+11-55	2909-2913	wine	Taste Source	_	_	
+11-56	2914-2917	was	_	_	_	
+11-57	2920-2923	out	_	_	_	
+11-58	2923-2924	,	_	_	_	
+11-59	2925-2928	and	_	_	_	
+11-60	2929-2933	made	_	_	_	
+11-61	2934-2937	his	_	_	_	
+11-62	2938-2944	verses	_	_	_	
+11-63	2945-2952	chiefly	_	_	_	
+11-64	2953-2955	in	_	_	_	
+11-65	2956-2959	the	_	_	_	
+11-66	2960-2965	night	_	_	_	
+11-67	2965-2966	;	_	_	_	
+11-68	2967-2973	during	_	_	_	
+11-69	2974-2979	which	_	_	_	
+11-70	2980-2986	season	_	_	_	
+11-71	2987-2989	he	Taster	anaphorical	10-50[1_0]	
+11-72	2992-2996	kept	Effect[4]	_	_	
+11-73	2997-3004	himself	Effect[4]	_	_	
+11-74	3005-3010	awake	Effect[4]	_	_	
+11-75	3011-3013	by	_	_	_	
+11-76	3014-3022	drinking	Taste Word	*|*|*	11-77|11-72[4_0]|11-71	
+11-77	3023-3029	coffee	Taste Source	_	_	
+11-78	3029-3030	,	_	_	_	
+11-79	3031-3036	which	_	_	_	
+11-80	3037-3039	it	_	_	_	
+11-81	3040-3043	was	_	_	_	
+11-82	3044-3047	one	_	_	_	
+11-83	3048-3050	of	_	_	_	
+11-84	3051-3054	the	_	_	_	
+11-85	3055-3060	maids	_	_	_	
+11-86	3063-3071	business	_	_	_	
+11-87	3072-3074	to	_	_	_	
+11-88	3075-3079	make	_	_	_	
+11-89	3080-3083	for	_	_	_	
+11-90	3084-3087	him	_	_	_	
+11-91	3087-3088	,	_	_	_	
+11-92	3089-3092	and	_	_	_	
+11-93	3093-3097	they	_	_	_	
+11-94	3098-3102	took	_	_	_	
+11-95	3103-3105	it	_	_	_	
+11-96	3106-3108	by	_	_	_	
+11-97	3109-3114	turns	_	_	_	
+11-98	3114-3115	.	_	_	_	
+11-99	3115-3116	"	_	_	_	
+
+#Text=These ladies really live here as comfortably for aught I see as peace, 
+#Text= quietness, and the certainty of a good dinner every day can make them.
+12-1	3122-3127	These	_	_	_	
+12-2	3128-3134	ladies	_	_	_	
+12-3	3135-3141	really	_	_	_	
+12-4	3142-3146	live	_	_	_	
+12-5	3147-3151	here	_	_	_	
+12-6	3152-3154	as	_	_	_	
+12-7	3155-3166	comfortably	_	_	_	
+12-8	3167-3170	for	_	_	_	
+12-9	3171-3176	aught	_	_	_	
+12-10	3177-3178	I	_	_	_	
+12-11	3179-3182	see	_	_	_	
+12-12	3183-3185	as	_	_	_	
+12-13	3186-3191	peace	_	_	_	
+12-14	3191-3192	,	_	_	_	
+12-15	3195-3204	quietness	_	_	_	
+12-16	3204-3205	,	_	_	_	
+12-17	3206-3209	and	_	_	_	
+12-18	3210-3213	the	_	_	_	
+12-19	3214-3223	certainty	_	_	_	
+12-20	3224-3226	of	_	_	_	
+12-21	3227-3228	a	_	_	_	
+12-22	3229-3233	good	_	_	_	
+12-23	3234-3240	dinner	_	_	_	
+12-24	3241-3246	every	_	_	_	
+12-25	3247-3250	day	_	_	_	
+12-26	3251-3254	can	_	_	_	
+12-27	3255-3259	make	_	_	_	
+12-28	3260-3264	them	_	_	_	
+12-29	3264-3265	.	_	_	_	
+
+#Text=Just so much happier than as many old maids who inhabit Milman Street 
+#Text= and Chapel Row, as they are sure not to be robbed by a treacherous, or 
+#Text= insulted by a favoured, servant in the decline of life, when protection 
+#Text= is grown hopeless and resistance vain; and as they enjoy at least a 
+#Text= moral certainty of never living worse than they do to-day: while the 
+#Text= little knot of unmarried females turned fifty round Red Lion Square 
+#Text= _may_ always be ruined by a runaway agent, a bankrupted banker, or a 
+#Text= roguish steward; and even the petty pleasures of six-penny quadrille may
+#Text=and I now find that he was deliciously cool and sharp, like the ordinary 
+#Text= wine of the country we are passing through, which having _no body_, can 
+#Text= neither keep its little power long, nor even use it while fresh to any 
+#Text= sensible effect.
+13-1	3268-3272	Just	_	_	_	
+13-2	3273-3275	so	_	_	_	
+13-3	3276-3280	much	_	_	_	
+13-4	3281-3288	happier	_	_	_	
+13-5	3289-3293	than	_	_	_	
+13-6	3294-3296	as	_	_	_	
+13-7	3297-3301	many	_	_	_	
+13-8	3302-3305	old	_	_	_	
+13-9	3306-3311	maids	_	_	_	
+13-10	3312-3315	who	_	_	_	
+13-11	3316-3323	inhabit	_	_	_	
+13-12	3324-3330	Milman	_	_	_	
+13-13	3331-3337	Street	_	_	_	
+13-14	3340-3343	and	_	_	_	
+13-15	3344-3350	Chapel	_	_	_	
+13-16	3351-3354	Row	_	_	_	
+13-17	3354-3355	,	_	_	_	
+13-18	3356-3358	as	_	_	_	
+13-19	3359-3363	they	_	_	_	
+13-20	3364-3367	are	_	_	_	
+13-21	3368-3372	sure	_	_	_	
+13-22	3373-3376	not	_	_	_	
+13-23	3377-3379	to	_	_	_	
+13-24	3380-3382	be	_	_	_	
+13-25	3383-3389	robbed	_	_	_	
+13-26	3390-3392	by	_	_	_	
+13-27	3393-3394	a	_	_	_	
+13-28	3395-3406	treacherous	_	_	_	
+13-29	3406-3407	,	_	_	_	
+13-30	3408-3410	or	_	_	_	
+13-31	3413-3421	insulted	_	_	_	
+13-32	3422-3424	by	_	_	_	
+13-33	3425-3426	a	_	_	_	
+13-34	3427-3435	favoured	_	_	_	
+13-35	3435-3436	,	_	_	_	
+13-36	3437-3444	servant	_	_	_	
+13-37	3445-3447	in	_	_	_	
+13-38	3448-3451	the	_	_	_	
+13-39	3452-3459	decline	_	_	_	
+13-40	3460-3462	of	_	_	_	
+13-41	3463-3467	life	_	_	_	
+13-42	3467-3468	,	_	_	_	
+13-43	3469-3473	when	_	_	_	
+13-44	3474-3484	protection	_	_	_	
+13-45	3487-3489	is	_	_	_	
+13-46	3490-3495	grown	_	_	_	
+13-47	3496-3504	hopeless	_	_	_	
+13-48	3505-3508	and	_	_	_	
+13-49	3509-3519	resistance	_	_	_	
+13-50	3520-3524	vain	_	_	_	
+13-51	3524-3525	;	_	_	_	
+13-52	3526-3529	and	_	_	_	
+13-53	3530-3532	as	_	_	_	
+13-54	3533-3537	they	_	_	_	
+13-55	3538-3543	enjoy	_	_	_	
+13-56	3544-3546	at	_	_	_	
+13-57	3547-3552	least	_	_	_	
+13-58	3553-3554	a	_	_	_	
+13-59	3557-3562	moral	_	_	_	
+13-60	3563-3572	certainty	_	_	_	
+13-61	3573-3575	of	_	_	_	
+13-62	3576-3581	never	_	_	_	
+13-63	3582-3588	living	_	_	_	
+13-64	3589-3594	worse	_	_	_	
+13-65	3595-3599	than	_	_	_	
+13-66	3600-3604	they	_	_	_	
+13-67	3605-3607	do	_	_	_	
+13-68	3608-3614	to-day	_	_	_	
+13-69	3614-3615	:	_	_	_	
+13-70	3616-3621	while	_	_	_	
+13-71	3622-3625	the	_	_	_	
+13-72	3628-3634	little	_	_	_	
+13-73	3635-3639	knot	_	_	_	
+13-74	3640-3642	of	_	_	_	
+13-75	3643-3652	unmarried	_	_	_	
+13-76	3653-3660	females	_	_	_	
+13-77	3661-3667	turned	_	_	_	
+13-78	3668-3673	fifty	_	_	_	
+13-79	3674-3679	round	_	_	_	
+13-80	3680-3683	Red	_	_	_	
+13-81	3684-3688	Lion	_	_	_	
+13-82	3689-3695	Square	_	_	_	
+13-83	3698-3699	_	_	_	_	
+13-84	3699-3702	may	_	_	_	
+13-85	3702-3703	_	_	_	_	
+13-86	3704-3710	always	_	_	_	
+13-87	3711-3713	be	_	_	_	
+13-88	3714-3720	ruined	_	_	_	
+13-89	3721-3723	by	_	_	_	
+13-90	3724-3725	a	_	_	_	
+13-91	3726-3733	runaway	_	_	_	
+13-92	3734-3739	agent	_	_	_	
+13-93	3739-3740	,	_	_	_	
+13-94	3741-3742	a	_	_	_	
+13-95	3743-3753	bankrupted	_	_	_	
+13-96	3754-3760	banker	_	_	_	
+13-97	3760-3761	,	_	_	_	
+13-98	3762-3764	or	_	_	_	
+13-99	3765-3766	a	_	_	_	
+13-100	3769-3776	roguish	_	_	_	
+13-101	3777-3784	steward	_	_	_	
+13-102	3784-3785	;	_	_	_	
+13-103	3786-3789	and	_	_	_	
+13-104	3790-3794	even	_	_	_	
+13-105	3795-3798	the	_	_	_	
+13-106	3799-3804	petty	_	_	_	
+13-107	3805-3814	pleasures	_	_	_	
+13-108	3815-3817	of	_	_	_	
+13-109	3818-3827	six-penny	_	_	_	
+13-110	3828-3837	quadrille	_	_	_	
+13-111	3838-3841	may	_	_	_	
+13-112	3842-3845	and	_	_	_	
+13-113	3846-3847	I	_	_	_	
+13-114	3848-3851	now	_	_	_	
+13-115	3852-3856	find	_	_	_	
+13-116	3857-3861	that	_	_	_	
+13-117	3862-3864	he	_	_	_	
+13-118	3865-3868	was	_	_	_	
+13-119	3869-3880	deliciously	Quality	_	_	
+13-120	3881-3885	cool	_	_	_	
+13-121	3886-3889	and	_	_	_	
+13-122	3890-3895	sharp	Quality[5]|Taste Word[6]	*|*|*	13-122[5_6]|13-119[0_6]|13-124[7_6]	
+13-123	3895-3896	,	_	_	_	
+13-124	3897-3901	like	Evoked Taste[7]	_	_	
+13-125	3902-3905	the	Evoked Taste[7]	_	_	
+13-126	3906-3914	ordinary	Evoked Taste[7]	_	_	
+13-127	3917-3921	wine	Evoked Taste[7]	_	_	
+13-128	3922-3924	of	Evoked Taste[7]	_	_	
+13-129	3925-3928	the	Evoked Taste[7]	_	_	
+13-130	3929-3936	country	Evoked Taste[7]	_	_	
+13-131	3937-3939	we	Evoked Taste[7]	_	_	
+13-132	3940-3943	are	Evoked Taste[7]	_	_	
+13-133	3944-3951	passing	Evoked Taste[7]	_	_	
+13-134	3952-3959	through	Evoked Taste[7]	_	_	
+13-135	3959-3960	,	_	_	_	
+13-136	3961-3966	which	_	_	_	
+13-137	3967-3973	having	_	_	_	
+13-138	3974-3975	_	_	_	_	
+13-139	3975-3977	no	_	_	_	
+13-140	3978-3982	body	_	_	_	
+13-141	3982-3983	_	_	_	_	
+13-142	3983-3984	,	_	_	_	
+13-143	3985-3988	can	_	_	_	
+13-144	3991-3998	neither	_	_	_	
+13-145	3999-4003	keep	_	_	_	
+13-146	4004-4007	its	_	_	_	
+13-147	4008-4014	little	_	_	_	
+13-148	4015-4020	power	_	_	_	
+13-149	4021-4025	long	_	_	_	
+13-150	4025-4026	,	_	_	_	
+13-151	4027-4030	nor	_	_	_	
+13-152	4031-4035	even	_	_	_	
+13-153	4036-4039	use	_	_	_	
+13-154	4040-4042	it	_	_	_	
+13-155	4043-4048	while	_	_	_	
+13-156	4049-4054	fresh	_	_	_	
+13-157	4055-4057	to	_	_	_	
+13-158	4058-4061	any	_	_	_	
+13-159	4064-4072	sensible	_	_	_	
+13-160	4073-4079	effect	_	_	_	
+13-161	4079-4080	.	_	_	_	
+
+#Text=The country is really beautiful; but descriptions are _so_ fallacious, 
+#Text= one half despairs of communicating one  '  s ideas as they are: for either 
+#Text= well-chosen words do not present themselves, or being well-chosen they 
+#Text= detain the reader, and fix his mind on _them_, instead of the things 
+#Text= described.
+14-1	4086-4089	The	_	_	_	
+14-2	4090-4097	country	_	_	_	
+14-3	4098-4100	is	_	_	_	
+14-4	4101-4107	really	_	_	_	
+14-5	4108-4117	beautiful	_	_	_	
+14-6	4117-4118	;	_	_	_	
+14-7	4119-4122	but	_	_	_	
+14-8	4123-4135	descriptions	_	_	_	
+14-9	4136-4139	are	_	_	_	
+14-10	4140-4141	_	_	_	_	
+14-11	4141-4143	so	_	_	_	
+14-12	4143-4144	_	_	_	_	
+14-13	4145-4155	fallacious	_	_	_	
+14-14	4155-4156	,	_	_	_	
+14-15	4159-4162	one	_	_	_	
+14-16	4163-4167	half	_	_	_	
+14-17	4168-4176	despairs	_	_	_	
+14-18	4177-4179	of	_	_	_	
+14-19	4180-4193	communicating	_	_	_	
+14-20	4194-4197	one	_	_	_	
+14-21	4199-4200	'	_	_	_	
+14-22	4202-4203	s	_	_	_	
+14-23	4204-4209	ideas	_	_	_	
+14-24	4210-4212	as	_	_	_	
+14-25	4213-4217	they	_	_	_	
+14-26	4218-4221	are	_	_	_	
+14-27	4221-4222	:	_	_	_	
+14-28	4223-4226	for	_	_	_	
+14-29	4227-4233	either	_	_	_	
+14-30	4236-4247	well-chosen	_	_	_	
+14-31	4248-4253	words	_	_	_	
+14-32	4254-4256	do	_	_	_	
+14-33	4257-4260	not	_	_	_	
+14-34	4261-4268	present	_	_	_	
+14-35	4269-4279	themselves	_	_	_	
+14-36	4279-4280	,	_	_	_	
+14-37	4281-4283	or	_	_	_	
+14-38	4284-4289	being	_	_	_	
+14-39	4290-4301	well-chosen	_	_	_	
+14-40	4302-4306	they	_	_	_	
+14-41	4309-4315	detain	_	_	_	
+14-42	4316-4319	the	_	_	_	
+14-43	4320-4326	reader	_	_	_	
+14-44	4326-4327	,	_	_	_	
+14-45	4328-4331	and	_	_	_	
+14-46	4332-4335	fix	_	_	_	
+14-47	4336-4339	his	_	_	_	
+14-48	4340-4344	mind	_	_	_	
+14-49	4345-4347	on	_	_	_	
+14-50	4348-4349	_	_	_	_	
+14-51	4349-4353	them	_	_	_	
+14-52	4353-4354	_	_	_	_	
+14-53	4354-4355	,	_	_	_	
+14-54	4356-4363	instead	_	_	_	
+14-55	4364-4366	of	_	_	_	
+14-56	4367-4370	the	_	_	_	
+14-57	4371-4377	things	_	_	_	
+14-58	4380-4389	described	_	_	_	
+14-59	4389-4390	.	_	_	_	
+
+#Text=Certain it is that I had formed no adequate notion of the 
+#Text= fine river called the Yonne, with cattle grazing on its fertile banks: 
+#Text= those banks not clothed indeed with our soft verdure, but with royal 
+#Text= purple, proceeding from an autumnal daisy of that colour that enamels 
+#Text= every meadow at this season.
+15-1	4391-4398	Certain	_	_	_	
+15-2	4399-4401	it	_	_	_	
+15-3	4402-4404	is	_	_	_	
+15-4	4405-4409	that	_	_	_	
+15-5	4410-4411	I	_	_	_	
+15-6	4412-4415	had	_	_	_	
+15-7	4416-4422	formed	_	_	_	
+15-8	4423-4425	no	_	_	_	
+15-9	4426-4434	adequate	_	_	_	
+15-10	4435-4441	notion	_	_	_	
+15-11	4442-4444	of	_	_	_	
+15-12	4445-4448	the	_	_	_	
+15-13	4451-4455	fine	_	_	_	
+15-14	4456-4461	river	_	_	_	
+15-15	4462-4468	called	_	_	_	
+15-16	4469-4472	the	_	_	_	
+15-17	4473-4478	Yonne	_	_	_	
+15-18	4478-4479	,	_	_	_	
+15-19	4480-4484	with	_	_	_	
+15-20	4485-4491	cattle	_	_	_	
+15-21	4492-4499	grazing	_	_	_	
+15-22	4500-4502	on	_	_	_	
+15-23	4503-4506	its	_	_	_	
+15-24	4507-4514	fertile	_	_	_	
+15-25	4515-4520	banks	_	_	_	
+15-26	4520-4521	:	_	_	_	
+15-27	4524-4529	those	_	_	_	
+15-28	4530-4535	banks	_	_	_	
+15-29	4536-4539	not	_	_	_	
+15-30	4540-4547	clothed	_	_	_	
+15-31	4548-4554	indeed	_	_	_	
+15-32	4555-4559	with	_	_	_	
+15-33	4560-4563	our	_	_	_	
+15-34	4564-4568	soft	_	_	_	
+15-35	4569-4576	verdure	_	_	_	
+15-36	4576-4577	,	_	_	_	
+15-37	4578-4581	but	_	_	_	
+15-38	4582-4586	with	_	_	_	
+15-39	4587-4592	royal	_	_	_	
+15-40	4595-4601	purple	_	_	_	
+15-41	4601-4602	,	_	_	_	
+15-42	4603-4613	proceeding	_	_	_	
+15-43	4614-4618	from	_	_	_	
+15-44	4619-4621	an	_	_	_	
+15-45	4622-4630	autumnal	_	_	_	
+15-46	4631-4636	daisy	_	_	_	
+15-47	4637-4639	of	_	_	_	
+15-48	4640-4644	that	_	_	_	
+15-49	4645-4651	colour	_	_	_	
+15-50	4652-4656	that	_	_	_	
+15-51	4657-4664	enamels	_	_	_	
+15-52	4667-4672	every	_	_	_	
+15-53	4673-4679	meadow	_	_	_	
+15-54	4680-4682	at	_	_	_	
+15-55	4683-4687	this	_	_	_	
+15-56	4688-4694	season	_	_	_	
+15-57	4694-4695	.	_	_	_	
+
+#Text=Here small enclosures seem unknown to the 
+#Text= inhabitants, who are strewed up and down expansive views of a most 
+#Text= productive country; where vineyards swell upon the rising grounds, and 
+#Text= young wheat ornaments the valleys below: while clusters of aspiring 
+#Text= poplars, or a single walnut-tree of greater size and dignity unite in 
+#Text= attracting attention, and inspiring poetical ideas.
+16-1	4696-4700	Here	_	_	_	
+16-2	4701-4706	small	_	_	_	
+16-3	4707-4717	enclosures	_	_	_	
+16-4	4718-4722	seem	_	_	_	
+16-5	4723-4730	unknown	_	_	_	
+16-6	4731-4733	to	_	_	_	
+16-7	4734-4737	the	_	_	_	
+16-8	4740-4751	inhabitants	_	_	_	
+16-9	4751-4752	,	_	_	_	
+16-10	4753-4756	who	_	_	_	
+16-11	4757-4760	are	_	_	_	
+16-12	4761-4768	strewed	_	_	_	
+16-13	4769-4771	up	_	_	_	
+16-14	4772-4775	and	_	_	_	
+16-15	4776-4780	down	_	_	_	
+16-16	4781-4790	expansive	_	_	_	
+16-17	4791-4796	views	_	_	_	
+16-18	4797-4799	of	_	_	_	
+16-19	4800-4801	a	_	_	_	
+16-20	4802-4806	most	_	_	_	
+16-21	4809-4819	productive	_	_	_	
+16-22	4820-4827	country	_	_	_	
+16-23	4827-4828	;	_	_	_	
+16-24	4829-4834	where	_	_	_	
+16-25	4835-4844	vineyards	_	_	_	
+16-26	4845-4850	swell	_	_	_	
+16-27	4851-4855	upon	_	_	_	
+16-28	4856-4859	the	_	_	_	
+16-29	4860-4866	rising	_	_	_	
+16-30	4867-4874	grounds	_	_	_	
+16-31	4874-4875	,	_	_	_	
+16-32	4876-4879	and	_	_	_	
+16-33	4882-4887	young	_	_	_	
+16-34	4888-4893	wheat	_	_	_	
+16-35	4894-4903	ornaments	_	_	_	
+16-36	4904-4907	the	_	_	_	
+16-37	4908-4915	valleys	_	_	_	
+16-38	4916-4921	below	_	_	_	
+16-39	4921-4922	:	_	_	_	
+16-40	4923-4928	while	_	_	_	
+16-41	4929-4937	clusters	_	_	_	
+16-42	4938-4940	of	_	_	_	
+16-43	4941-4949	aspiring	_	_	_	
+16-44	4952-4959	poplars	_	_	_	
+16-45	4959-4960	,	_	_	_	
+16-46	4961-4963	or	_	_	_	
+16-47	4964-4965	a	_	_	_	
+16-48	4966-4972	single	_	_	_	
+16-49	4973-4984	walnut-tree	_	_	_	
+16-50	4985-4987	of	_	_	_	
+16-51	4988-4995	greater	_	_	_	
+16-52	4996-5000	size	_	_	_	
+16-53	5001-5004	and	_	_	_	
+16-54	5005-5012	dignity	_	_	_	
+16-55	5013-5018	unite	_	_	_	
+16-56	5019-5021	in	_	_	_	
+16-57	5024-5034	attracting	_	_	_	
+16-58	5035-5044	attention	_	_	_	
+16-59	5044-5045	,	_	_	_	
+16-60	5046-5049	and	_	_	_	
+16-61	5050-5059	inspiring	_	_	_	
+16-62	5060-5068	poetical	_	_	_	
+16-63	5069-5074	ideas	_	_	_	
+16-64	5074-5075	.	_	_	_	
+
+#Text=Here is no tedious 
+#Text= uniformity to fatigue the eye, nor rugged asperities to disgust it; but
+#Text=enquiries.
+17-1	5076-5080	Here	_	_	_	
+17-2	5081-5083	is	_	_	_	
+17-3	5084-5086	no	_	_	_	
+17-4	5087-5094	tedious	_	_	_	
+17-5	5097-5107	uniformity	_	_	_	
+17-6	5108-5110	to	_	_	_	
+17-7	5111-5118	fatigue	_	_	_	
+17-8	5119-5122	the	_	_	_	
+17-9	5123-5126	eye	_	_	_	
+17-10	5126-5127	,	_	_	_	
+17-11	5128-5131	nor	_	_	_	
+17-12	5132-5138	rugged	_	_	_	
+17-13	5139-5149	asperities	_	_	_	
+17-14	5150-5152	to	_	_	_	
+17-15	5153-5160	disgust	Taste Word	_	_	
+17-16	5161-5163	it	_	_	_	
+17-17	5163-5164	;	_	_	_	
+17-18	5165-5168	but	_	_	_	
+17-19	5169-5178	enquiries	_	_	_	
+17-20	5178-5179	.	_	_	_	
+
+#Text=L  '  Hotel de la Croix de Malthe affords excellent 
+#Text= accommodations within, and a delightful prospect without.
+18-1	5180-5181	L	_	_	_	
+18-2	5183-5184	'	_	_	_	
+18-3	5186-5191	Hotel	_	_	_	
+18-4	5192-5194	de	_	_	_	
+18-5	5195-5197	la	_	_	_	
+18-6	5198-5203	Croix	_	_	_	
+18-7	5204-5206	de	_	_	_	
+18-8	5207-5213	Malthe	_	_	_	
+18-9	5214-5221	affords	_	_	_	
+18-10	5222-5231	excellent	_	_	_	
+18-11	5234-5248	accommodations	_	_	_	
+18-12	5249-5255	within	_	_	_	
+18-13	5255-5256	,	_	_	_	
+18-14	5257-5260	and	_	_	_	
+18-15	5261-5262	a	_	_	_	
+18-16	5263-5273	delightful	_	_	_	
+18-17	5274-5282	prospect	_	_	_	
+18-18	5283-5290	without	_	_	_	
+18-19	5290-5291	.	_	_	_	
+
+#Text=The Baths too 
+#Text= have attracted my notice much, and will, I hope, repair my strength, so 
+#Text= as to make me no troublesome fellow-traveller.
+19-1	5292-5295	The	_	_	_	
+19-2	5296-5301	Baths	_	_	_	
+19-3	5302-5305	too	_	_	_	
+19-4	5308-5312	have	_	_	_	
+19-5	5313-5322	attracted	_	_	_	
+19-6	5323-5325	my	_	_	_	
+19-7	5326-5332	notice	_	_	_	
+19-8	5333-5337	much	_	_	_	
+19-9	5337-5338	,	_	_	_	
+19-10	5339-5342	and	_	_	_	
+19-11	5343-5347	will	_	_	_	
+19-12	5347-5348	,	_	_	_	
+19-13	5349-5350	I	_	_	_	
+19-14	5351-5355	hope	_	_	_	
+19-15	5355-5356	,	_	_	_	
+19-16	5357-5363	repair	_	_	_	
+19-17	5364-5366	my	_	_	_	
+19-18	5367-5375	strength	_	_	_	
+19-19	5375-5376	,	_	_	_	
+19-20	5377-5379	so	_	_	_	
+19-21	5382-5384	as	_	_	_	
+19-22	5385-5387	to	_	_	_	
+19-23	5388-5392	make	_	_	_	
+19-24	5393-5395	me	_	_	_	
+19-25	5396-5398	no	_	_	_	
+19-26	5399-5410	troublesome	_	_	_	
+19-27	5411-5427	fellow-traveller	_	_	_	
+19-28	5427-5428	.	_	_	_	
+
+#Text=How little do those 
+#Text= ladies consult their own interest, who make impatience of petty 
+#Text= inconveniences their best supplement for conversation!
+20-1	5429-5432	How	_	_	_	
+20-2	5433-5439	little	_	_	_	
+20-3	5440-5442	do	_	_	_	
+20-4	5443-5448	those	_	_	_	
+20-5	5451-5457	ladies	_	_	_	
+20-6	5458-5465	consult	_	_	_	
+20-7	5466-5471	their	_	_	_	
+20-8	5472-5475	own	_	_	_	
+20-9	5476-5484	interest	_	_	_	
+20-10	5484-5485	,	_	_	_	
+20-11	5486-5489	who	_	_	_	
+20-12	5490-5494	make	_	_	_	
+20-13	5495-5505	impatience	_	_	_	
+20-14	5506-5508	of	_	_	_	
+20-15	5509-5514	petty	_	_	_	
+20-16	5517-5531	inconveniences	_	_	_	
+20-17	5532-5537	their	_	_	_	
+20-18	5538-5542	best	_	_	_	
+20-19	5543-5553	supplement	_	_	_	
+20-20	5554-5557	for	_	_	_	
+20-21	5558-5570	conversation	_	_	_	
+20-22	5570-5571	!	_	_	_	
+
+#Text=--fancy themselves 
+#Text= more important as less contented; and imagine all delicacy to consist in 
+#Text= the difficulty of being pleased!
+21-1	5571-5572	-	_	_	_	
+21-2	5572-5573	-	_	_	_	
+21-3	5573-5578	fancy	_	_	_	
+21-4	5579-5589	themselves	_	_	_	
+21-5	5592-5596	more	_	_	_	
+21-6	5597-5606	important	_	_	_	
+21-7	5607-5609	as	_	_	_	
+21-8	5610-5614	less	_	_	_	
+21-9	5615-5624	contented	_	_	_	
+21-10	5624-5625	;	_	_	_	
+21-11	5626-5629	and	_	_	_	
+21-12	5630-5637	imagine	_	_	_	
+21-13	5638-5641	all	_	_	_	
+21-14	5642-5650	delicacy	Taste Word	_	_	
+21-15	5651-5653	to	_	_	_	
+21-16	5654-5661	consist	_	_	_	
+21-17	5662-5664	in	_	_	_	
+21-18	5667-5670	the	_	_	_	
+21-19	5671-5681	difficulty	_	_	_	
+21-20	5682-5684	of	_	_	_	
+21-21	5685-5690	being	_	_	_	
+21-22	5691-5698	pleased	_	_	_	
+21-23	5698-5699	!	_	_	_	
+
+#Text=Surely a dip in this delightful river 
+#Text= will restore my health, and enable me to pass the mountains, of which 
+#Text= our present companions give me a very formidable account.
+22-1	5700-5706	Surely	_	_	_	
+22-2	5707-5708	a	_	_	_	
+22-3	5709-5712	dip	_	_	_	
+22-4	5713-5715	in	_	_	_	
+22-5	5716-5720	this	_	_	_	
+22-6	5721-5731	delightful	_	_	_	
+22-7	5732-5737	river	_	_	_	
+22-8	5740-5744	will	_	_	_	
+22-9	5745-5752	restore	_	_	_	
+22-10	5753-5755	my	_	_	_	
+22-11	5756-5762	health	_	_	_	
+22-12	5762-5763	,	_	_	_	
+22-13	5764-5767	and	_	_	_	
+22-14	5768-5774	enable	_	_	_	
+22-15	5775-5777	me	_	_	_	
+22-16	5778-5780	to	_	_	_	
+22-17	5781-5785	pass	_	_	_	
+22-18	5786-5789	the	_	_	_	
+22-19	5790-5799	mountains	_	_	_	
+22-20	5799-5800	,	_	_	_	
+22-21	5801-5803	of	_	_	_	
+22-22	5804-5809	which	_	_	_	
+22-23	5812-5815	our	_	_	_	
+22-24	5816-5823	present	_	_	_	
+22-25	5824-5834	companions	_	_	_	
+22-26	5835-5839	give	_	_	_	
+22-27	5840-5842	me	_	_	_	
+22-28	5843-5844	a	_	_	_	
+22-29	5845-5849	very	_	_	_	
+22-30	5850-5860	formidable	_	_	_	
+22-31	5861-5868	account	_	_	_	
+22-32	5868-5869	.	_	_	_	
+
+#Text=The manufacturers here, at Lyons, deserve a volume, and I shall 
+#Text= scarcely give them a page; though nothing I ever saw at London or Paris 
+#Text= can compare with the beauty of these velvets, or with the art necessary 
+#Text= to produce such an effect, while the wrong side is smooth, not struck 
+#Text= through.
+23-1	5875-5878	The	_	_	_	
+23-2	5879-5892	manufacturers	_	_	_	
+23-3	5893-5897	here	_	_	_	
+23-4	5897-5898	,	_	_	_	
+23-5	5899-5901	at	_	_	_	
+23-6	5902-5907	Lyons	_	_	_	
+23-7	5907-5908	,	_	_	_	
+23-8	5909-5916	deserve	_	_	_	
+23-9	5917-5918	a	_	_	_	
+23-10	5919-5925	volume	_	_	_	
+23-11	5925-5926	,	_	_	_	
+23-12	5927-5930	and	_	_	_	
+23-13	5931-5932	I	_	_	_	
+23-14	5933-5938	shall	_	_	_	
+23-15	5941-5949	scarcely	_	_	_	
+23-16	5950-5954	give	_	_	_	
+23-17	5955-5959	them	_	_	_	
+23-18	5960-5961	a	_	_	_	
+23-19	5962-5966	page	_	_	_	
+23-20	5966-5967	;	_	_	_	
+23-21	5968-5974	though	_	_	_	
+23-22	5975-5982	nothing	_	_	_	
+23-23	5983-5984	I	_	_	_	
+23-24	5985-5989	ever	_	_	_	
+23-25	5990-5993	saw	_	_	_	
+23-26	5994-5996	at	_	_	_	
+23-27	5997-6003	London	_	_	_	
+23-28	6004-6006	or	_	_	_	
+23-29	6007-6012	Paris	_	_	_	
+23-30	6015-6018	can	_	_	_	
+23-31	6019-6026	compare	_	_	_	
+23-32	6027-6031	with	_	_	_	
+23-33	6032-6035	the	_	_	_	
+23-34	6036-6042	beauty	_	_	_	
+23-35	6043-6045	of	_	_	_	
+23-36	6046-6051	these	_	_	_	
+23-37	6052-6059	velvets	_	_	_	
+23-38	6059-6060	,	_	_	_	
+23-39	6061-6063	or	_	_	_	
+23-40	6064-6068	with	_	_	_	
+23-41	6069-6072	the	_	_	_	
+23-42	6073-6076	art	_	_	_	
+23-43	6077-6086	necessary	_	_	_	
+23-44	6089-6091	to	_	_	_	
+23-45	6092-6099	produce	_	_	_	
+23-46	6100-6104	such	_	_	_	
+23-47	6105-6107	an	_	_	_	
+23-48	6108-6114	effect	_	_	_	
+23-49	6114-6115	,	_	_	_	
+23-50	6116-6121	while	_	_	_	
+23-51	6122-6125	the	_	_	_	
+23-52	6126-6131	wrong	_	_	_	
+23-53	6132-6136	side	_	_	_	
+23-54	6137-6139	is	_	_	_	
+23-55	6140-6146	smooth	_	_	_	
+23-56	6146-6147	,	_	_	_	
+23-57	6148-6151	not	_	_	_	
+23-58	6152-6158	struck	_	_	_	
+23-59	6161-6168	through	_	_	_	
+23-60	6168-6169	.	_	_	_	
+
+#Text=The hangings for the Empress of Russia  '  s bed-chamber are 
+#Text= wonderfully executed; the design elegant, the colouring brilliant: A 
+#Text= screen too for the Grand Signor is finely finished here; he would, I 
+#Text= trust, have been contented with magnificence in the choice of his 
+#Text= furniture, but Mr.
+24-1	6170-6173	The	_	_	_	
+24-2	6174-6182	hangings	_	_	_	
+24-3	6183-6186	for	_	_	_	
+24-4	6187-6190	the	_	_	_	
+24-5	6191-6198	Empress	_	_	_	
+24-6	6199-6201	of	_	_	_	
+24-7	6202-6208	Russia	_	_	_	
+24-8	6210-6211	'	_	_	_	
+24-9	6213-6214	s	_	_	_	
+24-10	6215-6226	bed-chamber	_	_	_	
+24-11	6227-6230	are	_	_	_	
+24-12	6233-6244	wonderfully	_	_	_	
+24-13	6245-6253	executed	_	_	_	
+24-14	6253-6254	;	_	_	_	
+24-15	6255-6258	the	_	_	_	
+24-16	6259-6265	design	_	_	_	
+24-17	6266-6273	elegant	_	_	_	
+24-18	6273-6274	,	_	_	_	
+24-19	6275-6278	the	_	_	_	
+24-20	6279-6288	colouring	_	_	_	
+24-21	6289-6298	brilliant	_	_	_	
+24-22	6298-6299	:	_	_	_	
+24-23	6300-6301	A	_	_	_	
+24-24	6304-6310	screen	_	_	_	
+24-25	6311-6314	too	_	_	_	
+24-26	6315-6318	for	_	_	_	
+24-27	6319-6322	the	_	_	_	
+24-28	6323-6328	Grand	_	_	_	
+24-29	6329-6335	Signor	_	_	_	
+24-30	6336-6338	is	_	_	_	
+24-31	6339-6345	finely	_	_	_	
+24-32	6346-6354	finished	_	_	_	
+24-33	6355-6359	here	_	_	_	
+24-34	6359-6360	;	_	_	_	
+24-35	6361-6363	he	_	_	_	
+24-36	6364-6369	would	_	_	_	
+24-37	6369-6370	,	_	_	_	
+24-38	6371-6372	I	_	_	_	
+24-39	6375-6380	trust	_	_	_	
+24-40	6380-6381	,	_	_	_	
+24-41	6382-6386	have	_	_	_	
+24-42	6387-6391	been	_	_	_	
+24-43	6392-6401	contented	_	_	_	
+24-44	6402-6406	with	_	_	_	
+24-45	6407-6419	magnificence	_	_	_	
+24-46	6420-6422	in	_	_	_	
+24-47	6423-6426	the	_	_	_	
+24-48	6427-6433	choice	_	_	_	
+24-49	6434-6436	of	_	_	_	
+24-50	6437-6440	his	_	_	_	
+24-51	6443-6452	furniture	_	_	_	
+24-52	6452-6453	,	_	_	_	
+24-53	6454-6457	but	_	_	_	
+24-54	6458-6460	Mr	Taster[8]	_	_	
+24-55	6460-6461	.	Taster[8]	_	_	
+
+#Text=Pernon has added taste to it, and contrived in
+#Text=appearance to sink an urn or vase of crimson velvet in a back ground of 
+#Text= gold tissue with surprising ingenuity.
+25-1	6462-6468	Pernon	Taster[8]	_	_	
+25-2	6469-6472	has	_	_	_	
+25-3	6473-6478	added	_	_	_	
+25-4	6479-6484	taste	Taste Word	*	24-54[8_0]	
+25-5	6485-6487	to	_	_	_	
+25-6	6488-6490	it	_	_	_	
+25-7	6490-6491	,	_	_	_	
+25-8	6492-6495	and	_	_	_	
+25-9	6496-6505	contrived	_	_	_	
+25-10	6506-6508	in	_	_	_	
+25-11	6509-6519	appearance	_	_	_	
+25-12	6520-6522	to	_	_	_	
+25-13	6523-6527	sink	_	_	_	
+25-14	6528-6530	an	_	_	_	
+25-15	6531-6534	urn	_	_	_	
+25-16	6535-6537	or	_	_	_	
+25-17	6538-6542	vase	_	_	_	
+25-18	6543-6545	of	_	_	_	
+25-19	6546-6553	crimson	_	_	_	
+25-20	6554-6560	velvet	_	_	_	
+25-21	6561-6563	in	_	_	_	
+25-22	6564-6565	a	_	_	_	
+25-23	6566-6570	back	_	_	_	
+25-24	6571-6577	ground	_	_	_	
+25-25	6578-6580	of	_	_	_	
+25-26	6583-6587	gold	_	_	_	
+25-27	6588-6594	tissue	_	_	_	
+25-28	6595-6599	with	_	_	_	
+25-29	6600-6610	surprising	_	_	_	
+25-30	6611-6620	ingenuity	_	_	_	
+25-31	6620-6621	.	_	_	_	
+
+#Text=It is observable, that the further people advance in elegance, the less 
+#Text= they value splendour; distinction being at last the positive thing which 
+#Text= mortals elevated above competency naturally pant after.
+26-1	6627-6629	It	_	_	_	
+26-2	6630-6632	is	_	_	_	
+26-3	6633-6643	observable	_	_	_	
+26-4	6643-6644	,	_	_	_	
+26-5	6645-6649	that	_	_	_	
+26-6	6650-6653	the	_	_	_	
+26-7	6654-6661	further	_	_	_	
+26-8	6662-6668	people	_	_	_	
+26-9	6669-6676	advance	_	_	_	
+26-10	6677-6679	in	_	_	_	
+26-11	6680-6688	elegance	_	_	_	
+26-12	6688-6689	,	_	_	_	
+26-13	6690-6693	the	_	_	_	
+26-14	6694-6698	less	_	_	_	
+26-15	6701-6705	they	_	_	_	
+26-16	6706-6711	value	_	_	_	
+26-17	6712-6721	splendour	_	_	_	
+26-18	6721-6722	;	_	_	_	
+26-19	6723-6734	distinction	_	_	_	
+26-20	6735-6740	being	_	_	_	
+26-21	6741-6743	at	_	_	_	
+26-22	6744-6748	last	_	_	_	
+26-23	6749-6752	the	_	_	_	
+26-24	6753-6761	positive	_	_	_	
+26-25	6762-6767	thing	_	_	_	
+26-26	6768-6773	which	_	_	_	
+26-27	6776-6783	mortals	_	_	_	
+26-28	6784-6792	elevated	_	_	_	
+26-29	6793-6798	above	_	_	_	
+26-30	6799-6809	competency	_	_	_	
+26-31	6810-6819	naturally	_	_	_	
+26-32	6820-6824	pant	_	_	_	
+26-33	6825-6830	after	_	_	_	
+26-34	6830-6831	.	_	_	_	
+
+#Text=Necessity must 
+#Text= first be supplied we know, convenience then requires to be contented; 
+#Text= but as soon as men can find means after that period to make themselves 
+#Text= eminent for taste, they learn to despise those paltry distinctions 
+#Text= which riches alone can bestow.
+27-1	6832-6841	Necessity	_	_	_	
+27-2	6842-6846	must	_	_	_	
+27-3	6849-6854	first	_	_	_	
+27-4	6855-6857	be	_	_	_	
+27-5	6858-6866	supplied	_	_	_	
+27-6	6867-6869	we	_	_	_	
+27-7	6870-6874	know	_	_	_	
+27-8	6874-6875	,	_	_	_	
+27-9	6876-6887	convenience	_	_	_	
+27-10	6888-6892	then	_	_	_	
+27-11	6893-6901	requires	_	_	_	
+27-12	6902-6904	to	_	_	_	
+27-13	6905-6907	be	_	_	_	
+27-14	6908-6917	contented	_	_	_	
+27-15	6917-6918	;	_	_	_	
+27-16	6921-6924	but	_	_	_	
+27-17	6925-6927	as	_	_	_	
+27-18	6928-6932	soon	_	_	_	
+27-19	6933-6935	as	_	_	_	
+27-20	6936-6939	men	_	_	_	
+27-21	6940-6943	can	_	_	_	
+27-22	6944-6948	find	_	_	_	
+27-23	6949-6954	means	_	_	_	
+27-24	6955-6960	after	_	_	_	
+27-25	6961-6965	that	_	_	_	
+27-26	6966-6972	period	_	_	_	
+27-27	6973-6975	to	_	_	_	
+27-28	6976-6980	make	_	_	_	
+27-29	6981-6991	themselves	_	_	_	
+27-30	6994-7001	eminent	_	_	_	
+27-31	7002-7005	for	_	_	_	
+27-32	7006-7011	taste	Taste Word	_	_	
+27-33	7011-7012	,	_	_	_	
+27-34	7013-7017	they	_	_	_	
+27-35	7018-7023	learn	_	_	_	
+27-36	7024-7026	to	_	_	_	
+27-37	7027-7034	despise	_	_	_	
+27-38	7035-7040	those	_	_	_	
+27-39	7041-7047	paltry	_	_	_	
+27-40	7048-7060	distinctions	_	_	_	
+27-41	7063-7068	which	_	_	_	
+27-42	7069-7075	riches	_	_	_	
+27-43	7076-7081	alone	_	_	_	
+27-44	7082-7085	can	_	_	_	
+27-45	7086-7092	bestow	_	_	_	
+27-46	7092-7093	.	_	_	_	
+
+#Text=Talking of Taste leads one to speak of gardening; and having passed 
+#Text= yesterday between two villas belonging to some of the most opulent 
+#Text= merchants of Lyons, I gained an opportunity of observing the disposal of 
+#Text= those grounds that are appropriated to pleasure; where the shade of 
+#Text= straight long-drawn alleys, formed by a close junction of ancient elm 
+#Text= trees, kept a dazzling sun from incommoding our sight, and rendering the 
+#Text= turf so mossy and comfortable to one  '  s tread, that my heart never felt 
+#Text= one longing wish for the beauties of a lawn and shrubbery--though I 
+#Text= should certainly think such a manner of laying out a Lancashire
+#Text=have been over praised; their pale colour allured me but little in the 
+#Text= first place, nor is their flavour equal to that of trout found in 
+#Text= running water.
+28-1	7099-7106	Talking	_	_	_	
+28-2	7107-7109	of	_	_	_	
+28-3	7110-7115	Taste	Taste Word	_	_	
+28-4	7116-7121	leads	_	_	_	
+28-5	7122-7125	one	_	_	_	
+28-6	7126-7128	to	_	_	_	
+28-7	7129-7134	speak	_	_	_	
+28-8	7135-7137	of	_	_	_	
+28-9	7138-7147	gardening	_	_	_	
+28-10	7147-7148	;	_	_	_	
+28-11	7149-7152	and	_	_	_	
+28-12	7153-7159	having	_	_	_	
+28-13	7160-7166	passed	_	_	_	
+28-14	7169-7178	yesterday	_	_	_	
+28-15	7179-7186	between	_	_	_	
+28-16	7187-7190	two	_	_	_	
+28-17	7191-7197	villas	_	_	_	
+28-18	7198-7207	belonging	_	_	_	
+28-19	7208-7210	to	_	_	_	
+28-20	7211-7215	some	_	_	_	
+28-21	7216-7218	of	_	_	_	
+28-22	7219-7222	the	_	_	_	
+28-23	7223-7227	most	_	_	_	
+28-24	7228-7235	opulent	_	_	_	
+28-25	7238-7247	merchants	_	_	_	
+28-26	7248-7250	of	_	_	_	
+28-27	7251-7256	Lyons	_	_	_	
+28-28	7256-7257	,	_	_	_	
+28-29	7258-7259	I	_	_	_	
+28-30	7260-7266	gained	_	_	_	
+28-31	7267-7269	an	_	_	_	
+28-32	7270-7281	opportunity	_	_	_	
+28-33	7282-7284	of	_	_	_	
+28-34	7285-7294	observing	_	_	_	
+28-35	7295-7298	the	_	_	_	
+28-36	7299-7307	disposal	_	_	_	
+28-37	7308-7310	of	_	_	_	
+28-38	7313-7318	those	_	_	_	
+28-39	7319-7326	grounds	_	_	_	
+28-40	7327-7331	that	_	_	_	
+28-41	7332-7335	are	_	_	_	
+28-42	7336-7348	appropriated	_	_	_	
+28-43	7349-7351	to	_	_	_	
+28-44	7352-7360	pleasure	_	_	_	
+28-45	7360-7361	;	_	_	_	
+28-46	7362-7367	where	_	_	_	
+28-47	7368-7371	the	_	_	_	
+28-48	7372-7377	shade	_	_	_	
+28-49	7378-7380	of	_	_	_	
+28-50	7383-7391	straight	_	_	_	
+28-51	7392-7402	long-drawn	_	_	_	
+28-52	7403-7409	alleys	_	_	_	
+28-53	7409-7410	,	_	_	_	
+28-54	7411-7417	formed	_	_	_	
+28-55	7418-7420	by	_	_	_	
+28-56	7421-7422	a	_	_	_	
+28-57	7423-7428	close	_	_	_	
+28-58	7429-7437	junction	_	_	_	
+28-59	7438-7440	of	_	_	_	
+28-60	7441-7448	ancient	_	_	_	
+28-61	7449-7452	elm	_	_	_	
+28-62	7455-7460	trees	_	_	_	
+28-63	7460-7461	,	_	_	_	
+28-64	7462-7466	kept	_	_	_	
+28-65	7467-7468	a	_	_	_	
+28-66	7469-7477	dazzling	_	_	_	
+28-67	7478-7481	sun	_	_	_	
+28-68	7482-7486	from	_	_	_	
+28-69	7487-7498	incommoding	_	_	_	
+28-70	7499-7502	our	_	_	_	
+28-71	7503-7508	sight	_	_	_	
+28-72	7508-7509	,	_	_	_	
+28-73	7510-7513	and	_	_	_	
+28-74	7514-7523	rendering	_	_	_	
+28-75	7524-7527	the	_	_	_	
+28-76	7530-7534	turf	_	_	_	
+28-77	7535-7537	so	_	_	_	
+28-78	7538-7543	mossy	_	_	_	
+28-79	7544-7547	and	_	_	_	
+28-80	7548-7559	comfortable	_	_	_	
+28-81	7560-7562	to	_	_	_	
+28-82	7563-7566	one	_	_	_	
+28-83	7568-7569	'	_	_	_	
+28-84	7571-7572	s	_	_	_	
+28-85	7573-7578	tread	_	_	_	
+28-86	7578-7579	,	_	_	_	
+28-87	7580-7584	that	_	_	_	
+28-88	7585-7587	my	_	_	_	
+28-89	7588-7593	heart	_	_	_	
+28-90	7594-7599	never	_	_	_	
+28-91	7600-7604	felt	_	_	_	
+28-92	7607-7610	one	_	_	_	
+28-93	7611-7618	longing	_	_	_	
+28-94	7619-7623	wish	_	_	_	
+28-95	7624-7627	for	_	_	_	
+28-96	7628-7631	the	_	_	_	
+28-97	7632-7640	beauties	_	_	_	
+28-98	7641-7643	of	_	_	_	
+28-99	7644-7645	a	_	_	_	
+28-100	7646-7650	lawn	_	_	_	
+28-101	7651-7654	and	_	_	_	
+28-102	7655-7664	shrubbery	_	_	_	
+28-103	7664-7665	-	_	_	_	
+28-104	7665-7666	-	_	_	_	
+28-105	7666-7672	though	_	_	_	
+28-106	7673-7674	I	_	_	_	
+28-107	7677-7683	should	_	_	_	
+28-108	7684-7693	certainly	_	_	_	
+28-109	7694-7699	think	_	_	_	
+28-110	7700-7704	such	_	_	_	
+28-111	7705-7706	a	_	_	_	
+28-112	7707-7713	manner	_	_	_	
+28-113	7714-7716	of	_	_	_	
+28-114	7717-7723	laying	_	_	_	
+28-115	7724-7727	out	_	_	_	
+28-116	7728-7729	a	_	_	_	
+28-117	7730-7740	Lancashire	_	_	_	
+28-118	7741-7745	have	_	_	_	
+28-119	7746-7750	been	_	_	_	
+28-120	7751-7755	over	_	_	_	
+28-121	7756-7763	praised	_	_	_	
+28-122	7763-7764	;	_	_	_	
+28-123	7765-7770	their	_	_	_	
+28-124	7771-7775	pale	_	_	_	
+28-125	7776-7782	colour	_	_	_	
+28-126	7783-7790	allured	_	_	_	
+28-127	7791-7793	me	_	_	_	
+28-128	7794-7797	but	_	_	_	
+28-129	7798-7804	little	_	_	_	
+28-130	7805-7807	in	_	_	_	
+28-131	7808-7811	the	_	_	_	
+28-132	7814-7819	first	_	_	_	
+28-133	7820-7825	place	_	_	_	
+28-134	7825-7826	,	_	_	_	
+28-135	7827-7830	nor	_	_	_	
+28-136	7831-7833	is	_	_	_	
+28-137	7834-7839	their	_	_	_	
+28-138	7840-7847	flavour	Taste Word	*	28-139[9_0]	
+28-139	7848-7853	equal	Evoked Taste[9]	_	_	
+28-140	7854-7856	to	Evoked Taste[9]	_	_	
+28-141	7857-7861	that	Evoked Taste[9]	_	_	
+28-142	7862-7864	of	Evoked Taste[9]	_	_	
+28-143	7865-7870	trout	Evoked Taste[9]	_	_	
+28-144	7871-7876	found	Evoked Taste[9]	_	_	
+28-145	7877-7879	in	Evoked Taste[9]	_	_	
+28-146	7882-7889	running	Evoked Taste[9]	_	_	
+28-147	7890-7895	water	Evoked Taste[9]	_	_	
+28-148	7895-7896	.	_	_	_	
+
+#Text=Going down the Italian side of the Alps is, after all, an 
+#Text= astonishing journey; and affords the most magnificent scenery in nature, 
+#Text= which varying at every step, gives new impression to the mind each 
+#Text= moment of one  '  s passage; while the portion of terror excited either by 
+#Text= real or fancied dangers on the way, is just sufficient to mingle with 
+#Text= the pleasure, and make one feel the full effect of sublimity.
+29-1	7897-7902	Going	_	_	_	
+29-2	7903-7907	down	_	_	_	
+29-3	7908-7911	the	_	_	_	
+29-4	7912-7919	Italian	_	_	_	
+29-5	7920-7924	side	_	_	_	
+29-6	7925-7927	of	_	_	_	
+29-7	7928-7931	the	_	_	_	
+29-8	7932-7936	Alps	_	_	_	
+29-9	7937-7939	is	_	_	_	
+29-10	7939-7940	,	_	_	_	
+29-11	7941-7946	after	_	_	_	
+29-12	7947-7950	all	_	_	_	
+29-13	7950-7951	,	_	_	_	
+29-14	7952-7954	an	_	_	_	
+29-15	7957-7968	astonishing	_	_	_	
+29-16	7969-7976	journey	_	_	_	
+29-17	7976-7977	;	_	_	_	
+29-18	7978-7981	and	_	_	_	
+29-19	7982-7989	affords	_	_	_	
+29-20	7990-7993	the	_	_	_	
+29-21	7994-7998	most	_	_	_	
+29-22	7999-8010	magnificent	_	_	_	
+29-23	8011-8018	scenery	_	_	_	
+29-24	8019-8021	in	_	_	_	
+29-25	8022-8028	nature	_	_	_	
+29-26	8028-8029	,	_	_	_	
+29-27	8032-8037	which	_	_	_	
+29-28	8038-8045	varying	_	_	_	
+29-29	8046-8048	at	_	_	_	
+29-30	8049-8054	every	_	_	_	
+29-31	8055-8059	step	_	_	_	
+29-32	8059-8060	,	_	_	_	
+29-33	8061-8066	gives	_	_	_	
+29-34	8067-8070	new	_	_	_	
+29-35	8071-8081	impression	_	_	_	
+29-36	8082-8084	to	_	_	_	
+29-37	8085-8088	the	_	_	_	
+29-38	8089-8093	mind	_	_	_	
+29-39	8094-8098	each	_	_	_	
+29-40	8101-8107	moment	_	_	_	
+29-41	8108-8110	of	_	_	_	
+29-42	8111-8114	one	_	_	_	
+29-43	8116-8117	'	_	_	_	
+29-44	8119-8120	s	_	_	_	
+29-45	8121-8128	passage	_	_	_	
+29-46	8128-8129	;	_	_	_	
+29-47	8130-8135	while	_	_	_	
+29-48	8136-8139	the	_	_	_	
+29-49	8140-8147	portion	_	_	_	
+29-50	8148-8150	of	_	_	_	
+29-51	8151-8157	terror	_	_	_	
+29-52	8158-8165	excited	_	_	_	
+29-53	8166-8172	either	_	_	_	
+29-54	8173-8175	by	_	_	_	
+29-55	8178-8182	real	_	_	_	
+29-56	8183-8185	or	_	_	_	
+29-57	8186-8193	fancied	_	_	_	
+29-58	8194-8201	dangers	_	_	_	
+29-59	8202-8204	on	_	_	_	
+29-60	8205-8208	the	_	_	_	
+29-61	8209-8212	way	_	_	_	
+29-62	8212-8213	,	_	_	_	
+29-63	8214-8216	is	_	_	_	
+29-64	8217-8221	just	_	_	_	
+29-65	8222-8232	sufficient	_	_	_	
+29-66	8233-8235	to	_	_	_	
+29-67	8236-8242	mingle	_	_	_	
+29-68	8243-8247	with	_	_	_	
+29-69	8250-8253	the	_	_	_	
+29-70	8254-8262	pleasure	_	_	_	
+29-71	8262-8263	,	_	_	_	
+29-72	8264-8267	and	_	_	_	
+29-73	8268-8272	make	_	_	_	
+29-74	8273-8276	one	_	_	_	
+29-75	8277-8281	feel	_	_	_	
+29-76	8282-8285	the	_	_	_	
+29-77	8286-8290	full	_	_	_	
+29-78	8291-8297	effect	_	_	_	
+29-79	8298-8300	of	_	_	_	
+29-80	8301-8310	sublimity	_	_	_	
+29-81	8310-8311	.	_	_	_	
+
+#Text=To the 
+#Text= chairmen who carry one though, nothing can be new; it is observable that 
+#Text= the glories of these objects have never faded--I heard them speak to 
+#Text= each other of their beauties, and the change of light since they had 
+#Text= passed by last time, while a fellow who spoke English as well as a 
+#Text= native told us, that having lived in a gentleman  '  s service twenty years 
+#Text= between London and Dublin, he at length begged his discharge, chusing to 
+#Text= retire and finish his days a peasant upon these mountains, where he 
+#Text= first opened his eyes upon scenes that made all other views of nature 
+#Text= insipid to his taste.
+30-1	8312-8314	To	_	_	_	
+30-2	8315-8318	the	Taster[10]	_	_	
+30-3	8321-8329	chairmen	Taster[10]	_	_	
+30-4	8330-8333	who	_	_	_	
+30-5	8334-8339	carry	_	_	_	
+30-6	8340-8343	one	_	_	_	
+30-7	8344-8350	though	_	_	_	
+30-8	8350-8351	,	_	_	_	
+30-9	8352-8359	nothing	_	_	_	
+30-10	8360-8363	can	_	_	_	
+30-11	8364-8366	be	_	_	_	
+30-12	8367-8370	new	_	_	_	
+30-13	8370-8371	;	_	_	_	
+30-14	8372-8374	it	_	_	_	
+30-15	8375-8377	is	_	_	_	
+30-16	8378-8388	observable	_	_	_	
+30-17	8389-8393	that	_	_	_	
+30-18	8396-8399	the	_	_	_	
+30-19	8400-8407	glories	_	_	_	
+30-20	8408-8410	of	_	_	_	
+30-21	8411-8416	these	_	_	_	
+30-22	8417-8424	objects	_	_	_	
+30-23	8425-8429	have	_	_	_	
+30-24	8430-8435	never	_	_	_	
+30-25	8436-8441	faded	_	_	_	
+30-26	8441-8442	-	_	_	_	
+30-27	8442-8443	-	_	_	_	
+30-28	8443-8444	I	_	_	_	
+30-29	8445-8450	heard	_	_	_	
+30-30	8451-8455	them	_	_	_	
+30-31	8456-8461	speak	_	_	_	
+30-32	8462-8464	to	_	_	_	
+30-33	8467-8471	each	_	_	_	
+30-34	8472-8477	other	_	_	_	
+30-35	8478-8480	of	_	_	_	
+30-36	8481-8486	their	_	_	_	
+30-37	8487-8495	beauties	_	_	_	
+30-38	8495-8496	,	_	_	_	
+30-39	8497-8500	and	_	_	_	
+30-40	8501-8504	the	_	_	_	
+30-41	8505-8511	change	_	_	_	
+30-42	8512-8514	of	_	_	_	
+30-43	8515-8520	light	_	_	_	
+30-44	8521-8526	since	_	_	_	
+30-45	8527-8531	they	_	_	_	
+30-46	8532-8535	had	_	_	_	
+30-47	8538-8544	passed	_	_	_	
+30-48	8545-8547	by	_	_	_	
+30-49	8548-8552	last	_	_	_	
+30-50	8553-8557	time	_	_	_	
+30-51	8557-8558	,	_	_	_	
+30-52	8559-8564	while	_	_	_	
+30-53	8565-8566	a	_	_	_	
+30-54	8567-8573	fellow	_	_	_	
+30-55	8574-8577	who	_	_	_	
+30-56	8578-8583	spoke	_	_	_	
+30-57	8584-8591	English	_	_	_	
+30-58	8592-8594	as	_	_	_	
+30-59	8595-8599	well	_	_	_	
+30-60	8600-8602	as	_	_	_	
+30-61	8603-8604	a	_	_	_	
+30-62	8607-8613	native	_	_	_	
+30-63	8614-8618	told	_	_	_	
+30-64	8619-8621	us	_	_	_	
+30-65	8621-8622	,	_	_	_	
+30-66	8623-8627	that	_	_	_	
+30-67	8628-8634	having	_	_	_	
+30-68	8635-8640	lived	_	_	_	
+30-69	8641-8643	in	_	_	_	
+30-70	8644-8645	a	_	_	_	
+30-71	8646-8655	gentleman	_	_	_	
+30-72	8657-8658	'	_	_	_	
+30-73	8660-8661	s	_	_	_	
+30-74	8662-8669	service	_	_	_	
+30-75	8670-8676	twenty	_	_	_	
+30-76	8677-8682	years	_	_	_	
+30-77	8685-8692	between	_	_	_	
+30-78	8693-8699	London	_	_	_	
+30-79	8700-8703	and	_	_	_	
+30-80	8704-8710	Dublin	_	_	_	
+30-81	8710-8711	,	_	_	_	
+30-82	8712-8714	he	_	_	_	
+30-83	8715-8717	at	_	_	_	
+30-84	8718-8724	length	_	_	_	
+30-85	8725-8731	begged	_	_	_	
+30-86	8732-8735	his	_	_	_	
+30-87	8736-8745	discharge	_	_	_	
+30-88	8745-8746	,	_	_	_	
+30-89	8747-8754	chusing	_	_	_	
+30-90	8755-8757	to	_	_	_	
+30-91	8760-8766	retire	_	_	_	
+30-92	8767-8770	and	_	_	_	
+30-93	8771-8777	finish	_	_	_	
+30-94	8778-8781	his	_	_	_	
+30-95	8782-8786	days	_	_	_	
+30-96	8787-8788	a	_	_	_	
+30-97	8789-8796	peasant	_	_	_	
+30-98	8797-8801	upon	_	_	_	
+30-99	8802-8807	these	_	_	_	
+30-100	8808-8817	mountains	_	_	_	
+30-101	8817-8818	,	_	_	_	
+30-102	8819-8824	where	_	_	_	
+30-103	8825-8827	he	_	_	_	
+30-104	8830-8835	first	_	_	_	
+30-105	8836-8842	opened	_	_	_	
+30-106	8843-8846	his	_	_	_	
+30-107	8847-8851	eyes	_	_	_	
+30-108	8852-8856	upon	_	_	_	
+30-109	8857-8863	scenes	_	_	_	
+30-110	8864-8868	that	_	_	_	
+30-111	8869-8873	made	_	_	_	
+30-112	8874-8877	all	_	_	_	
+30-113	8878-8883	other	_	_	_	
+30-114	8884-8889	views	_	_	_	
+30-115	8890-8892	of	_	_	_	
+30-116	8893-8899	nature	_	_	_	
+30-117	8902-8909	insipid	Taste Word[11]|Quality[12]	*	30-117[12_11]	
+30-118	8910-8912	to	_	_	_	
+30-119	8913-8916	his	Taster	anaphorical	30-2[10_0]	
+30-120	8917-8922	taste	Taste Word	*|*	30-117[12_0]|30-119	
+30-121	8922-8923	.	_	_	_	
+
+#Text=If impressions of beauty remain, however, those of danger die away by 
+#Text= frequent reiteration; the men who carried me seemed amazed that I should
+#Text=stream is directed, that _ought_ to carry off all nuisances, which here 
+#Text= have no apology from want of any convenience purchasable by money; and 
+#Text= which must for that reason be the choice of inhabitants, who would 
+#Text= perhaps be too happy, had they a natural taste for that neatness which 
+#Text= might here be enjoyed in its purity.
+31-1	8929-8931	If	_	_	_	
+31-2	8932-8943	impressions	_	_	_	
+31-3	8944-8946	of	_	_	_	
+31-4	8947-8953	beauty	_	_	_	
+31-5	8954-8960	remain	_	_	_	
+31-6	8960-8961	,	_	_	_	
+31-7	8962-8969	however	_	_	_	
+31-8	8969-8970	,	_	_	_	
+31-9	8971-8976	those	_	_	_	
+31-10	8977-8979	of	_	_	_	
+31-11	8980-8986	danger	_	_	_	
+31-12	8987-8990	die	_	_	_	
+31-13	8991-8995	away	_	_	_	
+31-14	8996-8998	by	_	_	_	
+31-15	9001-9009	frequent	_	_	_	
+31-16	9010-9021	reiteration	_	_	_	
+31-17	9021-9022	;	_	_	_	
+31-18	9023-9026	the	_	_	_	
+31-19	9027-9030	men	_	_	_	
+31-20	9031-9034	who	_	_	_	
+31-21	9035-9042	carried	_	_	_	
+31-22	9043-9045	me	_	_	_	
+31-23	9046-9052	seemed	_	_	_	
+31-24	9053-9059	amazed	_	_	_	
+31-25	9060-9064	that	_	_	_	
+31-26	9065-9066	I	_	_	_	
+31-27	9067-9073	should	_	_	_	
+31-28	9074-9080	stream	_	_	_	
+31-29	9081-9083	is	_	_	_	
+31-30	9084-9092	directed	_	_	_	
+31-31	9092-9093	,	_	_	_	
+31-32	9094-9098	that	_	_	_	
+31-33	9099-9100	_	_	_	_	
+31-34	9100-9105	ought	_	_	_	
+31-35	9105-9106	_	_	_	_	
+31-36	9107-9109	to	_	_	_	
+31-37	9110-9115	carry	_	_	_	
+31-38	9116-9119	off	_	_	_	
+31-39	9120-9123	all	_	_	_	
+31-40	9124-9133	nuisances	_	_	_	
+31-41	9133-9134	,	_	_	_	
+31-42	9135-9140	which	_	_	_	
+31-43	9141-9145	here	_	_	_	
+31-44	9148-9152	have	_	_	_	
+31-45	9153-9155	no	_	_	_	
+31-46	9156-9163	apology	_	_	_	
+31-47	9164-9168	from	_	_	_	
+31-48	9169-9173	want	_	_	_	
+31-49	9174-9176	of	_	_	_	
+31-50	9177-9180	any	_	_	_	
+31-51	9181-9192	convenience	_	_	_	
+31-52	9193-9204	purchasable	_	_	_	
+31-53	9205-9207	by	_	_	_	
+31-54	9208-9213	money	_	_	_	
+31-55	9213-9214	;	_	_	_	
+31-56	9215-9218	and	_	_	_	
+31-57	9221-9226	which	_	_	_	
+31-58	9227-9231	must	_	_	_	
+31-59	9232-9235	for	_	_	_	
+31-60	9236-9240	that	_	_	_	
+31-61	9241-9247	reason	_	_	_	
+31-62	9248-9250	be	_	_	_	
+31-63	9251-9254	the	_	_	_	
+31-64	9255-9261	choice	_	_	_	
+31-65	9262-9264	of	_	_	_	
+31-66	9265-9276	inhabitants	Taster	_	_	
+31-67	9276-9277	,	_	_	_	
+31-68	9278-9281	who	_	_	_	
+31-69	9282-9287	would	_	_	_	
+31-70	9290-9297	perhaps	_	_	_	
+31-71	9298-9300	be	_	_	_	
+31-72	9301-9304	too	_	_	_	
+31-73	9305-9310	happy	_	_	_	
+31-74	9310-9311	,	_	_	_	
+31-75	9312-9315	had	_	_	_	
+31-76	9316-9320	they	_	_	_	
+31-77	9321-9322	a	_	_	_	
+31-78	9323-9330	natural	Quality	_	_	
+31-79	9331-9336	taste	Taste Word	*|*	31-78|31-66	
+31-80	9337-9340	for	_	_	_	
+31-81	9341-9345	that	_	_	_	
+31-82	9346-9354	neatness	_	_	_	
+31-83	9355-9360	which	_	_	_	
+31-84	9363-9368	might	_	_	_	
+31-85	9369-9373	here	_	_	_	
+31-86	9374-9376	be	_	_	_	
+31-87	9377-9384	enjoyed	_	_	_	
+31-88	9385-9387	in	_	_	_	
+31-89	9388-9391	its	_	_	_	
+31-90	9392-9398	purity	_	_	_	
+31-91	9398-9399	.	_	_	_	
+
+#Text=The arches formed to defend 
+#Text= passengers from the rain and sun, which here might have even serious 
+#Text= effects from their violence, deserve much praise; while their 
+#Text= architecture, uniting our ideas of comfort and beauty together, form a 
+#Text= traveller  '  s taste, and teach him to admire that perfection, of which a 
+#Text= miniature may certainly be found at Turin, when once a police shall be 
+#Text= established there to prevent such places being used for the very 
+#Text= grossest purposes, and polluted with smells that poison all one  '  s 
+#Text= pleasure.
+32-1	9400-9403	The	_	_	_	
+32-2	9404-9410	arches	_	_	_	
+32-3	9411-9417	formed	_	_	_	
+32-4	9418-9420	to	_	_	_	
+32-5	9421-9427	defend	_	_	_	
+32-6	9430-9440	passengers	_	_	_	
+32-7	9441-9445	from	_	_	_	
+32-8	9446-9449	the	_	_	_	
+32-9	9450-9454	rain	_	_	_	
+32-10	9455-9458	and	_	_	_	
+32-11	9459-9462	sun	_	_	_	
+32-12	9462-9463	,	_	_	_	
+32-13	9464-9469	which	_	_	_	
+32-14	9470-9474	here	_	_	_	
+32-15	9475-9480	might	_	_	_	
+32-16	9481-9485	have	_	_	_	
+32-17	9486-9490	even	_	_	_	
+32-18	9491-9498	serious	_	_	_	
+32-19	9501-9508	effects	_	_	_	
+32-20	9509-9513	from	_	_	_	
+32-21	9514-9519	their	_	_	_	
+32-22	9520-9528	violence	_	_	_	
+32-23	9528-9529	,	_	_	_	
+32-24	9530-9537	deserve	_	_	_	
+32-25	9538-9542	much	_	_	_	
+32-26	9543-9549	praise	_	_	_	
+32-27	9549-9550	;	_	_	_	
+32-28	9551-9556	while	_	_	_	
+32-29	9557-9562	their	_	_	_	
+32-30	9565-9577	architecture	_	_	_	
+32-31	9577-9578	,	_	_	_	
+32-32	9579-9586	uniting	_	_	_	
+32-33	9587-9590	our	_	_	_	
+32-34	9591-9596	ideas	_	_	_	
+32-35	9597-9599	of	_	_	_	
+32-36	9600-9607	comfort	_	_	_	
+32-37	9608-9611	and	_	_	_	
+32-38	9612-9618	beauty	_	_	_	
+32-39	9619-9627	together	_	_	_	
+32-40	9627-9628	,	_	_	_	
+32-41	9629-9633	form	_	_	_	
+32-42	9634-9635	a	_	_	_	
+32-43	9638-9647	traveller	Taster[13]	_	_	
+32-44	9649-9650	'	Taster[13]	_	_	
+32-45	9652-9653	s	Taster[13]	_	_	
+32-46	9654-9659	taste	Taste Word	*	32-43[13_0]	
+32-47	9659-9660	,	_	_	_	
+32-48	9661-9664	and	_	_	_	
+32-49	9665-9670	teach	_	_	_	
+32-50	9671-9674	him	_	_	_	
+32-51	9675-9677	to	_	_	_	
+32-52	9678-9684	admire	_	_	_	
+32-53	9685-9689	that	_	_	_	
+32-54	9690-9700	perfection	_	_	_	
+32-55	9700-9701	,	_	_	_	
+32-56	9702-9704	of	_	_	_	
+32-57	9705-9710	which	_	_	_	
+32-58	9711-9712	a	_	_	_	
+32-59	9715-9724	miniature	_	_	_	
+32-60	9725-9728	may	_	_	_	
+32-61	9729-9738	certainly	_	_	_	
+32-62	9739-9741	be	_	_	_	
+32-63	9742-9747	found	_	_	_	
+32-64	9748-9750	at	_	_	_	
+32-65	9751-9756	Turin	_	_	_	
+32-66	9756-9757	,	_	_	_	
+32-67	9758-9762	when	_	_	_	
+32-68	9763-9767	once	_	_	_	
+32-69	9768-9769	a	_	_	_	
+32-70	9770-9776	police	_	_	_	
+32-71	9777-9782	shall	_	_	_	
+32-72	9783-9785	be	_	_	_	
+32-73	9788-9799	established	_	_	_	
+32-74	9800-9805	there	_	_	_	
+32-75	9806-9808	to	_	_	_	
+32-76	9809-9816	prevent	_	_	_	
+32-77	9817-9821	such	_	_	_	
+32-78	9822-9828	places	_	_	_	
+32-79	9829-9834	being	_	_	_	
+32-80	9835-9839	used	_	_	_	
+32-81	9840-9843	for	_	_	_	
+32-82	9844-9847	the	_	_	_	
+32-83	9848-9852	very	_	_	_	
+32-84	9855-9863	grossest	_	_	_	
+32-85	9864-9872	purposes	_	_	_	
+32-86	9872-9873	,	_	_	_	
+32-87	9874-9877	and	_	_	_	
+32-88	9878-9886	polluted	_	_	_	
+32-89	9887-9891	with	_	_	_	
+32-90	9892-9898	smells	_	_	_	
+32-91	9899-9903	that	_	_	_	
+32-92	9904-9910	poison	_	_	_	
+32-93	9911-9914	all	_	_	_	
+32-94	9915-9918	one	_	_	_	
+32-95	9920-9921	'	_	_	_	
+32-96	9923-9924	s	_	_	_	
+32-97	9927-9935	pleasure	_	_	_	
+32-98	9935-9936	.	_	_	_	
+
+#Text=It is said, that few European palaces exceed in splendour that of 
+#Text= Sardinia  '  s king; I found it very fine indeed, and the pictures 
+#Text= dazzling.
+33-1	9942-9944	It	_	_	_	
+33-2	9945-9947	is	_	_	_	
+33-3	9948-9952	said	_	_	_	
+33-4	9952-9953	,	_	_	_	
+33-5	9954-9958	that	_	_	_	
+33-6	9959-9962	few	_	_	_	
+33-7	9963-9971	European	_	_	_	
+33-8	9972-9979	palaces	_	_	_	
+33-9	9980-9986	exceed	_	_	_	
+33-10	9987-9989	in	_	_	_	
+33-11	9990-9999	splendour	_	_	_	
+33-12	10000-10004	that	_	_	_	
+33-13	10005-10007	of	_	_	_	
+33-14	10010-10018	Sardinia	_	_	_	
+33-15	10020-10021	'	_	_	_	
+33-16	10023-10024	s	_	_	_	
+33-17	10025-10029	king	_	_	_	
+33-18	10029-10030	;	_	_	_	
+33-19	10031-10032	I	_	_	_	
+33-20	10033-10038	found	_	_	_	
+33-21	10039-10041	it	_	_	_	
+33-22	10042-10046	very	_	_	_	
+33-23	10047-10051	fine	_	_	_	
+33-24	10052-10058	indeed	_	_	_	
+33-25	10058-10059	,	_	_	_	
+33-26	10060-10063	and	_	_	_	
+33-27	10064-10067	the	_	_	_	
+33-28	10068-10076	pictures	_	_	_	
+33-29	10079-10087	dazzling	_	_	_	
+33-30	10087-10088	.	_	_	_	
+
+#Text=The death of a dropsical woman well known among all our 
+#Text= connoisseurs detained my attention longest: the value set on it here is 
+#Text= ten thousand pounds.
+34-1	10089-10092	The	_	_	_	
+34-2	10093-10098	death	_	_	_	
+34-3	10099-10101	of	_	_	_	
+34-4	10102-10103	a	_	_	_	
+34-5	10104-10113	dropsical	_	_	_	
+34-6	10114-10119	woman	_	_	_	
+34-7	10120-10124	well	_	_	_	
+34-8	10125-10130	known	_	_	_	
+34-9	10131-10136	among	_	_	_	
+34-10	10137-10140	all	_	_	_	
+34-11	10141-10144	our	_	_	_	
+34-12	10147-10159	connoisseurs	_	_	_	
+34-13	10160-10168	detained	_	_	_	
+34-14	10169-10171	my	_	_	_	
+34-15	10172-10181	attention	_	_	_	
+34-16	10182-10189	longest	_	_	_	
+34-17	10189-10190	:	_	_	_	
+34-18	10191-10194	the	_	_	_	
+34-19	10195-10200	value	_	_	_	
+34-20	10201-10204	set	_	_	_	
+34-21	10205-10207	on	_	_	_	
+34-22	10208-10210	it	_	_	_	
+34-23	10211-10215	here	_	_	_	
+34-24	10216-10218	is	_	_	_	
+34-25	10221-10224	ten	_	_	_	
+34-26	10225-10233	thousand	_	_	_	
+34-27	10234-10240	pounds	_	_	_	
+34-28	10240-10241	.	_	_	_	
+
+#Text=The horse cut out of a block of marble at the 
+#Text= stairs-foot attracted me not a little; but we are told that the
+#Text=Miscellanies; who, among other luxuries, resolves to eat Lodi cheese, I 
+#Text= remember.
+35-1	10242-10245	The	_	_	_	
+35-2	10246-10251	horse	_	_	_	
+35-3	10252-10255	cut	_	_	_	
+35-4	10256-10259	out	_	_	_	
+35-5	10260-10262	of	_	_	_	
+35-6	10263-10264	a	_	_	_	
+35-7	10265-10270	block	_	_	_	
+35-8	10271-10273	of	_	_	_	
+35-9	10274-10280	marble	_	_	_	
+35-10	10281-10283	at	_	_	_	
+35-11	10284-10287	the	_	_	_	
+35-12	10290-10301	stairs-foot	_	_	_	
+35-13	10302-10311	attracted	_	_	_	
+35-14	10312-10314	me	_	_	_	
+35-15	10315-10318	not	_	_	_	
+35-16	10319-10320	a	_	_	_	
+35-17	10321-10327	little	_	_	_	
+35-18	10327-10328	;	_	_	_	
+35-19	10329-10332	but	_	_	_	
+35-20	10333-10335	we	_	_	_	
+35-21	10336-10339	are	_	_	_	
+35-22	10340-10344	told	_	_	_	
+35-23	10345-10349	that	_	_	_	
+35-24	10350-10353	the	Taster[14]	_	_	
+35-25	10354-10366	Miscellanies	Taster[14]	_	_	
+35-26	10366-10367	;	_	_	_	
+35-27	10368-10371	who	_	_	_	
+35-28	10371-10372	,	_	_	_	
+35-29	10373-10378	among	_	_	_	
+35-30	10379-10384	other	_	_	_	
+35-31	10385-10393	luxuries	_	_	_	
+35-32	10393-10394	,	_	_	_	
+35-33	10395-10403	resolves	_	_	_	
+35-34	10404-10406	to	_	_	_	
+35-35	10407-10410	eat	Taste Word	*|*	35-36[15_0]|35-24[14_0]	
+35-36	10411-10415	Lodi	Taste Source[15]	_	_	
+35-37	10416-10422	cheese	Taste Source[15]	_	_	
+35-38	10422-10423	,	_	_	_	
+35-39	10424-10425	I	_	_	_	
+35-40	10428-10436	remember	_	_	_	
+35-41	10436-10437	.	_	_	_	
+
+#Text=The town, however, bringing no other ideas either new or old to our 
+#Text= minds, we went to the opera, and heard Morichelli sing: after which they 
+#Text= gave us a new dramatic dance, made upon the story of Don John, or the 
+#Text= Libertine; a tale which, whether true or false, fact or fable, has 
+#Text= furnished every Christian country in the world, I believe, with some 
+#Text= subject of representation.
+36-1	10443-10446	The	_	_	_	
+36-2	10447-10451	town	_	_	_	
+36-3	10451-10452	,	_	_	_	
+36-4	10453-10460	however	_	_	_	
+36-5	10460-10461	,	_	_	_	
+36-6	10462-10470	bringing	_	_	_	
+36-7	10471-10473	no	_	_	_	
+36-8	10474-10479	other	_	_	_	
+36-9	10480-10485	ideas	_	_	_	
+36-10	10486-10492	either	_	_	_	
+36-11	10493-10496	new	_	_	_	
+36-12	10497-10499	or	_	_	_	
+36-13	10500-10503	old	_	_	_	
+36-14	10504-10506	to	_	_	_	
+36-15	10507-10510	our	_	_	_	
+36-16	10513-10518	minds	_	_	_	
+36-17	10518-10519	,	_	_	_	
+36-18	10520-10522	we	_	_	_	
+36-19	10523-10527	went	_	_	_	
+36-20	10528-10530	to	_	_	_	
+36-21	10531-10534	the	_	_	_	
+36-22	10535-10540	opera	_	_	_	
+36-23	10540-10541	,	_	_	_	
+36-24	10542-10545	and	_	_	_	
+36-25	10546-10551	heard	_	_	_	
+36-26	10552-10562	Morichelli	_	_	_	
+36-27	10563-10567	sing	_	_	_	
+36-28	10567-10568	:	_	_	_	
+36-29	10569-10574	after	_	_	_	
+36-30	10575-10580	which	_	_	_	
+36-31	10581-10585	they	_	_	_	
+36-32	10588-10592	gave	_	_	_	
+36-33	10593-10595	us	_	_	_	
+36-34	10596-10597	a	_	_	_	
+36-35	10598-10601	new	_	_	_	
+36-36	10602-10610	dramatic	_	_	_	
+36-37	10611-10616	dance	_	_	_	
+36-38	10616-10617	,	_	_	_	
+36-39	10618-10622	made	_	_	_	
+36-40	10623-10627	upon	_	_	_	
+36-41	10628-10631	the	_	_	_	
+36-42	10632-10637	story	_	_	_	
+36-43	10638-10640	of	_	_	_	
+36-44	10641-10644	Don	_	_	_	
+36-45	10645-10649	John	_	_	_	
+36-46	10649-10650	,	_	_	_	
+36-47	10651-10653	or	_	_	_	
+36-48	10654-10657	the	_	_	_	
+36-49	10660-10669	Libertine	_	_	_	
+36-50	10669-10670	;	_	_	_	
+36-51	10671-10672	a	_	_	_	
+36-52	10673-10677	tale	_	_	_	
+36-53	10678-10683	which	_	_	_	
+36-54	10683-10684	,	_	_	_	
+36-55	10685-10692	whether	_	_	_	
+36-56	10693-10697	true	_	_	_	
+36-57	10698-10700	or	_	_	_	
+36-58	10701-10706	false	_	_	_	
+36-59	10706-10707	,	_	_	_	
+36-60	10708-10712	fact	_	_	_	
+36-61	10713-10715	or	_	_	_	
+36-62	10716-10721	fable	_	_	_	
+36-63	10721-10722	,	_	_	_	
+36-64	10723-10726	has	_	_	_	
+36-65	10729-10738	furnished	_	_	_	
+36-66	10739-10744	every	_	_	_	
+36-67	10745-10754	Christian	_	_	_	
+36-68	10755-10762	country	_	_	_	
+36-69	10763-10765	in	_	_	_	
+36-70	10766-10769	the	_	_	_	
+36-71	10770-10775	world	_	_	_	
+36-72	10775-10776	,	_	_	_	
+36-73	10777-10778	I	_	_	_	
+36-74	10779-10786	believe	_	_	_	
+36-75	10786-10787	,	_	_	_	
+36-76	10788-10792	with	_	_	_	
+36-77	10793-10797	some	_	_	_	
+36-78	10800-10807	subject	_	_	_	
+36-79	10808-10810	of	_	_	_	
+36-80	10811-10825	representation	_	_	_	
+36-81	10825-10826	.	_	_	_	
+
+#Text=It makes me no sport, however; the idea of an 
+#Text= impenitent sinner going to hell is too seriously terrifying to make 
+#Text= amusement out of.
+37-1	10827-10829	It	_	_	_	
+37-2	10830-10835	makes	_	_	_	
+37-3	10836-10838	me	_	_	_	
+37-4	10839-10841	no	_	_	_	
+37-5	10842-10847	sport	_	_	_	
+37-6	10847-10848	,	_	_	_	
+37-7	10849-10856	however	_	_	_	
+37-8	10856-10857	;	_	_	_	
+37-9	10858-10861	the	_	_	_	
+37-10	10862-10866	idea	_	_	_	
+37-11	10867-10869	of	_	_	_	
+37-12	10870-10872	an	_	_	_	
+37-13	10875-10885	impenitent	_	_	_	
+37-14	10886-10892	sinner	_	_	_	
+37-15	10893-10898	going	_	_	_	
+37-16	10899-10901	to	_	_	_	
+37-17	10902-10906	hell	_	_	_	
+37-18	10907-10909	is	_	_	_	
+37-19	10910-10913	too	_	_	_	
+37-20	10914-10923	seriously	_	_	_	
+37-21	10924-10934	terrifying	_	_	_	
+37-22	10935-10937	to	_	_	_	
+37-23	10938-10942	make	_	_	_	
+37-24	10945-10954	amusement	_	_	_	
+37-25	10955-10958	out	_	_	_	
+37-26	10959-10961	of	_	_	_	
+37-27	10961-10962	.	_	_	_	
+
+#Text=Let mythology, which is now grown good for little 
+#Text= else, be danced upon the stage; where Mr.
+38-1	10963-10966	Let	_	_	_	
+38-2	10967-10976	mythology	_	_	_	
+38-3	10976-10977	,	_	_	_	
+38-4	10978-10983	which	_	_	_	
+38-5	10984-10986	is	_	_	_	
+38-6	10987-10990	now	_	_	_	
+38-7	10991-10996	grown	_	_	_	
+38-8	10997-11001	good	_	_	_	
+38-9	11002-11005	for	_	_	_	
+38-10	11006-11012	little	_	_	_	
+38-11	11015-11019	else	_	_	_	
+38-12	11019-11020	,	_	_	_	
+38-13	11021-11023	be	_	_	_	
+38-14	11024-11030	danced	_	_	_	
+38-15	11031-11035	upon	_	_	_	
+38-16	11036-11039	the	_	_	_	
+38-17	11040-11045	stage	_	_	_	
+38-18	11045-11046	;	_	_	_	
+38-19	11047-11052	where	_	_	_	
+38-20	11053-11055	Mr	_	_	_	
+38-21	11055-11056	.	_	_	_	
+
+#Text=Vestris may bounce and 
+#Text= struggle in the character of Alcides on his funeral pile, with no very 
+#Text= glaring impropriety; and such baubles serve beside to keep old classical 
+#Text= stories in the heads of our young people; who, if they _must_ have 
+#Text= torches to blaze in their eyes, may divert themselves with Pluto 
+#Text= catching up Ceres  '  s daughter, and driving her away to Tartarus; but let 
+#Text= Don John alone.
+39-1	11057-11064	Vestris	_	_	_	
+39-2	11065-11068	may	_	_	_	
+39-3	11069-11075	bounce	_	_	_	
+39-4	11076-11079	and	_	_	_	
+39-5	11082-11090	struggle	_	_	_	
+39-6	11091-11093	in	_	_	_	
+39-7	11094-11097	the	_	_	_	
+39-8	11098-11107	character	_	_	_	
+39-9	11108-11110	of	_	_	_	
+39-10	11111-11118	Alcides	_	_	_	
+39-11	11119-11121	on	_	_	_	
+39-12	11122-11125	his	_	_	_	
+39-13	11126-11133	funeral	_	_	_	
+39-14	11134-11138	pile	_	_	_	
+39-15	11138-11139	,	_	_	_	
+39-16	11140-11144	with	_	_	_	
+39-17	11145-11147	no	_	_	_	
+39-18	11148-11152	very	_	_	_	
+39-19	11155-11162	glaring	_	_	_	
+39-20	11163-11174	impropriety	_	_	_	
+39-21	11174-11175	;	_	_	_	
+39-22	11176-11179	and	_	_	_	
+39-23	11180-11184	such	_	_	_	
+39-24	11185-11192	baubles	_	_	_	
+39-25	11193-11198	serve	_	_	_	
+39-26	11199-11205	beside	_	_	_	
+39-27	11206-11208	to	_	_	_	
+39-28	11209-11213	keep	_	_	_	
+39-29	11214-11217	old	_	_	_	
+39-30	11218-11227	classical	_	_	_	
+39-31	11230-11237	stories	_	_	_	
+39-32	11238-11240	in	_	_	_	
+39-33	11241-11244	the	_	_	_	
+39-34	11245-11250	heads	_	_	_	
+39-35	11251-11253	of	_	_	_	
+39-36	11254-11257	our	_	_	_	
+39-37	11258-11263	young	_	_	_	
+39-38	11264-11270	people	_	_	_	
+39-39	11270-11271	;	_	_	_	
+39-40	11272-11275	who	_	_	_	
+39-41	11275-11276	,	_	_	_	
+39-42	11277-11279	if	_	_	_	
+39-43	11280-11284	they	_	_	_	
+39-44	11285-11286	_	_	_	_	
+39-45	11286-11290	must	_	_	_	
+39-46	11290-11291	_	_	_	_	
+39-47	11292-11296	have	_	_	_	
+39-48	11299-11306	torches	_	_	_	
+39-49	11307-11309	to	_	_	_	
+39-50	11310-11315	blaze	_	_	_	
+39-51	11316-11318	in	_	_	_	
+39-52	11319-11324	their	_	_	_	
+39-53	11325-11329	eyes	_	_	_	
+39-54	11329-11330	,	_	_	_	
+39-55	11331-11334	may	_	_	_	
+39-56	11335-11341	divert	_	_	_	
+39-57	11342-11352	themselves	_	_	_	
+39-58	11353-11357	with	_	_	_	
+39-59	11358-11363	Pluto	_	_	_	
+39-60	11366-11374	catching	_	_	_	
+39-61	11375-11377	up	_	_	_	
+39-62	11378-11383	Ceres	_	_	_	
+39-63	11385-11386	'	_	_	_	
+39-64	11388-11389	s	_	_	_	
+39-65	11390-11398	daughter	_	_	_	
+39-66	11398-11399	,	_	_	_	
+39-67	11400-11403	and	_	_	_	
+39-68	11404-11411	driving	_	_	_	
+39-69	11412-11415	her	_	_	_	
+39-70	11416-11420	away	_	_	_	
+39-71	11421-11423	to	_	_	_	
+39-72	11424-11432	Tartarus	_	_	_	
+39-73	11432-11433	;	_	_	_	
+39-74	11434-11437	but	_	_	_	
+39-75	11438-11441	let	_	_	_	
+39-76	11444-11447	Don	_	_	_	
+39-77	11448-11452	John	_	_	_	
+39-78	11453-11458	alone	_	_	_	
+39-79	11458-11459	.	_	_	_	
+
+#Text=I have at least _half a notion_ that the horrible 
+#Text= history is _half true_; if so, it is surely very gross to represent it 
+#Text= by dancing.
+40-1	11460-11461	I	_	_	_	
+40-2	11462-11466	have	_	_	_	
+40-3	11467-11469	at	_	_	_	
+40-4	11470-11475	least	_	_	_	
+40-5	11476-11477	_	_	_	_	
+40-6	11477-11481	half	_	_	_	
+40-7	11482-11483	a	_	_	_	
+40-8	11484-11490	notion	_	_	_	
+40-9	11490-11491	_	_	_	_	
+40-10	11492-11496	that	_	_	_	
+40-11	11497-11500	the	_	_	_	
+40-12	11501-11509	horrible	_	_	_	
+40-13	11512-11519	history	_	_	_	
+40-14	11520-11522	is	_	_	_	
+40-15	11523-11524	_	_	_	_	
+40-16	11524-11528	half	_	_	_	
+40-17	11529-11533	true	_	_	_	
+40-18	11533-11534	_	_	_	_	
+40-19	11534-11535	;	_	_	_	
+40-20	11536-11538	if	_	_	_	
+40-21	11539-11541	so	_	_	_	
+40-22	11541-11542	,	_	_	_	
+40-23	11543-11545	it	_	_	_	
+40-24	11546-11548	is	_	_	_	
+40-25	11549-11555	surely	_	_	_	
+40-26	11556-11560	very	_	_	_	
+40-27	11561-11566	gross	_	_	_	
+40-28	11567-11569	to	_	_	_	
+40-29	11570-11579	represent	_	_	_	
+40-30	11580-11582	it	_	_	_	
+40-31	11585-11587	by	_	_	_	
+40-32	11588-11595	dancing	_	_	_	
+40-33	11595-11596	.	_	_	_	
+
+#Text=Should such false foolish taste prevail in England (but I
+#Text=But it is almost time to talk of the Rialto, said to be the finest 
+#Text= single arch in Europe, and I suppose it is so; very beautiful too when 
+#Text= looked on from the water, but so dirtily kept, and deformed with mean 
+#Text= shops, that passing over it, disgust gets the better of every other 
+#Text= sensation.
+41-1	11597-11603	Should	_	_	_	
+41-2	11604-11608	such	_	_	_	
+41-3	11609-11614	false	_	_	_	
+41-4	11615-11622	foolish	_	_	_	
+41-5	11623-11628	taste	_	_	_	
+41-6	11629-11636	prevail	_	_	_	
+41-7	11637-11639	in	_	_	_	
+41-8	11640-11647	England	_	_	_	
+41-9	11648-11649	(	_	_	_	
+41-10	11649-11652	but	_	_	_	
+41-11	11653-11654	I	_	_	_	
+41-12	11655-11658	But	_	_	_	
+41-13	11659-11661	it	_	_	_	
+41-14	11662-11664	is	_	_	_	
+41-15	11665-11671	almost	_	_	_	
+41-16	11672-11676	time	_	_	_	
+41-17	11677-11679	to	_	_	_	
+41-18	11680-11684	talk	_	_	_	
+41-19	11685-11687	of	_	_	_	
+41-20	11688-11691	the	_	_	_	
+41-21	11692-11698	Rialto	_	_	_	
+41-22	11698-11699	,	_	_	_	
+41-23	11700-11704	said	_	_	_	
+41-24	11705-11707	to	_	_	_	
+41-25	11708-11710	be	_	_	_	
+41-26	11711-11714	the	_	_	_	
+41-27	11715-11721	finest	_	_	_	
+41-28	11724-11730	single	_	_	_	
+41-29	11731-11735	arch	_	_	_	
+41-30	11736-11738	in	_	_	_	
+41-31	11739-11745	Europe	_	_	_	
+41-32	11745-11746	,	_	_	_	
+41-33	11747-11750	and	_	_	_	
+41-34	11751-11752	I	_	_	_	
+41-35	11753-11760	suppose	_	_	_	
+41-36	11761-11763	it	_	_	_	
+41-37	11764-11766	is	_	_	_	
+41-38	11767-11769	so	_	_	_	
+41-39	11769-11770	;	_	_	_	
+41-40	11771-11775	very	_	_	_	
+41-41	11776-11785	beautiful	_	_	_	
+41-42	11786-11789	too	_	_	_	
+41-43	11790-11794	when	_	_	_	
+41-44	11797-11803	looked	_	_	_	
+41-45	11804-11806	on	_	_	_	
+41-46	11807-11811	from	_	_	_	
+41-47	11812-11815	the	_	_	_	
+41-48	11816-11821	water	_	_	_	
+41-49	11821-11822	,	_	_	_	
+41-50	11823-11826	but	_	_	_	
+41-51	11827-11829	so	_	_	_	
+41-52	11830-11837	dirtily	_	_	_	
+41-53	11838-11842	kept	_	_	_	
+41-54	11842-11843	,	_	_	_	
+41-55	11844-11847	and	_	_	_	
+41-56	11848-11856	deformed	_	_	_	
+41-57	11857-11861	with	_	_	_	
+41-58	11862-11866	mean	_	_	_	
+41-59	11869-11874	shops	_	_	_	
+41-60	11874-11875	,	_	_	_	
+41-61	11876-11880	that	_	_	_	
+41-62	11881-11888	passing	_	_	_	
+41-63	11889-11893	over	_	_	_	
+41-64	11894-11896	it	_	_	_	
+41-65	11896-11897	,	_	_	_	
+41-66	11898-11905	disgust	Taste Word	*	41-69	
+41-67	11906-11910	gets	_	_	_	
+41-68	11911-11914	the	_	_	_	
+41-69	11915-11921	better	Quality	_	_	
+41-70	11922-11924	of	_	_	_	
+41-71	11925-11930	every	_	_	_	
+41-72	11931-11936	other	_	_	_	
+41-73	11939-11948	sensation	_	_	_	
+41-74	11948-11949	.	_	_	_	
+
+#Text=The truth is, our dear Venetians are nothing less than 
+#Text= cleanly; St.
+42-1	11950-11953	The	_	_	_	
+42-2	11954-11959	truth	_	_	_	
+42-3	11960-11962	is	_	_	_	
+42-4	11962-11963	,	_	_	_	
+42-5	11964-11967	our	_	_	_	
+42-6	11968-11972	dear	_	_	_	
+42-7	11973-11982	Venetians	_	_	_	
+42-8	11983-11986	are	_	_	_	
+42-9	11987-11994	nothing	_	_	_	
+42-10	11995-11999	less	_	_	_	
+42-11	12000-12004	than	_	_	_	
+42-12	12007-12014	cleanly	_	_	_	
+42-13	12014-12015	;	_	_	_	
+42-14	12016-12018	St	_	_	_	
+42-15	12018-12019	.	_	_	_	
+
+#Text=Mark  '  s Place is all covered over in a morning with 
+#Text= chicken-coops, which stink one to death; as nobody I believe thinks of 
+#Text= changing their baskets: and all about the Ducal palace is made so very 
+#Text= offensive by the resort of human creatures for every purpose most 
+#Text= unworthy of so charming a place, that all enjoyment of its beauties is 
+#Text= rendered difficult to a person of any delicacy; and poisoned so 
+#Text= provokingly, that I do never cease to wonder that so little police and 
+#Text= proper regulation are established in a city so particularly lovely, to 
+#Text= render her sweet and wholesome.
+43-1	12020-12024	Mark	_	_	_	
+43-2	12026-12027	'	_	_	_	
+43-3	12029-12030	s	_	_	_	
+43-4	12031-12036	Place	_	_	_	
+43-5	12037-12039	is	_	_	_	
+43-6	12040-12043	all	_	_	_	
+43-7	12044-12051	covered	_	_	_	
+43-8	12052-12056	over	_	_	_	
+43-9	12057-12059	in	_	_	_	
+43-10	12060-12061	a	_	_	_	
+43-11	12062-12069	morning	_	_	_	
+43-12	12070-12074	with	_	_	_	
+43-13	12077-12090	chicken-coops	_	_	_	
+43-14	12090-12091	,	_	_	_	
+43-15	12092-12097	which	_	_	_	
+43-16	12098-12103	stink	_	_	_	
+43-17	12104-12107	one	_	_	_	
+43-18	12108-12110	to	_	_	_	
+43-19	12111-12116	death	_	_	_	
+43-20	12116-12117	;	_	_	_	
+43-21	12118-12120	as	_	_	_	
+43-22	12121-12127	nobody	_	_	_	
+43-23	12128-12129	I	_	_	_	
+43-24	12130-12137	believe	_	_	_	
+43-25	12138-12144	thinks	_	_	_	
+43-26	12145-12147	of	_	_	_	
+43-27	12150-12158	changing	_	_	_	
+43-28	12159-12164	their	_	_	_	
+43-29	12165-12172	baskets	_	_	_	
+43-30	12172-12173	:	_	_	_	
+43-31	12174-12177	and	_	_	_	
+43-32	12178-12181	all	_	_	_	
+43-33	12182-12187	about	_	_	_	
+43-34	12188-12191	the	_	_	_	
+43-35	12192-12197	Ducal	_	_	_	
+43-36	12198-12204	palace	_	_	_	
+43-37	12205-12207	is	_	_	_	
+43-38	12208-12212	made	_	_	_	
+43-39	12213-12215	so	_	_	_	
+43-40	12216-12220	very	_	_	_	
+43-41	12223-12232	offensive	_	_	_	
+43-42	12233-12235	by	_	_	_	
+43-43	12236-12239	the	_	_	_	
+43-44	12240-12246	resort	_	_	_	
+43-45	12247-12249	of	_	_	_	
+43-46	12250-12255	human	_	_	_	
+43-47	12256-12265	creatures	_	_	_	
+43-48	12266-12269	for	_	_	_	
+43-49	12270-12275	every	_	_	_	
+43-50	12276-12283	purpose	_	_	_	
+43-51	12284-12288	most	_	_	_	
+43-52	12291-12299	unworthy	_	_	_	
+43-53	12300-12302	of	_	_	_	
+43-54	12303-12305	so	_	_	_	
+43-55	12306-12314	charming	_	_	_	
+43-56	12315-12316	a	_	_	_	
+43-57	12317-12322	place	_	_	_	
+43-58	12322-12323	,	_	_	_	
+43-59	12324-12328	that	_	_	_	
+43-60	12329-12332	all	_	_	_	
+43-61	12333-12342	enjoyment	_	_	_	
+43-62	12343-12345	of	_	_	_	
+43-63	12346-12349	its	_	_	_	
+43-64	12350-12358	beauties	_	_	_	
+43-65	12359-12361	is	_	_	_	
+43-66	12364-12372	rendered	_	_	_	
+43-67	12373-12382	difficult	_	_	_	
+43-68	12383-12385	to	_	_	_	
+43-69	12386-12387	a	_	_	_	
+43-70	12388-12394	person	_	_	_	
+43-71	12395-12397	of	_	_	_	
+43-72	12398-12401	any	_	_	_	
+43-73	12402-12410	delicacy	_	_	_	
+43-74	12410-12411	;	_	_	_	
+43-75	12412-12415	and	_	_	_	
+43-76	12416-12424	poisoned	_	_	_	
+43-77	12425-12427	so	_	_	_	
+43-78	12430-12441	provokingly	_	_	_	
+43-79	12441-12442	,	_	_	_	
+43-80	12443-12447	that	_	_	_	
+43-81	12448-12449	I	_	_	_	
+43-82	12450-12452	do	_	_	_	
+43-83	12453-12458	never	_	_	_	
+43-84	12459-12464	cease	_	_	_	
+43-85	12465-12467	to	_	_	_	
+43-86	12468-12474	wonder	_	_	_	
+43-87	12475-12479	that	_	_	_	
+43-88	12480-12482	so	_	_	_	
+43-89	12483-12489	little	_	_	_	
+43-90	12490-12496	police	_	_	_	
+43-91	12497-12500	and	_	_	_	
+43-92	12503-12509	proper	_	_	_	
+43-93	12510-12520	regulation	_	_	_	
+43-94	12521-12524	are	_	_	_	
+43-95	12525-12536	established	_	_	_	
+43-96	12537-12539	in	_	_	_	
+43-97	12540-12541	a	_	_	_	
+43-98	12542-12546	city	_	_	_	
+43-99	12547-12549	so	_	_	_	
+43-100	12550-12562	particularly	_	_	_	
+43-101	12563-12569	lovely	_	_	_	
+43-102	12569-12570	,	_	_	_	
+43-103	12571-12573	to	_	_	_	
+43-104	12576-12582	render	_	_	_	
+43-105	12583-12586	her	_	_	_	
+43-106	12587-12592	sweet	_	_	_	
+43-107	12593-12596	and	_	_	_	
+43-108	12597-12606	wholesome	_	_	_	
+43-109	12606-12607	.	_	_	_	
+
+#Text=It was at the Rialto that the first 
+#Text= stone of this fair town was laid, upon the twenty-fifth of March, as I 
+#Text= am told here, with ideal reference to the vernal equinox, the moment 
+#Text= when philosophers have supposed that the sun first shone upon our earth, 
+#Text= and when Christians believe that the redemption of it was first 
+#Text= announced to _her_ within whose womb it was conceived.
+44-1	12608-12610	It	_	_	_	
+44-2	12611-12614	was	_	_	_	
+44-3	12615-12617	at	_	_	_	
+44-4	12618-12621	the	_	_	_	
+44-5	12622-12628	Rialto	_	_	_	
+44-6	12629-12633	that	_	_	_	
+44-7	12634-12637	the	_	_	_	
+44-8	12638-12643	first	_	_	_	
+44-9	12646-12651	stone	_	_	_	
+44-10	12652-12654	of	_	_	_	
+44-11	12655-12659	this	_	_	_	
+44-12	12660-12664	fair	_	_	_	
+44-13	12665-12669	town	_	_	_	
+44-14	12670-12673	was	_	_	_	
+44-15	12674-12678	laid	_	_	_	
+44-16	12678-12679	,	_	_	_	
+44-17	12680-12684	upon	_	_	_	
+44-18	12685-12688	the	_	_	_	
+44-19	12689-12701	twenty-fifth	_	_	_	
+44-20	12702-12704	of	_	_	_	
+44-21	12705-12710	March	_	_	_	
+44-22	12710-12711	,	_	_	_	
+44-23	12712-12714	as	_	_	_	
+44-24	12715-12716	I	_	_	_	
+44-25	12719-12721	am	_	_	_	
+44-26	12722-12726	told	_	_	_	
+44-27	12727-12731	here	_	_	_	
+44-28	12731-12732	,	_	_	_	
+44-29	12733-12737	with	_	_	_	
+44-30	12738-12743	ideal	_	_	_	
+44-31	12744-12753	reference	_	_	_	
+44-32	12754-12756	to	_	_	_	
+44-33	12757-12760	the	_	_	_	
+44-34	12761-12767	vernal	_	_	_	
+44-35	12768-12775	equinox	_	_	_	
+44-36	12775-12776	,	_	_	_	
+44-37	12777-12780	the	_	_	_	
+44-38	12781-12787	moment	_	_	_	
+44-39	12790-12794	when	_	_	_	
+44-40	12795-12807	philosophers	_	_	_	
+44-41	12808-12812	have	_	_	_	
+44-42	12813-12821	supposed	_	_	_	
+44-43	12822-12826	that	_	_	_	
+44-44	12827-12830	the	_	_	_	
+44-45	12831-12834	sun	_	_	_	
+44-46	12835-12840	first	_	_	_	
+44-47	12841-12846	shone	_	_	_	
+44-48	12847-12851	upon	_	_	_	
+44-49	12852-12855	our	_	_	_	
+44-50	12856-12861	earth	_	_	_	
+44-51	12861-12862	,	_	_	_	
+44-52	12865-12868	and	_	_	_	
+44-53	12869-12873	when	_	_	_	
+44-54	12874-12884	Christians	_	_	_	
+44-55	12885-12892	believe	_	_	_	
+44-56	12893-12897	that	_	_	_	
+44-57	12898-12901	the	_	_	_	
+44-58	12902-12912	redemption	_	_	_	
+44-59	12913-12915	of	_	_	_	
+44-60	12916-12918	it	_	_	_	
+44-61	12919-12922	was	_	_	_	
+44-62	12923-12928	first	_	_	_	
+44-63	12931-12940	announced	_	_	_	
+44-64	12941-12943	to	_	_	_	
+44-65	12944-12945	_	_	_	_	
+44-66	12945-12948	her	_	_	_	
+44-67	12948-12949	_	_	_	_	
+44-68	12950-12956	within	_	_	_	
+44-69	12957-12962	whose	_	_	_	
+44-70	12963-12967	womb	_	_	_	
+44-71	12968-12970	it	_	_	_	
+44-72	12971-12974	was	_	_	_	
+44-73	12975-12984	conceived	_	_	_	
+44-74	12984-12985	.	_	_	_	
+
+#Text=or something to murmur about, while their only great nuisances pass 
+#Text= unnoticed, the heaps of dirt, and crowds of beggars, who infest the 
+#Text= streets, and poison the pleasures of society.
+45-1	12989-12991	or	_	_	_	
+45-2	12992-13001	something	_	_	_	
+45-3	13002-13004	to	_	_	_	
+45-4	13005-13011	murmur	_	_	_	
+45-5	13012-13017	about	_	_	_	
+45-6	13017-13018	,	_	_	_	
+45-7	13019-13024	while	_	_	_	
+45-8	13025-13030	their	_	_	_	
+45-9	13031-13035	only	_	_	_	
+45-10	13036-13041	great	_	_	_	
+45-11	13042-13051	nuisances	_	_	_	
+45-12	13052-13056	pass	_	_	_	
+45-13	13059-13068	unnoticed	_	_	_	
+45-14	13068-13069	,	_	_	_	
+45-15	13070-13073	the	_	_	_	
+45-16	13074-13079	heaps	_	_	_	
+45-17	13080-13082	of	_	_	_	
+45-18	13083-13087	dirt	_	_	_	
+45-19	13087-13088	,	_	_	_	
+45-20	13089-13092	and	_	_	_	
+45-21	13093-13099	crowds	_	_	_	
+45-22	13100-13102	of	_	_	_	
+45-23	13103-13110	beggars	_	_	_	
+45-24	13110-13111	,	_	_	_	
+45-25	13112-13115	who	_	_	_	
+45-26	13116-13122	infest	_	_	_	
+45-27	13123-13126	the	_	_	_	
+45-28	13129-13136	streets	_	_	_	
+45-29	13136-13137	,	_	_	_	
+45-30	13138-13141	and	_	_	_	
+45-31	13142-13148	poison	_	_	_	
+45-32	13149-13152	the	_	_	_	
+45-33	13153-13162	pleasures	_	_	_	
+45-34	13163-13165	of	_	_	_	
+45-35	13166-13173	society	_	_	_	
+45-36	13173-13174	.	_	_	_	
+
+#Text=While ladies are eating 
+#Text= ice at a coffee-house door, while decent people are hearing mass at the 
+#Text= altar, while strangers are surveying the beauties of the place--no 
+#Text= peace, no enjoyment can one obtain for the beggars; numerous beyond 
+#Text= credibility, fancy and airy, and odd in their manners; and exhibiting 
+#Text= such various lamenesses and horrible deformities in their figure, that I 
+#Text= can sometimes hardly believe my eyes--but am willing to be told, what is 
+#Text= not very improbable, that many of them come from a great distance to 
+#Text= pass the season of ascension here at Venice.
+46-1	13175-13180	While	_	_	_	
+46-2	13181-13187	ladies	Taster	_	_	
+46-3	13188-13191	are	_	_	_	
+46-4	13192-13198	eating	Taste Word	*|*|*	46-2|46-5|46-6[16_0]	
+46-5	13201-13204	ice	Taste Source	_	_	
+46-6	13205-13207	at	Location[16]	_	_	
+46-7	13208-13209	a	Location[16]	_	_	
+46-8	13210-13222	coffee-house	Location[16]	_	_	
+46-9	13223-13227	door	Location[16]	_	_	
+46-10	13227-13228	,	_	_	_	
+46-11	13229-13234	while	_	_	_	
+46-12	13235-13241	decent	_	_	_	
+46-13	13242-13248	people	_	_	_	
+46-14	13249-13252	are	_	_	_	
+46-15	13253-13260	hearing	_	_	_	
+46-16	13261-13265	mass	_	_	_	
+46-17	13266-13268	at	_	_	_	
+46-18	13269-13272	the	_	_	_	
+46-19	13275-13280	altar	_	_	_	
+46-20	13280-13281	,	_	_	_	
+46-21	13282-13287	while	_	_	_	
+46-22	13288-13297	strangers	_	_	_	
+46-23	13298-13301	are	_	_	_	
+46-24	13302-13311	surveying	_	_	_	
+46-25	13312-13315	the	_	_	_	
+46-26	13316-13324	beauties	_	_	_	
+46-27	13325-13327	of	_	_	_	
+46-28	13328-13331	the	_	_	_	
+46-29	13332-13337	place	_	_	_	
+46-30	13337-13338	-	_	_	_	
+46-31	13338-13339	-	_	_	_	
+46-32	13339-13341	no	_	_	_	
+46-33	13344-13349	peace	_	_	_	
+46-34	13349-13350	,	_	_	_	
+46-35	13351-13353	no	_	_	_	
+46-36	13354-13363	enjoyment	_	_	_	
+46-37	13364-13367	can	_	_	_	
+46-38	13368-13371	one	_	_	_	
+46-39	13372-13378	obtain	_	_	_	
+46-40	13379-13382	for	_	_	_	
+46-41	13383-13386	the	_	_	_	
+46-42	13387-13394	beggars	_	_	_	
+46-43	13394-13395	;	_	_	_	
+46-44	13396-13404	numerous	_	_	_	
+46-45	13405-13411	beyond	_	_	_	
+46-46	13414-13425	credibility	_	_	_	
+46-47	13425-13426	,	_	_	_	
+46-48	13427-13432	fancy	_	_	_	
+46-49	13433-13436	and	_	_	_	
+46-50	13437-13441	airy	_	_	_	
+46-51	13441-13442	,	_	_	_	
+46-52	13443-13446	and	_	_	_	
+46-53	13447-13450	odd	_	_	_	
+46-54	13451-13453	in	_	_	_	
+46-55	13454-13459	their	_	_	_	
+46-56	13460-13467	manners	_	_	_	
+46-57	13467-13468	;	_	_	_	
+46-58	13469-13472	and	_	_	_	
+46-59	13473-13483	exhibiting	_	_	_	
+46-60	13486-13490	such	_	_	_	
+46-61	13491-13498	various	_	_	_	
+46-62	13499-13509	lamenesses	_	_	_	
+46-63	13510-13513	and	_	_	_	
+46-64	13514-13522	horrible	_	_	_	
+46-65	13523-13534	deformities	_	_	_	
+46-66	13535-13537	in	_	_	_	
+46-67	13538-13543	their	_	_	_	
+46-68	13544-13550	figure	_	_	_	
+46-69	13550-13551	,	_	_	_	
+46-70	13552-13556	that	_	_	_	
+46-71	13557-13558	I	_	_	_	
+46-72	13561-13564	can	_	_	_	
+46-73	13565-13574	sometimes	_	_	_	
+46-74	13575-13581	hardly	_	_	_	
+46-75	13582-13589	believe	_	_	_	
+46-76	13590-13592	my	_	_	_	
+46-77	13593-13597	eyes	_	_	_	
+46-78	13597-13598	-	_	_	_	
+46-79	13598-13599	-	_	_	_	
+46-80	13599-13602	but	_	_	_	
+46-81	13603-13605	am	_	_	_	
+46-82	13606-13613	willing	_	_	_	
+46-83	13614-13616	to	_	_	_	
+46-84	13617-13619	be	_	_	_	
+46-85	13620-13624	told	_	_	_	
+46-86	13624-13625	,	_	_	_	
+46-87	13626-13630	what	_	_	_	
+46-88	13631-13633	is	_	_	_	
+46-89	13636-13639	not	_	_	_	
+46-90	13640-13644	very	_	_	_	
+46-91	13645-13655	improbable	_	_	_	
+46-92	13655-13656	,	_	_	_	
+46-93	13657-13661	that	_	_	_	
+46-94	13662-13666	many	_	_	_	
+46-95	13667-13669	of	_	_	_	
+46-96	13670-13674	them	_	_	_	
+46-97	13675-13679	come	_	_	_	
+46-98	13680-13684	from	_	_	_	
+46-99	13685-13686	a	_	_	_	
+46-100	13687-13692	great	_	_	_	
+46-101	13693-13701	distance	_	_	_	
+46-102	13702-13704	to	_	_	_	
+46-103	13707-13711	pass	_	_	_	
+46-104	13712-13715	the	_	_	_	
+46-105	13716-13722	season	_	_	_	
+46-106	13723-13725	of	_	_	_	
+46-107	13726-13735	ascension	_	_	_	
+46-108	13736-13740	here	_	_	_	
+46-109	13741-13743	at	_	_	_	
+46-110	13744-13750	Venice	_	_	_	
+46-111	13750-13751	.	_	_	_	
+
+#Text=I never indeed saw any 
+#Text= thing so gently endured, which it appeared so little difficult to 
+#Text= remedy; but though I hope it would be hard to find a place where more 
+#Text= alms are asked, or less are given, than in Venice; yet I never saw 
+#Text= refusals so pleasingly softened, as by the manners of the high Italians 
+#Text= towards the low.
+47-1	13752-13753	I	_	_	_	
+47-2	13754-13759	never	_	_	_	
+47-3	13760-13766	indeed	_	_	_	
+47-4	13767-13770	saw	_	_	_	
+47-5	13771-13774	any	_	_	_	
+47-6	13777-13782	thing	_	_	_	
+47-7	13783-13785	so	_	_	_	
+47-8	13786-13792	gently	_	_	_	
+47-9	13793-13800	endured	_	_	_	
+47-10	13800-13801	,	_	_	_	
+47-11	13802-13807	which	_	_	_	
+47-12	13808-13810	it	_	_	_	
+47-13	13811-13819	appeared	_	_	_	
+47-14	13820-13822	so	_	_	_	
+47-15	13823-13829	little	_	_	_	
+47-16	13830-13839	difficult	_	_	_	
+47-17	13840-13842	to	_	_	_	
+47-18	13845-13851	remedy	_	_	_	
+47-19	13851-13852	;	_	_	_	
+47-20	13853-13856	but	_	_	_	
+47-21	13857-13863	though	_	_	_	
+47-22	13864-13865	I	_	_	_	
+47-23	13866-13870	hope	_	_	_	
+47-24	13871-13873	it	_	_	_	
+47-25	13874-13879	would	_	_	_	
+47-26	13880-13882	be	_	_	_	
+47-27	13883-13887	hard	_	_	_	
+47-28	13888-13890	to	_	_	_	
+47-29	13891-13895	find	_	_	_	
+47-30	13896-13897	a	_	_	_	
+47-31	13898-13903	place	_	_	_	
+47-32	13904-13909	where	_	_	_	
+47-33	13910-13914	more	_	_	_	
+47-34	13917-13921	alms	_	_	_	
+47-35	13922-13925	are	_	_	_	
+47-36	13926-13931	asked	_	_	_	
+47-37	13931-13932	,	_	_	_	
+47-38	13933-13935	or	_	_	_	
+47-39	13936-13940	less	_	_	_	
+47-40	13941-13944	are	_	_	_	
+47-41	13945-13950	given	_	_	_	
+47-42	13950-13951	,	_	_	_	
+47-43	13952-13956	than	_	_	_	
+47-44	13957-13959	in	_	_	_	
+47-45	13960-13966	Venice	_	_	_	
+47-46	13966-13967	;	_	_	_	
+47-47	13968-13971	yet	_	_	_	
+47-48	13972-13973	I	_	_	_	
+47-49	13974-13979	never	_	_	_	
+47-50	13980-13983	saw	_	_	_	
+47-51	13986-13994	refusals	_	_	_	
+47-52	13995-13997	so	_	_	_	
+47-53	13998-14008	pleasingly	_	_	_	
+47-54	14009-14017	softened	_	_	_	
+47-55	14017-14018	,	_	_	_	
+47-56	14019-14021	as	_	_	_	
+47-57	14022-14024	by	_	_	_	
+47-58	14025-14028	the	_	_	_	
+47-59	14029-14036	manners	_	_	_	
+47-60	14037-14039	of	_	_	_	
+47-61	14040-14043	the	_	_	_	
+47-62	14044-14048	high	_	_	_	
+47-63	14049-14057	Italians	_	_	_	
+47-64	14060-14067	towards	_	_	_	
+47-65	14068-14071	the	_	_	_	
+47-66	14072-14075	low	_	_	_	
+47-67	14075-14076	.	_	_	_	
+
+#Text=Ladies in particular are so soft-mouthed, so tender in 
+#Text= replying to those who have their lot cast far below them, that one feels 
+#Text= one  '  s own harsher disposition corrected by their sweetness; and when 
+#Text= they called my maid _sister_, in good time--pressing her hand with 
+#Text= affectionate kindness, it melted me; though I feared from time to time
+#Text=of tormenting those who came to take musical instructions.
+48-1	14077-14083	Ladies	_	_	_	
+48-2	14084-14086	in	_	_	_	
+48-3	14087-14097	particular	_	_	_	
+48-4	14098-14101	are	_	_	_	
+48-5	14102-14104	so	_	_	_	
+48-6	14105-14117	soft-mouthed	_	_	_	
+48-7	14117-14118	,	_	_	_	
+48-8	14119-14121	so	_	_	_	
+48-9	14122-14128	tender	_	_	_	
+48-10	14129-14131	in	_	_	_	
+48-11	14134-14142	replying	_	_	_	
+48-12	14143-14145	to	_	_	_	
+48-13	14146-14151	those	_	_	_	
+48-14	14152-14155	who	_	_	_	
+48-15	14156-14160	have	_	_	_	
+48-16	14161-14166	their	_	_	_	
+48-17	14167-14170	lot	_	_	_	
+48-18	14171-14175	cast	_	_	_	
+48-19	14176-14179	far	_	_	_	
+48-20	14180-14185	below	_	_	_	
+48-21	14186-14190	them	_	_	_	
+48-22	14190-14191	,	_	_	_	
+48-23	14192-14196	that	_	_	_	
+48-24	14197-14200	one	_	_	_	
+48-25	14201-14206	feels	_	_	_	
+48-26	14209-14212	one	_	_	_	
+48-27	14214-14215	'	_	_	_	
+48-28	14217-14218	s	_	_	_	
+48-29	14219-14222	own	_	_	_	
+48-30	14223-14230	harsher	_	_	_	
+48-31	14231-14242	disposition	_	_	_	
+48-32	14243-14252	corrected	_	_	_	
+48-33	14253-14255	by	_	_	_	
+48-34	14256-14261	their	_	_	_	
+48-35	14262-14271	sweetness	_	_	_	
+48-36	14271-14272	;	_	_	_	
+48-37	14273-14276	and	_	_	_	
+48-38	14277-14281	when	_	_	_	
+48-39	14284-14288	they	_	_	_	
+48-40	14289-14295	called	_	_	_	
+48-41	14296-14298	my	_	_	_	
+48-42	14299-14303	maid	_	_	_	
+48-43	14304-14305	_	_	_	_	
+48-44	14305-14311	sister	_	_	_	
+48-45	14311-14312	_	_	_	_	
+48-46	14312-14313	,	_	_	_	
+48-47	14314-14316	in	_	_	_	
+48-48	14317-14321	good	_	_	_	
+48-49	14322-14326	time	_	_	_	
+48-50	14326-14327	-	_	_	_	
+48-51	14327-14328	-	_	_	_	
+48-52	14328-14336	pressing	_	_	_	
+48-53	14337-14340	her	_	_	_	
+48-54	14341-14345	hand	_	_	_	
+48-55	14346-14350	with	_	_	_	
+48-56	14353-14365	affectionate	_	_	_	
+48-57	14366-14374	kindness	_	_	_	
+48-58	14374-14375	,	_	_	_	
+48-59	14376-14378	it	_	_	_	
+48-60	14379-14385	melted	_	_	_	
+48-61	14386-14388	me	_	_	_	
+48-62	14388-14389	;	_	_	_	
+48-63	14390-14396	though	_	_	_	
+48-64	14397-14398	I	_	_	_	
+48-65	14399-14405	feared	_	_	_	
+48-66	14406-14410	from	_	_	_	
+48-67	14411-14415	time	_	_	_	
+48-68	14416-14418	to	_	_	_	
+48-69	14419-14423	time	_	_	_	
+48-70	14424-14426	of	_	_	_	
+48-71	14427-14437	tormenting	_	_	_	
+48-72	14438-14443	those	_	_	_	
+48-73	14444-14447	who	_	_	_	
+48-74	14448-14452	came	_	_	_	
+48-75	14453-14455	to	_	_	_	
+48-76	14456-14460	take	_	_	_	
+48-77	14461-14468	musical	_	_	_	
+48-78	14469-14481	instructions	_	_	_	
+48-79	14481-14482	.	_	_	_	
+
+#Text=With regard 
+#Text= to other actions of life, I saw nothing particular in the pigeon, but 
+#Text= his tameness, and strong attachment to his master: for though never 
+#Text= winged, and only clipped a very little, he never seeks to range away 
+#Text= from the house or quit his master  '  s service, any more than the dove of 
+#Text= Anacreon: 
+#Text=  
+#Text= While his better lot bestows 
+#Text= Sweet repast and soft repose; 
+#Text= And when feast and frolic tire, 
+#Text= Drops asleep upon his lyre.
+49-1	14483-14487	With	_	_	_	
+49-2	14488-14494	regard	_	_	_	
+49-3	14497-14499	to	_	_	_	
+49-4	14500-14505	other	_	_	_	
+49-5	14506-14513	actions	_	_	_	
+49-6	14514-14516	of	_	_	_	
+49-7	14517-14521	life	_	_	_	
+49-8	14521-14522	,	_	_	_	
+49-9	14523-14524	I	_	_	_	
+49-10	14525-14528	saw	_	_	_	
+49-11	14529-14536	nothing	_	_	_	
+49-12	14537-14547	particular	_	_	_	
+49-13	14548-14550	in	_	_	_	
+49-14	14551-14554	the	_	_	_	
+49-15	14555-14561	pigeon	_	_	_	
+49-16	14561-14562	,	_	_	_	
+49-17	14563-14566	but	_	_	_	
+49-18	14569-14572	his	_	_	_	
+49-19	14573-14581	tameness	_	_	_	
+49-20	14581-14582	,	_	_	_	
+49-21	14583-14586	and	_	_	_	
+49-22	14587-14593	strong	_	_	_	
+49-23	14594-14604	attachment	_	_	_	
+49-24	14605-14607	to	_	_	_	
+49-25	14608-14611	his	_	_	_	
+49-26	14612-14618	master	_	_	_	
+49-27	14618-14619	:	_	_	_	
+49-28	14620-14623	for	_	_	_	
+49-29	14624-14630	though	_	_	_	
+49-30	14631-14636	never	_	_	_	
+49-31	14639-14645	winged	_	_	_	
+49-32	14645-14646	,	_	_	_	
+49-33	14647-14650	and	_	_	_	
+49-34	14651-14655	only	_	_	_	
+49-35	14656-14663	clipped	_	_	_	
+49-36	14664-14665	a	_	_	_	
+49-37	14666-14670	very	_	_	_	
+49-38	14671-14677	little	_	_	_	
+49-39	14677-14678	,	_	_	_	
+49-40	14679-14681	he	_	_	_	
+49-41	14682-14687	never	_	_	_	
+49-42	14688-14693	seeks	_	_	_	
+49-43	14694-14696	to	_	_	_	
+49-44	14697-14702	range	_	_	_	
+49-45	14703-14707	away	_	_	_	
+49-46	14710-14714	from	_	_	_	
+49-47	14715-14718	the	_	_	_	
+49-48	14719-14724	house	_	_	_	
+49-49	14725-14727	or	_	_	_	
+49-50	14728-14732	quit	_	_	_	
+49-51	14733-14736	his	_	_	_	
+49-52	14737-14743	master	_	_	_	
+49-53	14745-14746	'	_	_	_	
+49-54	14748-14749	s	_	_	_	
+49-55	14750-14757	service	_	_	_	
+49-56	14757-14758	,	_	_	_	
+49-57	14759-14762	any	_	_	_	
+49-58	14763-14767	more	_	_	_	
+49-59	14768-14772	than	_	_	_	
+49-60	14773-14776	the	_	_	_	
+49-61	14777-14781	dove	_	_	_	
+49-62	14782-14784	of	_	_	_	
+49-63	14787-14795	Anacreon	_	_	_	
+49-64	14795-14796	:	_	_	_	
+49-65	14802-14807	While	_	_	_	
+49-66	14808-14811	his	_	_	_	
+49-67	14812-14818	better	_	_	_	
+49-68	14819-14822	lot	_	_	_	
+49-69	14823-14830	bestows	_	_	_	
+49-70	14833-14838	Sweet	_	_	_	
+49-71	14839-14845	repast	_	_	_	
+49-72	14846-14849	and	_	_	_	
+49-73	14850-14854	soft	_	_	_	
+49-74	14855-14861	repose	_	_	_	
+49-75	14861-14862	;	_	_	_	
+49-76	14865-14868	And	_	_	_	
+49-77	14869-14873	when	_	_	_	
+49-78	14874-14879	feast	_	_	_	
+49-79	14880-14883	and	_	_	_	
+49-80	14884-14890	frolic	_	_	_	
+49-81	14891-14895	tire	_	_	_	
+49-82	14895-14896	,	_	_	_	
+49-83	14899-14904	Drops	_	_	_	
+49-84	14905-14911	asleep	_	_	_	
+49-85	14912-14916	upon	_	_	_	
+49-86	14917-14920	his	_	_	_	
+49-87	14921-14925	lyre	_	_	_	
+49-88	14925-14926	.	_	_	_	
+
+#Text=All the difficulty will be indeed for us _other_ two-legged creatures to 
+#Text= leave the sweet societies of charming Venice; but they begin to grow 
+#Text= fatiguing now, as the weather increases in warmth.
+50-1	14932-14935	All	_	_	_	
+50-2	14936-14939	the	_	_	_	
+50-3	14940-14950	difficulty	_	_	_	
+50-4	14951-14955	will	_	_	_	
+50-5	14956-14958	be	_	_	_	
+50-6	14959-14965	indeed	_	_	_	
+50-7	14966-14969	for	_	_	_	
+50-8	14970-14972	us	_	_	_	
+50-9	14973-14974	_	_	_	_	
+50-10	14974-14979	other	_	_	_	
+50-11	14979-14980	_	_	_	_	
+50-12	14981-14991	two-legged	_	_	_	
+50-13	14992-15001	creatures	_	_	_	
+50-14	15002-15004	to	_	_	_	
+50-15	15007-15012	leave	_	_	_	
+50-16	15013-15016	the	_	_	_	
+50-17	15017-15022	sweet	_	_	_	
+50-18	15023-15032	societies	_	_	_	
+50-19	15033-15035	of	_	_	_	
+50-20	15036-15044	charming	_	_	_	
+50-21	15045-15051	Venice	_	_	_	
+50-22	15051-15052	;	_	_	_	
+50-23	15053-15056	but	_	_	_	
+50-24	15057-15061	they	_	_	_	
+50-25	15062-15067	begin	_	_	_	
+50-26	15068-15070	to	_	_	_	
+50-27	15071-15075	grow	_	_	_	
+50-28	15078-15087	fatiguing	_	_	_	
+50-29	15088-15091	now	_	_	_	
+50-30	15091-15092	,	_	_	_	
+50-31	15093-15095	as	_	_	_	
+50-32	15096-15099	the	_	_	_	
+50-33	15100-15107	weather	_	_	_	
+50-34	15108-15117	increases	_	_	_	
+50-35	15118-15120	in	_	_	_	
+50-36	15121-15127	warmth	_	_	_	
+50-37	15127-15128	.	_	_	_	
+
+#Text=I do think the Turkish sailor gave an admirable account of a carnival, 
+#Text= when he told his Mahometan friends at his return, That those poor 
+#Text= Christians were all disordered in their senses, and nearly in a state of 
+#Text= actual madness, while he remained among them, till one day, on a sudden,
+#Text=ratiocination, is apt to cry out, "_Cosa serve sosistieare cosi?
+51-1	15134-15135	I	_	_	_	
+51-2	15136-15138	do	_	_	_	
+51-3	15139-15144	think	_	_	_	
+51-4	15145-15148	the	_	_	_	
+51-5	15149-15156	Turkish	_	_	_	
+51-6	15157-15163	sailor	_	_	_	
+51-7	15164-15168	gave	_	_	_	
+51-8	15169-15171	an	_	_	_	
+51-9	15172-15181	admirable	_	_	_	
+51-10	15182-15189	account	_	_	_	
+51-11	15190-15192	of	_	_	_	
+51-12	15193-15194	a	_	_	_	
+51-13	15195-15203	carnival	_	_	_	
+51-14	15203-15204	,	_	_	_	
+51-15	15207-15211	when	_	_	_	
+51-16	15212-15214	he	_	_	_	
+51-17	15215-15219	told	_	_	_	
+51-18	15220-15223	his	_	_	_	
+51-19	15224-15233	Mahometan	_	_	_	
+51-20	15234-15241	friends	_	_	_	
+51-21	15242-15244	at	_	_	_	
+51-22	15245-15248	his	_	_	_	
+51-23	15249-15255	return	_	_	_	
+51-24	15255-15256	,	_	_	_	
+51-25	15257-15261	That	_	_	_	
+51-26	15262-15267	those	_	_	_	
+51-27	15268-15272	poor	_	_	_	
+51-28	15275-15285	Christians	_	_	_	
+51-29	15286-15290	were	_	_	_	
+51-30	15291-15294	all	_	_	_	
+51-31	15295-15305	disordered	_	_	_	
+51-32	15306-15308	in	_	_	_	
+51-33	15309-15314	their	_	_	_	
+51-34	15315-15321	senses	_	_	_	
+51-35	15321-15322	,	_	_	_	
+51-36	15323-15326	and	_	_	_	
+51-37	15327-15333	nearly	_	_	_	
+51-38	15334-15336	in	_	_	_	
+51-39	15337-15338	a	_	_	_	
+51-40	15339-15344	state	_	_	_	
+51-41	15345-15347	of	_	_	_	
+51-42	15350-15356	actual	_	_	_	
+51-43	15357-15364	madness	_	_	_	
+51-44	15364-15365	,	_	_	_	
+51-45	15366-15371	while	_	_	_	
+51-46	15372-15374	he	_	_	_	
+51-47	15375-15383	remained	_	_	_	
+51-48	15384-15389	among	_	_	_	
+51-49	15390-15394	them	_	_	_	
+51-50	15394-15395	,	_	_	_	
+51-51	15396-15400	till	_	_	_	
+51-52	15401-15404	one	_	_	_	
+51-53	15405-15408	day	_	_	_	
+51-54	15408-15409	,	_	_	_	
+51-55	15410-15412	on	_	_	_	
+51-56	15413-15414	a	_	_	_	
+51-57	15415-15421	sudden	_	_	_	
+51-58	15421-15422	,	_	_	_	
+51-59	15423-15436	ratiocination	_	_	_	
+51-60	15436-15437	,	_	_	_	
+51-61	15438-15440	is	_	_	_	
+51-62	15441-15444	apt	_	_	_	
+51-63	15445-15447	to	_	_	_	
+51-64	15448-15451	cry	_	_	_	
+51-65	15452-15455	out	_	_	_	
+51-66	15455-15456	,	_	_	_	
+51-67	15457-15458	"	_	_	_	
+51-68	15458-15459	_	_	_	_	
+51-69	15459-15463	Cosa	_	_	_	
+51-70	15464-15469	serve	_	_	_	
+51-71	15470-15481	sosistieare	_	_	_	
+51-72	15482-15486	cosi	_	_	_	
+51-73	15486-15487	?	_	_	_	
+
+#Text=ci farà 
+#Text= andare tutti matti_[V]."
+52-1	15488-15490	ci	_	_	_	
+52-2	15491-15495	farà	_	_	_	
+52-3	15498-15504	andare	_	_	_	
+52-4	15505-15510	tutti	_	_	_	
+52-5	15511-15516	matti	_	_	_	
+52-6	15516-15517	_	_	_	_	
+52-7	15517-15518	[	_	_	_	
+52-8	15518-15519	V	_	_	_	
+52-9	15519-15520	]	_	_	_	
+52-10	15520-15521	.	_	_	_	
+52-11	15521-15522	"	_	_	_	
+
+#Text=They have indeed so many external amusements in 
+#Text= the mere face of the country, that one is better inclined to pardon 
+#Text= _them_, than one would be to forgive inhabitants of less happy climates, 
+#Text= should they suffer _their_ intellectual powers to pine for want of 
+#Text= exercise, not food: for here is enough to think upon, God knows, were 
+#Text= they disposed so to employ their time; where one may justly affirm that, 
+#Text=  
+#Text= [Footnote V: What signifies all this minuteness of inquiry?
+53-1	15523-15527	They	_	_	_	
+53-2	15528-15532	have	_	_	_	
+53-3	15533-15539	indeed	_	_	_	
+53-4	15540-15542	so	_	_	_	
+53-5	15543-15547	many	_	_	_	
+53-6	15548-15556	external	_	_	_	
+53-7	15557-15567	amusements	_	_	_	
+53-8	15568-15570	in	_	_	_	
+53-9	15573-15576	the	_	_	_	
+53-10	15577-15581	mere	_	_	_	
+53-11	15582-15586	face	_	_	_	
+53-12	15587-15589	of	_	_	_	
+53-13	15590-15593	the	_	_	_	
+53-14	15594-15601	country	_	_	_	
+53-15	15601-15602	,	_	_	_	
+53-16	15603-15607	that	_	_	_	
+53-17	15608-15611	one	_	_	_	
+53-18	15612-15614	is	_	_	_	
+53-19	15615-15621	better	_	_	_	
+53-20	15622-15630	inclined	_	_	_	
+53-21	15631-15633	to	_	_	_	
+53-22	15634-15640	pardon	_	_	_	
+53-23	15643-15644	_	_	_	_	
+53-24	15644-15648	them	_	_	_	
+53-25	15648-15649	_	_	_	_	
+53-26	15649-15650	,	_	_	_	
+53-27	15651-15655	than	_	_	_	
+53-28	15656-15659	one	_	_	_	
+53-29	15660-15665	would	_	_	_	
+53-30	15666-15668	be	_	_	_	
+53-31	15669-15671	to	_	_	_	
+53-32	15672-15679	forgive	_	_	_	
+53-33	15680-15691	inhabitants	_	_	_	
+53-34	15692-15694	of	_	_	_	
+53-35	15695-15699	less	_	_	_	
+53-36	15700-15705	happy	_	_	_	
+53-37	15706-15714	climates	_	_	_	
+53-38	15714-15715	,	_	_	_	
+53-39	15718-15724	should	_	_	_	
+53-40	15725-15729	they	_	_	_	
+53-41	15730-15736	suffer	_	_	_	
+53-42	15737-15738	_	_	_	_	
+53-43	15738-15743	their	_	_	_	
+53-44	15743-15744	_	_	_	_	
+53-45	15745-15757	intellectual	_	_	_	
+53-46	15758-15764	powers	_	_	_	
+53-47	15765-15767	to	_	_	_	
+53-48	15768-15772	pine	_	_	_	
+53-49	15773-15776	for	_	_	_	
+53-50	15777-15781	want	_	_	_	
+53-51	15782-15784	of	_	_	_	
+53-52	15787-15795	exercise	_	_	_	
+53-53	15795-15796	,	_	_	_	
+53-54	15797-15800	not	_	_	_	
+53-55	15801-15805	food	_	_	_	
+53-56	15805-15806	:	_	_	_	
+53-57	15807-15810	for	_	_	_	
+53-58	15811-15815	here	_	_	_	
+53-59	15816-15818	is	_	_	_	
+53-60	15819-15825	enough	_	_	_	
+53-61	15826-15828	to	_	_	_	
+53-62	15829-15834	think	_	_	_	
+53-63	15835-15839	upon	_	_	_	
+53-64	15839-15840	,	_	_	_	
+53-65	15841-15844	God	_	_	_	
+53-66	15845-15850	knows	_	_	_	
+53-67	15850-15851	,	_	_	_	
+53-68	15852-15856	were	_	_	_	
+53-69	15859-15863	they	_	_	_	
+53-70	15864-15872	disposed	_	_	_	
+53-71	15873-15875	so	_	_	_	
+53-72	15876-15878	to	_	_	_	
+53-73	15879-15885	employ	_	_	_	
+53-74	15886-15891	their	_	_	_	
+53-75	15892-15896	time	_	_	_	
+53-76	15896-15897	;	_	_	_	
+53-77	15898-15903	where	_	_	_	
+53-78	15904-15907	one	_	_	_	
+53-79	15908-15911	may	_	_	_	
+53-80	15912-15918	justly	_	_	_	
+53-81	15919-15925	affirm	_	_	_	
+53-82	15926-15930	that	_	_	_	
+53-83	15930-15931	,	_	_	_	
+53-84	15937-15938	[	_	_	_	
+53-85	15938-15946	Footnote	_	_	_	
+53-86	15947-15948	V	_	_	_	
+53-87	15948-15949	:	_	_	_	
+53-88	15950-15954	What	_	_	_	
+53-89	15955-15964	signifies	_	_	_	
+53-90	15965-15968	all	_	_	_	
+53-91	15969-15973	this	_	_	_	
+53-92	15974-15984	minuteness	_	_	_	
+53-93	15985-15987	of	_	_	_	
+53-94	15988-15995	inquiry	_	_	_	
+53-95	15995-15996	?	_	_	_	
+
+#Text=--it will 
+#Text= drive us mad.]
+54-1	15996-15997	-	_	_	_	
+54-2	15997-15998	-	_	_	_	
+54-3	15998-16000	it	_	_	_	
+54-4	16001-16005	will	_	_	_	
+54-5	16008-16013	drive	_	_	_	
+54-6	16014-16016	us	_	_	_	
+54-7	16017-16020	mad	_	_	_	
+54-8	16020-16021	.	_	_	_	
+54-9	16021-16022	]	_	_	_	
+
+#Text=On every thorn delightful wisdom grows, 
+#Text= And in each rill, some sweet instruction flows; 
+#Text= But some untaught o  '  erhear the murmuring rill, 
+#Text= In spite of sacred leisure--blockheads still.
+55-1	16028-16030	On	_	_	_	
+55-2	16031-16036	every	_	_	_	
+55-3	16037-16042	thorn	_	_	_	
+55-4	16043-16053	delightful	_	_	_	
+55-5	16054-16060	wisdom	_	_	_	
+55-6	16061-16066	grows	_	_	_	
+55-7	16066-16067	,	_	_	_	
+55-8	16070-16073	And	_	_	_	
+55-9	16074-16076	in	_	_	_	
+55-10	16077-16081	each	_	_	_	
+55-11	16082-16086	rill	_	_	_	
+55-12	16086-16087	,	_	_	_	
+55-13	16088-16092	some	_	_	_	
+55-14	16093-16098	sweet	_	_	_	
+55-15	16099-16110	instruction	_	_	_	
+55-16	16111-16116	flows	_	_	_	
+55-17	16116-16117	;	_	_	_	
+55-18	16120-16123	But	_	_	_	
+55-19	16124-16128	some	_	_	_	
+55-20	16129-16137	untaught	_	_	_	
+55-21	16138-16139	o	_	_	_	
+55-22	16141-16142	'	_	_	_	
+55-23	16144-16150	erhear	_	_	_	
+55-24	16151-16154	the	_	_	_	
+55-25	16155-16164	murmuring	_	_	_	
+55-26	16165-16169	rill	_	_	_	
+55-27	16169-16170	,	_	_	_	
+55-28	16173-16175	In	_	_	_	
+55-29	16176-16181	spite	_	_	_	
+55-30	16182-16184	of	_	_	_	
+55-31	16185-16191	sacred	_	_	_	
+55-32	16192-16199	leisure	_	_	_	
+55-33	16199-16200	-	_	_	_	
+55-34	16200-16201	-	_	_	_	
+55-35	16201-16211	blockheads	_	_	_	
+55-36	16212-16217	still	_	_	_	
+55-37	16217-16218	.	_	_	_	
+
+#Text=The road from Padua hither is not a good one; but so adorned, one cares 
+#Text= not much whether it is good or no: so sweetly are the mulberry-trees 
+#Text= planted on each side, with vines richly festooning up and down them, as 
+#Text= if for the decoration of a dance at the opera.
+56-1	16224-16227	The	_	_	_	
+56-2	16228-16232	road	_	_	_	
+56-3	16233-16237	from	_	_	_	
+56-4	16238-16243	Padua	_	_	_	
+56-5	16244-16250	hither	_	_	_	
+56-6	16251-16253	is	_	_	_	
+56-7	16254-16257	not	_	_	_	
+56-8	16258-16259	a	_	_	_	
+56-9	16260-16264	good	_	_	_	
+56-10	16265-16268	one	_	_	_	
+56-11	16268-16269	;	_	_	_	
+56-12	16270-16273	but	_	_	_	
+56-13	16274-16276	so	_	_	_	
+56-14	16277-16284	adorned	_	_	_	
+56-15	16284-16285	,	_	_	_	
+56-16	16286-16289	one	_	_	_	
+56-17	16290-16295	cares	_	_	_	
+56-18	16298-16301	not	_	_	_	
+56-19	16302-16306	much	_	_	_	
+56-20	16307-16314	whether	_	_	_	
+56-21	16315-16317	it	_	_	_	
+56-22	16318-16320	is	_	_	_	
+56-23	16321-16325	good	_	_	_	
+56-24	16326-16328	or	_	_	_	
+56-25	16329-16331	no	_	_	_	
+56-26	16331-16332	:	_	_	_	
+56-27	16333-16335	so	_	_	_	
+56-28	16336-16343	sweetly	_	_	_	
+56-29	16344-16347	are	_	_	_	
+56-30	16348-16351	the	_	_	_	
+56-31	16352-16366	mulberry-trees	_	_	_	
+56-32	16369-16376	planted	_	_	_	
+56-33	16377-16379	on	_	_	_	
+56-34	16380-16384	each	_	_	_	
+56-35	16385-16389	side	_	_	_	
+56-36	16389-16390	,	_	_	_	
+56-37	16391-16395	with	_	_	_	
+56-38	16396-16401	vines	_	_	_	
+56-39	16402-16408	richly	_	_	_	
+56-40	16409-16419	festooning	_	_	_	
+56-41	16420-16422	up	_	_	_	
+56-42	16423-16426	and	_	_	_	
+56-43	16427-16431	down	_	_	_	
+56-44	16432-16436	them	_	_	_	
+56-45	16436-16437	,	_	_	_	
+56-46	16438-16440	as	_	_	_	
+56-47	16443-16445	if	_	_	_	
+56-48	16446-16449	for	_	_	_	
+56-49	16450-16453	the	_	_	_	
+56-50	16454-16464	decoration	_	_	_	
+56-51	16465-16467	of	_	_	_	
+56-52	16468-16469	a	_	_	_	
+56-53	16470-16475	dance	_	_	_	
+56-54	16476-16478	at	_	_	_	
+56-55	16479-16482	the	_	_	_	
+56-56	16483-16488	opera	_	_	_	
+56-57	16488-16489	.	_	_	_	
+
+#Text=One really expects the
+#Text=that we call bleeding-hearts, hard to the bite, and parting easily from 
+#Text= the stone, which is proportionately small.
+57-1	16490-16493	One	_	_	_	
+57-2	16494-16500	really	_	_	_	
+57-3	16501-16508	expects	_	_	_	
+57-4	16509-16512	the	_	_	_	
+57-5	16513-16517	that	_	_	_	
+57-6	16518-16520	we	_	_	_	
+57-7	16521-16525	call	_	_	_	
+57-8	16526-16541	bleeding-hearts	_	_	_	
+57-9	16541-16542	,	_	_	_	
+57-10	16543-16547	hard	_	_	_	
+57-11	16548-16550	to	_	_	_	
+57-12	16551-16554	the	_	_	_	
+57-13	16555-16559	bite	_	_	_	
+57-14	16559-16560	,	_	_	_	
+57-15	16561-16564	and	_	_	_	
+57-16	16565-16572	parting	_	_	_	
+57-17	16573-16579	easily	_	_	_	
+57-18	16580-16584	from	_	_	_	
+57-19	16587-16590	the	_	_	_	
+57-20	16591-16596	stone	_	_	_	
+57-21	16596-16597	,	_	_	_	
+57-22	16598-16603	which	_	_	_	
+57-23	16604-16606	is	_	_	_	
+57-24	16607-16622	proportionately	_	_	_	
+57-25	16623-16628	small	_	_	_	
+57-26	16628-16629	.	_	_	_	
+
+#Text=Figs too are here in such 
+#Text= perfection, that it is not easy for an English gardener to guess at 
+#Text= their excellence; for it is not by superior size, but taste and colour, 
+#Text= that _they_ are distinguished; small, and green on the outside, a bright 
+#Text= full crimson within, and we eat them with raw ham, and truly delicious 
+#Text= is the dainty.
+58-1	16630-16634	Figs	Taste Source	_	_	
+58-2	16635-16638	too	_	_	_	
+58-3	16639-16642	are	_	_	_	
+58-4	16643-16647	here	_	_	_	
+58-5	16648-16650	in	_	_	_	
+58-6	16651-16655	such	_	_	_	
+58-7	16658-16668	perfection	_	_	_	
+58-8	16668-16669	,	_	_	_	
+58-9	16670-16674	that	_	_	_	
+58-10	16675-16677	it	_	_	_	
+58-11	16678-16680	is	_	_	_	
+58-12	16681-16684	not	_	_	_	
+58-13	16685-16689	easy	_	_	_	
+58-14	16690-16693	for	_	_	_	
+58-15	16694-16696	an	_	_	_	
+58-16	16697-16704	English	_	_	_	
+58-17	16705-16713	gardener	_	_	_	
+58-18	16714-16716	to	_	_	_	
+58-19	16717-16722	guess	_	_	_	
+58-20	16723-16725	at	_	_	_	
+58-21	16728-16733	their	_	_	_	
+58-22	16734-16744	excellence	_	_	_	
+58-23	16744-16745	;	_	_	_	
+58-24	16746-16749	for	_	_	_	
+58-25	16750-16752	it	_	_	_	
+58-26	16753-16755	is	_	_	_	
+58-27	16756-16759	not	_	_	_	
+58-28	16760-16762	by	_	_	_	
+58-29	16763-16771	superior	_	_	_	
+58-30	16772-16776	size	_	_	_	
+58-31	16776-16777	,	_	_	_	
+58-32	16778-16781	but	_	_	_	
+58-33	16782-16787	taste	Taste Word	*	58-1	
+58-34	16788-16791	and	_	_	_	
+58-35	16792-16798	colour	_	_	_	
+58-36	16798-16799	,	_	_	_	
+58-37	16802-16806	that	_	_	_	
+58-38	16807-16808	_	_	_	_	
+58-39	16808-16812	they	_	_	_	
+58-40	16812-16813	_	_	_	_	
+58-41	16814-16817	are	_	_	_	
+58-42	16818-16831	distinguished	_	_	_	
+58-43	16831-16832	;	_	_	_	
+58-44	16833-16838	small	_	_	_	
+58-45	16838-16839	,	_	_	_	
+58-46	16840-16843	and	_	_	_	
+58-47	16844-16849	green	_	_	_	
+58-48	16850-16852	on	_	_	_	
+58-49	16853-16856	the	_	_	_	
+58-50	16857-16864	outside	_	_	_	
+58-51	16864-16865	,	_	_	_	
+58-52	16866-16867	a	_	_	_	
+58-53	16868-16874	bright	_	_	_	
+58-54	16877-16881	full	_	_	_	
+58-55	16882-16889	crimson	_	_	_	
+58-56	16890-16896	within	_	_	_	
+58-57	16896-16897	,	_	_	_	
+58-58	16898-16901	and	_	_	_	
+58-59	16902-16904	we	Taster	_	_	
+58-60	16905-16908	eat	Taste Word	*|*|*	58-62[17_0]|58-59|58-61	
+58-61	16909-16913	them	Taste Source	anaphorical	58-1	
+58-62	16914-16918	with	Taste Modifier[17]	_	_	
+58-63	16919-16922	raw	Taste Modifier[17]	_	_	
+58-64	16923-16926	ham	Taste Modifier[17]	_	_	
+58-65	16926-16927	,	_	_	_	
+58-66	16928-16931	and	_	_	_	
+58-67	16932-16937	truly	Quality	_	_	
+58-68	16938-16947	delicious	Quality[18]|Taste Word[19]	*|*	58-68[18_19]|58-67[0_19]	
+58-69	16950-16952	is	_	_	_	
+58-70	16953-16956	the	_	_	_	
+58-71	16957-16963	dainty	Taste Word	*	58-68[18_0]	
+58-72	16963-16964	.	_	_	_	
+
+#Text=By raw ham, I mean ham cured, not boiled or roasted.
+59-1	16965-16967	By	_	_	_	
+59-2	16968-16971	raw	_	_	_	
+59-3	16972-16975	ham	_	_	_	
+59-4	16975-16976	,	_	_	_	
+59-5	16977-16978	I	_	_	_	
+59-6	16979-16983	mean	_	_	_	
+59-7	16984-16987	ham	_	_	_	
+59-8	16988-16993	cured	_	_	_	
+59-9	16993-16994	,	_	_	_	
+59-10	16995-16998	not	_	_	_	
+59-11	16999-17005	boiled	_	_	_	
+59-12	17006-17008	or	_	_	_	
+59-13	17009-17016	roasted	_	_	_	
+59-14	17016-17017	.	_	_	_	
+
+#Text=It 
+#Text= is no wonder though that fruits should mature in such a sun as this is; 
+#Text= which, to give a just notion of its penetrating fire, I will take leave 
+#Text= to tell my countrywomen is so violent, that I use no other method of 
+#Text= heating the pinching-irons to curl my hair, than that of poking them out 
+#Text= at a south window, with the handles shut in, and the glasses darkened to 
+#Text= keep us from being actually fired in his beams.
+60-1	17018-17020	It	_	_	_	
+60-2	17023-17025	is	_	_	_	
+60-3	17026-17028	no	_	_	_	
+60-4	17029-17035	wonder	_	_	_	
+60-5	17036-17042	though	_	_	_	
+60-6	17043-17047	that	_	_	_	
+60-7	17048-17054	fruits	_	_	_	
+60-8	17055-17061	should	_	_	_	
+60-9	17062-17068	mature	_	_	_	
+60-10	17069-17071	in	_	_	_	
+60-11	17072-17076	such	_	_	_	
+60-12	17077-17078	a	_	_	_	
+60-13	17079-17082	sun	_	_	_	
+60-14	17083-17085	as	_	_	_	
+60-15	17086-17090	this	_	_	_	
+60-16	17091-17093	is	_	_	_	
+60-17	17093-17094	;	_	_	_	
+60-18	17097-17102	which	_	_	_	
+60-19	17102-17103	,	_	_	_	
+60-20	17104-17106	to	_	_	_	
+60-21	17107-17111	give	_	_	_	
+60-22	17112-17113	a	_	_	_	
+60-23	17114-17118	just	_	_	_	
+60-24	17119-17125	notion	_	_	_	
+60-25	17126-17128	of	_	_	_	
+60-26	17129-17132	its	_	_	_	
+60-27	17133-17144	penetrating	_	_	_	
+60-28	17145-17149	fire	_	_	_	
+60-29	17149-17150	,	_	_	_	
+60-30	17151-17152	I	_	_	_	
+60-31	17153-17157	will	_	_	_	
+60-32	17158-17162	take	_	_	_	
+60-33	17163-17168	leave	_	_	_	
+60-34	17171-17173	to	_	_	_	
+60-35	17174-17178	tell	_	_	_	
+60-36	17179-17181	my	_	_	_	
+60-37	17182-17194	countrywomen	_	_	_	
+60-38	17195-17197	is	_	_	_	
+60-39	17198-17200	so	_	_	_	
+60-40	17201-17208	violent	_	_	_	
+60-41	17208-17209	,	_	_	_	
+60-42	17210-17214	that	_	_	_	
+60-43	17215-17216	I	_	_	_	
+60-44	17217-17220	use	_	_	_	
+60-45	17221-17223	no	_	_	_	
+60-46	17224-17229	other	_	_	_	
+60-47	17230-17236	method	_	_	_	
+60-48	17237-17239	of	_	_	_	
+60-49	17242-17249	heating	_	_	_	
+60-50	17250-17253	the	_	_	_	
+60-51	17254-17268	pinching-irons	_	_	_	
+60-52	17269-17271	to	_	_	_	
+60-53	17272-17276	curl	_	_	_	
+60-54	17277-17279	my	_	_	_	
+60-55	17280-17284	hair	_	_	_	
+60-56	17284-17285	,	_	_	_	
+60-57	17286-17290	than	_	_	_	
+60-58	17291-17295	that	_	_	_	
+60-59	17296-17298	of	_	_	_	
+60-60	17299-17305	poking	_	_	_	
+60-61	17306-17310	them	_	_	_	
+60-62	17311-17314	out	_	_	_	
+60-63	17317-17319	at	_	_	_	
+60-64	17320-17321	a	_	_	_	
+60-65	17322-17327	south	_	_	_	
+60-66	17328-17334	window	_	_	_	
+60-67	17334-17335	,	_	_	_	
+60-68	17336-17340	with	_	_	_	
+60-69	17341-17344	the	_	_	_	
+60-70	17345-17352	handles	_	_	_	
+60-71	17353-17357	shut	_	_	_	
+60-72	17358-17360	in	_	_	_	
+60-73	17360-17361	,	_	_	_	
+60-74	17362-17365	and	_	_	_	
+60-75	17366-17369	the	_	_	_	
+60-76	17370-17377	glasses	_	_	_	
+60-77	17378-17386	darkened	_	_	_	
+60-78	17387-17389	to	_	_	_	
+60-79	17392-17396	keep	_	_	_	
+60-80	17397-17399	us	_	_	_	
+60-81	17400-17404	from	_	_	_	
+60-82	17405-17410	being	_	_	_	
+60-83	17411-17419	actually	_	_	_	
+60-84	17420-17425	fired	_	_	_	
+60-85	17426-17428	in	_	_	_	
+60-86	17429-17432	his	_	_	_	
+60-87	17433-17438	beams	_	_	_	
+60-88	17438-17439	.	_	_	_	
+
+#Text=Before I leave off 
+#Text= speaking about the fruit, I must add, that both fig and cherry are 
+#Text= produced by standards; that the strawberries here are small and 
+#Text= high-flavoured, like our _woods_, and that there are no other.
+61-1	17440-17446	Before	_	_	_	
+61-2	17447-17448	I	_	_	_	
+61-3	17449-17454	leave	_	_	_	
+61-4	17455-17458	off	_	_	_	
+61-5	17461-17469	speaking	_	_	_	
+61-6	17470-17475	about	_	_	_	
+61-7	17476-17479	the	_	_	_	
+61-8	17480-17485	fruit	_	_	_	
+61-9	17485-17486	,	_	_	_	
+61-10	17487-17488	I	_	_	_	
+61-11	17489-17493	must	_	_	_	
+61-12	17494-17497	add	_	_	_	
+61-13	17497-17498	,	_	_	_	
+61-14	17499-17503	that	_	_	_	
+61-15	17504-17508	both	_	_	_	
+61-16	17509-17512	fig	_	_	_	
+61-17	17513-17516	and	_	_	_	
+61-18	17517-17523	cherry	_	_	_	
+61-19	17524-17527	are	_	_	_	
+61-20	17530-17538	produced	_	_	_	
+61-21	17539-17541	by	_	_	_	
+61-22	17542-17551	standards	_	_	_	
+61-23	17551-17552	;	_	_	_	
+61-24	17553-17557	that	_	_	_	
+61-25	17558-17561	the	Taste Source[20]	_	_	
+61-26	17562-17574	strawberries	Taste Source[20]	_	_	
+61-27	17575-17579	here	_	_	_	
+61-28	17580-17583	are	_	_	_	
+61-29	17584-17589	small	_	_	_	
+61-30	17590-17593	and	_	_	_	
+61-31	17596-17610	high-flavoured	Taste Word[21]|Quality[22]	*|*|*	61-31[22_21]|61-33[23_21]|61-25[20_21]	
+61-32	17610-17611	,	_	_	_	
+61-33	17612-17616	like	Evoked Taste[23]	_	_	
+61-34	17617-17620	our	Evoked Taste[23]	_	_	
+61-35	17621-17622	_	Evoked Taste[23]	_	_	
+61-36	17622-17627	woods	Evoked Taste[23]	_	_	
+61-37	17627-17628	_	Evoked Taste[23]	_	_	
+61-38	17628-17629	,	_	_	_	
+61-39	17630-17633	and	_	_	_	
+61-40	17634-17638	that	_	_	_	
+61-41	17639-17644	there	_	_	_	
+61-42	17645-17648	are	_	_	_	
+61-43	17649-17651	no	_	_	_	
+61-44	17652-17657	other	_	_	_	
+61-45	17657-17658	.	_	_	_	
+
+#Text=England 
+#Text= affords greater variety in _that_ kind of fruit than any nation; and as 
+#Text= to peaches, nectarines, or green-gage plums, I have seen none yet.
+62-1	17659-17666	England	_	_	_	
+62-2	17669-17676	affords	_	_	_	
+62-3	17677-17684	greater	_	_	_	
+62-4	17685-17692	variety	_	_	_	
+62-5	17693-17695	in	_	_	_	
+62-6	17696-17697	_	_	_	_	
+62-7	17697-17701	that	_	_	_	
+62-8	17701-17702	_	_	_	_	
+62-9	17703-17707	kind	_	_	_	
+62-10	17708-17710	of	_	_	_	
+62-11	17711-17716	fruit	_	_	_	
+62-12	17717-17721	than	_	_	_	
+62-13	17722-17725	any	_	_	_	
+62-14	17726-17732	nation	_	_	_	
+62-15	17732-17733	;	_	_	_	
+62-16	17734-17737	and	_	_	_	
+62-17	17738-17740	as	_	_	_	
+62-18	17743-17745	to	_	_	_	
+62-19	17746-17753	peaches	_	_	_	
+62-20	17753-17754	,	_	_	_	
+62-21	17755-17765	nectarines	_	_	_	
+62-22	17765-17766	,	_	_	_	
+62-23	17767-17769	or	_	_	_	
+62-24	17770-17780	green-gage	_	_	_	
+62-25	17781-17786	plums	_	_	_	
+62-26	17786-17787	,	_	_	_	
+62-27	17788-17789	I	_	_	_	
+62-28	17790-17794	have	_	_	_	
+62-29	17795-17799	seen	_	_	_	
+62-30	17800-17804	none	_	_	_	
+62-31	17805-17808	yet	_	_	_	
+62-32	17808-17809	.	_	_	_	
+
+#Text=Lady 
+#Text= Cowper has made us a present of a small pine-apple, but the Italians 
+#Text= have no taste to it.
+63-1	17810-17814	Lady	_	_	_	
+63-2	17817-17823	Cowper	_	_	_	
+63-3	17824-17827	has	_	_	_	
+63-4	17828-17832	made	_	_	_	
+63-5	17833-17835	us	_	_	_	
+63-6	17836-17837	a	_	_	_	
+63-7	17838-17845	present	_	_	_	
+63-8	17846-17848	of	_	_	_	
+63-9	17849-17850	a	Taste Source[24]	_	_	
+63-10	17851-17856	small	Taste Source[24]	_	_	
+63-11	17857-17867	pine-apple	Taste Source[24]	_	_	
+63-12	17867-17868	,	_	_	_	
+63-13	17869-17872	but	_	_	_	
+63-14	17873-17876	the	Taster[25]	_	_	
+63-15	17877-17885	Italians	Taster[25]	_	_	
+63-16	17888-17892	have	_	_	_	
+63-17	17893-17895	no	_	_	_	
+63-18	17896-17901	taste	Taste Word	*|*	63-9[24_0]|63-14[25_0]	
+63-19	17902-17904	to	_	_	_	
+63-20	17905-17907	it	_	_	_	
+63-21	17907-17908	.	_	_	_	
+
+#Text=Here is sun enough to ripen them without hot-houses
+#Text=Italian than almost any Englishman, and studies it more closely, refuse 
+#Text= to decide in critical disputations among his literary friends here, 
+#Text= though the sonnets he writes in the Tuscan language are praised by the 
+#Text= natives, who best understand it, and have been by some of them preferred 
+#Text= to those written by Milton himself.
+64-1	17909-17913	Here	_	_	_	
+64-2	17914-17916	is	_	_	_	
+64-3	17917-17920	sun	_	_	_	
+64-4	17921-17927	enough	_	_	_	
+64-5	17928-17930	to	_	_	_	
+64-6	17931-17936	ripen	_	_	_	
+64-7	17937-17941	them	_	_	_	
+64-8	17942-17949	without	_	_	_	
+64-9	17950-17960	hot-houses	_	_	_	
+64-10	17961-17968	Italian	_	_	_	
+64-11	17969-17973	than	_	_	_	
+64-12	17974-17980	almost	_	_	_	
+64-13	17981-17984	any	_	_	_	
+64-14	17985-17995	Englishman	_	_	_	
+64-15	17995-17996	,	_	_	_	
+64-16	17997-18000	and	_	_	_	
+64-17	18001-18008	studies	_	_	_	
+64-18	18009-18011	it	_	_	_	
+64-19	18012-18016	more	_	_	_	
+64-20	18017-18024	closely	_	_	_	
+64-21	18024-18025	,	_	_	_	
+64-22	18026-18032	refuse	_	_	_	
+64-23	18035-18037	to	_	_	_	
+64-24	18038-18044	decide	_	_	_	
+64-25	18045-18047	in	_	_	_	
+64-26	18048-18056	critical	_	_	_	
+64-27	18057-18069	disputations	_	_	_	
+64-28	18070-18075	among	_	_	_	
+64-29	18076-18079	his	_	_	_	
+64-30	18080-18088	literary	_	_	_	
+64-31	18089-18096	friends	_	_	_	
+64-32	18097-18101	here	_	_	_	
+64-33	18101-18102	,	_	_	_	
+64-34	18105-18111	though	_	_	_	
+64-35	18112-18115	the	_	_	_	
+64-36	18116-18123	sonnets	_	_	_	
+64-37	18124-18126	he	_	_	_	
+64-38	18127-18133	writes	_	_	_	
+64-39	18134-18136	in	_	_	_	
+64-40	18137-18140	the	_	_	_	
+64-41	18141-18147	Tuscan	_	_	_	
+64-42	18148-18156	language	_	_	_	
+64-43	18157-18160	are	_	_	_	
+64-44	18161-18168	praised	_	_	_	
+64-45	18169-18171	by	_	_	_	
+64-46	18172-18175	the	_	_	_	
+64-47	18178-18185	natives	_	_	_	
+64-48	18185-18186	,	_	_	_	
+64-49	18187-18190	who	_	_	_	
+64-50	18191-18195	best	_	_	_	
+64-51	18196-18206	understand	_	_	_	
+64-52	18207-18209	it	_	_	_	
+64-53	18209-18210	,	_	_	_	
+64-54	18211-18214	and	_	_	_	
+64-55	18215-18219	have	_	_	_	
+64-56	18220-18224	been	_	_	_	
+64-57	18225-18227	by	_	_	_	
+64-58	18228-18232	some	_	_	_	
+64-59	18233-18235	of	_	_	_	
+64-60	18236-18240	them	_	_	_	
+64-61	18241-18250	preferred	_	_	_	
+64-62	18253-18255	to	_	_	_	
+64-63	18256-18261	those	_	_	_	
+64-64	18262-18269	written	_	_	_	
+64-65	18270-18272	by	_	_	_	
+64-66	18273-18279	Milton	_	_	_	
+64-67	18280-18287	himself	_	_	_	
+64-68	18287-18288	.	_	_	_	
+
+#Text=Mean time this is acknowledged to 
+#Text= be the prime city for purity of phrase and delicacy of expression, 
+#Text= which, at last, is so disguised to me by the guttural manner in which 
+#Text= many sounds are pronounced, that I feel half weary of running about from 
+#Text= town to town so, and never arriving at any, where I can understand the 
+#Text= conversation without putting all the attention possible to their 
+#Text= discourse.
+65-1	18289-18293	Mean	_	_	_	
+65-2	18294-18298	time	_	_	_	
+65-3	18299-18303	this	_	_	_	
+65-4	18304-18306	is	_	_	_	
+65-5	18307-18319	acknowledged	_	_	_	
+65-6	18320-18322	to	_	_	_	
+65-7	18325-18327	be	_	_	_	
+65-8	18328-18331	the	_	_	_	
+65-9	18332-18337	prime	_	_	_	
+65-10	18338-18342	city	_	_	_	
+65-11	18343-18346	for	_	_	_	
+65-12	18347-18353	purity	_	_	_	
+65-13	18354-18356	of	_	_	_	
+65-14	18357-18363	phrase	_	_	_	
+65-15	18364-18367	and	_	_	_	
+65-16	18368-18376	delicacy	_	_	_	
+65-17	18377-18379	of	_	_	_	
+65-18	18380-18390	expression	_	_	_	
+65-19	18390-18391	,	_	_	_	
+65-20	18394-18399	which	_	_	_	
+65-21	18399-18400	,	_	_	_	
+65-22	18401-18403	at	_	_	_	
+65-23	18404-18408	last	_	_	_	
+65-24	18408-18409	,	_	_	_	
+65-25	18410-18412	is	_	_	_	
+65-26	18413-18415	so	_	_	_	
+65-27	18416-18425	disguised	_	_	_	
+65-28	18426-18428	to	_	_	_	
+65-29	18429-18431	me	_	_	_	
+65-30	18432-18434	by	_	_	_	
+65-31	18435-18438	the	_	_	_	
+65-32	18439-18447	guttural	_	_	_	
+65-33	18448-18454	manner	_	_	_	
+65-34	18455-18457	in	_	_	_	
+65-35	18458-18463	which	_	_	_	
+65-36	18466-18470	many	_	_	_	
+65-37	18471-18477	sounds	_	_	_	
+65-38	18478-18481	are	_	_	_	
+65-39	18482-18492	pronounced	_	_	_	
+65-40	18492-18493	,	_	_	_	
+65-41	18494-18498	that	_	_	_	
+65-42	18499-18500	I	_	_	_	
+65-43	18501-18505	feel	_	_	_	
+65-44	18506-18510	half	_	_	_	
+65-45	18511-18516	weary	_	_	_	
+65-46	18517-18519	of	_	_	_	
+65-47	18520-18527	running	_	_	_	
+65-48	18528-18533	about	_	_	_	
+65-49	18534-18538	from	_	_	_	
+65-50	18541-18545	town	_	_	_	
+65-51	18546-18548	to	_	_	_	
+65-52	18549-18553	town	_	_	_	
+65-53	18554-18556	so	_	_	_	
+65-54	18556-18557	,	_	_	_	
+65-55	18558-18561	and	_	_	_	
+65-56	18562-18567	never	_	_	_	
+65-57	18568-18576	arriving	_	_	_	
+65-58	18577-18579	at	_	_	_	
+65-59	18580-18583	any	_	_	_	
+65-60	18583-18584	,	_	_	_	
+65-61	18585-18590	where	_	_	_	
+65-62	18591-18592	I	_	_	_	
+65-63	18593-18596	can	_	_	_	
+65-64	18597-18607	understand	_	_	_	
+65-65	18608-18611	the	_	_	_	
+65-66	18614-18626	conversation	_	_	_	
+65-67	18627-18634	without	_	_	_	
+65-68	18635-18642	putting	_	_	_	
+65-69	18643-18646	all	_	_	_	
+65-70	18647-18650	the	_	_	_	
+65-71	18651-18660	attention	_	_	_	
+65-72	18661-18669	possible	_	_	_	
+65-73	18670-18672	to	_	_	_	
+65-74	18673-18678	their	_	_	_	
+65-75	18681-18690	discourse	_	_	_	
+65-76	18690-18691	.	_	_	_	
+
+#Text=I am now told that less efforts will be necessary at Rome.
+66-1	18692-18693	I	_	_	_	
+66-2	18694-18696	am	_	_	_	
+66-3	18697-18700	now	_	_	_	
+66-4	18701-18705	told	_	_	_	
+66-5	18706-18710	that	_	_	_	
+66-6	18711-18715	less	_	_	_	
+66-7	18716-18723	efforts	_	_	_	
+66-8	18724-18728	will	_	_	_	
+66-9	18729-18731	be	_	_	_	
+66-10	18732-18741	necessary	_	_	_	
+66-11	18742-18744	at	_	_	_	
+66-12	18745-18749	Rome	_	_	_	
+66-13	18749-18750	.	_	_	_	
+
+#Text=Nothing can be prettier, however, than the slow and tranquil manners of 
+#Text= a Florentine; nothing more polished than his general address and 
+#Text= behaviour: ever in the third person, though to a blackguard in the 
+#Text= street, if he has not the honour of his particular acquaintance, while 
+#Text= intimacy produces _voi_ in those of the highest rank, who call one 
+#Text= another Carlo and Angelo very sweetly; the ladies taking up the same 
+#Text= notion, and saying Louisa, or Maddalena, without any addition at all.
+67-1	18756-18763	Nothing	_	_	_	
+67-2	18764-18767	can	_	_	_	
+67-3	18768-18770	be	_	_	_	
+67-4	18771-18779	prettier	_	_	_	
+67-5	18779-18780	,	_	_	_	
+67-6	18781-18788	however	_	_	_	
+67-7	18788-18789	,	_	_	_	
+67-8	18790-18794	than	_	_	_	
+67-9	18795-18798	the	_	_	_	
+67-10	18799-18803	slow	_	_	_	
+67-11	18804-18807	and	_	_	_	
+67-12	18808-18816	tranquil	_	_	_	
+67-13	18817-18824	manners	_	_	_	
+67-14	18825-18827	of	_	_	_	
+67-15	18830-18831	a	_	_	_	
+67-16	18832-18842	Florentine	_	_	_	
+67-17	18842-18843	;	_	_	_	
+67-18	18844-18851	nothing	_	_	_	
+67-19	18852-18856	more	_	_	_	
+67-20	18857-18865	polished	_	_	_	
+67-21	18866-18870	than	_	_	_	
+67-22	18871-18874	his	_	_	_	
+67-23	18875-18882	general	_	_	_	
+67-24	18883-18890	address	_	_	_	
+67-25	18891-18894	and	_	_	_	
+67-26	18897-18906	behaviour	_	_	_	
+67-27	18906-18907	:	_	_	_	
+67-28	18908-18912	ever	_	_	_	
+67-29	18913-18915	in	_	_	_	
+67-30	18916-18919	the	_	_	_	
+67-31	18920-18925	third	_	_	_	
+67-32	18926-18932	person	_	_	_	
+67-33	18932-18933	,	_	_	_	
+67-34	18934-18940	though	_	_	_	
+67-35	18941-18943	to	_	_	_	
+67-36	18944-18945	a	_	_	_	
+67-37	18946-18956	blackguard	_	_	_	
+67-38	18957-18959	in	_	_	_	
+67-39	18960-18963	the	_	_	_	
+67-40	18966-18972	street	_	_	_	
+67-41	18972-18973	,	_	_	_	
+67-42	18974-18976	if	_	_	_	
+67-43	18977-18979	he	_	_	_	
+67-44	18980-18983	has	_	_	_	
+67-45	18984-18987	not	_	_	_	
+67-46	18988-18991	the	_	_	_	
+67-47	18992-18998	honour	_	_	_	
+67-48	18999-19001	of	_	_	_	
+67-49	19002-19005	his	_	_	_	
+67-50	19006-19016	particular	_	_	_	
+67-51	19017-19029	acquaintance	_	_	_	
+67-52	19029-19030	,	_	_	_	
+67-53	19031-19036	while	_	_	_	
+67-54	19039-19047	intimacy	_	_	_	
+67-55	19048-19056	produces	_	_	_	
+67-56	19057-19058	_	_	_	_	
+67-57	19058-19061	voi	_	_	_	
+67-58	19061-19062	_	_	_	_	
+67-59	19063-19065	in	_	_	_	
+67-60	19066-19071	those	_	_	_	
+67-61	19072-19074	of	_	_	_	
+67-62	19075-19078	the	_	_	_	
+67-63	19079-19086	highest	_	_	_	
+67-64	19087-19091	rank	_	_	_	
+67-65	19091-19092	,	_	_	_	
+67-66	19093-19096	who	_	_	_	
+67-67	19097-19101	call	_	_	_	
+67-68	19102-19105	one	_	_	_	
+67-69	19108-19115	another	_	_	_	
+67-70	19116-19121	Carlo	_	_	_	
+67-71	19122-19125	and	_	_	_	
+67-72	19126-19132	Angelo	_	_	_	
+67-73	19133-19137	very	_	_	_	
+67-74	19138-19145	sweetly	_	_	_	
+67-75	19145-19146	;	_	_	_	
+67-76	19147-19150	the	_	_	_	
+67-77	19151-19157	ladies	_	_	_	
+67-78	19158-19164	taking	_	_	_	
+67-79	19165-19167	up	_	_	_	
+67-80	19168-19171	the	_	_	_	
+67-81	19172-19176	same	_	_	_	
+67-82	19179-19185	notion	_	_	_	
+67-83	19185-19186	,	_	_	_	
+67-84	19187-19190	and	_	_	_	
+67-85	19191-19197	saying	_	_	_	
+67-86	19198-19204	Louisa	_	_	_	
+67-87	19204-19205	,	_	_	_	
+67-88	19206-19208	or	_	_	_	
+67-89	19209-19218	Maddalena	_	_	_	
+67-90	19218-19219	,	_	_	_	
+67-91	19220-19227	without	_	_	_	
+67-92	19228-19231	any	_	_	_	
+67-93	19232-19240	addition	_	_	_	
+67-94	19241-19243	at	_	_	_	
+67-95	19244-19247	all	_	_	_	
+67-96	19247-19248	.	_	_	_	
+
+#Text=plant: straggling and dusky, one is forced to think of its produce, 
+#Text= before one can be pleased with its merits, as in a deformed and ugly 
+#Text= friend or companion.
+68-1	19252-19257	plant	_	_	_	
+68-2	19257-19258	:	_	_	_	
+68-3	19259-19269	straggling	_	_	_	
+68-4	19270-19273	and	_	_	_	
+68-5	19274-19279	dusky	_	_	_	
+68-6	19279-19280	,	_	_	_	
+68-7	19281-19284	one	_	_	_	
+68-8	19285-19287	is	_	_	_	
+68-9	19288-19294	forced	_	_	_	
+68-10	19295-19297	to	_	_	_	
+68-11	19298-19303	think	_	_	_	
+68-12	19304-19306	of	_	_	_	
+68-13	19307-19310	its	_	_	_	
+68-14	19311-19318	produce	_	_	_	
+68-15	19318-19319	,	_	_	_	
+68-16	19322-19328	before	_	_	_	
+68-17	19329-19332	one	_	_	_	
+68-18	19333-19336	can	_	_	_	
+68-19	19337-19339	be	_	_	_	
+68-20	19340-19347	pleased	_	_	_	
+68-21	19348-19352	with	_	_	_	
+68-22	19353-19356	its	_	_	_	
+68-23	19357-19363	merits	_	_	_	
+68-24	19363-19364	,	_	_	_	
+68-25	19365-19367	as	_	_	_	
+68-26	19368-19370	in	_	_	_	
+68-27	19371-19372	a	_	_	_	
+68-28	19373-19381	deformed	_	_	_	
+68-29	19382-19385	and	_	_	_	
+68-30	19386-19390	ugly	_	_	_	
+68-31	19393-19399	friend	_	_	_	
+68-32	19400-19402	or	_	_	_	
+68-33	19403-19412	companion	_	_	_	
+68-34	19412-19413	.	_	_	_	
+
+#Text=The fogs now begin to fall pretty heavily in a morning, and rising about 
+#Text= the middle of the day, leave the sun at liberty to exert his violence 
+#Text= very powerfully.
+69-1	19419-19422	The	_	_	_	
+69-2	19423-19427	fogs	_	_	_	
+69-3	19428-19431	now	_	_	_	
+69-4	19432-19437	begin	_	_	_	
+69-5	19438-19440	to	_	_	_	
+69-6	19441-19445	fall	_	_	_	
+69-7	19446-19452	pretty	_	_	_	
+69-8	19453-19460	heavily	_	_	_	
+69-9	19461-19463	in	_	_	_	
+69-10	19464-19465	a	_	_	_	
+69-11	19466-19473	morning	_	_	_	
+69-12	19473-19474	,	_	_	_	
+69-13	19475-19478	and	_	_	_	
+69-14	19479-19485	rising	_	_	_	
+69-15	19486-19491	about	_	_	_	
+69-16	19494-19497	the	_	_	_	
+69-17	19498-19504	middle	_	_	_	
+69-18	19505-19507	of	_	_	_	
+69-19	19508-19511	the	_	_	_	
+69-20	19512-19515	day	_	_	_	
+69-21	19515-19516	,	_	_	_	
+69-22	19517-19522	leave	_	_	_	
+69-23	19523-19526	the	_	_	_	
+69-24	19527-19530	sun	_	_	_	
+69-25	19531-19533	at	_	_	_	
+69-26	19534-19541	liberty	_	_	_	
+69-27	19542-19544	to	_	_	_	
+69-28	19545-19550	exert	_	_	_	
+69-29	19551-19554	his	_	_	_	
+69-30	19555-19563	violence	_	_	_	
+69-31	19566-19570	very	_	_	_	
+69-32	19571-19581	powerfully	_	_	_	
+69-33	19581-19582	.	_	_	_	
+
+#Text=At night come forth the inhabitants, like dor-beetles 
+#Text= at sunset on the coast of Sussex; then is their season to walk and chat, 
+#Text= and sing and make love, and run about the street with a girl and a 
+#Text= guittar; to eat ice and drink lemonade; but never to be seen drunk or 
+#Text= quarrelsome, or riotous.
+70-1	19583-19585	At	_	_	_	
+70-2	19586-19591	night	_	_	_	
+70-3	19592-19596	come	_	_	_	
+70-4	19597-19602	forth	_	_	_	
+70-5	19603-19606	the	Taster[26]	_	_	
+70-6	19607-19618	inhabitants	Taster[26]	_	_	
+70-7	19618-19619	,	_	_	_	
+70-8	19620-19624	like	_	_	_	
+70-9	19625-19636	dor-beetles	_	_	_	
+70-10	19639-19641	at	_	_	_	
+70-11	19642-19648	sunset	_	_	_	
+70-12	19649-19651	on	_	_	_	
+70-13	19652-19655	the	_	_	_	
+70-14	19656-19661	coast	_	_	_	
+70-15	19662-19664	of	_	_	_	
+70-16	19665-19671	Sussex	_	_	_	
+70-17	19671-19672	;	_	_	_	
+70-18	19673-19677	then	_	_	_	
+70-19	19678-19680	is	_	_	_	
+70-20	19681-19686	their	_	_	_	
+70-21	19687-19693	season	_	_	_	
+70-22	19694-19696	to	_	_	_	
+70-23	19697-19701	walk	_	_	_	
+70-24	19702-19705	and	_	_	_	
+70-25	19706-19710	chat	_	_	_	
+70-26	19710-19711	,	_	_	_	
+70-27	19714-19717	and	_	_	_	
+70-28	19718-19722	sing	_	_	_	
+70-29	19723-19726	and	_	_	_	
+70-30	19727-19731	make	_	_	_	
+70-31	19732-19736	love	_	_	_	
+70-32	19736-19737	,	_	_	_	
+70-33	19738-19741	and	_	_	_	
+70-34	19742-19745	run	_	_	_	
+70-35	19746-19751	about	_	_	_	
+70-36	19752-19755	the	_	_	_	
+70-37	19756-19762	street	_	_	_	
+70-38	19763-19767	with	_	_	_	
+70-39	19768-19769	a	_	_	_	
+70-40	19770-19774	girl	_	_	_	
+70-41	19775-19778	and	_	_	_	
+70-42	19779-19780	a	_	_	_	
+70-43	19783-19790	guittar	_	_	_	
+70-44	19790-19791	;	_	_	_	
+70-45	19792-19794	to	_	_	_	
+70-46	19795-19798	eat	Taste Word	*|*	70-47|70-5[26_0]	
+70-47	19799-19802	ice	Taste Source	_	_	
+70-48	19803-19806	and	_	_	_	
+70-49	19807-19812	drink	Taste Word	*|*	70-50|70-5[26_0]	
+70-50	19813-19821	lemonade	Taste Source	_	_	
+70-51	19821-19822	;	_	_	_	
+70-52	19823-19826	but	_	_	_	
+70-53	19827-19832	never	_	_	_	
+70-54	19833-19835	to	_	_	_	
+70-55	19836-19838	be	_	_	_	
+70-56	19839-19843	seen	_	_	_	
+70-57	19844-19849	drunk	_	_	_	
+70-58	19850-19852	or	_	_	_	
+70-59	19855-19866	quarrelsome	_	_	_	
+70-60	19866-19867	,	_	_	_	
+70-61	19868-19870	or	_	_	_	
+70-62	19871-19878	riotous	_	_	_	
+70-63	19878-19879	.	_	_	_	
+
+#Text=Though night is the true season of Italian 
+#Text= felicity, they place not their happiness in brutal frolics, any more 
+#Text= than in malicious titterings; they are idle and they are merry: it is, I 
+#Text= think, the worst we can say of them; they are idle because there is 
+#Text= little for them to do, and merry because they have little given them to 
+#Text= think about.
+71-1	19880-19886	Though	_	_	_	
+71-2	19887-19892	night	_	_	_	
+71-3	19893-19895	is	_	_	_	
+71-4	19896-19899	the	_	_	_	
+71-5	19900-19904	true	_	_	_	
+71-6	19905-19911	season	_	_	_	
+71-7	19912-19914	of	_	_	_	
+71-8	19915-19922	Italian	_	_	_	
+71-9	19925-19933	felicity	_	_	_	
+71-10	19933-19934	,	_	_	_	
+71-11	19935-19939	they	_	_	_	
+71-12	19940-19945	place	_	_	_	
+71-13	19946-19949	not	_	_	_	
+71-14	19950-19955	their	_	_	_	
+71-15	19956-19965	happiness	_	_	_	
+71-16	19966-19968	in	_	_	_	
+71-17	19969-19975	brutal	_	_	_	
+71-18	19976-19983	frolics	_	_	_	
+71-19	19983-19984	,	_	_	_	
+71-20	19985-19988	any	_	_	_	
+71-21	19989-19993	more	_	_	_	
+71-22	19996-20000	than	_	_	_	
+71-23	20001-20003	in	_	_	_	
+71-24	20004-20013	malicious	_	_	_	
+71-25	20014-20024	titterings	_	_	_	
+71-26	20024-20025	;	_	_	_	
+71-27	20026-20030	they	_	_	_	
+71-28	20031-20034	are	_	_	_	
+71-29	20035-20039	idle	_	_	_	
+71-30	20040-20043	and	_	_	_	
+71-31	20044-20048	they	_	_	_	
+71-32	20049-20052	are	_	_	_	
+71-33	20053-20058	merry	_	_	_	
+71-34	20058-20059	:	_	_	_	
+71-35	20060-20062	it	_	_	_	
+71-36	20063-20065	is	_	_	_	
+71-37	20065-20066	,	_	_	_	
+71-38	20067-20068	I	_	_	_	
+71-39	20071-20076	think	_	_	_	
+71-40	20076-20077	,	_	_	_	
+71-41	20078-20081	the	_	_	_	
+71-42	20082-20087	worst	_	_	_	
+71-43	20088-20090	we	_	_	_	
+71-44	20091-20094	can	_	_	_	
+71-45	20095-20098	say	_	_	_	
+71-46	20099-20101	of	_	_	_	
+71-47	20102-20106	them	_	_	_	
+71-48	20106-20107	;	_	_	_	
+71-49	20108-20112	they	_	_	_	
+71-50	20113-20116	are	_	_	_	
+71-51	20117-20121	idle	_	_	_	
+71-52	20122-20129	because	_	_	_	
+71-53	20130-20135	there	_	_	_	
+71-54	20136-20138	is	_	_	_	
+71-55	20141-20147	little	_	_	_	
+71-56	20148-20151	for	_	_	_	
+71-57	20152-20156	them	_	_	_	
+71-58	20157-20159	to	_	_	_	
+71-59	20160-20162	do	_	_	_	
+71-60	20162-20163	,	_	_	_	
+71-61	20164-20167	and	_	_	_	
+71-62	20168-20173	merry	_	_	_	
+71-63	20174-20181	because	_	_	_	
+71-64	20182-20186	they	_	_	_	
+71-65	20187-20191	have	_	_	_	
+71-66	20192-20198	little	_	_	_	
+71-67	20199-20204	given	_	_	_	
+71-68	20205-20209	them	_	_	_	
+71-69	20210-20212	to	_	_	_	
+71-70	20215-20220	think	_	_	_	
+71-71	20221-20226	about	_	_	_	
+71-72	20226-20227	.	_	_	_	
+
+#Text=To the busy Englishman they might well apply these verses 
+#Text= of his own Milton in the Masque of Comus: 
+#Text=  
+#Text= What have we with day to do?
+72-1	20228-20230	To	_	_	_	
+72-2	20231-20234	the	_	_	_	
+72-3	20235-20239	busy	_	_	_	
+72-4	20240-20250	Englishman	_	_	_	
+72-5	20251-20255	they	_	_	_	
+72-6	20256-20261	might	_	_	_	
+72-7	20262-20266	well	_	_	_	
+72-8	20267-20272	apply	_	_	_	
+72-9	20273-20278	these	_	_	_	
+72-10	20279-20285	verses	_	_	_	
+72-11	20288-20290	of	_	_	_	
+72-12	20291-20294	his	_	_	_	
+72-13	20295-20298	own	_	_	_	
+72-14	20299-20305	Milton	_	_	_	
+72-15	20306-20308	in	_	_	_	
+72-16	20309-20312	the	_	_	_	
+72-17	20313-20319	Masque	_	_	_	
+72-18	20320-20322	of	_	_	_	
+72-19	20323-20328	Comus	_	_	_	
+72-20	20328-20329	:	_	_	_	
+72-21	20335-20339	What	_	_	_	
+72-22	20340-20344	have	_	_	_	
+72-23	20345-20347	we	_	_	_	
+72-24	20348-20352	with	_	_	_	
+72-25	20353-20356	day	_	_	_	
+72-26	20357-20359	to	_	_	_	
+72-27	20360-20362	do	_	_	_	
+72-28	20362-20363	?	_	_	_	
+
+#Text=Sons of Care!
+73-1	20366-20370	Sons	_	_	_	
+73-2	20371-20373	of	_	_	_	
+73-3	20374-20378	Care	_	_	_	
+73-4	20378-20379	!	_	_	_	
+
+#Text='  twas made for you.
+#Text=door; and felt sensations so unaffectedly pastoral, that nothing in 
+#Text= romance ever exceeded my felicity.
+74-1	20382-20383	'	_	_	_	
+74-2	20385-20389	twas	_	_	_	
+74-3	20390-20394	made	_	_	_	
+74-4	20395-20398	for	_	_	_	
+74-5	20399-20402	you	_	_	_	
+74-6	20402-20403	.	_	_	_	
+74-7	20404-20408	door	_	_	_	
+74-8	20408-20409	;	_	_	_	
+74-9	20410-20413	and	_	_	_	
+74-10	20414-20418	felt	_	_	_	
+74-11	20419-20429	sensations	_	_	_	
+74-12	20430-20432	so	_	_	_	
+74-13	20433-20445	unaffectedly	_	_	_	
+74-14	20446-20454	pastoral	_	_	_	
+74-15	20454-20455	,	_	_	_	
+74-16	20456-20460	that	_	_	_	
+74-17	20461-20468	nothing	_	_	_	
+74-18	20469-20471	in	_	_	_	
+74-19	20474-20481	romance	_	_	_	
+74-20	20482-20486	ever	_	_	_	
+74-21	20487-20495	exceeded	_	_	_	
+74-22	20496-20498	my	_	_	_	
+74-23	20499-20507	felicity	_	_	_	
+74-24	20507-20508	.	_	_	_	
+
+#Text=The cold bath here is the most delicate imaginable; of a moderate degree 
+#Text= of coldness though, not three degrees below Matlock surely; but 
+#Text= omitting, simply enough, to carry a thermometer, one can measure the 
+#Text= heat of nothing.
+75-1	20514-20517	The	_	_	_	
+75-2	20518-20522	cold	_	_	_	
+75-3	20523-20527	bath	_	_	_	
+75-4	20528-20532	here	_	_	_	
+75-5	20533-20535	is	_	_	_	
+75-6	20536-20539	the	_	_	_	
+75-7	20540-20544	most	_	_	_	
+75-8	20545-20553	delicate	_	_	_	
+75-9	20554-20564	imaginable	_	_	_	
+75-10	20564-20565	;	_	_	_	
+75-11	20566-20568	of	_	_	_	
+75-12	20569-20570	a	_	_	_	
+75-13	20571-20579	moderate	_	_	_	
+75-14	20580-20586	degree	_	_	_	
+75-15	20589-20591	of	_	_	_	
+75-16	20592-20600	coldness	_	_	_	
+75-17	20601-20607	though	_	_	_	
+75-18	20607-20608	,	_	_	_	
+75-19	20609-20612	not	_	_	_	
+75-20	20613-20618	three	_	_	_	
+75-21	20619-20626	degrees	_	_	_	
+75-22	20627-20632	below	_	_	_	
+75-23	20633-20640	Matlock	_	_	_	
+75-24	20641-20647	surely	_	_	_	
+75-25	20647-20648	;	_	_	_	
+75-26	20649-20652	but	_	_	_	
+75-27	20655-20663	omitting	_	_	_	
+75-28	20663-20664	,	_	_	_	
+75-29	20665-20671	simply	_	_	_	
+75-30	20672-20678	enough	_	_	_	
+75-31	20678-20679	,	_	_	_	
+75-32	20680-20682	to	_	_	_	
+75-33	20683-20688	carry	_	_	_	
+75-34	20689-20690	a	_	_	_	
+75-35	20691-20702	thermometer	_	_	_	
+75-36	20702-20703	,	_	_	_	
+75-37	20704-20707	one	_	_	_	
+75-38	20708-20711	can	_	_	_	
+75-39	20712-20719	measure	_	_	_	
+75-40	20720-20723	the	_	_	_	
+75-41	20726-20730	heat	_	_	_	
+75-42	20731-20733	of	_	_	_	
+75-43	20734-20741	nothing	_	_	_	
+75-44	20741-20742	.	_	_	_	
+
+#Text=Our hot water here seems about the temperature of the 
+#Text= Queen  '  s bath in Somersetshire; it is purgative, not corroborant, they 
+#Text= tell me; and its taste resembles Cheltenham water exactly.
+76-1	20743-20746	Our	Taste Source[27]	_	_	
+76-2	20747-20750	hot	Taste Source[27]	_	_	
+76-3	20751-20756	water	Taste Source[27]	_	_	
+76-4	20757-20761	here	_	_	_	
+76-5	20762-20767	seems	_	_	_	
+76-6	20768-20773	about	_	_	_	
+76-7	20774-20777	the	_	_	_	
+76-8	20778-20789	temperature	_	_	_	
+76-9	20790-20792	of	_	_	_	
+76-10	20793-20796	the	_	_	_	
+76-11	20799-20804	Queen	_	_	_	
+76-12	20806-20807	'	_	_	_	
+76-13	20809-20810	s	_	_	_	
+76-14	20811-20815	bath	_	_	_	
+76-15	20816-20818	in	_	_	_	
+76-16	20819-20832	Somersetshire	_	_	_	
+76-17	20832-20833	;	_	_	_	
+76-18	20834-20836	it	_	_	_	
+76-19	20837-20839	is	_	_	_	
+76-20	20840-20849	purgative	_	_	_	
+76-21	20849-20850	,	_	_	_	
+76-22	20851-20854	not	_	_	_	
+76-23	20855-20866	corroborant	_	_	_	
+76-24	20866-20867	,	_	_	_	
+76-25	20868-20872	they	_	_	_	
+76-26	20875-20879	tell	_	_	_	
+76-27	20880-20882	me	_	_	_	
+76-28	20882-20883	;	_	_	_	
+76-29	20884-20887	and	_	_	_	
+76-30	20888-20891	its	Taste Source	anaphorical	76-1[27_0]	
+76-31	20892-20897	taste	Taste Word	*|*	76-30|76-32[28_0]	
+76-32	20898-20907	resembles	Evoked Taste[28]	_	_	
+76-33	20908-20918	Cheltenham	Evoked Taste[28]	_	_	
+76-34	20919-20924	water	Evoked Taste[28]	_	_	
+76-35	20925-20932	exactly	Evoked Taste[28]	_	_	
+76-36	20932-20933	.	_	_	_	
+
+#Text=These springs are much frequented by the court I find, and here are 
+#Text= very tolerable accommodations; but it is not the season now, and our 
+#Text= solitude is perfect in a place which beggars all description, where the 
+#Text= mountains are mountains of marble, and the bushes on them bushes of 
+#Text= myrtle; large as our hawthorns, and white with blossoms, as _they_ are 
+#Text= at the same time of year in Devonshire; where the waters are salubrious, 
+#Text= the herbage odoriferous, every trodden step breathing immediate 
+#Text= fragrance from the crushed sweets of thyme, and marjoram, and winter 
+#Text= savoury: while the birds and the butterflies frolick around, and flutter 
+#Text= among the loaded lemon, and orange, and olive trees, till imagination is
+#Text=to display the glories of colouring which his beams alone can bestow.
+77-1	20939-20944	These	_	_	_	
+77-2	20945-20952	springs	_	_	_	
+77-3	20953-20956	are	_	_	_	
+77-4	20957-20961	much	_	_	_	
+77-5	20962-20972	frequented	_	_	_	
+77-6	20973-20975	by	_	_	_	
+77-7	20976-20979	the	_	_	_	
+77-8	20980-20985	court	_	_	_	
+77-9	20986-20987	I	_	_	_	
+77-10	20988-20992	find	_	_	_	
+77-11	20992-20993	,	_	_	_	
+77-12	20994-20997	and	_	_	_	
+77-13	20998-21002	here	_	_	_	
+77-14	21003-21006	are	_	_	_	
+77-15	21009-21013	very	_	_	_	
+77-16	21014-21023	tolerable	_	_	_	
+77-17	21024-21038	accommodations	_	_	_	
+77-18	21038-21039	;	_	_	_	
+77-19	21040-21043	but	_	_	_	
+77-20	21044-21046	it	_	_	_	
+77-21	21047-21049	is	_	_	_	
+77-22	21050-21053	not	_	_	_	
+77-23	21054-21057	the	_	_	_	
+77-24	21058-21064	season	_	_	_	
+77-25	21065-21068	now	_	_	_	
+77-26	21068-21069	,	_	_	_	
+77-27	21070-21073	and	_	_	_	
+77-28	21074-21077	our	_	_	_	
+77-29	21080-21088	solitude	_	_	_	
+77-30	21089-21091	is	_	_	_	
+77-31	21092-21099	perfect	_	_	_	
+77-32	21100-21102	in	_	_	_	
+77-33	21103-21104	a	_	_	_	
+77-34	21105-21110	place	_	_	_	
+77-35	21111-21116	which	_	_	_	
+77-36	21117-21124	beggars	_	_	_	
+77-37	21125-21128	all	_	_	_	
+77-38	21129-21140	description	_	_	_	
+77-39	21140-21141	,	_	_	_	
+77-40	21142-21147	where	_	_	_	
+77-41	21148-21151	the	_	_	_	
+77-42	21154-21163	mountains	_	_	_	
+77-43	21164-21167	are	_	_	_	
+77-44	21168-21177	mountains	_	_	_	
+77-45	21178-21180	of	_	_	_	
+77-46	21181-21187	marble	_	_	_	
+77-47	21187-21188	,	_	_	_	
+77-48	21189-21192	and	_	_	_	
+77-49	21193-21196	the	_	_	_	
+77-50	21197-21203	bushes	_	_	_	
+77-51	21204-21206	on	_	_	_	
+77-52	21207-21211	them	_	_	_	
+77-53	21212-21218	bushes	_	_	_	
+77-54	21219-21221	of	_	_	_	
+77-55	21224-21230	myrtle	_	_	_	
+77-56	21230-21231	;	_	_	_	
+77-57	21232-21237	large	_	_	_	
+77-58	21238-21240	as	_	_	_	
+77-59	21241-21244	our	_	_	_	
+77-60	21245-21254	hawthorns	_	_	_	
+77-61	21254-21255	,	_	_	_	
+77-62	21256-21259	and	_	_	_	
+77-63	21260-21265	white	_	_	_	
+77-64	21266-21270	with	_	_	_	
+77-65	21271-21279	blossoms	_	_	_	
+77-66	21279-21280	,	_	_	_	
+77-67	21281-21283	as	_	_	_	
+77-68	21284-21285	_	_	_	_	
+77-69	21285-21289	they	_	_	_	
+77-70	21289-21290	_	_	_	_	
+77-71	21291-21294	are	_	_	_	
+77-72	21297-21299	at	_	_	_	
+77-73	21300-21303	the	_	_	_	
+77-74	21304-21308	same	_	_	_	
+77-75	21309-21313	time	_	_	_	
+77-76	21314-21316	of	_	_	_	
+77-77	21317-21321	year	_	_	_	
+77-78	21322-21324	in	_	_	_	
+77-79	21325-21335	Devonshire	_	_	_	
+77-80	21335-21336	;	_	_	_	
+77-81	21337-21342	where	_	_	_	
+77-82	21343-21346	the	_	_	_	
+77-83	21347-21353	waters	_	_	_	
+77-84	21354-21357	are	_	_	_	
+77-85	21358-21368	salubrious	_	_	_	
+77-86	21368-21369	,	_	_	_	
+77-87	21372-21375	the	_	_	_	
+77-88	21376-21383	herbage	_	_	_	
+77-89	21384-21395	odoriferous	_	_	_	
+77-90	21395-21396	,	_	_	_	
+77-91	21397-21402	every	_	_	_	
+77-92	21403-21410	trodden	_	_	_	
+77-93	21411-21415	step	_	_	_	
+77-94	21416-21425	breathing	_	_	_	
+77-95	21426-21435	immediate	_	_	_	
+77-96	21438-21447	fragrance	_	_	_	
+77-97	21448-21452	from	_	_	_	
+77-98	21453-21456	the	_	_	_	
+77-99	21457-21464	crushed	_	_	_	
+77-100	21465-21471	sweets	_	_	_	
+77-101	21472-21474	of	_	_	_	
+77-102	21475-21480	thyme	_	_	_	
+77-103	21480-21481	,	_	_	_	
+77-104	21482-21485	and	_	_	_	
+77-105	21486-21494	marjoram	_	_	_	
+77-106	21494-21495	,	_	_	_	
+77-107	21496-21499	and	_	_	_	
+77-108	21500-21506	winter	_	_	_	
+77-109	21509-21516	savoury	_	_	_	
+77-110	21516-21517	:	_	_	_	
+77-111	21518-21523	while	_	_	_	
+77-112	21524-21527	the	_	_	_	
+77-113	21528-21533	birds	_	_	_	
+77-114	21534-21537	and	_	_	_	
+77-115	21538-21541	the	_	_	_	
+77-116	21542-21553	butterflies	_	_	_	
+77-117	21554-21561	frolick	_	_	_	
+77-118	21562-21568	around	_	_	_	
+77-119	21568-21569	,	_	_	_	
+77-120	21570-21573	and	_	_	_	
+77-121	21574-21581	flutter	_	_	_	
+77-122	21584-21589	among	_	_	_	
+77-123	21590-21593	the	_	_	_	
+77-124	21594-21600	loaded	_	_	_	
+77-125	21601-21606	lemon	_	_	_	
+77-126	21606-21607	,	_	_	_	
+77-127	21608-21611	and	_	_	_	
+77-128	21612-21618	orange	_	_	_	
+77-129	21618-21619	,	_	_	_	
+77-130	21620-21623	and	_	_	_	
+77-131	21624-21629	olive	_	_	_	
+77-132	21630-21635	trees	_	_	_	
+77-133	21635-21636	,	_	_	_	
+77-134	21637-21641	till	_	_	_	
+77-135	21642-21653	imagination	_	_	_	
+77-136	21654-21656	is	_	_	_	
+77-137	21657-21659	to	_	_	_	
+77-138	21660-21667	display	_	_	_	
+77-139	21668-21671	the	_	_	_	
+77-140	21672-21679	glories	_	_	_	
+77-141	21680-21682	of	_	_	_	
+77-142	21683-21692	colouring	_	_	_	
+77-143	21693-21698	which	_	_	_	
+77-144	21699-21702	his	_	_	_	
+77-145	21703-21708	beams	_	_	_	
+77-146	21709-21714	alone	_	_	_	
+77-147	21715-21718	can	_	_	_	
+77-148	21719-21725	bestow	_	_	_	
+77-149	21725-21726	.	_	_	_	
+
+#Text=The pleasing tales told of this pretty animal  '  s amical disposition 
+#Text= towards man are strictly true, I hear; and it is no longer ago than 
+#Text= yesterday I was told an odd anecdote of a young farmer, who, carrying a 
+#Text= basket of figs to his mistress, lay down in the field as he crossed it, 
+#Text= quite overcome with the weather, and fell fast asleep.
+78-1	21732-21735	The	_	_	_	
+78-2	21736-21744	pleasing	_	_	_	
+78-3	21745-21750	tales	_	_	_	
+78-4	21751-21755	told	_	_	_	
+78-5	21756-21758	of	_	_	_	
+78-6	21759-21763	this	_	_	_	
+78-7	21764-21770	pretty	_	_	_	
+78-8	21771-21777	animal	_	_	_	
+78-9	21779-21780	'	_	_	_	
+78-10	21782-21783	s	_	_	_	
+78-11	21784-21790	amical	_	_	_	
+78-12	21791-21802	disposition	_	_	_	
+78-13	21805-21812	towards	_	_	_	
+78-14	21813-21816	man	_	_	_	
+78-15	21817-21820	are	_	_	_	
+78-16	21821-21829	strictly	_	_	_	
+78-17	21830-21834	true	_	_	_	
+78-18	21834-21835	,	_	_	_	
+78-19	21836-21837	I	_	_	_	
+78-20	21838-21842	hear	_	_	_	
+78-21	21842-21843	;	_	_	_	
+78-22	21844-21847	and	_	_	_	
+78-23	21848-21850	it	_	_	_	
+78-24	21851-21853	is	_	_	_	
+78-25	21854-21856	no	_	_	_	
+78-26	21857-21863	longer	_	_	_	
+78-27	21864-21867	ago	_	_	_	
+78-28	21868-21872	than	_	_	_	
+78-29	21875-21884	yesterday	_	_	_	
+78-30	21885-21886	I	_	_	_	
+78-31	21887-21890	was	_	_	_	
+78-32	21891-21895	told	_	_	_	
+78-33	21896-21898	an	_	_	_	
+78-34	21899-21902	odd	_	_	_	
+78-35	21903-21911	anecdote	_	_	_	
+78-36	21912-21914	of	_	_	_	
+78-37	21915-21916	a	_	_	_	
+78-38	21917-21922	young	_	_	_	
+78-39	21923-21929	farmer	_	_	_	
+78-40	21929-21930	,	_	_	_	
+78-41	21931-21934	who	_	_	_	
+78-42	21934-21935	,	_	_	_	
+78-43	21936-21944	carrying	_	_	_	
+78-44	21945-21946	a	_	_	_	
+78-45	21949-21955	basket	_	_	_	
+78-46	21956-21958	of	_	_	_	
+78-47	21959-21963	figs	_	_	_	
+78-48	21964-21966	to	_	_	_	
+78-49	21967-21970	his	_	_	_	
+78-50	21971-21979	mistress	_	_	_	
+78-51	21979-21980	,	_	_	_	
+78-52	21981-21984	lay	_	_	_	
+78-53	21985-21989	down	_	_	_	
+78-54	21990-21992	in	_	_	_	
+78-55	21993-21996	the	_	_	_	
+78-56	21997-22002	field	_	_	_	
+78-57	22003-22005	as	_	_	_	
+78-58	22006-22008	he	_	_	_	
+78-59	22009-22016	crossed	_	_	_	
+78-60	22017-22019	it	_	_	_	
+78-61	22019-22020	,	_	_	_	
+78-62	22023-22028	quite	_	_	_	
+78-63	22029-22037	overcome	_	_	_	
+78-64	22038-22042	with	_	_	_	
+78-65	22043-22046	the	_	_	_	
+78-66	22047-22054	weather	_	_	_	
+78-67	22054-22055	,	_	_	_	
+78-68	22056-22059	and	_	_	_	
+78-69	22060-22064	fell	_	_	_	
+78-70	22065-22069	fast	_	_	_	
+78-71	22070-22076	asleep	_	_	_	
+78-72	22076-22077	.	_	_	_	
+
+#Text=A serpent, 
+#Text= attracted by the scent, twined round the basket, and would have bit the 
+#Text= fellow as well as robbed him, had not a friendly lizard waked, and given 
+#Text= him warning of the danger.
+79-1	22078-22079	A	_	_	_	
+79-2	22080-22087	serpent	_	_	_	
+79-3	22087-22088	,	_	_	_	
+79-4	22091-22100	attracted	_	_	_	
+79-5	22101-22103	by	_	_	_	
+79-6	22104-22107	the	_	_	_	
+79-7	22108-22113	scent	_	_	_	
+79-8	22113-22114	,	_	_	_	
+79-9	22115-22121	twined	_	_	_	
+79-10	22122-22127	round	_	_	_	
+79-11	22128-22131	the	_	_	_	
+79-12	22132-22138	basket	_	_	_	
+79-13	22138-22139	,	_	_	_	
+79-14	22140-22143	and	_	_	_	
+79-15	22144-22149	would	_	_	_	
+79-16	22150-22154	have	_	_	_	
+79-17	22155-22158	bit	_	_	_	
+79-18	22159-22162	the	_	_	_	
+79-19	22165-22171	fellow	_	_	_	
+79-20	22172-22174	as	_	_	_	
+79-21	22175-22179	well	_	_	_	
+79-22	22180-22182	as	_	_	_	
+79-23	22183-22189	robbed	_	_	_	
+79-24	22190-22193	him	_	_	_	
+79-25	22193-22194	,	_	_	_	
+79-26	22195-22198	had	_	_	_	
+79-27	22199-22202	not	_	_	_	
+79-28	22203-22204	a	_	_	_	
+79-29	22205-22213	friendly	_	_	_	
+79-30	22214-22220	lizard	_	_	_	
+79-31	22221-22226	waked	_	_	_	
+79-32	22226-22227	,	_	_	_	
+79-33	22228-22231	and	_	_	_	
+79-34	22232-22237	given	_	_	_	
+79-35	22240-22243	him	_	_	_	
+79-36	22244-22251	warning	_	_	_	
+79-37	22252-22254	of	_	_	_	
+79-38	22255-22258	the	_	_	_	
+79-39	22259-22265	danger	_	_	_	
+79-40	22265-22266	.	_	_	_	
+
+#Text=Swift says, that in the course of life he meets many asses, but they 
+#Text= have not _lucky names_.
+80-1	22272-22277	Swift	_	_	_	
+80-2	22278-22282	says	_	_	_	
+80-3	22282-22283	,	_	_	_	
+80-4	22284-22288	that	_	_	_	
+80-5	22289-22291	in	_	_	_	
+80-6	22292-22295	the	_	_	_	
+80-7	22296-22302	course	_	_	_	
+80-8	22303-22305	of	_	_	_	
+80-9	22306-22310	life	_	_	_	
+80-10	22311-22313	he	_	_	_	
+80-11	22314-22319	meets	_	_	_	
+80-12	22320-22324	many	_	_	_	
+80-13	22325-22330	asses	_	_	_	
+80-14	22330-22331	,	_	_	_	
+80-15	22332-22335	but	_	_	_	
+80-16	22336-22340	they	_	_	_	
+80-17	22343-22347	have	_	_	_	
+80-18	22348-22351	not	_	_	_	
+80-19	22352-22353	_	_	_	_	
+80-20	22353-22358	lucky	_	_	_	
+80-21	22359-22364	names	_	_	_	
+80-22	22364-22365	_	_	_	_	
+80-23	22365-22366	.	_	_	_	
+
+#Text=I have met many _vipers, and so few lizards_, it 
+#Text= is surprising!
+81-1	22367-22368	I	_	_	_	
+81-2	22369-22373	have	_	_	_	
+81-3	22374-22377	met	_	_	_	
+81-4	22378-22382	many	_	_	_	
+81-5	22383-22384	_	_	_	_	
+81-6	22384-22390	vipers	_	_	_	
+81-7	22390-22391	,	_	_	_	
+81-8	22392-22395	and	_	_	_	
+81-9	22396-22398	so	_	_	_	
+81-10	22399-22402	few	_	_	_	
+81-11	22403-22410	lizards	_	_	_	
+81-12	22410-22411	_	_	_	_	
+81-13	22411-22412	,	_	_	_	
+81-14	22413-22415	it	_	_	_	
+81-15	22418-22420	is	_	_	_	
+81-16	22421-22431	surprising	_	_	_	
+81-17	22431-22432	!	_	_	_	
+
+#Text=but they will not live in London.
+82-1	22433-22436	but	_	_	_	
+82-2	22437-22441	they	_	_	_	
+82-3	22442-22446	will	_	_	_	
+82-4	22447-22450	not	_	_	_	
+82-5	22451-22455	live	_	_	_	
+82-6	22456-22458	in	_	_	_	
+82-7	22459-22465	London	_	_	_	
+82-8	22465-22466	.	_	_	_	
+
+#Text=All the stories one has ever heard of sweetness in language and delicacy 
+#Text= in pronunciation, fall short of Siennese converse.
+83-1	22472-22475	All	_	_	_	
+83-2	22476-22479	the	_	_	_	
+83-3	22480-22487	stories	_	_	_	
+83-4	22488-22491	one	_	_	_	
+83-5	22492-22495	has	_	_	_	
+83-6	22496-22500	ever	_	_	_	
+83-7	22501-22506	heard	_	_	_	
+83-8	22507-22509	of	_	_	_	
+83-9	22510-22519	sweetness	_	_	_	
+83-10	22520-22522	in	_	_	_	
+83-11	22523-22531	language	_	_	_	
+83-12	22532-22535	and	_	_	_	
+83-13	22536-22544	delicacy	_	_	_	
+83-14	22547-22549	in	_	_	_	
+83-15	22550-22563	pronunciation	_	_	_	
+83-16	22563-22564	,	_	_	_	
+83-17	22565-22569	fall	_	_	_	
+83-18	22570-22575	short	_	_	_	
+83-19	22576-22578	of	_	_	_	
+83-20	22579-22587	Siennese	_	_	_	
+83-21	22588-22596	converse	_	_	_	
+83-22	22596-22597	.	_	_	_	
+
+#Text=The girls who wait 
+#Text= on us at the inn here, would be treasures in England, could one get them 
+#Text= thither; and they need move nothing but their tongues to make their 
+#Text= fortunes.
+84-1	22598-22601	The	_	_	_	
+84-2	22602-22607	girls	_	_	_	
+84-3	22608-22611	who	_	_	_	
+84-4	22612-22616	wait	_	_	_	
+84-5	22619-22621	on	_	_	_	
+84-6	22622-22624	us	_	_	_	
+84-7	22625-22627	at	_	_	_	
+84-8	22628-22631	the	_	_	_	
+84-9	22632-22635	inn	_	_	_	
+84-10	22636-22640	here	_	_	_	
+84-11	22640-22641	,	_	_	_	
+84-12	22642-22647	would	_	_	_	
+84-13	22648-22650	be	_	_	_	
+84-14	22651-22660	treasures	_	_	_	
+84-15	22661-22663	in	_	_	_	
+84-16	22664-22671	England	_	_	_	
+84-17	22671-22672	,	_	_	_	
+84-18	22673-22678	could	_	_	_	
+84-19	22679-22682	one	_	_	_	
+84-20	22683-22686	get	_	_	_	
+84-21	22687-22691	them	_	_	_	
+84-22	22694-22701	thither	_	_	_	
+84-23	22701-22702	;	_	_	_	
+84-24	22703-22706	and	_	_	_	
+84-25	22707-22711	they	_	_	_	
+84-26	22712-22716	need	_	_	_	
+84-27	22717-22721	move	_	_	_	
+84-28	22722-22729	nothing	_	_	_	
+84-29	22730-22733	but	_	_	_	
+84-30	22734-22739	their	_	_	_	
+84-31	22740-22747	tongues	_	_	_	
+84-32	22748-22750	to	_	_	_	
+84-33	22751-22755	make	_	_	_	
+84-34	22756-22761	their	_	_	_	
+84-35	22764-22772	fortunes	_	_	_	
+84-36	22772-22773	.	_	_	_	
+
+#Text=I told Rosetta so, and said I would steal from them a poor
+#Text=This town is neat and cleanly, and comfortable and airy.
+85-1	22774-22775	I	_	_	_	
+85-2	22776-22780	told	_	_	_	
+85-3	22781-22788	Rosetta	_	_	_	
+85-4	22789-22791	so	_	_	_	
+85-5	22791-22792	,	_	_	_	
+85-6	22793-22796	and	_	_	_	
+85-7	22797-22801	said	_	_	_	
+85-8	22802-22803	I	_	_	_	
+85-9	22804-22809	would	_	_	_	
+85-10	22810-22815	steal	_	_	_	
+85-11	22816-22820	from	_	_	_	
+85-12	22821-22825	them	_	_	_	
+85-13	22826-22827	a	_	_	_	
+85-14	22828-22832	poor	_	_	_	
+85-15	22833-22837	This	_	_	_	
+85-16	22838-22842	town	_	_	_	
+85-17	22843-22845	is	_	_	_	
+85-18	22846-22850	neat	_	_	_	
+85-19	22851-22854	and	_	_	_	
+85-20	22855-22862	cleanly	_	_	_	
+85-21	22862-22863	,	_	_	_	
+85-22	22864-22867	and	_	_	_	
+85-23	22868-22879	comfortable	_	_	_	
+85-24	22880-22883	and	_	_	_	
+85-25	22884-22888	airy	_	_	_	
+85-26	22888-22889	.	_	_	_	
+
+#Text=The prospect 
+#Text= from the public walks wants no beauty but water; and here is a 
+#Text= suppressed convent on the neighbouring hill, where we half-longed to 
+#Text= build a pretty cottage, as the ground is now to be disposed of vastly 
+#Text= cheap; and half one  '  s work is already done in the apartments once 
+#Text= occupied by friars.
+86-1	22890-22893	The	_	_	_	
+86-2	22894-22902	prospect	_	_	_	
+86-3	22905-22909	from	_	_	_	
+86-4	22910-22913	the	_	_	_	
+86-5	22914-22920	public	_	_	_	
+86-6	22921-22926	walks	_	_	_	
+86-7	22927-22932	wants	_	_	_	
+86-8	22933-22935	no	_	_	_	
+86-9	22936-22942	beauty	_	_	_	
+86-10	22943-22946	but	_	_	_	
+86-11	22947-22952	water	_	_	_	
+86-12	22952-22953	;	_	_	_	
+86-13	22954-22957	and	_	_	_	
+86-14	22958-22962	here	_	_	_	
+86-15	22963-22965	is	_	_	_	
+86-16	22966-22967	a	_	_	_	
+86-17	22970-22980	suppressed	_	_	_	
+86-18	22981-22988	convent	_	_	_	
+86-19	22989-22991	on	_	_	_	
+86-20	22992-22995	the	_	_	_	
+86-21	22996-23008	neighbouring	_	_	_	
+86-22	23009-23013	hill	_	_	_	
+86-23	23013-23014	,	_	_	_	
+86-24	23015-23020	where	_	_	_	
+86-25	23021-23023	we	_	_	_	
+86-26	23024-23035	half-longed	_	_	_	
+86-27	23036-23038	to	_	_	_	
+86-28	23041-23046	build	_	_	_	
+86-29	23047-23048	a	_	_	_	
+86-30	23049-23055	pretty	_	_	_	
+86-31	23056-23063	cottage	_	_	_	
+86-32	23063-23064	,	_	_	_	
+86-33	23065-23067	as	_	_	_	
+86-34	23068-23071	the	_	_	_	
+86-35	23072-23078	ground	_	_	_	
+86-36	23079-23081	is	_	_	_	
+86-37	23082-23085	now	_	_	_	
+86-38	23086-23088	to	_	_	_	
+86-39	23089-23091	be	_	_	_	
+86-40	23092-23100	disposed	_	_	_	
+86-41	23101-23103	of	_	_	_	
+86-42	23104-23110	vastly	_	_	_	
+86-43	23113-23118	cheap	_	_	_	
+86-44	23118-23119	;	_	_	_	
+86-45	23120-23123	and	_	_	_	
+86-46	23124-23128	half	_	_	_	
+86-47	23129-23132	one	_	_	_	
+86-48	23134-23135	'	_	_	_	
+86-49	23137-23138	s	_	_	_	
+86-50	23139-23143	work	_	_	_	
+86-51	23144-23146	is	_	_	_	
+86-52	23147-23154	already	_	_	_	
+86-53	23155-23159	done	_	_	_	
+86-54	23160-23162	in	_	_	_	
+86-55	23163-23166	the	_	_	_	
+86-56	23167-23177	apartments	_	_	_	
+86-57	23178-23182	once	_	_	_	
+86-58	23185-23193	occupied	_	_	_	
+86-59	23194-23196	by	_	_	_	
+86-60	23197-23203	friars	_	_	_	
+86-61	23203-23204	.	_	_	_	
+
+#Text=With half a word  '  s persuasion I should fix for life 
+#Text= here.
+87-1	23205-23209	With	_	_	_	
+87-2	23210-23214	half	_	_	_	
+87-3	23215-23216	a	_	_	_	
+87-4	23217-23221	word	_	_	_	
+87-5	23223-23224	'	_	_	_	
+87-6	23226-23227	s	_	_	_	
+87-7	23228-23238	persuasion	_	_	_	
+87-8	23239-23240	I	_	_	_	
+87-9	23241-23247	should	_	_	_	
+87-10	23248-23251	fix	_	_	_	
+87-11	23252-23255	for	_	_	_	
+87-12	23256-23260	life	_	_	_	
+87-13	23263-23267	here	_	_	_	
+87-14	23267-23268	.	_	_	_	
+
+#Text=The air is so pure, the language so pleasing, the place so 
+#Text= inviting;--_but we drive on_.
+88-1	23269-23272	The	_	_	_	
+88-2	23273-23276	air	_	_	_	
+88-3	23277-23279	is	_	_	_	
+88-4	23280-23282	so	_	_	_	
+88-5	23283-23287	pure	_	_	_	
+88-6	23287-23288	,	_	_	_	
+88-7	23289-23292	the	_	_	_	
+88-8	23293-23301	language	_	_	_	
+88-9	23302-23304	so	_	_	_	
+88-10	23305-23313	pleasing	_	_	_	
+88-11	23313-23314	,	_	_	_	
+88-12	23315-23318	the	_	_	_	
+88-13	23319-23324	place	_	_	_	
+88-14	23325-23327	so	_	_	_	
+88-15	23330-23338	inviting	_	_	_	
+88-16	23338-23339	;	_	_	_	
+88-17	23339-23340	-	_	_	_	
+88-18	23340-23341	-	_	_	_	
+88-19	23341-23342	_	_	_	_	
+88-20	23342-23345	but	_	_	_	
+88-21	23346-23348	we	_	_	_	
+88-22	23349-23354	drive	_	_	_	
+88-23	23355-23357	on	_	_	_	
+88-24	23357-23358	_	_	_	_	
+88-25	23358-23359	.	_	_	_	
+
+#Text=There is, mean time, resident in the neighbourhood an English gentleman, 
+#Text= his name Greenfield, who has formed to himself a mighty sweet habitation 
+#Text= in the English taste, but not extensive, as his property don  '  t reach 
+#Text= far: he is however a sort of little oracle in the country I am told; 
+#Text= gives money, and dispenses James  '  s powders to the poor, is happy in the 
+#Text= esteem of numberless people of fashion, and the comfort of his country 
+#Text= people  '  s lives beside; who, travelling to Sienna, as many do for the 
+#Text= advantage of studying Italian to perfection, find a friend and 
+#Text= companion where perhaps it is least expected.
+89-1	23365-23370	There	_	_	_	
+89-2	23371-23373	is	_	_	_	
+89-3	23373-23374	,	_	_	_	
+89-4	23375-23379	mean	_	_	_	
+89-5	23380-23384	time	_	_	_	
+89-6	23384-23385	,	_	_	_	
+89-7	23386-23394	resident	_	_	_	
+89-8	23395-23397	in	_	_	_	
+89-9	23398-23401	the	_	_	_	
+89-10	23402-23415	neighbourhood	_	_	_	
+89-11	23416-23418	an	_	_	_	
+89-12	23419-23426	English	_	_	_	
+89-13	23427-23436	gentleman	_	_	_	
+89-14	23436-23437	,	_	_	_	
+89-15	23440-23443	his	_	_	_	
+89-16	23444-23448	name	_	_	_	
+89-17	23449-23459	Greenfield	_	_	_	
+89-18	23459-23460	,	_	_	_	
+89-19	23461-23464	who	_	_	_	
+89-20	23465-23468	has	_	_	_	
+89-21	23469-23475	formed	_	_	_	
+89-22	23476-23478	to	_	_	_	
+89-23	23479-23486	himself	_	_	_	
+89-24	23487-23488	a	_	_	_	
+89-25	23489-23495	mighty	_	_	_	
+89-26	23496-23501	sweet	_	_	_	
+89-27	23502-23512	habitation	_	_	_	
+89-28	23515-23517	in	_	_	_	
+89-29	23518-23521	the	_	_	_	
+89-30	23522-23529	English	Quality	_	_	
+89-31	23530-23535	taste	Taste Word	*	89-30	
+89-32	23535-23536	,	_	_	_	
+89-33	23537-23540	but	_	_	_	
+89-34	23541-23544	not	_	_	_	
+89-35	23545-23554	extensive	_	_	_	
+89-36	23554-23555	,	_	_	_	
+89-37	23556-23558	as	_	_	_	
+89-38	23559-23562	his	_	_	_	
+89-39	23563-23571	property	_	_	_	
+89-40	23572-23575	don	_	_	_	
+89-41	23577-23578	'	_	_	_	
+89-42	23580-23581	t	_	_	_	
+89-43	23582-23587	reach	_	_	_	
+89-44	23590-23593	far	_	_	_	
+89-45	23593-23594	:	_	_	_	
+89-46	23595-23597	he	_	_	_	
+89-47	23598-23600	is	_	_	_	
+89-48	23601-23608	however	_	_	_	
+89-49	23609-23610	a	_	_	_	
+89-50	23611-23615	sort	_	_	_	
+89-51	23616-23618	of	_	_	_	
+89-52	23619-23625	little	_	_	_	
+89-53	23626-23632	oracle	_	_	_	
+89-54	23633-23635	in	_	_	_	
+89-55	23636-23639	the	_	_	_	
+89-56	23640-23647	country	_	_	_	
+89-57	23648-23649	I	_	_	_	
+89-58	23650-23652	am	_	_	_	
+89-59	23653-23657	told	_	_	_	
+89-60	23657-23658	;	_	_	_	
+89-61	23661-23666	gives	_	_	_	
+89-62	23667-23672	money	_	_	_	
+89-63	23672-23673	,	_	_	_	
+89-64	23674-23677	and	_	_	_	
+89-65	23678-23687	dispenses	_	_	_	
+89-66	23688-23693	James	_	_	_	
+89-67	23695-23696	'	_	_	_	
+89-68	23698-23699	s	_	_	_	
+89-69	23700-23707	powders	_	_	_	
+89-70	23708-23710	to	_	_	_	
+89-71	23711-23714	the	_	_	_	
+89-72	23715-23719	poor	_	_	_	
+89-73	23719-23720	,	_	_	_	
+89-74	23721-23723	is	_	_	_	
+89-75	23724-23729	happy	_	_	_	
+89-76	23730-23732	in	_	_	_	
+89-77	23733-23736	the	_	_	_	
+89-78	23739-23745	esteem	_	_	_	
+89-79	23746-23748	of	_	_	_	
+89-80	23749-23759	numberless	_	_	_	
+89-81	23760-23766	people	_	_	_	
+89-82	23767-23769	of	_	_	_	
+89-83	23770-23777	fashion	_	_	_	
+89-84	23777-23778	,	_	_	_	
+89-85	23779-23782	and	_	_	_	
+89-86	23783-23786	the	_	_	_	
+89-87	23787-23794	comfort	_	_	_	
+89-88	23795-23797	of	_	_	_	
+89-89	23798-23801	his	_	_	_	
+89-90	23802-23809	country	_	_	_	
+89-91	23812-23818	people	_	_	_	
+89-92	23820-23821	'	_	_	_	
+89-93	23823-23824	s	_	_	_	
+89-94	23825-23830	lives	_	_	_	
+89-95	23831-23837	beside	_	_	_	
+89-96	23837-23838	;	_	_	_	
+89-97	23839-23842	who	_	_	_	
+89-98	23842-23843	,	_	_	_	
+89-99	23844-23854	travelling	_	_	_	
+89-100	23855-23857	to	_	_	_	
+89-101	23858-23864	Sienna	_	_	_	
+89-102	23864-23865	,	_	_	_	
+89-103	23866-23868	as	_	_	_	
+89-104	23869-23873	many	_	_	_	
+89-105	23874-23876	do	_	_	_	
+89-106	23877-23880	for	_	_	_	
+89-107	23881-23884	the	_	_	_	
+89-108	23887-23896	advantage	_	_	_	
+89-109	23897-23899	of	_	_	_	
+89-110	23900-23908	studying	_	_	_	
+89-111	23909-23916	Italian	_	_	_	
+89-112	23917-23919	to	_	_	_	
+89-113	23920-23930	perfection	_	_	_	
+89-114	23930-23931	,	_	_	_	
+89-115	23932-23936	find	_	_	_	
+89-116	23937-23938	a	_	_	_	
+89-117	23939-23945	friend	_	_	_	
+89-118	23946-23949	and	_	_	_	
+89-119	23952-23961	companion	_	_	_	
+89-120	23962-23967	where	_	_	_	
+89-121	23968-23975	perhaps	_	_	_	
+89-122	23976-23978	it	_	_	_	
+89-123	23979-23981	is	_	_	_	
+89-124	23982-23987	least	_	_	_	
+89-125	23988-23996	expected	_	_	_	
+89-126	23996-23997	.	_	_	_	
+
+#Text=The cathedral here at Sienna deserves a volume, and I shall scarcely
+90-1	24003-24006	The	_	_	_	
+90-2	24007-24016	cathedral	_	_	_	
+90-3	24017-24021	here	_	_	_	
+90-4	24022-24024	at	_	_	_	
+90-5	24025-24031	Sienna	_	_	_	
+90-6	24032-24040	deserves	_	_	_	
+90-7	24041-24042	a	_	_	_	
+90-8	24043-24049	volume	_	_	_	
+90-9	24049-24050	,	_	_	_	
+90-10	24051-24054	and	_	_	_	
+90-11	24055-24056	I	_	_	_	
+90-12	24057-24062	shall	_	_	_	
+90-13	24063-24071	scarcely	_	_	_	

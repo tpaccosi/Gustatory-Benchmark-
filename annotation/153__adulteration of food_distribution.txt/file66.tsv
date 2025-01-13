@@ -1,0 +1,4483 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+#T_RL=custom.Relation|label|BT_custom.Span
+
+
+#Text=To the acrid and pungent qualities of the 
+#Text= capsicum is to be ascribed the heightened 
+#Text= flavour of brandy and rum, when coloured 
+#Text= with the above-mentioned matter.
+1-1	0-2	To	_	_	_	
+1-2	3-6	the	_	_	_	
+1-3	7-12	acrid	_	_	_	
+1-4	13-16	and	_	_	_	
+1-5	17-24	pungent	Quality[1]|Taste Word[2]	*|*	1-5[1_2]|1-8[3_2]	
+1-6	25-34	qualities	_	_	_	
+1-7	35-37	of	_	_	_	
+1-8	38-41	the	Taste Source[3]	_	_	
+1-9	44-52	capsicum	Taste Source[3]	_	_	
+1-10	53-55	is	_	_	_	
+1-11	56-58	to	_	_	_	
+1-12	59-61	be	_	_	_	
+1-13	62-70	ascribed	_	_	_	
+1-14	71-74	the	_	_	_	
+1-15	75-85	heightened	Quality	_	_	
+1-16	88-95	flavour	Taste Word	*|*|*|*	1-15|1-17[4_0]|1-20|1-22[5_0]	
+1-17	96-98	of	Taste Source[4]	_	_	
+1-18	99-105	brandy	Taste Source[4]	_	_	
+1-19	106-109	and	_	_	_	
+1-20	110-113	rum	Taste Source	_	_	
+1-21	113-114	,	_	_	_	
+1-22	115-119	when	Circumstance[5]	_	_	
+1-23	120-128	coloured	Circumstance[5]	_	_	
+1-24	131-135	with	Circumstance[5]	_	_	
+1-25	136-139	the	Circumstance[5]	_	_	
+1-26	140-155	above-mentioned	Circumstance[5]	_	_	
+1-27	156-162	matter	Circumstance[5]	_	_	
+1-28	162-163	.	_	_	_	
+
+#Text=In other cases the ale-brewer has been 
+#Text= supplied with ground coriander-seeds, pre- 
+#Text= viously mixed with a portion of ground nux 
+#Text= vomica, under the delusive name of Faba 
+#Text= amara, to give a narcotic property to the 
+#Text= beverage.
+2-1	169-171	In	_	_	_	
+2-2	172-177	other	_	_	_	
+2-3	178-183	cases	_	_	_	
+2-4	184-187	the	_	_	_	
+2-5	188-198	ale-brewer	_	_	_	
+2-6	199-202	has	_	_	_	
+2-7	203-207	been	_	_	_	
+2-8	210-218	supplied	_	_	_	
+2-9	219-223	with	_	_	_	
+2-10	224-230	ground	_	_	_	
+2-11	231-246	coriander-seeds	_	_	_	
+2-12	246-247	,	_	_	_	
+2-13	248-251	pre	_	_	_	
+2-14	251-252	-	_	_	_	
+2-15	255-262	viously	_	_	_	
+2-16	263-268	mixed	_	_	_	
+2-17	269-273	with	_	_	_	
+2-18	274-275	a	_	_	_	
+2-19	276-283	portion	_	_	_	
+2-20	284-286	of	_	_	_	
+2-21	287-293	ground	_	_	_	
+2-22	294-297	nux	_	_	_	
+2-23	300-306	vomica	_	_	_	
+2-24	306-307	,	_	_	_	
+2-25	308-313	under	_	_	_	
+2-26	314-317	the	_	_	_	
+2-27	318-326	delusive	_	_	_	
+2-28	327-331	name	_	_	_	
+2-29	332-334	of	_	_	_	
+2-30	335-339	Faba	_	_	_	
+2-31	342-347	amara	_	_	_	
+2-32	347-348	,	_	_	_	
+2-33	349-351	to	_	_	_	
+2-34	352-356	give	_	_	_	
+2-35	357-358	a	_	_	_	
+2-36	359-367	narcotic	_	_	_	
+2-37	368-376	property	_	_	_	
+2-38	377-379	to	_	_	_	
+2-39	380-383	the	_	_	_	
+2-40	386-394	beverage	_	_	_	
+2-41	394-395	.	_	_	_	
+
+#Text=It is a painful reflection, that the division 
+#Text= of labour which has been so instrumental in 
+#Text= bringing the manufactures of this country 
+#Text= to their present flourishing state, should 
+#Text=  
+#Text=  
+#Text=  
+#Text= 10 PRELIMINARY REMARKS.
+3-1	401-403	It	_	_	_	
+3-2	404-406	is	_	_	_	
+3-3	407-408	a	_	_	_	
+3-4	409-416	painful	_	_	_	
+3-5	417-427	reflection	_	_	_	
+3-6	427-428	,	_	_	_	
+3-7	429-433	that	_	_	_	
+3-8	434-437	the	_	_	_	
+3-9	438-446	division	_	_	_	
+3-10	449-451	of	_	_	_	
+3-11	452-458	labour	_	_	_	
+3-12	459-464	which	_	_	_	
+3-13	465-468	has	_	_	_	
+3-14	469-473	been	_	_	_	
+3-15	474-476	so	_	_	_	
+3-16	477-489	instrumental	_	_	_	
+3-17	490-492	in	_	_	_	
+3-18	495-503	bringing	_	_	_	
+3-19	504-507	the	_	_	_	
+3-20	508-520	manufactures	_	_	_	
+3-21	521-523	of	_	_	_	
+3-22	524-528	this	_	_	_	
+3-23	529-536	country	_	_	_	
+3-24	539-541	to	_	_	_	
+3-25	542-547	their	_	_	_	
+3-26	548-555	present	_	_	_	
+3-27	556-567	flourishing	_	_	_	
+3-28	568-573	state	_	_	_	
+3-29	573-574	,	_	_	_	
+3-30	575-581	should	_	_	_	
+3-31	593-595	10	_	_	_	
+3-32	596-607	PRELIMINARY	_	_	_	
+3-33	608-615	REMARKS	_	_	_	
+3-34	615-616	.	_	_	_	
+
+#Text=white sort, which has no wrinkles, and no perceptible 
+#Text= bitterness in taste, and which, though taken in a large 
+#Text= dose, has scarcely any effect at all, after being pul- 
+#Text= verised by fraudulent druggists, and mixed with a 
+#Text= portion of emetic tartar, is sold at a low price, for the 
+#Text= powder of genuine ipecacuanha root.
+4-1	620-625	white	_	_	_	
+4-2	626-630	sort	_	_	_	
+4-3	630-631	,	_	_	_	
+4-4	632-637	which	_	_	_	
+4-5	638-641	has	_	_	_	
+4-6	642-644	no	_	_	_	
+4-7	645-653	wrinkles	_	_	_	
+4-8	653-654	,	_	_	_	
+4-9	655-658	and	_	_	_	
+4-10	659-661	no	Quality[6]	_	_	
+4-11	662-673	perceptible	Quality[6]	_	_	
+4-12	676-686	bitterness	Taste Word[7]|Quality[8]	*|*	4-12[8_7]|4-10[6_7]	
+4-13	687-689	in	_	_	_	
+4-14	690-695	taste	Taste Word	*	4-12[8_0]	
+4-15	695-696	,	_	_	_	
+4-16	697-700	and	_	_	_	
+4-17	701-706	which	_	_	_	
+4-18	706-707	,	_	_	_	
+4-19	708-714	though	_	_	_	
+4-20	715-720	taken	_	_	_	
+4-21	721-723	in	_	_	_	
+4-22	724-725	a	_	_	_	
+4-23	726-731	large	_	_	_	
+4-24	734-738	dose	_	_	_	
+4-25	738-739	,	_	_	_	
+4-26	740-743	has	_	_	_	
+4-27	744-752	scarcely	_	_	_	
+4-28	753-756	any	_	_	_	
+4-29	757-763	effect	_	_	_	
+4-30	764-766	at	_	_	_	
+4-31	767-770	all	_	_	_	
+4-32	770-771	,	_	_	_	
+4-33	772-777	after	_	_	_	
+4-34	778-783	being	_	_	_	
+4-35	784-787	pul	_	_	_	
+4-36	787-788	-	_	_	_	
+4-37	791-798	verised	_	_	_	
+4-38	799-801	by	_	_	_	
+4-39	802-812	fraudulent	_	_	_	
+4-40	813-822	druggists	_	_	_	
+4-41	822-823	,	_	_	_	
+4-42	824-827	and	_	_	_	
+4-43	828-833	mixed	_	_	_	
+4-44	834-838	with	_	_	_	
+4-45	839-840	a	_	_	_	
+4-46	843-850	portion	_	_	_	
+4-47	851-853	of	_	_	_	
+4-48	854-860	emetic	_	_	_	
+4-49	861-867	tartar	_	_	_	
+4-50	867-868	,	_	_	_	
+4-51	869-871	is	_	_	_	
+4-52	872-876	sold	_	_	_	
+4-53	877-879	at	_	_	_	
+4-54	880-881	a	_	_	_	
+4-55	882-885	low	_	_	_	
+4-56	886-891	price	_	_	_	
+4-57	891-892	,	_	_	_	
+4-58	893-896	for	_	_	_	
+4-59	897-900	the	_	_	_	
+4-60	903-909	powder	_	_	_	
+4-61	910-912	of	_	_	_	
+4-62	913-920	genuine	_	_	_	
+4-63	921-932	ipecacuanha	_	_	_	
+4-64	933-937	root	_	_	_	
+4-65	937-938	.	_	_	_	
+
+#Text=There is no 
+#Text= ready method known to detect the fraud.
+5-1	939-944	There	_	_	_	
+5-2	945-947	is	_	_	_	
+5-3	948-950	no	_	_	_	
+5-4	953-958	ready	_	_	_	
+5-5	959-965	method	_	_	_	
+5-6	966-971	known	_	_	_	
+5-7	972-974	to	_	_	_	
+5-8	975-981	detect	_	_	_	
+5-9	982-985	the	_	_	_	
+5-10	986-991	fraud	_	_	_	
+5-11	991-992	.	_	_	_	
+
+#Text=DRUGS AND MEDICINES. 19 
+#Text=  
+#Text= magnesia, calcined magnesia, calomel, or 
+#Text= any other chemical preparation in general 
+#Text= demand.
+6-1	1004-1009	DRUGS	_	_	_	
+6-2	1010-1013	AND	_	_	_	
+6-3	1014-1023	MEDICINES	_	_	_	
+6-4	1023-1024	.	_	_	_	
+6-5	1025-1027	19	_	_	_	
+6-6	1033-1041	magnesia	_	_	_	
+6-7	1041-1042	,	_	_	_	
+6-8	1043-1051	calcined	_	_	_	
+6-9	1052-1060	magnesia	_	_	_	
+6-10	1060-1061	,	_	_	_	
+6-11	1062-1069	calomel	_	_	_	
+6-12	1069-1070	,	_	_	_	
+6-13	1071-1073	or	_	_	_	
+6-14	1076-1079	any	_	_	_	
+6-15	1080-1085	other	_	_	_	
+6-16	1086-1094	chemical	_	_	_	
+6-17	1095-1106	preparation	_	_	_	
+6-18	1107-1109	in	_	_	_	
+6-19	1110-1117	general	_	_	_	
+6-20	1120-1126	demand	_	_	_	
+6-21	1126-1127	.	_	_	_	
+
+#Text=ADULTERATION OF SPIRIT OF 
+#Text= HARTSHORN, 
+#Text= 
+#Text=verty may, indeed, oblige people to eat 
+#Text= such meat; but it would be better for them 
+#Text= to eat a smaller quantity of what is sound 
+#Text= and wholesome ; at least it would afford a 
+#Text= better nourishment, with less danger.
+7-1	1133-1145	ADULTERATION	_	_	_	
+7-2	1146-1148	OF	_	_	_	
+7-3	1149-1155	SPIRIT	_	_	_	
+7-4	1156-1158	OF	_	_	_	
+7-5	1161-1170	HARTSHORN	_	_	_	
+7-6	1170-1171	,	_	_	_	
+7-7	1175-1180	verty	_	_	_	
+7-8	1181-1184	may	_	_	_	
+7-9	1184-1185	,	_	_	_	
+7-10	1186-1192	indeed	_	_	_	
+7-11	1192-1193	,	_	_	_	
+7-12	1194-1200	oblige	_	_	_	
+7-13	1201-1207	people	Taster	_	_	
+7-14	1208-1210	to	_	_	_	
+7-15	1211-1214	eat	Taste Word	*|*	7-16[9_0]|7-13	
+7-16	1217-1221	such	Taste Source[9]	_	_	
+7-17	1222-1226	meat	Taste Source[9]	_	_	
+7-18	1226-1227	;	_	_	_	
+7-19	1228-1231	but	_	_	_	
+7-20	1232-1234	it	_	_	_	
+7-21	1235-1240	would	_	_	_	
+7-22	1241-1243	be	_	_	_	
+7-23	1244-1250	better	_	_	_	
+7-24	1251-1254	for	_	_	_	
+7-25	1255-1259	them	Taster	anaphorical	7-13	
+7-26	1262-1264	to	_	_	_	
+7-27	1265-1268	eat	Taste Word	*|*|*	7-25|7-40[11_0]|7-28[10_0]	
+7-28	1269-1270	a	Taste Source[10]	_	_	
+7-29	1271-1278	smaller	Taste Source[10]	_	_	
+7-30	1279-1287	quantity	Taste Source[10]	_	_	
+7-31	1288-1290	of	Taste Source[10]	_	_	
+7-32	1291-1295	what	Taste Source[10]	_	_	
+7-33	1296-1298	is	Taste Source[10]	_	_	
+7-34	1299-1304	sound	Taste Source[10]	_	_	
+7-35	1307-1310	and	Taste Source[10]	_	_	
+7-36	1311-1320	wholesome	Taste Source[10]	_	_	
+7-37	1321-1322	;	_	_	_	
+7-38	1323-1325	at	_	_	_	
+7-39	1326-1331	least	_	_	_	
+7-40	1332-1334	it	Effect[11]	_	_	
+7-41	1335-1340	would	Effect[11]	_	_	
+7-42	1341-1347	afford	Effect[11]	_	_	
+7-43	1348-1349	a	Effect[11]	_	_	
+7-44	1352-1358	better	Effect[11]	_	_	
+7-45	1359-1370	nourishment	Effect[11]	_	_	
+7-46	1370-1371	,	Effect[11]	_	_	
+7-47	1372-1376	with	Effect[11]	_	_	
+7-48	1377-1381	less	Effect[11]	_	_	
+7-49	1382-1388	danger	Effect[11]	_	_	
+7-50	1388-1389	.	_	_	_	
+
+#Text=The injunction given to the Jews not to 
+#Text= eat of any creature which had died in conse- 
+#Text= quence of a disease, seems to have a strict 
+#Text= regard to health, and ought to be observed, 
+#Text= as a wholesome lesson, by Christians as 
+#Text= well as Jews. 
+#Text=  
+#Text=  
+#Text=  
+#Text= 40 DISGUSTING PRACTICE OF RENDERING 
+#Text=  
+#Text= The Editor of The Literary Miscellany, 
+#Text= states, that it is a practice among many but- 
+#Text= chers to suspend calves by the hind legs, with
+#Text=degree of muddiness much better than if 
+#Text= the water be viewed through the glass 
+#Text= placed between the eye and the light.
+8-1	1395-1398	The	_	_	_	
+8-2	1399-1409	injunction	_	_	_	
+8-3	1410-1415	given	_	_	_	
+8-4	1416-1418	to	_	_	_	
+8-5	1419-1422	the	Taster[12]	_	_	
+8-6	1423-1427	Jews	Taster[12]	_	_	
+8-7	1428-1431	not	_	_	_	
+8-8	1432-1434	to	_	_	_	
+8-9	1437-1440	eat	Taste Word	*|*	8-5[12_0]|8-10[13_0]	
+8-10	1441-1443	of	Taste Source[13]	_	_	
+8-11	1444-1447	any	Taste Source[13]	_	_	
+8-12	1448-1456	creature	Taste Source[13]	_	_	
+8-13	1457-1462	which	Taste Source[13]	_	_	
+8-14	1463-1466	had	Taste Source[13]	_	_	
+8-15	1467-1471	died	Taste Source[13]	_	_	
+8-16	1472-1474	in	Taste Source[13]	_	_	
+8-17	1475-1480	conse	Taste Source[13]	_	_	
+8-18	1480-1481	-	Taste Source[13]	_	_	
+8-19	1484-1490	quence	Taste Source[13]	_	_	
+8-20	1491-1493	of	Taste Source[13]	_	_	
+8-21	1494-1495	a	Taste Source[13]	_	_	
+8-22	1496-1503	disease	Taste Source[13]	_	_	
+8-23	1503-1504	,	_	_	_	
+8-24	1505-1510	seems	_	_	_	
+8-25	1511-1513	to	_	_	_	
+8-26	1514-1518	have	_	_	_	
+8-27	1519-1520	a	_	_	_	
+8-28	1521-1527	strict	_	_	_	
+8-29	1530-1536	regard	_	_	_	
+8-30	1537-1539	to	_	_	_	
+8-31	1540-1546	health	_	_	_	
+8-32	1546-1547	,	_	_	_	
+8-33	1548-1551	and	_	_	_	
+8-34	1552-1557	ought	_	_	_	
+8-35	1558-1560	to	_	_	_	
+8-36	1561-1563	be	_	_	_	
+8-37	1564-1572	observed	_	_	_	
+8-38	1572-1573	,	_	_	_	
+8-39	1576-1578	as	_	_	_	
+8-40	1579-1580	a	_	_	_	
+8-41	1581-1590	wholesome	_	_	_	
+8-42	1591-1597	lesson	_	_	_	
+8-43	1597-1598	,	_	_	_	
+8-44	1599-1601	by	_	_	_	
+8-45	1602-1612	Christians	_	_	_	
+8-46	1613-1615	as	_	_	_	
+8-47	1618-1622	well	_	_	_	
+8-48	1623-1625	as	_	_	_	
+8-49	1626-1630	Jews	_	_	_	
+8-50	1630-1631	.	_	_	_	
+8-51	1643-1645	40	_	_	_	
+8-52	1646-1656	DISGUSTING	Taste Word[14]|Quality[15]	*	8-52[15_14]	
+8-53	1657-1665	PRACTICE	_	_	_	
+8-54	1666-1668	OF	_	_	_	
+8-55	1669-1678	RENDERING	_	_	_	
+8-56	1684-1687	The	_	_	_	
+8-57	1688-1694	Editor	_	_	_	
+8-58	1695-1697	of	_	_	_	
+8-59	1698-1701	The	_	_	_	
+8-60	1702-1710	Literary	_	_	_	
+8-61	1711-1721	Miscellany	_	_	_	
+8-62	1721-1722	,	_	_	_	
+8-63	1725-1731	states	_	_	_	
+8-64	1731-1732	,	_	_	_	
+8-65	1733-1737	that	_	_	_	
+8-66	1738-1740	it	_	_	_	
+8-67	1741-1743	is	_	_	_	
+8-68	1744-1745	a	_	_	_	
+8-69	1746-1754	practice	_	_	_	
+8-70	1755-1760	among	_	_	_	
+8-71	1761-1765	many	_	_	_	
+8-72	1766-1769	but	_	_	_	
+8-73	1769-1770	-	_	_	_	
+8-74	1773-1778	chers	_	_	_	
+8-75	1779-1781	to	_	_	_	
+8-76	1782-1789	suspend	_	_	_	
+8-77	1790-1796	calves	_	_	_	
+8-78	1797-1799	by	_	_	_	
+8-79	1800-1803	the	_	_	_	
+8-80	1804-1808	hind	_	_	_	
+8-81	1809-1813	legs	_	_	_	
+8-82	1813-1814	,	_	_	_	
+8-83	1815-1819	with	_	_	_	
+8-84	1820-1826	degree	_	_	_	
+8-85	1827-1829	of	_	_	_	
+8-86	1830-1839	muddiness	_	_	_	
+8-87	1840-1844	much	_	_	_	
+8-88	1845-1851	better	_	_	_	
+8-89	1852-1856	than	_	_	_	
+8-90	1857-1859	if	_	_	_	
+8-91	1862-1865	the	Taste Source[16]	_	_	
+8-92	1866-1871	water	Taste Source[16]	_	_	
+8-93	1872-1874	be	_	_	_	
+8-94	1875-1881	viewed	_	_	_	
+8-95	1882-1889	through	_	_	_	
+8-96	1890-1893	the	_	_	_	
+8-97	1894-1899	glass	_	_	_	
+8-98	1902-1908	placed	_	_	_	
+8-99	1909-1916	between	_	_	_	
+8-100	1917-1920	the	_	_	_	
+8-101	1921-1924	eye	_	_	_	
+8-102	1925-1928	and	_	_	_	
+8-103	1929-1932	the	_	_	_	
+8-104	1933-1938	light	_	_	_	
+8-105	1938-1939	.	_	_	_	
+
+#Text=It 
+#Text= should be perfectly colourless, devoid of 
+#Text= odour, and its taste soft and agreeable.
+9-1	1940-1942	It	_	_	_	
+9-2	1945-1951	should	_	_	_	
+9-3	1952-1954	be	_	_	_	
+9-4	1955-1964	perfectly	_	_	_	
+9-5	1965-1975	colourless	_	_	_	
+9-6	1975-1976	,	_	_	_	
+9-7	1977-1983	devoid	_	_	_	
+9-8	1984-1986	of	_	_	_	
+9-9	1989-1994	odour	_	_	_	
+9-10	1994-1995	,	_	_	_	
+9-11	1996-1999	and	_	_	_	
+9-12	2000-2003	its	Taste Source	anaphorical	8-91[16_0]	
+9-13	2004-2009	taste	Taste Word	*|*	9-16|9-14	
+9-14	2010-2014	soft	Quality	_	_	
+9-15	2015-2018	and	_	_	_	
+9-16	2019-2028	agreeable	Quality	_	_	
+9-17	2028-2029	.	_	_	_	
+
+#Text=It 
+#Text= should send out air-bubbles when poured 
+#Text= from one vessel into another ; it should boil 
+#Text= pulse soft, and form with soap am uniform 
+#Text= opaline fluid, which does not separate after 
+#Text= standing for several hours.
+10-1	2030-2032	It	_	_	_	
+10-2	2035-2041	should	_	_	_	
+10-3	2042-2046	send	_	_	_	
+10-4	2047-2050	out	_	_	_	
+10-5	2051-2062	air-bubbles	_	_	_	
+10-6	2063-2067	when	_	_	_	
+10-7	2068-2074	poured	_	_	_	
+10-8	2077-2081	from	_	_	_	
+10-9	2082-2085	one	_	_	_	
+10-10	2086-2092	vessel	_	_	_	
+10-11	2093-2097	into	_	_	_	
+10-12	2098-2105	another	_	_	_	
+10-13	2106-2107	;	_	_	_	
+10-14	2108-2110	it	_	_	_	
+10-15	2111-2117	should	_	_	_	
+10-16	2118-2122	boil	_	_	_	
+10-17	2125-2130	pulse	_	_	_	
+10-18	2131-2135	soft	_	_	_	
+10-19	2135-2136	,	_	_	_	
+10-20	2137-2140	and	_	_	_	
+10-21	2141-2145	form	_	_	_	
+10-22	2146-2150	with	_	_	_	
+10-23	2151-2155	soap	_	_	_	
+10-24	2156-2158	am	_	_	_	
+10-25	2159-2166	uniform	_	_	_	
+10-26	2169-2176	opaline	_	_	_	
+10-27	2177-2182	fluid	_	_	_	
+10-28	2182-2183	,	_	_	_	
+10-29	2184-2189	which	_	_	_	
+10-30	2190-2194	does	_	_	_	
+10-31	2195-2198	not	_	_	_	
+10-32	2199-2207	separate	_	_	_	
+10-33	2208-2213	after	_	_	_	
+10-34	2216-2224	standing	_	_	_	
+10-35	2225-2228	for	_	_	_	
+10-36	2229-2236	several	_	_	_	
+10-37	2237-2242	hours	_	_	_	
+10-38	2242-2243	.	_	_	_	
+
+#Text=It is to the presence of common air and 
+#Text= carbonic acid gas that common water owes 
+#Text= ils taste, and many of the good effects 
+#Text= which it produces on animals and vege- 
+#Text= tables.
+11-1	2249-2251	It	_	_	_	
+11-2	2252-2254	is	_	_	_	
+11-3	2255-2257	to	_	_	_	
+11-4	2258-2261	the	_	_	_	
+11-5	2262-2270	presence	_	_	_	
+11-6	2271-2273	of	_	_	_	
+11-7	2274-2280	common	_	_	_	
+11-8	2281-2284	air	_	_	_	
+11-9	2285-2288	and	_	_	_	
+11-10	2291-2299	carbonic	Taste Modifier[17]	_	_	
+11-11	2300-2304	acid	Taste Modifier[17]	_	_	
+11-12	2305-2308	gas	Taste Modifier[17]	_	_	
+11-13	2309-2313	that	_	_	_	
+11-14	2314-2320	common	Taste Source[18]	_	_	
+11-15	2321-2326	water	Taste Source[18]	_	_	
+11-16	2327-2331	owes	_	_	_	
+11-17	2334-2337	ils	_	_	_	
+11-18	2338-2343	taste	Taste Word	*|*	11-14[18_0]|11-10[17_0]	
+11-19	2343-2344	,	_	_	_	
+11-20	2345-2348	and	_	_	_	
+11-21	2349-2353	many	_	_	_	
+11-22	2354-2356	of	_	_	_	
+11-23	2357-2360	the	_	_	_	
+11-24	2361-2365	good	_	_	_	
+11-25	2366-2373	effects	_	_	_	
+11-26	2376-2381	which	_	_	_	
+11-27	2382-2384	it	_	_	_	
+11-28	2385-2393	produces	_	_	_	
+11-29	2394-2396	on	_	_	_	
+11-30	2397-2404	animals	_	_	_	
+11-31	2405-2408	and	_	_	_	
+11-32	2409-2413	vege	_	_	_	
+11-33	2413-2414	-	_	_	_	
+11-34	2417-2423	tables	_	_	_	
+11-35	2423-2424	.	_	_	_	
+
+#Text=Spring water, which contains more 
+#Text=  
+#Text=  
+#Text=  
+#Text= CHARACTERS OF GOOD WATER. 51
+#Text= 
+#Text= air, has a more lively taste than river 
+#Text= water.
+12-1	2425-2431	Spring	_	_	_	
+12-2	2432-2437	water	_	_	_	
+12-3	2437-2438	,	_	_	_	
+12-4	2439-2444	which	_	_	_	
+12-5	2445-2453	contains	_	_	_	
+12-6	2454-2458	more	_	_	_	
+12-7	2470-2480	CHARACTERS	_	_	_	
+12-8	2481-2483	OF	_	_	_	
+12-9	2484-2488	GOOD	_	_	_	
+12-10	2489-2494	WATER	_	_	_	
+12-11	2494-2495	.	_	_	_	
+12-12	2496-2498	51	_	_	_	
+12-13	2502-2505	air	Taste Source	_	_	
+12-14	2505-2506	,	_	_	_	
+12-15	2507-2510	has	_	_	_	
+12-16	2511-2512	a	_	_	_	
+12-17	2513-2517	more	Quality[19]	_	_	
+12-18	2518-2524	lively	Quality[19]	_	_	
+12-19	2525-2530	taste	Taste Word	*|*|*	12-13|12-17[19_0]|12-20[20_0]	
+12-20	2531-2535	than	Evoked Taste[20]	_	_	
+12-21	2536-2541	river	Evoked Taste[20]	_	_	
+12-22	2544-2549	water	Evoked Taste[20]	_	_	
+12-23	2549-2550	.	_	_	_	
+
+#Text=Hence the insipid and vapid taste of newly 
+#Text= boiled water, from which these gases are 
+#Text= expelled: fish cannot live in water deprived 
+#Text= of those elastic fluids. 
+#Text=  
+#Text= 100 cubic inches of the New River water, 
+#Text= with which part of this metropolis is sup* 
+#Text= plied, contains 2,25 of carbonic acid, and 
+#Text= 1,25 of common air.
+13-1	2556-2561	Hence	_	_	_	
+13-2	2562-2565	the	_	_	_	
+13-3	2566-2573	insipid	Quality[21]|Taste Word[22]	*	13-3[21_22]	
+13-4	2574-2577	and	_	_	_	
+13-5	2578-2583	vapid	Quality	_	_	
+13-6	2584-2589	taste	Taste Word	*|*|*	13-3[21_0]|13-5|13-7[23_0]	
+13-7	2590-2592	of	Taste Source[23]	_	_	
+13-8	2593-2598	newly	Taste Source[23]	_	_	
+13-9	2601-2607	boiled	Taste Source[23]	_	_	
+13-10	2608-2613	water	Taste Source[23]	_	_	
+13-11	2613-2614	,	_	_	_	
+13-12	2615-2619	from	_	_	_	
+13-13	2620-2625	which	_	_	_	
+13-14	2626-2631	these	_	_	_	
+13-15	2632-2637	gases	_	_	_	
+13-16	2638-2641	are	_	_	_	
+13-17	2644-2652	expelled	_	_	_	
+13-18	2652-2653	:	_	_	_	
+13-19	2654-2658	fish	_	_	_	
+13-20	2659-2665	cannot	_	_	_	
+13-21	2666-2670	live	_	_	_	
+13-22	2671-2673	in	_	_	_	
+13-23	2674-2679	water	_	_	_	
+13-24	2680-2688	deprived	_	_	_	
+13-25	2691-2693	of	_	_	_	
+13-26	2694-2699	those	_	_	_	
+13-27	2700-2707	elastic	_	_	_	
+13-28	2708-2714	fluids	_	_	_	
+13-29	2714-2715	.	_	_	_	
+13-30	2721-2724	100	_	_	_	
+13-31	2725-2730	cubic	_	_	_	
+13-32	2731-2737	inches	_	_	_	
+13-33	2738-2740	of	_	_	_	
+13-34	2741-2744	the	_	_	_	
+13-35	2745-2748	New	_	_	_	
+13-36	2749-2754	River	_	_	_	
+13-37	2755-2760	water	_	_	_	
+13-38	2760-2761	,	_	_	_	
+13-39	2764-2768	with	_	_	_	
+13-40	2769-2774	which	_	_	_	
+13-41	2775-2779	part	_	_	_	
+13-42	2780-2782	of	_	_	_	
+13-43	2783-2787	this	_	_	_	
+13-44	2788-2798	metropolis	_	_	_	
+13-45	2799-2801	is	_	_	_	
+13-46	2802-2805	sup	_	_	_	
+13-47	2805-2806	*	_	_	_	
+13-48	2809-2814	plied	_	_	_	
+13-49	2814-2815	,	_	_	_	
+13-50	2816-2824	contains	_	_	_	
+13-51	2825-2829	2,25	_	_	_	
+13-52	2830-2832	of	_	_	_	
+13-53	2833-2841	carbonic	_	_	_	
+13-54	2842-2846	acid	_	_	_	
+13-55	2846-2847	,	_	_	_	
+13-56	2848-2851	and	_	_	_	
+13-57	2854-2858	1,25	_	_	_	
+13-58	2859-2861	of	_	_	_	
+13-59	2862-2868	common	_	_	_	
+13-60	2869-2872	air	_	_	_	
+13-61	2872-2873	.	_	_	_	
+
+#Text=It contains, beside a 
+#Text= minute portion of muriate of lime, carbonate 
+#Text= of lime, and muriate of soda.
+14-1	2874-2876	It	_	_	_	
+14-2	2877-2885	contains	_	_	_	
+14-3	2885-2886	,	_	_	_	
+14-4	2887-2893	beside	_	_	_	
+14-5	2894-2895	a	_	_	_	
+14-6	2898-2904	minute	_	_	_	
+14-7	2905-2912	portion	_	_	_	
+14-8	2913-2915	of	_	_	_	
+14-9	2916-2923	muriate	_	_	_	
+14-10	2924-2926	of	_	_	_	
+14-11	2927-2931	lime	_	_	_	
+14-12	2931-2932	,	_	_	_	
+14-13	2933-2942	carbonate	_	_	_	
+14-14	2945-2947	of	_	_	_	
+14-15	2948-2952	lime	_	_	_	
+14-16	2952-2953	,	_	_	_	
+14-17	2954-2957	and	_	_	_	
+14-18	2958-2965	muriate	_	_	_	
+14-19	2966-2968	of	_	_	_	
+14-20	2969-2973	soda	_	_	_	
+14-21	2973-2974	.	_	_	_	
+
+#Text=The water 
+#Text= of the river Thames contains rather a larger 
+#Text= quantity of common air, and a smaller por- 
+#Text= tion of carbonic acid.
+15-1	2975-2978	The	_	_	_	
+15-2	2979-2984	water	_	_	_	
+15-3	2987-2989	of	_	_	_	
+15-4	2990-2993	the	_	_	_	
+15-5	2994-2999	river	_	_	_	
+15-6	3000-3006	Thames	_	_	_	
+15-7	3007-3015	contains	_	_	_	
+15-8	3016-3022	rather	_	_	_	
+15-9	3023-3024	a	_	_	_	
+15-10	3025-3031	larger	_	_	_	
+15-11	3034-3042	quantity	_	_	_	
+15-12	3043-3045	of	_	_	_	
+15-13	3046-3052	common	_	_	_	
+15-14	3053-3056	air	_	_	_	
+15-15	3056-3057	,	_	_	_	
+15-16	3058-3061	and	_	_	_	
+15-17	3062-3063	a	_	_	_	
+15-18	3064-3071	smaller	_	_	_	
+15-19	3072-3075	por	_	_	_	
+15-20	3075-3076	-	_	_	_	
+15-21	3079-3083	tion	_	_	_	
+15-22	3084-3086	of	_	_	_	
+15-23	3087-3095	carbonic	_	_	_	
+15-24	3096-3100	acid	_	_	_	
+15-25	3100-3101	.	_	_	_	
+
+#Text=Water is freed from foreign matter by
+#Text=As wells take their origin at some depth 
+#Text= from the surface, and below the influence 
+#Text= of the external atmosphere,, their tempera- 
+#Text= ture is in general pretty uniform during 
+#Text= every vicissitude of season, and always se- 
+#Text= veral degrees lower than the atmosphere..
+16-1	3107-3112	Water	_	_	_	
+16-2	3113-3115	is	_	_	_	
+16-3	3116-3121	freed	_	_	_	
+16-4	3122-3126	from	_	_	_	
+16-5	3127-3134	foreign	_	_	_	
+16-6	3135-3141	matter	_	_	_	
+16-7	3142-3144	by	_	_	_	
+16-8	3145-3147	As	_	_	_	
+16-9	3148-3153	wells	_	_	_	
+16-10	3154-3158	take	_	_	_	
+16-11	3159-3164	their	_	_	_	
+16-12	3165-3171	origin	_	_	_	
+16-13	3172-3174	at	_	_	_	
+16-14	3175-3179	some	_	_	_	
+16-15	3180-3185	depth	_	_	_	
+16-16	3188-3192	from	_	_	_	
+16-17	3193-3196	the	_	_	_	
+16-18	3197-3204	surface	_	_	_	
+16-19	3204-3205	,	_	_	_	
+16-20	3206-3209	and	_	_	_	
+16-21	3210-3215	below	_	_	_	
+16-22	3216-3219	the	_	_	_	
+16-23	3220-3229	influence	_	_	_	
+16-24	3232-3234	of	_	_	_	
+16-25	3235-3238	the	_	_	_	
+16-26	3239-3247	external	_	_	_	
+16-27	3248-3258	atmosphere	_	_	_	
+16-28	3258-3259	,	_	_	_	
+16-29	3259-3260	,	_	_	_	
+16-30	3261-3266	their	_	_	_	
+16-31	3267-3274	tempera	_	_	_	
+16-32	3274-3275	-	_	_	_	
+16-33	3278-3282	ture	_	_	_	
+16-34	3283-3285	is	_	_	_	
+16-35	3286-3288	in	_	_	_	
+16-36	3289-3296	general	_	_	_	
+16-37	3297-3303	pretty	_	_	_	
+16-38	3304-3311	uniform	_	_	_	
+16-39	3312-3318	during	_	_	_	
+16-40	3321-3326	every	_	_	_	
+16-41	3327-3338	vicissitude	_	_	_	
+16-42	3339-3341	of	_	_	_	
+16-43	3342-3348	season	_	_	_	
+16-44	3348-3349	,	_	_	_	
+16-45	3350-3353	and	_	_	_	
+16-46	3354-3360	always	_	_	_	
+16-47	3361-3363	se	_	_	_	
+16-48	3363-3364	-	_	_	_	
+16-49	3367-3372	veral	_	_	_	
+16-50	3373-3380	degrees	_	_	_	
+16-51	3381-3386	lower	_	_	_	
+16-52	3387-3391	than	_	_	_	
+16-53	3392-3395	the	_	_	_	
+16-54	3396-3406	atmosphere	_	_	_	
+16-55	3406-3407	.	_	_	_	
+16-56	3407-3408	.	_	_	_	
+
+#Text=They differ from one another according to 
+#Text= the nature of the strata through which they 
+#Text= issue; for though the ingredients usually 
+#Text= existing in them are in such minute quan- 
+#Text= tities as to impart to the water no striking 
+#Text= properties, and do not render it unfit for 
+#Text= common purposes, yet they modify its na- 
+#Text= ture very considerably.
+17-1	3411-3415	They	_	_	_	
+17-2	3416-3422	differ	_	_	_	
+17-3	3423-3427	from	_	_	_	
+17-4	3428-3431	one	_	_	_	
+17-5	3432-3439	another	_	_	_	
+17-6	3440-3449	according	_	_	_	
+17-7	3450-3452	to	_	_	_	
+17-8	3455-3458	the	_	_	_	
+17-9	3459-3465	nature	_	_	_	
+17-10	3466-3468	of	_	_	_	
+17-11	3469-3472	the	_	_	_	
+17-12	3473-3479	strata	_	_	_	
+17-13	3480-3487	through	_	_	_	
+17-14	3488-3493	which	_	_	_	
+17-15	3494-3498	they	_	_	_	
+17-16	3501-3506	issue	_	_	_	
+17-17	3506-3507	;	_	_	_	
+17-18	3508-3511	for	_	_	_	
+17-19	3512-3518	though	_	_	_	
+17-20	3519-3522	the	_	_	_	
+17-21	3523-3534	ingredients	_	_	_	
+17-22	3535-3542	usually	_	_	_	
+17-23	3545-3553	existing	_	_	_	
+17-24	3554-3556	in	_	_	_	
+17-25	3557-3561	them	_	_	_	
+17-26	3562-3565	are	_	_	_	
+17-27	3566-3568	in	_	_	_	
+17-28	3569-3573	such	_	_	_	
+17-29	3574-3580	minute	_	_	_	
+17-30	3581-3585	quan	_	_	_	
+17-31	3585-3586	-	_	_	_	
+17-32	3589-3595	tities	_	_	_	
+17-33	3596-3598	as	_	_	_	
+17-34	3599-3601	to	_	_	_	
+17-35	3602-3608	impart	_	_	_	
+17-36	3609-3611	to	_	_	_	
+17-37	3612-3615	the	_	_	_	
+17-38	3616-3621	water	_	_	_	
+17-39	3622-3624	no	_	_	_	
+17-40	3625-3633	striking	_	_	_	
+17-41	3636-3646	properties	_	_	_	
+17-42	3646-3647	,	_	_	_	
+17-43	3648-3651	and	_	_	_	
+17-44	3652-3654	do	_	_	_	
+17-45	3655-3658	not	_	_	_	
+17-46	3659-3665	render	_	_	_	
+17-47	3666-3668	it	_	_	_	
+17-48	3669-3674	unfit	_	_	_	
+17-49	3675-3678	for	_	_	_	
+17-50	3681-3687	common	_	_	_	
+17-51	3688-3696	purposes	_	_	_	
+17-52	3696-3697	,	_	_	_	
+17-53	3698-3701	yet	_	_	_	
+17-54	3702-3706	they	_	_	_	
+17-55	3707-3713	modify	_	_	_	
+17-56	3714-3717	its	_	_	_	
+17-57	3718-3720	na	_	_	_	
+17-58	3720-3721	-	_	_	_	
+17-59	3724-3728	ture	_	_	_	
+17-60	3729-3733	very	_	_	_	
+17-61	3734-3746	considerably	_	_	_	
+17-62	3746-3747	.	_	_	_	
+
+#Text=Hence the water 
+#Text= of some springs is said to be hard, of others 
+#Text= soft, some sweet, others brackish, accord-, 
+#Text= ing to the nature and degree of the impreg- 
+#Text= nating ingredients.
+18-1	3748-3753	Hence	_	_	_	
+18-2	3754-3757	the	Taste Source[24]	_	_	
+18-3	3758-3763	water	Taste Source[24]	_	_	
+18-4	3766-3768	of	_	_	_	
+18-5	3769-3773	some	_	_	_	
+18-6	3774-3781	springs	_	_	_	
+18-7	3782-3784	is	_	_	_	
+18-8	3785-3789	said	_	_	_	
+18-9	3790-3792	to	_	_	_	
+18-10	3793-3795	be	_	_	_	
+18-11	3796-3800	hard	_	_	_	
+18-12	3800-3801	,	_	_	_	
+18-13	3802-3804	of	_	_	_	
+18-14	3805-3811	others	_	_	_	
+18-15	3814-3818	soft	_	_	_	
+18-16	3818-3819	,	_	_	_	
+18-17	3820-3824	some	_	_	_	
+18-18	3825-3830	sweet	Taste Word[25]|Quality[26]	*|*	18-18[26_25]|18-2[24_25]	
+18-19	3830-3831	,	_	_	_	
+18-20	3832-3838	others	_	_	_	
+18-21	3839-3847	brackish	_	_	_	
+18-22	3847-3848	,	_	_	_	
+18-23	3849-3855	accord	_	_	_	
+18-24	3855-3856	-	_	_	_	
+18-25	3856-3857	,	_	_	_	
+18-26	3860-3863	ing	_	_	_	
+18-27	3864-3866	to	_	_	_	
+18-28	3867-3870	the	_	_	_	
+18-29	3871-3877	nature	_	_	_	
+18-30	3878-3881	and	_	_	_	
+18-31	3882-3888	degree	_	_	_	
+18-32	3889-3891	of	_	_	_	
+18-33	3892-3895	the	_	_	_	
+18-34	3896-3902	impreg	_	_	_	
+18-35	3902-3903	-	_	_	_	
+18-36	3906-3912	nating	_	_	_	
+18-37	3913-3924	ingredients	_	_	_	
+18-38	3924-3925	.	_	_	_	
+
+#Text=Common springs are insensibly changed
+#Text=* Dried bilberries are imported from Germany, under 
+#Text= the fallacious name of berry  ' dye.
+19-1	3931-3937	Common	_	_	_	
+19-2	3938-3945	springs	_	_	_	
+19-3	3946-3949	are	_	_	_	
+19-4	3950-3960	insensibly	_	_	_	
+19-5	3961-3968	changed	_	_	_	
+19-6	3969-3970	*	_	_	_	
+19-7	3971-3976	Dried	_	_	_	
+19-8	3977-3987	bilberries	_	_	_	
+19-9	3988-3991	are	_	_	_	
+19-10	3992-4000	imported	_	_	_	
+19-11	4001-4005	from	_	_	_	
+19-12	4006-4013	Germany	_	_	_	
+19-13	4013-4014	,	_	_	_	
+19-14	4015-4020	under	_	_	_	
+19-15	4023-4026	the	_	_	_	
+19-16	4027-4037	fallacious	_	_	_	
+19-17	4038-4042	name	_	_	_	
+19-18	4043-4045	of	_	_	_	
+19-19	4046-4051	berry	_	_	_	
+19-20	4053-4054	'	_	_	_	
+19-21	4055-4058	dye	_	_	_	
+19-22	4058-4059	.	_	_	_	
+
+#Text=ADULTERATION OF WINE. 93 
+#Text=  
+#Text= parted to immature red wines by means of 
+#Text= oak-wood sawdust*, and the busks of fil- 
+#Text= berts; and that a mixture of spoiled foreign 
+#Text= and home-made wines is converted into the 
+#Text= wretched compound frequently sold in this 
+#Text= town by the name of* genuine old Port. '  
+#Text=  
+#Text= Various expedients are resorted to for the 
+#Text= purpose of communicating particular fla- 
+#Text= vours to insipid wines.
+20-1	4071-4083	ADULTERATION	_	_	_	
+20-2	4084-4086	OF	_	_	_	
+20-3	4087-4091	WINE	_	_	_	
+20-4	4091-4092	.	_	_	_	
+20-5	4093-4095	93	_	_	_	
+20-6	4101-4107	parted	_	_	_	
+20-7	4108-4110	to	_	_	_	
+20-8	4111-4119	immature	_	_	_	
+20-9	4120-4123	red	_	_	_	
+20-10	4124-4129	wines	_	_	_	
+20-11	4130-4132	by	_	_	_	
+20-12	4133-4138	means	_	_	_	
+20-13	4139-4141	of	_	_	_	
+20-14	4144-4152	oak-wood	_	_	_	
+20-15	4153-4160	sawdust	_	_	_	
+20-16	4160-4161	*	_	_	_	
+20-17	4161-4162	,	_	_	_	
+20-18	4163-4166	and	_	_	_	
+20-19	4167-4170	the	_	_	_	
+20-20	4171-4176	busks	_	_	_	
+20-21	4177-4179	of	_	_	_	
+20-22	4180-4183	fil	_	_	_	
+20-23	4183-4184	-	_	_	_	
+20-24	4187-4192	berts	_	_	_	
+20-25	4192-4193	;	_	_	_	
+20-26	4194-4197	and	_	_	_	
+20-27	4198-4202	that	_	_	_	
+20-28	4203-4204	a	_	_	_	
+20-29	4205-4212	mixture	_	_	_	
+20-30	4213-4215	of	_	_	_	
+20-31	4216-4223	spoiled	_	_	_	
+20-32	4224-4231	foreign	_	_	_	
+20-33	4234-4237	and	_	_	_	
+20-34	4238-4247	home-made	_	_	_	
+20-35	4248-4253	wines	_	_	_	
+20-36	4254-4256	is	_	_	_	
+20-37	4257-4266	converted	_	_	_	
+20-38	4267-4271	into	_	_	_	
+20-39	4272-4275	the	_	_	_	
+20-40	4278-4286	wretched	_	_	_	
+20-41	4287-4295	compound	_	_	_	
+20-42	4296-4306	frequently	_	_	_	
+20-43	4307-4311	sold	_	_	_	
+20-44	4312-4314	in	_	_	_	
+20-45	4315-4319	this	_	_	_	
+20-46	4322-4326	town	_	_	_	
+20-47	4327-4329	by	_	_	_	
+20-48	4330-4333	the	_	_	_	
+20-49	4334-4338	name	_	_	_	
+20-50	4339-4341	of	_	_	_	
+20-51	4341-4342	*	_	_	_	
+20-52	4343-4350	genuine	_	_	_	
+20-53	4351-4354	old	_	_	_	
+20-54	4355-4359	Port	_	_	_	
+20-55	4359-4360	.	_	_	_	
+20-56	4361-4362	'	_	_	_	
+20-57	4369-4376	Various	_	_	_	
+20-58	4377-4387	expedients	_	_	_	
+20-59	4388-4391	are	_	_	_	
+20-60	4392-4400	resorted	_	_	_	
+20-61	4401-4403	to	_	_	_	
+20-62	4404-4407	for	_	_	_	
+20-63	4408-4411	the	_	_	_	
+20-64	4414-4421	purpose	_	_	_	
+20-65	4422-4424	of	_	_	_	
+20-66	4425-4438	communicating	_	_	_	
+20-67	4439-4449	particular	Quality	_	_	
+20-68	4450-4453	fla	Taste Word[27]	*|*	20-67[0_27]|20-73[0_27]	
+20-69	4453-4454	-	Taste Word[27]	_	_	
+20-70	4457-4462	vours	Taste Word[27]	_	_	
+20-71	4463-4465	to	_	_	_	
+20-72	4466-4473	insipid	Taste Word[28]|Quality[29]	*|*	20-72[29_28]|20-73[0_28]	
+20-73	4474-4479	wines	Taste Source	_	_	
+20-74	4479-4480	.	_	_	_	
+
+#Text=Thus a nutty flavour 
+#Text= is produced by bitter almonds ; factitious 
+#Text= Port wine is flavoured with a tincture drawn 
+#Text= from the seeds of raisins ; and the ingre-
+#Text=by the Highflyer coach, from the north, 
+#Text= dined, as usual, at Newark.
+21-1	4481-4485	Thus	_	_	_	
+21-2	4486-4487	a	_	_	_	
+21-3	4488-4493	nutty	Quality	_	_	
+21-4	4494-4501	flavour	Taste Word	*|*	21-3|21-7[30_0]	
+21-5	4504-4506	is	_	_	_	
+21-6	4507-4515	produced	_	_	_	
+21-7	4516-4518	by	Taste Source[30]	_	_	
+21-8	4519-4525	bitter	Taste Source[30]|Taste Word[31]|Quality[32]	*	21-8[32_31]	
+21-9	4526-4533	almonds	Taste Source[30]	_	_	
+21-10	4534-4535	;	_	_	_	
+21-11	4536-4546	factitious	Taste Source[33]	_	_	
+21-12	4549-4553	Port	Taste Source[33]	_	_	
+21-13	4554-4558	wine	Taste Source[33]	_	_	
+21-14	4559-4561	is	_	_	_	
+21-15	4562-4571	flavoured	Taste Word[34]|Quality[35]	*|*|*	21-15[35_34]|21-11[33_34]|21-16[36_34]	
+21-16	4572-4576	with	Taste Modifier[36]	_	_	
+21-17	4577-4578	a	Taste Modifier[36]	_	_	
+21-18	4579-4587	tincture	Taste Modifier[36]	_	_	
+21-19	4588-4593	drawn	Taste Modifier[36]	_	_	
+21-20	4596-4600	from	Taste Modifier[36]	_	_	
+21-21	4601-4604	the	Taste Modifier[36]	_	_	
+21-22	4605-4610	seeds	Taste Modifier[36]	_	_	
+21-23	4611-4613	of	Taste Modifier[36]	_	_	
+21-24	4614-4621	raisins	Taste Modifier[36]	_	_	
+21-25	4622-4623	;	_	_	_	
+21-26	4624-4627	and	_	_	_	
+21-27	4628-4631	the	_	_	_	
+21-28	4632-4637	ingre	_	_	_	
+21-29	4637-4638	-	_	_	_	
+21-30	4639-4641	by	_	_	_	
+21-31	4642-4645	the	_	_	_	
+21-32	4646-4655	Highflyer	_	_	_	
+21-33	4656-4661	coach	_	_	_	
+21-34	4661-4662	,	_	_	_	
+21-35	4663-4667	from	_	_	_	
+21-36	4668-4671	the	_	_	_	
+21-37	4672-4677	north	_	_	_	
+21-38	4677-4678	,	_	_	_	
+21-39	4681-4686	dined	_	_	_	
+21-40	4686-4687	,	_	_	_	
+21-41	4688-4690	as	_	_	_	
+21-42	4691-4696	usual	_	_	_	
+21-43	4696-4697	,	_	_	_	
+21-44	4698-4700	at	_	_	_	
+21-45	4701-4707	Newark	_	_	_	
+21-46	4707-4708	.	_	_	_	
+
+#Text=A bottle of 
+#Text= Port wine was ordered ; on tasting which, 
+#Text= one of the passengers observed that it had 
+#Text= an unpleasant flavour, and begged that it 
+#Text= might be changed.
+22-1	4709-4710	A	Taste Source[37]	_	_	
+22-2	4711-4717	bottle	Taste Source[37]	_	_	
+22-3	4718-4720	of	Taste Source[37]	_	_	
+22-4	4723-4727	Port	Taste Source[37]	_	_	
+22-5	4728-4732	wine	Taste Source[37]	_	_	
+22-6	4733-4736	was	_	_	_	
+22-7	4737-4744	ordered	_	_	_	
+22-8	4745-4746	;	_	_	_	
+22-9	4747-4749	on	_	_	_	
+22-10	4750-4757	tasting	Taste Word	*|*	22-1[37_0]|22-13[38_0]	
+22-11	4758-4763	which	_	_	_	
+22-12	4763-4764	,	_	_	_	
+22-13	4767-4770	one	Taster[38]	_	_	
+22-14	4771-4773	of	Taster[38]	_	_	
+22-15	4774-4777	the	Taster[38]	_	_	
+22-16	4778-4788	passengers	Taster[38]	_	_	
+22-17	4789-4797	observed	_	_	_	
+22-18	4798-4802	that	_	_	_	
+22-19	4803-4805	it	Taste Source	anaphorical	22-1[37_0]	
+22-20	4806-4809	had	_	_	_	
+22-21	4812-4814	an	_	_	_	
+22-22	4815-4825	unpleasant	Quality[39]|Taste Word[40]	*	22-22[39_40]	
+22-23	4826-4833	flavour	Taste Word	*|*	22-22[39_0]|22-19	
+22-24	4833-4834	,	_	_	_	
+22-25	4835-4838	and	_	_	_	
+22-26	4839-4845	begged	_	_	_	
+22-27	4846-4850	that	_	_	_	
+22-28	4851-4853	it	_	_	_	
+22-29	4856-4861	might	_	_	_	
+22-30	4862-4864	be	_	_	_	
+22-31	4865-4872	changed	_	_	_	
+22-32	4872-4873	.	_	_	_	
+
+#Text=The waiter took away 
+#Text= the bottle, poured into a fresh decanter 
+#Text= half the wine which had been objected to, 
+#Text= and filled it up from another bottle.
+23-1	4874-4877	The	_	_	_	
+23-2	4878-4884	waiter	_	_	_	
+23-3	4885-4889	took	_	_	_	
+23-4	4890-4894	away	_	_	_	
+23-5	4897-4900	the	_	_	_	
+23-6	4901-4907	bottle	_	_	_	
+23-7	4907-4908	,	_	_	_	
+23-8	4909-4915	poured	_	_	_	
+23-9	4916-4920	into	_	_	_	
+23-10	4921-4922	a	_	_	_	
+23-11	4923-4928	fresh	_	_	_	
+23-12	4929-4937	decanter	_	_	_	
+23-13	4940-4944	half	_	_	_	
+23-14	4945-4948	the	Taste Source[41]	_	_	
+23-15	4949-4953	wine	Taste Source[41]	_	_	
+23-16	4954-4959	which	_	_	_	
+23-17	4960-4963	had	_	_	_	
+23-18	4964-4968	been	_	_	_	
+23-19	4969-4977	objected	_	_	_	
+23-20	4978-4980	to	_	_	_	
+23-21	4980-4981	,	_	_	_	
+23-22	4984-4987	and	_	_	_	
+23-23	4988-4994	filled	_	_	_	
+23-24	4995-4997	it	_	_	_	
+23-25	4998-5000	up	_	_	_	
+23-26	5001-5005	from	_	_	_	
+23-27	5006-5013	another	_	_	_	
+23-28	5014-5020	bottle	_	_	_	
+23-29	5020-5021	.	_	_	_	
+
+#Text=This 
+#Text= he took into the room, and the greater 
+#Text= part was drank by the passengers, who, 
+#Text=  
+#Text=  
+#Text=  
+#Text= ADULTERATION OF WINE. 101 
+#Text=  
+#Text= after the coach had set out towards Grarv- 
+#Text= tham, were seized with extreme sickness ; 
+#Text= one gentleman in particular, who had taken 
+#Text= more of the wine than the others, it was
+#Text=thought would have died, but has since re- 
+#Text= covered.
+24-1	5022-5026	This	Taste Source	anaphorical	23-14[41_0]	
+24-2	5029-5031	he	_	_	_	
+24-3	5032-5036	took	_	_	_	
+24-4	5037-5041	into	Location[42]	_	_	
+24-5	5042-5045	the	Location[42]	_	_	
+24-6	5046-5050	room	Location[42]	_	_	
+24-7	5050-5051	,	_	_	_	
+24-8	5052-5055	and	_	_	_	
+24-9	5056-5059	the	Circumstance[43]	_	_	
+24-10	5060-5067	greater	Circumstance[43]	_	_	
+24-11	5070-5074	part	Circumstance[43]	_	_	
+24-12	5075-5078	was	_	_	_	
+24-13	5079-5084	drank	Taste Word	*|*|*|*|*	24-14[44_0]|24-4[42_0]|24-1|24-9[43_0]|24-25[45_0]	
+24-14	5085-5087	by	Taster[44]	_	_	
+24-15	5088-5091	the	Taster[44]	_	_	
+24-16	5092-5102	passengers	Taster[44]	_	_	
+24-17	5102-5103	,	_	_	_	
+24-18	5104-5107	who	_	_	_	
+24-19	5107-5108	,	_	_	_	
+24-20	5120-5132	ADULTERATION	_	_	_	
+24-21	5133-5135	OF	_	_	_	
+24-22	5136-5140	WINE	_	_	_	
+24-23	5140-5141	.	_	_	_	
+24-24	5142-5145	101	_	_	_	
+24-25	5151-5156	after	Effect[45]	_	_	
+24-26	5157-5160	the	Effect[45]	_	_	
+24-27	5161-5166	coach	Effect[45]	_	_	
+24-28	5167-5170	had	Effect[45]	_	_	
+24-29	5171-5174	set	Effect[45]	_	_	
+24-30	5175-5178	out	Effect[45]	_	_	
+24-31	5179-5186	towards	Effect[45]	_	_	
+24-32	5187-5192	Grarv	Effect[45]	_	_	
+24-33	5192-5193	-	Effect[45]	_	_	
+24-34	5196-5200	tham	Effect[45]	_	_	
+24-35	5200-5201	,	Effect[45]	_	_	
+24-36	5202-5206	were	Effect[45]	_	_	
+24-37	5207-5213	seized	Effect[45]	_	_	
+24-38	5214-5218	with	Effect[45]	_	_	
+24-39	5219-5226	extreme	Effect[45]	_	_	
+24-40	5227-5235	sickness	Effect[45]	_	_	
+24-41	5236-5237	;	_	_	_	
+24-42	5240-5243	one	_	_	_	
+24-43	5244-5253	gentleman	_	_	_	
+24-44	5254-5256	in	_	_	_	
+24-45	5257-5267	particular	_	_	_	
+24-46	5267-5268	,	_	_	_	
+24-47	5269-5272	who	_	_	_	
+24-48	5273-5276	had	_	_	_	
+24-49	5277-5282	taken	_	_	_	
+24-50	5285-5289	more	_	_	_	
+24-51	5290-5292	of	_	_	_	
+24-52	5293-5296	the	_	_	_	
+24-53	5297-5301	wine	_	_	_	
+24-54	5302-5306	than	_	_	_	
+24-55	5307-5310	the	_	_	_	
+24-56	5311-5317	others	_	_	_	
+24-57	5317-5318	,	_	_	_	
+24-58	5319-5321	it	_	_	_	
+24-59	5322-5325	was	_	_	_	
+24-60	5326-5333	thought	_	_	_	
+24-61	5334-5339	would	_	_	_	
+24-62	5340-5344	have	_	_	_	
+24-63	5345-5349	died	_	_	_	
+24-64	5349-5350	,	_	_	_	
+24-65	5351-5354	but	_	_	_	
+24-66	5355-5358	has	_	_	_	
+24-67	5359-5364	since	_	_	_	
+24-68	5365-5367	re	_	_	_	
+24-69	5367-5368	-	_	_	_	
+24-70	5371-5378	covered	_	_	_	
+24-71	5378-5379	.	_	_	_	
+
+#Text=The half of the bottle of wine sent 
+#Text= out of the passengers '  room, was put aside 
+#Text= for the purpose of mixing negus.
+25-1	5380-5383	The	_	_	_	
+25-2	5384-5388	half	_	_	_	
+25-3	5389-5391	of	_	_	_	
+25-4	5392-5395	the	_	_	_	
+25-5	5396-5402	bottle	_	_	_	
+25-6	5403-5405	of	_	_	_	
+25-7	5406-5410	wine	_	_	_	
+25-8	5411-5415	sent	_	_	_	
+25-9	5418-5421	out	_	_	_	
+25-10	5422-5424	of	_	_	_	
+25-11	5425-5428	the	_	_	_	
+25-12	5429-5439	passengers	_	_	_	
+25-13	5440-5441	'	_	_	_	
+25-14	5443-5447	room	_	_	_	
+25-15	5447-5448	,	_	_	_	
+25-16	5449-5452	was	_	_	_	
+25-17	5453-5456	put	_	_	_	
+25-18	5457-5462	aside	_	_	_	
+25-19	5465-5468	for	_	_	_	
+25-20	5469-5472	the	_	_	_	
+25-21	5473-5480	purpose	_	_	_	
+25-22	5481-5483	of	_	_	_	
+25-23	5484-5490	mixing	_	_	_	
+25-24	5491-5496	negus	_	_	_	
+25-25	5496-5497	.	_	_	_	
+
+#Text=In the 
+#Text= evening, Mr.
+26-1	5498-5500	In	_	_	_	
+26-2	5501-5504	the	_	_	_	
+26-3	5507-5514	evening	_	_	_	
+26-4	5514-5515	,	_	_	_	
+26-5	5516-5518	Mr	Taster[46]	_	_	
+26-6	5518-5519	.	Taster[46]	_	_	
+
+#Text=Bland, of Newark, went into 
+#Text= the hotel, and drank a glass or two of wine 
+#Text= $nd water.
+27-1	5520-5525	Bland	Taster[46]	_	_	
+27-2	5525-5526	,	_	_	_	
+27-3	5527-5529	of	_	_	_	
+27-4	5530-5536	Newark	_	_	_	
+27-5	5536-5537	,	_	_	_	
+27-6	5538-5542	went	_	_	_	
+27-7	5543-5547	into	Location[47]	_	_	
+27-8	5550-5553	the	Location[47]	_	_	
+27-9	5554-5559	hotel	Location[47]	_	_	
+27-10	5559-5560	,	_	_	_	
+27-11	5561-5564	and	_	_	_	
+27-12	5565-5570	drank	Taste Word	*|*|*|*|*|*	27-13[48_0]|27-17[49_0]|27-21|27-7[47_0]|26-5[46_0]|28-14[50_0]	
+27-13	5571-5572	a	Taste Carrier[48]	_	_	
+27-14	5573-5578	glass	Taste Carrier[48]	_	_	
+27-15	5579-5581	or	Taste Carrier[48]	_	_	
+27-16	5582-5585	two	Taste Carrier[48]	_	_	
+27-17	5586-5588	of	Taste Source[49]	_	_	
+27-18	5589-5593	wine	Taste Source[49]	_	_	
+27-19	5596-5597	$	_	_	_	
+27-20	5597-5599	nd	_	_	_	
+27-21	5600-5605	water	Taste Source	_	_	
+27-22	5605-5606	.	_	_	_	
+
+#Text=He returned home at his usual 
+#Text= hour, and went to bed; in the middle of the 
+#Text= night he was taken so ill, as to induce Mrs.
+28-1	5607-5609	He	_	_	_	
+28-2	5610-5618	returned	_	_	_	
+28-3	5619-5623	home	_	_	_	
+28-4	5624-5626	at	_	_	_	
+28-5	5627-5630	his	_	_	_	
+28-6	5631-5636	usual	_	_	_	
+28-7	5639-5643	hour	_	_	_	
+28-8	5643-5644	,	_	_	_	
+28-9	5645-5648	and	_	_	_	
+28-10	5649-5653	went	_	_	_	
+28-11	5654-5656	to	_	_	_	
+28-12	5657-5660	bed	_	_	_	
+28-13	5660-5661	;	_	_	_	
+28-14	5662-5664	in	Effect[50]	_	_	
+28-15	5665-5668	the	Effect[50]	_	_	
+28-16	5669-5675	middle	Effect[50]	_	_	
+28-17	5676-5678	of	Effect[50]	_	_	
+28-18	5679-5682	the	Effect[50]	_	_	
+28-19	5685-5690	night	Effect[50]	_	_	
+28-20	5691-5693	he	Effect[50]	_	_	
+28-21	5694-5697	was	Effect[50]	_	_	
+28-22	5698-5703	taken	Effect[50]	_	_	
+28-23	5704-5706	so	Effect[50]	_	_	
+28-24	5707-5710	ill	Effect[50]	_	_	
+28-25	5710-5711	,	_	_	_	
+28-26	5712-5714	as	_	_	_	
+28-27	5715-5717	to	_	_	_	
+28-28	5718-5724	induce	_	_	_	
+28-29	5725-5728	Mrs	_	_	_	
+28-30	5728-5729	.	_	_	_	
+
+#Text=Bland to send for his brother, an apothecary 
+#Text= in the town ; but before that gentleman ar- 
+#Text= rived, he was dead.
+29-1	5732-5737	Bland	_	_	_	
+29-2	5738-5740	to	_	_	_	
+29-3	5741-5745	send	_	_	_	
+29-4	5746-5749	for	_	_	_	
+29-5	5750-5753	his	_	_	_	
+29-6	5754-5761	brother	_	_	_	
+29-7	5761-5762	,	_	_	_	
+29-8	5763-5765	an	_	_	_	
+29-9	5766-5776	apothecary	_	_	_	
+29-10	5779-5781	in	_	_	_	
+29-11	5782-5785	the	_	_	_	
+29-12	5786-5790	town	_	_	_	
+29-13	5791-5792	;	_	_	_	
+29-14	5793-5796	but	_	_	_	
+29-15	5797-5803	before	_	_	_	
+29-16	5804-5808	that	_	_	_	
+29-17	5809-5818	gentleman	_	_	_	
+29-18	5819-5821	ar	_	_	_	
+29-19	5821-5822	-	_	_	_	
+29-20	5825-5830	rived	_	_	_	
+29-21	5830-5831	,	_	_	_	
+29-22	5832-5834	he	_	_	_	
+29-23	5835-5838	was	_	_	_	
+29-24	5839-5843	dead	_	_	_	
+29-25	5843-5844	.	_	_	_	
+
+#Text=An inquest was held, 
+#Text= and the jury, after the fullest inquiry, and 
+#Text= the examination of the surgeons by whom 
+#Text= r3 
+#Text=  
+#Text=  
+#Text=  
+#Text= 102 ADULTERATION OF WINE.
+30-1	5845-5847	An	_	_	_	
+30-2	5848-5855	inquest	_	_	_	
+30-3	5856-5859	was	_	_	_	
+30-4	5860-5864	held	_	_	_	
+30-5	5864-5865	,	_	_	_	
+30-6	5868-5871	and	_	_	_	
+30-7	5872-5875	the	_	_	_	
+30-8	5876-5880	jury	_	_	_	
+30-9	5880-5881	,	_	_	_	
+30-10	5882-5887	after	_	_	_	
+30-11	5888-5891	the	_	_	_	
+30-12	5892-5899	fullest	_	_	_	
+30-13	5900-5907	inquiry	_	_	_	
+30-14	5907-5908	,	_	_	_	
+30-15	5909-5912	and	_	_	_	
+30-16	5915-5918	the	_	_	_	
+30-17	5919-5930	examination	_	_	_	
+30-18	5931-5933	of	_	_	_	
+30-19	5934-5937	the	_	_	_	
+30-20	5938-5946	surgeons	_	_	_	
+30-21	5947-5949	by	_	_	_	
+30-22	5950-5954	whom	_	_	_	
+30-23	5957-5959	r3	_	_	_	
+30-24	5971-5974	102	_	_	_	
+30-25	5975-5987	ADULTERATION	_	_	_	
+30-26	5988-5990	OF	_	_	_	
+30-27	5991-5995	WINE	_	_	_	
+30-28	5995-5996	.	_	_	_	
+
+#Text=in warm climates.
+31-1	6000-6002	in	_	_	_	
+31-2	6003-6007	warm	_	_	_	
+31-3	6008-6016	climates	_	_	_	
+31-4	6016-6017	.	_	_	_	
+
+#Text=Its effect is of an inebri- 
+#Text= ating nature
+32-1	6018-6021	Its	_	_	_	
+32-2	6022-6028	effect	_	_	_	
+32-3	6029-6031	is	_	_	_	
+32-4	6032-6034	of	_	_	_	
+32-5	6035-6037	an	_	_	_	
+32-6	6038-6044	inebri	_	_	_	
+32-7	6044-6045	-	_	_	_	
+32-8	6048-6053	ating	_	_	_	
+32-9	6054-6060	nature	_	_	_	
+
+#Text=.
+33-1	6060-6061	.	_	_	_	
+
+#Text=" Calamus Ar omaticus is used in the brew- 
+#Text= ery as a succedaneum for hops and strength, 
+#Text= by slicing it thin, and boiling it a short time 
+#Text= with the hops ; one pound of which is equal 
+#Text= to six pounds of hops
+34-1	6067-6068	"	_	_	_	
+34-2	6069-6076	Calamus	_	_	_	
+34-3	6077-6079	Ar	_	_	_	
+34-4	6080-6088	omaticus	_	_	_	
+34-5	6089-6091	is	_	_	_	
+34-6	6092-6096	used	_	_	_	
+34-7	6097-6099	in	_	_	_	
+34-8	6100-6103	the	_	_	_	
+34-9	6104-6108	brew	_	_	_	
+34-10	6108-6109	-	_	_	_	
+34-11	6112-6115	ery	_	_	_	
+34-12	6116-6118	as	_	_	_	
+34-13	6119-6120	a	_	_	_	
+34-14	6121-6132	succedaneum	_	_	_	
+34-15	6133-6136	for	_	_	_	
+34-16	6137-6141	hops	_	_	_	
+34-17	6142-6145	and	_	_	_	
+34-18	6146-6154	strength	_	_	_	
+34-19	6154-6155	,	_	_	_	
+34-20	6158-6160	by	_	_	_	
+34-21	6161-6168	slicing	_	_	_	
+34-22	6169-6171	it	_	_	_	
+34-23	6172-6176	thin	_	_	_	
+34-24	6176-6177	,	_	_	_	
+34-25	6178-6181	and	_	_	_	
+34-26	6182-6189	boiling	_	_	_	
+34-27	6190-6192	it	_	_	_	
+34-28	6193-6194	a	_	_	_	
+34-29	6195-6200	short	_	_	_	
+34-30	6201-6205	time	_	_	_	
+34-31	6208-6212	with	_	_	_	
+34-32	6213-6216	the	_	_	_	
+34-33	6217-6221	hops	_	_	_	
+34-34	6222-6223	;	_	_	_	
+34-35	6224-6227	one	_	_	_	
+34-36	6228-6233	pound	_	_	_	
+34-37	6234-6236	of	_	_	_	
+34-38	6237-6242	which	_	_	_	
+34-39	6243-6245	is	_	_	_	
+34-40	6246-6251	equal	_	_	_	
+34-41	6254-6256	to	_	_	_	
+34-42	6257-6260	six	_	_	_	
+34-43	6261-6267	pounds	_	_	_	
+34-44	6268-6270	of	_	_	_	
+34-45	6271-6275	hops	_	_	_	
+
+#Text=.
+35-1	6275-6276	.	_	_	_	
+
+#Text=" Quassia leaves so severe a bitter on the 
+#Text= palate, long after the liquor is drank, that 
+#Text= it requires much judgment in using it
+36-1	6282-6283	"	_	_	_	
+36-2	6284-6291	Quassia	Taste Source	_	_	
+36-3	6292-6298	leaves	_	_	_	
+36-4	6299-6301	so	Quality[51]	_	_	
+36-5	6302-6308	severe	Quality[51]	_	_	
+36-6	6309-6310	a	_	_	_	
+36-7	6311-6317	bitter	Quality[52]|Taste Word[53]	*|*|*|*	36-7[52_53]|36-2[0_53]|36-8[54_53]|36-4[51_53]	
+36-8	6318-6320	on	Taster[54]	_	_	
+36-9	6321-6324	the	Taster[54]	_	_	
+36-10	6327-6333	palate	Taster[54]	_	_	
+36-11	6333-6334	,	_	_	_	
+36-12	6335-6339	long	_	_	_	
+36-13	6340-6345	after	_	_	_	
+36-14	6346-6349	the	Taste Source[55]	_	_	
+36-15	6350-6356	liquor	Taste Source[55]	_	_	
+36-16	6357-6359	is	_	_	_	
+36-17	6360-6365	drank	Taste Word	*	36-14[55_0]	
+36-18	6365-6366	,	_	_	_	
+36-19	6367-6371	that	_	_	_	
+36-20	6374-6376	it	_	_	_	
+36-21	6377-6385	requires	_	_	_	
+36-22	6386-6390	much	_	_	_	
+36-23	6391-6399	judgment	_	_	_	
+36-24	6400-6402	in	_	_	_	
+36-25	6403-6408	using	_	_	_	
+36-26	6409-6411	it	_	_	_	
+
+#Text=.
+37-1	6411-6412	.	_	_	_	
+
+#Text=" Coriander is much used by brewers, to 
+#Text= give a flavour to ales
+38-1	6418-6419	"	_	_	_	
+38-2	6420-6429	Coriander	Taste Modifier	_	_	
+38-3	6430-6432	is	_	_	_	
+38-4	6433-6437	much	_	_	_	
+38-5	6438-6442	used	_	_	_	
+38-6	6443-6445	by	_	_	_	
+38-7	6446-6453	brewers	_	_	_	
+38-8	6453-6454	,	_	_	_	
+38-9	6455-6457	to	_	_	_	
+38-10	6460-6464	give	_	_	_	
+38-11	6465-6466	a	_	_	_	
+38-12	6467-6474	flavour	Taste Word	*|*	38-14|38-2	
+38-13	6475-6477	to	_	_	_	
+38-14	6478-6482	ales	Taste Source	_	_	
+
+#Text=.
+39-1	6482-6483	.	_	_	_	
+
+#Text=" Capsicum, or guinea pepper, is used in 
+#Text= ales and amber
+40-1	6489-6490	"	_	_	_	
+40-2	6491-6499	Capsicum	_	_	_	
+40-3	6499-6500	,	_	_	_	
+40-4	6501-6503	or	_	_	_	
+40-5	6504-6510	guinea	_	_	_	
+40-6	6511-6517	pepper	_	_	_	
+40-7	6517-6518	,	_	_	_	
+40-8	6519-6521	is	_	_	_	
+40-9	6522-6526	used	_	_	_	
+40-10	6527-6529	in	_	_	_	
+40-11	6532-6536	ales	_	_	_	
+40-12	6537-6540	and	_	_	_	
+40-13	6541-6546	amber	_	_	_	
+
+#Text=.
+41-1	6546-6547	.	_	_	_	
+
+#Text=" Caraway Seed is put into ales, for the
+#Text=flavour ; and is used in the tun
+42-1	6553-6554	"	_	_	_	
+42-2	6555-6562	Caraway	Taste Modifier[56]	_	_	
+42-3	6563-6567	Seed	Taste Modifier[56]	_	_	
+42-4	6568-6570	is	_	_	_	
+42-5	6571-6574	put	_	_	_	
+42-6	6575-6579	into	_	_	_	
+42-7	6580-6584	ales	Taste Source	_	_	
+42-8	6584-6585	,	_	_	_	
+42-9	6586-6589	for	_	_	_	
+42-10	6590-6593	the	_	_	_	
+42-11	6594-6601	flavour	Taste Word	*|*	42-7|42-2[56_0]	
+42-12	6602-6603	;	_	_	_	
+42-13	6604-6607	and	_	_	_	
+42-14	6608-6610	is	_	_	_	
+42-15	6611-6615	used	_	_	_	
+42-16	6616-6618	in	_	_	_	
+42-17	6619-6622	the	_	_	_	
+42-18	6623-6626	tun	_	_	_	
+
+#Text=.
+43-1	6626-6627	.	_	_	_	
+
+#Text=" Grams of Paradise are of a warm na- 
+#Text= ttire also, and are used in ales.
+44-1	6633-6634	"	_	_	_	
+44-2	6635-6640	Grams	_	_	_	
+44-3	6641-6643	of	_	_	_	
+44-4	6644-6652	Paradise	_	_	_	
+44-5	6653-6656	are	_	_	_	
+44-6	6657-6659	of	_	_	_	
+44-7	6660-6661	a	_	_	_	
+44-8	6662-6666	warm	_	_	_	
+44-9	6667-6669	na	_	_	_	
+44-10	6669-6670	-	_	_	_	
+44-11	6673-6678	ttire	_	_	_	
+44-12	6679-6683	also	_	_	_	
+44-13	6683-6684	,	_	_	_	
+44-14	6685-6688	and	_	_	_	
+44-15	6689-6692	are	_	_	_	
+44-16	6693-6697	used	_	_	_	
+44-17	6698-6700	in	_	_	_	
+44-18	6701-6705	ales	_	_	_	
+44-19	6705-6706	.	_	_	_	
+
+#Text=ADULTERATION OF BEER, 153 
+#Text=  
+#Text= ** Ginger.
+45-1	6718-6730	ADULTERATION	_	_	_	
+45-2	6731-6733	OF	_	_	_	
+45-3	6734-6738	BEER	_	_	_	
+45-4	6738-6739	,	_	_	_	
+45-5	6740-6743	153	_	_	_	
+45-6	6749-6750	*	_	_	_	
+45-7	6750-6751	*	_	_	_	
+45-8	6752-6758	Ginger	_	_	_	
+45-9	6758-6759	.	_	_	_	
+
+#Text=This article, when used in the 
+#Text= brewery, is always ground fine ; and made 
+#Text= use of in the tun at the time of cleansing, 
+#Text=  
+#Text= " Beans tend to mellow malt liquor ; and, 
+#Text= from their properties, add much to its inebri- 
+#Text= ating qualities ; but they must not be used 
+#Text= in too large a quantity
+46-1	6760-6764	This	_	_	_	
+46-2	6765-6772	article	_	_	_	
+46-3	6772-6773	,	_	_	_	
+46-4	6774-6778	when	_	_	_	
+46-5	6779-6783	used	_	_	_	
+46-6	6784-6786	in	_	_	_	
+46-7	6787-6790	the	_	_	_	
+46-8	6793-6800	brewery	_	_	_	
+46-9	6800-6801	,	_	_	_	
+46-10	6802-6804	is	_	_	_	
+46-11	6805-6811	always	_	_	_	
+46-12	6812-6818	ground	_	_	_	
+46-13	6819-6823	fine	_	_	_	
+46-14	6824-6825	;	_	_	_	
+46-15	6826-6829	and	_	_	_	
+46-16	6830-6834	made	_	_	_	
+46-17	6837-6840	use	_	_	_	
+46-18	6841-6843	of	_	_	_	
+46-19	6844-6846	in	_	_	_	
+46-20	6847-6850	the	_	_	_	
+46-21	6851-6854	tun	_	_	_	
+46-22	6855-6857	at	_	_	_	
+46-23	6858-6861	the	_	_	_	
+46-24	6862-6866	time	_	_	_	
+46-25	6867-6869	of	_	_	_	
+46-26	6870-6879	cleansing	_	_	_	
+46-27	6879-6880	,	_	_	_	
+46-28	6886-6887	"	_	_	_	
+46-29	6888-6893	Beans	_	_	_	
+46-30	6894-6898	tend	_	_	_	
+46-31	6899-6901	to	_	_	_	
+46-32	6902-6908	mellow	_	_	_	
+46-33	6909-6913	malt	_	_	_	
+46-34	6914-6920	liquor	_	_	_	
+46-35	6921-6922	;	_	_	_	
+46-36	6923-6926	and	_	_	_	
+46-37	6926-6927	,	_	_	_	
+46-38	6930-6934	from	_	_	_	
+46-39	6935-6940	their	_	_	_	
+46-40	6941-6951	properties	_	_	_	
+46-41	6951-6952	,	_	_	_	
+46-42	6953-6956	add	_	_	_	
+46-43	6957-6961	much	_	_	_	
+46-44	6962-6964	to	_	_	_	
+46-45	6965-6968	its	_	_	_	
+46-46	6969-6975	inebri	_	_	_	
+46-47	6975-6976	-	_	_	_	
+46-48	6979-6984	ating	_	_	_	
+46-49	6985-6994	qualities	_	_	_	
+46-50	6995-6996	;	_	_	_	
+46-51	6997-7000	but	_	_	_	
+46-52	7001-7005	they	_	_	_	
+46-53	7006-7010	must	_	_	_	
+46-54	7011-7014	not	_	_	_	
+46-55	7015-7017	be	_	_	_	
+46-56	7018-7022	used	_	_	_	
+46-57	7025-7027	in	_	_	_	
+46-58	7028-7031	too	_	_	_	
+46-59	7032-7037	large	_	_	_	
+46-60	7038-7039	a	_	_	_	
+46-61	7040-7048	quantity	_	_	_	
+
+#Text=.
+47-1	7048-7049	.	_	_	_	
+
+#Text=" Oyster Shells are very good to recover 
+#Text= sour beer : but when used, you must leave
+#Text=This produced beer of a paler colour, and 
+#Text= of a less bitter flavour.
+48-1	7055-7056	"	_	_	_	
+48-2	7057-7063	Oyster	_	_	_	
+48-3	7064-7070	Shells	_	_	_	
+48-4	7071-7074	are	_	_	_	
+48-5	7075-7079	very	_	_	_	
+48-6	7080-7084	good	_	_	_	
+48-7	7085-7087	to	_	_	_	
+48-8	7088-7095	recover	_	_	_	
+48-9	7098-7102	sour	Taste Word[57]|Quality[58]	*|*	48-9[58_57]|48-10[0_57]	
+48-10	7103-7107	beer	Taste Source	_	_	
+48-11	7108-7109	:	_	_	_	
+48-12	7110-7113	but	_	_	_	
+48-13	7114-7118	when	_	_	_	
+48-14	7119-7123	used	_	_	_	
+48-15	7123-7124	,	_	_	_	
+48-16	7125-7128	you	_	_	_	
+48-17	7129-7133	must	_	_	_	
+48-18	7134-7139	leave	_	_	_	
+48-19	7140-7144	This	_	_	_	
+48-20	7145-7153	produced	_	_	_	
+48-21	7154-7158	beer	_	_	_	
+48-22	7159-7161	of	_	_	_	
+48-23	7162-7163	a	_	_	_	
+48-24	7164-7169	paler	_	_	_	
+48-25	7170-7176	colour	_	_	_	
+48-26	7176-7177	,	_	_	_	
+48-27	7178-7181	and	_	_	_	
+48-28	7184-7186	of	_	_	_	
+48-29	7187-7188	a	_	_	_	
+48-30	7189-7193	less	Quality	_	_	
+48-31	7194-7200	bitter	Quality[59]|Taste Word[60]	*|*	48-31[59_60]|48-30[0_60]	
+48-32	7201-7208	flavour	Taste Word	*	48-31[59_0]	
+48-33	7208-7209	.	_	_	_	
+
+#Text=To remedy these 
+#Text= disadvantages, they invented an artificial 
+#Text= colouring substance, prepared by boiling- 
+#Text= brown sugar till it acquired a very dark 
+#Text=  
+#Text=  
+#Text=  
+#Text= ADULTERATION OF BEER. 163 
+#Text=  
+#Text= brown colour ; a solution of which was em- 
+#Text= ployed to darken the colour of the beer.
+49-1	7210-7212	To	_	_	_	
+49-2	7213-7219	remedy	_	_	_	
+49-3	7220-7225	these	_	_	_	
+49-4	7228-7241	disadvantages	_	_	_	
+49-5	7241-7242	,	_	_	_	
+49-6	7243-7247	they	_	_	_	
+49-7	7248-7256	invented	_	_	_	
+49-8	7257-7259	an	_	_	_	
+49-9	7260-7270	artificial	_	_	_	
+49-10	7273-7282	colouring	_	_	_	
+49-11	7283-7292	substance	_	_	_	
+49-12	7292-7293	,	_	_	_	
+49-13	7294-7302	prepared	_	_	_	
+49-14	7303-7305	by	_	_	_	
+49-15	7306-7313	boiling	_	_	_	
+49-16	7313-7314	-	_	_	_	
+49-17	7317-7322	brown	_	_	_	
+49-18	7323-7328	sugar	_	_	_	
+49-19	7329-7333	till	_	_	_	
+49-20	7334-7336	it	_	_	_	
+49-21	7337-7345	acquired	_	_	_	
+49-22	7346-7347	a	_	_	_	
+49-23	7348-7352	very	_	_	_	
+49-24	7353-7357	dark	_	_	_	
+49-25	7369-7381	ADULTERATION	_	_	_	
+49-26	7382-7384	OF	_	_	_	
+49-27	7385-7389	BEER	_	_	_	
+49-28	7389-7390	.	_	_	_	
+49-29	7391-7394	163	_	_	_	
+49-30	7400-7405	brown	_	_	_	
+49-31	7406-7412	colour	_	_	_	
+49-32	7413-7414	;	_	_	_	
+49-33	7415-7416	a	_	_	_	
+49-34	7417-7425	solution	_	_	_	
+49-35	7426-7428	of	_	_	_	
+49-36	7429-7434	which	_	_	_	
+49-37	7435-7438	was	_	_	_	
+49-38	7439-7441	em	_	_	_	
+49-39	7441-7442	-	_	_	_	
+49-40	7445-7451	ployed	_	_	_	
+49-41	7452-7454	to	_	_	_	
+49-42	7455-7461	darken	_	_	_	
+49-43	7462-7465	the	_	_	_	
+49-44	7466-7472	colour	_	_	_	
+49-45	7473-7475	of	_	_	_	
+49-46	7476-7479	the	_	_	_	
+49-47	7480-7484	beer	_	_	_	
+49-48	7484-7485	.	_	_	_	
+
+#Text=Some brewers made use of the infusion of 
+#Text= malt instead of sugar colouring*.
+50-1	7488-7492	Some	_	_	_	
+50-2	7493-7500	brewers	_	_	_	
+50-3	7501-7505	made	_	_	_	
+50-4	7506-7509	use	_	_	_	
+50-5	7510-7512	of	_	_	_	
+50-6	7513-7516	the	_	_	_	
+50-7	7517-7525	infusion	_	_	_	
+50-8	7526-7528	of	_	_	_	
+50-9	7531-7535	malt	_	_	_	
+50-10	7536-7543	instead	_	_	_	
+50-11	7544-7546	of	_	_	_	
+50-12	7547-7552	sugar	_	_	_	
+50-13	7553-7562	colouring	_	_	_	
+50-14	7562-7563	*	_	_	_	
+50-15	7563-7564	.	_	_	_	
+
+#Text=To impart 
+#Text= to the beer a bitter taste, the fraudulent 
+#Text= brewer employed quassia wood and worm- 
+#Text= wood as a substitute for hops.
+51-1	7565-7567	To	_	_	_	
+51-2	7568-7574	impart	_	_	_	
+51-3	7577-7579	to	_	_	_	
+51-4	7580-7583	the	Taste Source[61]	_	_	
+51-5	7584-7588	beer	Taste Source[61]	_	_	
+51-6	7589-7590	a	_	_	_	
+51-7	7591-7597	bitter	Taste Word[62]|Quality[63]	*	51-7[63_62]	
+51-8	7598-7603	taste	Taste Word	*|*|*|*	51-7[63_0]|51-4[61_0]|51-14[64_0]|51-17[65_0]	
+51-9	7603-7604	,	_	_	_	
+51-10	7605-7608	the	_	_	_	
+51-11	7609-7619	fraudulent	_	_	_	
+51-12	7622-7628	brewer	_	_	_	
+51-13	7629-7637	employed	_	_	_	
+51-14	7638-7645	quassia	Taste Modifier[64]	_	_	
+51-15	7646-7650	wood	Taste Modifier[64]	_	_	
+51-16	7651-7654	and	_	_	_	
+51-17	7655-7659	worm	Taste Modifier[65]	_	_	
+51-18	7659-7660	-	Taste Modifier[65]	_	_	
+51-19	7663-7667	wood	Taste Modifier[65]	_	_	
+51-20	7668-7670	as	_	_	_	
+51-21	7671-7672	a	_	_	_	
+51-22	7673-7683	substitute	_	_	_	
+51-23	7684-7687	for	_	_	_	
+51-24	7688-7692	hops	_	_	_	
+51-25	7692-7693	.	_	_	_	
+
+#Text=But as the colouring of beer by means of 
+#Text= sugar became in many instances a pretext
+#Text=thing is allowed by law to enter into the 
+#Text= composition of beer, but malt and hops.
+52-1	7699-7702	But	_	_	_	
+52-2	7703-7705	as	_	_	_	
+52-3	7706-7709	the	_	_	_	
+52-4	7710-7719	colouring	_	_	_	
+52-5	7720-7722	of	_	_	_	
+52-6	7723-7727	beer	_	_	_	
+52-7	7728-7730	by	_	_	_	
+52-8	7731-7736	means	_	_	_	
+52-9	7737-7739	of	_	_	_	
+52-10	7742-7747	sugar	_	_	_	
+52-11	7748-7754	became	_	_	_	
+52-12	7755-7757	in	_	_	_	
+52-13	7758-7762	many	_	_	_	
+52-14	7763-7772	instances	_	_	_	
+52-15	7773-7774	a	_	_	_	
+52-16	7775-7782	pretext	_	_	_	
+52-17	7783-7788	thing	_	_	_	
+52-18	7789-7791	is	_	_	_	
+52-19	7792-7799	allowed	_	_	_	
+52-20	7800-7802	by	_	_	_	
+52-21	7803-7806	law	_	_	_	
+52-22	7807-7809	to	_	_	_	
+52-23	7810-7815	enter	_	_	_	
+52-24	7816-7820	into	_	_	_	
+52-25	7821-7824	the	_	_	_	
+52-26	7827-7838	composition	_	_	_	
+52-27	7839-7841	of	_	_	_	
+52-28	7842-7846	beer	_	_	_	
+52-29	7846-7847	,	_	_	_	
+52-30	7848-7851	but	_	_	_	
+52-31	7852-7856	malt	_	_	_	
+52-32	7857-7860	and	_	_	_	
+52-33	7861-7865	hops	_	_	_	
+52-34	7865-7866	.	_	_	_	
+
+#Text=The substances used by fraudulent brew- 
+#Text= ers for adulterating beer, are chiefly the fol- 
+#Text= lowing : 
+#Text=  
+#Text= Quassia, which gives to beer a bitter taste, 
+#Text= is substituted for hops ; but hops possess a 
+#Text= i 3 
+#Text=  
+#Text=  
+#Text=  
+#Text= 174 ADULTERATION OF BEER.
+53-1	7872-7875	The	_	_	_	
+53-2	7876-7886	substances	_	_	_	
+53-3	7887-7891	used	_	_	_	
+53-4	7892-7894	by	_	_	_	
+53-5	7895-7905	fraudulent	_	_	_	
+53-6	7906-7910	brew	_	_	_	
+53-7	7910-7911	-	_	_	_	
+53-8	7914-7917	ers	_	_	_	
+53-9	7918-7921	for	_	_	_	
+53-10	7922-7934	adulterating	_	_	_	
+53-11	7935-7939	beer	_	_	_	
+53-12	7939-7940	,	_	_	_	
+53-13	7941-7944	are	_	_	_	
+53-14	7945-7952	chiefly	_	_	_	
+53-15	7953-7956	the	_	_	_	
+53-16	7957-7960	fol	_	_	_	
+53-17	7960-7961	-	_	_	_	
+53-18	7964-7970	lowing	_	_	_	
+53-19	7971-7972	:	_	_	_	
+53-20	7978-7985	Quassia	Taste Modifier	_	_	
+53-21	7985-7986	,	_	_	_	
+53-22	7987-7992	which	_	_	_	
+53-23	7993-7998	gives	_	_	_	
+53-24	7999-8001	to	_	_	_	
+53-25	8002-8006	beer	Taste Source	_	_	
+53-26	8007-8008	a	_	_	_	
+53-27	8009-8015	bitter	Taste Word[66]|Quality[67]	*	53-27[67_66]	
+53-28	8016-8021	taste	Taste Word	*|*|*	53-27[67_0]|53-25|53-20	
+53-29	8021-8022	,	_	_	_	
+53-30	8025-8027	is	_	_	_	
+53-31	8028-8039	substituted	_	_	_	
+53-32	8040-8043	for	_	_	_	
+53-33	8044-8048	hops	_	_	_	
+53-34	8049-8050	;	_	_	_	
+53-35	8051-8054	but	_	_	_	
+53-36	8055-8059	hops	Taste Source	_	_	
+53-37	8060-8067	possess	_	_	_	
+53-38	8068-8069	a	_	_	_	
+53-39	8072-8073	i	_	_	_	
+53-40	8074-8075	3	_	_	_	
+53-41	8087-8090	174	_	_	_	
+53-42	8091-8103	ADULTERATION	_	_	_	
+53-43	8104-8106	OF	_	_	_	
+53-44	8107-8111	BEER	_	_	_	
+53-45	8111-8112	.	_	_	_	
+
+#Text=more agreeable aromatic flavour, and there 
+#Text= is also reason to believe that they render 
+#Text= beer less liable to spoil by keeping ; a pro- 
+#Text= perty which does not belong to quassia.
+54-1	8118-8122	more	Quality[68]	_	_	
+54-2	8123-8132	agreeable	Quality[68]	_	_	
+54-3	8133-8141	aromatic	Quality	_	_	
+54-4	8142-8149	flavour	Taste Word	*|*|*|*	54-1[68_0]|54-3|53-36|54-14[69_0]	
+54-5	8149-8150	,	_	_	_	
+54-6	8151-8154	and	_	_	_	
+54-7	8155-8160	there	_	_	_	
+54-8	8163-8165	is	_	_	_	
+54-9	8166-8170	also	_	_	_	
+54-10	8171-8177	reason	_	_	_	
+54-11	8178-8180	to	_	_	_	
+54-12	8181-8188	believe	_	_	_	
+54-13	8189-8193	that	_	_	_	
+54-14	8194-8198	they	Effect[69]	_	_	
+54-15	8199-8205	render	Effect[69]	_	_	
+54-16	8208-8212	beer	Effect[69]	_	_	
+54-17	8213-8217	less	Effect[69]	_	_	
+54-18	8218-8224	liable	Effect[69]	_	_	
+54-19	8225-8227	to	Effect[69]	_	_	
+54-20	8228-8233	spoil	Effect[69]	_	_	
+54-21	8234-8236	by	Effect[69]	_	_	
+54-22	8237-8244	keeping	Effect[69]	_	_	
+54-23	8245-8246	;	_	_	_	
+54-24	8247-8248	a	_	_	_	
+54-25	8249-8252	pro	_	_	_	
+54-26	8252-8253	-	_	_	_	
+54-27	8256-8261	perty	_	_	_	
+54-28	8262-8267	which	_	_	_	
+54-29	8268-8272	does	_	_	_	
+54-30	8273-8276	not	_	_	_	
+54-31	8277-8283	belong	_	_	_	
+54-32	8284-8286	to	_	_	_	
+54-33	8287-8294	quassia	_	_	_	
+54-34	8294-8295	.	_	_	_	
+
+#Text=It 
+#Text= requires but little discrimination to distin-
+#Text=aromatic flavour which the hop contains, 
+#Text= partly to cover the sweetness of undecom- 
+#Text= posed saccharine matter, and also to separate, 
+#Text= i 4 
+#Text=  
+#Text=  
+#Text=  
+#Text= 176 ADULTERATION OF BEER.
+55-1	8296-8298	It	_	_	_	
+55-2	8301-8309	requires	_	_	_	
+55-3	8310-8313	but	_	_	_	
+55-4	8314-8320	little	_	_	_	
+55-5	8321-8335	discrimination	_	_	_	
+55-6	8336-8338	to	_	_	_	
+55-7	8339-8345	distin	_	_	_	
+55-8	8345-8346	-	_	_	_	
+55-9	8347-8355	aromatic	Quality	_	_	
+55-10	8356-8363	flavour	Taste Word	*|*	55-9|55-12[70_0]	
+55-11	8364-8369	which	_	_	_	
+55-12	8370-8373	the	Taste Source[70]	_	_	
+55-13	8374-8377	hop	Taste Source[70]	_	_	
+55-14	8378-8386	contains	_	_	_	
+55-15	8386-8387	,	_	_	_	
+55-16	8390-8396	partly	_	_	_	
+55-17	8397-8399	to	_	_	_	
+55-18	8400-8405	cover	_	_	_	
+55-19	8406-8409	the	_	_	_	
+55-20	8410-8419	sweetness	Taste Word[71]|Quality[72]	*|*	55-20[72_71]|55-22[73_71]	
+55-21	8420-8422	of	_	_	_	
+55-22	8423-8430	undecom	Taste Source[73]	_	_	
+55-23	8430-8431	-	Taste Source[73]	_	_	
+55-24	8434-8439	posed	Taste Source[73]	_	_	
+55-25	8440-8450	saccharine	Taste Source[73]	_	_	
+55-26	8451-8457	matter	Taste Source[73]	_	_	
+55-27	8457-8458	,	_	_	_	
+55-28	8459-8462	and	_	_	_	
+55-29	8463-8467	also	_	_	_	
+55-30	8468-8470	to	_	_	_	
+55-31	8471-8479	separate	_	_	_	
+55-32	8479-8480	,	_	_	_	
+55-33	8483-8484	i	_	_	_	
+55-34	8485-8486	4	_	_	_	
+55-35	8498-8501	176	_	_	_	
+55-36	8502-8514	ADULTERATION	_	_	_	
+55-37	8515-8517	OF	_	_	_	
+55-38	8518-8522	BEER	_	_	_	
+55-39	8522-8523	.	_	_	_	
+
+#Text=by virtue of the gallic acid and tannin it 
+#Text= contains, a portion of peculiar vegetable mu- 
+#Text= cilage somewhat resembling gluten, which 
+#Text= is still diffused through the beer.
+56-1	8529-8531	by	_	_	_	
+56-2	8532-8538	virtue	_	_	_	
+56-3	8539-8541	of	_	_	_	
+56-4	8542-8545	the	_	_	_	
+56-5	8546-8552	gallic	_	_	_	
+56-6	8553-8557	acid	_	_	_	
+56-7	8558-8561	and	_	_	_	
+56-8	8562-8568	tannin	_	_	_	
+56-9	8569-8571	it	_	_	_	
+56-10	8574-8582	contains	_	_	_	
+56-11	8582-8583	,	_	_	_	
+56-12	8584-8585	a	_	_	_	
+56-13	8586-8593	portion	_	_	_	
+56-14	8594-8596	of	_	_	_	
+56-15	8597-8605	peculiar	_	_	_	
+56-16	8606-8615	vegetable	_	_	_	
+56-17	8616-8618	mu	_	_	_	
+56-18	8618-8619	-	_	_	_	
+56-19	8622-8628	cilage	_	_	_	
+56-20	8629-8637	somewhat	_	_	_	
+56-21	8638-8648	resembling	_	_	_	
+56-22	8649-8655	gluten	_	_	_	
+56-23	8655-8656	,	_	_	_	
+56-24	8657-8662	which	_	_	_	
+56-25	8665-8667	is	_	_	_	
+56-26	8668-8673	still	_	_	_	
+56-27	8674-8682	diffused	_	_	_	
+56-28	8683-8690	through	_	_	_	
+56-29	8691-8694	the	_	_	_	
+56-30	8695-8699	beer	_	_	_	
+56-31	8699-8700	.	_	_	_	
+
+#Text=The com- 
+#Text= pound thus produced, separates in small flakes 
+#Text= like those of curdled soap ; and by these 
+#Text= means the beer is rendered less liable to spoiK 
+#Text= For nothing contributes more to the conver- 
+#Text= sion of beer, or any other vinous fluid, into 
+#Text= vinegar, than mucilage.
+57-1	8701-8704	The	_	_	_	
+57-2	8705-8708	com	_	_	_	
+57-3	8708-8709	-	_	_	_	
+57-4	8712-8717	pound	_	_	_	
+57-5	8718-8722	thus	_	_	_	
+57-6	8723-8731	produced	_	_	_	
+57-7	8731-8732	,	_	_	_	
+57-8	8733-8742	separates	_	_	_	
+57-9	8743-8745	in	_	_	_	
+57-10	8746-8751	small	_	_	_	
+57-11	8752-8758	flakes	_	_	_	
+57-12	8761-8765	like	_	_	_	
+57-13	8766-8771	those	_	_	_	
+57-14	8772-8774	of	_	_	_	
+57-15	8775-8782	curdled	_	_	_	
+57-16	8783-8787	soap	_	_	_	
+57-17	8788-8789	;	_	_	_	
+57-18	8790-8793	and	_	_	_	
+57-19	8794-8796	by	_	_	_	
+57-20	8797-8802	these	_	_	_	
+57-21	8805-8810	means	_	_	_	
+57-22	8811-8814	the	_	_	_	
+57-23	8815-8819	beer	_	_	_	
+57-24	8820-8822	is	_	_	_	
+57-25	8823-8831	rendered	_	_	_	
+57-26	8832-8836	less	_	_	_	
+57-27	8837-8843	liable	_	_	_	
+57-28	8844-8846	to	_	_	_	
+57-29	8847-8852	spoiK	_	_	_	
+57-30	8855-8858	For	_	_	_	
+57-31	8859-8866	nothing	_	_	_	
+57-32	8867-8878	contributes	_	_	_	
+57-33	8879-8883	more	_	_	_	
+57-34	8884-8886	to	_	_	_	
+57-35	8887-8890	the	_	_	_	
+57-36	8891-8897	conver	_	_	_	
+57-37	8897-8898	-	_	_	_	
+57-38	8901-8905	sion	_	_	_	
+57-39	8906-8908	of	_	_	_	
+57-40	8909-8913	beer	_	_	_	
+57-41	8913-8914	,	_	_	_	
+57-42	8915-8917	or	_	_	_	
+57-43	8918-8921	any	_	_	_	
+57-44	8922-8927	other	_	_	_	
+57-45	8928-8934	vinous	_	_	_	
+57-46	8935-8940	fluid	_	_	_	
+57-47	8940-8941	,	_	_	_	
+57-48	8942-8946	into	_	_	_	
+57-49	8949-8956	vinegar	_	_	_	
+57-50	8956-8957	,	_	_	_	
+57-51	8958-8962	than	_	_	_	
+57-52	8963-8971	mucilage	_	_	_	
+57-53	8971-8972	.	_	_	_	
+
+#Text=Hence, also, all 
+#Text= full-bodied and clammy ales, abounding in
+#Text=But, as the duties of a brewhouse sufficiently 
+#Text= employ every person engaged in it, I recom- 
+#Text= mend it to be purchased of those who make 
+#Text= it their business to have it ready prepared
+58-1	8973-8978	Hence	_	_	_	
+58-2	8978-8979	,	_	_	_	
+58-3	8980-8984	also	_	_	_	
+58-4	8984-8985	,	_	_	_	
+58-5	8986-8989	all	_	_	_	
+58-6	8992-9003	full-bodied	_	_	_	
+58-7	9004-9007	and	_	_	_	
+58-8	9008-9014	clammy	_	_	_	
+58-9	9015-9019	ales	_	_	_	
+58-10	9019-9020	,	_	_	_	
+58-11	9021-9030	abounding	_	_	_	
+58-12	9031-9033	in	_	_	_	
+58-13	9034-9037	But	_	_	_	
+58-14	9037-9038	,	_	_	_	
+58-15	9039-9041	as	_	_	_	
+58-16	9042-9045	the	_	_	_	
+58-17	9046-9052	duties	_	_	_	
+58-18	9053-9055	of	_	_	_	
+58-19	9056-9057	a	_	_	_	
+58-20	9058-9067	brewhouse	_	_	_	
+58-21	9068-9080	sufficiently	_	_	_	
+58-22	9083-9089	employ	_	_	_	
+58-23	9090-9095	every	_	_	_	
+58-24	9096-9102	person	_	_	_	
+58-25	9103-9110	engaged	_	_	_	
+58-26	9111-9113	in	_	_	_	
+58-27	9114-9116	it	_	_	_	
+58-28	9116-9117	,	_	_	_	
+58-29	9118-9119	I	_	_	_	
+58-30	9120-9125	recom	_	_	_	
+58-31	9125-9126	-	_	_	_	
+58-32	9129-9133	mend	_	_	_	
+58-33	9134-9136	it	_	_	_	
+58-34	9137-9139	to	_	_	_	
+58-35	9140-9142	be	_	_	_	
+58-36	9143-9152	purchased	_	_	_	
+58-37	9153-9155	of	_	_	_	
+58-38	9156-9161	those	_	_	_	
+58-39	9162-9165	who	_	_	_	
+58-40	9166-9170	make	_	_	_	
+58-41	9173-9175	it	_	_	_	
+58-42	9176-9181	their	_	_	_	
+58-43	9182-9190	business	_	_	_	
+58-44	9191-9193	to	_	_	_	
+58-45	9194-9198	have	_	_	_	
+58-46	9199-9201	it	_	_	_	
+58-47	9202-9207	ready	_	_	_	
+58-48	9208-9216	prepared	_	_	_	
+
+#Text=.
+59-1	9216-9217	.	_	_	_	
+
+#Text=" Observe, that porter should not be sent 
+#Text= out without it, as it causes the head so 
+#Text= much admired in that liquor, and is agree- 
+#Text= able to its flavour."
+60-1	9223-9224	"	_	_	_	
+60-2	9225-9232	Observe	_	_	_	
+60-3	9232-9233	,	_	_	_	
+60-4	9234-9238	that	_	_	_	
+60-5	9239-9245	porter	Taste Source	_	_	
+60-6	9246-9252	should	_	_	_	
+60-7	9253-9256	not	_	_	_	
+60-8	9257-9259	be	_	_	_	
+60-9	9260-9264	sent	_	_	_	
+60-10	9267-9270	out	_	_	_	
+60-11	9271-9278	without	_	_	_	
+60-12	9279-9281	it	_	_	_	
+60-13	9281-9282	,	_	_	_	
+60-14	9283-9285	as	_	_	_	
+60-15	9286-9288	it	_	_	_	
+60-16	9289-9295	causes	_	_	_	
+60-17	9296-9299	the	_	_	_	
+60-18	9300-9304	head	_	_	_	
+60-19	9305-9307	so	_	_	_	
+60-20	9310-9314	much	_	_	_	
+60-21	9315-9322	admired	_	_	_	
+60-22	9323-9325	in	_	_	_	
+60-23	9326-9330	that	_	_	_	
+60-24	9331-9337	liquor	_	_	_	
+60-25	9337-9338	,	_	_	_	
+60-26	9339-9342	and	_	_	_	
+60-27	9343-9345	is	_	_	_	
+60-28	9346-9351	agree	Quality[74]	_	_	
+60-29	9351-9352	-	Quality[74]	_	_	
+60-30	9355-9359	able	Quality[74]	_	_	
+60-31	9360-9362	to	_	_	_	
+60-32	9363-9366	its	Taste Source	anaphorical	60-5	
+60-33	9367-9374	flavour	Taste Word	*	60-28[74_0]	
+60-34	9374-9375	.	_	_	_	
+60-35	9375-9376	"	_	_	_	
+
+#Text=Capsicum and grains of paradise, two 
+#Text= i 6 
+#Text=  
+#Text=  
+#Text=  
+#Text= 180 ADULTERATION OP BEER.
+61-1	9382-9390	Capsicum	_	_	_	
+61-2	9391-9394	and	_	_	_	
+61-3	9395-9401	grains	_	_	_	
+61-4	9402-9404	of	_	_	_	
+61-5	9405-9413	paradise	_	_	_	
+61-6	9413-9414	,	_	_	_	
+61-7	9415-9418	two	_	_	_	
+61-8	9421-9422	i	_	_	_	
+61-9	9423-9424	6	_	_	_	
+61-10	9436-9439	180	_	_	_	
+61-11	9440-9452	ADULTERATION	_	_	_	
+61-12	9453-9455	OP	_	_	_	
+61-13	9456-9460	BEER	_	_	_	
+61-14	9460-9461	.	_	_	_	
+
+#Text=highly acrid substances, are employed to 
+#Text= give a pungent taste to weak insipid beer.
+62-1	9467-9473	highly	Taste Modifier[75]	_	_	
+62-2	9474-9479	acrid	Taste Modifier[75]	_	_	
+62-3	9480-9490	substances	Taste Modifier[75]	_	_	
+62-4	9490-9491	,	_	_	_	
+62-5	9492-9495	are	_	_	_	
+62-6	9496-9504	employed	_	_	_	
+62-7	9505-9507	to	_	_	_	
+62-8	9510-9514	give	_	_	_	
+62-9	9515-9516	a	_	_	_	
+62-10	9517-9524	pungent	Quality[76]|Taste Word[77]	*	62-10[76_77]	
+62-11	9525-9530	taste	Taste Word	*|*|*	62-10[76_0]|62-1[75_0]|62-15	
+62-12	9531-9533	to	_	_	_	
+62-13	9534-9538	weak	Quality	_	_	
+62-14	9539-9546	insipid	Taste Word[78]|Quality[79]	*|*|*	62-15[0_78]|62-14[79_78]|62-13[0_78]	
+62-15	9547-9551	beer	Taste Source	_	_	
+62-16	9551-9552	.	_	_	_	
+
+#Text=Of late, a concentrated tincture of these ar-
+#Text=two-penny ; he did so, and succeeded, call- 
+#Text= ing it entire, OY entire butt, meaning that it 
+#Text= was drawn entirely from one cask or butt ; 
+#Text= and as it was a very hearty and nourishing* 
+#Text= liquor, and supposed to be very suitable for 
+#Text= porters and other working people, it obtained 
+#Text= the name of porter*" The system is now 
+#Text= altered, and porter is very generally com- 
+#Text= pounded of two kinds, or rather the same 
+#Text=  
+#Text=  
+#Text=  
+#Text= ADVLTERATIOH OF BEER. 193 
+#Text=  
+#Text= liquor in two different states, the due ad- 
+#Text= mixture of which is palatable, though nei- 
+#Text= ther is good alone.
+63-1	9555-9557	Of	_	_	_	
+63-2	9558-9562	late	_	_	_	
+63-3	9562-9563	,	_	_	_	
+63-4	9564-9565	a	_	_	_	
+63-5	9566-9578	concentrated	_	_	_	
+63-6	9579-9587	tincture	_	_	_	
+63-7	9588-9590	of	_	_	_	
+63-8	9591-9596	these	_	_	_	
+63-9	9597-9599	ar	_	_	_	
+63-10	9599-9600	-	_	_	_	
+63-11	9601-9610	two-penny	_	_	_	
+63-12	9611-9612	;	_	_	_	
+63-13	9613-9615	he	_	_	_	
+63-14	9616-9619	did	_	_	_	
+63-15	9620-9622	so	_	_	_	
+63-16	9622-9623	,	_	_	_	
+63-17	9624-9627	and	_	_	_	
+63-18	9628-9637	succeeded	_	_	_	
+63-19	9637-9638	,	_	_	_	
+63-20	9639-9643	call	_	_	_	
+63-21	9643-9644	-	_	_	_	
+63-22	9647-9650	ing	_	_	_	
+63-23	9651-9653	it	_	_	_	
+63-24	9654-9660	entire	_	_	_	
+63-25	9660-9661	,	_	_	_	
+63-26	9662-9664	OY	_	_	_	
+63-27	9665-9671	entire	_	_	_	
+63-28	9672-9676	butt	_	_	_	
+63-29	9676-9677	,	_	_	_	
+63-30	9678-9685	meaning	_	_	_	
+63-31	9686-9690	that	_	_	_	
+63-32	9691-9693	it	_	_	_	
+63-33	9696-9699	was	_	_	_	
+63-34	9700-9705	drawn	_	_	_	
+63-35	9706-9714	entirely	_	_	_	
+63-36	9715-9719	from	_	_	_	
+63-37	9720-9723	one	_	_	_	
+63-38	9724-9728	cask	_	_	_	
+63-39	9729-9731	or	_	_	_	
+63-40	9732-9736	butt	_	_	_	
+63-41	9737-9738	;	_	_	_	
+63-42	9741-9744	and	_	_	_	
+63-43	9745-9747	as	_	_	_	
+63-44	9748-9750	it	_	_	_	
+63-45	9751-9754	was	_	_	_	
+63-46	9755-9756	a	_	_	_	
+63-47	9757-9761	very	_	_	_	
+63-48	9762-9768	hearty	_	_	_	
+63-49	9769-9772	and	_	_	_	
+63-50	9773-9783	nourishing	_	_	_	
+63-51	9783-9784	*	_	_	_	
+63-52	9787-9793	liquor	_	_	_	
+63-53	9793-9794	,	_	_	_	
+63-54	9795-9798	and	_	_	_	
+63-55	9799-9807	supposed	_	_	_	
+63-56	9808-9810	to	_	_	_	
+63-57	9811-9813	be	_	_	_	
+63-58	9814-9818	very	_	_	_	
+63-59	9819-9827	suitable	_	_	_	
+63-60	9828-9831	for	_	_	_	
+63-61	9834-9841	porters	_	_	_	
+63-62	9842-9845	and	_	_	_	
+63-63	9846-9851	other	_	_	_	
+63-64	9852-9859	working	_	_	_	
+63-65	9860-9866	people	_	_	_	
+63-66	9866-9867	,	_	_	_	
+63-67	9868-9870	it	_	_	_	
+63-68	9871-9879	obtained	_	_	_	
+63-69	9882-9885	the	_	_	_	
+63-70	9886-9890	name	_	_	_	
+63-71	9891-9893	of	_	_	_	
+63-72	9894-9900	porter	_	_	_	
+63-73	9900-9901	*	_	_	_	
+63-74	9901-9902	"	_	_	_	
+63-75	9903-9906	The	_	_	_	
+63-76	9907-9913	system	_	_	_	
+63-77	9914-9916	is	_	_	_	
+63-78	9917-9920	now	_	_	_	
+63-79	9923-9930	altered	_	_	_	
+63-80	9930-9931	,	_	_	_	
+63-81	9932-9935	and	_	_	_	
+63-82	9936-9942	porter	_	_	_	
+63-83	9943-9945	is	_	_	_	
+63-84	9946-9950	very	_	_	_	
+63-85	9951-9960	generally	_	_	_	
+63-86	9961-9964	com	_	_	_	
+63-87	9964-9965	-	_	_	_	
+63-88	9968-9975	pounded	_	_	_	
+63-89	9976-9978	of	_	_	_	
+63-90	9979-9982	two	_	_	_	
+63-91	9983-9988	kinds	_	_	_	
+63-92	9988-9989	,	_	_	_	
+63-93	9990-9992	or	_	_	_	
+63-94	9993-9999	rather	_	_	_	
+63-95	10000-10003	the	_	_	_	
+63-96	10004-10008	same	_	_	_	
+63-97	10020-10032	ADVLTERATIOH	_	_	_	
+63-98	10033-10035	OF	_	_	_	
+63-99	10036-10040	BEER	_	_	_	
+63-100	10040-10041	.	_	_	_	
+63-101	10042-10045	193	_	_	_	
+63-102	10051-10057	liquor	_	_	_	
+63-103	10058-10060	in	_	_	_	
+63-104	10061-10064	two	_	_	_	
+63-105	10065-10074	different	_	_	_	
+63-106	10075-10081	states	_	_	_	
+63-107	10081-10082	,	_	_	_	
+63-108	10083-10086	the	_	_	_	
+63-109	10087-10090	due	_	_	_	
+63-110	10091-10093	ad	Taste Source[80]	_	_	
+63-111	10093-10094	-	Taste Source[80]	_	_	
+63-112	10097-10104	mixture	Taste Source[80]	_	_	
+63-113	10105-10107	of	_	_	_	
+63-114	10108-10113	which	_	_	_	
+63-115	10114-10116	is	_	_	_	
+63-116	10117-10126	palatable	Quality[81]|Taste Word[82]	*|*|*	63-116[81_82]|63-110[80_82]|63-118[83_82]	
+63-117	10126-10127	,	_	_	_	
+63-118	10128-10134	though	Circumstance[83]	_	_	
+63-119	10135-10138	nei	Circumstance[83]	_	_	
+63-120	10138-10139	-	Circumstance[83]	_	_	
+63-121	10142-10146	ther	Circumstance[83]	_	_	
+63-122	10147-10149	is	Circumstance[83]	_	_	
+63-123	10150-10154	good	Circumstance[83]	_	_	
+63-124	10155-10160	alone	Circumstance[83]	_	_	
+63-125	10160-10161	.	_	_	_	
+
+#Text=One is mild porter, and 
+#Text= the other stale porter ; the former is that 
+#Text= which has a slightly bitter flavour; the latter 
+#Text= has been kept longer.
+64-1	10162-10165	One	_	_	_	
+64-2	10166-10168	is	_	_	_	
+64-3	10169-10173	mild	_	_	_	
+64-4	10174-10180	porter	_	_	_	
+64-5	10180-10181	,	_	_	_	
+64-6	10182-10185	and	_	_	_	
+64-7	10188-10191	the	_	_	_	
+64-8	10192-10197	other	_	_	_	
+64-9	10198-10203	stale	Taste Word[84]|Quality[85]	*|*	64-9[85_84]|64-10[0_84]	
+64-10	10204-10210	porter	Taste Source	_	_	
+64-11	10211-10212	;	_	_	_	
+64-12	10213-10216	the	_	_	_	
+64-13	10217-10223	former	_	_	_	
+64-14	10224-10226	is	_	_	_	
+64-15	10227-10231	that	_	_	_	
+64-16	10234-10239	which	_	_	_	
+64-17	10240-10243	has	_	_	_	
+64-18	10244-10245	a	_	_	_	
+64-19	10246-10254	slightly	Quality	_	_	
+64-20	10255-10261	bitter	Quality[86]|Taste Word[87]	*|*	64-20[86_87]|64-19[0_87]	
+64-21	10262-10269	flavour	Taste Word	*|*	64-20[86_0]|64-10	
+64-22	10269-10270	;	_	_	_	
+64-23	10271-10274	the	_	_	_	
+64-24	10275-10281	latter	_	_	_	
+64-25	10284-10287	has	_	_	_	
+64-26	10288-10292	been	_	_	_	
+64-27	10293-10297	kept	_	_	_	
+64-28	10298-10304	longer	_	_	_	
+64-29	10304-10305	.	_	_	_	
+
+#Text=This mixture the
+#Text= 
+#Text=  
+#Text=  
+#Text= 198 ADULTERATION OF BEER.
+65-1	10306-10310	This	_	_	_	
+65-2	10311-10318	mixture	_	_	_	
+65-3	10319-10322	the	_	_	_	
+65-4	10332-10335	198	_	_	_	
+65-5	10336-10348	ADULTERATION	_	_	_	
+65-6	10349-10351	OF	_	_	_	
+65-7	10352-10356	BEER	_	_	_	
+65-8	10356-10357	.	_	_	_	
+
+#Text=of beer always affords a less proportion of 
+#Text= alcohol than is produced from mild beer.
+66-1	10363-10365	of	_	_	_	
+66-2	10366-10370	beer	_	_	_	
+66-3	10371-10377	always	_	_	_	
+66-4	10378-10385	affords	_	_	_	
+66-5	10386-10387	a	_	_	_	
+66-6	10388-10392	less	_	_	_	
+66-7	10393-10403	proportion	_	_	_	
+66-8	10404-10406	of	_	_	_	
+66-9	10409-10416	alcohol	_	_	_	
+66-10	10417-10421	than	_	_	_	
+66-11	10422-10424	is	_	_	_	
+66-12	10425-10433	produced	_	_	_	
+66-13	10434-10438	from	_	_	_	
+66-14	10439-10443	mild	_	_	_	
+66-15	10444-10448	beer	_	_	_	
+66-16	10448-10449	.	_	_	_	
+
+#Text=The practice of bringing beer forward, it 
+#Text= is to be understood, is resorted to only by 
+#Text= fraudulent brewers*.
+67-1	10452-10455	The	_	_	_	
+67-2	10456-10464	practice	_	_	_	
+67-3	10465-10467	of	_	_	_	
+67-4	10468-10476	bringing	_	_	_	
+67-5	10477-10481	beer	_	_	_	
+67-6	10482-10489	forward	_	_	_	
+67-7	10489-10490	,	_	_	_	
+67-8	10491-10493	it	_	_	_	
+67-9	10496-10498	is	_	_	_	
+67-10	10499-10501	to	_	_	_	
+67-11	10502-10504	be	_	_	_	
+67-12	10505-10515	understood	_	_	_	
+67-13	10515-10516	,	_	_	_	
+67-14	10517-10519	is	_	_	_	
+67-15	10520-10528	resorted	_	_	_	
+67-16	10529-10531	to	_	_	_	
+67-17	10532-10536	only	_	_	_	
+67-18	10537-10539	by	_	_	_	
+67-19	10542-10552	fraudulent	_	_	_	
+67-20	10553-10560	brewers	_	_	_	
+67-21	10560-10561	*	_	_	_	
+67-22	10561-10562	.	_	_	_	
+
+#Text=If, on the contrary, the brewer has too 
+#Text= large a stock of old beer on his hands, 
+#Text= recourse is had to an opposite practice 
+#Text= of converting stale, half-spoiled, or sour 
+#Text= beer, into mild beer, by the simple ad>- 
+#Text= mixture of an alkali, or an alkaline earth.
+68-1	10568-10570	If	_	_	_	
+68-2	10570-10571	,	_	_	_	
+68-3	10572-10574	on	_	_	_	
+68-4	10575-10578	the	_	_	_	
+68-5	10579-10587	contrary	_	_	_	
+68-6	10587-10588	,	_	_	_	
+68-7	10589-10592	the	_	_	_	
+68-8	10593-10599	brewer	_	_	_	
+68-9	10600-10603	has	_	_	_	
+68-10	10604-10607	too	_	_	_	
+68-11	10610-10615	large	_	_	_	
+68-12	10616-10617	a	_	_	_	
+68-13	10618-10623	stock	_	_	_	
+68-14	10624-10626	of	_	_	_	
+68-15	10627-10630	old	_	_	_	
+68-16	10631-10635	beer	_	_	_	
+68-17	10636-10638	on	_	_	_	
+68-18	10639-10642	his	_	_	_	
+68-19	10643-10648	hands	_	_	_	
+68-20	10648-10649	,	_	_	_	
+68-21	10652-10660	recourse	_	_	_	
+68-22	10661-10663	is	_	_	_	
+68-23	10664-10667	had	_	_	_	
+68-24	10668-10670	to	_	_	_	
+68-25	10671-10673	an	_	_	_	
+68-26	10674-10682	opposite	_	_	_	
+68-27	10683-10691	practice	_	_	_	
+68-28	10694-10696	of	_	_	_	
+68-29	10697-10707	converting	_	_	_	
+68-30	10708-10713	stale	Taste Word[88]|Quality[89]	*|*	68-30[89_88]|68-36[0_88]	
+68-31	10713-10714	,	_	_	_	
+68-32	10715-10727	half-spoiled	_	_	_	
+68-33	10727-10728	,	_	_	_	
+68-34	10729-10731	or	_	_	_	
+68-35	10732-10736	sour	Taste Word[90]|Quality[91]	*|*	68-35[91_90]|68-36[0_90]	
+68-36	10739-10743	beer	Taste Source	_	_	
+68-37	10743-10744	,	_	_	_	
+68-38	10745-10749	into	_	_	_	
+68-39	10750-10754	mild	_	_	_	
+68-40	10755-10759	beer	_	_	_	
+68-41	10759-10760	,	_	_	_	
+68-42	10761-10763	by	_	_	_	
+68-43	10764-10767	the	_	_	_	
+68-44	10768-10774	simple	_	_	_	
+68-45	10775-10777	ad	_	_	_	
+68-46	10777-10778	>	_	_	_	
+68-47	10778-10779	-	_	_	_	
+68-48	10782-10789	mixture	_	_	_	
+68-49	10790-10792	of	_	_	_	
+68-50	10793-10795	an	_	_	_	
+68-51	10796-10802	alkali	_	_	_	
+68-52	10802-10803	,	_	_	_	
+68-53	10804-10806	or	_	_	_	
+68-54	10807-10809	an	_	_	_	
+68-55	10810-10818	alkaline	_	_	_	
+68-56	10819-10824	earth	_	_	_	
+68-57	10824-10825	.	_	_	_	
+
+#Text=Oyster-shell powder and subcarbonate of 
+#Text= potash, or soda, are usually employed for 
+#Text= that purpose.
+69-1	10828-10840	Oyster-shell	Taste Modifier[92]	_	_	
+69-2	10841-10847	powder	Taste Modifier[92]	_	_	
+69-3	10848-10851	and	_	_	_	
+69-4	10852-10864	subcarbonate	Taste Modifier[93]	_	_	
+69-5	10865-10867	of	Taste Modifier[93]	_	_	
+69-6	10870-10876	potash	Taste Modifier[93]	_	_	
+69-7	10876-10877	,	_	_	_	
+69-8	10878-10880	or	_	_	_	
+69-9	10881-10885	soda	Taste Modifier	_	_	
+69-10	10885-10886	,	_	_	_	
+69-11	10887-10890	are	_	_	_	
+69-12	10891-10898	usually	_	_	_	
+69-13	10899-10907	employed	_	_	_	
+69-14	10908-10911	for	_	_	_	
+69-15	10914-10918	that	_	_	_	
+69-16	10919-10926	purpose	_	_	_	
+69-17	10926-10927	.	_	_	_	
+
+#Text=These substances neutralise
+#Text=the excess of acid, and render sour beer 
+#Text= somewhat palatable.
+70-1	10928-10933	These	_	_	_	
+70-2	10934-10944	substances	_	_	_	
+70-3	10945-10955	neutralise	_	_	_	
+70-4	10956-10959	the	_	_	_	
+70-5	10960-10966	excess	_	_	_	
+70-6	10967-10969	of	_	_	_	
+70-7	10970-10974	acid	_	_	_	
+70-8	10974-10975	,	_	_	_	
+70-9	10976-10979	and	_	_	_	
+70-10	10980-10986	render	_	_	_	
+70-11	10987-10991	sour	Taste Word[94]|Quality[95]	*|*	70-11[95_94]|70-12[0_94]	
+70-12	10992-10996	beer	Taste Source	_	_	
+70-13	10999-11007	somewhat	Quality	_	_	
+70-14	11008-11017	palatable	Taste Word[96]|Quality[97]	*|*|*|*|*|*	70-14[97_96]|70-12[0_96]|69-1[92_96]|69-4[93_96]|69-9[0_96]|70-13[0_96]	
+70-15	11017-11018	.	_	_	_	
+
+#Text=By this process the 
+#Text= beer becomes very liable to spoil
+71-1	11019-11021	By	_	_	_	
+71-2	11022-11026	this	_	_	_	
+71-3	11027-11034	process	_	_	_	
+71-4	11035-11038	the	_	_	_	
+71-5	11041-11045	beer	_	_	_	
+71-6	11046-11053	becomes	_	_	_	
+71-7	11054-11058	very	_	_	_	
+71-8	11059-11065	liable	_	_	_	
+71-9	11066-11068	to	_	_	_	
+71-10	11069-11074	spoil	_	_	_	
+
+#Text=.
+72-1	11074-11075	.	_	_	_	
+
+#Text=* Mr.
+73-1	11081-11082	*	_	_	_	
+73-2	11083-11085	Mr	_	_	_	
+73-3	11085-11086	.	_	_	_	
+
+#Text=Child, in Ms Treatise on Brewing, p. 23, 
+#Text= directs, to make neiv faer older, use oil of vitriol.
+74-1	11087-11092	Child	_	_	_	
+74-2	11092-11093	,	_	_	_	
+74-3	11094-11096	in	_	_	_	
+74-4	11097-11099	Ms	_	_	_	
+74-5	11100-11108	Treatise	_	_	_	
+74-6	11109-11111	on	_	_	_	
+74-7	11112-11119	Brewing	_	_	_	
+74-8	11119-11120	,	_	_	_	
+74-9	11121-11122	p	_	_	_	
+74-10	11122-11123	.	_	_	_	
+74-11	11124-11126	23	_	_	_	
+74-12	11126-11127	,	_	_	_	
+74-13	11130-11137	directs	_	_	_	
+74-14	11137-11138	,	_	_	_	
+74-15	11139-11141	to	_	_	_	
+74-16	11142-11146	make	_	_	_	
+74-17	11147-11151	neiv	_	_	_	
+74-18	11152-11156	faer	_	_	_	
+74-19	11157-11162	older	_	_	_	
+74-20	11162-11163	,	_	_	_	
+74-21	11164-11167	use	_	_	_	
+74-22	11168-11171	oil	_	_	_	
+74-23	11172-11174	of	_	_	_	
+74-24	11175-11182	vitriol	_	_	_	
+74-25	11182-11183	.	_	_	_	
+
+#Text=ADULTERATION OF BEER, 199 
+#Text=  
+#Text= It is the worst expedient that the brewer 
+#Text= can practise : the beer thus rendered mild, 
+#Text= soon loses its vinous taste; it becomes va- 
+#Text= pid; and speedily assumes a muddy grey 
+#Text= colour, and an exceedingly disagreeable 
+#Text= taste.
+75-1	11195-11207	ADULTERATION	_	_	_	
+75-2	11208-11210	OF	_	_	_	
+75-3	11211-11215	BEER	_	_	_	
+75-4	11215-11216	,	_	_	_	
+75-5	11217-11220	199	_	_	_	
+75-6	11226-11228	It	_	_	_	
+75-7	11229-11231	is	_	_	_	
+75-8	11232-11235	the	_	_	_	
+75-9	11236-11241	worst	_	_	_	
+75-10	11242-11251	expedient	_	_	_	
+75-11	11252-11256	that	_	_	_	
+75-12	11257-11260	the	_	_	_	
+75-13	11261-11267	brewer	_	_	_	
+75-14	11270-11273	can	_	_	_	
+75-15	11274-11282	practise	_	_	_	
+75-16	11283-11284	:	_	_	_	
+75-17	11285-11288	the	Taste Source[98]	_	_	
+75-18	11289-11293	beer	Taste Source[98]	_	_	
+75-19	11294-11298	thus	_	_	_	
+75-20	11299-11307	rendered	_	_	_	
+75-21	11308-11312	mild	_	_	_	
+75-22	11312-11313	,	_	_	_	
+75-23	11316-11320	soon	_	_	_	
+75-24	11321-11326	loses	_	_	_	
+75-25	11327-11330	its	_	_	_	
+75-26	11331-11337	vinous	Quality	_	_	
+75-27	11338-11343	taste	Taste Word	*|*|*	75-26|75-17[98_0]|75-31[99_0]	
+75-28	11343-11344	;	_	_	_	
+75-29	11345-11347	it	_	_	_	
+75-30	11348-11355	becomes	_	_	_	
+75-31	11356-11358	va	Quality[99]	_	_	
+75-32	11358-11359	-	Quality[99]	_	_	
+75-33	11362-11365	pid	Quality[99]	_	_	
+75-34	11365-11366	;	_	_	_	
+75-35	11367-11370	and	_	_	_	
+75-36	11371-11379	speedily	_	_	_	
+75-37	11380-11387	assumes	_	_	_	
+75-38	11388-11389	a	_	_	_	
+75-39	11390-11395	muddy	_	_	_	
+75-40	11396-11400	grey	_	_	_	
+75-41	11403-11409	colour	_	_	_	
+75-42	11409-11410	,	_	_	_	
+75-43	11411-11414	and	_	_	_	
+75-44	11415-11417	an	_	_	_	
+75-45	11418-11429	exceedingly	Quality[100]	_	_	
+75-46	11430-11442	disagreeable	Quality[100]	_	_	
+75-47	11445-11450	taste	Taste Word	*|*	75-45[100_0]|75-17[98_0]	
+75-48	11450-11451	.	_	_	_	
+
+#Text=These sophistications may be considered, 
+#Text= at first, as minor crimes practised by fraudu-
+#Text=drinkers are very liable to apoplexy and 
+#Text= palsy, without taking this narcotic poison
+76-1	11457-11462	These	_	_	_	
+76-2	11463-11478	sophistications	_	_	_	
+76-3	11479-11482	may	_	_	_	
+76-4	11483-11485	be	_	_	_	
+76-5	11486-11496	considered	_	_	_	
+76-6	11496-11497	,	_	_	_	
+76-7	11500-11502	at	_	_	_	
+76-8	11503-11508	first	_	_	_	
+76-9	11508-11509	,	_	_	_	
+76-10	11510-11512	as	_	_	_	
+76-11	11513-11518	minor	_	_	_	
+76-12	11519-11525	crimes	_	_	_	
+76-13	11526-11535	practised	_	_	_	
+76-14	11536-11538	by	_	_	_	
+76-15	11539-11545	fraudu	_	_	_	
+76-16	11545-11546	-	_	_	_	
+76-17	11547-11555	drinkers	_	_	_	
+76-18	11556-11559	are	_	_	_	
+76-19	11560-11564	very	_	_	_	
+76-20	11565-11571	liable	_	_	_	
+76-21	11572-11574	to	_	_	_	
+76-22	11575-11583	apoplexy	_	_	_	
+76-23	11584-11587	and	_	_	_	
+76-24	11590-11595	palsy	_	_	_	
+76-25	11595-11596	,	_	_	_	
+76-26	11597-11604	without	_	_	_	
+76-27	11605-11611	taking	_	_	_	
+76-28	11612-11616	this	_	_	_	
+76-29	11617-11625	narcotic	_	_	_	
+76-30	11626-11632	poison	_	_	_	
+
+#Text=.
+77-1	11632-11633	.	_	_	_	
+
+#Text=* The deleterious effect of Cocculus Indicus (the 
+#Text= fruit of the memispermum cocculus} is owing to a pe- 
+#Text= culiar bitter principle contained in it; which, when, 
+#Text= swallowed in minute quantities, intoxicates and acts as 
+#Text= poison.
+78-1	11639-11640	*	_	_	_	
+78-2	11641-11644	The	_	_	_	
+78-3	11645-11656	deleterious	_	_	_	
+78-4	11657-11663	effect	_	_	_	
+78-5	11664-11666	of	_	_	_	
+78-6	11667-11675	Cocculus	Taste Source[101]	_	_	
+78-7	11676-11683	Indicus	Taste Source[101]	_	_	
+78-8	11684-11685	(	_	_	_	
+78-9	11685-11688	the	_	_	_	
+78-10	11691-11696	fruit	_	_	_	
+78-11	11697-11699	of	_	_	_	
+78-12	11700-11703	the	_	_	_	
+78-13	11704-11715	memispermum	_	_	_	
+78-14	11716-11724	cocculus	_	_	_	
+78-15	11724-11725	}	_	_	_	
+78-16	11726-11728	is	_	_	_	
+78-17	11729-11734	owing	_	_	_	
+78-18	11735-11737	to	_	_	_	
+78-19	11738-11739	a	_	_	_	
+78-20	11740-11742	pe	Quality[102]	_	_	
+78-21	11742-11743	-	Quality[102]	_	_	
+78-22	11746-11752	culiar	Quality[102]	_	_	
+78-23	11753-11759	bitter	Quality[103]|Taste Word[104]	*|*|*|*|*	78-23[103_104]|78-20[102_104]|78-6[101_104]|78-31[105_104]|78-38[106_104]	
+78-24	11760-11769	principle	_	_	_	
+78-25	11770-11779	contained	_	_	_	
+78-26	11780-11782	in	_	_	_	
+78-27	11783-11785	it	_	_	_	
+78-28	11785-11786	;	_	_	_	
+78-29	11787-11792	which	_	_	_	
+78-30	11792-11793	,	_	_	_	
+78-31	11794-11798	when	Circumstance[105]	_	_	
+78-32	11798-11799	,	Circumstance[105]	_	_	
+78-33	11802-11811	swallowed	Circumstance[105]	_	_	
+78-34	11812-11814	in	Circumstance[105]	_	_	
+78-35	11815-11821	minute	Circumstance[105]	_	_	
+78-36	11822-11832	quantities	Circumstance[105]	_	_	
+78-37	11832-11833	,	_	_	_	
+78-38	11834-11845	intoxicates	Effect[106]	_	_	
+78-39	11846-11849	and	Effect[106]	_	_	
+78-40	11850-11854	acts	Effect[106]	_	_	
+78-41	11855-11857	as	Effect[106]	_	_	
+78-42	11860-11866	poison	Effect[106]	_	_	
+78-43	11866-11867	.	_	_	_	
+
+#Text=It may be obtained from cocculus indicus ber- 
+#Text= ries in a detached state : chemists call it picrotoxin^ 
+#Text= from 7r*x/?
+79-1	11868-11870	It	_	_	_	
+79-2	11871-11874	may	_	_	_	
+79-3	11875-11877	be	_	_	_	
+79-4	11878-11886	obtained	_	_	_	
+79-5	11887-11891	from	_	_	_	
+79-6	11892-11900	cocculus	_	_	_	
+79-7	11901-11908	indicus	_	_	_	
+79-8	11909-11912	ber	_	_	_	
+79-9	11912-11913	-	_	_	_	
+79-10	11916-11920	ries	_	_	_	
+79-11	11921-11923	in	_	_	_	
+79-12	11924-11925	a	_	_	_	
+79-13	11926-11934	detached	_	_	_	
+79-14	11935-11940	state	_	_	_	
+79-15	11941-11942	:	_	_	_	
+79-16	11943-11951	chemists	_	_	_	
+79-17	11952-11956	call	_	_	_	
+79-18	11957-11959	it	_	_	_	
+79-19	11960-11970	picrotoxin	_	_	_	
+79-20	11970-11971	^	_	_	_	
+79-21	11974-11978	from	_	_	_	
+79-22	11979-11981	7r	_	_	_	
+79-23	11981-11982	*	_	_	_	
+79-24	11982-11983	x	_	_	_	
+79-25	11983-11984	/	_	_	_	
+79-26	11984-11985	?	_	_	_	
+
+#Text=ofc bitter ; and TO&KOV, poison.
+80-1	11985-11988	ofc	_	_	_	
+80-2	11989-11995	bitter	_	_	_	
+80-3	11996-11997	;	_	_	_	
+80-4	11998-12001	and	_	_	_	
+80-5	12002-12004	TO	_	_	_	
+80-6	12004-12005	&	_	_	_	
+80-7	12005-12008	KOV	_	_	_	
+80-8	12008-12009	,	_	_	_	
+80-9	12010-12016	poison	_	_	_	
+80-10	12016-12017	.	_	_	_	
+
+#Text=ADULTERATION OF BEER. 205 
+#Text=  
+#Text= If we judge from the preceding lists of 
+#Text= prosecutions and convictions furnished by 
+#Text= the Solicitor of the Excise*, it will be evident 
+#Text= that many wholesale brewers, as well as 
+#Text= retail dealers, stand very conspicuous among
+#Text=Such is the advice given by Mr.
+81-1	12029-12041	ADULTERATION	_	_	_	
+81-2	12042-12044	OF	_	_	_	
+81-3	12045-12049	BEER	_	_	_	
+81-4	12049-12050	.	_	_	_	
+81-5	12051-12054	205	_	_	_	
+81-6	12060-12062	If	_	_	_	
+81-7	12063-12065	we	_	_	_	
+81-8	12066-12071	judge	_	_	_	
+81-9	12072-12076	from	_	_	_	
+81-10	12077-12080	the	_	_	_	
+81-11	12081-12090	preceding	_	_	_	
+81-12	12091-12096	lists	_	_	_	
+81-13	12097-12099	of	_	_	_	
+81-14	12102-12114	prosecutions	_	_	_	
+81-15	12115-12118	and	_	_	_	
+81-16	12119-12130	convictions	_	_	_	
+81-17	12131-12140	furnished	_	_	_	
+81-18	12141-12143	by	_	_	_	
+81-19	12146-12149	the	_	_	_	
+81-20	12150-12159	Solicitor	_	_	_	
+81-21	12160-12162	of	_	_	_	
+81-22	12163-12166	the	_	_	_	
+81-23	12167-12173	Excise	_	_	_	
+81-24	12173-12174	*	_	_	_	
+81-25	12174-12175	,	_	_	_	
+81-26	12176-12178	it	_	_	_	
+81-27	12179-12183	will	_	_	_	
+81-28	12184-12186	be	_	_	_	
+81-29	12187-12194	evident	_	_	_	
+81-30	12197-12201	that	_	_	_	
+81-31	12202-12206	many	_	_	_	
+81-32	12207-12216	wholesale	_	_	_	
+81-33	12217-12224	brewers	_	_	_	
+81-34	12224-12225	,	_	_	_	
+81-35	12226-12228	as	_	_	_	
+81-36	12229-12233	well	_	_	_	
+81-37	12234-12236	as	_	_	_	
+81-38	12239-12245	retail	_	_	_	
+81-39	12246-12253	dealers	_	_	_	
+81-40	12253-12254	,	_	_	_	
+81-41	12255-12260	stand	_	_	_	
+81-42	12261-12265	very	_	_	_	
+81-43	12266-12277	conspicuous	_	_	_	
+81-44	12278-12283	among	_	_	_	
+81-45	12284-12288	Such	_	_	_	
+81-46	12289-12291	is	_	_	_	
+81-47	12292-12295	the	_	_	_	
+81-48	12296-12302	advice	_	_	_	
+81-49	12303-12308	given	_	_	_	
+81-50	12309-12311	by	_	_	_	
+81-51	12312-12314	Mr	_	_	_	
+81-52	12314-12315	.	_	_	_	
+
+#Text=Shannon.
+82-1	12316-12323	Shannon	_	_	_	
+82-2	12323-12324	.	_	_	_	
+
+#Text=SPIRITUOUS LIQUORS. 259 
+#Text=  
+#Text= The mode of judging by the taste of spi- 
+#Text= rituous liquors is deceitful.
+83-1	12336-12346	SPIRITUOUS	_	_	_	
+83-2	12347-12354	LIQUORS	_	_	_	
+83-3	12354-12355	.	_	_	_	
+83-4	12356-12359	259	_	_	_	
+83-5	12365-12368	The	_	_	_	
+83-6	12369-12373	mode	_	_	_	
+83-7	12374-12376	of	_	_	_	
+83-8	12377-12384	judging	_	_	_	
+83-9	12385-12387	by	_	_	_	
+83-10	12388-12391	the	_	_	_	
+83-11	12392-12397	taste	Taste Word	*	83-12[107_0]	
+83-12	12398-12400	of	Taste Source[107]	_	_	
+83-13	12401-12404	spi	Taste Source[107]	_	_	
+83-14	12404-12405	-	Taste Source[107]	_	_	
+83-15	12408-12415	rituous	Taste Source[107]	_	_	
+83-16	12416-12423	liquors	Taste Source[107]	_	_	
+83-17	12424-12426	is	_	_	_	
+83-18	12427-12436	deceitful	_	_	_	
+83-19	12436-12437	.	_	_	_	
+
+#Text=A false strength 
+#Text= is given to a weak liquor, by infusing in it 
+#Text= acrid vegetable substances, or by adding 
+#Text= to it a tincture of grains of paradise and 
+#Text= Guinea pepper.
+84-1	12438-12439	A	_	_	_	
+84-2	12440-12445	false	_	_	_	
+84-3	12446-12454	strength	_	_	_	
+84-4	12457-12459	is	_	_	_	
+84-5	12460-12465	given	_	_	_	
+84-6	12466-12468	to	_	_	_	
+84-7	12469-12470	a	_	_	_	
+84-8	12471-12475	weak	_	_	_	
+84-9	12476-12482	liquor	_	_	_	
+84-10	12482-12483	,	_	_	_	
+84-11	12484-12486	by	_	_	_	
+84-12	12487-12495	infusing	_	_	_	
+84-13	12496-12498	in	_	_	_	
+84-14	12499-12501	it	_	_	_	
+84-15	12504-12509	acrid	_	_	_	
+84-16	12510-12519	vegetable	_	_	_	
+84-17	12520-12530	substances	_	_	_	
+84-18	12530-12531	,	_	_	_	
+84-19	12532-12534	or	_	_	_	
+84-20	12535-12537	by	_	_	_	
+84-21	12538-12544	adding	_	_	_	
+84-22	12547-12549	to	_	_	_	
+84-23	12550-12552	it	_	_	_	
+84-24	12553-12554	a	_	_	_	
+84-25	12555-12563	tincture	_	_	_	
+84-26	12564-12566	of	_	_	_	
+84-27	12567-12573	grains	Taste Modifier[108]	_	_	
+84-28	12574-12576	of	Taste Modifier[108]	_	_	
+84-29	12577-12585	paradise	Taste Modifier[108]	_	_	
+84-30	12586-12589	and	_	_	_	
+84-31	12592-12598	Guinea	Taste Modifier[109]	_	_	
+84-32	12599-12605	pepper	Taste Modifier[109]	_	_	
+84-33	12605-12606	.	_	_	_	
+
+#Text=These substances impart 
+#Text= to weak brandy or rum, an extremely hot 
+#Text= and pungent taste.
+85-1	12607-12612	These	_	_	_	
+85-2	12613-12623	substances	_	_	_	
+85-3	12624-12630	impart	_	_	_	
+85-4	12633-12635	to	_	_	_	
+85-5	12636-12640	weak	Taste Source[110]	_	_	
+85-6	12641-12647	brandy	Taste Source[110]	_	_	
+85-7	12648-12650	or	_	_	_	
+85-8	12651-12654	rum	Taste Source	_	_	
+85-9	12654-12655	,	_	_	_	
+85-10	12656-12658	an	_	_	_	
+85-11	12659-12668	extremely	_	_	_	
+85-12	12669-12672	hot	Quality	_	_	
+85-13	12675-12678	and	_	_	_	
+85-14	12679-12686	pungent	Quality[111]|Taste Word[112]	*	85-14[111_112]	
+85-15	12687-12692	taste	Taste Word	*|*|*|*|*|*	85-12|85-14[111_0]|85-5[110_0]|85-8|84-27[108_0]|84-31[109_0]	
+85-16	12692-12693	.	_	_	_	
+
+#Text=Brandy and rum is also frequently so- 
+#Text= phisticated with British molasses, or sugar- 
+#Text= spirit, coloured with burnt sugar.
+86-1	12699-12705	Brandy	_	_	_	
+86-2	12706-12709	and	_	_	_	
+86-3	12710-12713	rum	_	_	_	
+86-4	12714-12716	is	_	_	_	
+86-5	12717-12721	also	_	_	_	
+86-6	12722-12732	frequently	_	_	_	
+86-7	12733-12735	so	_	_	_	
+86-8	12735-12736	-	_	_	_	
+86-9	12739-12750	phisticated	_	_	_	
+86-10	12751-12755	with	_	_	_	
+86-11	12756-12763	British	_	_	_	
+86-12	12764-12772	molasses	_	_	_	
+86-13	12772-12773	,	_	_	_	
+86-14	12774-12776	or	_	_	_	
+86-15	12777-12782	sugar	_	_	_	
+86-16	12782-12783	-	_	_	_	
+86-17	12786-12792	spirit	_	_	_	
+86-18	12792-12793	,	_	_	_	
+86-19	12794-12802	coloured	_	_	_	
+86-20	12803-12807	with	_	_	_	
+86-21	12808-12813	burnt	_	_	_	
+86-22	12814-12819	sugar	_	_	_	
+86-23	12819-12820	.	_	_	_	
+
+#Text=The flavour which characterises French
+#Text=brandy, and which is owing to a small 
+#Text= portion of a peculiar essential oil contained 
+#Text= in k, is imitated by distilling- British mo- 
+#Text= lasses spirit over wine lees ; but the spirit, 
+#Text= prior to being distilled over wine lees, is 
+#Text= previously deprived, in part, of its peculiar 
+#Text= disagi-eeable flavour, by rectification over 
+#Text=  
+#Text=  
+#Text=  
+#Text= 260 ADULTERATION OF 
+#Text=  
+#Text= fresh-burnt charcoal and quicklime.
+87-1	12826-12829	The	_	_	_	
+87-2	12830-12837	flavour	Taste Word	*	87-5[113_0]	
+87-3	12838-12843	which	_	_	_	
+87-4	12844-12857	characterises	_	_	_	
+87-5	12858-12864	French	Taste Source[113]	_	_	
+87-6	12865-12871	brandy	Taste Source[113]	_	_	
+87-7	12871-12872	,	_	_	_	
+87-8	12873-12876	and	_	_	_	
+87-9	12877-12882	which	_	_	_	
+87-10	12883-12885	is	_	_	_	
+87-11	12886-12891	owing	_	_	_	
+87-12	12892-12894	to	_	_	_	
+87-13	12895-12896	a	_	_	_	
+87-14	12897-12902	small	_	_	_	
+87-15	12905-12912	portion	_	_	_	
+87-16	12913-12915	of	_	_	_	
+87-17	12916-12917	a	_	_	_	
+87-18	12918-12926	peculiar	_	_	_	
+87-19	12927-12936	essential	_	_	_	
+87-20	12937-12940	oil	_	_	_	
+87-21	12941-12950	contained	_	_	_	
+87-22	12953-12955	in	_	_	_	
+87-23	12956-12957	k	_	_	_	
+87-24	12957-12958	,	_	_	_	
+87-25	12959-12961	is	_	_	_	
+87-26	12962-12970	imitated	_	_	_	
+87-27	12971-12973	by	_	_	_	
+87-28	12974-12984	distilling	_	_	_	
+87-29	12984-12985	-	_	_	_	
+87-30	12986-12993	British	_	_	_	
+87-31	12994-12996	mo	_	_	_	
+87-32	12996-12997	-	_	_	_	
+87-33	13000-13006	lasses	_	_	_	
+87-34	13007-13013	spirit	_	_	_	
+87-35	13014-13018	over	_	_	_	
+87-36	13019-13023	wine	_	_	_	
+87-37	13024-13028	lees	_	_	_	
+87-38	13029-13030	;	_	_	_	
+87-39	13031-13034	but	_	_	_	
+87-40	13035-13038	the	_	_	_	
+87-41	13039-13045	spirit	_	_	_	
+87-42	13045-13046	,	_	_	_	
+87-43	13049-13054	prior	_	_	_	
+87-44	13055-13057	to	_	_	_	
+87-45	13058-13063	being	_	_	_	
+87-46	13064-13073	distilled	_	_	_	
+87-47	13074-13078	over	_	_	_	
+87-48	13079-13083	wine	_	_	_	
+87-49	13084-13088	lees	_	_	_	
+87-50	13088-13089	,	_	_	_	
+87-51	13090-13092	is	_	_	_	
+87-52	13095-13105	previously	_	_	_	
+87-53	13106-13114	deprived	_	_	_	
+87-54	13114-13115	,	_	_	_	
+87-55	13116-13118	in	_	_	_	
+87-56	13119-13123	part	_	_	_	
+87-57	13123-13124	,	_	_	_	
+87-58	13125-13127	of	_	_	_	
+87-59	13128-13131	its	Taste Source	anaphorical	87-5[113_0]	
+87-60	13132-13140	peculiar	Quality	_	_	
+87-61	13143-13156	disagi-eeable	Quality	_	_	
+87-62	13157-13164	flavour	Taste Word	*|*|*	87-61|87-60|87-59	
+87-63	13164-13165	,	_	_	_	
+87-64	13166-13168	by	_	_	_	
+87-65	13169-13182	rectification	_	_	_	
+87-66	13183-13187	over	_	_	_	
+87-67	13199-13202	260	_	_	_	
+87-68	13203-13215	ADULTERATION	_	_	_	
+87-69	13216-13218	OF	_	_	_	
+87-70	13224-13235	fresh-burnt	_	_	_	
+87-71	13236-13244	charcoal	_	_	_	
+87-72	13245-13248	and	_	_	_	
+87-73	13249-13258	quicklime	_	_	_	
+87-74	13258-13259	.	_	_	_	
+
+#Text=Other 
+#Text= brandy-merchants employ a spirit obtained 
+#Text= from raisin wine, which is suffered to pass 
+#Text= into an incipient acescency.
+88-1	13260-13265	Other	_	_	_	
+88-2	13268-13284	brandy-merchants	_	_	_	
+88-3	13285-13291	employ	_	_	_	
+88-4	13292-13293	a	_	_	_	
+88-5	13294-13300	spirit	_	_	_	
+88-6	13301-13309	obtained	_	_	_	
+88-7	13312-13316	from	_	_	_	
+88-8	13317-13323	raisin	_	_	_	
+88-9	13324-13328	wine	_	_	_	
+88-10	13328-13329	,	_	_	_	
+88-11	13330-13335	which	_	_	_	
+88-12	13336-13338	is	_	_	_	
+88-13	13339-13347	suffered	_	_	_	
+88-14	13348-13350	to	_	_	_	
+88-15	13351-13355	pass	_	_	_	
+88-16	13358-13362	into	_	_	_	
+88-17	13363-13365	an	_	_	_	
+88-18	13366-13375	incipient	_	_	_	
+88-19	13376-13385	acescency	_	_	_	
+88-20	13385-13386	.	_	_	_	
+
+#Text=The spirit 
+#Text= thus procured partakes strongly of the 
+#Text= flavour which is characteristic of foreign 
+#Text= brandy.
+89-1	13387-13390	The	Taste Source[114]	_	_	
+89-2	13391-13397	spirit	Taste Source[114]	_	_	
+89-3	13400-13404	thus	_	_	_	
+89-4	13405-13413	procured	_	_	_	
+89-5	13414-13422	partakes	Taste Word	*|*|*	89-6|89-1[114_0]|89-7[115_0]	
+89-6	13423-13431	strongly	Quality	_	_	
+89-7	13432-13434	of	Taste Source[115]	_	_	
+89-8	13435-13438	the	Taste Source[115]	_	_	
+89-9	13441-13448	flavour	Taste Source[115]|Taste Word[116]	*	89-13[117_116]	
+89-10	13449-13454	which	Taste Source[115]	_	_	
+89-11	13455-13457	is	Taste Source[115]	_	_	
+89-12	13458-13472	characteristic	Taste Source[115]	_	_	
+89-13	13473-13475	of	Taste Source[115]|Taste Source[117]	_	_	
+89-14	13476-13483	foreign	Taste Source[115]|Taste Source[117]	_	_	
+89-15	13486-13492	brandy	Taste Source[115]|Taste Source[117]	_	_	
+89-16	13492-13493	.	_	_	_	
+
+#Text=Oak saw-dust, and a spirituous tincture 
+#Text= of raisin stones, are likewise used to impart 
+#Text= to new brandy and rum a ripe taste, resem- 
+#Text= bling brandy or rum long kept in oaken 
+#Text= casks, and a somewhat oily consistence, 
+#Text= so as to form a double froth at its surface, 
+#Text= when strongly agitated in a vial.
+90-1	13497-13500	Oak	Taste Modifier[118]	_	_	
+90-2	13501-13509	saw-dust	Taste Modifier[118]	_	_	
+90-3	13509-13510	,	_	_	_	
+90-4	13511-13514	and	_	_	_	
+90-5	13515-13516	a	Taste Modifier[119]	_	_	
+90-6	13517-13527	spirituous	Taste Modifier[119]	_	_	
+90-7	13528-13536	tincture	Taste Modifier[119]	_	_	
+90-8	13539-13541	of	Taste Modifier[119]	_	_	
+90-9	13542-13548	raisin	Taste Modifier[119]	_	_	
+90-10	13549-13555	stones	Taste Modifier[119]	_	_	
+90-11	13555-13556	,	_	_	_	
+90-12	13557-13560	are	_	_	_	
+90-13	13561-13569	likewise	_	_	_	
+90-14	13570-13574	used	_	_	_	
+90-15	13575-13577	to	_	_	_	
+90-16	13578-13584	impart	_	_	_	
+90-17	13587-13589	to	_	_	_	
+90-18	13590-13593	new	Taste Source[120]	_	_	
+90-19	13594-13600	brandy	Taste Source[120]	_	_	
+90-20	13601-13604	and	_	_	_	
+90-21	13605-13608	rum	Taste Source	_	_	
+90-22	13609-13610	a	_	_	_	
+90-23	13611-13615	ripe	Quality	_	_	
+90-24	13616-13621	taste	Taste Word	*|*|*|*|*|*	90-23|90-26[121_0]|90-18[120_0]|90-21|90-1[118_0]|90-5[119_0]	
+90-25	13621-13622	,	_	_	_	
+90-26	13623-13628	resem	Evoked Taste[121]	_	_	
+90-27	13628-13629	-	Evoked Taste[121]	_	_	
+90-28	13632-13637	bling	Evoked Taste[121]	_	_	
+90-29	13638-13644	brandy	Evoked Taste[121]	_	_	
+90-30	13645-13647	or	Evoked Taste[121]	_	_	
+90-31	13648-13651	rum	Evoked Taste[121]	_	_	
+90-32	13652-13656	long	Evoked Taste[121]	_	_	
+90-33	13657-13661	kept	Evoked Taste[121]	_	_	
+90-34	13662-13664	in	Evoked Taste[121]	_	_	
+90-35	13665-13670	oaken	Evoked Taste[121]	_	_	
+90-36	13673-13678	casks	Evoked Taste[121]	_	_	
+90-37	13678-13679	,	_	_	_	
+90-38	13680-13683	and	_	_	_	
+90-39	13684-13685	a	_	_	_	
+90-40	13686-13694	somewhat	_	_	_	
+90-41	13695-13699	oily	_	_	_	
+90-42	13700-13711	consistence	_	_	_	
+90-43	13711-13712	,	_	_	_	
+90-44	13715-13717	so	_	_	_	
+90-45	13718-13720	as	_	_	_	
+90-46	13721-13723	to	_	_	_	
+90-47	13724-13728	form	_	_	_	
+90-48	13729-13730	a	_	_	_	
+90-49	13731-13737	double	_	_	_	
+90-50	13738-13743	froth	_	_	_	
+90-51	13744-13746	at	_	_	_	
+90-52	13747-13750	its	_	_	_	
+90-53	13751-13758	surface	_	_	_	
+90-54	13758-13759	,	_	_	_	
+90-55	13762-13766	when	_	_	_	
+90-56	13767-13775	strongly	_	_	_	
+90-57	13776-13784	agitated	_	_	_	
+90-58	13785-13787	in	_	_	_	
+90-59	13788-13789	a	_	_	_	
+90-60	13790-13794	vial	_	_	_	
+90-61	13794-13795	.	_	_	_	
+
+#Text=The co- 
+#Text= louring substances are burnt sugar, or mo- 
+#Text= lasses; the latter gives to imitative brandy 
+#Text= a luscious taste, and fulness in the mouth.
+91-1	13796-13799	The	_	_	_	
+91-2	13800-13802	co	_	_	_	
+91-3	13802-13803	-	_	_	_	
+91-4	13806-13813	louring	_	_	_	
+91-5	13814-13824	substances	_	_	_	
+91-6	13825-13828	are	_	_	_	
+91-7	13829-13834	burnt	_	_	_	
+91-8	13835-13840	sugar	_	_	_	
+91-9	13840-13841	,	_	_	_	
+91-10	13842-13844	or	_	_	_	
+91-11	13845-13847	mo	Taste Modifier[122]	_	_	
+91-12	13847-13848	-	Taste Modifier[122]	_	_	
+91-13	13851-13857	lasses	Taste Modifier[122]	_	_	
+91-14	13857-13858	;	_	_	_	
+91-15	13859-13862	the	_	_	_	
+91-16	13863-13869	latter	_	_	_	
+91-17	13870-13875	gives	_	_	_	
+91-18	13876-13878	to	_	_	_	
+91-19	13879-13888	imitative	Taste Source[123]	_	_	
+91-20	13889-13895	brandy	Taste Source[123]	_	_	
+91-21	13898-13899	a	_	_	_	
+91-22	13900-13908	luscious	Quality	_	_	
+91-23	13909-13914	taste	Taste Word	*|*|*	91-22|91-19[123_0]|91-11[122_0]	
+91-24	13914-13915	,	_	_	_	
+91-25	13916-13919	and	_	_	_	
+91-26	13920-13927	fulness	_	_	_	
+91-27	13928-13930	in	_	_	_	
+91-28	13931-13934	the	_	_	_	
+91-29	13935-13940	mouth	_	_	_	
+91-30	13940-13941	.	_	_	_	
+
+#Text=These properties are said to render it parti- 
+#Text= cularly fit for the retail London customers.
+92-1	13944-13949	These	_	_	_	
+92-2	13950-13960	properties	_	_	_	
+92-3	13961-13964	are	_	_	_	
+92-4	13965-13969	said	_	_	_	
+92-5	13970-13972	to	_	_	_	
+92-6	13973-13979	render	_	_	_	
+92-7	13980-13982	it	_	_	_	
+92-8	13983-13988	parti	_	_	_	
+92-9	13988-13989	-	_	_	_	
+92-10	13992-13999	cularly	_	_	_	
+92-11	14000-14003	fit	_	_	_	
+92-12	14004-14007	for	_	_	_	
+92-13	14008-14011	the	_	_	_	
+92-14	14012-14018	retail	_	_	_	
+92-15	14019-14025	London	_	_	_	
+92-16	14026-14035	customers	_	_	_	
+92-17	14035-14036	.	_	_	_	
+
+#Text=SPIRITUOUS LIQUOflS. 261 
+#Text=  
+#Text= The following- is the method of com- 
+#Text= pounding or making up 9 as it is technically 
+#Text= called, brandy* for retail:
+#Text=MALT SPIRIT.
+93-1	14048-14058	SPIRITUOUS	_	_	_	
+93-2	14059-14067	LIQUOflS	_	_	_	
+93-3	14067-14068	.	_	_	_	
+93-4	14069-14072	261	_	_	_	
+93-5	14078-14081	The	_	_	_	
+93-6	14082-14091	following	_	_	_	
+93-7	14091-14092	-	_	_	_	
+93-8	14093-14095	is	_	_	_	
+93-9	14096-14099	the	_	_	_	
+93-10	14100-14106	method	_	_	_	
+93-11	14107-14109	of	_	_	_	
+93-12	14110-14113	com	_	_	_	
+93-13	14113-14114	-	_	_	_	
+93-14	14117-14125	pounding	_	_	_	
+93-15	14126-14128	or	_	_	_	
+93-16	14129-14135	making	_	_	_	
+93-17	14136-14138	up	_	_	_	
+93-18	14139-14140	9	_	_	_	
+93-19	14141-14143	as	_	_	_	
+93-20	14144-14146	it	_	_	_	
+93-21	14147-14149	is	_	_	_	
+93-22	14150-14161	technically	_	_	_	
+93-23	14164-14170	called	_	_	_	
+93-24	14170-14171	,	_	_	_	
+93-25	14172-14178	brandy	_	_	_	
+93-26	14178-14179	*	_	_	_	
+93-27	14180-14183	for	_	_	_	
+93-28	14184-14190	retail	_	_	_	
+93-29	14190-14191	:	_	_	_	
+93-30	14192-14196	MALT	_	_	_	
+93-31	14197-14203	SPIRIT	_	_	_	
+93-32	14203-14204	.	_	_	_	
+
+#Text=THE false strength of brandy or rum is 
+#Text= rendered obvious by diluting the suspected 
+#Text=  
+#Text= * Observations on Malted and Unmalted Corn, con- 
+#Text= nected with Brewing and Distilling-, p, 167. 
+#Text=  
+#Text=  
+#Text=  
+#Text= 262 ADULTERATION OF 
+#Text=  
+#Text= liquor with water ; the acrimony of the cap- 
+#Text= sicum, and grains of paradise, or pepper, 
+#Text= may then be readily discovered by the 
+#Text= taste.
+94-1	14210-14213	THE	_	_	_	
+94-2	14214-14219	false	_	_	_	
+94-3	14220-14228	strength	_	_	_	
+94-4	14229-14231	of	_	_	_	
+94-5	14232-14238	brandy	_	_	_	
+94-6	14239-14241	or	_	_	_	
+94-7	14242-14245	rum	_	_	_	
+94-8	14246-14248	is	_	_	_	
+94-9	14251-14259	rendered	_	_	_	
+94-10	14260-14267	obvious	_	_	_	
+94-11	14268-14270	by	_	_	_	
+94-12	14271-14279	diluting	_	_	_	
+94-13	14280-14283	the	_	_	_	
+94-14	14284-14293	suspected	_	_	_	
+94-15	14299-14300	*	_	_	_	
+94-16	14301-14313	Observations	_	_	_	
+94-17	14314-14316	on	_	_	_	
+94-18	14317-14323	Malted	_	_	_	
+94-19	14324-14327	and	_	_	_	
+94-20	14328-14336	Unmalted	_	_	_	
+94-21	14337-14341	Corn	_	_	_	
+94-22	14341-14342	,	_	_	_	
+94-23	14343-14346	con	_	_	_	
+94-24	14346-14347	-	_	_	_	
+94-25	14350-14356	nected	_	_	_	
+94-26	14357-14361	with	_	_	_	
+94-27	14362-14369	Brewing	_	_	_	
+94-28	14370-14373	and	_	_	_	
+94-29	14374-14384	Distilling	_	_	_	
+94-30	14384-14385	-	_	_	_	
+94-31	14385-14386	,	_	_	_	
+94-32	14387-14388	p	_	_	_	
+94-33	14388-14389	,	_	_	_	
+94-34	14390-14393	167	_	_	_	
+94-35	14393-14394	.	_	_	_	
+94-36	14406-14409	262	_	_	_	
+94-37	14410-14422	ADULTERATION	_	_	_	
+94-38	14423-14425	OF	_	_	_	
+94-39	14431-14437	liquor	_	_	_	
+94-40	14438-14442	with	_	_	_	
+94-41	14443-14448	water	_	_	_	
+94-42	14449-14450	;	_	_	_	
+94-43	14451-14454	the	_	_	_	
+94-44	14455-14463	acrimony	Quality	_	_	
+94-45	14464-14466	of	Taste Source[124]	_	_	
+94-46	14467-14470	the	Taste Source[124]	_	_	
+94-47	14471-14474	cap	Taste Source[124]	_	_	
+94-48	14474-14475	-	Taste Source[124]	_	_	
+94-49	14478-14483	sicum	Taste Source[124]	_	_	
+94-50	14483-14484	,	_	_	_	
+94-51	14485-14488	and	_	_	_	
+94-52	14489-14495	grains	Taste Source[125]	_	_	
+94-53	14496-14498	of	Taste Source[125]	_	_	
+94-54	14499-14507	paradise	Taste Source[125]	_	_	
+94-55	14507-14508	,	_	_	_	
+94-56	14509-14511	or	_	_	_	
+94-57	14512-14518	pepper	Taste Source	_	_	
+94-58	14518-14519	,	_	_	_	
+94-59	14522-14525	may	_	_	_	
+94-60	14526-14530	then	_	_	_	
+94-61	14531-14533	be	_	_	_	
+94-62	14534-14541	readily	_	_	_	
+94-63	14542-14552	discovered	_	_	_	
+94-64	14553-14555	by	_	_	_	
+94-65	14556-14559	the	_	_	_	
+94-66	14562-14567	taste	Taste Word	*|*|*|*	94-44|94-45[124_0]|94-52[125_0]|94-57	
+94-67	14567-14568	.	_	_	_	
+
+#Text=The adulteration of brandy with British 
+#Text= molasses, or sugar-spirit, becomes evident 
+#Text= by rubbing a portion of the suspectetl
+#Text=brandy between the palm of the hands; the 
+#Text= spirit, as it evaporates, leaves the disagree- 
+#Text= able flavour which is peculiar to all British 
+#Text= spirits.
+95-1	14574-14577	The	_	_	_	
+95-2	14578-14590	adulteration	_	_	_	
+95-3	14591-14593	of	_	_	_	
+95-4	14594-14600	brandy	_	_	_	
+95-5	14601-14605	with	_	_	_	
+95-6	14606-14613	British	Taste Modifier[126]	_	_	
+95-7	14616-14624	molasses	Taste Modifier[126]	_	_	
+95-8	14624-14625	,	_	_	_	
+95-9	14626-14628	or	_	_	_	
+95-10	14629-14641	sugar-spirit	_	_	_	
+95-11	14641-14642	,	_	_	_	
+95-12	14643-14650	becomes	_	_	_	
+95-13	14651-14658	evident	_	_	_	
+95-14	14661-14663	by	_	_	_	
+95-15	14664-14671	rubbing	_	_	_	
+95-16	14672-14673	a	_	_	_	
+95-17	14674-14681	portion	_	_	_	
+95-18	14682-14684	of	_	_	_	
+95-19	14685-14688	the	_	_	_	
+95-20	14689-14699	suspectetl	_	_	_	
+95-21	14700-14706	brandy	_	_	_	
+95-22	14707-14714	between	_	_	_	
+95-23	14715-14718	the	_	_	_	
+95-24	14719-14723	palm	_	_	_	
+95-25	14724-14726	of	_	_	_	
+95-26	14727-14730	the	_	_	_	
+95-27	14731-14736	hands	_	_	_	
+95-28	14736-14737	;	_	_	_	
+95-29	14738-14741	the	_	_	_	
+95-30	14744-14750	spirit	_	_	_	
+95-31	14750-14751	,	_	_	_	
+95-32	14752-14754	as	_	_	_	
+95-33	14755-14757	it	_	_	_	
+95-34	14758-14768	evaporates	_	_	_	
+95-35	14768-14769	,	_	_	_	
+95-36	14770-14776	leaves	_	_	_	
+95-37	14777-14780	the	_	_	_	
+95-38	14781-14789	disagree	Quality[127]	_	_	
+95-39	14789-14790	-	Quality[127]	_	_	
+95-40	14793-14797	able	Quality[127]	_	_	
+95-41	14798-14805	flavour	Taste Word	*|*|*	95-38[127_0]|95-6[126_0]|95-47[128_0]	
+95-42	14806-14811	which	_	_	_	
+95-43	14812-14814	is	_	_	_	
+95-44	14815-14823	peculiar	_	_	_	
+95-45	14824-14826	to	_	_	_	
+95-46	14827-14830	all	_	_	_	
+95-47	14831-14838	British	Taste Source[128]	_	_	
+95-48	14841-14848	spirits	Taste Source[128]	_	_	
+95-49	14848-14849	.	_	_	_	
+
+#Text=Or the liqour may be deprived of 
+#Text= its alcohol, by heating a portion in a spoon 
+#Text= over a candle, till the vapour ceases to catch 
+#Text= fire on the approach of a lighted taper.
+96-1	14850-14852	Or	_	_	_	
+96-2	14853-14856	the	_	_	_	
+96-3	14857-14863	liqour	_	_	_	
+96-4	14864-14867	may	_	_	_	
+96-5	14868-14870	be	_	_	_	
+96-6	14871-14879	deprived	_	_	_	
+96-7	14880-14882	of	_	_	_	
+96-8	14885-14888	its	_	_	_	
+96-9	14889-14896	alcohol	_	_	_	
+96-10	14896-14897	,	_	_	_	
+96-11	14898-14900	by	_	_	_	
+96-12	14901-14908	heating	_	_	_	
+96-13	14909-14910	a	_	_	_	
+96-14	14911-14918	portion	_	_	_	
+96-15	14919-14921	in	_	_	_	
+96-16	14922-14923	a	_	_	_	
+96-17	14924-14929	spoon	_	_	_	
+96-18	14932-14936	over	_	_	_	
+96-19	14937-14938	a	_	_	_	
+96-20	14939-14945	candle	_	_	_	
+96-21	14945-14946	,	_	_	_	
+96-22	14947-14951	till	_	_	_	
+96-23	14952-14955	the	_	_	_	
+96-24	14956-14962	vapour	_	_	_	
+96-25	14963-14969	ceases	_	_	_	
+96-26	14970-14972	to	_	_	_	
+96-27	14973-14978	catch	_	_	_	
+96-28	14981-14985	fire	_	_	_	
+96-29	14986-14988	on	_	_	_	
+96-30	14989-14992	the	_	_	_	
+96-31	14993-15001	approach	_	_	_	
+96-32	15002-15004	of	_	_	_	
+96-33	15005-15006	a	_	_	_	
+96-34	15007-15014	lighted	_	_	_	
+96-35	15015-15020	taper	_	_	_	
+96-36	15020-15021	.	_	_	_	
+
+#Text=The 
+#Text= residue thus obtained, of genuine French 
+#Text= brandy, possesses a vinous odour, still 
+#Text= resembling* the original flavour of the 
+#Text= brandy, whilst the residue, produced from 
+#Text= sophisticated brandy, has a peculiar disa- 
+#Text=  
+#Text=  
+#Text=  
+#Text= SPIRITUOUS LIQUORS, 263 
+#Text=  
+#Text= greeable smell, resembling gin, or the breath 
+#Text= of habitual drunkards.
+97-1	15022-15025	The	_	_	_	
+97-2	15028-15035	residue	_	_	_	
+97-3	15036-15040	thus	_	_	_	
+97-4	15041-15049	obtained	_	_	_	
+97-5	15049-15050	,	_	_	_	
+97-6	15051-15053	of	_	_	_	
+97-7	15054-15061	genuine	_	_	_	
+97-8	15062-15068	French	_	_	_	
+97-9	15071-15077	brandy	_	_	_	
+97-10	15077-15078	,	_	_	_	
+97-11	15079-15088	possesses	_	_	_	
+97-12	15089-15090	a	_	_	_	
+97-13	15091-15097	vinous	_	_	_	
+97-14	15098-15103	odour	_	_	_	
+97-15	15103-15104	,	_	_	_	
+97-16	15105-15110	still	_	_	_	
+97-17	15113-15123	resembling	_	_	_	
+97-18	15123-15124	*	_	_	_	
+97-19	15125-15128	the	_	_	_	
+97-20	15129-15137	original	Quality	_	_	
+97-21	15138-15145	flavour	Taste Word	*|*	97-20|97-22[129_0]	
+97-22	15146-15148	of	Taste Source[129]	_	_	
+97-23	15149-15152	the	Taste Source[129]	_	_	
+97-24	15155-15161	brandy	Taste Source[129]	_	_	
+97-25	15161-15162	,	_	_	_	
+97-26	15163-15169	whilst	_	_	_	
+97-27	15170-15173	the	_	_	_	
+97-28	15174-15181	residue	_	_	_	
+97-29	15181-15182	,	_	_	_	
+97-30	15183-15191	produced	_	_	_	
+97-31	15192-15196	from	_	_	_	
+97-32	15199-15212	sophisticated	_	_	_	
+97-33	15213-15219	brandy	_	_	_	
+97-34	15219-15220	,	_	_	_	
+97-35	15221-15224	has	_	_	_	
+97-36	15225-15226	a	_	_	_	
+97-37	15227-15235	peculiar	_	_	_	
+97-38	15236-15240	disa	_	_	_	
+97-39	15240-15241	-	_	_	_	
+97-40	15253-15263	SPIRITUOUS	_	_	_	
+97-41	15264-15271	LIQUORS	_	_	_	
+97-42	15271-15272	,	_	_	_	
+97-43	15273-15276	263	_	_	_	
+97-44	15282-15290	greeable	_	_	_	
+97-45	15291-15296	smell	_	_	_	
+97-46	15296-15297	,	_	_	_	
+97-47	15298-15308	resembling	_	_	_	
+97-48	15309-15312	gin	_	_	_	
+97-49	15312-15313	,	_	_	_	
+97-50	15314-15316	or	_	_	_	
+97-51	15317-15320	the	_	_	_	
+97-52	15321-15327	breath	_	_	_	
+97-53	15330-15332	of	_	_	_	
+97-54	15333-15341	habitual	_	_	_	
+97-55	15342-15351	drunkards	_	_	_	
+97-56	15351-15352	.	_	_	_	
+
+#Text=Arrack is coarsely imitated by adding to 
+#Text= rum a small quantity of  ' pyroligneous acid 
+#Text= and some flowers (acid) of benzoe.
+98-1	15356-15362	Arrack	_	_	_	
+98-2	15363-15365	is	_	_	_	
+98-3	15366-15374	coarsely	_	_	_	
+98-4	15375-15383	imitated	_	_	_	
+98-5	15384-15386	by	_	_	_	
+98-6	15387-15393	adding	_	_	_	
+98-7	15394-15396	to	_	_	_	
+98-8	15399-15402	rum	_	_	_	
+98-9	15403-15404	a	_	_	_	
+98-10	15405-15410	small	_	_	_	
+98-11	15411-15419	quantity	_	_	_	
+98-12	15420-15422	of	_	_	_	
+98-13	15424-15425	'	_	_	_	
+98-14	15426-15438	pyroligneous	_	_	_	
+98-15	15439-15443	acid	_	_	_	
+98-16	15446-15449	and	_	_	_	
+98-17	15450-15454	some	_	_	_	
+98-18	15455-15462	flowers	_	_	_	
+98-19	15463-15464	(	_	_	_	
+98-20	15464-15468	acid	_	_	_	
+98-21	15468-15469	)	_	_	_	
+98-22	15470-15472	of	_	_	_	
+98-23	15473-15479	benzoe	_	_	_	
+98-24	15479-15480	.	_	_	_	
+
+#Text=The 
+#Text= compound thus produced, however, must 
+#Text= be pronounced a bad one.
+99-1	15481-15484	The	_	_	_	
+99-2	15487-15495	compound	_	_	_	
+99-3	15496-15500	thus	_	_	_	
+99-4	15501-15509	produced	_	_	_	
+99-5	15509-15510	,	_	_	_	
+99-6	15511-15518	however	_	_	_	
+99-7	15518-15519	,	_	_	_	
+99-8	15520-15524	must	_	_	_	
+99-9	15527-15529	be	_	_	_	
+99-10	15530-15540	pronounced	_	_	_	
+99-11	15541-15542	a	_	_	_	
+99-12	15543-15546	bad	_	_	_	
+99-13	15547-15550	one	_	_	_	
+99-14	15550-15551	.	_	_	_	
+
+#Text=The author of a 
+#Text= very popular Cookery Book, (the Cook ' s 
+#Text= Oracle, 2d edition, p. 480,) directs two scru- 
+#Text= ples of benzoic acid to be dissolved in one 
+#Text= quart of rum, to make " mock arrack."
+100-1	15552-15555	The	_	_	_	
+100-2	15556-15562	author	_	_	_	
+100-3	15563-15565	of	_	_	_	
+100-4	15566-15567	a	_	_	_	
+100-5	15570-15574	very	_	_	_	
+100-6	15575-15582	popular	_	_	_	
+100-7	15583-15590	Cookery	_	_	_	
+100-8	15591-15595	Book	_	_	_	
+100-9	15595-15596	,	_	_	_	
+100-10	15597-15598	(	_	_	_	
+100-11	15598-15601	the	_	_	_	
+100-12	15602-15606	Cook	_	_	_	
+100-13	15607-15608	'	_	_	_	
+100-14	15609-15610	s	_	_	_	
+100-15	15613-15619	Oracle	_	_	_	
+100-16	15619-15620	,	_	_	_	
+100-17	15621-15623	2d	_	_	_	
+100-18	15624-15631	edition	_	_	_	
+100-19	15631-15632	,	_	_	_	
+100-20	15633-15634	p	_	_	_	
+100-21	15634-15635	.	_	_	_	
+100-22	15636-15639	480	_	_	_	
+100-23	15639-15640	,	_	_	_	
+100-24	15640-15641	)	_	_	_	
+100-25	15642-15649	directs	_	_	_	
+100-26	15650-15653	two	_	_	_	
+100-27	15654-15658	scru	_	_	_	
+100-28	15658-15659	-	_	_	_	
+100-29	15662-15666	ples	_	_	_	
+100-30	15667-15669	of	_	_	_	
+100-31	15670-15677	benzoic	_	_	_	
+100-32	15678-15682	acid	_	_	_	
+100-33	15683-15685	to	_	_	_	
+100-34	15686-15688	be	_	_	_	
+100-35	15689-15698	dissolved	_	_	_	
+100-36	15699-15701	in	_	_	_	
+100-37	15702-15705	one	_	_	_	
+100-38	15708-15713	quart	_	_	_	
+100-39	15714-15716	of	_	_	_	
+100-40	15717-15720	rum	_	_	_	
+100-41	15720-15721	,	_	_	_	
+100-42	15722-15724	to	_	_	_	
+100-43	15725-15729	make	_	_	_	
+100-44	15730-15731	"	_	_	_	
+100-45	15732-15736	mock	_	_	_	
+100-46	15737-15743	arrack	_	_	_	
+100-47	15743-15744	.	_	_	_	
+100-48	15744-15745	"	_	_	_	
+
+#Text=MALT SPIRIT.
+101-1	15757-15761	MALT	_	_	_	
+101-2	15762-15768	SPIRIT	_	_	_	
+101-3	15768-15769	.	_	_	_	
+
+#Text=MALT spirit, or gin, the favourite liquor 
+#Text= of the lower order of people, which is cha- 
+#Text= racterized by the peculiar flavour of juniper 
+#Text= berries, over which the raw spirit is distilled, 
+#Text=  
+#Text= 
+#Text= 
+#Text= 204 ADULTERATION OF 
+#Text=  
+#Text= is usually obtained from a mixture of malt 
+#Text= and barley : sometimes both molasses and 
+#Text= corn are employed, particularly if there be 
+#Text= a scarcity of grain.
+102-1	15775-15779	MALT	Taste Carrier[130]	_	_	
+102-2	15780-15786	spirit	Taste Carrier[130]	_	_	
+102-3	15786-15787	,	_	_	_	
+102-4	15788-15790	or	_	_	_	
+102-5	15791-15794	gin	Taste Carrier	_	_	
+102-6	15794-15795	,	_	_	_	
+102-7	15796-15799	the	_	_	_	
+102-8	15800-15809	favourite	_	_	_	
+102-9	15810-15816	liquor	_	_	_	
+102-10	15819-15821	of	_	_	_	
+102-11	15822-15825	the	_	_	_	
+102-12	15826-15831	lower	_	_	_	
+102-13	15832-15837	order	_	_	_	
+102-14	15838-15840	of	_	_	_	
+102-15	15841-15847	people	_	_	_	
+102-16	15847-15848	,	_	_	_	
+102-17	15849-15854	which	_	_	_	
+102-18	15855-15857	is	_	_	_	
+102-19	15858-15861	cha	_	_	_	
+102-20	15861-15862	-	_	_	_	
+102-21	15865-15875	racterized	_	_	_	
+102-22	15876-15878	by	_	_	_	
+102-23	15879-15882	the	_	_	_	
+102-24	15883-15891	peculiar	Quality	_	_	
+102-25	15892-15899	flavour	Taste Word	*|*|*|*	102-26[131_0]|102-24|102-5|102-1[130_0]	
+102-26	15900-15902	of	Taste Source[131]	_	_	
+102-27	15903-15910	juniper	Taste Source[131]	_	_	
+102-28	15913-15920	berries	Taste Source[131]	_	_	
+102-29	15920-15921	,	_	_	_	
+102-30	15922-15926	over	_	_	_	
+102-31	15927-15932	which	_	_	_	
+102-32	15933-15936	the	_	_	_	
+102-33	15937-15940	raw	_	_	_	
+102-34	15941-15947	spirit	_	_	_	
+102-35	15948-15950	is	_	_	_	
+102-36	15951-15960	distilled	_	_	_	
+102-37	15960-15961	,	_	_	_	
+102-38	15971-15974	204	_	_	_	
+102-39	15975-15987	ADULTERATION	_	_	_	
+102-40	15988-15990	OF	_	_	_	
+102-41	15996-15998	is	_	_	_	
+102-42	15999-16006	usually	_	_	_	
+102-43	16007-16015	obtained	_	_	_	
+102-44	16016-16020	from	_	_	_	
+102-45	16021-16022	a	_	_	_	
+102-46	16023-16030	mixture	_	_	_	
+102-47	16031-16033	of	_	_	_	
+102-48	16034-16038	malt	_	_	_	
+102-49	16041-16044	and	_	_	_	
+102-50	16045-16051	barley	_	_	_	
+102-51	16052-16053	:	_	_	_	
+102-52	16054-16063	sometimes	_	_	_	
+102-53	16064-16068	both	_	_	_	
+102-54	16069-16077	molasses	_	_	_	
+102-55	16078-16081	and	_	_	_	
+102-56	16084-16088	corn	_	_	_	
+102-57	16089-16092	are	_	_	_	
+102-58	16093-16101	employed	_	_	_	
+102-59	16101-16102	,	_	_	_	
+102-60	16103-16115	particularly	_	_	_	
+102-61	16116-16118	if	_	_	_	
+102-62	16119-16124	there	_	_	_	
+102-63	16125-16127	be	_	_	_	
+102-64	16130-16131	a	_	_	_	
+102-65	16132-16140	scarcity	_	_	_	
+102-66	16141-16143	of	_	_	_	
+102-67	16144-16149	grain	_	_	_	
+102-68	16149-16150	.	_	_	_	
+
+#Text=But the flavour of whis- 
+#Text= key, which is made from barley and oats, is 
+#Text= owing to the malted grain being dried with 
+#Text= peat, the smoke of which gives it the charac- 
+#Text= teristic taste.
+103-1	16151-16154	But	_	_	_	
+103-2	16155-16158	the	_	_	_	
+103-3	16159-16166	flavour	Taste Word	*	103-4[132_0]	
+103-4	16167-16169	of	Taste Source[132]	_	_	
+103-5	16170-16174	whis	Taste Source[132]	_	_	
+103-6	16174-16175	-	Taste Source[132]	_	_	
+103-7	16178-16181	key	Taste Source[132]	_	_	
+103-8	16181-16182	,	_	_	_	
+103-9	16183-16188	which	_	_	_	
+103-10	16189-16191	is	_	_	_	
+103-11	16192-16196	made	_	_	_	
+103-12	16197-16201	from	_	_	_	
+103-13	16202-16208	barley	_	_	_	
+103-14	16209-16212	and	_	_	_	
+103-15	16213-16217	oats	_	_	_	
+103-16	16217-16218	,	_	_	_	
+103-17	16219-16221	is	_	_	_	
+103-18	16224-16229	owing	_	_	_	
+103-19	16230-16232	to	_	_	_	
+103-20	16233-16236	the	Taste Modifier[133]	_	_	
+103-21	16237-16243	malted	Taste Modifier[133]	_	_	
+103-22	16244-16249	grain	Taste Modifier[133]	_	_	
+103-23	16250-16255	being	Taste Modifier[133]	_	_	
+103-24	16256-16261	dried	Taste Modifier[133]	_	_	
+103-25	16262-16266	with	Taste Modifier[133]	_	_	
+103-26	16269-16273	peat	Taste Modifier[133]	_	_	
+103-27	16273-16274	,	_	_	_	
+103-28	16275-16278	the	Taste Carrier[134]	_	_	
+103-29	16279-16284	smoke	Taste Carrier[134]	_	_	
+103-30	16285-16287	of	Taste Carrier[134]	_	_	
+103-31	16288-16293	which	Taste Carrier[134]	_	_	
+103-32	16294-16299	gives	_	_	_	
+103-33	16300-16302	it	Taste Source	anaphorical	103-4[132_0]	
+103-34	16303-16306	the	_	_	_	
+103-35	16307-16313	charac	Quality[135]	_	_	
+103-36	16313-16314	-	Quality[135]	_	_	
+103-37	16317-16325	teristic	Quality[135]	_	_	
+103-38	16326-16331	taste	Taste Word	*|*|*	103-35[135_0]|103-20[133_0]|103-28[134_0]	
+103-39	16331-16332	.	_	_	_	
+
+#Text=The malt distiller is not allowed to fur- 
+#Text= nish, under a heavy penalty, any crude or 
+#Text= raw spirit to the rectiiier or manufacturer 
+#Text= of gin, of a greater strength than seven per 
+#Text= cent over proof.
+104-1	16338-16341	The	_	_	_	
+104-2	16342-16346	malt	_	_	_	
+104-3	16347-16356	distiller	_	_	_	
+104-4	16357-16359	is	_	_	_	
+104-5	16360-16363	not	_	_	_	
+104-6	16364-16371	allowed	_	_	_	
+104-7	16372-16374	to	_	_	_	
+104-8	16375-16378	fur	_	_	_	
+104-9	16378-16379	-	_	_	_	
+104-10	16382-16386	nish	_	_	_	
+104-11	16386-16387	,	_	_	_	
+104-12	16388-16393	under	_	_	_	
+104-13	16394-16395	a	_	_	_	
+104-14	16396-16401	heavy	_	_	_	
+104-15	16402-16409	penalty	_	_	_	
+104-16	16409-16410	,	_	_	_	
+104-17	16411-16414	any	_	_	_	
+104-18	16415-16420	crude	_	_	_	
+104-19	16421-16423	or	_	_	_	
+104-20	16426-16429	raw	_	_	_	
+104-21	16430-16436	spirit	_	_	_	
+104-22	16437-16439	to	_	_	_	
+104-23	16440-16443	the	_	_	_	
+104-24	16444-16453	rectiiier	_	_	_	
+104-25	16454-16456	or	_	_	_	
+104-26	16457-16469	manufacturer	_	_	_	
+104-27	16472-16474	of	_	_	_	
+104-28	16475-16478	gin	_	_	_	
+104-29	16478-16479	,	_	_	_	
+104-30	16480-16482	of	_	_	_	
+104-31	16483-16484	a	_	_	_	
+104-32	16485-16492	greater	_	_	_	
+104-33	16493-16501	strength	_	_	_	
+104-34	16502-16506	than	_	_	_	
+104-35	16507-16512	seven	_	_	_	
+104-36	16513-16516	per	_	_	_	
+104-37	16519-16523	cent	_	_	_	
+104-38	16524-16528	over	_	_	_	
+104-39	16529-16534	proof	_	_	_	
+104-40	16534-16535	.	_	_	_	
+
+#Text=The rectifier who receives 
+#Text= the spirit from the inalt distiller is not al- 
+#Text= lowed, under a certain penalty, to send out 
+#Text= the spirit to his customers greater than of a
+#Text= 
+#Text=  
+#Text= COUNTERFEIT PEPPER 291 
+#Text=  
+#Text= steeped in sea water and urine, and ex- 
+#Text= posed to the heat of the sun for several 
+#Text= days, till the rind or outer bark loosens ; it 
+#Text= is then taken out of the steep, and, when 
+#Text= dry, it is rubbed with the hand till the rind 
+#Text= falls off.
+105-1	16536-16539	The	_	_	_	
+105-2	16540-16549	rectifier	_	_	_	
+105-3	16550-16553	who	_	_	_	
+105-4	16554-16562	receives	_	_	_	
+105-5	16565-16568	the	_	_	_	
+105-6	16569-16575	spirit	_	_	_	
+105-7	16576-16580	from	_	_	_	
+105-8	16581-16584	the	_	_	_	
+105-9	16585-16590	inalt	_	_	_	
+105-10	16591-16600	distiller	_	_	_	
+105-11	16601-16603	is	_	_	_	
+105-12	16604-16607	not	_	_	_	
+105-13	16608-16610	al	_	_	_	
+105-14	16610-16611	-	_	_	_	
+105-15	16614-16619	lowed	_	_	_	
+105-16	16619-16620	,	_	_	_	
+105-17	16621-16626	under	_	_	_	
+105-18	16627-16628	a	_	_	_	
+105-19	16629-16636	certain	_	_	_	
+105-20	16637-16644	penalty	_	_	_	
+105-21	16644-16645	,	_	_	_	
+105-22	16646-16648	to	_	_	_	
+105-23	16649-16653	send	_	_	_	
+105-24	16654-16657	out	_	_	_	
+105-25	16660-16663	the	_	_	_	
+105-26	16664-16670	spirit	_	_	_	
+105-27	16671-16673	to	_	_	_	
+105-28	16674-16677	his	_	_	_	
+105-29	16678-16687	customers	_	_	_	
+105-30	16688-16695	greater	_	_	_	
+105-31	16696-16700	than	_	_	_	
+105-32	16701-16703	of	_	_	_	
+105-33	16704-16705	a	_	_	_	
+105-34	16712-16723	COUNTERFEIT	_	_	_	
+105-35	16724-16730	PEPPER	_	_	_	
+105-36	16731-16734	291	_	_	_	
+105-37	16740-16747	steeped	_	_	_	
+105-38	16748-16750	in	_	_	_	
+105-39	16751-16754	sea	_	_	_	
+105-40	16755-16760	water	_	_	_	
+105-41	16761-16764	and	_	_	_	
+105-42	16765-16770	urine	_	_	_	
+105-43	16770-16771	,	_	_	_	
+105-44	16772-16775	and	_	_	_	
+105-45	16776-16778	ex	_	_	_	
+105-46	16778-16779	-	_	_	_	
+105-47	16782-16787	posed	_	_	_	
+105-48	16788-16790	to	_	_	_	
+105-49	16791-16794	the	_	_	_	
+105-50	16795-16799	heat	_	_	_	
+105-51	16800-16802	of	_	_	_	
+105-52	16803-16806	the	_	_	_	
+105-53	16807-16810	sun	_	_	_	
+105-54	16811-16814	for	_	_	_	
+105-55	16815-16822	several	_	_	_	
+105-56	16825-16829	days	_	_	_	
+105-57	16829-16830	,	_	_	_	
+105-58	16831-16835	till	_	_	_	
+105-59	16836-16839	the	_	_	_	
+105-60	16840-16844	rind	_	_	_	
+105-61	16845-16847	or	_	_	_	
+105-62	16848-16853	outer	_	_	_	
+105-63	16854-16858	bark	_	_	_	
+105-64	16859-16866	loosens	_	_	_	
+105-65	16867-16868	;	_	_	_	
+105-66	16869-16871	it	_	_	_	
+105-67	16874-16876	is	_	_	_	
+105-68	16877-16881	then	_	_	_	
+105-69	16882-16887	taken	_	_	_	
+105-70	16888-16891	out	_	_	_	
+105-71	16892-16894	of	_	_	_	
+105-72	16895-16898	the	_	_	_	
+105-73	16899-16904	steep	_	_	_	
+105-74	16904-16905	,	_	_	_	
+105-75	16906-16909	and	_	_	_	
+105-76	16909-16910	,	_	_	_	
+105-77	16911-16915	when	_	_	_	
+105-78	16918-16921	dry	_	_	_	
+105-79	16921-16922	,	_	_	_	
+105-80	16923-16925	it	_	_	_	
+105-81	16926-16928	is	_	_	_	
+105-82	16929-16935	rubbed	_	_	_	
+105-83	16936-16940	with	_	_	_	
+105-84	16941-16944	the	_	_	_	
+105-85	16945-16949	hand	_	_	_	
+105-86	16950-16954	till	_	_	_	
+105-87	16955-16958	the	_	_	_	
+105-88	16959-16963	rind	_	_	_	
+105-89	16966-16971	falls	_	_	_	
+105-90	16972-16975	off	_	_	_	
+105-91	16975-16976	.	_	_	_	
+
+#Text=The white fruit is then dried, and 
+#Text= the remains of the rind blown away like 
+#Text= chaff.
+106-1	16977-16980	The	_	_	_	
+106-2	16981-16986	white	_	_	_	
+106-3	16987-16992	fruit	_	_	_	
+106-4	16993-16995	is	_	_	_	
+106-5	16996-17000	then	_	_	_	
+106-6	17001-17006	dried	_	_	_	
+106-7	17006-17007	,	_	_	_	
+106-8	17008-17011	and	_	_	_	
+106-9	17014-17017	the	_	_	_	
+106-10	17018-17025	remains	_	_	_	
+106-11	17026-17028	of	_	_	_	
+106-12	17029-17032	the	_	_	_	
+106-13	17033-17037	rind	_	_	_	
+106-14	17038-17043	blown	_	_	_	
+106-15	17044-17048	away	_	_	_	
+106-16	17049-17053	like	_	_	_	
+106-17	17056-17061	chaff	_	_	_	
+106-18	17061-17062	.	_	_	_	
+
+#Text=A great deal of the peculiar flavour 
+#Text= and pungent hot taste of the pepper is taken 
+#Text= off by this process.
+107-1	17063-17064	A	_	_	_	
+107-2	17065-17070	great	_	_	_	
+107-3	17071-17075	deal	_	_	_	
+107-4	17076-17078	of	_	_	_	
+107-5	17079-17082	the	_	_	_	
+107-6	17083-17091	peculiar	Quality	_	_	
+107-7	17092-17099	flavour	Taste Word	*	107-6	
+107-8	17102-17105	and	_	_	_	
+107-9	17106-17113	pungent	Taste Word[136]|Quality[137]	*	107-9[137_136]	
+107-10	17114-17117	hot	Quality	_	_	
+107-11	17118-17123	taste	Taste Word	*|*|*	107-10|107-9[137_0]|107-12[138_0]	
+107-12	17124-17126	of	Taste Source[138]	*	107-7[0_138]	
+107-13	17127-17130	the	Taste Source[138]	_	_	
+107-14	17131-17137	pepper	Taste Source[138]	_	_	
+107-15	17138-17140	is	_	_	_	
+107-16	17141-17146	taken	_	_	_	
+107-17	17149-17152	off	_	_	_	
+107-18	17153-17155	by	_	_	_	
+107-19	17156-17160	this	_	_	_	
+107-20	17161-17168	process	_	_	_	
+107-21	17168-17169	.	_	_	_	
+
+#Text=White pepper is al- 
+#Text= ways inferior in flavour and quality to 
+#Text= black pepper.
+108-1	17170-17175	White	Taste Source[139]	_	_	
+108-2	17176-17182	pepper	Taste Source[139]	_	_	
+108-3	17183-17185	is	_	_	_	
+108-4	17186-17188	al	_	_	_	
+108-5	17188-17189	-	_	_	_	
+108-6	17192-17196	ways	_	_	_	
+108-7	17197-17205	inferior	Quality	_	_	
+108-8	17206-17208	in	_	_	_	
+108-9	17209-17216	flavour	Taste Word	*|*|*	108-1[139_0]|108-7|108-12[140_0]	
+108-10	17217-17220	and	_	_	_	
+108-11	17221-17228	quality	_	_	_	
+108-12	17229-17231	to	Evoked Taste[140]	_	_	
+108-13	17234-17239	black	Evoked Taste[140]	_	_	
+108-14	17240-17246	pepper	Evoked Taste[140]	_	_	
+108-15	17246-17247	.	_	_	_	
+
+#Text=However, there is a sort of native white 
+#Text= pepper, produced on a species of the pepper 
+#Text= plant, which is much better than the facti-
+#Text=poppy oil.
+109-1	17253-17260	However	_	_	_	
+109-2	17260-17261	,	_	_	_	
+109-3	17262-17267	there	_	_	_	
+109-4	17268-17270	is	_	_	_	
+109-5	17271-17272	a	_	_	_	
+109-6	17273-17277	sort	_	_	_	
+109-7	17278-17280	of	_	_	_	
+109-8	17281-17287	native	_	_	_	
+109-9	17288-17293	white	_	_	_	
+109-10	17296-17302	pepper	_	_	_	
+109-11	17302-17303	,	_	_	_	
+109-12	17304-17312	produced	_	_	_	
+109-13	17313-17315	on	_	_	_	
+109-14	17316-17317	a	_	_	_	
+109-15	17318-17325	species	_	_	_	
+109-16	17326-17328	of	_	_	_	
+109-17	17329-17332	the	_	_	_	
+109-18	17333-17339	pepper	_	_	_	
+109-19	17342-17347	plant	_	_	_	
+109-20	17347-17348	,	_	_	_	
+109-21	17349-17354	which	_	_	_	
+109-22	17355-17357	is	_	_	_	
+109-23	17358-17362	much	_	_	_	
+109-24	17363-17369	better	_	_	_	
+109-25	17370-17374	than	_	_	_	
+109-26	17375-17378	the	_	_	_	
+109-27	17379-17384	facti	_	_	_	
+109-28	17384-17385	-	_	_	_	
+109-29	17386-17391	poppy	_	_	_	
+109-30	17392-17395	oil	_	_	_	
+109-31	17395-17396	.	_	_	_	
+
+#Text=Good olive oil should have a pale yellow 
+#Text= colour, somewhat inclining to green ; a 
+#Text= bland taste, without smell ; and should con- 
+#Text= geal at 38 Fahrenheit.
+110-1	17402-17406	Good	Taste Source[141]	_	_	
+110-2	17407-17412	olive	Taste Source[141]	_	_	
+110-3	17413-17416	oil	Taste Source[141]	_	_	
+110-4	17417-17423	should	_	_	_	
+110-5	17424-17428	have	_	_	_	
+110-6	17429-17430	a	_	_	_	
+110-7	17431-17435	pale	_	_	_	
+110-8	17436-17442	yellow	_	_	_	
+110-9	17445-17451	colour	_	_	_	
+110-10	17451-17452	,	_	_	_	
+110-11	17453-17461	somewhat	_	_	_	
+110-12	17462-17471	inclining	_	_	_	
+110-13	17472-17474	to	_	_	_	
+110-14	17475-17480	green	_	_	_	
+110-15	17481-17482	;	_	_	_	
+110-16	17483-17484	a	_	_	_	
+110-17	17487-17492	bland	Quality	_	_	
+110-18	17493-17498	taste	Taste Word	*|*	110-17|110-1[141_0]	
+110-19	17498-17499	,	_	_	_	
+110-20	17500-17507	without	_	_	_	
+110-21	17508-17513	smell	_	_	_	
+110-22	17514-17515	;	_	_	_	
+110-23	17516-17519	and	_	_	_	
+110-24	17520-17526	should	_	_	_	
+110-25	17527-17530	con	_	_	_	
+110-26	17530-17531	-	_	_	_	
+110-27	17534-17538	geal	_	_	_	
+110-28	17539-17541	at	_	_	_	
+110-29	17542-17544	38	_	_	_	
+110-30	17545-17555	Fahrenheit	_	_	_	
+110-31	17555-17556	.	_	_	_	
+
+#Text=In this country, it 
+#Text= is frequently met with rancid.
+111-1	17557-17559	In	_	_	_	
+111-2	17560-17564	this	_	_	_	
+111-3	17565-17572	country	_	_	_	
+111-4	17572-17573	,	_	_	_	
+111-5	17574-17576	it	_	_	_	
+111-6	17579-17581	is	_	_	_	
+111-7	17582-17592	frequently	_	_	_	
+111-8	17593-17596	met	_	_	_	
+111-9	17597-17601	with	_	_	_	
+111-10	17602-17608	rancid	Taste Word[142]|Quality[143]	*	111-10[143_142]	
+111-11	17608-17609	.	_	_	_	
+
+#Text=The presence of lead is detected by shak- 
+#Text= ing, in a stopped vial, one part of the sus- 
+#Text= pected oil, with two or three parts of water, 
+#Text= impregnated with sulphuretted hydrogen.
+112-1	17615-17618	The	_	_	_	
+112-2	17619-17627	presence	_	_	_	
+112-3	17628-17630	of	_	_	_	
+112-4	17631-17635	lead	_	_	_	
+112-5	17636-17638	is	_	_	_	
+112-6	17639-17647	detected	_	_	_	
+112-7	17648-17650	by	_	_	_	
+112-8	17651-17655	shak	_	_	_	
+112-9	17655-17656	-	_	_	_	
+112-10	17659-17662	ing	_	_	_	
+112-11	17662-17663	,	_	_	_	
+112-12	17664-17666	in	_	_	_	
+112-13	17667-17668	a	_	_	_	
+112-14	17669-17676	stopped	_	_	_	
+112-15	17677-17681	vial	_	_	_	
+112-16	17681-17682	,	_	_	_	
+112-17	17683-17686	one	_	_	_	
+112-18	17687-17691	part	_	_	_	
+112-19	17692-17694	of	_	_	_	
+112-20	17695-17698	the	_	_	_	
+112-21	17699-17702	sus	_	_	_	
+112-22	17702-17703	-	_	_	_	
+112-23	17706-17712	pected	_	_	_	
+112-24	17713-17716	oil	_	_	_	
+112-25	17716-17717	,	_	_	_	
+112-26	17718-17722	with	_	_	_	
+112-27	17723-17726	two	_	_	_	
+112-28	17727-17729	or	_	_	_	
+112-29	17730-17735	three	_	_	_	
+112-30	17736-17741	parts	_	_	_	
+112-31	17742-17744	of	_	_	_	
+112-32	17745-17750	water	_	_	_	
+112-33	17750-17751	,	_	_	_	
+112-34	17754-17765	impregnated	_	_	_	
+112-35	17766-17770	with	_	_	_	
+112-36	17771-17783	sulphuretted	_	_	_	
+112-37	17784-17792	hydrogen	_	_	_	
+112-38	17792-17793	.	_	_	_	
+
+#Text=This agent will render the oil of a dark 
+#Text= brown or black colour, if any metal, delete- 
+#Text= rious to health, be present.
+113-1	17796-17800	This	_	_	_	
+113-2	17801-17806	agent	_	_	_	
+113-3	17807-17811	will	_	_	_	
+113-4	17812-17818	render	_	_	_	
+113-5	17819-17822	the	_	_	_	
+113-6	17823-17826	oil	_	_	_	
+113-7	17827-17829	of	_	_	_	
+113-8	17830-17831	a	_	_	_	
+113-9	17832-17836	dark	_	_	_	
+113-10	17839-17844	brown	_	_	_	
+113-11	17845-17847	or	_	_	_	
+113-12	17848-17853	black	_	_	_	
+113-13	17854-17860	colour	_	_	_	
+113-14	17860-17861	,	_	_	_	
+113-15	17862-17864	if	_	_	_	
+113-16	17865-17868	any	_	_	_	
+113-17	17869-17874	metal	_	_	_	
+113-18	17874-17875	,	_	_	_	
+113-19	17876-17882	delete	_	_	_	
+113-20	17882-17883	-	_	_	_	
+113-21	17886-17891	rious	_	_	_	
+113-22	17892-17894	to	_	_	_	
+113-23	17895-17901	health	_	_	_	
+113-24	17901-17902	,	_	_	_	
+113-25	17903-17905	be	_	_	_	
+113-26	17906-17913	present	_	_	_	
+113-27	17913-17914	.	_	_	_	
+
+#Text=The practice of 
+#Text= keeping this oil in pewter or leaden cisterns, 
+#Text=  
+#Text=  
+#Text=  
+#Text= 320 POISONOUS OLIVE OIL.
+114-1	17915-17918	The	_	_	_	
+114-2	17919-17927	practice	_	_	_	
+114-3	17928-17930	of	_	_	_	
+114-4	17933-17940	keeping	_	_	_	
+114-5	17941-17945	this	_	_	_	
+114-6	17946-17949	oil	_	_	_	
+114-7	17950-17952	in	_	_	_	
+114-8	17953-17959	pewter	_	_	_	
+114-9	17960-17962	or	_	_	_	
+114-10	17963-17969	leaden	_	_	_	
+114-11	17970-17978	cisterns	_	_	_	
+114-12	17978-17979	,	_	_	_	
+114-13	17991-17994	320	_	_	_	
+114-14	17995-18004	POISONOUS	_	_	_	
+114-15	18005-18010	OLIVE	_	_	_	
+114-16	18011-18014	OIL	_	_	_	
+114-17	18014-18015	.	_	_	_	
+
+#Text=of 
+#Text=  
+#Text=  
+#Text=  
+#Text= ISINGLASS may be considered as an ali- 
+#Text= mentary substance employed in dometie 
+#Text= economy.
+115-1	18022-18024	of	_	_	_	
+115-2	18036-18045	ISINGLASS	_	_	_	
+115-3	18046-18049	may	_	_	_	
+115-4	18050-18052	be	_	_	_	
+115-5	18053-18063	considered	_	_	_	
+115-6	18064-18066	as	_	_	_	
+115-7	18067-18069	an	_	_	_	
+115-8	18070-18073	ali	_	_	_	
+115-9	18073-18074	-	_	_	_	
+115-10	18077-18084	mentary	_	_	_	
+115-11	18085-18094	substance	_	_	_	
+115-12	18095-18103	employed	_	_	_	
+115-13	18104-18106	in	_	_	_	
+115-14	18107-18114	dometie	_	_	_	
+115-15	18117-18124	economy	_	_	_	
+115-16	18124-18125	.	_	_	_	
+
+#Text=By boiling isinglass in water, it 
+#Text= becomes dissolved, and furnishes a mild 
+#Text= tremulous jelly, which, when seasoned with 
+#Text= cream, bitter almonds, and sugar, is called 
+#Text= blanc-mange; and when seasoned with 
+#Text= lemon juice, sugar, and aromatics, forms 
+#Text= the basis of many delicacies for the table.
+116-1	18126-18128	By	_	_	_	
+116-2	18129-18136	boiling	_	_	_	
+116-3	18137-18146	isinglass	Taste Source	_	_	
+116-4	18147-18149	in	_	_	_	
+116-5	18150-18155	water	_	_	_	
+116-6	18155-18156	,	_	_	_	
+116-7	18157-18159	it	_	_	_	
+116-8	18162-18169	becomes	_	_	_	
+116-9	18170-18179	dissolved	_	_	_	
+116-10	18179-18180	,	_	_	_	
+116-11	18181-18184	and	_	_	_	
+116-12	18185-18194	furnishes	_	_	_	
+116-13	18195-18196	a	_	_	_	
+116-14	18197-18201	mild	_	_	_	
+116-15	18204-18213	tremulous	_	_	_	
+116-16	18214-18219	jelly	_	_	_	
+116-17	18219-18220	,	_	_	_	
+116-18	18221-18226	which	_	_	_	
+116-19	18226-18227	,	_	_	_	
+116-20	18228-18232	when	_	_	_	
+116-21	18233-18241	seasoned	Taste Word[144]|Quality[145]	*|*|*|*|*	116-21[145_144]|116-3[0_144]|116-22[146_144]|116-25[147_144]|116-29[0_144]	
+116-22	18242-18246	with	Taste Modifier[146]	_	_	
+116-23	18249-18254	cream	Taste Modifier[146]	_	_	
+116-24	18254-18255	,	_	_	_	
+116-25	18256-18262	bitter	Taste Modifier[147]|Quality[148]|Taste Word[149]	*|*	116-25[148_149]|116-26[150_149]	
+116-26	18263-18270	almonds	Taste Modifier[147]|Taste Source[150]	_	_	
+116-27	18270-18271	,	_	_	_	
+116-28	18272-18275	and	_	_	_	
+116-29	18276-18281	sugar	Taste Modifier	_	_	
+116-30	18281-18282	,	_	_	_	
+116-31	18283-18285	is	_	_	_	
+116-32	18286-18292	called	_	_	_	
+116-33	18295-18306	blanc-mange	_	_	_	
+116-34	18306-18307	;	_	_	_	
+116-35	18308-18311	and	_	_	_	
+116-36	18312-18316	when	_	_	_	
+116-37	18317-18325	seasoned	Taste Word[151]|Quality[152]	*|*|*|*	116-37[152_151]|116-45[0_151]|116-42[0_151]|116-38[153_151]	
+116-38	18326-18330	with	Taste Modifier[153]	_	_	
+116-39	18333-18338	lemon	Taste Modifier[153]	_	_	
+116-40	18339-18344	juice	Taste Modifier[153]	_	_	
+116-41	18344-18345	,	_	_	_	
+116-42	18346-18351	sugar	Taste Modifier	_	_	
+116-43	18351-18352	,	_	_	_	
+116-44	18353-18356	and	_	_	_	
+116-45	18357-18366	aromatics	Taste Modifier	_	_	
+116-46	18366-18367	,	_	_	_	
+116-47	18368-18373	forms	_	_	_	
+116-48	18376-18379	the	_	_	_	
+116-49	18380-18385	basis	_	_	_	
+116-50	18386-18388	of	_	_	_	
+116-51	18389-18393	many	Quality	_	_	
+116-52	18394-18404	delicacies	Taste Word	*	116-51	
+116-53	18405-18408	for	_	_	_	
+116-54	18409-18412	the	_	_	_	
+116-55	18413-18418	table	_	_	_	
+116-56	18418-18419	.	_	_	_	
+
+#Text=It is also employed in domestic use in the 
+#Text= clarification of various liquors ; and if small 
+#Text= shreds are thrown into boiling coffee, it 
+#Text= renders it clear in a few minutes.
+117-1	18422-18424	It	_	_	_	
+117-2	18425-18427	is	_	_	_	
+117-3	18428-18432	also	_	_	_	
+117-4	18433-18441	employed	_	_	_	
+117-5	18442-18444	in	_	_	_	
+117-6	18445-18453	domestic	_	_	_	
+117-7	18454-18457	use	_	_	_	
+117-8	18458-18460	in	_	_	_	
+117-9	18461-18464	the	_	_	_	
+117-10	18467-18480	clarification	_	_	_	
+117-11	18481-18483	of	_	_	_	
+117-12	18484-18491	various	_	_	_	
+117-13	18492-18499	liquors	_	_	_	
+117-14	18500-18501	;	_	_	_	
+117-15	18502-18505	and	_	_	_	
+117-16	18506-18508	if	_	_	_	
+117-17	18509-18514	small	_	_	_	
+117-18	18517-18523	shreds	_	_	_	
+117-19	18524-18527	are	_	_	_	
+117-20	18528-18534	thrown	_	_	_	
+117-21	18535-18539	into	_	_	_	
+117-22	18540-18547	boiling	_	_	_	
+117-23	18548-18554	coffee	_	_	_	
+117-24	18554-18555	,	_	_	_	
+117-25	18556-18558	it	_	_	_	
+117-26	18561-18568	renders	_	_	_	
+117-27	18569-18571	it	_	_	_	
+117-28	18572-18577	clear	_	_	_	
+117-29	18578-18580	in	_	_	_	
+117-30	18581-18582	a	_	_	_	
+117-31	18583-18586	few	_	_	_	
+117-32	18587-18594	minutes	_	_	_	
+117-33	18594-18595	.	_	_	_	
+
+#Text=<tnttamom 
+#Text=  
+#Text=  
+#Text=  
+#Text= CINNAMON is often adulterated with cassia 
+#Text= bark, or by mixing 1 with the genuine cinna- 
+#Text= mon, a portion of cinnamon bark which 
+#Text= has been deprived of its essential oil by 
+#Text= distillation.
+118-1	18608-18609	<	_	_	_	
+118-2	18609-18617	tnttamom	_	_	_	
+118-3	18629-18637	CINNAMON	_	_	_	
+118-4	18638-18640	is	_	_	_	
+118-5	18641-18646	often	_	_	_	
+118-6	18647-18658	adulterated	_	_	_	
+118-7	18659-18663	with	_	_	_	
+118-8	18664-18670	cassia	_	_	_	
+118-9	18673-18677	bark	_	_	_	
+118-10	18677-18678	,	_	_	_	
+118-11	18679-18681	or	_	_	_	
+118-12	18682-18684	by	_	_	_	
+118-13	18685-18691	mixing	_	_	_	
+118-14	18692-18693	1	_	_	_	
+118-15	18694-18698	with	_	_	_	
+118-16	18699-18702	the	_	_	_	
+118-17	18703-18710	genuine	_	_	_	
+118-18	18711-18716	cinna	_	_	_	
+118-19	18716-18717	-	_	_	_	
+118-20	18720-18723	mon	_	_	_	
+118-21	18723-18724	,	_	_	_	
+118-22	18725-18726	a	_	_	_	
+118-23	18727-18734	portion	_	_	_	
+118-24	18735-18737	of	_	_	_	
+118-25	18738-18746	cinnamon	_	_	_	
+118-26	18747-18751	bark	_	_	_	
+118-27	18752-18757	which	_	_	_	
+118-28	18760-18763	has	_	_	_	
+118-29	18764-18768	been	_	_	_	
+118-30	18769-18777	deprived	_	_	_	
+118-31	18778-18780	of	_	_	_	
+118-32	18781-18784	its	_	_	_	
+118-33	18785-18794	essential	_	_	_	
+118-34	18795-18798	oil	_	_	_	
+118-35	18799-18801	by	_	_	_	
+118-36	18804-18816	distillation	_	_	_	
+118-37	18816-18817	.	_	_	_	
+
+#Text=The best cinnamon is rather pliable, and 
+#Text= ought not much to exceed stout writing 
+#Text= paper in thickness.
+119-1	18823-18826	The	Taste Source[154]	_	_	
+119-2	18827-18831	best	Taste Source[154]	_	_	
+119-3	18832-18840	cinnamon	Taste Source[154]|Taste Source[155]	_	_	
+119-4	18841-18843	is	_	_	_	
+119-5	18844-18850	rather	_	_	_	
+119-6	18851-18858	pliable	_	_	_	
+119-7	18858-18859	,	_	_	_	
+119-8	18860-18863	and	_	_	_	
+119-9	18866-18871	ought	_	_	_	
+119-10	18872-18875	not	_	_	_	
+119-11	18876-18880	much	_	_	_	
+119-12	18881-18883	to	_	_	_	
+119-13	18884-18890	exceed	_	_	_	
+119-14	18891-18896	stout	_	_	_	
+119-15	18897-18904	writing	_	_	_	
+119-16	18907-18912	paper	_	_	_	
+119-17	18913-18915	in	_	_	_	
+119-18	18916-18925	thickness	_	_	_	
+119-19	18925-18926	.	_	_	_	
+
+#Text=It is of a light yellow- 
+#Text= ish colour; it possesses a sweet taste, not 
+#Text= so hot as to occasion pain, and not suc- 
+#Text= ceeded by any aftertaste.
+120-1	18927-18929	It	_	_	_	
+120-2	18930-18932	is	_	_	_	
+120-3	18933-18935	of	_	_	_	
+120-4	18936-18937	a	_	_	_	
+120-5	18938-18943	light	_	_	_	
+120-6	18944-18950	yellow	_	_	_	
+120-7	18950-18951	-	_	_	_	
+120-8	18954-18957	ish	_	_	_	
+120-9	18958-18964	colour	_	_	_	
+120-10	18964-18965	;	_	_	_	
+120-11	18966-18968	it	_	_	_	
+120-12	18969-18978	possesses	_	_	_	
+120-13	18979-18980	a	_	_	_	
+120-14	18981-18986	sweet	Taste Word[156]|Quality[157]	*	120-14[157_156]	
+120-15	18987-18992	taste	Taste Word	*|*|*	120-14[157_0]|119-1[154_0]|120-17[158_0]	
+120-16	18992-18993	,	_	_	_	
+120-17	18994-18997	not	Effect[158]	_	_	
+120-18	19000-19002	so	Effect[158]	_	_	
+120-19	19003-19006	hot	Effect[158]	_	_	
+120-20	19007-19009	as	Effect[158]	_	_	
+120-21	19010-19012	to	Effect[158]	_	_	
+120-22	19013-19021	occasion	Effect[158]	_	_	
+120-23	19022-19026	pain	Effect[158]	_	_	
+120-24	19026-19027	,	Effect[158]	_	_	
+120-25	19028-19031	and	Effect[158]	_	_	
+120-26	19032-19035	not	Effect[158]	_	_	
+120-27	19036-19039	suc	Effect[158]	_	_	
+120-28	19039-19040	-	Effect[158]	_	_	
+120-29	19043-19049	ceeded	Effect[158]	_	_	
+120-30	19050-19052	by	Effect[158]	_	_	
+120-31	19053-19056	any	Effect[158]|Quality[159]	_	_	
+120-32	19057-19067	aftertaste	Effect[158]|Taste Word[160]	*|*	120-31[159_160]|119-1[154_160]	
+120-33	19067-19068	.	Effect[158]	_	_	
+
+#Text=The inferior 
+#Text= kind is distinguished by being thicker, of
+#Text=a darker and brownish colour, hot and pun- 
+#Text=  
+#Text=  
+#Text=  
+#Text= ADULTERATION OF CINNAMON. 345 
+#Text=  
+#Text= gent when chewed, and succeeded by a 
+#Text= disagreeable bitter after-taste.
+121-1	19069-19072	The	_	_	_	
+121-2	19073-19081	inferior	_	_	_	
+121-3	19084-19088	kind	_	_	_	
+121-4	19089-19091	is	_	_	_	
+121-5	19092-19105	distinguished	_	_	_	
+121-6	19106-19108	by	_	_	_	
+121-7	19109-19114	being	_	_	_	
+121-8	19115-19122	thicker	_	_	_	
+121-9	19122-19123	,	_	_	_	
+121-10	19124-19126	of	_	_	_	
+121-11	19127-19128	a	_	_	_	
+121-12	19129-19135	darker	_	_	_	
+121-13	19136-19139	and	_	_	_	
+121-14	19140-19148	brownish	_	_	_	
+121-15	19149-19155	colour	_	_	_	
+121-16	19155-19156	,	_	_	_	
+121-17	19157-19160	hot	_	_	_	
+121-18	19161-19164	and	_	_	_	
+121-19	19165-19168	pun	_	_	_	
+121-20	19168-19169	-	_	_	_	
+121-21	19181-19193	ADULTERATION	_	_	_	
+121-22	19194-19196	OF	_	_	_	
+121-23	19197-19205	CINNAMON	Taste Source	_	_	
+121-24	19205-19206	.	_	_	_	
+121-25	19207-19210	345	_	_	_	
+121-26	19216-19220	gent	_	_	_	
+121-27	19221-19225	when	Circumstance[161]	_	_	
+121-28	19226-19232	chewed	Circumstance[161]	_	_	
+121-29	19232-19233	,	_	_	_	
+121-30	19234-19237	and	_	_	_	
+121-31	19238-19247	succeeded	_	_	_	
+121-32	19248-19250	by	_	_	_	
+121-33	19251-19252	a	_	_	_	
+121-34	19255-19267	disagreeable	Quality	_	_	
+121-35	19268-19274	bitter	Quality[162]|Taste Word[163]	*	121-35[162_163]	
+121-36	19275-19286	after-taste	Taste Word	*|*|*|*|*	121-35[162_0]|121-34|121-27[161_0]|119-3[155_0]|121-23	
+121-37	19286-19287	.	_	_	_	
+
+#Text=The cassia 
+#Text= bark, which greatly resembles the true cin- 
+#Text= namon, is thicker, and of a coarser texture, 
+#Text= and breaks short and smooth, whilst true 
+#Text= cinnamon breaks fibrous and splintery.
+122-1	19288-19291	The	_	_	_	
+122-2	19292-19298	cassia	_	_	_	
+122-3	19301-19305	bark	_	_	_	
+122-4	19305-19306	,	_	_	_	
+122-5	19307-19312	which	_	_	_	
+122-6	19313-19320	greatly	_	_	_	
+122-7	19321-19330	resembles	_	_	_	
+122-8	19331-19334	the	_	_	_	
+122-9	19335-19339	true	_	_	_	
+122-10	19340-19343	cin	_	_	_	
+122-11	19343-19344	-	_	_	_	
+122-12	19347-19352	namon	_	_	_	
+122-13	19352-19353	,	_	_	_	
+122-14	19354-19356	is	_	_	_	
+122-15	19357-19364	thicker	_	_	_	
+122-16	19364-19365	,	_	_	_	
+122-17	19366-19369	and	_	_	_	
+122-18	19370-19372	of	_	_	_	
+122-19	19373-19374	a	_	_	_	
+122-20	19375-19382	coarser	_	_	_	
+122-21	19383-19390	texture	_	_	_	
+122-22	19390-19391	,	_	_	_	
+122-23	19394-19397	and	_	_	_	
+122-24	19398-19404	breaks	_	_	_	
+122-25	19405-19410	short	_	_	_	
+122-26	19411-19414	and	_	_	_	
+122-27	19415-19421	smooth	_	_	_	
+122-28	19421-19422	,	_	_	_	
+122-29	19423-19429	whilst	_	_	_	
+122-30	19430-19434	true	_	_	_	
+122-31	19437-19445	cinnamon	_	_	_	
+122-32	19446-19452	breaks	_	_	_	
+122-33	19453-19460	fibrous	_	_	_	
+122-34	19461-19464	and	_	_	_	
+122-35	19465-19474	splintery	_	_	_	
+122-36	19474-19475	.	_	_	_	
+
+#Text=Cassia has a slimy mucilagenous taste, and 
+#Text= without any of the roughness of the true 
+#Text= cinnamon bark.
+123-1	19478-19484	Cassia	Taste Source	_	_	
+123-2	19485-19488	has	_	_	_	
+123-3	19489-19490	a	_	_	_	
+123-4	19491-19496	slimy	Quality	_	_	
+123-5	19497-19509	mucilagenous	Quality	_	_	
+123-6	19510-19515	taste	Taste Word	*|*|*	123-5|123-4|123-1	
+123-7	19515-19516	,	_	_	_	
+123-8	19517-19520	and	_	_	_	
+123-9	19523-19530	without	_	_	_	
+123-10	19531-19534	any	_	_	_	
+123-11	19535-19537	of	_	_	_	
+123-12	19538-19541	the	_	_	_	
+123-13	19542-19551	roughness	_	_	_	
+123-14	19552-19554	of	_	_	_	
+123-15	19555-19558	the	_	_	_	
+123-16	19559-19563	true	_	_	_	
+123-17	19566-19574	cinnamon	_	_	_	
+123-18	19575-19579	bark	_	_	_	
+123-19	19579-19580	.	_	_	_	
+
+#Text=Q5
+124-1	19592-19594	Q5	_	_	_	

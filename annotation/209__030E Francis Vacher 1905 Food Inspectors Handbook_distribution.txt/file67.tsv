@@ -1,0 +1,4828 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+#T_RL=custom.Relation|label|BT_custom.Span
+
+
+#Text=Carrots, Parsnips, and Beetroot are distinguished among 
+#Text= vegetables for their richness in sugar.
+1-1	1-8	Carrots	_	_	_	
+1-2	8-9	,	_	_	_	
+1-3	10-18	Parsnips	_	_	_	
+1-4	18-19	,	_	_	_	
+1-5	20-23	and	_	_	_	
+1-6	24-32	Beetroot	_	_	_	
+1-7	33-36	are	_	_	_	
+1-8	37-50	distinguished	_	_	_	
+1-9	51-56	among	_	_	_	
+1-10	59-69	vegetables	_	_	_	
+1-11	70-73	for	_	_	_	
+1-12	74-79	their	_	_	_	
+1-13	80-88	richness	_	_	_	
+1-14	89-91	in	_	_	_	
+1-15	92-97	sugar	_	_	_	
+1-16	97-98	.	_	_	_	
+
+#Text=Bread has heen made 
+#Text= from all of them.
+2-1	99-104	Bread	_	_	_	
+2-2	105-108	has	_	_	_	
+2-3	109-113	heen	_	_	_	
+2-4	114-118	made	_	_	_	
+2-5	121-125	from	_	_	_	
+2-6	126-129	all	_	_	_	
+2-7	130-132	of	_	_	_	
+2-8	133-137	them	_	_	_	
+2-9	137-138	.	_	_	_	
+
+#Text=When in great abundance they are 
+#Text= sometimes used in distilleries for making spirits.
+3-1	139-143	When	_	_	_	
+3-2	144-146	in	_	_	_	
+3-3	147-152	great	_	_	_	
+3-4	153-162	abundance	_	_	_	
+3-5	163-167	they	_	_	_	
+3-6	168-171	are	_	_	_	
+3-7	174-183	sometimes	_	_	_	
+3-8	184-188	used	_	_	_	
+3-9	189-191	in	_	_	_	
+3-10	192-204	distilleries	_	_	_	
+3-11	205-208	for	_	_	_	
+3-12	209-215	making	_	_	_	
+3-13	216-223	spirits	_	_	_	
+3-14	223-224	.	_	_	_	
+
+#Text=Carrots should be light red or yellow, of a regular conical 
+#Text= shape, sweet and crisp.
+4-1	230-237	Carrots	Taste Source	_	_	
+4-2	238-244	should	_	_	_	
+4-3	245-247	be	_	_	_	
+4-4	248-253	light	_	_	_	
+4-5	254-257	red	_	_	_	
+4-6	258-260	or	_	_	_	
+4-7	261-267	yellow	_	_	_	
+4-8	267-268	,	_	_	_	
+4-9	269-271	of	_	_	_	
+4-10	272-273	a	_	_	_	
+4-11	274-281	regular	_	_	_	
+4-12	282-289	conical	_	_	_	
+4-13	292-297	shape	_	_	_	
+4-14	297-298	,	_	_	_	
+4-15	299-304	sweet	Taste Word[1]|Quality[2]	*|*	4-15[2_1]|4-1[0_1]	
+4-16	305-308	and	_	_	_	
+4-17	309-314	crisp	_	_	_	
+4-18	314-315	.	_	_	_	
+
+#Text=Young carrots are more tender and 
+#Text= are preferred for the table.
+5-1	316-321	Young	_	_	_	
+5-2	322-329	carrots	_	_	_	
+5-3	330-333	are	_	_	_	
+5-4	334-338	more	_	_	_	
+5-5	339-345	tender	_	_	_	
+5-6	346-349	and	_	_	_	
+5-7	352-355	are	_	_	_	
+5-8	356-365	preferred	_	_	_	
+5-9	366-369	for	_	_	_	
+5-10	370-373	the	_	_	_	
+5-11	374-379	table	_	_	_	
+5-12	379-380	.	_	_	_	
+
+#Text=They are in season from April 
+#Text= till June.
+6-1	381-385	They	_	_	_	
+6-2	386-389	are	_	_	_	
+6-3	390-392	in	_	_	_	
+6-4	393-399	season	_	_	_	
+6-5	400-404	from	_	_	_	
+6-6	405-410	April	_	_	_	
+6-7	413-417	till	_	_	_	
+6-8	418-422	June	_	_	_	
+6-9	422-423	.	_	_	_	
+
+#Text=Parsnips should be buff in colour, unforked in the roots, 
+#Text= sweet and crisp.
+7-1	429-437	Parsnips	Taste Source	_	_	
+7-2	438-444	should	_	_	_	
+7-3	445-447	be	_	_	_	
+7-4	448-452	buff	_	_	_	
+7-5	453-455	in	_	_	_	
+7-6	456-462	colour	_	_	_	
+7-7	462-463	,	_	_	_	
+7-8	464-472	unforked	_	_	_	
+7-9	473-475	in	_	_	_	
+7-10	476-479	the	_	_	_	
+7-11	480-485	roots	_	_	_	
+7-12	485-486	,	_	_	_	
+7-13	489-494	sweet	Taste Word[3]|Quality[4]	*|*	7-13[4_3]|7-1[0_3]	
+7-14	495-498	and	_	_	_	
+7-15	499-504	crisp	_	_	_	
+7-16	504-505	.	_	_	_	
+
+#Text=They are in season winter and spring.
+8-1	506-510	They	_	_	_	
+8-2	511-514	are	_	_	_	
+8-3	515-517	in	_	_	_	
+8-4	518-524	season	_	_	_	
+8-5	525-531	winter	_	_	_	
+8-6	532-535	and	_	_	_	
+8-7	536-542	spring	_	_	_	
+8-8	542-543	.	_	_	_	
+
+#Text=They should be stored in dry sand.
+9-1	544-548	They	_	_	_	
+9-2	549-555	should	_	_	_	
+9-3	556-558	be	_	_	_	
+9-4	559-565	stored	_	_	_	
+9-5	566-568	in	_	_	_	
+9-6	569-572	dry	_	_	_	
+9-7	573-577	sand	_	_	_	
+9-8	577-578	.	_	_	_	
+
+#Text=Beetroot should be deep red, or purple, of a long oval or 
+#Text= globular shape, fine-grained, sweet and delicate in flavour.
+10-1	584-592	Beetroot	Taste Source	_	_	
+10-2	593-599	should	_	_	_	
+10-3	600-602	be	_	_	_	
+10-4	603-607	deep	_	_	_	
+10-5	608-611	red	_	_	_	
+10-6	611-612	,	_	_	_	
+10-7	613-615	or	_	_	_	
+10-8	616-622	purple	_	_	_	
+10-9	622-623	,	_	_	_	
+10-10	624-626	of	_	_	_	
+10-11	627-628	a	_	_	_	
+10-12	629-633	long	_	_	_	
+10-13	634-638	oval	_	_	_	
+10-14	639-641	or	_	_	_	
+10-15	644-652	globular	_	_	_	
+10-16	653-658	shape	_	_	_	
+10-17	658-659	,	_	_	_	
+10-18	660-672	fine-grained	_	_	_	
+10-19	672-673	,	_	_	_	
+10-20	674-679	sweet	Quality[5]|Taste Word[6]	*	10-20[5_6]	
+10-21	680-683	and	_	_	_	
+10-22	684-692	delicate	Quality	_	_	
+10-23	693-695	in	_	_	_	
+10-24	696-703	flavour	Taste Word	*|*|*	10-22|10-20[5_0]|10-1	
+10-25	703-704	.	_	_	_	
+
+#Text=It keeps well in dry sand, and is always seasonable.
+11-1	707-709	It	_	_	_	
+11-2	710-715	keeps	_	_	_	
+11-3	716-720	well	_	_	_	
+11-4	721-723	in	_	_	_	
+11-5	724-727	dry	_	_	_	
+11-6	728-732	sand	_	_	_	
+11-7	732-733	,	_	_	_	
+11-8	734-737	and	_	_	_	
+11-9	738-740	is	_	_	_	
+11-10	741-747	always	_	_	_	
+11-11	748-758	seasonable	_	_	_	
+11-12	758-759	.	_	_	_	
+
+#Text=The larvce of the carrot-fly burrow into and spoil carrots 
+#Text= and parsnips, often causing them to shrivel.
+12-1	765-768	The	_	_	_	
+12-2	769-775	larvce	_	_	_	
+12-3	776-778	of	_	_	_	
+12-4	779-782	the	_	_	_	
+12-5	783-793	carrot-fly	_	_	_	
+12-6	794-800	burrow	_	_	_	
+12-7	801-805	into	_	_	_	
+12-8	806-809	and	_	_	_	
+12-9	810-815	spoil	_	_	_	
+12-10	816-823	carrots	_	_	_	
+12-11	826-829	and	_	_	_	
+12-12	830-838	parsnips	_	_	_	
+12-13	838-839	,	_	_	_	
+12-14	840-845	often	_	_	_	
+12-15	846-853	causing	_	_	_	
+12-16	854-858	them	_	_	_	
+12-17	859-861	to	_	_	_	
+12-18	862-869	shrivel	_	_	_	
+12-19	869-870	.	_	_	_	
+
+#Text=A mildew also 
+#Text= attacks parsnip roots.
+13-1	871-872	A	_	_	_	
+13-2	873-879	mildew	_	_	_	
+13-3	880-884	also	_	_	_	
+13-4	887-894	attacks	_	_	_	
+13-5	895-902	parsnip	_	_	_	
+13-6	903-908	roots	_	_	_	
+13-7	908-909	.	_	_	_	
+
+#Text=Beetroot is liable to be damaged by 
+#Text= a nematode — the male of which is like a worm, the female 
+#Text= lemon-shaped.
+14-1	910-918	Beetroot	_	_	_	
+14-2	919-921	is	_	_	_	
+14-3	922-928	liable	_	_	_	
+14-4	929-931	to	_	_	_	
+14-5	932-934	be	_	_	_	
+14-6	935-942	damaged	_	_	_	
+14-7	943-945	by	_	_	_	
+14-8	948-949	a	_	_	_	
+14-9	950-958	nematode	_	_	_	
+14-10	959-960	—	_	_	_	
+14-11	961-964	the	_	_	_	
+14-12	965-969	male	_	_	_	
+14-13	970-972	of	_	_	_	
+14-14	973-978	which	_	_	_	
+14-15	979-981	is	_	_	_	
+14-16	982-986	like	_	_	_	
+14-17	987-988	a	_	_	_	
+14-18	989-993	worm	_	_	_	
+14-19	993-994	,	_	_	_	
+14-20	995-998	the	_	_	_	
+14-21	999-1005	female	_	_	_	
+14-22	1008-1020	lemon-shaped	_	_	_	
+14-23	1020-1021	.	_	_	_	
+
+#Text=Celery should be nearly white in colour, large, crisp, 
+#Text= solid, and nutty in flavour.
+15-1	1027-1033	Celery	Taste Source	_	_	
+15-2	1034-1040	should	_	_	_	
+15-3	1041-1043	be	_	_	_	
+15-4	1044-1050	nearly	_	_	_	
+15-5	1051-1056	white	_	_	_	
+15-6	1057-1059	in	_	_	_	
+15-7	1060-1066	colour	_	_	_	
+15-8	1066-1067	,	_	_	_	
+15-9	1068-1073	large	_	_	_	
+15-10	1073-1074	,	_	_	_	
+15-11	1075-1080	crisp	_	_	_	
+15-12	1080-1081	,	_	_	_	
+15-13	1084-1089	solid	_	_	_	
+15-14	1089-1090	,	_	_	_	
+15-15	1091-1094	and	_	_	_	
+15-16	1095-1100	nutty	Quality	_	_	
+15-17	1101-1103	in	_	_	_	
+15-18	1104-1111	flavour	Taste Word	*|*	15-16|15-1	
+15-19	1111-1112	.	_	_	_	
+
+#Text=It is in season in winter and 
+#Text= spring.
+16-1	1113-1115	It	_	_	_	
+16-2	1116-1118	is	_	_	_	
+16-3	1119-1121	in	_	_	_	
+16-4	1122-1128	season	_	_	_	
+16-5	1129-1131	in	_	_	_	
+16-6	1132-1138	winter	_	_	_	
+16-7	1139-1142	and	_	_	_	
+16-8	1145-1151	spring	_	_	_	
+16-9	1151-1152	.	_	_	_	
+
+#Text=It is fit for use for some time after being gathered.
+17-1	1153-1155	It	_	_	_	
+17-2	1156-1158	is	_	_	_	
+17-3	1159-1162	fit	_	_	_	
+17-4	1163-1166	for	_	_	_	
+17-5	1167-1170	use	_	_	_	
+17-6	1171-1174	for	_	_	_	
+17-7	1175-1179	some	_	_	_	
+17-8	1180-1184	time	_	_	_	
+17-9	1185-1190	after	_	_	_	
+17-10	1191-1196	being	_	_	_	
+17-11	1197-1205	gathered	_	_	_	
+17-12	1205-1206	.	_	_	_	
+
+#Text=There is a variety of celery in which the root is large and 
+#Text= turnip-shaped.
+18-1	1209-1214	There	_	_	_	
+18-2	1215-1217	is	_	_	_	
+18-3	1218-1219	a	_	_	_	
+18-4	1220-1227	variety	_	_	_	
+18-5	1228-1230	of	_	_	_	
+18-6	1231-1237	celery	_	_	_	
+18-7	1238-1240	in	_	_	_	
+18-8	1241-1246	which	_	_	_	
+18-9	1247-1250	the	_	_	_	
+18-10	1251-1255	root	_	_	_	
+18-11	1256-1258	is	_	_	_	
+18-12	1259-1264	large	_	_	_	
+18-13	1265-1268	and	_	_	_	
+18-14	1271-1284	turnip-shaped	_	_	_	
+18-15	1284-1285	.	_	_	_	
+
+#Text=This has been called celeriac.
+19-1	1286-1290	This	_	_	_	
+19-2	1291-1294	has	_	_	_	
+19-3	1295-1299	been	_	_	_	
+19-4	1300-1306	called	_	_	_	
+19-5	1307-1315	celeriac	Taste Source	_	_	
+19-6	1315-1316	.	_	_	_	
+
+#Text=It is depicted 
+#Text= in Fig. 38.
+20-1	1317-1319	It	_	_	_	
+20-2	1320-1322	is	_	_	_	
+20-3	1323-1331	depicted	_	_	_	
+20-4	1334-1336	in	_	_	_	
+20-5	1337-1340	Fig	_	_	_	
+20-6	1340-1341	.	_	_	_	
+20-7	1342-1344	38	_	_	_	
+20-8	1344-1345	.	_	_	_	
+
+#Text=All varieties are eaten raw or cooked.
+21-1	1346-1349	All	_	_	_	
+21-2	1350-1359	varieties	_	_	_	
+21-3	1360-1363	are	_	_	_	
+21-4	1364-1369	eaten	Taste Word	*|*|*	21-7|21-5|19-5	
+21-5	1370-1373	raw	Circumstance	_	_	
+21-6	1374-1376	or	_	_	_	
+21-7	1377-1383	cooked	Circumstance	_	_	
+21-8	1383-1384	.	_	_	_	
+
+#Text=Much damage is done to the plant by the larva of the
+#Text=" celery-stem fly," by a fungus known as "red rust," and by 
+#Text= " black mildew."
+22-1	1390-1394	Much	_	_	_	
+22-2	1395-1401	damage	_	_	_	
+22-3	1402-1404	is	_	_	_	
+22-4	1405-1409	done	_	_	_	
+22-5	1410-1412	to	_	_	_	
+22-6	1413-1416	the	_	_	_	
+22-7	1417-1422	plant	_	_	_	
+22-8	1423-1425	by	_	_	_	
+22-9	1426-1429	the	_	_	_	
+22-10	1430-1435	larva	_	_	_	
+22-11	1436-1438	of	_	_	_	
+22-12	1439-1442	the	_	_	_	
+22-13	1443-1444	"	_	_	_	
+22-14	1445-1456	celery-stem	_	_	_	
+22-15	1457-1460	fly	_	_	_	
+22-16	1460-1461	,	_	_	_	
+22-17	1461-1462	"	_	_	_	
+22-18	1463-1465	by	_	_	_	
+22-19	1466-1467	a	_	_	_	
+22-20	1468-1474	fungus	_	_	_	
+22-21	1475-1480	known	_	_	_	
+22-22	1481-1483	as	_	_	_	
+22-23	1484-1485	"	_	_	_	
+22-24	1485-1488	red	_	_	_	
+22-25	1489-1493	rust	_	_	_	
+22-26	1493-1494	,	_	_	_	
+22-27	1494-1495	"	_	_	_	
+22-28	1496-1499	and	_	_	_	
+22-29	1500-1502	by	_	_	_	
+22-30	1505-1506	"	_	_	_	
+22-31	1507-1512	black	_	_	_	
+22-32	1513-1519	mildew	_	_	_	
+22-33	1519-1520	.	_	_	_	
+22-34	1520-1521	"	_	_	_	
+
+#Text=Cucumber should be regular in shape, smooth in the skin, 
+#Text= dark green in colour (some varieties light green), white- 
+#Text=  
+#Text=  
+#Text=  
+#Text= x +/ 
+#Text=  
+#Text=  
+#Text=  
+#Text= fleshed, and delicate in flavour.
+23-1	1527-1535	Cucumber	Taste Source	_	_	
+23-2	1536-1542	should	_	_	_	
+23-3	1543-1545	be	_	_	_	
+23-4	1546-1553	regular	_	_	_	
+23-5	1554-1556	in	_	_	_	
+23-6	1557-1562	shape	_	_	_	
+23-7	1562-1563	,	_	_	_	
+23-8	1564-1570	smooth	_	_	_	
+23-9	1571-1573	in	_	_	_	
+23-10	1574-1577	the	_	_	_	
+23-11	1578-1582	skin	_	_	_	
+23-12	1582-1583	,	_	_	_	
+23-13	1586-1590	dark	_	_	_	
+23-14	1591-1596	green	_	_	_	
+23-15	1597-1599	in	_	_	_	
+23-16	1600-1606	colour	_	_	_	
+23-17	1607-1608	(	_	_	_	
+23-18	1608-1612	some	_	_	_	
+23-19	1613-1622	varieties	_	_	_	
+23-20	1623-1628	light	_	_	_	
+23-21	1629-1634	green	_	_	_	
+23-22	1634-1635	)	_	_	_	
+23-23	1635-1636	,	_	_	_	
+23-24	1637-1642	white	_	_	_	
+23-25	1642-1643	-	_	_	_	
+23-26	1655-1656	x	_	_	_	
+23-27	1657-1658	+	_	_	_	
+23-28	1658-1659	/	_	_	_	
+23-29	1671-1678	fleshed	_	_	_	
+23-30	1678-1679	,	_	_	_	
+23-31	1680-1683	and	_	_	_	
+23-32	1684-1692	delicate	Quality	_	_	
+23-33	1693-1695	in	_	_	_	
+23-34	1696-1703	flavour	Taste Word	*|*	23-32|23-1	
+23-35	1703-1704	.	_	_	_	
+
+#Text=It is in season spring, 
+#Text= summer, and autumn.
+24-1	1705-1707	It	_	_	_	
+24-2	1708-1710	is	_	_	_	
+24-3	1711-1713	in	_	_	_	
+24-4	1714-1720	season	_	_	_	
+24-5	1721-1727	spring	_	_	_	
+24-6	1727-1728	,	_	_	_	
+24-7	1731-1737	summer	_	_	_	
+24-8	1737-1738	,	_	_	_	
+24-9	1739-1742	and	_	_	_	
+24-10	1743-1749	autumn	_	_	_	
+24-11	1749-1750	.	_	_	_	
+
+#Text=Endive is a sort of winter lettuce, and should be crisp and 
+#Text= succulent.
+25-1	1756-1762	Endive	_	_	_	
+25-2	1763-1765	is	_	_	_	
+25-3	1766-1767	a	_	_	_	
+25-4	1768-1772	sort	_	_	_	
+25-5	1773-1775	of	_	_	_	
+25-6	1776-1782	winter	_	_	_	
+25-7	1783-1790	lettuce	_	_	_	
+25-8	1790-1791	,	_	_	_	
+25-9	1792-1795	and	_	_	_	
+25-10	1796-1802	should	_	_	_	
+25-11	1803-1805	be	_	_	_	
+25-12	1806-1811	crisp	_	_	_	
+25-13	1812-1815	and	_	_	_	
+25-14	1818-1827	succulent	_	_	_	
+25-15	1827-1828	.	_	_	_	
+
+#Text=When carefully tied up it blanches well.
+26-1	1829-1833	When	_	_	_	
+26-2	1834-1843	carefully	_	_	_	
+26-3	1844-1848	tied	_	_	_	
+26-4	1849-1851	up	_	_	_	
+26-5	1852-1854	it	_	_	_	
+26-6	1855-1863	blanches	_	_	_	
+26-7	1864-1868	well	_	_	_	
+26-8	1868-1869	.	_	_	_	
+
+#Text=It is 
+#Text=  
+#Text=  
+#Text= 
+#Text= 
+#Text= Fig. 38 
+#Text=  
+#Text= ordinarily used as a salad and garnish.
+27-1	1870-1872	It	_	_	_	
+27-2	1873-1875	is	_	_	_	
+27-3	1888-1891	Fig	_	_	_	
+27-4	1891-1892	.	_	_	_	
+27-5	1893-1895	38	_	_	_	
+27-6	1901-1911	ordinarily	_	_	_	
+27-7	1912-1916	used	_	_	_	
+27-8	1917-1919	as	_	_	_	
+27-9	1920-1921	a	_	_	_	
+27-10	1922-1927	salad	_	_	_	
+27-11	1928-1931	and	_	_	_	
+27-12	1932-1939	garnish	_	_	_	
+27-13	1939-1940	.	_	_	_	
+
+#Text=It requires much 
+#Text=  
+#Text= cleansing, as insects find their way right into the heart.
+28-1	1941-1943	It	_	_	_	
+28-2	1944-1952	requires	_	_	_	
+28-3	1953-1957	much	_	_	_	
+28-4	1963-1972	cleansing	_	_	_	
+28-5	1972-1973	,	_	_	_	
+28-6	1974-1976	as	_	_	_	
+28-7	1977-1984	insects	_	_	_	
+28-8	1985-1989	find	_	_	_	
+28-9	1990-1995	their	_	_	_	
+28-10	1996-1999	way	_	_	_	
+28-11	2000-2005	right	_	_	_	
+28-12	2006-2010	into	_	_	_	
+28-13	2011-2014	the	_	_	_	
+28-14	2015-2020	heart	_	_	_	
+28-15	2020-2021	.	_	_	_	
+
+#Text=Lettuce is ordinarily in season from March to September, 
+#Text=  
+#Text= but some varieties of both cos and cabbage are seasonable 
+#Text=  
+#Text= in winter.
+29-1	2027-2034	Lettuce	Taste Source	_	_	
+29-2	2035-2037	is	_	_	_	
+29-3	2038-2048	ordinarily	_	_	_	
+29-4	2049-2051	in	_	_	_	
+29-5	2052-2058	season	_	_	_	
+29-6	2059-2063	from	_	_	_	
+29-7	2064-2069	March	_	_	_	
+29-8	2070-2072	to	_	_	_	
+29-9	2073-2082	September	_	_	_	
+29-10	2082-2083	,	_	_	_	
+29-11	2089-2092	but	_	_	_	
+29-12	2093-2097	some	_	_	_	
+29-13	2098-2107	varieties	_	_	_	
+29-14	2108-2110	of	_	_	_	
+29-15	2111-2115	both	_	_	_	
+29-16	2116-2119	cos	_	_	_	
+29-17	2120-2123	and	_	_	_	
+29-18	2124-2131	cabbage	_	_	_	
+29-19	2132-2135	are	_	_	_	
+29-20	2136-2146	seasonable	_	_	_	
+29-21	2152-2154	in	_	_	_	
+29-22	2155-2161	winter	_	_	_	
+29-23	2161-2162	.	_	_	_	
+
+#Text=The head should be close and compact, and 
+#Text=  
+#Text= l 2 
+#Text=  
+#Text=  
+#Text=  
+#Text= 148 
+#Text=  
+#Text= the leaves should be crisp and sweet.
+30-1	2163-2166	The	_	_	_	
+30-2	2167-2171	head	_	_	_	
+30-3	2172-2178	should	_	_	_	
+30-4	2179-2181	be	_	_	_	
+30-5	2182-2187	close	_	_	_	
+30-6	2188-2191	and	_	_	_	
+30-7	2192-2199	compact	_	_	_	
+30-8	2199-2200	,	_	_	_	
+30-9	2201-2204	and	_	_	_	
+30-10	2210-2211	l	_	_	_	
+30-11	2212-2213	2	_	_	_	
+30-12	2225-2228	148	_	_	_	
+30-13	2234-2237	the	_	_	_	
+30-14	2238-2244	leaves	_	_	_	
+30-15	2245-2251	should	_	_	_	
+30-16	2252-2254	be	_	_	_	
+30-17	2255-2260	crisp	_	_	_	
+30-18	2261-2264	and	_	_	_	
+30-19	2265-2270	sweet	Quality[7]|Taste Word[8]	*|*	30-19[7_8]|29-1[0_8]	
+30-20	2270-2271	.	_	_	_	
+
+#Text=When the lettuce is
+#Text=too young, or running to seed, the flavour is bitter.
+31-1	2272-2276	When	_	_	_	
+31-2	2277-2280	the	Taste Source[9]	_	_	
+31-3	2281-2288	lettuce	Taste Source[9]	_	_	
+31-4	2289-2291	is	_	_	_	
+31-5	2292-2295	too	Circumstance[10]	_	_	
+31-6	2296-2301	young	Circumstance[10]	_	_	
+31-7	2301-2302	,	_	_	_	
+31-8	2303-2305	or	_	_	_	
+31-9	2306-2313	running	Circumstance[11]	_	_	
+31-10	2314-2316	to	Circumstance[11]	_	_	
+31-11	2317-2321	seed	Circumstance[11]	_	_	
+31-12	2321-2322	,	_	_	_	
+31-13	2323-2326	the	_	_	_	
+31-14	2327-2334	flavour	Taste Word	*|*|*|*	31-9[11_0]|31-5[10_0]|31-2[9_0]|31-16[12_0]	
+31-15	2335-2337	is	_	_	_	
+31-16	2338-2344	bitter	Quality[12]|Taste Word[13]	*	31-16[12_13]	
+31-17	2344-2345	.	_	_	_	
+
+#Text=Fig. 39.
+32-1	2360-2363	Fig	_	_	_	
+32-2	2363-2364	.	_	_	_	
+32-3	2365-2367	39	_	_	_	
+32-4	2367-2368	.	_	_	_	
+
+#Text=Mildew often attacks the leaves.
+33-1	2374-2380	Mildew	_	_	_	
+33-2	2381-2386	often	_	_	_	
+33-3	2387-2394	attacks	_	_	_	
+33-4	2395-2398	the	_	_	_	
+33-5	2399-2405	leaves	_	_	_	
+33-6	2405-2406	.	_	_	_	
+
+#Text=Its presence is indicated 
+#Text= by pale patches, and it soon causes putrefaction. 
+#Text=  
+#Text=  
+#Text=  
+#Text= 149 
+#Text=  
+#Text= Horseradish. — This garden root is usually scraped raw, and 
+#Text= used as a condiment and garnish.
+34-1	2407-2410	Its	_	_	_	
+34-2	2411-2419	presence	_	_	_	
+34-3	2420-2422	is	_	_	_	
+34-4	2423-2432	indicated	_	_	_	
+34-5	2435-2437	by	_	_	_	
+34-6	2438-2442	pale	_	_	_	
+34-7	2443-2450	patches	_	_	_	
+34-8	2450-2451	,	_	_	_	
+34-9	2452-2455	and	_	_	_	
+34-10	2456-2458	it	_	_	_	
+34-11	2459-2463	soon	_	_	_	
+34-12	2464-2470	causes	_	_	_	
+34-13	2471-2483	putrefaction	_	_	_	
+34-14	2483-2484	.	_	_	_	
+34-15	2496-2499	149	_	_	_	
+34-16	2505-2516	Horseradish	_	_	_	
+34-17	2516-2517	.	_	_	_	
+34-18	2518-2519	—	_	_	_	
+34-19	2520-2524	This	_	_	_	
+34-20	2525-2531	garden	_	_	_	
+34-21	2532-2536	root	_	_	_	
+34-22	2537-2539	is	_	_	_	
+34-23	2540-2547	usually	_	_	_	
+34-24	2548-2555	scraped	_	_	_	
+34-25	2556-2559	raw	_	_	_	
+34-26	2559-2560	,	_	_	_	
+34-27	2561-2564	and	_	_	_	
+34-28	2567-2571	used	_	_	_	
+34-29	2572-2574	as	_	_	_	
+34-30	2575-2576	a	_	_	_	
+34-31	2577-2586	condiment	_	_	_	
+34-32	2587-2590	and	_	_	_	
+34-33	2591-2598	garnish	_	_	_	
+34-34	2598-2599	.	_	_	_	
+
+#Text=It is in season from 
+#Text= October to June.
+35-1	2600-2602	It	_	_	_	
+35-2	2603-2605	is	_	_	_	
+35-3	2606-2608	in	_	_	_	
+35-4	2609-2615	season	_	_	_	
+35-5	2616-2620	from	_	_	_	
+35-6	2623-2630	October	_	_	_	
+35-7	2631-2633	to	_	_	_	
+35-8	2634-2638	June	_	_	_	
+35-9	2638-2639	.	_	_	_	
+
+#Text=There seems to be some risk of aconite 
+#Text= root (a poison) being mistaken for horse-radish.
+36-1	2640-2645	There	_	_	_	
+36-2	2646-2651	seems	_	_	_	
+36-3	2652-2654	to	_	_	_	
+36-4	2655-2657	be	_	_	_	
+36-5	2658-2662	some	_	_	_	
+36-6	2663-2667	risk	_	_	_	
+36-7	2668-2670	of	_	_	_	
+36-8	2671-2678	aconite	_	_	_	
+36-9	2681-2685	root	_	_	_	
+36-10	2686-2687	(	_	_	_	
+36-11	2687-2688	a	_	_	_	
+36-12	2689-2695	poison	_	_	_	
+36-13	2695-2696	)	_	_	_	
+36-14	2697-2702	being	_	_	_	
+36-15	2703-2711	mistaken	_	_	_	
+36-16	2712-2715	for	_	_	_	
+36-17	2716-2728	horse-radish	_	_	_	
+36-18	2728-2729	.	_	_	_	
+
+#Text=Horse- 
+#Text= radish (vide Fig. 39) is usually from 7 to 10 inches long, and 
+#Text= as thick as a man ' s thumb some distance down.
+37-1	2730-2735	Horse	_	_	_	
+37-2	2735-2736	-	_	_	_	
+37-3	2739-2745	radish	_	_	_	
+37-4	2746-2747	(	_	_	_	
+37-5	2747-2751	vide	_	_	_	
+37-6	2752-2755	Fig	_	_	_	
+37-7	2755-2756	.	_	_	_	
+37-8	2757-2759	39	_	_	_	
+37-9	2759-2760	)	_	_	_	
+37-10	2761-2763	is	_	_	_	
+37-11	2764-2771	usually	_	_	_	
+37-12	2772-2776	from	_	_	_	
+37-13	2777-2778	7	_	_	_	
+37-14	2779-2781	to	_	_	_	
+37-15	2782-2784	10	_	_	_	
+37-16	2785-2791	inches	_	_	_	
+37-17	2792-2796	long	_	_	_	
+37-18	2796-2797	,	_	_	_	
+37-19	2798-2801	and	_	_	_	
+37-20	2804-2806	as	_	_	_	
+37-21	2807-2812	thick	_	_	_	
+37-22	2813-2815	as	_	_	_	
+37-23	2816-2817	a	_	_	_	
+37-24	2818-2821	man	_	_	_	
+37-25	2822-2823	'	_	_	_	
+37-26	2824-2825	s	_	_	_	
+37-27	2826-2831	thumb	_	_	_	
+37-28	2832-2836	some	_	_	_	
+37-29	2837-2845	distance	_	_	_	
+37-30	2846-2850	down	_	_	_	
+37-31	2850-2851	.	_	_	_	
+
+#Text=It is
+#Text=yellowy-white outside. x\\conite root is usually not half as 
+#Text= long, not thicker than the finger at the crown, and tapering.
+38-1	2852-2854	It	_	_	_	
+38-2	2855-2857	is	_	_	_	
+38-3	2858-2871	yellowy-white	_	_	_	
+38-4	2872-2879	outside	_	_	_	
+38-5	2879-2880	.	_	_	_	
+38-6	2881-2882	x	_	_	_	
+38-7	2882-2883	\	_	_	_	
+38-8	2883-2889	conite	_	_	_	
+38-9	2890-2894	root	_	_	_	
+38-10	2895-2897	is	_	_	_	
+38-11	2898-2905	usually	_	_	_	
+38-12	2906-2909	not	_	_	_	
+38-13	2910-2914	half	_	_	_	
+38-14	2915-2917	as	_	_	_	
+38-15	2920-2924	long	_	_	_	
+38-16	2924-2925	,	_	_	_	
+38-17	2926-2929	not	_	_	_	
+38-18	2930-2937	thicker	_	_	_	
+38-19	2938-2942	than	_	_	_	
+38-20	2943-2946	the	_	_	_	
+38-21	2947-2953	finger	_	_	_	
+38-22	2954-2956	at	_	_	_	
+38-23	2957-2960	the	_	_	_	
+38-24	2961-2966	crown	_	_	_	
+38-25	2966-2967	,	_	_	_	
+38-26	2968-2971	and	_	_	_	
+38-27	2972-2980	tapering	_	_	_	
+38-28	2980-2981	.	_	_	_	
+
+#Text=It is wrinkled, and blackish brown in colour outside.
+39-1	2984-2986	It	_	_	_	
+39-2	2987-2989	is	_	_	_	
+39-3	2990-2998	wrinkled	_	_	_	
+39-4	2998-2999	,	_	_	_	
+39-5	3000-3003	and	_	_	_	
+39-6	3004-3012	blackish	_	_	_	
+39-7	3013-3018	brown	_	_	_	
+39-8	3019-3021	in	_	_	_	
+39-9	3022-3028	colour	_	_	_	
+39-10	3029-3036	outside	_	_	_	
+39-11	3036-3037	.	_	_	_	
+
+#Text=A 
+#Text= minute portion, cautiously chewed, causes prolonged tingling 
+#Text= and numbness.
+40-1	3038-3039	A	_	_	_	
+40-2	3042-3048	minute	_	_	_	
+40-3	3049-3056	portion	_	_	_	
+40-4	3056-3057	,	_	_	_	
+40-5	3058-3068	cautiously	_	_	_	
+40-6	3069-3075	chewed	_	_	_	
+40-7	3075-3076	,	_	_	_	
+40-8	3077-3083	causes	_	_	_	
+40-9	3084-3093	prolonged	_	_	_	
+40-10	3094-3102	tingling	_	_	_	
+40-11	3105-3108	and	_	_	_	
+40-12	3109-3117	numbness	_	_	_	
+40-13	3117-3118	.	_	_	_	
+
+#Text=Mushrooms may be gathered in the fields in September 
+#Text= and October, and forced mushrooms can be obtained all the 
+#Text= year round.
+41-1	3124-3133	Mushrooms	_	_	_	
+41-2	3134-3137	may	_	_	_	
+41-3	3138-3140	be	_	_	_	
+41-4	3141-3149	gathered	_	_	_	
+41-5	3150-3152	in	_	_	_	
+41-6	3153-3156	the	_	_	_	
+41-7	3157-3163	fields	_	_	_	
+41-8	3164-3166	in	_	_	_	
+41-9	3167-3176	September	_	_	_	
+41-10	3179-3182	and	_	_	_	
+41-11	3183-3190	October	_	_	_	
+41-12	3190-3191	,	_	_	_	
+41-13	3192-3195	and	_	_	_	
+41-14	3196-3202	forced	_	_	_	
+41-15	3203-3212	mushrooms	_	_	_	
+41-16	3213-3216	can	_	_	_	
+41-17	3217-3219	be	_	_	_	
+41-18	3220-3228	obtained	_	_	_	
+41-19	3229-3232	all	_	_	_	
+41-20	3233-3236	the	_	_	_	
+41-21	3239-3243	year	_	_	_	
+41-22	3244-3249	round	_	_	_	
+41-23	3249-3250	.	_	_	_	
+
+#Text=There are many edible British species.
+42-1	3251-3256	There	_	_	_	
+42-2	3257-3260	are	_	_	_	
+42-3	3261-3265	many	_	_	_	
+42-4	3266-3272	edible	_	_	_	
+42-5	3273-3280	British	_	_	_	
+42-6	3281-3288	species	_	_	_	
+42-7	3288-3289	.	_	_	_	
+
+#Text=They 
+#Text= will grow in any cool, shady place (in an outhouse in the 
+#Text= winter), but the temperature should be fairly uniform, and 
+#Text= not below 45 deg.
+43-1	3290-3294	They	_	_	_	
+43-2	3297-3301	will	_	_	_	
+43-3	3302-3306	grow	_	_	_	
+43-4	3307-3309	in	_	_	_	
+43-5	3310-3313	any	_	_	_	
+43-6	3314-3318	cool	_	_	_	
+43-7	3318-3319	,	_	_	_	
+43-8	3320-3325	shady	_	_	_	
+43-9	3326-3331	place	_	_	_	
+43-10	3332-3333	(	_	_	_	
+43-11	3333-3335	in	_	_	_	
+43-12	3336-3338	an	_	_	_	
+43-13	3339-3347	outhouse	_	_	_	
+43-14	3348-3350	in	_	_	_	
+43-15	3351-3354	the	_	_	_	
+43-16	3357-3363	winter	_	_	_	
+43-17	3363-3364	)	_	_	_	
+43-18	3364-3365	,	_	_	_	
+43-19	3366-3369	but	_	_	_	
+43-20	3370-3373	the	_	_	_	
+43-21	3374-3385	temperature	_	_	_	
+43-22	3386-3392	should	_	_	_	
+43-23	3393-3395	be	_	_	_	
+43-24	3396-3402	fairly	_	_	_	
+43-25	3403-3410	uniform	_	_	_	
+43-26	3410-3411	,	_	_	_	
+43-27	3412-3415	and	_	_	_	
+43-28	3418-3421	not	_	_	_	
+43-29	3422-3427	below	_	_	_	
+43-30	3428-3430	45	_	_	_	
+43-31	3431-3434	deg	_	_	_	
+43-32	3434-3435	.	_	_	_	
+
+#Text=Fah.
+44-1	3436-3439	Fah	_	_	_	
+44-2	3439-3440	.	_	_	_	
+
+#Text=The cap should peel easily, the gills 
+#Text= vary in colour from salmon-pink to brown, or nearly black.
+45-1	3441-3444	The	_	_	_	
+45-2	3445-3448	cap	_	_	_	
+45-3	3449-3455	should	_	_	_	
+45-4	3456-3460	peel	_	_	_	
+45-5	3461-3467	easily	_	_	_	
+45-6	3467-3468	,	_	_	_	
+45-7	3469-3472	the	_	_	_	
+45-8	3473-3478	gills	_	_	_	
+45-9	3481-3485	vary	_	_	_	
+45-10	3486-3488	in	_	_	_	
+45-11	3489-3495	colour	_	_	_	
+45-12	3496-3500	from	_	_	_	
+45-13	3501-3512	salmon-pink	_	_	_	
+45-14	3513-3515	to	_	_	_	
+45-15	3516-3521	brown	_	_	_	
+45-16	3521-3522	,	_	_	_	
+45-17	3523-3525	or	_	_	_	
+45-18	3526-3532	nearly	_	_	_	
+45-19	3533-3538	black	_	_	_	
+45-20	3538-3539	.	_	_	_	
+
+#Text=The stalk should be thick and frilled.
+46-1	3542-3545	The	_	_	_	
+46-2	3546-3551	stalk	_	_	_	
+46-3	3552-3558	should	_	_	_	
+46-4	3559-3561	be	_	_	_	
+46-5	3562-3567	thick	_	_	_	
+46-6	3568-3571	and	_	_	_	
+46-7	3572-3579	frilled	_	_	_	
+46-8	3579-3580	.	_	_	_	
+
+#Text=No part of the 
+#Text= mushroom is bright in colour, or has a hot or acrid taste.
+47-1	3581-3583	No	Taste Source[14]	_	_	
+47-2	3584-3588	part	Taste Source[14]	_	_	
+47-3	3589-3591	of	Taste Source[14]	_	_	
+47-4	3592-3595	the	Taste Source[14]	_	_	
+47-5	3598-3606	mushroom	Taste Source[14]	_	_	
+47-6	3607-3609	is	_	_	_	
+47-7	3610-3616	bright	_	_	_	
+47-8	3617-3619	in	_	_	_	
+47-9	3620-3626	colour	_	_	_	
+47-10	3626-3627	,	_	_	_	
+47-11	3628-3630	or	_	_	_	
+47-12	3631-3634	has	_	_	_	
+47-13	3635-3636	a	_	_	_	
+47-14	3637-3640	hot	Quality	_	_	
+47-15	3641-3643	or	_	_	_	
+47-16	3644-3649	acrid	Quality	_	_	
+47-17	3650-3655	taste	Taste Word	*|*|*	47-16|47-14|47-1[14_0]	
+47-18	3655-3656	.	_	_	_	
+
+#Text=The little immature button mushrooms are commonly used 
+#Text= for garnish and pickling.
+48-1	3659-3662	The	_	_	_	
+48-2	3663-3669	little	_	_	_	
+48-3	3670-3678	immature	_	_	_	
+48-4	3679-3685	button	_	_	_	
+48-5	3686-3695	mushrooms	_	_	_	
+48-6	3696-3699	are	_	_	_	
+48-7	3700-3708	commonly	_	_	_	
+48-8	3709-3713	used	_	_	_	
+48-9	3716-3719	for	_	_	_	
+48-10	3720-3727	garnish	_	_	_	
+48-11	3728-3731	and	_	_	_	
+48-12	3732-3740	pickling	_	_	_	
+48-13	3740-3741	.	_	_	_	
+
+#Text=Onions are in season all the year, the imported Spanish 
+#Text= onion from October to January only.
+49-1	3747-3753	Onions	_	_	_	
+49-2	3754-3757	are	_	_	_	
+49-3	3758-3760	in	_	_	_	
+49-4	3761-3767	season	_	_	_	
+49-5	3768-3771	all	_	_	_	
+49-6	3772-3775	the	_	_	_	
+49-7	3776-3780	year	_	_	_	
+49-8	3780-3781	,	_	_	_	
+49-9	3782-3785	the	_	_	_	
+49-10	3786-3794	imported	_	_	_	
+49-11	3795-3802	Spanish	_	_	_	
+49-12	3805-3810	onion	_	_	_	
+49-13	3811-3815	from	_	_	_	
+49-14	3816-3823	October	_	_	_	
+49-15	3824-3826	to	_	_	_	
+49-16	3827-3834	January	_	_	_	
+49-17	3835-3839	only	_	_	_	
+49-18	3839-3840	.	_	_	_	
+
+#Text=Onions are grown in
+#Text=derives its name from growing on certain sea-shores.
+50-1	3841-3847	Onions	_	_	_	
+50-2	3848-3851	are	_	_	_	
+50-3	3852-3857	grown	_	_	_	
+50-4	3858-3860	in	_	_	_	
+50-5	3861-3868	derives	_	_	_	
+50-6	3869-3872	its	_	_	_	
+50-7	3873-3877	name	_	_	_	
+50-8	3878-3882	from	_	_	_	
+50-9	3883-3890	growing	_	_	_	
+50-10	3891-3893	on	_	_	_	
+50-11	3894-3901	certain	_	_	_	
+50-12	3902-3912	sea-shores	_	_	_	
+50-13	3912-3913	.	_	_	_	
+
+#Text=It is 
+#Text= easily cultivated from seed or roots.
+51-1	3914-3916	It	_	_	_	
+51-2	3917-3919	is	_	_	_	
+51-3	3922-3928	easily	_	_	_	
+51-4	3929-3939	cultivated	_	_	_	
+51-5	3940-3944	from	_	_	_	
+51-6	3945-3949	seed	_	_	_	
+51-7	3950-3952	or	_	_	_	
+51-8	3953-3958	roots	_	_	_	
+51-9	3958-3959	.	_	_	_	
+
+#Text=It is in season from 
+#Text= February to June.
+52-1	3960-3962	It	_	_	_	
+52-2	3963-3965	is	_	_	_	
+52-3	3966-3968	in	_	_	_	
+52-4	3969-3975	season	_	_	_	
+52-5	3976-3980	from	_	_	_	
+52-6	3983-3991	February	_	_	_	
+52-7	3992-3994	to	_	_	_	
+52-8	3995-3999	June	_	_	_	
+52-9	3999-4000	.	_	_	_	
+
+#Text=Spinach. — There are many varieties of this, the best 
+#Text= known, perhaps, being the " round-leaved," the " straw- 
+#Text= berry," and the rapid-growing " New Zealand."
+53-1	4006-4013	Spinach	_	_	_	
+53-2	4013-4014	.	_	_	_	
+53-3	4015-4016	—	_	_	_	
+53-4	4017-4022	There	_	_	_	
+53-5	4023-4026	are	_	_	_	
+53-6	4027-4031	many	_	_	_	
+53-7	4032-4041	varieties	_	_	_	
+53-8	4042-4044	of	_	_	_	
+53-9	4045-4049	this	_	_	_	
+53-10	4049-4050	,	_	_	_	
+53-11	4051-4054	the	_	_	_	
+53-12	4055-4059	best	_	_	_	
+53-13	4062-4067	known	_	_	_	
+53-14	4067-4068	,	_	_	_	
+53-15	4069-4076	perhaps	_	_	_	
+53-16	4076-4077	,	_	_	_	
+53-17	4078-4083	being	_	_	_	
+53-18	4084-4087	the	_	_	_	
+53-19	4088-4089	"	_	_	_	
+53-20	4090-4102	round-leaved	_	_	_	
+53-21	4102-4103	,	_	_	_	
+53-22	4103-4104	"	_	_	_	
+53-23	4105-4108	the	_	_	_	
+53-24	4109-4110	"	_	_	_	
+53-25	4111-4116	straw	_	_	_	
+53-26	4116-4117	-	_	_	_	
+53-27	4120-4125	berry	_	_	_	
+53-28	4125-4126	,	_	_	_	
+53-29	4126-4127	"	_	_	_	
+53-30	4128-4131	and	_	_	_	
+53-31	4132-4135	the	_	_	_	
+53-32	4136-4149	rapid-growing	_	_	_	
+53-33	4150-4151	"	_	_	_	
+53-34	4152-4155	New	_	_	_	
+53-35	4156-4163	Zealand	_	_	_	
+53-36	4163-4164	.	_	_	_	
+53-37	4164-4165	"	_	_	_	
+
+#Text=It is 
+#Text= ordinarily in season from March to July.
+54-1	4166-4168	It	_	_	_	
+54-2	4169-4171	is	_	_	_	
+54-3	4174-4184	ordinarily	_	_	_	
+54-4	4185-4187	in	_	_	_	
+54-5	4188-4194	season	_	_	_	
+54-6	4195-4199	from	_	_	_	
+54-7	4200-4205	March	_	_	_	
+54-8	4206-4208	to	_	_	_	
+54-9	4209-4213	July	_	_	_	
+54-10	4213-4214	.	_	_	_	
+
+#Text=The " prickly, '  '  
+#Text= or winter spinach, is in season from October to February.
+55-1	4215-4218	The	_	_	_	
+55-2	4219-4220	"	_	_	_	
+55-3	4221-4228	prickly	_	_	_	
+55-4	4228-4229	,	_	_	_	
+55-5	4230-4231	'	_	_	_	
+55-6	4233-4234	'	_	_	_	
+55-7	4238-4240	or	_	_	_	
+55-8	4241-4247	winter	_	_	_	
+55-9	4248-4255	spinach	_	_	_	
+55-10	4255-4256	,	_	_	_	
+55-11	4257-4259	is	_	_	_	
+55-12	4260-4262	in	_	_	_	
+55-13	4263-4269	season	_	_	_	
+55-14	4270-4274	from	_	_	_	
+55-15	4275-4282	October	_	_	_	
+55-16	4283-4285	to	_	_	_	
+55-17	4286-4294	February	_	_	_	
+55-18	4294-4295	.	_	_	_	
+
+#Text=Spinach should be bright in colour, should last well, and not 
+#Text= run to seed early.
+56-1	4298-4305	Spinach	_	_	_	
+56-2	4306-4312	should	_	_	_	
+56-3	4313-4315	be	_	_	_	
+56-4	4316-4322	bright	_	_	_	
+56-5	4323-4325	in	_	_	_	
+56-6	4326-4332	colour	_	_	_	
+56-7	4332-4333	,	_	_	_	
+56-8	4334-4340	should	_	_	_	
+56-9	4341-4345	last	_	_	_	
+56-10	4346-4350	well	_	_	_	
+56-11	4350-4351	,	_	_	_	
+56-12	4352-4355	and	_	_	_	
+56-13	4356-4359	not	_	_	_	
+56-14	4362-4365	run	_	_	_	
+56-15	4366-4368	to	_	_	_	
+56-16	4369-4373	seed	_	_	_	
+56-17	4374-4379	early	_	_	_	
+56-18	4379-4380	.	_	_	_	
+
+#Text=The leaves should be soft and succulent, 
+#Text= and not stringy.
+57-1	4381-4384	The	_	_	_	
+57-2	4385-4391	leaves	_	_	_	
+57-3	4392-4398	should	_	_	_	
+57-4	4399-4401	be	_	_	_	
+57-5	4402-4406	soft	_	_	_	
+57-6	4407-4410	and	_	_	_	
+57-7	4411-4420	succulent	_	_	_	
+57-8	4420-4421	,	_	_	_	
+57-9	4424-4427	and	_	_	_	
+57-10	4428-4431	not	_	_	_	
+57-11	4432-4439	stringy	_	_	_	
+57-12	4439-4440	.	_	_	_	
+
+#Text=Tomatoes are cultivated in hot-houses and out of doors in 
+#Text=  
+#Text=  
+#Text=  
+#Text= 1^1 
+#Text=  
+#Text= 
+#Text= 
+#Text= this country ; but large quantities are imported.
+58-1	4446-4454	Tomatoes	_	_	_	
+58-2	4455-4458	are	_	_	_	
+58-3	4459-4469	cultivated	_	_	_	
+58-4	4470-4472	in	_	_	_	
+58-5	4473-4483	hot-houses	_	_	_	
+58-6	4484-4487	and	_	_	_	
+58-7	4488-4491	out	_	_	_	
+58-8	4492-4494	of	_	_	_	
+58-9	4495-4500	doors	_	_	_	
+58-10	4501-4503	in	_	_	_	
+58-11	4515-4516	1	_	_	_	
+58-12	4516-4517	^	_	_	_	
+58-13	4517-4518	1	_	_	_	
+58-14	4528-4532	this	_	_	_	
+58-15	4533-4540	country	_	_	_	
+58-16	4541-4542	;	_	_	_	
+58-17	4543-4546	but	_	_	_	
+58-18	4547-4552	large	_	_	_	
+58-19	4553-4563	quantities	_	_	_	
+58-20	4564-4567	are	_	_	_	
+58-21	4568-4576	imported	_	_	_	
+58-22	4576-4577	.	_	_	_	
+
+#Text=They vary 
+#Text= in colour from deep crimson to scarlet or yellow ; in size, 
+#Text= from that of a large apple to that of a cherry.
+59-1	4578-4582	They	_	_	_	
+59-2	4583-4587	vary	_	_	_	
+59-3	4590-4592	in	_	_	_	
+59-4	4593-4599	colour	_	_	_	
+59-5	4600-4604	from	_	_	_	
+59-6	4605-4609	deep	_	_	_	
+59-7	4610-4617	crimson	_	_	_	
+59-8	4618-4620	to	_	_	_	
+59-9	4621-4628	scarlet	_	_	_	
+59-10	4629-4631	or	_	_	_	
+59-11	4632-4638	yellow	_	_	_	
+59-12	4639-4640	;	_	_	_	
+59-13	4641-4643	in	_	_	_	
+59-14	4644-4648	size	_	_	_	
+59-15	4648-4649	,	_	_	_	
+59-16	4652-4656	from	_	_	_	
+59-17	4657-4661	that	_	_	_	
+59-18	4662-4664	of	_	_	_	
+59-19	4665-4666	a	_	_	_	
+59-20	4667-4672	large	_	_	_	
+59-21	4673-4678	apple	_	_	_	
+59-22	4679-4681	to	_	_	_	
+59-23	4682-4686	that	_	_	_	
+59-24	4687-4689	of	_	_	_	
+59-25	4690-4691	a	_	_	_	
+59-26	4692-4698	cherry	_	_	_	
+59-27	4698-4699	.	_	_	_	
+
+#Text=Indeed, 
+#Text= there is a currant tomato, producing bunches of fruit looking 
+#Text= like fine red currants.
+60-1	4700-4706	Indeed	_	_	_	
+60-2	4706-4707	,	_	_	_	
+60-3	4710-4715	there	_	_	_	
+60-4	4716-4718	is	_	_	_	
+60-5	4719-4720	a	_	_	_	
+60-6	4721-4728	currant	_	_	_	
+60-7	4729-4735	tomato	_	_	_	
+60-8	4735-4736	,	_	_	_	
+60-9	4737-4746	producing	_	_	_	
+60-10	4747-4754	bunches	_	_	_	
+60-11	4755-4757	of	_	_	_	
+60-12	4758-4763	fruit	_	_	_	
+60-13	4764-4771	looking	_	_	_	
+60-14	4774-4778	like	_	_	_	
+60-15	4779-4783	fine	_	_	_	
+60-16	4784-4787	red	_	_	_	
+60-17	4788-4796	currants	_	_	_	
+60-18	4796-4797	.	_	_	_	
+
+#Text=They are in season from August to 
+#Text= October, and those grown under glass much earlier.
+61-1	4798-4802	They	_	_	_	
+61-2	4803-4806	are	_	_	_	
+61-3	4807-4809	in	_	_	_	
+61-4	4810-4816	season	_	_	_	
+61-5	4817-4821	from	_	_	_	
+61-6	4822-4828	August	_	_	_	
+61-7	4829-4831	to	_	_	_	
+61-8	4834-4841	October	_	_	_	
+61-9	4841-4842	,	_	_	_	
+61-10	4843-4846	and	_	_	_	
+61-11	4847-4852	those	_	_	_	
+61-12	4853-4858	grown	_	_	_	
+61-13	4859-4864	under	_	_	_	
+61-14	4865-4870	glass	_	_	_	
+61-15	4871-4875	much	_	_	_	
+61-16	4876-4883	earlier	_	_	_	
+61-17	4883-4884	.	_	_	_	
+
+#Text=The 
+#Text= plant has an unpleasant odour.
+62-1	4885-4888	The	_	_	_	
+62-2	4891-4896	plant	_	_	_	
+62-3	4897-4900	has	_	_	_	
+62-4	4901-4903	an	_	_	_	
+62-5	4904-4914	unpleasant	_	_	_	
+62-6	4915-4920	odour	_	_	_	
+62-7	4920-4921	.	_	_	_	
+
+#Text=Truffles are tubers, possessing an animal rather than a 
+#Text= vegetable flavour, in this as in other aspects they somewhat 
+#Text=  
+#Text=  
+#Text=  
+#Text=  
+#Text= Fig. 40.
+63-1	4927-4935	Truffles	Taste Source	_	_	
+63-2	4936-4939	are	_	_	_	
+63-3	4940-4946	tubers	_	_	_	
+63-4	4946-4947	,	_	_	_	
+63-5	4948-4958	possessing	_	_	_	
+63-6	4959-4961	an	_	_	_	
+63-7	4962-4968	animal	Quality	_	_	
+63-8	4969-4975	rather	_	_	_	
+63-9	4976-4980	than	_	_	_	
+63-10	4981-4982	a	_	_	_	
+63-11	4985-4994	vegetable	_	_	_	
+63-12	4995-5002	flavour	Taste Word	*|*	63-1|63-7	
+63-13	5002-5003	,	_	_	_	
+63-14	5004-5006	in	_	_	_	
+63-15	5007-5011	this	_	_	_	
+63-16	5012-5014	as	_	_	_	
+63-17	5015-5017	in	_	_	_	
+63-18	5018-5023	other	_	_	_	
+63-19	5024-5031	aspects	_	_	_	
+63-20	5032-5036	they	_	_	_	
+63-21	5037-5045	somewhat	_	_	_	
+63-22	5060-5063	Fig	_	_	_	
+63-23	5063-5064	.	_	_	_	
+63-24	5065-5067	40	_	_	_	
+63-25	5067-5068	.	_	_	_	
+
+#Text=resemble mushrooms.
+64-1	5074-5082	resemble	_	_	_	
+64-2	5083-5092	mushrooms	_	_	_	
+64-3	5092-5093	.	_	_	_	
+
+#Text=They are not subjected to regular 
+#Text= culture, but grow some inches below the surface of the earth 
+#Text= in damp calcareous soils, especially in oak and chestnut
+#Text= 
+#Text=  
+#Text=  
+#Text= Fig. 41.
+65-1	5094-5098	They	_	_	_	
+65-2	5099-5102	are	_	_	_	
+65-3	5103-5106	not	_	_	_	
+65-4	5107-5116	subjected	_	_	_	
+65-5	5117-5119	to	_	_	_	
+65-6	5120-5127	regular	_	_	_	
+65-7	5130-5137	culture	_	_	_	
+65-8	5137-5138	,	_	_	_	
+65-9	5139-5142	but	_	_	_	
+65-10	5143-5147	grow	_	_	_	
+65-11	5148-5152	some	_	_	_	
+65-12	5153-5159	inches	_	_	_	
+65-13	5160-5165	below	_	_	_	
+65-14	5166-5169	the	_	_	_	
+65-15	5170-5177	surface	_	_	_	
+65-16	5178-5180	of	_	_	_	
+65-17	5181-5184	the	_	_	_	
+65-18	5185-5190	earth	_	_	_	
+65-19	5193-5195	in	_	_	_	
+65-20	5196-5200	damp	_	_	_	
+65-21	5201-5211	calcareous	_	_	_	
+65-22	5212-5217	soils	_	_	_	
+65-23	5217-5218	,	_	_	_	
+65-24	5219-5229	especially	_	_	_	
+65-25	5230-5232	in	_	_	_	
+65-26	5233-5236	oak	_	_	_	
+65-27	5237-5240	and	_	_	_	
+65-28	5241-5249	chestnut	_	_	_	
+65-29	5259-5262	Fig	_	_	_	
+65-30	5262-5263	.	_	_	_	
+65-31	5264-5266	41	_	_	_	
+65-32	5266-5267	.	_	_	_	
+
+#Text=is lost.
+66-1	5273-5275	is	_	_	_	
+66-2	5276-5280	lost	_	_	_	
+66-3	5280-5281	.	_	_	_	
+
+#Text=The best way of preserving them is to partially boil 
+#Text= them in a tin, and then seal them up in in their own diluted 
+#Text= juice.
+67-1	5282-5285	The	_	_	_	
+67-2	5286-5290	best	_	_	_	
+67-3	5291-5294	way	_	_	_	
+67-4	5295-5297	of	_	_	_	
+67-5	5298-5308	preserving	_	_	_	
+67-6	5309-5313	them	_	_	_	
+67-7	5314-5316	is	_	_	_	
+67-8	5317-5319	to	_	_	_	
+67-9	5320-5329	partially	_	_	_	
+67-10	5330-5334	boil	_	_	_	
+67-11	5337-5341	them	_	_	_	
+67-12	5342-5344	in	_	_	_	
+67-13	5345-5346	a	_	_	_	
+67-14	5347-5350	tin	_	_	_	
+67-15	5350-5351	,	_	_	_	
+67-16	5352-5355	and	_	_	_	
+67-17	5356-5360	then	_	_	_	
+67-18	5361-5365	seal	_	_	_	
+67-19	5366-5370	them	_	_	_	
+67-20	5371-5373	up	_	_	_	
+67-21	5374-5376	in	_	_	_	
+67-22	5377-5379	in	_	_	_	
+67-23	5380-5385	their	_	_	_	
+67-24	5386-5389	own	_	_	_	
+67-25	5390-5397	diluted	_	_	_	
+67-26	5400-5405	juice	_	_	_	
+67-27	5405-5406	.	_	_	_	
+
+#Text=Turnips may be obtained all the year round, but young 
+#Text= turnips (best suited for the table) are in season from April 
+#Text= to June, and turnip tops from March to May.
+68-1	5412-5419	Turnips	_	_	_	
+68-2	5420-5423	may	_	_	_	
+68-3	5424-5426	be	_	_	_	
+68-4	5427-5435	obtained	_	_	_	
+68-5	5436-5439	all	_	_	_	
+68-6	5440-5443	the	_	_	_	
+68-7	5444-5448	year	_	_	_	
+68-8	5449-5454	round	_	_	_	
+68-9	5454-5455	,	_	_	_	
+68-10	5456-5459	but	_	_	_	
+68-11	5460-5465	young	_	_	_	
+68-12	5468-5475	turnips	_	_	_	
+68-13	5476-5477	(	_	_	_	
+68-14	5477-5481	best	_	_	_	
+68-15	5482-5488	suited	_	_	_	
+68-16	5489-5492	for	_	_	_	
+68-17	5493-5496	the	_	_	_	
+68-18	5497-5502	table	_	_	_	
+68-19	5502-5503	)	_	_	_	
+68-20	5504-5507	are	_	_	_	
+68-21	5508-5510	in	_	_	_	
+68-22	5511-5517	season	_	_	_	
+68-23	5518-5522	from	_	_	_	
+68-24	5523-5528	April	_	_	_	
+68-25	5531-5533	to	_	_	_	
+68-26	5534-5538	June	_	_	_	
+68-27	5538-5539	,	_	_	_	
+68-28	5540-5543	and	_	_	_	
+68-29	5544-5550	turnip	_	_	_	
+68-30	5551-5555	tops	_	_	_	
+68-31	5556-5560	from	_	_	_	
+68-32	5561-5566	March	_	_	_	
+68-33	5567-5569	to	_	_	_	
+68-34	5570-5573	May	_	_	_	
+68-35	5573-5574	.	_	_	_	
+
+#Text=The turnip 
+#Text= should be regular in shape, firm-fleshed, white or yellow, 
+#Text= and sweet.
+69-1	5575-5578	The	Taste Source[15]	_	_	
+69-2	5579-5585	turnip	Taste Source[15]	_	_	
+69-3	5588-5594	should	_	_	_	
+69-4	5595-5597	be	_	_	_	
+69-5	5598-5605	regular	_	_	_	
+69-6	5606-5608	in	_	_	_	
+69-7	5609-5614	shape	_	_	_	
+69-8	5614-5615	,	_	_	_	
+69-9	5616-5628	firm-fleshed	_	_	_	
+69-10	5628-5629	,	_	_	_	
+69-11	5630-5635	white	_	_	_	
+69-12	5636-5638	or	_	_	_	
+69-13	5639-5645	yellow	_	_	_	
+69-14	5645-5646	,	_	_	_	
+69-15	5649-5652	and	_	_	_	
+69-16	5653-5658	sweet	Quality[16]|Taste Word[17]	*|*	69-16[16_17]|69-1[15_17]	
+69-17	5658-5659	.	_	_	_	
+
+#Text=Turnip-tops should be bright green in colour, 
+#Text= fresh and tender.
+70-1	5660-5671	Turnip-tops	_	_	_	
+70-2	5672-5678	should	_	_	_	
+70-3	5679-5681	be	_	_	_	
+70-4	5682-5688	bright	_	_	_	
+70-5	5689-5694	green	_	_	_	
+70-6	5695-5697	in	_	_	_	
+70-7	5698-5704	colour	_	_	_	
+70-8	5704-5705	,	_	_	_	
+70-9	5708-5713	fresh	_	_	_	
+70-10	5714-5717	and	_	_	_	
+70-11	5718-5724	tender	_	_	_	
+70-12	5724-5725	.	_	_	_	
+
+#Text=The swede, a large variety of turnip, is 
+#Text=  
+#Text=  
+#Text=  
+#Text= 00 
+#Text= 
+#Text=varieties, under glass and in the open garden.
+71-1	5726-5729	The	Taste Source[18]	_	_	
+71-2	5730-5735	swede	Taste Source[18]	_	_	
+71-3	5735-5736	,	_	_	_	
+71-4	5737-5738	a	_	_	_	
+71-5	5739-5744	large	_	_	_	
+71-6	5745-5752	variety	_	_	_	
+71-7	5753-5755	of	_	_	_	
+71-8	5756-5762	turnip	_	_	_	
+71-9	5762-5763	,	_	_	_	
+71-10	5764-5766	is	_	_	_	
+71-11	5778-5780	00	_	_	_	
+71-12	5784-5793	varieties	_	_	_	
+71-13	5793-5794	,	_	_	_	
+71-14	5795-5800	under	_	_	_	
+71-15	5801-5806	glass	_	_	_	
+71-16	5807-5810	and	_	_	_	
+71-17	5811-5813	in	_	_	_	
+71-18	5814-5817	the	_	_	_	
+71-19	5818-5822	open	_	_	_	
+71-20	5823-5829	garden	_	_	_	
+71-21	5829-5830	.	_	_	_	
+
+#Text=They should 
+#Text= be young, quite firm, bright coloured, smooth on the 
+#Text= surface, and of good flavour.
+72-1	5831-5835	They	_	_	_	
+72-2	5836-5842	should	_	_	_	
+72-3	5845-5847	be	_	_	_	
+72-4	5848-5853	young	_	_	_	
+72-5	5853-5854	,	_	_	_	
+72-6	5855-5860	quite	_	_	_	
+72-7	5861-5865	firm	_	_	_	
+72-8	5865-5866	,	_	_	_	
+72-9	5867-5873	bright	_	_	_	
+72-10	5874-5882	coloured	_	_	_	
+72-11	5882-5883	,	_	_	_	
+72-12	5884-5890	smooth	_	_	_	
+72-13	5891-5893	on	_	_	_	
+72-14	5894-5897	the	_	_	_	
+72-15	5900-5907	surface	_	_	_	
+72-16	5907-5908	,	_	_	_	
+72-17	5909-5912	and	_	_	_	
+72-18	5913-5915	of	_	_	_	
+72-19	5916-5920	good	Quality	_	_	
+72-20	5921-5928	flavour	Taste Word	*|*	72-19|71-1[18_0]	
+72-21	5928-5929	.	_	_	_	
+
+#Text=They are in season July, 
+#Text= August, and September.
+73-1	5930-5934	They	_	_	_	
+73-2	5935-5938	are	_	_	_	
+73-3	5939-5941	in	_	_	_	
+73-4	5942-5948	season	_	_	_	
+73-5	5949-5953	July	_	_	_	
+73-6	5953-5954	,	_	_	_	
+73-7	5957-5963	August	_	_	_	
+73-8	5963-5964	,	_	_	_	
+73-9	5965-5968	and	_	_	_	
+73-10	5969-5978	September	_	_	_	
+73-11	5978-5979	.	_	_	_	
+
+#Text=Vegetables, like fruit, are subject to disease, or may be 
+#Text= in a state of decay.
+74-1	5985-5995	Vegetables	_	_	_	
+74-2	5995-5996	,	_	_	_	
+74-3	5997-6001	like	_	_	_	
+74-4	6002-6007	fruit	_	_	_	
+74-5	6007-6008	,	_	_	_	
+74-6	6009-6012	are	_	_	_	
+74-7	6013-6020	subject	_	_	_	
+74-8	6021-6023	to	_	_	_	
+74-9	6024-6031	disease	_	_	_	
+74-10	6031-6032	,	_	_	_	
+74-11	6033-6035	or	_	_	_	
+74-12	6036-6039	may	_	_	_	
+74-13	6040-6042	be	_	_	_	
+74-14	6045-6047	in	_	_	_	
+74-15	6048-6049	a	_	_	_	
+74-16	6050-6055	state	_	_	_	
+74-17	6056-6058	of	_	_	_	
+74-18	6059-6064	decay	_	_	_	
+74-19	6064-6065	.	_	_	_	
+
+#Text=The chief indications are softening, 
+#Text= change of colour, and external mould.
+75-1	6066-6069	The	_	_	_	
+75-2	6070-6075	chief	_	_	_	
+75-3	6076-6087	indications	_	_	_	
+75-4	6088-6091	are	_	_	_	
+75-5	6092-6101	softening	_	_	_	
+75-6	6101-6102	,	_	_	_	
+75-7	6105-6111	change	_	_	_	
+75-8	6112-6114	of	_	_	_	
+75-9	6115-6121	colour	_	_	_	
+75-10	6121-6122	,	_	_	_	
+75-11	6123-6126	and	_	_	_	
+75-12	6127-6135	external	_	_	_	
+75-13	6136-6141	mould	_	_	_	
+75-14	6141-6142	.	_	_	_	
+
+#Text=The insects and 
+#Text= parasites attacking them have been already referred to. 
+#Text=  
+#Text=  
+#Text=  
+#Text= 3D 
+#Text=  
+#Text=  
+#Text=  
+#Text= Tinned goods. — There is good reason for believing that 
+#Text= nearly all tinned fruit and vegetables are more or less con- 
+#Text= taminated with tin, the amount present being from one-tenth 
+#Text= of a grain to over one grain per pound.
+76-1	6143-6146	The	_	_	_	
+76-2	6147-6154	insects	_	_	_	
+76-3	6155-6158	and	_	_	_	
+76-4	6161-6170	parasites	_	_	_	
+76-5	6171-6180	attacking	_	_	_	
+76-6	6181-6185	them	_	_	_	
+76-7	6186-6190	have	_	_	_	
+76-8	6191-6195	been	_	_	_	
+76-9	6196-6203	already	_	_	_	
+76-10	6204-6212	referred	_	_	_	
+76-11	6213-6215	to	_	_	_	
+76-12	6215-6216	.	_	_	_	
+76-13	6228-6230	3D	_	_	_	
+76-14	6242-6248	Tinned	_	_	_	
+76-15	6249-6254	goods	_	_	_	
+76-16	6254-6255	.	_	_	_	
+76-17	6256-6257	—	_	_	_	
+76-18	6258-6263	There	_	_	_	
+76-19	6264-6266	is	_	_	_	
+76-20	6267-6271	good	_	_	_	
+76-21	6272-6278	reason	_	_	_	
+76-22	6279-6282	for	_	_	_	
+76-23	6283-6292	believing	_	_	_	
+76-24	6293-6297	that	_	_	_	
+76-25	6300-6306	nearly	_	_	_	
+76-26	6307-6310	all	_	_	_	
+76-27	6311-6317	tinned	_	_	_	
+76-28	6318-6323	fruit	_	_	_	
+76-29	6324-6327	and	_	_	_	
+76-30	6328-6338	vegetables	_	_	_	
+76-31	6339-6342	are	_	_	_	
+76-32	6343-6347	more	_	_	_	
+76-33	6348-6350	or	_	_	_	
+76-34	6351-6355	less	_	_	_	
+76-35	6356-6359	con	_	_	_	
+76-36	6359-6360	-	_	_	_	
+76-37	6363-6372	taminated	_	_	_	
+76-38	6373-6377	with	_	_	_	
+76-39	6378-6381	tin	_	_	_	
+76-40	6381-6382	,	_	_	_	
+76-41	6383-6386	the	_	_	_	
+76-42	6387-6393	amount	_	_	_	
+76-43	6394-6401	present	_	_	_	
+76-44	6402-6407	being	_	_	_	
+76-45	6408-6412	from	_	_	_	
+76-46	6413-6422	one-tenth	_	_	_	
+76-47	6425-6427	of	_	_	_	
+76-48	6428-6429	a	_	_	_	
+76-49	6430-6435	grain	_	_	_	
+76-50	6436-6438	to	_	_	_	
+76-51	6439-6443	over	_	_	_	
+76-52	6444-6447	one	_	_	_	
+76-53	6448-6453	grain	_	_	_	
+76-54	6454-6457	per	_	_	_	
+76-55	6458-6463	pound	_	_	_	
+76-56	6463-6464	.	_	_	_	
+
+#Text=Fortunately, this
+#Text=of corn : Bunt, Smut, and Ergot — Flour — Wheat flour — 
+#Text= Varieties of wheat — Yield of a quarter of wheat— Good 
+#Text= flour — Diseased, mouldy, damp, fermented, and decomposing 
+#Text= flour— Adulteration with other flours or starch — Mineral 
+#Text= adulterants — Readily applied test for presence of alum — 
+#Text= Bread defined — Wholemeal bread — Good bread described 
+#Text= — Sodden, sour, bitter, or mouldy bread— Adulteration of 
+#Text= bread.
+77-1	6465-6476	Fortunately	_	_	_	
+77-2	6476-6477	,	_	_	_	
+77-3	6478-6482	this	_	_	_	
+77-4	6483-6485	of	_	_	_	
+77-5	6486-6490	corn	_	_	_	
+77-6	6491-6492	:	_	_	_	
+77-7	6493-6497	Bunt	_	_	_	
+77-8	6497-6498	,	_	_	_	
+77-9	6499-6503	Smut	_	_	_	
+77-10	6503-6504	,	_	_	_	
+77-11	6505-6508	and	_	_	_	
+77-12	6509-6514	Ergot	_	_	_	
+77-13	6515-6516	—	_	_	_	
+77-14	6517-6522	Flour	_	_	_	
+77-15	6523-6524	—	_	_	_	
+77-16	6525-6530	Wheat	_	_	_	
+77-17	6531-6536	flour	_	_	_	
+77-18	6537-6538	—	_	_	_	
+77-19	6541-6550	Varieties	_	_	_	
+77-20	6551-6553	of	_	_	_	
+77-21	6554-6559	wheat	_	_	_	
+77-22	6560-6561	—	_	_	_	
+77-23	6562-6567	Yield	_	_	_	
+77-24	6568-6570	of	_	_	_	
+77-25	6571-6572	a	_	_	_	
+77-26	6573-6580	quarter	_	_	_	
+77-27	6581-6583	of	_	_	_	
+77-28	6584-6589	wheat	_	_	_	
+77-29	6589-6590	—	_	_	_	
+77-30	6591-6595	Good	_	_	_	
+77-31	6598-6603	flour	_	_	_	
+77-32	6604-6605	—	_	_	_	
+77-33	6606-6614	Diseased	_	_	_	
+77-34	6614-6615	,	_	_	_	
+77-35	6616-6622	mouldy	_	_	_	
+77-36	6622-6623	,	_	_	_	
+77-37	6624-6628	damp	_	_	_	
+77-38	6628-6629	,	_	_	_	
+77-39	6630-6639	fermented	_	_	_	
+77-40	6639-6640	,	_	_	_	
+77-41	6641-6644	and	_	_	_	
+77-42	6645-6656	decomposing	_	_	_	
+77-43	6659-6664	flour	_	_	_	
+77-44	6664-6665	—	_	_	_	
+77-45	6666-6678	Adulteration	_	_	_	
+77-46	6679-6683	with	_	_	_	
+77-47	6684-6689	other	_	_	_	
+77-48	6690-6696	flours	_	_	_	
+77-49	6697-6699	or	_	_	_	
+77-50	6700-6706	starch	_	_	_	
+77-51	6707-6708	—	_	_	_	
+77-52	6709-6716	Mineral	_	_	_	
+77-53	6719-6730	adulterants	_	_	_	
+77-54	6731-6732	—	_	_	_	
+77-55	6733-6740	Readily	_	_	_	
+77-56	6741-6748	applied	_	_	_	
+77-57	6749-6753	test	_	_	_	
+77-58	6754-6757	for	_	_	_	
+77-59	6758-6766	presence	_	_	_	
+77-60	6767-6769	of	_	_	_	
+77-61	6770-6774	alum	_	_	_	
+77-62	6775-6776	—	_	_	_	
+77-63	6779-6784	Bread	_	_	_	
+77-64	6785-6792	defined	_	_	_	
+77-65	6793-6794	—	_	_	_	
+77-66	6795-6804	Wholemeal	_	_	_	
+77-67	6805-6810	bread	_	_	_	
+77-68	6811-6812	—	_	_	_	
+77-69	6813-6817	Good	_	_	_	
+77-70	6818-6823	bread	_	_	_	
+77-71	6824-6833	described	_	_	_	
+77-72	6836-6837	—	_	_	_	
+77-73	6838-6844	Sodden	_	_	_	
+77-74	6844-6845	,	_	_	_	
+77-75	6846-6850	sour	Taste Word[19]|Quality[20]	*|*	77-75[20_19]|77-81[0_19]	
+77-76	6850-6851	,	_	_	_	
+77-77	6852-6858	bitter	Quality[21]|Taste Word[22]	*|*	77-77[21_22]|77-81[0_22]	
+77-78	6858-6859	,	_	_	_	
+77-79	6860-6862	or	_	_	_	
+77-80	6863-6869	mouldy	_	_	_	
+77-81	6870-6875	bread	Taste Source	_	_	
+77-82	6875-6876	—	_	_	_	
+77-83	6877-6889	Adulteration	_	_	_	
+77-84	6890-6892	of	_	_	_	
+77-85	6895-6900	bread	_	_	_	
+77-86	6900-6901	.	_	_	_	
+
+#Text=Corn is generally understood to include wheat, barley^ 
+#Text= oats, and rye.
+78-1	6907-6911	Corn	_	_	_	
+78-2	6912-6914	is	_	_	_	
+78-3	6915-6924	generally	_	_	_	
+78-4	6925-6935	understood	_	_	_	
+78-5	6936-6938	to	_	_	_	
+78-6	6939-6946	include	_	_	_	
+78-7	6947-6952	wheat	_	_	_	
+78-8	6952-6953	,	_	_	_	
+78-9	6954-6960	barley	_	_	_	
+78-10	6960-6961	^	_	_	_	
+78-11	6964-6968	oats	_	_	_	
+78-12	6968-6969	,	_	_	_	
+78-13	6970-6973	and	_	_	_	
+78-14	6974-6977	rye	_	_	_	
+78-15	6977-6978	.	_	_	_	
+
+#Text=Maize and rice also come under the term 
+#Text= " corn. '  '  It is by far the most important food substance in 
+#Text= use in this country, and if stored in a dry place keeps well.
+79-1	6979-6984	Maize	_	_	_	
+79-2	6985-6988	and	_	_	_	
+79-3	6989-6993	rice	_	_	_	
+79-4	6994-6998	also	_	_	_	
+79-5	6999-7003	come	_	_	_	
+79-6	7004-7009	under	_	_	_	
+79-7	7010-7013	the	_	_	_	
+79-8	7014-7018	term	_	_	_	
+79-9	7021-7022	"	_	_	_	
+79-10	7023-7027	corn	_	_	_	
+79-11	7027-7028	.	_	_	_	
+79-12	7029-7030	'	_	_	_	
+79-13	7032-7033	'	_	_	_	
+79-14	7035-7037	It	_	_	_	
+79-15	7038-7040	is	_	_	_	
+79-16	7041-7043	by	_	_	_	
+79-17	7044-7047	far	_	_	_	
+79-18	7048-7051	the	_	_	_	
+79-19	7052-7056	most	_	_	_	
+79-20	7057-7066	important	_	_	_	
+79-21	7067-7071	food	_	_	_	
+79-22	7072-7081	substance	_	_	_	
+79-23	7082-7084	in	_	_	_	
+79-24	7087-7090	use	_	_	_	
+79-25	7091-7093	in	_	_	_	
+79-26	7094-7098	this	_	_	_	
+79-27	7099-7106	country	_	_	_	
+79-28	7106-7107	,	_	_	_	
+79-29	7108-7111	and	_	_	_	
+79-30	7112-7114	if	_	_	_	
+79-31	7115-7121	stored	_	_	_	
+79-32	7122-7124	in	_	_	_	
+79-33	7125-7126	a	_	_	_	
+79-34	7127-7130	dry	_	_	_	
+79-35	7131-7136	place	_	_	_	
+79-36	7137-7142	keeps	_	_	_	
+79-37	7143-7147	well	_	_	_	
+79-38	7147-7148	.	_	_	_	
+
+#Text=Barley will grow even in the Arctic circle, and oats in quite 
+#Text= a cold climate.
+80-1	7151-7157	Barley	_	_	_	
+80-2	7158-7162	will	_	_	_	
+80-3	7163-7167	grow	_	_	_	
+80-4	7168-7172	even	_	_	_	
+80-5	7173-7175	in	_	_	_	
+80-6	7176-7179	the	_	_	_	
+80-7	7180-7186	Arctic	_	_	_	
+80-8	7187-7193	circle	_	_	_	
+80-9	7193-7194	,	_	_	_	
+80-10	7195-7198	and	_	_	_	
+80-11	7199-7203	oats	_	_	_	
+80-12	7204-7206	in	_	_	_	
+80-13	7207-7212	quite	_	_	_	
+80-14	7215-7216	a	_	_	_	
+80-15	7217-7221	cold	_	_	_	
+80-16	7222-7229	climate	_	_	_	
+80-17	7229-7230	.	_	_	_	
+
+#Text=Rye requires more warmth, wheat yet 
+#Text= more, and maize more again, while rice is the corn of 
+#Text= tropical countries.
+81-1	7231-7234	Rye	_	_	_	
+81-2	7235-7243	requires	_	_	_	
+81-3	7244-7248	more	_	_	_	
+81-4	7249-7255	warmth	_	_	_	
+81-5	7255-7256	,	_	_	_	
+81-6	7257-7262	wheat	_	_	_	
+81-7	7263-7266	yet	_	_	_	
+81-8	7269-7273	more	_	_	_	
+81-9	7273-7274	,	_	_	_	
+81-10	7275-7278	and	_	_	_	
+81-11	7279-7284	maize	_	_	_	
+81-12	7285-7289	more	_	_	_	
+81-13	7290-7295	again	_	_	_	
+81-14	7295-7296	,	_	_	_	
+81-15	7297-7302	while	_	_	_	
+81-16	7303-7307	rice	_	_	_	
+81-17	7308-7310	is	_	_	_	
+81-18	7311-7314	the	_	_	_	
+81-19	7315-7319	corn	_	_	_	
+81-20	7320-7322	of	_	_	_	
+81-21	7325-7333	tropical	_	_	_	
+81-22	7334-7343	countries	_	_	_	
+81-23	7343-7344	.	_	_	_	
+
+#Text=In all kinds of corn the bulk consists chiefly of starch 
+#Text= contained in a husk.
+82-1	7350-7352	In	_	_	_	
+82-2	7353-7356	all	_	_	_	
+82-3	7357-7362	kinds	_	_	_	
+82-4	7363-7365	of	_	_	_	
+82-5	7366-7370	corn	_	_	_	
+82-6	7371-7374	the	_	_	_	
+82-7	7375-7379	bulk	_	_	_	
+82-8	7380-7388	consists	_	_	_	
+82-9	7389-7396	chiefly	_	_	_	
+82-10	7397-7399	of	_	_	_	
+82-11	7400-7406	starch	_	_	_	
+82-12	7409-7418	contained	_	_	_	
+82-13	7419-7421	in	_	_	_	
+82-14	7422-7423	a	_	_	_	
+82-15	7424-7428	husk	_	_	_	
+82-16	7428-7429	.	_	_	_	
+
+#Text=It is easy to tell one kind of corn
+#Text=the presence of the spores of some fungus will probably be 
+#Text= detected on examining it under the microscope.
+83-1	7430-7432	It	_	_	_	
+83-2	7433-7435	is	_	_	_	
+83-3	7436-7440	easy	_	_	_	
+83-4	7441-7443	to	_	_	_	
+83-5	7444-7448	tell	_	_	_	
+83-6	7449-7452	one	_	_	_	
+83-7	7453-7457	kind	_	_	_	
+83-8	7458-7460	of	_	_	_	
+83-9	7461-7465	corn	_	_	_	
+83-10	7466-7469	the	_	_	_	
+83-11	7470-7478	presence	_	_	_	
+83-12	7479-7481	of	_	_	_	
+83-13	7482-7485	the	_	_	_	
+83-14	7486-7492	spores	_	_	_	
+83-15	7493-7495	of	_	_	_	
+83-16	7496-7500	some	_	_	_	
+83-17	7501-7507	fungus	_	_	_	
+83-18	7508-7512	will	_	_	_	
+83-19	7513-7521	probably	_	_	_	
+83-20	7522-7524	be	_	_	_	
+83-21	7527-7535	detected	_	_	_	
+83-22	7536-7538	on	_	_	_	
+83-23	7539-7548	examining	_	_	_	
+83-24	7549-7551	it	_	_	_	
+83-25	7552-7557	under	_	_	_	
+83-26	7558-7561	the	_	_	_	
+83-27	7562-7572	microscope	_	_	_	
+83-28	7572-7573	.	_	_	_	
+
+#Text=Flour 
+#Text= may also be mouldy, a condition which is at once known 
+#Text= by the characteristic smell.
+84-1	7574-7579	Flour	Taste Source	_	_	
+84-2	7582-7585	may	_	_	_	
+84-3	7586-7590	also	_	_	_	
+84-4	7591-7593	be	_	_	_	
+84-5	7594-7600	mouldy	_	_	_	
+84-6	7600-7601	,	_	_	_	
+84-7	7602-7603	a	_	_	_	
+84-8	7604-7613	condition	_	_	_	
+84-9	7614-7619	which	_	_	_	
+84-10	7620-7622	is	_	_	_	
+84-11	7623-7625	at	_	_	_	
+84-12	7626-7630	once	_	_	_	
+84-13	7631-7636	known	_	_	_	
+84-14	7639-7641	by	_	_	_	
+84-15	7642-7645	the	_	_	_	
+84-16	7646-7660	characteristic	_	_	_	
+84-17	7661-7666	smell	_	_	_	
+84-18	7666-7667	.	_	_	_	
+
+#Text=It may be exposed to damp, to 
+#Text= make it weigh heavier, when it is more liable to mould.
+85-1	7668-7670	It	_	_	_	
+85-2	7671-7674	may	_	_	_	
+85-3	7675-7677	be	_	_	_	
+85-4	7678-7685	exposed	_	_	_	
+85-5	7686-7688	to	_	_	_	
+85-6	7689-7693	damp	_	_	_	
+85-7	7693-7694	,	_	_	_	
+85-8	7695-7697	to	_	_	_	
+85-9	7700-7704	make	_	_	_	
+85-10	7705-7707	it	_	_	_	
+85-11	7708-7713	weigh	_	_	_	
+85-12	7714-7721	heavier	_	_	_	
+85-13	7721-7722	,	_	_	_	
+85-14	7723-7727	when	_	_	_	
+85-15	7728-7730	it	_	_	_	
+85-16	7731-7733	is	_	_	_	
+85-17	7734-7738	more	_	_	_	
+85-18	7739-7745	liable	_	_	_	
+85-19	7746-7748	to	_	_	_	
+85-20	7749-7754	mould	_	_	_	
+85-21	7754-7755	.	_	_	_	
+
+#Text=It 
+#Text= may have undergone a kind of acid fermentation.
+86-1	7756-7758	It	_	_	_	
+86-2	7761-7764	may	_	_	_	
+86-3	7765-7769	have	_	_	_	
+86-4	7770-7779	undergone	_	_	_	
+86-5	7780-7781	a	_	_	_	
+86-6	7782-7786	kind	_	_	_	
+86-7	7787-7789	of	_	_	_	
+86-8	7790-7794	acid	_	_	_	
+86-9	7795-7807	fermentation	Circumstance	_	_	
+86-10	7807-7808	.	_	_	_	
+
+#Text=This 
+#Text= gives it a peculiar smell, an acid taste, and makes it some- 
+#Text= what gritty to the touch.
+87-1	7809-7813	This	_	_	_	
+87-2	7816-7821	gives	_	_	_	
+87-3	7822-7824	it	_	_	_	
+87-4	7825-7826	a	_	_	_	
+87-5	7827-7835	peculiar	_	_	_	
+87-6	7836-7841	smell	_	_	_	
+87-7	7841-7842	,	_	_	_	
+87-8	7843-7845	an	_	_	_	
+87-9	7846-7850	acid	Quality[23]|Taste Word[24]	*	87-9[23_24]	
+87-10	7851-7856	taste	Taste Word	*|*|*	87-9[23_0]|86-9|84-1	
+87-11	7856-7857	,	_	_	_	
+87-12	7858-7861	and	_	_	_	
+87-13	7862-7867	makes	_	_	_	
+87-14	7868-7870	it	_	_	_	
+87-15	7871-7875	some	_	_	_	
+87-16	7875-7876	-	_	_	_	
+87-17	7879-7883	what	_	_	_	
+87-18	7884-7890	gritty	_	_	_	
+87-19	7891-7893	to	_	_	_	
+87-20	7894-7897	the	_	_	_	
+87-21	7898-7903	touch	_	_	_	
+87-22	7903-7904	.	_	_	_	
+
+#Text=Flour may be in a state of active 
+#Text= decomposition, when it will be moist, discoloured, and of 
+#Text= an offensive smell.
+88-1	7905-7910	Flour	_	_	_	
+88-2	7911-7914	may	_	_	_	
+88-3	7915-7917	be	_	_	_	
+88-4	7918-7920	in	_	_	_	
+88-5	7921-7922	a	_	_	_	
+88-6	7923-7928	state	_	_	_	
+88-7	7929-7931	of	_	_	_	
+88-8	7932-7938	active	_	_	_	
+88-9	7941-7954	decomposition	_	_	_	
+88-10	7954-7955	,	_	_	_	
+88-11	7956-7960	when	_	_	_	
+88-12	7961-7963	it	_	_	_	
+88-13	7964-7968	will	_	_	_	
+88-14	7969-7971	be	_	_	_	
+88-15	7972-7977	moist	_	_	_	
+88-16	7977-7978	,	_	_	_	
+88-17	7979-7990	discoloured	_	_	_	
+88-18	7990-7991	,	_	_	_	
+88-19	7992-7995	and	_	_	_	
+88-20	7996-7998	of	_	_	_	
+88-21	8001-8003	an	_	_	_	
+88-22	8004-8013	offensive	_	_	_	
+88-23	8014-8019	smell	_	_	_	
+88-24	8019-8020	.	_	_	_	
+
+#Text=Flour is also subject to two forms of 
+#Text= adulteration — it may be mixed with a cheaper flour, with 
+#Text= meal, or starch, or with some mineral substance to increase 
+#Text= its weight or improve its colour.
+89-1	8021-8026	Flour	_	_	_	
+89-2	8027-8029	is	_	_	_	
+89-3	8030-8034	also	_	_	_	
+89-4	8035-8042	subject	_	_	_	
+89-5	8043-8045	to	_	_	_	
+89-6	8046-8049	two	_	_	_	
+89-7	8050-8055	forms	_	_	_	
+89-8	8056-8058	of	_	_	_	
+89-9	8061-8073	adulteration	_	_	_	
+89-10	8074-8075	—	_	_	_	
+89-11	8076-8078	it	_	_	_	
+89-12	8079-8082	may	_	_	_	
+89-13	8083-8085	be	_	_	_	
+89-14	8086-8091	mixed	_	_	_	
+89-15	8092-8096	with	_	_	_	
+89-16	8097-8098	a	_	_	_	
+89-17	8099-8106	cheaper	_	_	_	
+89-18	8107-8112	flour	_	_	_	
+89-19	8112-8113	,	_	_	_	
+89-20	8114-8118	with	_	_	_	
+89-21	8121-8125	meal	_	_	_	
+89-22	8125-8126	,	_	_	_	
+89-23	8127-8129	or	_	_	_	
+89-24	8130-8136	starch	_	_	_	
+89-25	8136-8137	,	_	_	_	
+89-26	8138-8140	or	_	_	_	
+89-27	8141-8145	with	_	_	_	
+89-28	8146-8150	some	_	_	_	
+89-29	8151-8158	mineral	_	_	_	
+89-30	8159-8168	substance	_	_	_	
+89-31	8169-8171	to	_	_	_	
+89-32	8172-8180	increase	_	_	_	
+89-33	8183-8186	its	_	_	_	
+89-34	8187-8193	weight	_	_	_	
+89-35	8194-8196	or	_	_	_	
+89-36	8197-8204	improve	_	_	_	
+89-37	8205-8208	its	_	_	_	
+89-38	8209-8215	colour	_	_	_	
+89-39	8215-8216	.	_	_	_	
+
+#Text=Wheat flour is thus liable 
+#Text= to be adulterated with the flour of barley, oats, maize, rice ?
+90-1	8217-8222	Wheat	_	_	_	
+90-2	8223-8228	flour	_	_	_	
+90-3	8229-8231	is	_	_	_	
+90-4	8232-8236	thus	_	_	_	
+90-5	8237-8243	liable	_	_	_	
+90-6	8246-8248	to	_	_	_	
+90-7	8249-8251	be	_	_	_	
+90-8	8252-8263	adulterated	_	_	_	
+90-9	8264-8268	with	_	_	_	
+90-10	8269-8272	the	_	_	_	
+90-11	8273-8278	flour	_	_	_	
+90-12	8279-8281	of	_	_	_	
+90-13	8282-8288	barley	_	_	_	
+90-14	8288-8289	,	_	_	_	
+90-15	8290-8294	oats	_	_	_	
+90-16	8294-8295	,	_	_	_	
+90-17	8296-8301	maize	_	_	_	
+90-18	8301-8302	,	_	_	_	
+90-19	8303-8307	rice	_	_	_	
+90-20	8308-8309	?	_	_	_	
+
+#Text=and, less frequently, rye, or buckwheat, beans, peas, and 
+#Text= linseed.
+91-1	8312-8315	and	_	_	_	
+91-2	8315-8316	,	_	_	_	
+91-3	8317-8321	less	_	_	_	
+91-4	8322-8332	frequently	_	_	_	
+91-5	8332-8333	,	_	_	_	
+91-6	8334-8337	rye	_	_	_	
+91-7	8337-8338	,	_	_	_	
+91-8	8339-8341	or	_	_	_	
+91-9	8342-8351	buckwheat	_	_	_	
+91-10	8351-8352	,	_	_	_	
+91-11	8353-8358	beans	_	_	_	
+91-12	8358-8359	,	_	_	_	
+91-13	8360-8364	peas	_	_	_	
+91-14	8364-8365	,	_	_	_	
+91-15	8366-8369	and	_	_	_	
+91-16	8372-8379	linseed	_	_	_	
+91-17	8379-8380	.	_	_	_	
+
+#Text=Potato starch is also sometimes used for this 
+#Text= purpose.
+92-1	8381-8387	Potato	_	_	_	
+92-2	8388-8394	starch	_	_	_	
+92-3	8395-8397	is	_	_	_	
+92-4	8398-8402	also	_	_	_	
+92-5	8403-8412	sometimes	_	_	_	
+92-6	8413-8417	used	_	_	_	
+92-7	8418-8421	for	_	_	_	
+92-8	8422-8426	this	_	_	_	
+92-9	8429-8436	purpose	_	_	_	
+92-10	8436-8437	.	_	_	_	
+
+#Text=Most of these adulterants can be certainly 
+#Text= detected by examining the flour under the microscope.
+93-1	8438-8442	Most	_	_	_	
+93-2	8443-8445	of	_	_	_	
+93-3	8446-8451	these	_	_	_	
+93-4	8452-8463	adulterants	_	_	_	
+93-5	8464-8467	can	_	_	_	
+93-6	8468-8470	be	_	_	_	
+93-7	8471-8480	certainly	_	_	_	
+93-8	8483-8491	detected	_	_	_	
+93-9	8492-8494	by	_	_	_	
+93-10	8495-8504	examining	_	_	_	
+93-11	8505-8508	the	_	_	_	
+93-12	8509-8514	flour	Taste Source	_	_	
+93-13	8515-8520	under	_	_	_	
+93-14	8521-8524	the	_	_	_	
+93-15	8525-8535	microscope	_	_	_	
+93-16	8535-8536	.	_	_	_	
+
+#Text=Some will appreciably alter the colour and taste of the 
+#Text= 
+#Text=may be freed from the husk or may contain part or the 
+#Text= whole of it.
+94-1	8539-8543	Some	_	_	_	
+94-2	8544-8548	will	_	_	_	
+94-3	8549-8560	appreciably	_	_	_	
+94-4	8561-8566	alter	_	_	_	
+94-5	8567-8570	the	_	_	_	
+94-6	8571-8577	colour	_	_	_	
+94-7	8578-8581	and	_	_	_	
+94-8	8582-8587	taste	Taste Word	*	93-12	
+94-9	8588-8590	of	_	_	_	
+94-10	8591-8594	the	_	_	_	
+94-11	8598-8601	may	_	_	_	
+94-12	8602-8604	be	_	_	_	
+94-13	8605-8610	freed	_	_	_	
+94-14	8611-8615	from	_	_	_	
+94-15	8616-8619	the	_	_	_	
+94-16	8620-8624	husk	_	_	_	
+94-17	8625-8627	or	_	_	_	
+94-18	8628-8631	may	_	_	_	
+94-19	8632-8639	contain	_	_	_	
+94-20	8640-8644	part	_	_	_	
+94-21	8645-8647	or	_	_	_	
+94-22	8648-8651	the	_	_	_	
+94-23	8654-8659	whole	_	_	_	
+94-24	8660-8662	of	_	_	_	
+94-25	8663-8665	it	_	_	_	
+94-26	8665-8666	.	_	_	_	
+
+#Text=The so-called " wholemeal bread " is made 
+#Text= from the flour of wheat from which only the bran has been 
+#Text= removed.
+95-1	8667-8670	The	_	_	_	
+95-2	8671-8680	so-called	_	_	_	
+95-3	8681-8682	"	_	_	_	
+95-4	8683-8692	wholemeal	_	_	_	
+95-5	8693-8698	bread	_	_	_	
+95-6	8699-8700	"	_	_	_	
+95-7	8701-8703	is	_	_	_	
+95-8	8704-8708	made	_	_	_	
+95-9	8711-8715	from	_	_	_	
+95-10	8716-8719	the	_	_	_	
+95-11	8720-8725	flour	_	_	_	
+95-12	8726-8728	of	_	_	_	
+95-13	8729-8734	wheat	_	_	_	
+95-14	8735-8739	from	_	_	_	
+95-15	8740-8745	which	_	_	_	
+95-16	8746-8750	only	_	_	_	
+95-17	8751-8754	the	_	_	_	
+95-18	8755-8759	bran	_	_	_	
+95-19	8760-8763	has	_	_	_	
+95-20	8764-8768	been	_	_	_	
+95-21	8771-8778	removed	_	_	_	
+95-22	8778-8779	.	_	_	_	
+
+#Text=The bread may be unleavened or it may be 
+#Text= aerated with leaven or yeast, by kneading the flour with 
+#Text= water charged with carbonic acid, or by means of a baking 
+#Text= powder or a chemical compound.
+96-1	8780-8783	The	_	_	_	
+96-2	8784-8789	bread	_	_	_	
+96-3	8790-8793	may	_	_	_	
+96-4	8794-8796	be	_	_	_	
+96-5	8797-8807	unleavened	_	_	_	
+96-6	8808-8810	or	_	_	_	
+96-7	8811-8813	it	_	_	_	
+96-8	8814-8817	may	_	_	_	
+96-9	8818-8820	be	_	_	_	
+96-10	8823-8830	aerated	_	_	_	
+96-11	8831-8835	with	_	_	_	
+96-12	8836-8842	leaven	_	_	_	
+96-13	8843-8845	or	_	_	_	
+96-14	8846-8851	yeast	_	_	_	
+96-15	8851-8852	,	_	_	_	
+96-16	8853-8855	by	_	_	_	
+96-17	8856-8864	kneading	_	_	_	
+96-18	8865-8868	the	_	_	_	
+96-19	8869-8874	flour	_	_	_	
+96-20	8875-8879	with	_	_	_	
+96-21	8882-8887	water	_	_	_	
+96-22	8888-8895	charged	_	_	_	
+96-23	8896-8900	with	_	_	_	
+96-24	8901-8909	carbonic	_	_	_	
+96-25	8910-8914	acid	_	_	_	
+96-26	8914-8915	,	_	_	_	
+96-27	8916-8918	or	_	_	_	
+96-28	8919-8921	by	_	_	_	
+96-29	8922-8927	means	_	_	_	
+96-30	8928-8930	of	_	_	_	
+96-31	8931-8932	a	_	_	_	
+96-32	8933-8939	baking	_	_	_	
+96-33	8942-8948	powder	_	_	_	
+96-34	8949-8951	or	_	_	_	
+96-35	8952-8953	a	_	_	_	
+96-36	8954-8962	chemical	_	_	_	
+96-37	8963-8971	compound	_	_	_	
+96-38	8971-8972	.	_	_	_	
+
+#Text=Thus, bread includes 
+#Text= oat cakes, passover cakes, water biscuits, black or rye bread, 
+#Text= &c.
+97-1	8973-8977	Thus	_	_	_	
+97-2	8977-8978	,	_	_	_	
+97-3	8979-8984	bread	_	_	_	
+97-4	8985-8993	includes	_	_	_	
+97-5	8996-8999	oat	_	_	_	
+97-6	9000-9005	cakes	_	_	_	
+97-7	9005-9006	,	_	_	_	
+97-8	9007-9015	passover	_	_	_	
+97-9	9016-9021	cakes	_	_	_	
+97-10	9021-9022	,	_	_	_	
+97-11	9023-9028	water	_	_	_	
+97-12	9029-9037	biscuits	_	_	_	
+97-13	9037-9038	,	_	_	_	
+97-14	9039-9044	black	_	_	_	
+97-15	9045-9047	or	_	_	_	
+97-16	9048-9051	rye	_	_	_	
+97-17	9052-9057	bread	_	_	_	
+97-18	9057-9058	,	_	_	_	
+97-19	9061-9062	&	_	_	_	
+97-20	9062-9063	c	_	_	_	
+97-21	9063-9064	.	_	_	_	
+
+#Text=The word is, however, in this country usually restricted 
+#Text= to wheaten bread leavened, fermented, or aerated.
+98-1	9065-9068	The	_	_	_	
+98-2	9069-9073	word	_	_	_	
+98-3	9074-9076	is	_	_	_	
+98-4	9076-9077	,	_	_	_	
+98-5	9078-9085	however	_	_	_	
+98-6	9085-9086	,	_	_	_	
+98-7	9087-9089	in	_	_	_	
+98-8	9090-9094	this	_	_	_	
+98-9	9095-9102	country	_	_	_	
+98-10	9103-9110	usually	_	_	_	
+98-11	9111-9121	restricted	_	_	_	
+98-12	9124-9126	to	_	_	_	
+98-13	9127-9134	wheaten	_	_	_	
+98-14	9135-9140	bread	_	_	_	
+98-15	9141-9149	leavened	_	_	_	
+98-16	9149-9150	,	_	_	_	
+98-17	9151-9160	fermented	_	_	_	
+98-18	9160-9161	,	_	_	_	
+98-19	9162-9164	or	_	_	_	
+98-20	9165-9172	aerated	_	_	_	
+98-21	9172-9173	.	_	_	_	
+
+#Text=Good wheaten bread should be well baked (not burnt), 
+#Text= light and spongy, the crumb being well permeated with little 
+#Text= cavities.
+99-1	9179-9183	Good	Taste Source[25]	_	_	
+99-2	9184-9191	wheaten	Taste Source[25]	_	_	
+99-3	9192-9197	bread	Taste Source[25]	_	_	
+99-4	9198-9204	should	_	_	_	
+99-5	9205-9207	be	_	_	_	
+99-6	9208-9212	well	_	_	_	
+99-7	9213-9218	baked	_	_	_	
+99-8	9219-9220	(	_	_	_	
+99-9	9220-9223	not	_	_	_	
+99-10	9224-9229	burnt	_	_	_	
+99-11	9229-9230	)	_	_	_	
+99-12	9230-9231	,	_	_	_	
+99-13	9234-9239	light	_	_	_	
+99-14	9240-9243	and	_	_	_	
+99-15	9244-9250	spongy	_	_	_	
+99-16	9250-9251	,	_	_	_	
+99-17	9252-9255	the	_	_	_	
+99-18	9256-9261	crumb	_	_	_	
+99-19	9262-9267	being	_	_	_	
+99-20	9268-9272	well	_	_	_	
+99-21	9273-9282	permeated	_	_	_	
+99-22	9283-9287	with	_	_	_	
+99-23	9288-9294	little	_	_	_	
+99-24	9297-9305	cavities	_	_	_	
+99-25	9305-9306	.	_	_	_	
+
+#Text=It should be thoroughly kneaded, of good colour 
+#Text= (white or brown), not acid to the taste, not bitter, not too 
+#Text= moist.
+100-1	9307-9309	It	Taste Source	anaphorical	99-1[25_0]	
+100-2	9310-9316	should	_	_	_	
+100-3	9317-9319	be	_	_	_	
+100-4	9320-9330	thoroughly	_	_	_	
+100-5	9331-9338	kneaded	_	_	_	
+100-6	9338-9339	,	_	_	_	
+100-7	9340-9342	of	_	_	_	
+100-8	9343-9347	good	_	_	_	
+100-9	9348-9354	colour	_	_	_	
+100-10	9357-9358	(	_	_	_	
+100-11	9358-9363	white	_	_	_	
+100-12	9364-9366	or	_	_	_	
+100-13	9367-9372	brown	_	_	_	
+100-14	9372-9373	)	_	_	_	
+100-15	9373-9374	,	_	_	_	
+100-16	9375-9378	not	_	_	_	
+100-17	9379-9383	acid	Taste Word[26]|Quality[27]	*	100-17[27_26]	
+100-18	9384-9386	to	_	_	_	
+100-19	9387-9390	the	_	_	_	
+100-20	9391-9396	taste	Taste Word	*|*|*	100-1|100-17[27_0]|100-23[29_0]	
+100-21	9396-9397	,	_	_	_	
+100-22	9398-9401	not	_	_	_	
+100-23	9402-9408	bitter	Taste Word[28]|Quality[29]	*	100-23[29_28]	
+100-24	9408-9409	,	_	_	_	
+100-25	9410-9413	not	_	_	_	
+100-26	9414-9417	too	_	_	_	
+100-27	9420-9425	moist	_	_	_	
+100-28	9425-9426	.	_	_	_	
+
+#Text=When set aside, the lower part should not become 
+#Text= sodden.
+101-1	9427-9431	When	_	_	_	
+101-2	9432-9435	set	_	_	_	
+101-3	9436-9441	aside	_	_	_	
+101-4	9441-9442	,	_	_	_	
+101-5	9443-9446	the	_	_	_	
+101-6	9447-9452	lower	_	_	_	
+101-7	9453-9457	part	_	_	_	
+101-8	9458-9464	should	_	_	_	
+101-9	9465-9468	not	_	_	_	
+101-10	9469-9475	become	_	_	_	
+101-11	9478-9484	sodden	_	_	_	
+101-12	9484-9485	.	_	_	_	
+
+#Text=A 4-lb. loaf loses about ij oz. in twenty-four 
+#Text= hours, about 5 oz. in forty-eight hours, and about 7 oz. in 
+#Text= sixty hours.
+102-1	9486-9487	A	_	_	_	
+102-2	9488-9489	4	_	_	_	
+102-3	9489-9490	-	_	_	_	
+102-4	9490-9492	lb	_	_	_	
+102-5	9492-9493	.	_	_	_	
+102-6	9494-9498	loaf	_	_	_	
+102-7	9499-9504	loses	_	_	_	
+102-8	9505-9510	about	_	_	_	
+102-9	9511-9513	ij	_	_	_	
+102-10	9514-9516	oz	_	_	_	
+102-11	9516-9517	.	_	_	_	
+102-12	9518-9520	in	_	_	_	
+102-13	9521-9532	twenty-four	_	_	_	
+102-14	9535-9540	hours	_	_	_	
+102-15	9540-9541	,	_	_	_	
+102-16	9542-9547	about	_	_	_	
+102-17	9548-9549	5	_	_	_	
+102-18	9550-9552	oz	_	_	_	
+102-19	9552-9553	.	_	_	_	
+102-20	9554-9556	in	_	_	_	
+102-21	9557-9568	forty-eight	_	_	_	
+102-22	9569-9574	hours	_	_	_	
+102-23	9574-9575	,	_	_	_	
+102-24	9576-9579	and	_	_	_	
+102-25	9580-9585	about	_	_	_	
+102-26	9586-9587	7	_	_	_	
+102-27	9588-9590	oz	_	_	_	
+102-28	9590-9591	.	_	_	_	
+102-29	9592-9594	in	_	_	_	
+102-30	9597-9602	sixty	_	_	_	
+102-31	9603-9608	hours	_	_	_	
+102-32	9608-9609	.	_	_	_	
+
+#Text=This loss will vary with the temperature, 
+#Text= draughts of air, &c.
+103-1	9610-9614	This	_	_	_	
+103-2	9615-9619	loss	_	_	_	
+103-3	9620-9624	will	_	_	_	
+103-4	9625-9629	vary	_	_	_	
+103-5	9630-9634	with	_	_	_	
+103-6	9635-9638	the	_	_	_	
+103-7	9639-9650	temperature	_	_	_	
+103-8	9650-9651	,	_	_	_	
+103-9	9654-9662	draughts	_	_	_	
+103-10	9663-9665	of	_	_	_	
+103-11	9666-9669	air	_	_	_	
+103-12	9669-9670	,	_	_	_	
+103-13	9671-9672	&	_	_	_	
+103-14	9672-9673	c	_	_	_	
+103-15	9673-9674	.	_	_	_	
+
+#Text=M 
+#Text=  
+#Text=  
+#Text=  
+#Text= 162 
+#Text=  
+#Text= Bread may have many defects.
+104-1	9678-9679	M	_	_	_	
+104-2	9691-9694	162	_	_	_	
+104-3	9700-9705	Bread	Taste Source	_	_	
+104-4	9706-9709	may	_	_	_	
+104-5	9710-9714	have	_	_	_	
+104-6	9715-9719	many	_	_	_	
+104-7	9720-9727	defects	_	_	_	
+104-8	9727-9728	.	_	_	_	
+
+#Text=It may be sodden and 
+#Text= heavy owing to bad flour or yeast, the sponge never having 
+#Text= risen properly, or owing to imperfect baking.
+105-1	9729-9731	It	_	_	_	
+105-2	9732-9735	may	_	_	_	
+105-3	9736-9738	be	_	_	_	
+105-4	9739-9745	sodden	_	_	_	
+105-5	9746-9749	and	_	_	_	
+105-6	9752-9757	heavy	_	_	_	
+105-7	9758-9763	owing	_	_	_	
+105-8	9764-9766	to	_	_	_	
+105-9	9767-9770	bad	_	_	_	
+105-10	9771-9776	flour	_	_	_	
+105-11	9777-9779	or	_	_	_	
+105-12	9780-9785	yeast	_	_	_	
+105-13	9785-9786	,	_	_	_	
+105-14	9787-9790	the	_	_	_	
+105-15	9791-9797	sponge	_	_	_	
+105-16	9798-9803	never	_	_	_	
+105-17	9804-9810	having	_	_	_	
+105-18	9813-9818	risen	_	_	_	
+105-19	9819-9827	properly	_	_	_	
+105-20	9827-9828	,	_	_	_	
+105-21	9829-9831	or	_	_	_	
+105-22	9832-9837	owing	_	_	_	
+105-23	9838-9840	to	_	_	_	
+105-24	9841-9850	imperfect	_	_	_	
+105-25	9851-9857	baking	_	_	_	
+105-26	9857-9858	.	_	_	_	
+
+#Text=It may be 
+#Text= sour owing to bad flour, or to fermentation having been 
+#Text= allowed to proceed too far.
+106-1	9859-9861	It	_	_	_	
+106-2	9862-9865	may	_	_	_	
+106-3	9866-9868	be	_	_	_	
+106-4	9871-9875	sour	Taste Word[30]|Quality[31]	*|*|*	106-4[31_30]|104-3[0_30]|106-5[32_30]	
+106-5	9876-9881	owing	Circumstance[32]	_	_	
+106-6	9882-9884	to	Circumstance[32]	_	_	
+106-7	9885-9888	bad	Circumstance[32]	_	_	
+106-8	9889-9894	flour	Circumstance[32]	_	_	
+106-9	9894-9895	,	Circumstance[32]	_	_	
+106-10	9896-9898	or	Circumstance[32]	_	_	
+106-11	9899-9901	to	Circumstance[32]	_	_	
+106-12	9902-9914	fermentation	Circumstance[32]	_	_	
+106-13	9915-9921	having	Circumstance[32]	_	_	
+106-14	9922-9926	been	Circumstance[32]	_	_	
+106-15	9929-9936	allowed	Circumstance[32]	_	_	
+106-16	9937-9939	to	Circumstance[32]	_	_	
+106-17	9940-9947	proceed	Circumstance[32]	_	_	
+106-18	9948-9951	too	Circumstance[32]	_	_	
+106-19	9952-9955	far	Circumstance[32]	_	_	
+106-20	9955-9956	.	_	_	_	
+
+#Text=A slight degree of sourness in 
+#Text= leavened bread is not objected to.
+107-1	9957-9958	A	_	_	_	
+107-2	9959-9965	slight	Quality	_	_	
+107-3	9966-9972	degree	_	_	_	
+107-4	9973-9975	of	_	_	_	
+107-5	9976-9984	sourness	Taste Word[33]|Quality[34]	*|*|*	107-5[34_33]|107-7[35_33]|107-2[0_33]	
+107-6	9985-9987	in	_	_	_	
+107-7	9990-9998	leavened	Taste Source[35]	_	_	
+107-8	9999-10004	bread	Taste Source[35]	_	_	
+107-9	10005-10007	is	_	_	_	
+107-10	10008-10011	not	_	_	_	
+107-11	10012-10020	objected	_	_	_	
+107-12	10021-10023	to	_	_	_	
+107-13	10023-10024	.	_	_	_	
+
+#Text=It may be bitter owing 
+#Text= to bitter yeast.
+108-1	10025-10027	It	Taste Source	anaphorical	107-7[35_0]	
+108-2	10028-10031	may	_	_	_	
+108-3	10032-10034	be	_	_	_	
+108-4	10035-10041	bitter	Taste Word[36]|Quality[37]	*|*|*	108-4[37_36]|108-1[0_36]|108-5[38_36]	
+108-5	10042-10047	owing	Circumstance[38]	_	_	
+108-6	10050-10052	to	Circumstance[38]	_	_	
+108-7	10053-10059	bitter	Circumstance[38]|Taste Word[39]|Quality[40]	*|*	108-7[40_39]|108-8[41_39]	
+108-8	10060-10065	yeast	Circumstance[38]|Taste Source[41]	_	_	
+108-9	10065-10066	.	_	_	_	
+
+#Text=Finally, it may be mouldy, which is due 
+#Text= to the bread having been too moist originally, having been 
+#Text= kept in a damp place, or kept too long, or to bad flour 
+#Text= having been used.
+109-1	10067-10074	Finally	_	_	_	
+109-2	10074-10075	,	_	_	_	
+109-3	10076-10078	it	_	_	_	
+109-4	10079-10082	may	_	_	_	
+109-5	10083-10085	be	_	_	_	
+109-6	10086-10092	mouldy	_	_	_	
+109-7	10092-10093	,	_	_	_	
+109-8	10094-10099	which	_	_	_	
+109-9	10100-10102	is	_	_	_	
+109-10	10103-10106	due	_	_	_	
+109-11	10109-10111	to	_	_	_	
+109-12	10112-10115	the	_	_	_	
+109-13	10116-10121	bread	_	_	_	
+109-14	10122-10128	having	_	_	_	
+109-15	10129-10133	been	_	_	_	
+109-16	10134-10137	too	_	_	_	
+109-17	10138-10143	moist	_	_	_	
+109-18	10144-10154	originally	_	_	_	
+109-19	10154-10155	,	_	_	_	
+109-20	10156-10162	having	_	_	_	
+109-21	10163-10167	been	_	_	_	
+109-22	10170-10174	kept	_	_	_	
+109-23	10175-10177	in	_	_	_	
+109-24	10178-10179	a	_	_	_	
+109-25	10180-10184	damp	_	_	_	
+109-26	10185-10190	place	_	_	_	
+109-27	10190-10191	,	_	_	_	
+109-28	10192-10194	or	_	_	_	
+109-29	10195-10199	kept	_	_	_	
+109-30	10200-10203	too	_	_	_	
+109-31	10204-10208	long	_	_	_	
+109-32	10208-10209	,	_	_	_	
+109-33	10210-10212	or	_	_	_	
+109-34	10213-10215	to	_	_	_	
+109-35	10216-10219	bad	_	_	_	
+109-36	10220-10225	flour	_	_	_	
+109-37	10228-10234	having	_	_	_	
+109-38	10235-10239	been	_	_	_	
+109-39	10240-10244	used	_	_	_	
+109-40	10244-10245	.	_	_	_	
+
+#Text=Wheaten bread may be adulterated with barley, maize, 
+#Text= pea or bean flour, and with boiled rice or potatoes.
+110-1	10251-10258	Wheaten	_	_	_	
+110-2	10259-10264	bread	_	_	_	
+110-3	10265-10268	may	_	_	_	
+110-4	10269-10271	be	_	_	_	
+110-5	10272-10283	adulterated	_	_	_	
+110-6	10284-10288	with	_	_	_	
+110-7	10289-10295	barley	_	_	_	
+110-8	10295-10296	,	_	_	_	
+110-9	10297-10302	maize	_	_	_	
+110-10	10302-10303	,	_	_	_	
+110-11	10306-10309	pea	_	_	_	
+110-12	10310-10312	or	_	_	_	
+110-13	10313-10317	bean	_	_	_	
+110-14	10318-10323	flour	_	_	_	
+110-15	10323-10324	,	_	_	_	
+110-16	10325-10328	and	_	_	_	
+110-17	10329-10333	with	_	_	_	
+110-18	10334-10340	boiled	_	_	_	
+110-19	10341-10345	rice	_	_	_	
+110-20	10346-10348	or	_	_	_	
+110-21	10349-10357	potatoes	_	_	_	
+110-22	10357-10358	.	_	_	_	
+
+#Text=For
+#Text=used in a raw state, it is important it should not be infected 
+#Text= with disease, and as it often forms the sole food of young 
+#Text= children, it is important that it should be delivered without 
+#Text= addition to it or abstraction from it.
+111-1	10359-10362	For	_	_	_	
+111-2	10363-10367	used	_	_	_	
+111-3	10368-10370	in	_	_	_	
+111-4	10371-10372	a	_	_	_	
+111-5	10373-10376	raw	_	_	_	
+111-6	10377-10382	state	_	_	_	
+111-7	10382-10383	,	_	_	_	
+111-8	10384-10386	it	_	_	_	
+111-9	10387-10389	is	_	_	_	
+111-10	10390-10399	important	_	_	_	
+111-11	10400-10402	it	_	_	_	
+111-12	10403-10409	should	_	_	_	
+111-13	10410-10413	not	_	_	_	
+111-14	10414-10416	be	_	_	_	
+111-15	10417-10425	infected	_	_	_	
+111-16	10428-10432	with	_	_	_	
+111-17	10433-10440	disease	_	_	_	
+111-18	10440-10441	,	_	_	_	
+111-19	10442-10445	and	_	_	_	
+111-20	10446-10448	as	_	_	_	
+111-21	10449-10451	it	_	_	_	
+111-22	10452-10457	often	_	_	_	
+111-23	10458-10463	forms	_	_	_	
+111-24	10464-10467	the	_	_	_	
+111-25	10468-10472	sole	_	_	_	
+111-26	10473-10477	food	_	_	_	
+111-27	10478-10480	of	_	_	_	
+111-28	10481-10486	young	_	_	_	
+111-29	10489-10497	children	_	_	_	
+111-30	10497-10498	,	_	_	_	
+111-31	10499-10501	it	_	_	_	
+111-32	10502-10504	is	_	_	_	
+111-33	10505-10514	important	_	_	_	
+111-34	10515-10519	that	_	_	_	
+111-35	10520-10522	it	_	_	_	
+111-36	10523-10529	should	_	_	_	
+111-37	10530-10532	be	_	_	_	
+111-38	10533-10542	delivered	_	_	_	
+111-39	10543-10550	without	_	_	_	
+111-40	10553-10561	addition	_	_	_	
+111-41	10562-10564	to	_	_	_	
+111-42	10565-10567	it	_	_	_	
+111-43	10568-10570	or	_	_	_	
+111-44	10571-10582	abstraction	_	_	_	
+111-45	10583-10587	from	_	_	_	
+111-46	10588-10590	it	_	_	_	
+111-47	10590-10591	.	_	_	_	
+
+#Text=The milk ordinarily 
+#Text= exposed for sale in this country is obtained from cows.
+112-1	10592-10595	The	_	_	_	
+112-2	10596-10600	milk	_	_	_	
+112-3	10601-10611	ordinarily	_	_	_	
+112-4	10614-10621	exposed	_	_	_	
+112-5	10622-10625	for	_	_	_	
+112-6	10626-10630	sale	_	_	_	
+112-7	10631-10633	in	_	_	_	
+112-8	10634-10638	this	_	_	_	
+112-9	10639-10646	country	_	_	_	
+112-10	10647-10649	is	_	_	_	
+112-11	10650-10658	obtained	_	_	_	
+112-12	10659-10663	from	_	_	_	
+112-13	10664-10668	cows	_	_	_	
+112-14	10668-10669	.	_	_	_	
+
+#Text=There is also some sale for asses '  and goats '  milk, but it is 
+#Text= inconsiderable.
+113-1	10672-10677	There	_	_	_	
+113-2	10678-10680	is	_	_	_	
+113-3	10681-10685	also	_	_	_	
+113-4	10686-10690	some	_	_	_	
+113-5	10691-10695	sale	_	_	_	
+113-6	10696-10699	for	_	_	_	
+113-7	10700-10705	asses	_	_	_	
+113-8	10706-10707	'	_	_	_	
+113-9	10709-10712	and	_	_	_	
+113-10	10713-10718	goats	_	_	_	
+113-11	10719-10720	'	_	_	_	
+113-12	10722-10726	milk	_	_	_	
+113-13	10726-10727	,	_	_	_	
+113-14	10728-10731	but	_	_	_	
+113-15	10732-10734	it	_	_	_	
+113-16	10735-10737	is	_	_	_	
+113-17	10740-10754	inconsiderable	_	_	_	
+113-18	10754-10755	.	_	_	_	
+
+#Text=The same constituents are present in all, 
+#Text= the proportions, however, differing appreciably.
+114-1	10756-10759	The	_	_	_	
+114-2	10760-10764	same	_	_	_	
+114-3	10765-10777	constituents	_	_	_	
+114-4	10778-10781	are	_	_	_	
+114-5	10782-10789	present	_	_	_	
+114-6	10790-10792	in	_	_	_	
+114-7	10793-10796	all	_	_	_	
+114-8	10796-10797	,	_	_	_	
+114-9	10800-10803	the	_	_	_	
+114-10	10804-10815	proportions	_	_	_	
+114-11	10815-10816	,	_	_	_	
+114-12	10817-10824	however	_	_	_	
+114-13	10824-10825	,	_	_	_	
+114-14	10826-10835	differing	_	_	_	
+114-15	10836-10847	appreciably	_	_	_	
+114-16	10847-10848	.	_	_	_	
+
+#Text=Good milk is a yellowish-white opaque liquid, having a 
+#Text= specific gravity of from 1026 deg. to 1036 deg.
+115-1	10854-10858	Good	Taste Source[42]	_	_	
+115-2	10859-10863	milk	Taste Source[42]	_	_	
+115-3	10864-10866	is	_	_	_	
+115-4	10867-10868	a	_	_	_	
+115-5	10869-10884	yellowish-white	_	_	_	
+115-6	10885-10891	opaque	_	_	_	
+115-7	10892-10898	liquid	_	_	_	
+115-8	10898-10899	,	_	_	_	
+115-9	10900-10906	having	_	_	_	
+115-10	10907-10908	a	_	_	_	
+115-11	10911-10919	specific	_	_	_	
+115-12	10920-10927	gravity	_	_	_	
+115-13	10928-10930	of	_	_	_	
+115-14	10931-10935	from	_	_	_	
+115-15	10936-10940	1026	_	_	_	
+115-16	10941-10944	deg	_	_	_	
+115-17	10944-10945	.	_	_	_	
+115-18	10946-10948	to	_	_	_	
+115-19	10949-10953	1036	_	_	_	
+115-20	10954-10957	deg	_	_	_	
+115-21	10957-10958	.	_	_	_	
+
+#Text=It has a 
+#Text= fresh smell and a bland sweet taste.
+116-1	10959-10961	It	Taste Source	anaphorical	115-1[42_0]	
+116-2	10962-10965	has	_	_	_	
+116-3	10966-10967	a	_	_	_	
+116-4	10970-10975	fresh	_	_	_	
+116-5	10976-10981	smell	_	_	_	
+116-6	10982-10985	and	_	_	_	
+116-7	10986-10987	a	_	_	_	
+116-8	10988-10993	bland	Quality	_	_	
+116-9	10994-10999	sweet	Taste Word[43]|Quality[44]	*	116-9[44_43]	
+116-10	11000-11005	taste	Taste Word	*|*|*	116-9[44_0]|116-8|116-1	
+116-11	11005-11006	.	_	_	_	
+
+#Text=After the milk is 
+#Text= allowed to stand from four to eight hours the cream rises, 
+#Text= and the remainder of the milk is less opaque, and nearly or 
+#Text= quite white.
+117-1	11007-11012	After	_	_	_	
+117-2	11013-11016	the	_	_	_	
+117-3	11017-11021	milk	_	_	_	
+117-4	11022-11024	is	_	_	_	
+117-5	11027-11034	allowed	_	_	_	
+117-6	11035-11037	to	_	_	_	
+117-7	11038-11043	stand	_	_	_	
+117-8	11044-11048	from	_	_	_	
+117-9	11049-11053	four	_	_	_	
+117-10	11054-11056	to	_	_	_	
+117-11	11057-11062	eight	_	_	_	
+117-12	11063-11068	hours	_	_	_	
+117-13	11069-11072	the	_	_	_	
+117-14	11073-11078	cream	_	_	_	
+117-15	11079-11084	rises	_	_	_	
+117-16	11084-11085	,	_	_	_	
+117-17	11088-11091	and	_	_	_	
+117-18	11092-11095	the	_	_	_	
+117-19	11096-11105	remainder	_	_	_	
+117-20	11106-11108	of	_	_	_	
+117-21	11109-11112	the	_	_	_	
+117-22	11113-11117	milk	_	_	_	
+117-23	11118-11120	is	_	_	_	
+117-24	11121-11125	less	_	_	_	
+117-25	11126-11132	opaque	_	_	_	
+117-26	11132-11133	,	_	_	_	
+117-27	11134-11137	and	_	_	_	
+117-28	11138-11144	nearly	_	_	_	
+117-29	11145-11147	or	_	_	_	
+117-30	11150-11155	quite	_	_	_	
+117-31	11156-11161	white	_	_	_	
+117-32	11161-11162	.	_	_	_	
+
+#Text=The amount of milk a cow gives varies much.
+118-1	11163-11166	The	_	_	_	
+118-2	11167-11173	amount	_	_	_	
+118-3	11174-11176	of	_	_	_	
+118-4	11177-11181	milk	_	_	_	
+118-5	11182-11183	a	_	_	_	
+118-6	11184-11187	cow	_	_	_	
+118-7	11188-11193	gives	_	_	_	
+118-8	11194-11200	varies	_	_	_	
+118-9	11201-11205	much	_	_	_	
+118-10	11205-11206	.	_	_	_	
+
+#Text=About twelve quarts is the average daily yield ; just after 
+#Text=  
+#Text= m 2 
+#Text=  
+#Text= 
+#Text=and may be used again on the same round.
+119-1	11209-11214	About	_	_	_	
+119-2	11215-11221	twelve	_	_	_	
+119-3	11222-11228	quarts	_	_	_	
+119-4	11229-11231	is	_	_	_	
+119-5	11232-11235	the	_	_	_	
+119-6	11236-11243	average	_	_	_	
+119-7	11244-11249	daily	_	_	_	
+119-8	11250-11255	yield	_	_	_	
+119-9	11256-11257	;	_	_	_	
+119-10	11258-11262	just	_	_	_	
+119-11	11263-11268	after	_	_	_	
+119-12	11274-11275	m	_	_	_	
+119-13	11276-11277	2	_	_	_	
+119-14	11284-11287	and	_	_	_	
+119-15	11288-11291	may	_	_	_	
+119-16	11292-11294	be	_	_	_	
+119-17	11295-11299	used	_	_	_	
+119-18	11300-11305	again	_	_	_	
+119-19	11306-11308	on	_	_	_	
+119-20	11309-11312	the	_	_	_	
+119-21	11313-11317	same	_	_	_	
+119-22	11318-11323	round	_	_	_	
+119-23	11323-11324	.	_	_	_	
+
+#Text=This practice 
+#Text= should be checked.
+120-1	11325-11329	This	_	_	_	
+120-2	11330-11338	practice	_	_	_	
+120-3	11341-11347	should	_	_	_	
+120-4	11348-11350	be	_	_	_	
+120-5	11351-11358	checked	_	_	_	
+120-6	11358-11359	.	_	_	_	
+
+#Text=Sour Milk. — Under the influence of an organism  ' called 
+#Text= the bacillus of lactic acid) introduced from without, the 
+#Text= sugar of milk is converted into lactic acid, and it is this 
+#Text= which causes milk to turn sour.
+121-1	11365-11369	Sour	_	_	_	
+121-2	11370-11374	Milk	_	_	_	
+121-3	11374-11375	.	_	_	_	
+121-4	11376-11377	—	_	_	_	
+121-5	11378-11383	Under	Circumstance[45]	_	_	
+121-6	11384-11387	the	Circumstance[45]	_	_	
+121-7	11388-11397	influence	Circumstance[45]	_	_	
+121-8	11398-11400	of	Circumstance[45]	_	_	
+121-9	11401-11403	an	Circumstance[45]	_	_	
+121-10	11404-11412	organism	Circumstance[45]	_	_	
+121-11	11414-11415	'	Circumstance[45]	_	_	
+121-12	11416-11422	called	Circumstance[45]	_	_	
+121-13	11425-11428	the	Circumstance[45]	_	_	
+121-14	11429-11437	bacillus	Circumstance[45]	_	_	
+121-15	11438-11440	of	Circumstance[45]	_	_	
+121-16	11441-11447	lactic	Circumstance[45]	_	_	
+121-17	11448-11452	acid	Circumstance[45]	_	_	
+121-18	11452-11453	)	_	_	_	
+121-19	11454-11464	introduced	_	_	_	
+121-20	11465-11469	from	_	_	_	
+121-21	11470-11477	without	_	_	_	
+121-22	11477-11478	,	_	_	_	
+121-23	11479-11482	the	_	_	_	
+121-24	11485-11490	sugar	_	_	_	
+121-25	11491-11493	of	_	_	_	
+121-26	11494-11498	milk	_	_	_	
+121-27	11499-11501	is	_	_	_	
+121-28	11502-11511	converted	_	_	_	
+121-29	11512-11516	into	_	_	_	
+121-30	11517-11523	lactic	_	_	_	
+121-31	11524-11528	acid	_	_	_	
+121-32	11528-11529	,	_	_	_	
+121-33	11530-11533	and	_	_	_	
+121-34	11534-11536	it	_	_	_	
+121-35	11537-11539	is	_	_	_	
+121-36	11540-11544	this	_	_	_	
+121-37	11547-11552	which	_	_	_	
+121-38	11553-11559	causes	_	_	_	
+121-39	11560-11564	milk	Taste Source	_	_	
+121-40	11565-11567	to	_	_	_	
+121-41	11568-11572	turn	_	_	_	
+121-42	11573-11577	sour	Taste Word[46]|Quality[47]	*|*|*	121-42[47_46]|121-39[0_46]|121-5[45_46]	
+121-43	11577-11578	.	_	_	_	
+
+#Text=Milk only slightly soured, 
+#Text= exposed or offered for sale as "milk," may be seized as 
+#Text= unsound, and an application for an order to destroy it 
+#Text= applied for.
+122-1	11579-11583	Milk	Taste Source	_	_	
+122-2	11584-11588	only	_	_	_	
+122-3	11589-11597	slightly	Quality	_	_	
+122-4	11598-11604	soured	Taste Word[48]|Quality[49]	*|*|*	122-4[49_48]|122-3[0_48]|122-1[0_48]	
+122-5	11604-11605	,	_	_	_	
+122-6	11608-11615	exposed	_	_	_	
+122-7	11616-11618	or	_	_	_	
+122-8	11619-11626	offered	_	_	_	
+122-9	11627-11630	for	_	_	_	
+122-10	11631-11635	sale	_	_	_	
+122-11	11636-11638	as	_	_	_	
+122-12	11639-11640	"	_	_	_	
+122-13	11640-11644	milk	_	_	_	
+122-14	11644-11645	,	_	_	_	
+122-15	11645-11646	"	_	_	_	
+122-16	11647-11650	may	_	_	_	
+122-17	11651-11653	be	_	_	_	
+122-18	11654-11660	seized	_	_	_	
+122-19	11661-11663	as	_	_	_	
+122-20	11666-11673	unsound	_	_	_	
+122-21	11673-11674	,	_	_	_	
+122-22	11675-11678	and	_	_	_	
+122-23	11679-11681	an	_	_	_	
+122-24	11682-11693	application	_	_	_	
+122-25	11694-11697	for	_	_	_	
+122-26	11698-11700	an	_	_	_	
+122-27	11701-11706	order	_	_	_	
+122-28	11707-11709	to	_	_	_	
+122-29	11710-11717	destroy	_	_	_	
+122-30	11718-11720	it	_	_	_	
+122-31	11723-11730	applied	_	_	_	
+122-32	11731-11734	for	_	_	_	
+122-33	11734-11735	.	_	_	_	
+
+#Text=However, butter-milk is ordinarily sold some- 
+#Text= what "turned;" sour butter-milk may therefore be held to 
+#Text= be the normal condition of butter-milk.
+123-1	11736-11743	However	_	_	_	
+123-2	11743-11744	,	_	_	_	
+123-3	11745-11756	butter-milk	_	_	_	
+123-4	11757-11759	is	_	_	_	
+123-5	11760-11770	ordinarily	_	_	_	
+123-6	11771-11775	sold	_	_	_	
+123-7	11776-11780	some	_	_	_	
+123-8	11780-11781	-	_	_	_	
+123-9	11784-11788	what	_	_	_	
+123-10	11789-11790	"	_	_	_	
+123-11	11790-11796	turned	_	_	_	
+123-12	11796-11797	;	_	_	_	
+123-13	11797-11798	"	_	_	_	
+123-14	11799-11803	sour	Taste Word[50]|Quality[51]	*|*	123-14[51_50]|123-15[0_50]	
+123-15	11804-11815	butter-milk	Taste Source	_	_	
+123-16	11816-11819	may	_	_	_	
+123-17	11820-11829	therefore	_	_	_	
+123-18	11830-11832	be	_	_	_	
+123-19	11833-11837	held	_	_	_	
+123-20	11838-11840	to	_	_	_	
+123-21	11843-11845	be	_	_	_	
+123-22	11846-11849	the	_	_	_	
+123-23	11850-11856	normal	_	_	_	
+123-24	11857-11866	condition	_	_	_	
+123-25	11867-11869	of	_	_	_	
+123-26	11870-11881	butter-milk	_	_	_	
+123-27	11881-11882	.	_	_	_	
+
+#Text=When milk sours, 
+#Text= the part that forms the cheese, the casein, coagulates.
+124-1	11883-11887	When	_	_	_	
+124-2	11888-11892	milk	_	_	_	
+124-3	11893-11898	sours	_	_	_	
+124-4	11898-11899	,	_	_	_	
+124-5	11902-11905	the	_	_	_	
+124-6	11906-11910	part	_	_	_	
+124-7	11911-11915	that	_	_	_	
+124-8	11916-11921	forms	_	_	_	
+124-9	11922-11925	the	_	_	_	
+124-10	11926-11932	cheese	_	_	_	
+124-11	11932-11933	,	_	_	_	
+124-12	11934-11937	the	_	_	_	
+124-13	11938-11944	casein	_	_	_	
+124-14	11944-11945	,	_	_	_	
+124-15	11946-11956	coagulates	_	_	_	
+124-16	11956-11957	.	_	_	_	
+
+#Text=In 
+#Text= fresh milk the casein is combined with phosphate of lime, 
+#Text= which keeps it fluid.
+125-1	11958-11960	In	_	_	_	
+125-2	11963-11968	fresh	_	_	_	
+125-3	11969-11973	milk	_	_	_	
+125-4	11974-11977	the	_	_	_	
+125-5	11978-11984	casein	_	_	_	
+125-6	11985-11987	is	_	_	_	
+125-7	11988-11996	combined	_	_	_	
+125-8	11997-12001	with	_	_	_	
+125-9	12002-12011	phosphate	_	_	_	
+125-10	12012-12014	of	_	_	_	
+125-11	12015-12019	lime	_	_	_	
+125-12	12019-12020	,	_	_	_	
+125-13	12023-12028	which	_	_	_	
+125-14	12029-12034	keeps	_	_	_	
+125-15	12035-12037	it	_	_	_	
+125-16	12038-12043	fluid	_	_	_	
+125-17	12043-12044	.	_	_	_	
+
+#Text=The acid converts the neutral alkaline 
+#Text= phosphate into an acid phosphate, and the casein coagulates.
+126-1	12045-12048	The	_	_	_	
+126-2	12049-12053	acid	_	_	_	
+126-3	12054-12062	converts	_	_	_	
+126-4	12063-12066	the	_	_	_	
+126-5	12067-12074	neutral	_	_	_	
+126-6	12075-12083	alkaline	_	_	_	
+126-7	12086-12095	phosphate	_	_	_	
+126-8	12096-12100	into	_	_	_	
+126-9	12101-12103	an	_	_	_	
+126-10	12104-12108	acid	Taste Word[52]|Quality[53]	*|*	126-10[53_52]|126-11[0_52]	
+126-11	12109-12118	phosphate	Taste Source	_	_	
+126-12	12118-12119	,	_	_	_	
+126-13	12120-12123	and	_	_	_	
+126-14	12124-12127	the	_	_	_	
+126-15	12128-12134	casein	_	_	_	
+126-16	12135-12145	coagulates	_	_	_	
+126-17	12145-12146	.	_	_	_	
+
+#Text=Warmth, as is well known, assists the change — thus milk in 
+#Text= which only a very little lactic acid has been formed may 
+#Text= appear perfectly fresh when cool and yet curdle on boiling
+127-1	12149-12155	Warmth	_	_	_	
+127-2	12155-12156	,	_	_	_	
+127-3	12157-12159	as	_	_	_	
+127-4	12160-12162	is	_	_	_	
+127-5	12163-12167	well	_	_	_	
+127-6	12168-12173	known	_	_	_	
+127-7	12173-12174	,	_	_	_	
+127-8	12175-12182	assists	_	_	_	
+127-9	12183-12186	the	_	_	_	
+127-10	12187-12193	change	_	_	_	
+127-11	12194-12195	—	_	_	_	
+127-12	12196-12200	thus	_	_	_	
+127-13	12201-12205	milk	_	_	_	
+127-14	12206-12208	in	_	_	_	
+127-15	12211-12216	which	_	_	_	
+127-16	12217-12221	only	_	_	_	
+127-17	12222-12223	a	_	_	_	
+127-18	12224-12228	very	_	_	_	
+127-19	12229-12235	little	_	_	_	
+127-20	12236-12242	lactic	_	_	_	
+127-21	12243-12247	acid	_	_	_	
+127-22	12248-12251	has	_	_	_	
+127-23	12252-12256	been	_	_	_	
+127-24	12257-12263	formed	_	_	_	
+127-25	12264-12267	may	_	_	_	
+127-26	12270-12276	appear	_	_	_	
+127-27	12277-12286	perfectly	_	_	_	
+127-28	12287-12292	fresh	_	_	_	
+127-29	12293-12297	when	_	_	_	
+127-30	12298-12302	cool	_	_	_	
+127-31	12303-12306	and	_	_	_	
+127-32	12307-12310	yet	_	_	_	
+127-33	12311-12317	curdle	_	_	_	
+127-34	12318-12320	on	_	_	_	
+127-35	12321-12328	boiling	_	_	_	
+
+#Text=.
+128-1	12328-12329	.	_	_	_	
+
+#Text=' 75 
+#Text=  
+#Text= Unsweetened condensed milk, imported from abroad, is 
+#Text= occasionally mixed with four times its weight of water and 
+#Text= sold as pure new milk.
+129-1	12343-12344	'	_	_	_	
+129-2	12345-12347	75	_	_	_	
+129-3	12353-12364	Unsweetened	Taste Word[54]|Quality[55]	*|*	129-3[55_54]|129-4[56_54]	
+129-4	12365-12374	condensed	Taste Source[56]	_	_	
+129-5	12375-12379	milk	Taste Source[56]	_	_	
+129-6	12379-12380	,	_	_	_	
+129-7	12381-12389	imported	_	_	_	
+129-8	12390-12394	from	_	_	_	
+129-9	12395-12401	abroad	_	_	_	
+129-10	12401-12402	,	_	_	_	
+129-11	12403-12405	is	_	_	_	
+129-12	12408-12420	occasionally	_	_	_	
+129-13	12421-12426	mixed	_	_	_	
+129-14	12427-12431	with	_	_	_	
+129-15	12432-12436	four	_	_	_	
+129-16	12437-12442	times	_	_	_	
+129-17	12443-12446	its	_	_	_	
+129-18	12447-12453	weight	_	_	_	
+129-19	12454-12456	of	_	_	_	
+129-20	12457-12462	water	_	_	_	
+129-21	12463-12466	and	_	_	_	
+129-22	12469-12473	sold	_	_	_	
+129-23	12474-12476	as	_	_	_	
+129-24	12477-12481	pure	_	_	_	
+129-25	12482-12485	new	_	_	_	
+129-26	12486-12490	milk	_	_	_	
+129-27	12490-12491	.	_	_	_	
+
+#Text=The boiled flavour of such a 
+#Text= mixture would ordinarily serve to distinguish it from new 
+#Text= milk.
+130-1	12492-12495	The	_	_	_	
+130-2	12496-12502	boiled	Quality	_	_	
+130-3	12503-12510	flavour	Taste Word	*|*	130-2|130-4[57_0]	
+130-4	12511-12513	of	Taste Source[57]	_	_	
+130-5	12514-12518	such	Taste Source[57]	_	_	
+130-6	12519-12520	a	Taste Source[57]	_	_	
+130-7	12523-12530	mixture	Taste Source[57]	_	_	
+130-8	12531-12536	would	_	_	_	
+130-9	12537-12547	ordinarily	_	_	_	
+130-10	12548-12553	serve	_	_	_	
+130-11	12554-12556	to	_	_	_	
+130-12	12557-12568	distinguish	_	_	_	
+130-13	12569-12571	it	_	_	_	
+130-14	12572-12576	from	_	_	_	
+130-15	12577-12580	new	_	_	_	
+130-16	12583-12587	milk	_	_	_	
+130-17	12587-12588	.	_	_	_	
+
+#Text=Butter=milk is the milk left after the manufacture of 
+#Text= butter.
+131-1	12594-12600	Butter	Taste Source[58]	_	_	
+131-2	12600-12601	=	Taste Source[58]	_	_	
+131-3	12601-12605	milk	Taste Source[58]	_	_	
+131-4	12606-12608	is	_	_	_	
+131-5	12609-12612	the	_	_	_	
+131-6	12613-12617	milk	_	_	_	
+131-7	12618-12622	left	_	_	_	
+131-8	12623-12628	after	_	_	_	
+131-9	12629-12632	the	_	_	_	
+131-10	12633-12644	manufacture	_	_	_	
+131-11	12645-12647	of	_	_	_	
+131-12	12650-12656	butter	_	_	_	
+131-13	12656-12657	.	_	_	_	
+
+#Text=It is thicker than new milk, slightly sour, and the 
+#Text= casein, though coagulated, is in a finely-divided state.
+132-1	12658-12660	It	_	_	_	
+132-2	12661-12663	is	_	_	_	
+132-3	12664-12671	thicker	_	_	_	
+132-4	12672-12676	than	_	_	_	
+132-5	12677-12680	new	_	_	_	
+132-6	12681-12685	milk	_	_	_	
+132-7	12685-12686	,	_	_	_	
+132-8	12687-12695	slightly	Quality	_	_	
+132-9	12696-12700	sour	Taste Word[59]|Quality[60]	*|*|*	132-9[60_59]|132-8[0_59]|131-1[58_59]	
+132-10	12700-12701	,	_	_	_	
+132-11	12702-12705	and	_	_	_	
+132-12	12706-12709	the	_	_	_	
+132-13	12712-12718	casein	_	_	_	
+132-14	12718-12719	,	_	_	_	
+132-15	12720-12726	though	_	_	_	
+132-16	12727-12737	coagulated	_	_	_	
+132-17	12737-12738	,	_	_	_	
+132-18	12739-12741	is	_	_	_	
+132-19	12742-12744	in	_	_	_	
+132-20	12745-12746	a	_	_	_	
+132-21	12747-12761	finely-divided	_	_	_	
+132-22	12762-12767	state	_	_	_	
+132-23	12767-12768	.	_	_	_	
+
+#Text=The 
+#Text= proportion of fat is usually less than i per cent.
+133-1	12769-12772	The	_	_	_	
+133-2	12775-12785	proportion	_	_	_	
+133-3	12786-12788	of	_	_	_	
+133-4	12789-12792	fat	_	_	_	
+133-5	12793-12795	is	_	_	_	
+133-6	12796-12803	usually	_	_	_	
+133-7	12804-12808	less	_	_	_	
+133-8	12809-12813	than	_	_	_	
+133-9	12814-12815	i	_	_	_	
+133-10	12816-12819	per	_	_	_	
+133-11	12820-12824	cent	_	_	_	
+133-12	12824-12825	.	_	_	_	
+
+#Text=Koumiss is an alcoholic drink made by the fermentation 
+#Text= of milk.
+134-1	12831-12838	Koumiss	_	_	_	
+134-2	12839-12841	is	_	_	_	
+134-3	12842-12844	an	_	_	_	
+134-4	12845-12854	alcoholic	_	_	_	
+134-5	12855-12860	drink	_	_	_	
+134-6	12861-12865	made	_	_	_	
+134-7	12866-12868	by	_	_	_	
+134-8	12869-12872	the	_	_	_	
+134-9	12873-12885	fermentation	_	_	_	
+134-10	12888-12890	of	_	_	_	
+134-11	12891-12895	milk	_	_	_	
+134-12	12895-12896	.	_	_	_	
+
+#Text=It is prepared in Asia from mares '  milk and 
+#Text= camel ' s milk, and in this country from cows '  milk.
+135-1	12897-12899	It	_	_	_	
+135-2	12900-12902	is	_	_	_	
+135-3	12903-12911	prepared	_	_	_	
+135-4	12912-12914	in	_	_	_	
+135-5	12915-12919	Asia	_	_	_	
+135-6	12920-12924	from	_	_	_	
+135-7	12925-12930	mares	_	_	_	
+135-8	12931-12932	'	_	_	_	
+135-9	12934-12938	milk	_	_	_	
+135-10	12939-12942	and	_	_	_	
+135-11	12945-12950	camel	_	_	_	
+135-12	12951-12952	'	_	_	_	
+135-13	12953-12954	s	_	_	_	
+135-14	12955-12959	milk	_	_	_	
+135-15	12959-12960	,	_	_	_	
+135-16	12961-12964	and	_	_	_	
+135-17	12965-12967	in	_	_	_	
+135-18	12968-12972	this	_	_	_	
+135-19	12973-12980	country	_	_	_	
+135-20	12981-12985	from	_	_	_	
+135-21	12986-12990	cows	_	_	_	
+135-22	12991-12992	'	_	_	_	
+135-23	12994-12998	milk	_	_	_	
+135-24	12998-12999	.	_	_	_	
+
+#Text=Koumiss 
+#Text= is made by the Tartars as follows : — One part of sour milk
+#Text=milk) rise to the top, forming a layer of cream.
+136-1	13000-13007	Koumiss	_	_	_	
+136-2	13010-13012	is	_	_	_	
+136-3	13013-13017	made	_	_	_	
+136-4	13018-13020	by	_	_	_	
+136-5	13021-13024	the	_	_	_	
+136-6	13025-13032	Tartars	_	_	_	
+136-7	13033-13035	as	_	_	_	
+136-8	13036-13043	follows	_	_	_	
+136-9	13044-13045	:	_	_	_	
+136-10	13046-13047	—	_	_	_	
+136-11	13048-13051	One	_	_	_	
+136-12	13052-13056	part	_	_	_	
+136-13	13057-13059	of	_	_	_	
+136-14	13060-13064	sour	Taste Word[61]|Quality[62]	*|*	136-14[62_61]|136-15[0_61]	
+136-15	13065-13069	milk	Taste Source	_	_	
+136-16	13070-13074	milk	_	_	_	
+136-17	13074-13075	)	_	_	_	
+136-18	13076-13080	rise	_	_	_	
+136-19	13081-13083	to	_	_	_	
+136-20	13084-13087	the	_	_	_	
+136-21	13088-13091	top	_	_	_	
+136-22	13091-13092	,	_	_	_	
+136-23	13093-13100	forming	_	_	_	
+136-24	13101-13102	a	_	_	_	
+136-25	13103-13108	layer	_	_	_	
+136-26	13109-13111	of	_	_	_	
+136-27	13112-13117	cream	_	_	_	
+136-28	13117-13118	.	_	_	_	
+
+#Text=The cream, 
+#Text= which contains casein and milk-liquid as well as fat, is 
+#Text= ordinarily removed by skimming, and violently shaken or 
+#Text= beaten up in a churn or other suitable vessel, till the fat 
+#Text= globules unite and form a mass.
+137-1	13119-13122	The	_	_	_	
+137-2	13123-13128	cream	_	_	_	
+137-3	13128-13129	,	_	_	_	
+137-4	13132-13137	which	_	_	_	
+137-5	13138-13146	contains	_	_	_	
+137-6	13147-13153	casein	_	_	_	
+137-7	13154-13157	and	_	_	_	
+137-8	13158-13169	milk-liquid	_	_	_	
+137-9	13170-13172	as	_	_	_	
+137-10	13173-13177	well	_	_	_	
+137-11	13178-13180	as	_	_	_	
+137-12	13181-13184	fat	_	_	_	
+137-13	13184-13185	,	_	_	_	
+137-14	13186-13188	is	_	_	_	
+137-15	13191-13201	ordinarily	_	_	_	
+137-16	13202-13209	removed	_	_	_	
+137-17	13210-13212	by	_	_	_	
+137-18	13213-13221	skimming	_	_	_	
+137-19	13221-13222	,	_	_	_	
+137-20	13223-13226	and	_	_	_	
+137-21	13227-13236	violently	_	_	_	
+137-22	13237-13243	shaken	_	_	_	
+137-23	13244-13246	or	_	_	_	
+137-24	13249-13255	beaten	_	_	_	
+137-25	13256-13258	up	_	_	_	
+137-26	13259-13261	in	_	_	_	
+137-27	13262-13263	a	_	_	_	
+137-28	13264-13269	churn	_	_	_	
+137-29	13270-13272	or	_	_	_	
+137-30	13273-13278	other	_	_	_	
+137-31	13279-13287	suitable	_	_	_	
+137-32	13288-13294	vessel	_	_	_	
+137-33	13294-13295	,	_	_	_	
+137-34	13296-13300	till	_	_	_	
+137-35	13301-13304	the	_	_	_	
+137-36	13305-13308	fat	_	_	_	
+137-37	13311-13319	globules	_	_	_	
+137-38	13320-13325	unite	_	_	_	
+137-39	13326-13329	and	_	_	_	
+137-40	13330-13334	form	_	_	_	
+137-41	13335-13336	a	_	_	_	
+137-42	13337-13341	mass	_	_	_	
+137-43	13341-13342	.	_	_	_	
+
+#Text=This mass, carefully 
+#Text= washed and squeezed, with or without the addition of salt, 
+#Text= is the butter of commerce.
+138-1	13343-13347	This	_	_	_	
+138-2	13348-13352	mass	_	_	_	
+138-3	13352-13353	,	_	_	_	
+138-4	13354-13363	carefully	_	_	_	
+138-5	13366-13372	washed	_	_	_	
+138-6	13373-13376	and	_	_	_	
+138-7	13377-13385	squeezed	_	_	_	
+138-8	13385-13386	,	_	_	_	
+138-9	13387-13391	with	_	_	_	
+138-10	13392-13394	or	_	_	_	
+138-11	13395-13402	without	_	_	_	
+138-12	13403-13406	the	_	_	_	
+138-13	13407-13415	addition	_	_	_	
+138-14	13416-13418	of	_	_	_	
+138-15	13419-13423	salt	_	_	_	
+138-16	13423-13424	,	_	_	_	
+138-17	13427-13429	is	_	_	_	
+138-18	13430-13433	the	_	_	_	
+138-19	13434-13440	butter	_	_	_	
+138-20	13441-13443	of	_	_	_	
+138-21	13444-13452	commerce	_	_	_	
+138-22	13452-13453	.	_	_	_	
+
+#Text=Butter varies much in colour, flavour, and quality.
+139-1	13459-13465	Butter	Taste Source	_	_	
+139-2	13466-13472	varies	_	_	_	
+139-3	13473-13477	much	_	_	_	
+139-4	13478-13480	in	_	_	_	
+139-5	13481-13487	colour	_	_	_	
+139-6	13487-13488	,	_	_	_	
+139-7	13489-13496	flavour	Taste Word	*	139-1	
+139-8	13496-13497	,	_	_	_	
+139-9	13498-13501	and	_	_	_	
+139-10	13502-13509	quality	_	_	_	
+139-11	13509-13510	.	_	_	_	
+
+#Text=The 
+#Text= colour ranges, according to the season and the food and 
+#Text= breed of the cow, from deep yellow to almost white.
+140-1	13511-13514	The	_	_	_	
+140-2	13517-13523	colour	_	_	_	
+140-3	13524-13530	ranges	_	_	_	
+140-4	13530-13531	,	_	_	_	
+140-5	13532-13541	according	_	_	_	
+140-6	13542-13544	to	_	_	_	
+140-7	13545-13548	the	_	_	_	
+140-8	13549-13555	season	_	_	_	
+140-9	13556-13559	and	_	_	_	
+140-10	13560-13563	the	_	_	_	
+140-11	13564-13568	food	_	_	_	
+140-12	13569-13572	and	_	_	_	
+140-13	13575-13580	breed	_	_	_	
+140-14	13581-13583	of	_	_	_	
+140-15	13584-13587	the	_	_	_	
+140-16	13588-13591	cow	_	_	_	
+140-17	13591-13592	,	_	_	_	
+140-18	13593-13597	from	_	_	_	
+140-19	13598-13602	deep	_	_	_	
+140-20	13603-13609	yellow	_	_	_	
+140-21	13610-13612	to	_	_	_	
+140-22	13613-13619	almost	_	_	_	
+140-23	13620-13625	white	_	_	_	
+140-24	13625-13626	.	_	_	_	
+
+#Text=The 
+#Text= flavour is influenced by the food of the cow and the quality 
+#Text= by the state of the cream, the method of churning and 
+#Text= making up the butter, &c.
+141-1	13627-13630	The	_	_	_	
+141-2	13633-13640	flavour	Taste Word	*|*	141-3[63_0]|139-1	
+141-3	13641-13643	is	Circumstance[63]	_	_	
+141-4	13644-13654	influenced	Circumstance[63]	_	_	
+141-5	13655-13657	by	Circumstance[63]	_	_	
+141-6	13658-13661	the	Circumstance[63]	_	_	
+141-7	13662-13666	food	Circumstance[63]	_	_	
+141-8	13667-13669	of	Circumstance[63]	_	_	
+141-9	13670-13673	the	Circumstance[63]	_	_	
+141-10	13674-13677	cow	Circumstance[63]	_	_	
+141-11	13678-13681	and	_	_	_	
+141-12	13682-13685	the	_	_	_	
+141-13	13686-13693	quality	_	_	_	
+141-14	13696-13698	by	_	_	_	
+141-15	13699-13702	the	_	_	_	
+141-16	13703-13708	state	_	_	_	
+141-17	13709-13711	of	_	_	_	
+141-18	13712-13715	the	_	_	_	
+141-19	13716-13721	cream	_	_	_	
+141-20	13721-13722	,	_	_	_	
+141-21	13723-13726	the	_	_	_	
+141-22	13727-13733	method	_	_	_	
+141-23	13734-13736	of	_	_	_	
+141-24	13737-13745	churning	_	_	_	
+141-25	13746-13749	and	_	_	_	
+141-26	13752-13758	making	_	_	_	
+141-27	13759-13761	up	_	_	_	
+141-28	13762-13765	the	_	_	_	
+141-29	13766-13772	butter	_	_	_	
+141-30	13772-13773	,	_	_	_	
+141-31	13774-13775	&	_	_	_	
+141-32	13775-13776	c	_	_	_	
+141-33	13776-13777	.	_	_	_	
+
+#Text=Carefully prepared butter has a pleasant odour and 
+#Text= agreeable taste, and is of the same consistency and colour 
+#Text= throughout.
+142-1	13783-13792	Carefully	Taste Source[64]	_	_	
+142-2	13793-13801	prepared	Taste Source[64]	_	_	
+142-3	13802-13808	butter	Taste Source[64]	_	_	
+142-4	13809-13812	has	_	_	_	
+142-5	13813-13814	a	_	_	_	
+142-6	13815-13823	pleasant	_	_	_	
+142-7	13824-13829	odour	_	_	_	
+142-8	13830-13833	and	_	_	_	
+142-9	13836-13845	agreeable	Quality	_	_	
+142-10	13846-13851	taste	Taste Word	*|*	142-1[64_0]|142-9	
+142-11	13851-13852	,	_	_	_	
+142-12	13853-13856	and	_	_	_	
+142-13	13857-13859	is	_	_	_	
+142-14	13860-13862	of	_	_	_	
+142-15	13863-13866	the	_	_	_	
+142-16	13867-13871	same	_	_	_	
+142-17	13872-13883	consistency	_	_	_	
+142-18	13884-13887	and	_	_	_	
+142-19	13888-13894	colour	_	_	_	
+142-20	13897-13907	throughout	_	_	_	
+142-21	13907-13908	.	_	_	_	
+
+#Text=It is easily cut and moulded into shapes, and 
+#Text= melts to a light coloured oil.
+143-1	13909-13911	It	_	_	_	
+143-2	13912-13914	is	_	_	_	
+143-3	13915-13921	easily	_	_	_	
+143-4	13922-13925	cut	_	_	_	
+143-5	13926-13929	and	_	_	_	
+143-6	13930-13937	moulded	_	_	_	
+143-7	13938-13942	into	_	_	_	
+143-8	13943-13949	shapes	_	_	_	
+143-9	13949-13950	,	_	_	_	
+143-10	13951-13954	and	_	_	_	
+143-11	13957-13962	melts	_	_	_	
+143-12	13963-13965	to	_	_	_	
+143-13	13966-13967	a	_	_	_	
+143-14	13968-13973	light	_	_	_	
+143-15	13974-13982	coloured	_	_	_	
+143-16	13983-13986	oil	_	_	_	
+143-17	13986-13987	.	_	_	_	
+
+#Text=It always contains water and 
+#Text= 
+#Text= 
+#Text=  
+#Text= i8 4 
+#Text=  
+#Text= curd and a trace of mineral matter, and nearly always a 
+#Text= minute portion of sugar of milk.
+144-1	13988-13990	It	_	_	_	
+144-2	13991-13997	always	_	_	_	
+144-3	13998-14006	contains	_	_	_	
+144-4	14007-14012	water	_	_	_	
+144-5	14013-14016	and	_	_	_	
+144-6	14026-14028	i8	_	_	_	
+144-7	14029-14030	4	_	_	_	
+144-8	14036-14040	curd	_	_	_	
+144-9	14041-14044	and	_	_	_	
+144-10	14045-14046	a	_	_	_	
+144-11	14047-14052	trace	_	_	_	
+144-12	14053-14055	of	_	_	_	
+144-13	14056-14063	mineral	_	_	_	
+144-14	14064-14070	matter	_	_	_	
+144-15	14070-14071	,	_	_	_	
+144-16	14072-14075	and	_	_	_	
+144-17	14076-14082	nearly	_	_	_	
+144-18	14083-14089	always	_	_	_	
+144-19	14090-14091	a	_	_	_	
+144-20	14094-14100	minute	_	_	_	
+144-21	14101-14108	portion	_	_	_	
+144-22	14109-14111	of	_	_	_	
+144-23	14112-14117	sugar	_	_	_	
+144-24	14118-14120	of	_	_	_	
+144-25	14121-14125	milk	_	_	_	
+144-26	14125-14126	.	_	_	_	
+
+#Text=The curd is especially 
+#Text= liable to decompose, and the change in the curd is soon 
+#Text= followed by decomposition of the fat ; hence the addition 
+#Text= of salt as a preservative.
+145-1	14127-14130	The	_	_	_	
+145-2	14131-14135	curd	_	_	_	
+145-3	14136-14138	is	_	_	_	
+145-4	14139-14149	especially	_	_	_	
+145-5	14152-14158	liable	_	_	_	
+145-6	14159-14161	to	_	_	_	
+145-7	14162-14171	decompose	_	_	_	
+145-8	14171-14172	,	_	_	_	
+145-9	14173-14176	and	_	_	_	
+145-10	14177-14180	the	_	_	_	
+145-11	14181-14187	change	_	_	_	
+145-12	14188-14190	in	_	_	_	
+145-13	14191-14194	the	_	_	_	
+145-14	14195-14199	curd	_	_	_	
+145-15	14200-14202	is	_	_	_	
+145-16	14203-14207	soon	_	_	_	
+145-17	14210-14218	followed	_	_	_	
+145-18	14219-14221	by	_	_	_	
+145-19	14222-14235	decomposition	_	_	_	
+145-20	14236-14238	of	_	_	_	
+145-21	14239-14242	the	_	_	_	
+145-22	14243-14246	fat	_	_	_	
+145-23	14247-14248	;	_	_	_	
+145-24	14249-14254	hence	_	_	_	
+145-25	14255-14258	the	_	_	_	
+145-26	14259-14267	addition	_	_	_	
+145-27	14270-14272	of	_	_	_	
+145-28	14273-14277	salt	_	_	_	
+145-29	14278-14280	as	_	_	_	
+145-30	14281-14282	a	_	_	_	
+145-31	14283-14295	preservative	_	_	_	
+145-32	14295-14296	.	_	_	_	
+
+#Text=Butter fat, freed from curd and 
+#Text= water, and fairly excluded from the air, will keep a long 
+#Text= time without change.
+146-1	14297-14303	Butter	_	_	_	
+146-2	14304-14307	fat	_	_	_	
+146-3	14307-14308	,	_	_	_	
+146-4	14309-14314	freed	_	_	_	
+146-5	14315-14319	from	_	_	_	
+146-6	14320-14324	curd	_	_	_	
+146-7	14325-14328	and	_	_	_	
+146-8	14331-14336	water	_	_	_	
+146-9	14336-14337	,	_	_	_	
+146-10	14338-14341	and	_	_	_	
+146-11	14342-14348	fairly	_	_	_	
+146-12	14349-14357	excluded	_	_	_	
+146-13	14358-14362	from	_	_	_	
+146-14	14363-14366	the	_	_	_	
+146-15	14367-14370	air	_	_	_	
+146-16	14370-14371	,	_	_	_	
+146-17	14372-14376	will	_	_	_	
+146-18	14377-14381	keep	_	_	_	
+146-19	14382-14383	a	_	_	_	
+146-20	14384-14388	long	_	_	_	
+146-21	14391-14395	time	_	_	_	
+146-22	14396-14403	without	_	_	_	
+146-23	14404-14410	change	_	_	_	
+146-24	14410-14411	.	_	_	_	
+
+#Text=It seems superfluous to say that butter of fine flavour 
+#Text= cannot be made from sour cream.
+147-1	14417-14419	It	_	_	_	
+147-2	14420-14425	seems	_	_	_	
+147-3	14426-14437	superfluous	_	_	_	
+147-4	14438-14440	to	_	_	_	
+147-5	14441-14444	say	_	_	_	
+147-6	14445-14449	that	_	_	_	
+147-7	14450-14456	butter	Taste Source	_	_	
+147-8	14457-14459	of	_	_	_	
+147-9	14460-14464	fine	Quality	_	_	
+147-10	14465-14472	flavour	Taste Word	*|*	147-9|147-7	
+147-11	14475-14481	cannot	_	_	_	
+147-12	14482-14484	be	_	_	_	
+147-13	14485-14489	made	_	_	_	
+147-14	14490-14494	from	_	_	_	
+147-15	14495-14499	sour	Taste Word[65]|Quality[66]	*|*	147-15[66_65]|147-16[0_65]	
+147-16	14500-14505	cream	Taste Source	_	_	
+147-17	14505-14506	.	_	_	_	
+
+#Text=Yet much butter is 
+#Text= made from sour cream, particularly in small farms and 
+#Text= dairies.
+148-1	14507-14510	Yet	_	_	_	
+148-2	14511-14515	much	_	_	_	
+148-3	14516-14522	butter	_	_	_	
+148-4	14523-14525	is	_	_	_	
+148-5	14528-14532	made	_	_	_	
+148-6	14533-14537	from	_	_	_	
+148-7	14538-14542	sour	Taste Word[67]|Quality[68]	*|*	148-8[0_67]|148-7[68_67]	
+148-8	14543-14548	cream	Taste Source	_	_	
+148-9	14548-14549	,	_	_	_	
+148-10	14550-14562	particularly	_	_	_	
+148-11	14563-14565	in	_	_	_	
+148-12	14566-14571	small	_	_	_	
+148-13	14572-14577	farms	_	_	_	
+148-14	14578-14581	and	_	_	_	
+148-15	14584-14591	dairies	_	_	_	
+148-16	14591-14592	.	_	_	_	
+
+#Text=The best method of collecting cream for churning 
+#Text= and securing its sweetness is by setting the milk to cream in 
+#Text= iced coolers.
+149-1	14593-14596	The	_	_	_	
+149-2	14597-14601	best	_	_	_	
+149-3	14602-14608	method	_	_	_	
+149-4	14609-14611	of	_	_	_	
+149-5	14612-14622	collecting	_	_	_	
+149-6	14623-14628	cream	Taste Source	_	_	
+149-7	14629-14632	for	_	_	_	
+149-8	14633-14641	churning	_	_	_	
+149-9	14644-14647	and	_	_	_	
+149-10	14648-14656	securing	_	_	_	
+149-11	14657-14660	its	_	_	_	
+149-12	14661-14670	sweetness	Taste Word[69]|Quality[70]	*|*|*	149-12[70_69]|149-6[0_69]|149-14[71_69]	
+149-13	14671-14673	is	_	_	_	
+149-14	14674-14676	by	Circumstance[71]	_	_	
+149-15	14677-14684	setting	Circumstance[71]	_	_	
+149-16	14685-14688	the	Circumstance[71]	_	_	
+149-17	14689-14693	milk	Circumstance[71]	_	_	
+149-18	14694-14696	to	Circumstance[71]	_	_	
+149-19	14697-14702	cream	Circumstance[71]	_	_	
+149-20	14703-14705	in	Circumstance[71]	_	_	
+149-21	14708-14712	iced	Circumstance[71]	_	_	
+149-22	14713-14720	coolers	Circumstance[71]	_	_	
+149-23	14720-14721	.	_	_	_	
+
+#Text=Where there is a large quantity of milk to be 
+#Text= dealt w T ith, it is convenient to use the cream separator, an 
+#Text= apparatus already described.
+150-1	14722-14727	Where	_	_	_	
+150-2	14728-14733	there	_	_	_	
+150-3	14734-14736	is	_	_	_	
+150-4	14737-14738	a	_	_	_	
+150-5	14739-14744	large	_	_	_	
+150-6	14745-14753	quantity	_	_	_	
+150-7	14754-14756	of	_	_	_	
+150-8	14757-14761	milk	_	_	_	
+150-9	14762-14764	to	_	_	_	
+150-10	14765-14767	be	_	_	_	
+150-11	14770-14775	dealt	_	_	_	
+150-12	14776-14777	w	_	_	_	
+150-13	14778-14779	T	_	_	_	
+150-14	14780-14783	ith	_	_	_	
+150-15	14783-14784	,	_	_	_	
+150-16	14785-14787	it	_	_	_	
+150-17	14788-14790	is	_	_	_	
+150-18	14791-14801	convenient	_	_	_	
+150-19	14802-14804	to	_	_	_	
+150-20	14805-14808	use	_	_	_	
+150-21	14809-14812	the	_	_	_	
+150-22	14813-14818	cream	_	_	_	
+150-23	14819-14828	separator	_	_	_	
+150-24	14828-14829	,	_	_	_	
+150-25	14830-14832	an	_	_	_	
+150-26	14835-14844	apparatus	_	_	_	
+150-27	14845-14852	already	_	_	_	
+150-28	14853-14862	described	_	_	_	
+150-29	14862-14863	.	_	_	_	
+
+#Text=The temperature of the milk
+#Text=When annatto or other colouring matter is used it is usually 
+#Text= stirred in with the rennet.
+151-1	14864-14867	The	_	_	_	
+151-2	14868-14879	temperature	_	_	_	
+151-3	14880-14882	of	_	_	_	
+151-4	14883-14886	the	_	_	_	
+151-5	14887-14891	milk	_	_	_	
+151-6	14892-14896	When	_	_	_	
+151-7	14897-14904	annatto	_	_	_	
+151-8	14905-14907	or	_	_	_	
+151-9	14908-14913	other	_	_	_	
+151-10	14914-14923	colouring	_	_	_	
+151-11	14924-14930	matter	_	_	_	
+151-12	14931-14933	is	_	_	_	
+151-13	14934-14938	used	_	_	_	
+151-14	14939-14941	it	_	_	_	
+151-15	14942-14944	is	_	_	_	
+151-16	14945-14952	usually	_	_	_	
+151-17	14955-14962	stirred	_	_	_	
+151-18	14963-14965	in	_	_	_	
+151-19	14966-14970	with	_	_	_	
+151-20	14971-14974	the	_	_	_	
+151-21	14975-14981	rennet	_	_	_	
+151-22	14981-14982	.	_	_	_	
+
+#Text=The coagulation should be com- 
+#Text= pleted in an hour, and then the curd may be cut up or 
+#Text= gently broken down and stirred and left to settle.
+152-1	14983-14986	The	_	_	_	
+152-2	14987-14998	coagulation	_	_	_	
+152-3	14999-15005	should	_	_	_	
+152-4	15006-15008	be	_	_	_	
+152-5	15009-15012	com	_	_	_	
+152-6	15012-15013	-	_	_	_	
+152-7	15016-15022	pleted	_	_	_	
+152-8	15023-15025	in	_	_	_	
+152-9	15026-15028	an	_	_	_	
+152-10	15029-15033	hour	_	_	_	
+152-11	15033-15034	,	_	_	_	
+152-12	15035-15038	and	_	_	_	
+152-13	15039-15043	then	_	_	_	
+152-14	15044-15047	the	_	_	_	
+152-15	15048-15052	curd	_	_	_	
+152-16	15053-15056	may	_	_	_	
+152-17	15057-15059	be	_	_	_	
+152-18	15060-15063	cut	_	_	_	
+152-19	15064-15066	up	_	_	_	
+152-20	15067-15069	or	_	_	_	
+152-21	15072-15078	gently	_	_	_	
+152-22	15079-15085	broken	_	_	_	
+152-23	15086-15090	down	_	_	_	
+152-24	15091-15094	and	_	_	_	
+152-25	15095-15102	stirred	_	_	_	
+152-26	15103-15106	and	_	_	_	
+152-27	15107-15111	left	_	_	_	
+152-28	15112-15114	to	_	_	_	
+152-29	15115-15121	settle	_	_	_	
+152-30	15121-15122	.	_	_	_	
+
+#Text=As it is 
+#Text= needful that the curd should develop a little acidity, this is 
+#Text= effected in various ways.
+153-1	15123-15125	As	_	_	_	
+153-2	15126-15128	it	_	_	_	
+153-3	15129-15131	is	_	_	_	
+153-4	15134-15141	needful	_	_	_	
+153-5	15142-15146	that	_	_	_	
+153-6	15147-15150	the	Taste Source[72]	_	_	
+153-7	15151-15155	curd	Taste Source[72]	_	_	
+153-8	15156-15162	should	_	_	_	
+153-9	15163-15170	develop	_	_	_	
+153-10	15171-15172	a	_	_	_	
+153-11	15173-15179	little	Quality	_	_	
+153-12	15180-15187	acidity	Taste Word[73]|Quality[74]	*|*|*	153-12[74_73]|153-11[0_73]|153-6[72_73]	
+153-13	15187-15188	,	_	_	_	
+153-14	15189-15193	this	_	_	_	
+153-15	15194-15196	is	_	_	_	
+153-16	15199-15207	effected	_	_	_	
+153-17	15208-15210	in	_	_	_	
+153-18	15211-15218	various	_	_	_	
+153-19	15219-15223	ways	_	_	_	
+153-20	15223-15224	.	_	_	_	
+
+#Text=Thus the curds and whey are 
+#Text= heated to a temperature of 98 deg.
+154-1	15225-15229	Thus	_	_	_	
+154-2	15230-15233	the	Taste Source[75]	_	_	
+154-3	15234-15239	curds	Taste Source[75]	_	_	
+154-4	15240-15243	and	_	_	_	
+154-5	15244-15248	whey	_	_	_	
+154-6	15249-15252	are	_	_	_	
+154-7	15255-15261	heated	_	_	_	
+154-8	15262-15264	to	_	_	_	
+154-9	15265-15266	a	_	_	_	
+154-10	15267-15278	temperature	_	_	_	
+154-11	15279-15281	of	_	_	_	
+154-12	15282-15284	98	_	_	_	
+154-13	15285-15288	deg	_	_	_	
+154-14	15288-15289	.	_	_	_	
+
+#Text=Fah., and allowed to 
+#Text= stand, or a little sour whey is added with the rennet, or the 
+#Text= souring of the curd is not encouraged till the whey is 
+#Text= drained off or removed with a syphon.
+155-1	15290-15293	Fah	_	_	_	
+155-2	15293-15294	.	_	_	_	
+155-3	15294-15295	,	_	_	_	
+155-4	15296-15299	and	_	_	_	
+155-5	15300-15307	allowed	_	_	_	
+155-6	15308-15310	to	_	_	_	
+155-7	15313-15318	stand	_	_	_	
+155-8	15318-15319	,	_	_	_	
+155-9	15320-15322	or	_	_	_	
+155-10	15323-15324	a	_	_	_	
+155-11	15325-15331	little	Quality	_	_	
+155-12	15332-15336	sour	Taste Word[76]|Quality[77]	*|*|*	155-12[77_76]|154-2[75_76]|155-11[0_76]	
+155-13	15337-15341	whey	_	_	_	
+155-14	15342-15344	is	_	_	_	
+155-15	15345-15350	added	_	_	_	
+155-16	15351-15355	with	_	_	_	
+155-17	15356-15359	the	_	_	_	
+155-18	15360-15366	rennet	_	_	_	
+155-19	15366-15367	,	_	_	_	
+155-20	15368-15370	or	_	_	_	
+155-21	15371-15374	the	_	_	_	
+155-22	15377-15384	souring	_	_	_	
+155-23	15385-15387	of	_	_	_	
+155-24	15388-15391	the	_	_	_	
+155-25	15392-15396	curd	_	_	_	
+155-26	15397-15399	is	_	_	_	
+155-27	15400-15403	not	_	_	_	
+155-28	15404-15414	encouraged	_	_	_	
+155-29	15415-15419	till	_	_	_	
+155-30	15420-15423	the	_	_	_	
+155-31	15424-15428	whey	_	_	_	
+155-32	15429-15431	is	_	_	_	
+155-33	15434-15441	drained	_	_	_	
+155-34	15442-15445	off	_	_	_	
+155-35	15446-15448	or	_	_	_	
+155-36	15449-15456	removed	_	_	_	
+155-37	15457-15461	with	_	_	_	
+155-38	15462-15463	a	_	_	_	
+155-39	15464-15470	syphon	_	_	_	
+155-40	15470-15471	.	_	_	_	
+
+#Text=Sweet curd gathered 
+#Text= in a heap, covered with a cloth, and allowed to stand for an 
+#Text= hour or so, becomes slightly acid.
+156-1	15472-15477	Sweet	Taste Word[78]|Quality[79]	*|*	156-1[79_78]|156-2[0_78]	
+156-2	15478-15482	curd	Taste Source	_	_	
+156-3	15483-15491	gathered	Circumstance[80]	_	_	
+156-4	15494-15496	in	Circumstance[80]	_	_	
+156-5	15497-15498	a	Circumstance[80]	_	_	
+156-6	15499-15503	heap	Circumstance[80]	_	_	
+156-7	15503-15504	,	Circumstance[80]	_	_	
+156-8	15505-15512	covered	Circumstance[80]	_	_	
+156-9	15513-15517	with	Circumstance[80]	_	_	
+156-10	15518-15519	a	Circumstance[80]	_	_	
+156-11	15520-15525	cloth	Circumstance[80]	_	_	
+156-12	15525-15526	,	Circumstance[80]	_	_	
+156-13	15527-15530	and	Circumstance[80]	_	_	
+156-14	15531-15538	allowed	Circumstance[80]	_	_	
+156-15	15539-15541	to	Circumstance[80]	_	_	
+156-16	15542-15547	stand	Circumstance[80]	_	_	
+156-17	15548-15551	for	Circumstance[80]	_	_	
+156-18	15552-15554	an	Circumstance[80]	_	_	
+156-19	15557-15561	hour	Circumstance[80]	_	_	
+156-20	15562-15564	or	Circumstance[80]	_	_	
+156-21	15565-15567	so	Circumstance[80]	_	_	
+156-22	15567-15568	,	_	_	_	
+156-23	15569-15576	becomes	_	_	_	
+156-24	15577-15585	slightly	Quality	_	_	
+156-25	15586-15590	acid	Taste Word[81]|Quality[82]	*|*|*|*	156-25[82_81]|156-24[0_81]|156-2[0_81]|156-3[80_81]	
+156-26	15590-15591	.	_	_	_	
+
+#Text=Again, the curd may be 
+#Text= put into the press vats quite sweet, and the necessary acidity 
+#Text= will be produced in a few hours.
+157-1	15592-15597	Again	_	_	_	
+157-2	15597-15598	,	_	_	_	
+157-3	15599-15602	the	Taste Source[83]	_	_	
+157-4	15603-15607	curd	Taste Source[83]	_	_	
+157-5	15608-15611	may	_	_	_	
+157-6	15612-15614	be	_	_	_	
+157-7	15617-15620	put	_	_	_	
+157-8	15621-15625	into	_	_	_	
+157-9	15626-15629	the	_	_	_	
+157-10	15630-15635	press	_	_	_	
+157-11	15636-15640	vats	_	_	_	
+157-12	15641-15646	quite	Quality	_	_	
+157-13	15647-15652	sweet	Quality[84]|Taste Word[85]	*|*|*	157-13[84_85]|157-12[0_85]|157-3[83_85]	
+157-14	15652-15653	,	_	_	_	
+157-15	15654-15657	and	_	_	_	
+157-16	15658-15661	the	_	_	_	
+157-17	15662-15671	necessary	Quality	_	_	
+157-18	15672-15679	acidity	Taste Word	*|*	157-17|157-3[83_0]	
+157-19	15682-15686	will	_	_	_	
+157-20	15687-15689	be	_	_	_	
+157-21	15690-15698	produced	_	_	_	
+157-22	15699-15701	in	_	_	_	
+157-23	15702-15703	a	_	_	_	
+157-24	15704-15707	few	_	_	_	
+157-25	15708-15713	hours	_	_	_	
+157-26	15713-15714	.	_	_	_	
+
+#Text=In cheese factories the 
+#Text= breaking up of the curd is effected in curd-mills.
+158-1	15715-15717	In	_	_	_	
+158-2	15718-15724	cheese	_	_	_	
+158-3	15725-15734	factories	_	_	_	
+158-4	15735-15738	the	_	_	_	
+158-5	15741-15749	breaking	_	_	_	
+158-6	15750-15752	up	_	_	_	
+158-7	15753-15755	of	_	_	_	
+158-8	15756-15759	the	_	_	_	
+158-9	15760-15764	curd	_	_	_	
+158-10	15765-15767	is	_	_	_	
+158-11	15768-15776	effected	_	_	_	
+158-12	15777-15779	in	_	_	_	
+158-13	15780-15790	curd-mills	_	_	_	
+158-14	15790-15791	.	_	_	_	
+
+#Text=If the 
+#Text= curd is rich in fat, only a little salt is needed to prevent 
+#Text= excessive fermentation in the cheese ; if the curd is poor 
+#Text= more salt is needed.
+159-1	15792-15794	If	_	_	_	
+159-2	15795-15798	the	_	_	_	
+159-3	15801-15805	curd	_	_	_	
+159-4	15806-15808	is	_	_	_	
+159-5	15809-15813	rich	_	_	_	
+159-6	15814-15816	in	_	_	_	
+159-7	15817-15820	fat	_	_	_	
+159-8	15820-15821	,	_	_	_	
+159-9	15822-15826	only	_	_	_	
+159-10	15827-15828	a	_	_	_	
+159-11	15829-15835	little	_	_	_	
+159-12	15836-15840	salt	_	_	_	
+159-13	15841-15843	is	_	_	_	
+159-14	15844-15850	needed	_	_	_	
+159-15	15851-15853	to	_	_	_	
+159-16	15854-15861	prevent	_	_	_	
+159-17	15864-15873	excessive	_	_	_	
+159-18	15874-15886	fermentation	_	_	_	
+159-19	15887-15889	in	_	_	_	
+159-20	15890-15893	the	_	_	_	
+159-21	15894-15900	cheese	_	_	_	
+159-22	15901-15902	;	_	_	_	
+159-23	15903-15905	if	_	_	_	
+159-24	15906-15909	the	_	_	_	
+159-25	15910-15914	curd	_	_	_	
+159-26	15915-15917	is	_	_	_	
+159-27	15918-15922	poor	_	_	_	
+159-28	15925-15929	more	_	_	_	
+159-29	15930-15934	salt	_	_	_	
+159-30	15935-15937	is	_	_	_	
+159-31	15938-15944	needed	_	_	_	
+159-32	15944-15945	.	_	_	_	
+
+#Text=Excess of salt spoils a cheese, pre- 
+#Text=  
+#Text= 
+#Text= 
+#Text= i88 
+#Text=  
+#Text= venting its ripening.
+160-1	15946-15952	Excess	_	_	_	
+160-2	15953-15955	of	_	_	_	
+160-3	15956-15960	salt	_	_	_	
+160-4	15961-15967	spoils	_	_	_	
+160-5	15968-15969	a	_	_	_	
+160-6	15970-15976	cheese	_	_	_	
+160-7	15976-15977	,	_	_	_	
+160-8	15978-15981	pre	_	_	_	
+160-9	15981-15982	-	_	_	_	
+160-10	15992-15995	i88	_	_	_	
+160-11	16001-16008	venting	_	_	_	
+160-12	16009-16012	its	_	_	_	
+160-13	16013-16021	ripening	_	_	_	
+160-14	16021-16022	.	_	_	_	
+
+#Text=The curd is pressed in cloths in the 
+#Text= press-vat for two or three days, during which time the cheese 
+#Text= is turned from time to time and the wet cloths changed for 
+#Text= dry ones.
+161-1	16023-16026	The	_	_	_	
+161-2	16027-16031	curd	_	_	_	
+161-3	16032-16034	is	_	_	_	
+161-4	16035-16042	pressed	_	_	_	
+161-5	16043-16045	in	_	_	_	
+161-6	16046-16052	cloths	_	_	_	
+161-7	16053-16055	in	_	_	_	
+161-8	16056-16059	the	_	_	_	
+161-9	16062-16071	press-vat	_	_	_	
+161-10	16072-16075	for	_	_	_	
+161-11	16076-16079	two	_	_	_	
+161-12	16080-16082	or	_	_	_	
+161-13	16083-16088	three	_	_	_	
+161-14	16089-16093	days	_	_	_	
+161-15	16093-16094	,	_	_	_	
+161-16	16095-16101	during	_	_	_	
+161-17	16102-16107	which	_	_	_	
+161-18	16108-16112	time	_	_	_	
+161-19	16113-16116	the	_	_	_	
+161-20	16117-16123	cheese	_	_	_	
+161-21	16126-16128	is	_	_	_	
+161-22	16129-16135	turned	_	_	_	
+161-23	16136-16140	from	_	_	_	
+161-24	16141-16145	time	_	_	_	
+161-25	16146-16148	to	_	_	_	
+161-26	16149-16153	time	_	_	_	
+161-27	16154-16157	and	_	_	_	
+161-28	16158-16161	the	_	_	_	
+161-29	16162-16165	wet	_	_	_	
+161-30	16166-16172	cloths	_	_	_	
+161-31	16173-16180	changed	_	_	_	
+161-32	16181-16184	for	_	_	_	
+161-33	16187-16190	dry	_	_	_	
+161-34	16191-16195	ones	_	_	_	
+161-35	16195-16196	.	_	_	_	
+
+#Text=From the press the cheese is taken to the curing- 
+#Text= room (which is kept at a uniform temperature) to mellow 
+#Text= and acquire flavour.
+162-1	16197-16201	From	_	_	_	
+162-2	16202-16205	the	_	_	_	
+162-3	16206-16211	press	_	_	_	
+162-4	16212-16215	the	Taste Source[86]	_	_	
+162-5	16216-16222	cheese	Taste Source[86]	_	_	
+162-6	16223-16225	is	_	_	_	
+162-7	16226-16231	taken	_	_	_	
+162-8	16232-16234	to	_	_	_	
+162-9	16235-16238	the	_	_	_	
+162-10	16239-16245	curing	_	_	_	
+162-11	16245-16246	-	_	_	_	
+162-12	16249-16253	room	_	_	_	
+162-13	16254-16255	(	_	_	_	
+162-14	16255-16260	which	_	_	_	
+162-15	16261-16263	is	_	_	_	
+162-16	16264-16268	kept	_	_	_	
+162-17	16269-16271	at	_	_	_	
+162-18	16272-16273	a	_	_	_	
+162-19	16274-16281	uniform	_	_	_	
+162-20	16282-16293	temperature	_	_	_	
+162-21	16293-16294	)	_	_	_	
+162-22	16295-16297	to	_	_	_	
+162-23	16298-16304	mellow	_	_	_	
+162-24	16307-16310	and	_	_	_	
+162-25	16311-16318	acquire	_	_	_	
+162-26	16319-16326	flavour	Taste Word	*	162-4[86_0]	
+162-27	16326-16327	.	_	_	_	
+
+#Text=The ripening is due to slow fermen- 
+#Text= tative changes.
+163-1	16328-16331	The	_	_	_	
+163-2	16332-16340	ripening	_	_	_	
+163-3	16341-16343	is	_	_	_	
+163-4	16344-16347	due	_	_	_	
+163-5	16348-16350	to	_	_	_	
+163-6	16351-16355	slow	_	_	_	
+163-7	16356-16362	fermen	_	_	_	
+163-8	16362-16363	-	_	_	_	
+163-9	16366-16372	tative	_	_	_	
+163-10	16373-16380	changes	_	_	_	
+163-11	16380-16381	.	_	_	_	
+
+#Text=When it is complete the constituents of 
+#Text= the cheese are similar to those of milk, except that part of 
+#Text= the butter has been drained off with the whey, and that the 
+#Text= milk sugar is in part changed into lactic acid, and in part 
+#Text= into alcohol and carbonic acid.
+164-1	16382-16386	When	_	_	_	
+164-2	16387-16389	it	_	_	_	
+164-3	16390-16392	is	_	_	_	
+164-4	16393-16401	complete	_	_	_	
+164-5	16402-16405	the	_	_	_	
+164-6	16406-16418	constituents	_	_	_	
+164-7	16419-16421	of	_	_	_	
+164-8	16424-16427	the	_	_	_	
+164-9	16428-16434	cheese	_	_	_	
+164-10	16435-16438	are	_	_	_	
+164-11	16439-16446	similar	_	_	_	
+164-12	16447-16449	to	_	_	_	
+164-13	16450-16455	those	_	_	_	
+164-14	16456-16458	of	_	_	_	
+164-15	16459-16463	milk	_	_	_	
+164-16	16463-16464	,	_	_	_	
+164-17	16465-16471	except	_	_	_	
+164-18	16472-16476	that	_	_	_	
+164-19	16477-16481	part	_	_	_	
+164-20	16482-16484	of	_	_	_	
+164-21	16487-16490	the	_	_	_	
+164-22	16491-16497	butter	_	_	_	
+164-23	16498-16501	has	_	_	_	
+164-24	16502-16506	been	_	_	_	
+164-25	16507-16514	drained	_	_	_	
+164-26	16515-16518	off	_	_	_	
+164-27	16519-16523	with	_	_	_	
+164-28	16524-16527	the	_	_	_	
+164-29	16528-16532	whey	_	_	_	
+164-30	16532-16533	,	_	_	_	
+164-31	16534-16537	and	_	_	_	
+164-32	16538-16542	that	_	_	_	
+164-33	16543-16546	the	_	_	_	
+164-34	16549-16553	milk	_	_	_	
+164-35	16554-16559	sugar	_	_	_	
+164-36	16560-16562	is	_	_	_	
+164-37	16563-16565	in	_	_	_	
+164-38	16566-16570	part	_	_	_	
+164-39	16571-16578	changed	_	_	_	
+164-40	16579-16583	into	_	_	_	
+164-41	16584-16590	lactic	_	_	_	
+164-42	16591-16595	acid	_	_	_	
+164-43	16595-16596	,	_	_	_	
+164-44	16597-16600	and	_	_	_	
+164-45	16601-16603	in	_	_	_	
+164-46	16604-16608	part	_	_	_	
+164-47	16611-16615	into	_	_	_	
+164-48	16616-16623	alcohol	_	_	_	
+164-49	16624-16627	and	_	_	_	
+164-50	16628-16636	carbonic	_	_	_	
+164-51	16637-16641	acid	_	_	_	
+164-52	16641-16642	.	_	_	_	
+
+#Text=There is also present 
+#Text= some common salt, and usually a little colouring matter.
+165-1	16643-16648	There	_	_	_	
+165-2	16649-16651	is	_	_	_	
+165-3	16652-16656	also	_	_	_	
+165-4	16657-16664	present	_	_	_	
+165-5	16667-16671	some	_	_	_	
+165-6	16672-16678	common	_	_	_	
+165-7	16679-16683	salt	_	_	_	
+165-8	16683-16684	,	_	_	_	
+165-9	16685-16688	and	_	_	_	
+165-10	16689-16696	usually	_	_	_	
+165-11	16697-16698	a	_	_	_	
+165-12	16699-16705	little	_	_	_	
+165-13	16706-16715	colouring	_	_	_	
+165-14	16716-16722	matter	_	_	_	
+165-15	16722-16723	.	_	_	_	
+
+#Text=Cheese may be made on what is termed the early ripen- 
+#Text= ing principle, so that it may be quickly brought into the 
+#Text= market; but such cheese will not keep long without deteri- 
+#Text= orating, so that it must be sold within a very limited time.
+#Text=of the bark and the pulpy matter are scraped off.
+166-1	16729-16735	Cheese	_	_	_	
+166-2	16736-16739	may	_	_	_	
+166-3	16740-16742	be	_	_	_	
+166-4	16743-16747	made	_	_	_	
+166-5	16748-16750	on	_	_	_	
+166-6	16751-16755	what	_	_	_	
+166-7	16756-16758	is	_	_	_	
+166-8	16759-16765	termed	_	_	_	
+166-9	16766-16769	the	_	_	_	
+166-10	16770-16775	early	_	_	_	
+166-11	16776-16781	ripen	_	_	_	
+166-12	16781-16782	-	_	_	_	
+166-13	16785-16788	ing	_	_	_	
+166-14	16789-16798	principle	_	_	_	
+166-15	16798-16799	,	_	_	_	
+166-16	16800-16802	so	_	_	_	
+166-17	16803-16807	that	_	_	_	
+166-18	16808-16810	it	_	_	_	
+166-19	16811-16814	may	_	_	_	
+166-20	16815-16817	be	_	_	_	
+166-21	16818-16825	quickly	_	_	_	
+166-22	16826-16833	brought	_	_	_	
+166-23	16834-16838	into	_	_	_	
+166-24	16839-16842	the	_	_	_	
+166-25	16845-16851	market	_	_	_	
+166-26	16851-16852	;	_	_	_	
+166-27	16853-16856	but	_	_	_	
+166-28	16857-16861	such	_	_	_	
+166-29	16862-16868	cheese	_	_	_	
+166-30	16869-16873	will	_	_	_	
+166-31	16874-16877	not	_	_	_	
+166-32	16878-16882	keep	_	_	_	
+166-33	16883-16887	long	_	_	_	
+166-34	16888-16895	without	_	_	_	
+166-35	16896-16902	deteri	_	_	_	
+166-36	16902-16903	-	_	_	_	
+166-37	16906-16913	orating	_	_	_	
+166-38	16913-16914	,	_	_	_	
+166-39	16915-16917	so	_	_	_	
+166-40	16918-16922	that	_	_	_	
+166-41	16923-16925	it	_	_	_	
+166-42	16926-16930	must	_	_	_	
+166-43	16931-16933	be	_	_	_	
+166-44	16934-16938	sold	_	_	_	
+166-45	16939-16945	within	_	_	_	
+166-46	16946-16947	a	_	_	_	
+166-47	16948-16952	very	_	_	_	
+166-48	16953-16960	limited	_	_	_	
+166-49	16961-16965	time	_	_	_	
+166-50	16965-16966	.	_	_	_	
+166-51	16967-16969	of	_	_	_	
+166-52	16970-16973	the	_	_	_	
+166-53	16974-16978	bark	_	_	_	
+166-54	16979-16982	and	_	_	_	
+166-55	16983-16986	the	_	_	_	
+166-56	16987-16992	pulpy	_	_	_	
+166-57	16993-16999	matter	_	_	_	
+166-58	17000-17003	are	_	_	_	
+166-59	17004-17011	scraped	_	_	_	
+166-60	17012-17015	off	_	_	_	
+166-61	17015-17016	.	_	_	_	
+
+#Text=The 
+#Text= smaller quills are introduced into the larger ones, and the 
+#Text= bark is dried in the sun.
+167-1	17017-17020	The	_	_	_	
+167-2	17023-17030	smaller	_	_	_	
+167-3	17031-17037	quills	_	_	_	
+167-4	17038-17041	are	_	_	_	
+167-5	17042-17052	introduced	_	_	_	
+167-6	17053-17057	into	_	_	_	
+167-7	17058-17061	the	_	_	_	
+167-8	17062-17068	larger	_	_	_	
+167-9	17069-17073	ones	_	_	_	
+167-10	17073-17074	,	_	_	_	
+167-11	17075-17078	and	_	_	_	
+167-12	17079-17082	the	_	_	_	
+167-13	17085-17089	bark	_	_	_	
+167-14	17090-17092	is	_	_	_	
+167-15	17093-17098	dried	_	_	_	
+167-16	17099-17101	in	_	_	_	
+167-17	17102-17105	the	_	_	_	
+167-18	17106-17109	sun	_	_	_	
+167-19	17109-17110	.	_	_	_	
+
+#Text=Cinnamon has a sweet taste and 
+#Text= an aromatic flavour.
+168-1	17111-17119	Cinnamon	Taste Source	_	_	
+168-2	17120-17123	has	_	_	_	
+168-3	17124-17125	a	_	_	_	
+168-4	17126-17131	sweet	Taste Word[87]|Quality[88]	*	168-4[88_87]	
+168-5	17132-17137	taste	Taste Word	*|*	168-4[88_0]|168-1	
+168-6	17138-17141	and	_	_	_	
+168-7	17144-17146	an	_	_	_	
+168-8	17147-17155	aromatic	Quality	_	_	
+168-9	17156-17163	flavour	Taste Word	*|*	168-8|168-1	
+168-10	17163-17164	.	_	_	_	
+
+#Text=It is light brown in colour, well 
+#Text= curled, and scarcely thicker than drawing paper.
+169-1	17165-17167	It	_	_	_	
+169-2	17168-17170	is	_	_	_	
+169-3	17171-17176	light	_	_	_	
+169-4	17177-17182	brown	_	_	_	
+169-5	17183-17185	in	_	_	_	
+169-6	17186-17192	colour	_	_	_	
+169-7	17192-17193	,	_	_	_	
+169-8	17194-17198	well	_	_	_	
+169-9	17201-17207	curled	_	_	_	
+169-10	17207-17208	,	_	_	_	
+169-11	17209-17212	and	_	_	_	
+169-12	17213-17221	scarcely	_	_	_	
+169-13	17222-17229	thicker	_	_	_	
+169-14	17230-17234	than	_	_	_	
+169-15	17235-17242	drawing	_	_	_	
+169-16	17243-17248	paper	_	_	_	
+169-17	17248-17249	.	_	_	_	
+
+#Text=It 
+#Text= breaks with an uneven fibrous margin.
+170-1	17250-17252	It	_	_	_	
+170-2	17255-17261	breaks	_	_	_	
+170-3	17262-17266	with	_	_	_	
+170-4	17267-17269	an	_	_	_	
+170-5	17270-17276	uneven	_	_	_	
+170-6	17277-17284	fibrous	_	_	_	
+170-7	17285-17291	margin	_	_	_	
+170-8	17291-17292	.	_	_	_	
+
+#Text=It contains a 
+#Text= volatile oil, tannin, mucilage, colouring matter, resin, an 
+#Text= acrid principle, woody fibre, starch, and a little moisture.
+171-1	17293-17295	It	_	_	_	
+171-2	17296-17304	contains	_	_	_	
+171-3	17305-17306	a	_	_	_	
+171-4	17309-17317	volatile	_	_	_	
+171-5	17318-17321	oil	_	_	_	
+171-6	17321-17322	,	_	_	_	
+171-7	17323-17329	tannin	_	_	_	
+171-8	17329-17330	,	_	_	_	
+171-9	17331-17339	mucilage	_	_	_	
+171-10	17339-17340	,	_	_	_	
+171-11	17341-17350	colouring	_	_	_	
+171-12	17351-17357	matter	_	_	_	
+171-13	17357-17358	,	_	_	_	
+171-14	17359-17364	resin	_	_	_	
+171-15	17364-17365	,	_	_	_	
+171-16	17366-17368	an	_	_	_	
+171-17	17371-17376	acrid	_	_	_	
+171-18	17377-17386	principle	_	_	_	
+171-19	17386-17387	,	_	_	_	
+171-20	17388-17393	woody	_	_	_	
+171-21	17394-17399	fibre	_	_	_	
+171-22	17399-17400	,	_	_	_	
+171-23	17401-17407	starch	_	_	_	
+171-24	17407-17408	,	_	_	_	
+171-25	17409-17412	and	_	_	_	
+171-26	17413-17414	a	_	_	_	
+171-27	17415-17421	little	_	_	_	
+171-28	17422-17430	moisture	_	_	_	
+171-29	17430-17431	.	_	_	_	
+
+#Text=Cassia, the bark of another tree belonging to the laurel 
+#Text= family, is sometimes substituted for cinnamon.
+172-1	17437-17443	Cassia	_	_	_	
+172-2	17443-17444	,	_	_	_	
+172-3	17445-17448	the	_	_	_	
+172-4	17449-17453	bark	_	_	_	
+172-5	17454-17456	of	_	_	_	
+172-6	17457-17464	another	_	_	_	
+172-7	17465-17469	tree	_	_	_	
+172-8	17470-17479	belonging	_	_	_	
+172-9	17480-17482	to	_	_	_	
+172-10	17483-17486	the	_	_	_	
+172-11	17487-17493	laurel	_	_	_	
+172-12	17496-17502	family	_	_	_	
+172-13	17502-17503	,	_	_	_	
+172-14	17504-17506	is	_	_	_	
+172-15	17507-17516	sometimes	_	_	_	
+172-16	17517-17528	substituted	_	_	_	
+172-17	17529-17532	for	_	_	_	
+172-18	17533-17541	cinnamon	_	_	_	
+172-19	17541-17542	.	_	_	_	
+
+#Text=Cassia bark 
+#Text=  
+#Text=  
+#Text=  
+#Text= 215 
+#Text=  
+#Text= is brown, much stouter than cinnamon, and breaks short off, 
+#Text= without splintering.
+173-1	17543-17549	Cassia	_	_	_	
+173-2	17550-17554	bark	_	_	_	
+173-3	17566-17569	215	_	_	_	
+173-4	17575-17577	is	_	_	_	
+173-5	17578-17583	brown	_	_	_	
+173-6	17583-17584	,	_	_	_	
+173-7	17585-17589	much	_	_	_	
+173-8	17590-17597	stouter	_	_	_	
+173-9	17598-17602	than	_	_	_	
+173-10	17603-17611	cinnamon	_	_	_	
+173-11	17611-17612	,	_	_	_	
+173-12	17613-17616	and	_	_	_	
+173-13	17617-17623	breaks	_	_	_	
+173-14	17624-17629	short	_	_	_	
+173-15	17630-17633	off	_	_	_	
+173-16	17633-17634	,	_	_	_	
+173-17	17637-17644	without	_	_	_	
+173-18	17645-17656	splintering	_	_	_	
+173-19	17656-17657	.	_	_	_	
+
+#Text=Cassia is also redder in colour and 
+#Text= stronger in taste, but less sweet.
+174-1	17658-17664	Cassia	Taste Source	_	_	
+174-2	17665-17667	is	_	_	_	
+174-3	17668-17672	also	_	_	_	
+174-4	17673-17679	redder	_	_	_	
+174-5	17680-17682	in	_	_	_	
+174-6	17683-17689	colour	_	_	_	
+174-7	17690-17693	and	_	_	_	
+174-8	17696-17704	stronger	Quality	_	_	
+174-9	17705-17707	in	_	_	_	
+174-10	17708-17713	taste	Taste Word	*|*|*	174-1|174-8|174-14[89_0]	
+174-11	17713-17714	,	_	_	_	
+174-12	17715-17718	but	_	_	_	
+174-13	17719-17723	less	Quality	_	_	
+174-14	17724-17729	sweet	Quality[89]|Taste Word[90]	*|*|*	174-14[89_90]|174-13[0_90]|174-1[0_90]	
+174-15	17729-17730	.	_	_	_	
+
+#Text=It contains two brown-coloured hemispherical seeds, having 
+#Text= an aromatic taste and odour.
+175-1	17734-17736	It	_	_	_	
+175-2	17737-17745	contains	_	_	_	
+175-3	17746-17749	two	_	_	_	
+175-4	17750-17764	brown-coloured	_	_	_	
+175-5	17765-17778	hemispherical	_	_	_	
+175-6	17779-17784	seeds	_	_	_	
+175-7	17784-17785	,	_	_	_	
+175-8	17786-17792	having	_	_	_	
+175-9	17795-17797	an	_	_	_	
+175-10	17798-17806	aromatic	Quality	_	_	
+175-11	17807-17812	taste	Taste Word	*|*	175-10|174-1	
+175-12	17813-17816	and	_	_	_	
+175-13	17817-17822	odour	_	_	_	
+175-14	17822-17823	.	_	_	_	
+
+#Text=The seed-vessels, or pods, of 
+#Text= cardamom are of triangular form, each containing several 
+#Text= hard, reddish-brown seeds, having a pungent taste, and 
+#Text= popularly known as "grains of paradise."
+176-1	17824-17827	The	Taste Source[91]	_	_	
+176-2	17828-17840	seed-vessels	Taste Source[91]	_	_	
+176-3	17840-17841	,	Taste Source[91]	_	_	
+176-4	17842-17844	or	Taste Source[91]	_	_	
+176-5	17845-17849	pods	Taste Source[91]	_	_	
+176-6	17849-17850	,	Taste Source[91]	_	_	
+176-7	17851-17853	of	Taste Source[91]	_	_	
+176-8	17856-17864	cardamom	Taste Source[91]	_	_	
+176-9	17865-17868	are	_	_	_	
+176-10	17869-17871	of	_	_	_	
+176-11	17872-17882	triangular	_	_	_	
+176-12	17883-17887	form	_	_	_	
+176-13	17887-17888	,	_	_	_	
+176-14	17889-17893	each	_	_	_	
+176-15	17894-17904	containing	_	_	_	
+176-16	17905-17912	several	_	_	_	
+176-17	17915-17919	hard	_	_	_	
+176-18	17919-17920	,	_	_	_	
+176-19	17921-17934	reddish-brown	_	_	_	
+176-20	17935-17940	seeds	_	_	_	
+176-21	17940-17941	,	_	_	_	
+176-22	17942-17948	having	_	_	_	
+176-23	17949-17950	a	_	_	_	
+176-24	17951-17958	pungent	Taste Word[92]|Quality[93]	*	176-24[93_92]	
+176-25	17959-17964	taste	Taste Word	*|*	176-24[93_0]|176-1[91_0]	
+176-26	17964-17965	,	_	_	_	
+176-27	17966-17969	and	_	_	_	
+176-28	17972-17981	popularly	_	_	_	
+176-29	17982-17987	known	_	_	_	
+176-30	17988-17990	as	_	_	_	
+176-31	17991-17992	"	_	_	_	
+176-32	17992-17998	grains	_	_	_	
+176-33	17999-18001	of	_	_	_	
+176-34	18002-18010	paradise	_	_	_	
+176-35	18010-18011	.	_	_	_	
+176-36	18011-18012	"	_	_	_	
+
+#Text=Cumin and fenu- 
+#Text= greek seeds are aromatic seeds having a peculiar medicinal 
+#Text= taste and odour.
+177-1	18013-18018	Cumin	Taste Source	_	_	
+177-2	18019-18022	and	_	_	_	
+177-3	18023-18027	fenu	Taste Source[94]	_	_	
+177-4	18027-18028	-	Taste Source[94]	_	_	
+177-5	18031-18036	greek	Taste Source[94]	_	_	
+177-6	18037-18042	seeds	Taste Source[94]	_	_	
+177-7	18043-18046	are	_	_	_	
+177-8	18047-18055	aromatic	_	_	_	
+177-9	18056-18061	seeds	_	_	_	
+177-10	18062-18068	having	_	_	_	
+177-11	18069-18070	a	_	_	_	
+177-12	18071-18079	peculiar	Quality	_	_	
+177-13	18080-18089	medicinal	Quality	_	_	
+177-14	18092-18097	taste	Taste Word	*|*|*|*	177-13|177-12|177-3[94_0]|177-1	
+177-15	18098-18101	and	_	_	_	
+177-16	18102-18107	odour	_	_	_	
+177-17	18107-18108	.	_	_	_	
+
+#Text=The characteristic flavour of curry is due 
+#Text= largely to the cumin it contains.
+178-1	18109-18112	The	_	_	_	
+178-2	18113-18127	characteristic	Quality	_	_	
+178-3	18128-18135	flavour	Taste Word	*|*|*	178-4[95_0]|178-2|178-6[96_0]	
+178-4	18136-18138	of	Taste Source[95]	_	_	
+178-5	18139-18144	curry	Taste Source[95]	_	_	
+178-6	18145-18147	is	Taste Modifier[96]	_	_	
+178-7	18148-18151	due	Taste Modifier[96]	_	_	
+178-8	18154-18161	largely	Taste Modifier[96]	_	_	
+178-9	18162-18164	to	Taste Modifier[96]	_	_	
+178-10	18165-18168	the	Taste Modifier[96]	_	_	
+178-11	18169-18174	cumin	Taste Modifier[96]	_	_	
+178-12	18175-18177	it	_	_	_	
+178-13	18178-18186	contains	_	_	_	
+178-14	18186-18187	.	_	_	_	
+
+#Text=Curry has been found to 
+#Text= be adulterated with ground rice, potato starch, common salt, 
+#Text= red lead, and ferruginous earths.
+179-1	18188-18193	Curry	_	_	_	
+179-2	18194-18197	has	_	_	_	
+179-3	18198-18202	been	_	_	_	
+179-4	18203-18208	found	_	_	_	
+179-5	18209-18211	to	_	_	_	
+179-6	18214-18216	be	_	_	_	
+179-7	18217-18228	adulterated	_	_	_	
+179-8	18229-18233	with	_	_	_	
+179-9	18234-18240	ground	_	_	_	
+179-10	18241-18245	rice	_	_	_	
+179-11	18245-18246	,	_	_	_	
+179-12	18247-18253	potato	_	_	_	
+179-13	18254-18260	starch	_	_	_	
+179-14	18260-18261	,	_	_	_	
+179-15	18262-18268	common	_	_	_	
+179-16	18269-18273	salt	_	_	_	
+179-17	18273-18274	,	_	_	_	
+179-18	18277-18280	red	_	_	_	
+179-19	18281-18285	lead	_	_	_	
+179-20	18285-18286	,	_	_	_	
+179-21	18287-18290	and	_	_	_	
+179-22	18291-18302	ferruginous	_	_	_	
+179-23	18303-18309	earths	_	_	_	
+179-24	18309-18310	.	_	_	_	
+
+#Text=Olive Oil is expressed from olives, the fruit of a well-known 
+#Text= tree cultivated in many European countries.
+180-1	18316-18321	Olive	_	_	_	
+180-2	18322-18325	Oil	_	_	_	
+180-3	18326-18328	is	_	_	_	
+180-4	18329-18338	expressed	_	_	_	
+180-5	18339-18343	from	_	_	_	
+180-6	18344-18350	olives	_	_	_	
+180-7	18350-18351	,	_	_	_	
+180-8	18352-18355	the	_	_	_	
+180-9	18356-18361	fruit	_	_	_	
+180-10	18362-18364	of	_	_	_	
+180-11	18365-18366	a	_	_	_	
+180-12	18367-18377	well-known	_	_	_	
+180-13	18380-18384	tree	_	_	_	
+180-14	18385-18395	cultivated	_	_	_	
+180-15	18396-18398	in	_	_	_	
+180-16	18399-18403	many	_	_	_	
+180-17	18404-18412	European	_	_	_	
+180-18	18413-18422	countries	_	_	_	
+180-19	18422-18423	.	_	_	_	
+
+#Text=Olives should 
+#Text= furnish from 20 to 25 per cent, of their weight of oil, but 
+#Text= the whole yield is not usually of the same quality.
+181-1	18424-18430	Olives	_	_	_	
+181-2	18431-18437	should	_	_	_	
+181-3	18440-18447	furnish	_	_	_	
+181-4	18448-18452	from	_	_	_	
+181-5	18453-18455	20	_	_	_	
+181-6	18456-18458	to	_	_	_	
+181-7	18459-18461	25	_	_	_	
+181-8	18462-18465	per	_	_	_	
+181-9	18466-18470	cent	_	_	_	
+181-10	18470-18471	,	_	_	_	
+181-11	18472-18474	of	_	_	_	
+181-12	18475-18480	their	_	_	_	
+181-13	18481-18487	weight	_	_	_	
+181-14	18488-18490	of	_	_	_	
+181-15	18491-18494	oil	_	_	_	
+181-16	18494-18495	,	_	_	_	
+181-17	18496-18499	but	_	_	_	
+181-18	18502-18505	the	_	_	_	
+181-19	18506-18511	whole	_	_	_	
+181-20	18512-18517	yield	_	_	_	
+181-21	18518-18520	is	_	_	_	
+181-22	18521-18524	not	_	_	_	
+181-23	18525-18532	usually	_	_	_	
+181-24	18533-18535	of	_	_	_	
+181-25	18536-18539	the	_	_	_	
+181-26	18540-18544	same	_	_	_	
+181-27	18545-18552	quality	_	_	_	
+181-28	18552-18553	.	_	_	_	
+
+#Text=The 
+#Text= pure oil is pale yellow, transparent, of agreeable odour and 
+#Text= bland taste.
+182-1	18554-18557	The	Taste Source[97]	_	_	
+182-2	18560-18564	pure	Taste Source[97]	_	_	
+182-3	18565-18568	oil	Taste Source[97]	_	_	
+182-4	18569-18571	is	_	_	_	
+182-5	18572-18576	pale	_	_	_	
+182-6	18577-18583	yellow	_	_	_	
+182-7	18583-18584	,	_	_	_	
+182-8	18585-18596	transparent	_	_	_	
+182-9	18596-18597	,	_	_	_	
+182-10	18598-18600	of	_	_	_	
+182-11	18601-18610	agreeable	_	_	_	
+182-12	18611-18616	odour	_	_	_	
+182-13	18617-18620	and	_	_	_	
+182-14	18623-18628	bland	Quality	_	_	
+182-15	18629-18634	taste	Taste Word	*|*	182-14|182-1[97_0]	
+182-16	18634-18635	.	_	_	_	
+
+#Text=It keeps well, being little liable to become 
+#Text= rancid.
+183-1	18636-18638	It	Taste Source	*	182-1[97_0]	
+183-2	18639-18644	keeps	_	_	_	
+183-3	18645-18649	well	_	_	_	
+183-4	18649-18650	,	_	_	_	
+183-5	18651-18656	being	_	_	_	
+183-6	18657-18663	little	_	_	_	
+183-7	18664-18670	liable	_	_	_	
+183-8	18671-18673	to	_	_	_	
+183-9	18674-18680	become	_	_	_	
+183-10	18683-18689	rancid	Taste Word[98]|Quality[99]	*|*	183-10[99_98]|183-1[0_98]	
+183-11	18689-18690	.	_	_	_	
+
+#Text=citric acid per ounce, a little malic acid, sugar, vegetable 
+#Text= albumen, and mucus.
+184-1	18697-18703	citric	_	_	_	
+184-2	18704-18708	acid	_	_	_	
+184-3	18709-18712	per	_	_	_	
+184-4	18713-18718	ounce	_	_	_	
+184-5	18718-18719	,	_	_	_	
+184-6	18720-18721	a	_	_	_	
+184-7	18722-18728	little	_	_	_	
+184-8	18729-18734	malic	_	_	_	
+184-9	18735-18739	acid	_	_	_	
+184-10	18739-18740	,	_	_	_	
+184-11	18741-18746	sugar	_	_	_	
+184-12	18746-18747	,	_	_	_	
+184-13	18748-18757	vegetable	_	_	_	
+184-14	18760-18767	albumen	_	_	_	
+184-15	18767-18768	,	_	_	_	
+184-16	18769-18772	and	_	_	_	
+184-17	18773-18778	mucus	_	_	_	
+184-18	18778-18779	.	_	_	_	
+
+#Text=It is largely prepared in Sicily and 
+#Text= the West Indies.
+185-1	18780-18782	It	_	_	_	
+185-2	18783-18785	is	_	_	_	
+185-3	18786-18793	largely	_	_	_	
+185-4	18794-18802	prepared	_	_	_	
+185-5	18803-18805	in	_	_	_	
+185-6	18806-18812	Sicily	_	_	_	
+185-7	18813-18816	and	_	_	_	
+185-8	18819-18822	the	_	_	_	
+185-9	18823-18827	West	_	_	_	
+185-10	18828-18834	Indies	_	_	_	
+185-11	18834-18835	.	_	_	_	
+
+#Text=As found in commerce, it is frequently 
+#Text= mixed with varying proportions of spirit to make it keep 
+#Text= better, but it may be obtained pure.
+186-1	18836-18838	As	_	_	_	
+186-2	18839-18844	found	_	_	_	
+186-3	18845-18847	in	_	_	_	
+186-4	18848-18856	commerce	_	_	_	
+186-5	18856-18857	,	_	_	_	
+186-6	18858-18860	it	_	_	_	
+186-7	18861-18863	is	_	_	_	
+186-8	18864-18874	frequently	_	_	_	
+186-9	18877-18882	mixed	_	_	_	
+186-10	18883-18887	with	_	_	_	
+186-11	18888-18895	varying	_	_	_	
+186-12	18896-18907	proportions	_	_	_	
+186-13	18908-18910	of	_	_	_	
+186-14	18911-18917	spirit	_	_	_	
+186-15	18918-18920	to	_	_	_	
+186-16	18921-18925	make	_	_	_	
+186-17	18926-18928	it	_	_	_	
+186-18	18929-18933	keep	_	_	_	
+186-19	18936-18942	better	_	_	_	
+186-20	18942-18943	,	_	_	_	
+186-21	18944-18947	but	_	_	_	
+186-22	18948-18950	it	_	_	_	
+186-23	18951-18954	may	_	_	_	
+186-24	18955-18957	be	_	_	_	
+186-25	18958-18966	obtained	_	_	_	
+186-26	18967-18971	pure	_	_	_	
+186-27	18971-18972	.	_	_	_	
+
+#Text=Sometimes olive oil is 
+#Text= poured on the top to exclude the air.
+187-1	18973-18982	Sometimes	_	_	_	
+187-2	18983-18988	olive	_	_	_	
+187-3	18989-18992	oil	_	_	_	
+187-4	18993-18995	is	_	_	_	
+187-5	18998-19004	poured	_	_	_	
+187-6	19005-19007	on	_	_	_	
+187-7	19008-19011	the	_	_	_	
+187-8	19012-19015	top	_	_	_	
+187-9	19016-19018	to	_	_	_	
+187-10	19019-19026	exclude	_	_	_	
+187-11	19027-19030	the	_	_	_	
+187-12	19031-19034	air	_	_	_	
+187-13	19034-19035	.	_	_	_	
+
+#Text=Good lime juice or 
+#Text= lemon juice is free from turbidity or stringiness, keeps well, 
+#Text= has a pleasant acid taste, but is not bitter.
+188-1	19036-19040	Good	Taste Source[100]	_	_	
+188-2	19041-19045	lime	Taste Source[100]	_	_	
+188-3	19046-19051	juice	Taste Source[100]	_	_	
+188-4	19052-19054	or	_	_	_	
+188-5	19057-19062	lemon	Taste Source[101]	_	_	
+188-6	19063-19068	juice	Taste Source[101]	_	_	
+188-7	19069-19071	is	_	_	_	
+188-8	19072-19076	free	_	_	_	
+188-9	19077-19081	from	_	_	_	
+188-10	19082-19091	turbidity	_	_	_	
+188-11	19092-19094	or	_	_	_	
+188-12	19095-19106	stringiness	_	_	_	
+188-13	19106-19107	,	_	_	_	
+188-14	19108-19113	keeps	_	_	_	
+188-15	19114-19118	well	_	_	_	
+188-16	19118-19119	,	_	_	_	
+188-17	19122-19125	has	_	_	_	
+188-18	19126-19127	a	_	_	_	
+188-19	19128-19136	pleasant	Quality	_	_	
+188-20	19137-19141	acid	Quality[102]|Taste Word[103]	*	188-20[102_103]	
+188-21	19142-19147	taste	Taste Word	*|*|*|*|*	188-19|188-20[102_0]|188-1[100_0]|188-5[101_0]|188-26[105_0]	
+188-22	19147-19148	,	_	_	_	
+188-23	19149-19152	but	_	_	_	
+188-24	19153-19155	is	_	_	_	
+188-25	19156-19159	not	_	_	_	
+188-26	19160-19166	bitter	Taste Word[104]|Quality[105]	*	188-26[105_104]	
+188-27	19166-19167	.	_	_	_	
+
+#Text=It should not 
+#Text= contain more than 5 per cent, of alcohol.
+189-1	19168-19170	It	_	_	_	
+189-2	19171-19177	should	_	_	_	
+189-3	19178-19181	not	_	_	_	
+189-4	19184-19191	contain	_	_	_	
+189-5	19192-19196	more	_	_	_	
+189-6	19197-19201	than	_	_	_	
+189-7	19202-19203	5	_	_	_	
+189-8	19204-19207	per	_	_	_	
+189-9	19208-19212	cent	_	_	_	
+189-10	19212-19213	,	_	_	_	
+189-11	19214-19216	of	_	_	_	
+189-12	19217-19224	alcohol	_	_	_	
+189-13	19224-19225	.	_	_	_	
+
+#Text=It is adulterated with water, tartaric acid, sulphuric 
+#Text= acid, or other acid.
+190-1	19231-19233	It	_	_	_	
+190-2	19234-19236	is	_	_	_	
+190-3	19237-19248	adulterated	_	_	_	
+190-4	19249-19253	with	_	_	_	
+190-5	19254-19259	water	_	_	_	
+190-6	19259-19260	,	_	_	_	
+190-7	19261-19269	tartaric	_	_	_	
+190-8	19270-19274	acid	_	_	_	
+190-9	19274-19275	,	_	_	_	
+190-10	19276-19285	sulphuric	_	_	_	
+190-11	19288-19292	acid	_	_	_	
+190-12	19292-19293	,	_	_	_	
+190-13	19294-19296	or	_	_	_	
+190-14	19297-19302	other	_	_	_	
+190-15	19303-19307	acid	_	_	_	
+190-16	19307-19308	.	_	_	_	
+
+#Text=Artificial lemon-juice, made from citric 
+#Text= acid, water, and essence of lemons, may be substituted 
+#Text= for the genuine article.
+191-1	19309-19319	Artificial	Taste Source[106]	_	_	
+191-2	19320-19331	lemon-juice	Taste Source[106]	_	_	
+191-3	19331-19332	,	_	_	_	
+191-4	19333-19337	made	_	_	_	
+191-5	19338-19342	from	_	_	_	
+191-6	19343-19349	citric	_	_	_	
+191-7	19352-19356	acid	_	_	_	
+191-8	19356-19357	,	_	_	_	
+191-9	19358-19363	water	_	_	_	
+191-10	19363-19364	,	_	_	_	
+191-11	19365-19368	and	_	_	_	
+191-12	19369-19376	essence	_	_	_	
+191-13	19377-19379	of	_	_	_	
+191-14	19380-19386	lemons	_	_	_	
+191-15	19386-19387	,	_	_	_	
+191-16	19388-19391	may	_	_	_	
+191-17	19392-19394	be	_	_	_	
+191-18	19395-19406	substituted	_	_	_	
+191-19	19409-19412	for	_	_	_	
+191-20	19413-19416	the	_	_	_	
+191-21	19417-19424	genuine	_	_	_	
+191-22	19425-19432	article	_	_	_	
+191-23	19432-19433	.	_	_	_	
+
+#Text=It is, however, deficient in flavour, 
+#Text= and the fraud can be detected by evaporation.
+192-1	19434-19436	It	_	_	_	
+192-2	19437-19439	is	_	_	_	
+192-3	19439-19440	,	_	_	_	
+192-4	19441-19448	however	_	_	_	
+192-5	19448-19449	,	_	_	_	
+192-6	19450-19459	deficient	Quality	_	_	
+192-7	19460-19462	in	_	_	_	
+192-8	19463-19470	flavour	Taste Word	*|*	192-6|191-1[106_0]	
+192-9	19470-19471	,	_	_	_	
+192-10	19474-19477	and	_	_	_	
+192-11	19478-19481	the	_	_	_	
+192-12	19482-19487	fraud	_	_	_	
+192-13	19488-19491	can	_	_	_	
+192-14	19492-19494	be	_	_	_	
+192-15	19495-19503	detected	_	_	_	
+192-16	19504-19506	by	_	_	_	
+192-17	19507-19518	evaporation	_	_	_	
+192-18	19518-19519	.	_	_	_	
+
+#Text=Foods sold Cooked. — Many of the articles of food already 
+#Text= referred to come under this description, as bread, tinned 
+#Text= milk, preserved fruit, &c. ; yet it appears desirable to draw 
+#Text= the food inspector ' s special attention to some of the victuals
+#Text=for sale in poor neighbourhoods.
+193-1	19525-19530	Foods	_	_	_	
+193-2	19531-19535	sold	_	_	_	
+193-3	19536-19542	Cooked	_	_	_	
+193-4	19542-19543	.	_	_	_	
+193-5	19544-19545	—	_	_	_	
+193-6	19546-19550	Many	_	_	_	
+193-7	19551-19553	of	_	_	_	
+193-8	19554-19557	the	_	_	_	
+193-9	19558-19566	articles	_	_	_	
+193-10	19567-19569	of	_	_	_	
+193-11	19570-19574	food	_	_	_	
+193-12	19575-19582	already	_	_	_	
+193-13	19585-19593	referred	_	_	_	
+193-14	19594-19596	to	_	_	_	
+193-15	19597-19601	come	_	_	_	
+193-16	19602-19607	under	_	_	_	
+193-17	19608-19612	this	_	_	_	
+193-18	19613-19624	description	_	_	_	
+193-19	19624-19625	,	_	_	_	
+193-20	19626-19628	as	_	_	_	
+193-21	19629-19634	bread	_	_	_	
+193-22	19634-19635	,	_	_	_	
+193-23	19636-19642	tinned	_	_	_	
+193-24	19645-19649	milk	_	_	_	
+193-25	19649-19650	,	_	_	_	
+193-26	19651-19660	preserved	_	_	_	
+193-27	19661-19666	fruit	_	_	_	
+193-28	19666-19667	,	_	_	_	
+193-29	19668-19669	&	_	_	_	
+193-30	19669-19670	c	_	_	_	
+193-31	19670-19671	.	_	_	_	
+193-32	19672-19673	;	_	_	_	
+193-33	19674-19677	yet	_	_	_	
+193-34	19678-19680	it	_	_	_	
+193-35	19681-19688	appears	_	_	_	
+193-36	19689-19698	desirable	_	_	_	
+193-37	19699-19701	to	_	_	_	
+193-38	19702-19706	draw	_	_	_	
+193-39	19709-19712	the	_	_	_	
+193-40	19713-19717	food	_	_	_	
+193-41	19718-19727	inspector	_	_	_	
+193-42	19728-19729	'	_	_	_	
+193-43	19730-19731	s	_	_	_	
+193-44	19732-19739	special	_	_	_	
+193-45	19740-19749	attention	_	_	_	
+193-46	19750-19752	to	_	_	_	
+193-47	19753-19757	some	_	_	_	
+193-48	19758-19760	of	_	_	_	
+193-49	19761-19764	the	_	_	_	
+193-50	19765-19773	victuals	_	_	_	
+193-51	19774-19777	for	_	_	_	
+193-52	19778-19782	sale	_	_	_	
+193-53	19783-19785	in	_	_	_	
+193-54	19786-19790	poor	_	_	_	
+193-55	19791-19805	neighbourhoods	_	_	_	
+193-56	19805-19806	.	_	_	_	
+
+#Text=Biscuits, Cakes, Pastry, &c. — At the cheap pastrycooks 
+#Text= and at little shops frequented by children, are sold biscuits 
+#Text= damaged with damp and attacked with mould, cakes and 
+#Text= pastry originally made with butter beginning to be rancid, 
+#Text= and stale beyond all possibility of wholesomeness.
+194-1	19812-19820	Biscuits	_	_	_	
+194-2	19820-19821	,	_	_	_	
+194-3	19822-19827	Cakes	_	_	_	
+194-4	19827-19828	,	_	_	_	
+194-5	19829-19835	Pastry	_	_	_	
+194-6	19835-19836	,	_	_	_	
+194-7	19837-19838	&	_	_	_	
+194-8	19838-19839	c	_	_	_	
+194-9	19839-19840	.	_	_	_	
+194-10	19841-19842	—	_	_	_	
+194-11	19843-19845	At	_	_	_	
+194-12	19846-19849	the	_	_	_	
+194-13	19850-19855	cheap	_	_	_	
+194-14	19856-19867	pastrycooks	_	_	_	
+194-15	19870-19873	and	_	_	_	
+194-16	19874-19876	at	_	_	_	
+194-17	19877-19883	little	_	_	_	
+194-18	19884-19889	shops	_	_	_	
+194-19	19890-19900	frequented	_	_	_	
+194-20	19901-19903	by	_	_	_	
+194-21	19904-19912	children	_	_	_	
+194-22	19912-19913	,	_	_	_	
+194-23	19914-19917	are	_	_	_	
+194-24	19918-19922	sold	_	_	_	
+194-25	19923-19931	biscuits	Taste Source	_	_	
+194-26	19934-19941	damaged	_	_	_	
+194-27	19942-19946	with	_	_	_	
+194-28	19947-19951	damp	_	_	_	
+194-29	19952-19955	and	_	_	_	
+194-30	19956-19964	attacked	_	_	_	
+194-31	19965-19969	with	_	_	_	
+194-32	19970-19975	mould	_	_	_	
+194-33	19975-19976	,	_	_	_	
+194-34	19977-19982	cakes	_	_	_	
+194-35	19983-19986	and	_	_	_	
+194-36	19989-19995	pastry	_	_	_	
+194-37	19996-20006	originally	_	_	_	
+194-38	20007-20011	made	_	_	_	
+194-39	20012-20016	with	_	_	_	
+194-40	20017-20023	butter	_	_	_	
+194-41	20024-20033	beginning	_	_	_	
+194-42	20034-20036	to	_	_	_	
+194-43	20037-20039	be	_	_	_	
+194-44	20040-20046	rancid	Taste Word[107]|Quality[108]	*|*	194-44[108_107]|194-25[0_107]	
+194-45	20046-20047	,	_	_	_	
+194-46	20050-20053	and	_	_	_	
+194-47	20054-20059	stale	Taste Word[109]|Quality[110]	*|*	194-47[110_109]|194-25[0_109]	
+194-48	20060-20066	beyond	_	_	_	
+194-49	20067-20070	all	_	_	_	
+194-50	20071-20082	possibility	_	_	_	
+194-51	20083-20085	of	_	_	_	
+194-52	20086-20099	wholesomeness	_	_	_	
+194-53	20099-20100	.	_	_	_	
+
+#Text=Then 
+#Text= what are the contents of the penny meat pies in such 
+#Text= shops ?
+195-1	20101-20105	Then	_	_	_	
+195-2	20108-20112	what	_	_	_	
+195-3	20113-20116	are	_	_	_	
+195-4	20117-20120	the	_	_	_	
+195-5	20121-20129	contents	_	_	_	
+195-6	20130-20132	of	_	_	_	
+195-7	20133-20136	the	Taste Source[111]	_	_	
+195-8	20137-20142	penny	Taste Source[111]	_	_	
+195-9	20143-20147	meat	Taste Source[111]	_	_	
+195-10	20148-20152	pies	Taste Source[111]	_	_	
+195-11	20153-20155	in	_	_	_	
+195-12	20156-20160	such	_	_	_	
+195-13	20163-20168	shops	_	_	_	
+195-14	20169-20170	?	_	_	_	
+
+#Text=They are usually so highly seasoned with pepper 
+#Text= that it is impossible to judge by the taste.
+196-1	20171-20175	They	_	_	_	
+196-2	20176-20179	are	_	_	_	
+196-3	20180-20187	usually	_	_	_	
+196-4	20188-20190	so	_	_	_	
+196-5	20191-20197	highly	Quality	_	_	
+196-6	20198-20206	seasoned	Taste Word[112]|Quality[113]	*|*|*|*	196-6[113_112]|195-7[111_112]|196-5[0_112]|196-7[114_112]	
+196-7	20207-20211	with	Taste Modifier[114]	_	_	
+196-8	20212-20218	pepper	Taste Modifier[114]	_	_	
+196-9	20221-20225	that	_	_	_	
+196-10	20226-20228	it	_	_	_	
+196-11	20229-20231	is	_	_	_	
+196-12	20232-20242	impossible	_	_	_	
+196-13	20243-20245	to	_	_	_	
+196-14	20246-20251	judge	_	_	_	
+196-15	20252-20254	by	_	_	_	
+196-16	20255-20258	the	_	_	_	
+196-17	20259-20264	taste	Taste Word	_	_	
+196-18	20264-20265	.	_	_	_	
+
+#Text=A few purchases 
+#Text=  
+#Text=  
+#Text=  
+#Text= 222 
+#Text=  
+#Text=  
+#Text=  
+#Text= by intelligent inspectors might be the means of improving 
+#Text= the quality, and wholesomeness of what may be called the 
+#Text= dainties of the poor.
+197-1	20266-20267	A	_	_	_	
+197-2	20268-20271	few	_	_	_	
+197-3	20272-20281	purchases	_	_	_	
+197-4	20293-20296	222	_	_	_	
+197-5	20308-20310	by	_	_	_	
+197-6	20311-20322	intelligent	_	_	_	
+197-7	20323-20333	inspectors	_	_	_	
+197-8	20334-20339	might	_	_	_	
+197-9	20340-20342	be	_	_	_	
+197-10	20343-20346	the	_	_	_	
+197-11	20347-20352	means	_	_	_	
+197-12	20353-20355	of	_	_	_	
+197-13	20356-20365	improving	_	_	_	
+197-14	20368-20371	the	_	_	_	
+197-15	20372-20379	quality	_	_	_	
+197-16	20379-20380	,	_	_	_	
+197-17	20381-20384	and	_	_	_	
+197-18	20385-20398	wholesomeness	_	_	_	
+197-19	20399-20401	of	_	_	_	
+197-20	20402-20406	what	_	_	_	
+197-21	20407-20410	may	_	_	_	
+197-22	20411-20413	be	_	_	_	
+197-23	20414-20420	called	_	_	_	
+197-24	20421-20424	the	_	_	_	
+197-25	20427-20435	dainties	Taste Word	*	197-26[115_0]	
+197-26	20436-20438	of	Taster[115]	_	_	
+197-27	20439-20442	the	Taster[115]	_	_	
+197-28	20443-20447	poor	Taster[115]	_	_	
+197-29	20447-20448	.	_	_	_	

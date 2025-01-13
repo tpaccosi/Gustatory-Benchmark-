@@ -1,0 +1,5326 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+#T_RL=custom.Relation|label|BT_custom.Span
+
+
+#Text=CHAP.
+1-1	1-5	CHAP	_	_	_	
+1-2	5-6	.	_	_	_	
+
+#Text=XIV.
+2-1	7-10	XIV	_	_	_	
+2-2	10-11	.	_	_	_	
+
+#Text=Of the several Tasts of Plants.
+3-1	12-14	Of	_	_	_	
+3-2	15-18	the	_	_	_	
+3-3	19-26	several	_	_	_	
+3-4	27-32	Tasts	Taste Word	*	3-5[1_0]	
+3-5	33-35	of	Taste Source[1]	_	_	
+3-6	36-42	Plants	Taste Source[1]	_	_	
+3-7	42-43	.	_	_	_	
+
+#Text=I.
+4-1	44-45	I	_	_	_	
+4-2	45-46	.	_	_	_	
+
+#Text=What Tast or Savor is, and wherein consists.
+5-1	47-51	What	_	_	_	
+5-2	52-56	Tast	Taste Word	_	_	
+5-3	57-59	or	_	_	_	
+5-4	60-65	Savor	Taste Word	_	_	
+5-5	66-68	is	_	_	_	
+5-6	68-69	,	_	_	_	
+5-7	70-73	and	_	_	_	
+5-8	74-81	wherein	_	_	_	
+5-9	82-90	consists	_	_	_	
+5-10	90-91	.	_	_	_	
+
+#Text=BY the word Tast or Savor, we understand that virtue in Bodies, whereby they are able to produce in us the sense of Tast.
+6-1	92-94	BY	_	_	_	
+6-2	95-98	the	_	_	_	
+6-3	99-103	word	_	_	_	
+6-4	104-108	Tast	Taste Word	_	_	
+6-5	109-111	or	_	_	_	
+6-6	112-117	Savor	Taste Word	_	_	
+6-7	117-118	,	_	_	_	
+6-8	119-121	we	_	_	_	
+6-9	122-132	understand	_	_	_	
+6-10	133-137	that	_	_	_	
+6-11	138-144	virtue	_	_	_	
+6-12	145-147	in	_	_	_	
+6-13	148-154	Bodies	_	_	_	
+6-14	154-155	,	_	_	_	
+6-15	156-163	whereby	_	_	_	
+6-16	164-168	they	_	_	_	
+6-17	169-172	are	_	_	_	
+6-18	173-177	able	_	_	_	
+6-19	178-180	to	_	_	_	
+6-20	181-188	produce	_	_	_	
+6-21	189-191	in	_	_	_	
+6-22	192-194	us	_	_	_	
+6-23	195-198	the	_	_	_	
+6-24	199-204	sense	_	_	_	
+6-25	205-207	of	_	_	_	
+6-26	208-212	Tast	Taste Word	_	_	
+6-27	212-213	.	_	_	_	
+
+#Text=Which vir∣tue consists in the Particles of Bodies, inasmuch as they are sufficiently diluted, subtil and agitated to enter the pores of our Tongue, and to move those Nerves, wherewith the Instrument of Tasting is is furnish ' d.
+7-1	214-219	Which	_	_	_	
+7-2	220-223	vir	_	_	_	
+7-3	223-224	∣	_	_	_	
+7-4	224-227	tue	_	_	_	
+7-5	228-236	consists	_	_	_	
+7-6	237-239	in	_	_	_	
+7-7	240-243	the	_	_	_	
+7-8	244-253	Particles	_	_	_	
+7-9	254-256	of	_	_	_	
+7-10	257-263	Bodies	_	_	_	
+7-11	263-264	,	_	_	_	
+7-12	265-273	inasmuch	_	_	_	
+7-13	274-276	as	_	_	_	
+7-14	277-281	they	_	_	_	
+7-15	282-285	are	_	_	_	
+7-16	286-298	sufficiently	_	_	_	
+7-17	299-306	diluted	_	_	_	
+7-18	306-307	,	_	_	_	
+7-19	308-314	subtil	_	_	_	
+7-20	315-318	and	_	_	_	
+7-21	319-327	agitated	_	_	_	
+7-22	328-330	to	_	_	_	
+7-23	331-336	enter	_	_	_	
+7-24	337-340	the	_	_	_	
+7-25	341-346	pores	_	_	_	
+7-26	347-349	of	_	_	_	
+7-27	350-353	our	_	_	_	
+7-28	354-360	Tongue	_	_	_	
+7-29	360-361	,	_	_	_	
+7-30	362-365	and	_	_	_	
+7-31	366-368	to	_	_	_	
+7-32	369-373	move	_	_	_	
+7-33	374-379	those	_	_	_	
+7-34	380-386	Nerves	_	_	_	
+7-35	386-387	,	_	_	_	
+7-36	388-397	wherewith	_	_	_	
+7-37	398-401	the	_	_	_	
+7-38	402-412	Instrument	_	_	_	
+7-39	413-415	of	_	_	_	
+7-40	416-423	Tasting	Taste Word	_	_	
+7-41	424-426	is	_	_	_	
+7-42	427-429	is	_	_	_	
+7-43	430-437	furnish	_	_	_	
+7-44	438-439	'	_	_	_	
+7-45	440-441	d	_	_	_	
+7-46	441-442	.	_	_	_	
+
+#Text=For tho '  Taste be properly in the Mouth, and that the Tongue or Palat is formally that which tastes; yet it may be said, that the things themselves, which are taken into our Mouths, are the Causes of the said Taste, and according to their several magnitude, figure and motion, do produce different tastes or savours.
+8-1	443-446	For	_	_	_	
+8-2	447-450	tho	_	_	_	
+8-3	451-452	'	_	_	_	
+8-4	454-459	Taste	Taste Word	*	8-7[2_0]	
+8-5	460-462	be	_	_	_	
+8-6	463-471	properly	_	_	_	
+8-7	472-474	in	Taster[2]	_	_	
+8-8	475-478	the	Taster[2]	_	_	
+8-9	479-484	Mouth	Taster[2]	_	_	
+8-10	484-485	,	_	_	_	
+8-11	486-489	and	_	_	_	
+8-12	490-494	that	_	_	_	
+8-13	495-498	the	Taster[3]	_	_	
+8-14	499-505	Tongue	Taster[3]	_	_	
+8-15	506-508	or	_	_	_	
+8-16	509-514	Palat	Taster	_	_	
+8-17	515-517	is	_	_	_	
+8-18	518-526	formally	_	_	_	
+8-19	527-531	that	_	_	_	
+8-20	532-537	which	_	_	_	
+8-21	538-544	tastes	Taste Word	*|*	8-16|8-13[3_0]	
+8-22	544-545	;	_	_	_	
+8-23	546-549	yet	_	_	_	
+8-24	550-552	it	_	_	_	
+8-25	553-556	may	_	_	_	
+8-26	557-559	be	_	_	_	
+8-27	560-564	said	_	_	_	
+8-28	564-565	,	_	_	_	
+8-29	566-570	that	_	_	_	
+8-30	571-574	the	_	_	_	
+8-31	575-581	things	_	_	_	
+8-32	582-592	themselves	_	_	_	
+8-33	592-593	,	_	_	_	
+8-34	594-599	which	_	_	_	
+8-35	600-603	are	_	_	_	
+8-36	604-609	taken	_	_	_	
+8-37	610-614	into	_	_	_	
+8-38	615-618	our	_	_	_	
+8-39	619-625	Mouths	_	_	_	
+8-40	625-626	,	_	_	_	
+8-41	627-630	are	_	_	_	
+8-42	631-634	the	_	_	_	
+8-43	635-641	Causes	_	_	_	
+8-44	642-644	of	_	_	_	
+8-45	645-648	the	_	_	_	
+8-46	649-653	said	_	_	_	
+8-47	654-659	Taste	Taste Word	_	_	
+8-48	659-660	,	_	_	_	
+8-49	661-664	and	_	_	_	
+8-50	665-674	according	_	_	_	
+8-51	675-677	to	_	_	_	
+8-52	678-683	their	_	_	_	
+8-53	684-691	several	_	_	_	
+8-54	692-701	magnitude	_	_	_	
+8-55	701-702	,	_	_	_	
+8-56	703-709	figure	_	_	_	
+8-57	710-713	and	_	_	_	
+8-58	714-720	motion	_	_	_	
+8-59	720-721	,	_	_	_	
+8-60	722-724	do	_	_	_	
+8-61	725-732	produce	_	_	_	
+8-62	733-742	different	Quality	_	_	
+8-63	743-749	tastes	Taste Word	*	8-62	
+8-64	750-752	or	_	_	_	
+8-65	753-760	savours	Taste Word	*	8-62	
+8-66	760-761	.	_	_	_	
+
+#Text=So that things savoury, or endued with taste, are said to be such, only because they move the Filaments of the Nerves of our Tongue in such a manner, as is necessary to produce in them the sense of Tasting.
+9-1	762-764	So	_	_	_	
+9-2	765-769	that	_	_	_	
+9-3	770-776	things	Taste Source	_	_	
+9-4	777-784	savoury	Taste Word[4]|Quality[5]	*|*	9-4[5_4]|9-3[0_4]	
+9-5	784-785	,	_	_	_	
+9-6	786-788	or	_	_	_	
+9-7	789-795	endued	_	_	_	
+9-8	796-800	with	_	_	_	
+9-9	801-806	taste	Taste Word	_	_	
+9-10	806-807	,	_	_	_	
+9-11	808-811	are	_	_	_	
+9-12	812-816	said	_	_	_	
+9-13	817-819	to	_	_	_	
+9-14	820-822	be	_	_	_	
+9-15	823-827	such	_	_	_	
+9-16	827-828	,	_	_	_	
+9-17	829-833	only	_	_	_	
+9-18	834-841	because	_	_	_	
+9-19	842-846	they	_	_	_	
+9-20	847-851	move	_	_	_	
+9-21	852-855	the	_	_	_	
+9-22	856-865	Filaments	_	_	_	
+9-23	866-868	of	_	_	_	
+9-24	869-872	the	_	_	_	
+9-25	873-879	Nerves	_	_	_	
+9-26	880-882	of	_	_	_	
+9-27	883-886	our	_	_	_	
+9-28	887-893	Tongue	_	_	_	
+9-29	894-896	in	_	_	_	
+9-30	897-901	such	_	_	_	
+9-31	902-903	a	_	_	_	
+9-32	904-910	manner	_	_	_	
+9-33	910-911	,	_	_	_	
+9-34	912-914	as	_	_	_	
+9-35	915-917	is	_	_	_	
+9-36	918-927	necessary	_	_	_	
+9-37	928-930	to	_	_	_	
+9-38	931-938	produce	_	_	_	
+9-39	939-941	in	_	_	_	
+9-40	942-946	them	_	_	_	
+9-41	947-950	the	_	_	_	
+9-42	951-956	sense	_	_	_	
+9-43	957-959	of	_	_	_	
+9-44	960-967	Tasting	Taste Word	_	_	
+9-45	967-968	.	_	_	_	
+
+#Text=And forasmuch as sensible Objects cannot affect those Nerves, except they be endued with a cer∣tain motion, figure, and magnitude; therefore to these three we must assign all the diversity of Tastes or Savours we meet with in any Ob∣jects.
+10-1	969-972	And	_	_	_	
+10-2	973-982	forasmuch	_	_	_	
+10-3	983-985	as	_	_	_	
+10-4	986-994	sensible	_	_	_	
+10-5	995-1002	Objects	_	_	_	
+10-6	1003-1009	cannot	_	_	_	
+10-7	1010-1016	affect	_	_	_	
+10-8	1017-1022	those	_	_	_	
+10-9	1023-1029	Nerves	_	_	_	
+10-10	1029-1030	,	_	_	_	
+10-11	1031-1037	except	_	_	_	
+10-12	1038-1042	they	_	_	_	
+10-13	1043-1045	be	_	_	_	
+10-14	1046-1052	endued	_	_	_	
+10-15	1053-1057	with	_	_	_	
+10-16	1058-1059	a	_	_	_	
+10-17	1060-1063	cer	_	_	_	
+10-18	1063-1064	∣	_	_	_	
+10-19	1064-1068	tain	_	_	_	
+10-20	1069-1075	motion	_	_	_	
+10-21	1075-1076	,	_	_	_	
+10-22	1077-1083	figure	_	_	_	
+10-23	1083-1084	,	_	_	_	
+10-24	1085-1088	and	_	_	_	
+10-25	1089-1098	magnitude	_	_	_	
+10-26	1098-1099	;	_	_	_	
+10-27	1100-1109	therefore	_	_	_	
+10-28	1110-1112	to	_	_	_	
+10-29	1113-1118	these	_	_	_	
+10-30	1119-1124	three	_	_	_	
+10-31	1125-1127	we	_	_	_	
+10-32	1128-1132	must	_	_	_	
+10-33	1133-1139	assign	_	_	_	
+10-34	1140-1143	all	_	_	_	
+10-35	1144-1147	the	_	_	_	
+10-36	1148-1157	diversity	_	_	_	
+10-37	1158-1160	of	_	_	_	
+10-38	1161-1167	Tastes	Taste Word	_	_	
+10-39	1168-1170	or	_	_	_	
+10-40	1171-1178	Savours	Taste Word	_	_	
+10-41	1179-1181	we	_	_	_	
+10-42	1182-1186	meet	_	_	_	
+10-43	1187-1191	with	_	_	_	
+10-44	1192-1194	in	_	_	_	
+10-45	1195-1198	any	_	_	_	
+10-46	1199-1201	Ob	_	_	_	
+10-47	1201-1202	∣	_	_	_	
+10-48	1202-1207	jects	_	_	_	
+10-49	1207-1208	.	_	_	_	
+
+#Text=II.
+11-1	1211-1213	II	_	_	_	
+11-2	1213-1214	.	_	_	_	
+
+#Text=Why some Fruits are insipid.
+12-1	1215-1218	Why	_	_	_	
+12-2	1219-1223	some	Taste Source[6]	_	_	
+12-3	1224-1230	Fruits	Taste Source[6]	_	_	
+12-4	1231-1234	are	_	_	_	
+12-5	1235-1242	insipid	Quality[7]|Taste Word[8]	*|*	12-5[7_8]|12-2[6_8]	
+12-6	1242-1243	.	_	_	_	
+
+#Text=This is evident from the Insipidness we some∣times find in Plants, and their several parts.
+13-1	1244-1248	This	_	_	_	
+13-2	1249-1251	is	_	_	_	
+13-3	1252-1259	evident	_	_	_	
+13-4	1260-1264	from	_	_	_	
+13-5	1265-1268	the	_	_	_	
+13-6	1269-1280	Insipidness	Taste Word	*	13-12[9_0]	
+13-7	1281-1283	we	_	_	_	
+13-8	1284-1288	some	_	_	_	
+13-9	1288-1289	∣	_	_	_	
+13-10	1289-1294	times	_	_	_	
+13-11	1295-1299	find	_	_	_	
+13-12	1300-1302	in	Taste Source[9]	_	_	
+13-13	1303-1309	Plants	Taste Source[9]	_	_	
+13-14	1309-1310	,	_	_	_	
+13-15	1311-1314	and	_	_	_	
+13-16	1315-1320	their	_	_	_	
+13-17	1321-1328	several	_	_	_	
+13-18	1329-1334	parts	_	_	_	
+13-19	1334-1335	.	_	_	_	
+
+#Text=For if we enquire into the Reason why some of them are Insipid, and do not affect the Tongue or Palat, we shall find the Reason to be, because they do not furnish such Particles, as by the assistance of Moisture can enter the Tongue, and strike its Nerves.
+14-1	1336-1339	For	_	_	_	
+14-2	1340-1342	if	_	_	_	
+14-3	1343-1345	we	_	_	_	
+14-4	1346-1353	enquire	_	_	_	
+14-5	1354-1358	into	_	_	_	
+14-6	1359-1362	the	_	_	_	
+14-7	1363-1369	Reason	_	_	_	
+14-8	1370-1373	why	_	_	_	
+14-9	1374-1378	some	_	_	_	
+14-10	1379-1381	of	_	_	_	
+14-11	1382-1386	them	_	_	_	
+14-12	1387-1390	are	_	_	_	
+14-13	1391-1398	Insipid	Taste Word[10]|Quality[11]	*|*|*	14-13[11_10]|14-22[0_10]|14-19[12_10]	
+14-14	1398-1399	,	_	_	_	
+14-15	1400-1403	and	_	_	_	
+14-16	1404-1406	do	_	_	_	
+14-17	1407-1410	not	_	_	_	
+14-18	1411-1417	affect	_	_	_	
+14-19	1418-1421	the	Taster[12]	_	_	
+14-20	1422-1428	Tongue	Taster[12]	_	_	
+14-21	1429-1431	or	_	_	_	
+14-22	1432-1437	Palat	Taster	_	_	
+14-23	1437-1438	,	_	_	_	
+14-24	1439-1441	we	_	_	_	
+14-25	1442-1447	shall	_	_	_	
+14-26	1448-1452	find	_	_	_	
+14-27	1453-1456	the	_	_	_	
+14-28	1457-1463	Reason	_	_	_	
+14-29	1464-1466	to	_	_	_	
+14-30	1467-1469	be	_	_	_	
+14-31	1469-1470	,	_	_	_	
+14-32	1471-1478	because	_	_	_	
+14-33	1479-1483	they	_	_	_	
+14-34	1484-1486	do	_	_	_	
+14-35	1487-1490	not	_	_	_	
+14-36	1491-1498	furnish	_	_	_	
+14-37	1499-1503	such	_	_	_	
+14-38	1504-1513	Particles	_	_	_	
+14-39	1513-1514	,	_	_	_	
+14-40	1515-1517	as	_	_	_	
+14-41	1518-1520	by	_	_	_	
+14-42	1521-1524	the	_	_	_	
+14-43	1525-1535	assistance	_	_	_	
+14-44	1536-1538	of	_	_	_	
+14-45	1539-1547	Moisture	_	_	_	
+14-46	1548-1551	can	_	_	_	
+14-47	1552-1557	enter	_	_	_	
+14-48	1558-1561	the	_	_	_	
+14-49	1562-1568	Tongue	_	_	_	
+14-50	1568-1569	,	_	_	_	
+14-51	1570-1573	and	_	_	_	
+14-52	1574-1580	strike	_	_	_	
+14-53	1581-1584	its	_	_	_	
+14-54	1585-1591	Nerves	_	_	_	
+14-55	1591-1592	.	_	_	_	
+
+#Text=Thus we find, that when Grapes are first knotted, they impress no affection upon the Tongue, and do only touch the outside of it, without entring its pores; because the particles of Juice, which come up from the Root to compose them, do stick close together, and are not easily separated.
+15-1	1593-1597	Thus	_	_	_	
+15-2	1598-1600	we	_	_	_	
+15-3	1601-1605	find	_	_	_	
+15-4	1605-1606	,	_	_	_	
+15-5	1607-1611	that	_	_	_	
+15-6	1612-1616	when	_	_	_	
+15-7	1617-1623	Grapes	_	_	_	
+15-8	1624-1627	are	_	_	_	
+15-9	1628-1633	first	_	_	_	
+15-10	1634-1641	knotted	_	_	_	
+15-11	1641-1642	,	_	_	_	
+15-12	1643-1647	they	_	_	_	
+15-13	1648-1655	impress	_	_	_	
+15-14	1656-1658	no	_	_	_	
+15-15	1659-1668	affection	_	_	_	
+15-16	1669-1673	upon	_	_	_	
+15-17	1674-1677	the	_	_	_	
+15-18	1678-1684	Tongue	_	_	_	
+15-19	1684-1685	,	_	_	_	
+15-20	1686-1689	and	_	_	_	
+15-21	1690-1692	do	_	_	_	
+15-22	1693-1697	only	_	_	_	
+15-23	1698-1703	touch	_	_	_	
+15-24	1704-1707	the	_	_	_	
+15-25	1708-1715	outside	_	_	_	
+15-26	1716-1718	of	_	_	_	
+15-27	1719-1721	it	_	_	_	
+15-28	1721-1722	,	_	_	_	
+15-29	1723-1730	without	_	_	_	
+15-30	1731-1738	entring	_	_	_	
+15-31	1739-1742	its	_	_	_	
+15-32	1743-1748	pores	_	_	_	
+15-33	1748-1749	;	_	_	_	
+15-34	1750-1757	because	_	_	_	
+15-35	1758-1761	the	_	_	_	
+15-36	1762-1771	particles	_	_	_	
+15-37	1772-1774	of	_	_	_	
+15-38	1775-1780	Juice	_	_	_	
+15-39	1780-1781	,	_	_	_	
+15-40	1782-1787	which	_	_	_	
+15-41	1788-1792	come	_	_	_	
+15-42	1793-1795	up	_	_	_	
+15-43	1796-1800	from	_	_	_	
+15-44	1801-1804	the	_	_	_	
+15-45	1805-1809	Root	_	_	_	
+15-46	1810-1812	to	_	_	_	
+15-47	1813-1820	compose	_	_	_	
+15-48	1821-1825	them	_	_	_	
+15-49	1825-1826	,	_	_	_	
+15-50	1827-1829	do	_	_	_	
+15-51	1830-1835	stick	_	_	_	
+15-52	1836-1841	close	_	_	_	
+15-53	1842-1850	together	_	_	_	
+15-54	1850-1851	,	_	_	_	
+15-55	1852-1855	and	_	_	_	
+15-56	1856-1859	are	_	_	_	
+15-57	1860-1863	not	_	_	_	
+15-58	1864-1870	easily	_	_	_	
+15-59	1871-1880	separated	_	_	_	
+15-60	1880-1881	.	_	_	_	
+
+#Text=Daily Experience also teacheth us, that Water is in a manner wholly insipid, because its Particles are so thin and subtil, that they can affect the Organ of Taste very little or nothing.
+16-1	1882-1887	Daily	_	_	_	
+16-2	1888-1898	Experience	_	_	_	
+16-3	1899-1903	also	_	_	_	
+16-4	1904-1912	teacheth	_	_	_	
+16-5	1913-1915	us	_	_	_	
+16-6	1915-1916	,	_	_	_	
+16-7	1917-1921	that	_	_	_	
+16-8	1922-1927	Water	Taste Source	_	_	
+16-9	1928-1930	is	_	_	_	
+16-10	1931-1933	in	_	_	_	
+16-11	1934-1935	a	_	_	_	
+16-12	1936-1942	manner	_	_	_	
+16-13	1943-1949	wholly	Quality	_	_	
+16-14	1950-1957	insipid	Quality[13]|Taste Word[14]	*|*|*	16-14[13_14]|16-13[0_14]|16-8[0_14]	
+16-15	1957-1958	,	_	_	_	
+16-16	1959-1966	because	_	_	_	
+16-17	1967-1970	its	_	_	_	
+16-18	1971-1980	Particles	_	_	_	
+16-19	1981-1984	are	_	_	_	
+16-20	1985-1987	so	_	_	_	
+16-21	1988-1992	thin	_	_	_	
+16-22	1993-1996	and	_	_	_	
+16-23	1997-2003	subtil	_	_	_	
+16-24	2003-2004	,	_	_	_	
+16-25	2005-2009	that	_	_	_	
+16-26	2010-2014	they	_	_	_	
+16-27	2015-2018	can	_	_	_	
+16-28	2019-2025	affect	_	_	_	
+16-29	2026-2029	the	_	_	_	
+16-30	2030-2035	Organ	_	_	_	
+16-31	2036-2038	of	_	_	_	
+16-32	2039-2044	Taste	Taste Word	*|*	16-36|16-33[15_0]	
+16-33	2045-2049	very	Quality[15]	_	_	
+16-34	2050-2056	little	Quality[15]	_	_	
+16-35	2057-2059	or	_	_	_	
+16-36	2060-2067	nothing	Quality	_	_	
+16-37	2067-2068	.	_	_	_	
+
+#Text=In like manner Air is void of all Taste, because it floats only upon the Spittle, and the Parts of it, by rea∣son of their extream lightness and subtilty, can make no impression upon the Tongue.
+17-1	2069-2071	In	_	_	_	
+17-2	2072-2076	like	_	_	_	
+17-3	2077-2083	manner	_	_	_	
+17-4	2084-2087	Air	_	_	_	
+17-5	2088-2090	is	_	_	_	
+17-6	2091-2095	void	_	_	_	
+17-7	2096-2098	of	_	_	_	
+17-8	2099-2102	all	_	_	_	
+17-9	2103-2108	Taste	Taste Word	*	17-41[16_0]	
+17-10	2108-2109	,	_	_	_	
+17-11	2110-2117	because	_	_	_	
+17-12	2118-2120	it	_	_	_	
+17-13	2121-2127	floats	_	_	_	
+17-14	2128-2132	only	_	_	_	
+17-15	2133-2137	upon	_	_	_	
+17-16	2138-2141	the	_	_	_	
+17-17	2142-2149	Spittle	_	_	_	
+17-18	2149-2150	,	_	_	_	
+17-19	2151-2154	and	_	_	_	
+17-20	2155-2158	the	_	_	_	
+17-21	2159-2164	Parts	_	_	_	
+17-22	2165-2167	of	_	_	_	
+17-23	2168-2170	it	_	_	_	
+17-24	2170-2171	,	_	_	_	
+17-25	2172-2174	by	_	_	_	
+17-26	2175-2178	rea	_	_	_	
+17-27	2178-2179	∣	_	_	_	
+17-28	2179-2182	son	_	_	_	
+17-29	2183-2185	of	_	_	_	
+17-30	2186-2191	their	_	_	_	
+17-31	2192-2199	extream	_	_	_	
+17-32	2200-2209	lightness	_	_	_	
+17-33	2210-2213	and	_	_	_	
+17-34	2214-2222	subtilty	_	_	_	
+17-35	2222-2223	,	_	_	_	
+17-36	2224-2227	can	_	_	_	
+17-37	2228-2232	make	_	_	_	
+17-38	2233-2235	no	_	_	_	
+17-39	2236-2246	impression	_	_	_	
+17-40	2247-2251	upon	_	_	_	
+17-41	2252-2255	the	Taster[16]	_	_	
+17-42	2256-2262	Tongue	Taster[16]	_	_	
+17-43	2262-2263	.	_	_	_	
+
+#Text=III.
+18-1	2266-2269	III	_	_	_	
+18-2	2269-2270	.	_	_	_	
+
+#Text=What is required to make a thing sapid or savoury.
+19-1	2271-2275	What	_	_	_	
+19-2	2276-2278	is	_	_	_	
+19-3	2279-2287	required	_	_	_	
+19-4	2288-2290	to	_	_	_	
+19-5	2291-2295	make	_	_	_	
+19-6	2296-2297	a	_	_	_	
+19-7	2298-2303	thing	Taste Source	_	_	
+19-8	2304-2309	sapid	Quality[17]|Taste Word[18]	*|*	19-8[17_18]|19-7[0_18]	
+19-9	2310-2312	or	_	_	_	
+19-10	2313-2320	savoury	Taste Word[19]|Quality[20]	*|*	19-10[20_19]|19-7[0_19]	
+19-11	2320-2321	.	_	_	_	
+
+#Text=That a thing be savoury, it is necessary for its Parts to be separated from each other, that so joyning themselves to the Spittle in our Mouths, they may variously affect the Nerves of our Tongue.
+20-1	2322-2326	That	_	_	_	
+20-2	2327-2328	a	_	_	_	
+20-3	2329-2334	thing	Taste Source	_	_	
+20-4	2335-2337	be	_	_	_	
+20-5	2338-2345	savoury	Taste Word[21]|Quality[22]	*|*|*	20-5[22_21]|20-3[0_21]|20-35[23_21]	
+20-6	2345-2346	,	_	_	_	
+20-7	2347-2349	it	_	_	_	
+20-8	2350-2352	is	_	_	_	
+20-9	2353-2362	necessary	_	_	_	
+20-10	2363-2366	for	_	_	_	
+20-11	2367-2370	its	_	_	_	
+20-12	2371-2376	Parts	_	_	_	
+20-13	2377-2379	to	_	_	_	
+20-14	2380-2382	be	_	_	_	
+20-15	2383-2392	separated	_	_	_	
+20-16	2393-2397	from	_	_	_	
+20-17	2398-2402	each	_	_	_	
+20-18	2403-2408	other	_	_	_	
+20-19	2408-2409	,	_	_	_	
+20-20	2410-2414	that	_	_	_	
+20-21	2415-2417	so	_	_	_	
+20-22	2418-2425	joyning	_	_	_	
+20-23	2426-2436	themselves	_	_	_	
+20-24	2437-2439	to	_	_	_	
+20-25	2440-2443	the	_	_	_	
+20-26	2444-2451	Spittle	_	_	_	
+20-27	2452-2454	in	_	_	_	
+20-28	2455-2458	our	_	_	_	
+20-29	2459-2465	Mouths	_	_	_	
+20-30	2465-2466	,	_	_	_	
+20-31	2467-2471	they	_	_	_	
+20-32	2472-2475	may	_	_	_	
+20-33	2476-2485	variously	_	_	_	
+20-34	2486-2492	affect	_	_	_	
+20-35	2493-2496	the	Taster[23]	_	_	
+20-36	2497-2503	Nerves	Taster[23]	_	_	
+20-37	2504-2506	of	Taster[23]	_	_	
+20-38	2507-2510	our	Taster[23]	_	_	
+20-39	2511-2517	Tongue	Taster[23]	_	_	
+20-40	2517-2518	.	_	_	_	
+
+#Text=Now this is done by means of Heat, the Property whereof is, to resolve Bodies, open their pores, and to make a ready way for the Moisture to enter.
+21-1	2519-2522	Now	_	_	_	
+21-2	2523-2527	this	_	_	_	
+21-3	2528-2530	is	_	_	_	
+21-4	2531-2535	done	_	_	_	
+21-5	2536-2538	by	_	_	_	
+21-6	2539-2544	means	_	_	_	
+21-7	2545-2547	of	_	_	_	
+21-8	2548-2552	Heat	_	_	_	
+21-9	2552-2553	,	_	_	_	
+21-10	2554-2557	the	_	_	_	
+21-11	2558-2566	Property	_	_	_	
+21-12	2567-2574	whereof	_	_	_	
+21-13	2575-2577	is	_	_	_	
+21-14	2577-2578	,	_	_	_	
+21-15	2579-2581	to	_	_	_	
+21-16	2582-2589	resolve	_	_	_	
+21-17	2590-2596	Bodies	_	_	_	
+21-18	2596-2597	,	_	_	_	
+21-19	2598-2602	open	_	_	_	
+21-20	2603-2608	their	_	_	_	
+21-21	2609-2614	pores	_	_	_	
+21-22	2614-2615	,	_	_	_	
+21-23	2616-2619	and	_	_	_	
+21-24	2620-2622	to	_	_	_	
+21-25	2623-2627	make	_	_	_	
+21-26	2628-2629	a	_	_	_	
+21-27	2630-2635	ready	_	_	_	
+21-28	2636-2639	way	_	_	_	
+21-29	2640-2643	for	_	_	_	
+21-30	2644-2647	the	_	_	_	
+21-31	2648-2656	Moisture	_	_	_	
+21-32	2657-2659	to	_	_	_	
+21-33	2660-2665	enter	_	_	_	
+21-34	2665-2666	.	_	_	_	
+
+#Text=Whence it is, that when Fruits tend to Maturity, by means of the heat of the Sun, recon∣ciling their driness and moisture together, various Tastes are imprest upon them, according to their different degrees of Maturity: First, an Astringent taste, then a Harsh taste, afterwards a Sowr, and last of all, a Sweet taste; and if the Heat be too great a smart or biting, and bitter Taste.
+22-1	2667-2673	Whence	_	_	_	
+22-2	2674-2676	it	_	_	_	
+22-3	2677-2679	is	_	_	_	
+22-4	2679-2680	,	_	_	_	
+22-5	2681-2685	that	_	_	_	
+22-6	2686-2690	when	_	_	_	
+22-7	2691-2697	Fruits	_	_	_	
+22-8	2698-2702	tend	_	_	_	
+22-9	2703-2705	to	_	_	_	
+22-10	2706-2714	Maturity	_	_	_	
+22-11	2714-2715	,	_	_	_	
+22-12	2716-2718	by	_	_	_	
+22-13	2719-2724	means	_	_	_	
+22-14	2725-2727	of	_	_	_	
+22-15	2728-2731	the	_	_	_	
+22-16	2732-2736	heat	_	_	_	
+22-17	2737-2739	of	_	_	_	
+22-18	2740-2743	the	_	_	_	
+22-19	2744-2747	Sun	_	_	_	
+22-20	2747-2748	,	_	_	_	
+22-21	2749-2754	recon	_	_	_	
+22-22	2754-2755	∣	_	_	_	
+22-23	2755-2761	ciling	_	_	_	
+22-24	2762-2767	their	_	_	_	
+22-25	2768-2775	driness	_	_	_	
+22-26	2776-2779	and	_	_	_	
+22-27	2780-2788	moisture	_	_	_	
+22-28	2789-2797	together	_	_	_	
+22-29	2797-2798	,	_	_	_	
+22-30	2799-2806	various	Quality	_	_	
+22-31	2807-2813	Tastes	Taste Word	*	22-30	
+22-32	2814-2817	are	_	_	_	
+22-33	2818-2825	imprest	_	_	_	
+22-34	2826-2830	upon	_	_	_	
+22-35	2831-2835	them	_	_	_	
+22-36	2835-2836	,	_	_	_	
+22-37	2837-2846	according	_	_	_	
+22-38	2847-2849	to	_	_	_	
+22-39	2850-2855	their	_	_	_	
+22-40	2856-2865	different	_	_	_	
+22-41	2866-2873	degrees	_	_	_	
+22-42	2874-2876	of	_	_	_	
+22-43	2877-2885	Maturity	_	_	_	
+22-44	2885-2886	:	_	_	_	
+22-45	2887-2892	First	_	_	_	
+22-46	2892-2893	,	_	_	_	
+22-47	2894-2896	an	_	_	_	
+22-48	2897-2907	Astringent	Quality	_	_	
+22-49	2908-2913	taste	Taste Word	*	22-48	
+22-50	2913-2914	,	_	_	_	
+22-51	2915-2919	then	_	_	_	
+22-52	2920-2921	a	_	_	_	
+22-53	2922-2927	Harsh	Quality	_	_	
+22-54	2928-2933	taste	Taste Word	*|*	22-53|22-58[25_0]	
+22-55	2933-2934	,	_	_	_	
+22-56	2935-2945	afterwards	_	_	_	
+22-57	2946-2947	a	_	_	_	
+22-58	2948-2952	Sowr	Taste Word[24]|Quality[25]	*	22-58[25_24]	
+22-59	2952-2953	,	_	_	_	
+22-60	2954-2957	and	_	_	_	
+22-61	2958-2962	last	_	_	_	
+22-62	2963-2965	of	_	_	_	
+22-63	2966-2969	all	_	_	_	
+22-64	2969-2970	,	_	_	_	
+22-65	2971-2972	a	_	_	_	
+22-66	2973-2978	Sweet	Taste Word[26]|Quality[27]	*	22-66[27_26]	
+22-67	2979-2984	taste	Taste Word	*	22-66[27_0]	
+22-68	2984-2985	;	_	_	_	
+22-69	2986-2989	and	_	_	_	
+22-70	2990-2992	if	_	_	_	
+22-71	2993-2996	the	_	_	_	
+22-72	2997-3001	Heat	_	_	_	
+22-73	3002-3004	be	_	_	_	
+22-74	3005-3008	too	_	_	_	
+22-75	3009-3014	great	_	_	_	
+22-76	3015-3016	a	_	_	_	
+22-77	3017-3022	smart	_	_	_	
+22-78	3023-3025	or	_	_	_	
+22-79	3026-3032	biting	_	_	_	
+22-80	3032-3033	,	_	_	_	
+22-81	3034-3037	and	_	_	_	
+22-82	3038-3044	bitter	Taste Word[28]|Quality[29]	*	22-82[29_28]	
+22-83	3045-3050	Taste	Taste Word	*	22-82[29_0]	
+22-84	3050-3051	.	_	_	_	
+
+#Text=IV.
+23-1	3054-3056	IV	_	_	_	
+23-2	3056-3057	.	_	_	_	
+
+#Text=Why Sloes have an Astringent taste.
+24-1	3058-3061	Why	_	_	_	
+24-2	3062-3067	Sloes	_	_	_	
+24-3	3068-3072	have	_	_	_	
+24-4	3073-3075	an	_	_	_	
+24-5	3076-3086	Astringent	Taste Word[30]|Quality[31]	*	24-5[31_30]	
+24-6	3087-3092	taste	Taste Word	*	24-5[31_0]	
+24-7	3092-3093	.	_	_	_	
+
+#Text=An Astringent taste we find in all unripe Fruit, and more especially in Sloes, which with great harshness and astringence affect the Tongue, as if they prick ' d it with Pins and Thorns; because they consist of keen and stiff Parts.
+25-1	3094-3096	An	_	_	_	
+25-2	3097-3107	Astringent	Quality	_	_	
+25-3	3108-3113	taste	Taste Word	*|*|*|*	25-2|25-7[32_0]|25-15|25-24[33_0]	
+25-4	3114-3116	we	_	_	_	
+25-5	3117-3121	find	_	_	_	
+25-6	3122-3124	in	_	_	_	
+25-7	3125-3128	all	Taste Source[32]	_	_	
+25-8	3129-3135	unripe	Taste Source[32]	_	_	
+25-9	3136-3141	Fruit	Taste Source[32]	_	_	
+25-10	3141-3142	,	_	_	_	
+25-11	3143-3146	and	_	_	_	
+25-12	3147-3151	more	_	_	_	
+25-13	3152-3162	especially	_	_	_	
+25-14	3163-3165	in	_	_	_	
+25-15	3166-3171	Sloes	Taste Source	_	_	
+25-16	3171-3172	,	_	_	_	
+25-17	3173-3178	which	_	_	_	
+25-18	3179-3183	with	_	_	_	
+25-19	3184-3189	great	_	_	_	
+25-20	3190-3199	harshness	_	_	_	
+25-21	3200-3203	and	_	_	_	
+25-22	3204-3215	astringence	_	_	_	
+25-23	3216-3222	affect	_	_	_	
+25-24	3223-3226	the	Taster[33]	_	_	
+25-25	3227-3233	Tongue	Taster[33]	_	_	
+25-26	3233-3234	,	_	_	_	
+25-27	3235-3237	as	_	_	_	
+25-28	3238-3240	if	_	_	_	
+25-29	3241-3245	they	_	_	_	
+25-30	3246-3251	prick	_	_	_	
+25-31	3252-3253	'	_	_	_	
+25-32	3254-3255	d	_	_	_	
+25-33	3256-3258	it	_	_	_	
+25-34	3259-3263	with	_	_	_	
+25-35	3264-3268	Pins	_	_	_	
+25-36	3269-3272	and	_	_	_	
+25-37	3273-3279	Thorns	_	_	_	
+25-38	3279-3280	;	_	_	_	
+25-39	3281-3288	because	_	_	_	
+25-40	3289-3293	they	_	_	_	
+25-41	3294-3301	consist	_	_	_	
+25-42	3302-3304	of	_	_	_	
+25-43	3305-3309	keen	_	_	_	
+25-44	3310-3313	and	_	_	_	
+25-45	3314-3319	stiff	_	_	_	
+25-46	3320-3325	Parts	_	_	_	
+25-47	3325-3326	.	_	_	_	
+
+#Text=For the Juice whereof they consist being not well strained, con∣tains many stiff and inflexible little Bodies, such as are the particles that compose Salt; so that it is no wonder that they exasperate the Tongue, and astringe or contract the same.
+26-1	3327-3330	For	_	_	_	
+26-2	3331-3334	the	_	_	_	
+26-3	3335-3340	Juice	_	_	_	
+26-4	3341-3348	whereof	_	_	_	
+26-5	3349-3353	they	_	_	_	
+26-6	3354-3361	consist	_	_	_	
+26-7	3362-3367	being	_	_	_	
+26-8	3368-3371	not	_	_	_	
+26-9	3372-3376	well	_	_	_	
+26-10	3377-3385	strained	_	_	_	
+26-11	3385-3386	,	_	_	_	
+26-12	3387-3390	con	_	_	_	
+26-13	3390-3391	∣	_	_	_	
+26-14	3391-3396	tains	_	_	_	
+26-15	3397-3401	many	_	_	_	
+26-16	3402-3407	stiff	_	_	_	
+26-17	3408-3411	and	_	_	_	
+26-18	3412-3422	inflexible	_	_	_	
+26-19	3423-3429	little	_	_	_	
+26-20	3430-3436	Bodies	_	_	_	
+26-21	3436-3437	,	_	_	_	
+26-22	3438-3442	such	_	_	_	
+26-23	3443-3445	as	_	_	_	
+26-24	3446-3449	are	_	_	_	
+26-25	3450-3453	the	_	_	_	
+26-26	3454-3463	particles	_	_	_	
+26-27	3464-3468	that	_	_	_	
+26-28	3469-3476	compose	_	_	_	
+26-29	3477-3481	Salt	_	_	_	
+26-30	3481-3482	;	_	_	_	
+26-31	3483-3485	so	_	_	_	
+26-32	3486-3490	that	_	_	_	
+26-33	3491-3493	it	_	_	_	
+26-34	3494-3496	is	_	_	_	
+26-35	3497-3499	no	_	_	_	
+26-36	3500-3506	wonder	_	_	_	
+26-37	3507-3511	that	_	_	_	
+26-38	3512-3516	they	_	_	_	
+26-39	3517-3527	exasperate	_	_	_	
+26-40	3528-3531	the	_	_	_	
+26-41	3532-3538	Tongue	_	_	_	
+26-42	3538-3539	,	_	_	_	
+26-43	3540-3543	and	_	_	_	
+26-44	3544-3552	astringe	_	_	_	
+26-45	3553-3555	or	_	_	_	
+26-46	3556-3564	contract	_	_	_	
+26-47	3565-3568	the	_	_	_	
+26-48	3569-3573	same	_	_	_	
+26-49	3573-3574	.	_	_	_	
+
+#Text=V.
+27-1	3577-3578	V	_	_	_	
+27-2	3578-3579	.	_	_	_	
+
+#Text=Onions and Pepper have a smart and biting Taste.
+28-1	3580-3586	Onions	Taste Source	_	_	
+28-2	3587-3590	and	_	_	_	
+28-3	3591-3597	Pepper	Taste Source	_	_	
+28-4	3598-3602	have	_	_	_	
+28-5	3603-3604	a	_	_	_	
+28-6	3605-3610	smart	Quality	_	_	
+28-7	3611-3614	and	_	_	_	
+28-8	3615-3621	biting	Quality	_	_	
+28-9	3622-3627	Taste	Taste Word	*|*|*|*	28-8|28-6|28-3|28-1	
+28-10	3627-3628	.	_	_	_	
+
+#Text=In Onions, Ginger, Pepper, Mustard-seed, &amp;c. we perceive a smart and biting Taste; because the particles of these Objects do prick the Tongue, and cause the same Division in it, which Fire would, if applied to it.
+29-1	3629-3631	In	_	_	_	
+29-2	3632-3638	Onions	Taste Source	_	_	
+29-3	3638-3639	,	_	_	_	
+29-4	3640-3646	Ginger	Taste Source	_	_	
+29-5	3646-3647	,	_	_	_	
+29-6	3648-3654	Pepper	Taste Source	_	_	
+29-7	3654-3655	,	_	_	_	
+29-8	3656-3668	Mustard-seed	Taste Source	_	_	
+29-9	3668-3669	,	_	_	_	
+29-10	3670-3671	&	_	_	_	
+29-11	3671-3674	amp	_	_	_	
+29-12	3674-3675	;	_	_	_	
+29-13	3675-3676	c	_	_	_	
+29-14	3676-3677	.	_	_	_	
+29-15	3678-3680	we	_	_	_	
+29-16	3681-3689	perceive	_	_	_	
+29-17	3690-3691	a	_	_	_	
+29-18	3692-3697	smart	Quality	_	_	
+29-19	3698-3701	and	_	_	_	
+29-20	3702-3708	biting	Quality	_	_	
+29-21	3709-3714	Taste	Taste Word	*|*|*|*|*|*	29-20|29-18|29-6|29-8|29-4|29-2	
+29-22	3714-3715	;	_	_	_	
+29-23	3716-3723	because	_	_	_	
+29-24	3724-3727	the	_	_	_	
+29-25	3728-3737	particles	_	_	_	
+29-26	3738-3740	of	_	_	_	
+29-27	3741-3746	these	_	_	_	
+29-28	3747-3754	Objects	_	_	_	
+29-29	3755-3757	do	_	_	_	
+29-30	3758-3763	prick	_	_	_	
+29-31	3764-3767	the	_	_	_	
+29-32	3768-3774	Tongue	_	_	_	
+29-33	3774-3775	,	_	_	_	
+29-34	3776-3779	and	_	_	_	
+29-35	3780-3785	cause	_	_	_	
+29-36	3786-3789	the	_	_	_	
+29-37	3790-3794	same	_	_	_	
+29-38	3795-3803	Division	_	_	_	
+29-39	3804-3806	in	_	_	_	
+29-40	3807-3809	it	_	_	_	
+29-41	3809-3810	,	_	_	_	
+29-42	3811-3816	which	_	_	_	
+29-43	3817-3821	Fire	_	_	_	
+29-44	3822-3827	would	_	_	_	
+29-45	3827-3828	,	_	_	_	
+29-46	3829-3831	if	_	_	_	
+29-47	3832-3839	applied	_	_	_	
+29-48	3840-3842	to	_	_	_	
+29-49	3843-3845	it	_	_	_	
+29-50	3845-3846	.	_	_	_	
+
+#Text=The Reason is, because they consist of long, thin, and stiff particles, which make the Bodies whereto they belong dry and stiff.
+30-1	3847-3850	The	_	_	_	
+30-2	3851-3857	Reason	_	_	_	
+30-3	3858-3860	is	_	_	_	
+30-4	3860-3861	,	_	_	_	
+30-5	3862-3869	because	_	_	_	
+30-6	3870-3874	they	_	_	_	
+30-7	3875-3882	consist	_	_	_	
+30-8	3883-3885	of	_	_	_	
+30-9	3886-3890	long	_	_	_	
+30-10	3890-3891	,	_	_	_	
+30-11	3892-3896	thin	_	_	_	
+30-12	3896-3897	,	_	_	_	
+30-13	3898-3901	and	_	_	_	
+30-14	3902-3907	stiff	_	_	_	
+30-15	3908-3917	particles	_	_	_	
+30-16	3917-3918	,	_	_	_	
+30-17	3919-3924	which	_	_	_	
+30-18	3925-3929	make	_	_	_	
+30-19	3930-3933	the	_	_	_	
+30-20	3934-3940	Bodies	_	_	_	
+30-21	3941-3948	whereto	_	_	_	
+30-22	3949-3953	they	_	_	_	
+30-23	3954-3960	belong	_	_	_	
+30-24	3961-3964	dry	_	_	_	
+30-25	3965-3968	and	_	_	_	
+30-26	3969-3974	stiff	_	_	_	
+30-27	3974-3975	.	_	_	_	
+
+#Text=But being boil ' d in Water, they lose their Acrimony; for that the Moisture penetrating them, dissolves their Salt and other smart little Bodies, and opening their pores, carries them away.
+31-1	3976-3979	But	_	_	_	
+31-2	3980-3985	being	_	_	_	
+31-3	3986-3990	boil	_	_	_	
+31-4	3991-3992	'	_	_	_	
+31-5	3993-3994	d	_	_	_	
+31-6	3995-3997	in	_	_	_	
+31-7	3998-4003	Water	_	_	_	
+31-8	4003-4004	,	_	_	_	
+31-9	4005-4009	they	_	_	_	
+31-10	4010-4014	lose	_	_	_	
+31-11	4015-4020	their	_	_	_	
+31-12	4021-4029	Acrimony	_	_	_	
+31-13	4029-4030	;	_	_	_	
+31-14	4031-4034	for	_	_	_	
+31-15	4035-4039	that	_	_	_	
+31-16	4040-4043	the	_	_	_	
+31-17	4044-4052	Moisture	_	_	_	
+31-18	4053-4064	penetrating	_	_	_	
+31-19	4065-4069	them	_	_	_	
+31-20	4069-4070	,	_	_	_	
+31-21	4071-4080	dissolves	_	_	_	
+31-22	4081-4086	their	_	_	_	
+31-23	4087-4091	Salt	_	_	_	
+31-24	4092-4095	and	_	_	_	
+31-25	4096-4101	other	_	_	_	
+31-26	4102-4107	smart	_	_	_	
+31-27	4108-4114	little	_	_	_	
+31-28	4115-4121	Bodies	_	_	_	
+31-29	4121-4122	,	_	_	_	
+31-30	4123-4126	and	_	_	_	
+31-31	4127-4134	opening	_	_	_	
+31-32	4135-4140	their	_	_	_	
+31-33	4141-4146	pores	_	_	_	
+31-34	4146-4147	,	_	_	_	
+31-35	4148-4155	carries	_	_	_	
+31-36	4156-4160	them	_	_	_	
+31-37	4161-4165	away	_	_	_	
+31-38	4165-4166	.	_	_	_	
+
+#Text=Yea, some of these may be so macerated or soaked, as that by quitting all their Biting and Harsh par∣ticles, they may become sweet, and at last in∣sipid.
+32-1	4167-4170	Yea	_	_	_	
+32-2	4170-4171	,	_	_	_	
+32-3	4172-4176	some	Taste Source[34]	anaphorical|anaphorical|anaphorical|anaphorical	29-2[0_34]|29-4[0_34]|29-6[0_34]|29-8[0_34]	
+32-4	4177-4179	of	Taste Source[34]	_	_	
+32-5	4180-4185	these	Taste Source[34]	_	_	
+32-6	4186-4189	may	_	_	_	
+32-7	4190-4192	be	_	_	_	
+32-8	4193-4195	so	_	_	_	
+32-9	4196-4205	macerated	Circumstance[35]	_	_	
+32-10	4206-4208	or	Circumstance[35]	_	_	
+32-11	4209-4215	soaked	Circumstance[35]	_	_	
+32-12	4215-4216	,	_	_	_	
+32-13	4217-4219	as	_	_	_	
+32-14	4220-4224	that	_	_	_	
+32-15	4225-4227	by	_	_	_	
+32-16	4228-4236	quitting	_	_	_	
+32-17	4237-4240	all	_	_	_	
+32-18	4241-4246	their	_	_	_	
+32-19	4247-4253	Biting	_	_	_	
+32-20	4254-4257	and	_	_	_	
+32-21	4258-4263	Harsh	_	_	_	
+32-22	4264-4267	par	_	_	_	
+32-23	4267-4268	∣	_	_	_	
+32-24	4268-4274	ticles	_	_	_	
+32-25	4274-4275	,	_	_	_	
+32-26	4276-4280	they	_	_	_	
+32-27	4281-4284	may	_	_	_	
+32-28	4285-4291	become	_	_	_	
+32-29	4292-4297	sweet	Taste Word[36]|Quality[37]	*|*|*	32-29[37_36]|32-9[35_36]|32-3[34_36]	
+32-30	4297-4298	,	_	_	_	
+32-31	4299-4302	and	_	_	_	
+32-32	4303-4305	at	_	_	_	
+32-33	4306-4310	last	_	_	_	
+32-34	4311-4313	in	Taste Word[38]|Quality[39]	*|*|*	32-34[39_38]|32-9[35_38]|32-3[34_38]	
+32-35	4313-4314	∣	Taste Word[38]|Quality[39]	_	_	
+32-36	4314-4319	sipid	Taste Word[38]|Quality[39]	_	_	
+32-37	4319-4320	.	_	_	_	
+
+#Text=VI.
+33-1	4323-4325	VI	_	_	_	
+33-2	4325-4326	.	_	_	_	
+
+#Text=How Sweet∣ness is pro∣duc ' d in Ripe fruits.
+34-1	4327-4330	How	_	_	_	
+34-2	4331-4336	Sweet	Taste Word[40]	*	34-12[41_40]	
+34-3	4336-4337	∣	Taste Word[40]	_	_	
+34-4	4337-4341	ness	Taste Word[40]	_	_	
+34-5	4342-4344	is	_	_	_	
+34-6	4345-4348	pro	_	_	_	
+34-7	4348-4349	∣	_	_	_	
+34-8	4349-4352	duc	_	_	_	
+34-9	4353-4354	'	_	_	_	
+34-10	4355-4356	d	_	_	_	
+34-11	4357-4359	in	_	_	_	
+34-12	4360-4364	Ripe	Taste Source[41]	_	_	
+34-13	4365-4371	fruits	Taste Source[41]	_	_	
+34-14	4371-4372	.	_	_	_	
+
+#Text=We meet with a Sweet taste, almost in all Ripe Fruits, which with great smoothness and evenness affect the Tongue.
+35-1	4373-4375	We	_	_	_	
+35-2	4376-4380	meet	_	_	_	
+35-3	4381-4385	with	_	_	_	
+35-4	4386-4387	a	_	_	_	
+35-5	4388-4393	Sweet	Taste Word[42]|Quality[43]	*	35-5[43_42]	
+35-6	4394-4399	taste	Taste Word	*|*|*	35-5[43_0]|35-10[44_0]|35-21[45_0]	
+35-7	4399-4400	,	_	_	_	
+35-8	4401-4407	almost	_	_	_	
+35-9	4408-4410	in	_	_	_	
+35-10	4411-4414	all	Taste Source[44]	_	_	
+35-11	4415-4419	Ripe	Taste Source[44]	_	_	
+35-12	4420-4426	Fruits	Taste Source[44]	_	_	
+35-13	4426-4427	,	_	_	_	
+35-14	4428-4433	which	_	_	_	
+35-15	4434-4438	with	_	_	_	
+35-16	4439-4444	great	_	_	_	
+35-17	4445-4455	smoothness	_	_	_	
+35-18	4456-4459	and	_	_	_	
+35-19	4460-4468	evenness	_	_	_	
+35-20	4469-4475	affect	_	_	_	
+35-21	4476-4479	the	Taster[45]	_	_	
+35-22	4480-4486	Tongue	Taster[45]	_	_	
+35-23	4486-4487	.	_	_	_	
+
+#Text=For in Ripe Fruits, by the continual heat of the Sun, the Alimental Juice is very exactly and throughly strained, and the par∣ticles that before were entangled, are resolved, by which means they readily enter the pores of the Tongue, and affect it with a pleasing Titillation.
+36-1	4488-4491	For	_	_	_	
+36-2	4492-4494	in	_	_	_	
+36-3	4495-4499	Ripe	_	_	_	
+36-4	4500-4506	Fruits	_	_	_	
+36-5	4506-4507	,	_	_	_	
+36-6	4508-4510	by	_	_	_	
+36-7	4511-4514	the	_	_	_	
+36-8	4515-4524	continual	_	_	_	
+36-9	4525-4529	heat	_	_	_	
+36-10	4530-4532	of	_	_	_	
+36-11	4533-4536	the	_	_	_	
+36-12	4537-4540	Sun	_	_	_	
+36-13	4540-4541	,	_	_	_	
+36-14	4542-4545	the	_	_	_	
+36-15	4546-4555	Alimental	_	_	_	
+36-16	4556-4561	Juice	_	_	_	
+36-17	4562-4564	is	_	_	_	
+36-18	4565-4569	very	_	_	_	
+36-19	4570-4577	exactly	_	_	_	
+36-20	4578-4581	and	_	_	_	
+36-21	4582-4591	throughly	_	_	_	
+36-22	4592-4600	strained	_	_	_	
+36-23	4600-4601	,	_	_	_	
+36-24	4602-4605	and	_	_	_	
+36-25	4606-4609	the	_	_	_	
+36-26	4610-4613	par	_	_	_	
+36-27	4613-4614	∣	_	_	_	
+36-28	4614-4620	ticles	_	_	_	
+36-29	4621-4625	that	_	_	_	
+36-30	4626-4632	before	_	_	_	
+36-31	4633-4637	were	_	_	_	
+36-32	4638-4647	entangled	_	_	_	
+36-33	4647-4648	,	_	_	_	
+36-34	4649-4652	are	_	_	_	
+36-35	4653-4661	resolved	_	_	_	
+36-36	4661-4662	,	_	_	_	
+36-37	4663-4665	by	_	_	_	
+36-38	4666-4671	which	_	_	_	
+36-39	4672-4677	means	_	_	_	
+36-40	4678-4682	they	_	_	_	
+36-41	4683-4690	readily	_	_	_	
+36-42	4691-4696	enter	_	_	_	
+36-43	4697-4700	the	_	_	_	
+36-44	4701-4706	pores	_	_	_	
+36-45	4707-4709	of	_	_	_	
+36-46	4710-4713	the	_	_	_	
+36-47	4714-4720	Tongue	_	_	_	
+36-48	4720-4721	,	_	_	_	
+36-49	4722-4725	and	_	_	_	
+36-50	4726-4732	affect	_	_	_	
+36-51	4733-4735	it	_	_	_	
+36-52	4736-4740	with	_	_	_	
+36-53	4741-4742	a	_	_	_	
+36-54	4743-4751	pleasing	_	_	_	
+36-55	4752-4763	Titillation	_	_	_	
+36-56	4763-4764	.	_	_	_	
+
+#Text=This Taste is most pleasant and grateful to young Children, the small strings of whose Nerves are more fine, small and subtil; but is not so accepta∣ble to those who have a thicker Texture of Nerves, being affected by what is acrimonious, and there∣fore look upon a sweet Taste, to be unpleasant.
+37-1	4765-4769	This	_	_	_	
+37-2	4770-4775	Taste	Taste Word	*|*|*	37-8[47_0]|37-4[46_0]|37-7	
+37-3	4776-4778	is	_	_	_	
+37-4	4779-4783	most	Quality[46]	_	_	
+37-5	4784-4792	pleasant	Quality[46]	_	_	
+37-6	4793-4796	and	_	_	_	
+37-7	4797-4805	grateful	Quality	_	_	
+37-8	4806-4808	to	Taster[47]	_	_	
+37-9	4809-4814	young	Taster[47]	_	_	
+37-10	4815-4823	Children	Taster[47]	_	_	
+37-11	4823-4824	,	_	_	_	
+37-12	4825-4828	the	_	_	_	
+37-13	4829-4834	small	_	_	_	
+37-14	4835-4842	strings	_	_	_	
+37-15	4843-4845	of	_	_	_	
+37-16	4846-4851	whose	_	_	_	
+37-17	4852-4858	Nerves	_	_	_	
+37-18	4859-4862	are	_	_	_	
+37-19	4863-4867	more	_	_	_	
+37-20	4868-4872	fine	_	_	_	
+37-21	4872-4873	,	_	_	_	
+37-22	4874-4879	small	_	_	_	
+37-23	4880-4883	and	_	_	_	
+37-24	4884-4890	subtil	_	_	_	
+37-25	4890-4891	;	_	_	_	
+37-26	4892-4895	but	_	_	_	
+37-27	4896-4898	is	_	_	_	
+37-28	4899-4902	not	_	_	_	
+37-29	4903-4905	so	_	_	_	
+37-30	4906-4913	accepta	_	_	_	
+37-31	4913-4914	∣	_	_	_	
+37-32	4914-4917	ble	_	_	_	
+37-33	4918-4920	to	_	_	_	
+37-34	4921-4926	those	_	_	_	
+37-35	4927-4930	who	_	_	_	
+37-36	4931-4935	have	_	_	_	
+37-37	4936-4937	a	_	_	_	
+37-38	4938-4945	thicker	_	_	_	
+37-39	4946-4953	Texture	_	_	_	
+37-40	4954-4956	of	_	_	_	
+37-41	4957-4963	Nerves	_	_	_	
+37-42	4963-4964	,	_	_	_	
+37-43	4965-4970	being	_	_	_	
+37-44	4971-4979	affected	_	_	_	
+37-45	4980-4982	by	_	_	_	
+37-46	4983-4987	what	_	_	_	
+37-47	4988-4990	is	_	_	_	
+37-48	4991-5002	acrimonious	_	_	_	
+37-49	5002-5003	,	_	_	_	
+37-50	5004-5007	and	_	_	_	
+37-51	5008-5013	there	_	_	_	
+37-52	5013-5014	∣	_	_	_	
+37-53	5014-5018	fore	_	_	_	
+37-54	5019-5023	look	_	_	_	
+37-55	5024-5028	upon	_	_	_	
+37-56	5029-5030	a	_	_	_	
+37-57	5031-5036	sweet	Taste Word[48]|Quality[49]	*	37-57[49_48]	
+37-58	5037-5042	Taste	Taste Word	*|*	37-57[49_0]|37-62	
+37-59	5042-5043	,	_	_	_	
+37-60	5044-5046	to	_	_	_	
+37-61	5047-5049	be	_	_	_	
+37-62	5050-5060	unpleasant	Quality	_	_	
+37-63	5060-5061	.	_	_	_	
+
+#Text=VII.
+38-1	5064-5067	VII	_	_	_	
+38-2	5067-5068	.	_	_	_	
+
+#Text=A Sowr taste proper to Limons.
+39-1	5069-5070	A	_	_	_	
+39-2	5071-5075	Sowr	Taste Word[50]|Quality[51]	*	39-2[51_50]	
+39-3	5076-5081	taste	Taste Word	*|*	39-6|39-2[51_0]	
+39-4	5082-5088	proper	_	_	_	
+39-5	5089-5091	to	_	_	_	
+39-6	5092-5098	Limons	Taste Source	_	_	
+39-7	5098-5099	.	_	_	_	
+
+#Text=A Sowr taste is found in Limons, Sorrel, and the like, which do prick and cut the Tongue.
+40-1	5100-5101	A	_	_	_	
+40-2	5102-5106	Sowr	Taste Word[52]|Quality[53]	*	40-2[53_52]	
+40-3	5107-5112	taste	Taste Word	*|*|*|*	40-2[53_0]|40-9|40-7|40-20[54_0]	
+40-4	5113-5115	is	_	_	_	
+40-5	5116-5121	found	_	_	_	
+40-6	5122-5124	in	_	_	_	
+40-7	5125-5131	Limons	Taste Source	_	_	
+40-8	5131-5132	,	_	_	_	
+40-9	5133-5139	Sorrel	Taste Source	_	_	
+40-10	5139-5140	,	_	_	_	
+40-11	5141-5144	and	_	_	_	
+40-12	5145-5148	the	_	_	_	
+40-13	5149-5153	like	_	_	_	
+40-14	5153-5154	,	_	_	_	
+40-15	5155-5160	which	_	_	_	
+40-16	5161-5163	do	_	_	_	
+40-17	5164-5169	prick	_	_	_	
+40-18	5170-5173	and	_	_	_	
+40-19	5174-5177	cut	_	_	_	
+40-20	5178-5181	the	Taster[54]	_	_	
+40-21	5182-5188	Tongue	Taster[54]	_	_	
+40-22	5188-5189	.	_	_	_	
+
+#Text=It is felt somewhat in the same manner, as a smart or biting Taste, saving only that Sowr things are accompanied with a sense of constringent Cold.
+41-1	5190-5192	It	_	_	_	
+41-2	5193-5195	is	_	_	_	
+41-3	5196-5200	felt	_	_	_	
+41-4	5201-5209	somewhat	_	_	_	
+41-5	5210-5212	in	_	_	_	
+41-6	5213-5216	the	_	_	_	
+41-7	5217-5221	same	_	_	_	
+41-8	5222-5228	manner	_	_	_	
+41-9	5228-5229	,	_	_	_	
+41-10	5230-5232	as	_	_	_	
+41-11	5233-5234	a	_	_	_	
+41-12	5235-5240	smart	Quality	_	_	
+41-13	5241-5243	or	_	_	_	
+41-14	5244-5250	biting	Quality	_	_	
+41-15	5251-5256	Taste	Taste Word	*|*	41-12|41-14	
+41-16	5256-5257	,	_	_	_	
+41-17	5258-5264	saving	_	_	_	
+41-18	5265-5269	only	_	_	_	
+41-19	5270-5274	that	_	_	_	
+41-20	5275-5279	Sowr	Taste Word[55]|Quality[56]	*|*	41-20[56_55]|41-21[0_55]	
+41-21	5280-5286	things	Taste Source	_	_	
+41-22	5287-5290	are	_	_	_	
+41-23	5291-5302	accompanied	_	_	_	
+41-24	5303-5307	with	_	_	_	
+41-25	5308-5309	a	_	_	_	
+41-26	5310-5315	sense	_	_	_	
+41-27	5316-5318	of	_	_	_	
+41-28	5319-5331	constringent	_	_	_	
+41-29	5332-5336	Cold	_	_	_	
+41-30	5336-5337	.	_	_	_	
+
+#Text=The Reason is, because this Savour consists in subtil and sharp Particles, which do easily penetrate the Organ of Taste, and pierce it like so many Thorns.
+42-1	5338-5341	The	_	_	_	
+42-2	5342-5348	Reason	_	_	_	
+42-3	5349-5351	is	_	_	_	
+42-4	5351-5352	,	_	_	_	
+42-5	5353-5360	because	_	_	_	
+42-6	5361-5365	this	_	_	_	
+42-7	5366-5372	Savour	Taste Word	_	_	
+42-8	5373-5381	consists	_	_	_	
+42-9	5382-5384	in	_	_	_	
+42-10	5385-5391	subtil	_	_	_	
+42-11	5392-5395	and	_	_	_	
+42-12	5396-5401	sharp	Taste Word[57]|Quality[58]	*|*	42-12[58_57]|42-13[0_57]	
+42-13	5402-5411	Particles	Taste Source	_	_	
+42-14	5411-5412	,	_	_	_	
+42-15	5413-5418	which	_	_	_	
+42-16	5419-5421	do	_	_	_	
+42-17	5422-5428	easily	_	_	_	
+42-18	5429-5438	penetrate	_	_	_	
+42-19	5439-5442	the	_	_	_	
+42-20	5443-5448	Organ	_	_	_	
+42-21	5449-5451	of	_	_	_	
+42-22	5452-5457	Taste	Taste Word	_	_	
+42-23	5457-5458	,	_	_	_	
+42-24	5459-5462	and	_	_	_	
+42-25	5463-5469	pierce	_	_	_	
+42-26	5470-5472	it	_	_	_	
+42-27	5473-5477	like	_	_	_	
+42-28	5478-5480	so	_	_	_	
+42-29	5481-5485	many	_	_	_	
+42-30	5486-5492	Thorns	_	_	_	
+42-31	5492-5493	.	_	_	_	
+
+#Text=And therefore we must conclude, that these Bodies consist of longish and stiff particles, somewhat like Needles: Which we shall readily admit, if we consider that all Fruits, before that they come to their full Ripeness, are of a Sowr taste; which could not be, if that Taste did not include something that is common to them all.
+43-1	5494-5497	And	_	_	_	
+43-2	5498-5507	therefore	_	_	_	
+43-3	5508-5510	we	_	_	_	
+43-4	5511-5515	must	_	_	_	
+43-5	5516-5524	conclude	_	_	_	
+43-6	5524-5525	,	_	_	_	
+43-7	5526-5530	that	_	_	_	
+43-8	5531-5536	these	_	_	_	
+43-9	5537-5543	Bodies	_	_	_	
+43-10	5544-5551	consist	_	_	_	
+43-11	5552-5554	of	_	_	_	
+43-12	5555-5562	longish	_	_	_	
+43-13	5563-5566	and	_	_	_	
+43-14	5567-5572	stiff	_	_	_	
+43-15	5573-5582	particles	_	_	_	
+43-16	5582-5583	,	_	_	_	
+43-17	5584-5592	somewhat	_	_	_	
+43-18	5593-5597	like	_	_	_	
+43-19	5598-5605	Needles	_	_	_	
+43-20	5605-5606	:	_	_	_	
+43-21	5607-5612	Which	_	_	_	
+43-22	5613-5615	we	_	_	_	
+43-23	5616-5621	shall	_	_	_	
+43-24	5622-5629	readily	_	_	_	
+43-25	5630-5635	admit	_	_	_	
+43-26	5635-5636	,	_	_	_	
+43-27	5637-5639	if	_	_	_	
+43-28	5640-5642	we	_	_	_	
+43-29	5643-5651	consider	_	_	_	
+43-30	5652-5656	that	_	_	_	
+43-31	5657-5660	all	_	_	_	
+43-32	5661-5667	Fruits	Taste Source	_	_	
+43-33	5667-5668	,	_	_	_	
+43-34	5669-5675	before	Circumstance[59]	_	_	
+43-35	5676-5680	that	Circumstance[59]	_	_	
+43-36	5681-5685	they	Circumstance[59]	_	_	
+43-37	5686-5690	come	Circumstance[59]	_	_	
+43-38	5691-5693	to	Circumstance[59]	_	_	
+43-39	5694-5699	their	Circumstance[59]	_	_	
+43-40	5700-5704	full	Circumstance[59]	_	_	
+43-41	5705-5713	Ripeness	Circumstance[59]	_	_	
+43-42	5713-5714	,	_	_	_	
+43-43	5715-5718	are	_	_	_	
+43-44	5719-5721	of	_	_	_	
+43-45	5722-5723	a	_	_	_	
+43-46	5724-5728	Sowr	Taste Word[60]|Quality[61]	*	43-46[61_60]	
+43-47	5729-5734	taste	Taste Word	*|*|*	43-46[61_0]|43-34[59_0]|43-32	
+43-48	5734-5735	;	_	_	_	
+43-49	5736-5741	which	_	_	_	
+43-50	5742-5747	could	_	_	_	
+43-51	5748-5751	not	_	_	_	
+43-52	5752-5754	be	_	_	_	
+43-53	5754-5755	,	_	_	_	
+43-54	5756-5758	if	_	_	_	
+43-55	5759-5763	that	_	_	_	
+43-56	5764-5769	Taste	Taste Word	_	_	
+43-57	5770-5773	did	_	_	_	
+43-58	5774-5777	not	_	_	_	
+43-59	5778-5785	include	_	_	_	
+43-60	5786-5795	something	_	_	_	
+43-61	5796-5800	that	_	_	_	
+43-62	5801-5803	is	_	_	_	
+43-63	5804-5810	common	_	_	_	
+43-64	5811-5813	to	_	_	_	
+43-65	5814-5818	them	_	_	_	
+43-66	5819-5822	all	_	_	_	
+43-67	5822-5823	.	_	_	_	
+
+#Text=Now we can meet with nothing that is common to them all, except that Disposition of Parts, seeing they consist of an Earthy Juice, which did cleave to the long and thin pores of the small Twigs, whence these Fruits do grow.
+44-1	5824-5827	Now	_	_	_	
+44-2	5828-5830	we	_	_	_	
+44-3	5831-5834	can	_	_	_	
+44-4	5835-5839	meet	_	_	_	
+44-5	5840-5844	with	_	_	_	
+44-6	5845-5852	nothing	_	_	_	
+44-7	5853-5857	that	_	_	_	
+44-8	5858-5860	is	_	_	_	
+44-9	5861-5867	common	_	_	_	
+44-10	5868-5870	to	_	_	_	
+44-11	5871-5875	them	_	_	_	
+44-12	5876-5879	all	_	_	_	
+44-13	5879-5880	,	_	_	_	
+44-14	5881-5887	except	_	_	_	
+44-15	5888-5892	that	_	_	_	
+44-16	5893-5904	Disposition	_	_	_	
+44-17	5905-5907	of	_	_	_	
+44-18	5908-5913	Parts	_	_	_	
+44-19	5913-5914	,	_	_	_	
+44-20	5915-5921	seeing	_	_	_	
+44-21	5922-5926	they	_	_	_	
+44-22	5927-5934	consist	_	_	_	
+44-23	5935-5937	of	_	_	_	
+44-24	5938-5940	an	_	_	_	
+44-25	5941-5947	Earthy	_	_	_	
+44-26	5948-5953	Juice	_	_	_	
+44-27	5953-5954	,	_	_	_	
+44-28	5955-5960	which	_	_	_	
+44-29	5961-5964	did	_	_	_	
+44-30	5965-5971	cleave	_	_	_	
+44-31	5972-5974	to	_	_	_	
+44-32	5975-5978	the	_	_	_	
+44-33	5979-5983	long	_	_	_	
+44-34	5984-5987	and	_	_	_	
+44-35	5988-5992	thin	_	_	_	
+44-36	5993-5998	pores	_	_	_	
+44-37	5999-6001	of	_	_	_	
+44-38	6002-6005	the	_	_	_	
+44-39	6006-6011	small	_	_	_	
+44-40	6012-6017	Twigs	_	_	_	
+44-41	6017-6018	,	_	_	_	
+44-42	6019-6025	whence	_	_	_	
+44-43	6026-6031	these	_	_	_	
+44-44	6032-6038	Fruits	_	_	_	
+44-45	6039-6041	do	_	_	_	
+44-46	6042-6046	grow	_	_	_	
+44-47	6046-6047	.	_	_	_	
+
+#Text=VIII.
+45-1	6050-6054	VIII	_	_	_	
+45-2	6054-6055	.	_	_	_	
+
+#Text=Whence that Bit∣terness that is observed in Rotten Apples, doth pro∣ceed.
+46-1	6056-6062	Whence	_	_	_	
+46-2	6063-6067	that	_	_	_	
+46-3	6068-6071	Bit	Taste Word[62]	*	46-10[63_62]	
+46-4	6071-6072	∣	Taste Word[62]	_	_	
+46-5	6072-6079	terness	Taste Word[62]	_	_	
+46-6	6080-6084	that	_	_	_	
+46-7	6085-6087	is	_	_	_	
+46-8	6088-6096	observed	_	_	_	
+46-9	6097-6099	in	_	_	_	
+46-10	6100-6106	Rotten	Taste Source[63]	_	_	
+46-11	6107-6113	Apples	Taste Source[63]	_	_	
+46-12	6113-6114	,	_	_	_	
+46-13	6115-6119	doth	_	_	_	
+46-14	6120-6123	pro	_	_	_	
+46-15	6123-6124	∣	_	_	_	
+46-16	6124-6128	ceed	_	_	_	
+46-17	6128-6129	.	_	_	_	
+
+#Text=A Bitter Taste is perceived in some rotten Pears and Apples, &amp;c. in the eating whereof the strings of the Nerves are unduly affected, and unplea∣santly vellicated.
+47-1	6130-6131	A	_	_	_	
+47-2	6132-6138	Bitter	Taste Word[64]|Quality[65]	*	47-2[65_64]	
+47-3	6139-6144	Taste	Taste Word	*|*	47-2[65_0]|47-8[66_0]	
+47-4	6145-6147	is	_	_	_	
+47-5	6148-6157	perceived	_	_	_	
+47-6	6158-6160	in	_	_	_	
+47-7	6161-6165	some	_	_	_	
+47-8	6166-6172	rotten	Taste Source[66]	_	_	
+47-9	6173-6178	Pears	Taste Source[66]	_	_	
+47-10	6179-6182	and	Taste Source[66]	_	_	
+47-11	6183-6189	Apples	Taste Source[66]	_	_	
+47-12	6189-6190	,	_	_	_	
+47-13	6191-6192	&	_	_	_	
+47-14	6192-6195	amp	_	_	_	
+47-15	6195-6196	;	_	_	_	
+47-16	6196-6197	c	_	_	_	
+47-17	6197-6198	.	_	_	_	
+47-18	6199-6201	in	_	_	_	
+47-19	6202-6205	the	_	_	_	
+47-20	6206-6212	eating	Taste Word	*	47-8[66_0]	
+47-21	6213-6220	whereof	_	_	_	
+47-22	6221-6224	the	_	_	_	
+47-23	6225-6232	strings	_	_	_	
+47-24	6233-6235	of	_	_	_	
+47-25	6236-6239	the	_	_	_	
+47-26	6240-6246	Nerves	_	_	_	
+47-27	6247-6250	are	_	_	_	
+47-28	6251-6257	unduly	_	_	_	
+47-29	6258-6266	affected	_	_	_	
+47-30	6266-6267	,	_	_	_	
+47-31	6268-6271	and	_	_	_	
+47-32	6272-6278	unplea	_	_	_	
+47-33	6278-6279	∣	_	_	_	
+47-34	6279-6285	santly	_	_	_	
+47-35	6286-6296	vellicated	_	_	_	
+47-36	6296-6297	.	_	_	_	
+
+#Text=For Pears and Apples, when they begin to putrifie, get rough, uneven, and prickly particles; because then the more subtil and refined particles fly away, leaving none but the grosser and thicker behind them.
+48-1	6298-6301	For	_	_	_	
+48-2	6302-6307	Pears	_	_	_	
+48-3	6308-6311	and	_	_	_	
+48-4	6312-6318	Apples	_	_	_	
+48-5	6318-6319	,	_	_	_	
+48-6	6320-6324	when	_	_	_	
+48-7	6325-6329	they	_	_	_	
+48-8	6330-6335	begin	_	_	_	
+48-9	6336-6338	to	_	_	_	
+48-10	6339-6347	putrifie	_	_	_	
+48-11	6347-6348	,	_	_	_	
+48-12	6349-6352	get	_	_	_	
+48-13	6353-6358	rough	_	_	_	
+48-14	6358-6359	,	_	_	_	
+48-15	6360-6366	uneven	_	_	_	
+48-16	6366-6367	,	_	_	_	
+48-17	6368-6371	and	_	_	_	
+48-18	6372-6379	prickly	_	_	_	
+48-19	6380-6389	particles	_	_	_	
+48-20	6389-6390	;	_	_	_	
+48-21	6391-6398	because	_	_	_	
+48-22	6399-6403	then	_	_	_	
+48-23	6404-6407	the	_	_	_	
+48-24	6408-6412	more	_	_	_	
+48-25	6413-6419	subtil	_	_	_	
+48-26	6420-6423	and	_	_	_	
+48-27	6424-6431	refined	_	_	_	
+48-28	6432-6441	particles	_	_	_	
+48-29	6442-6445	fly	_	_	_	
+48-30	6446-6450	away	_	_	_	
+48-31	6450-6451	,	_	_	_	
+48-32	6452-6459	leaving	_	_	_	
+48-33	6460-6464	none	_	_	_	
+48-34	6465-6468	but	_	_	_	
+48-35	6469-6472	the	_	_	_	
+48-36	6473-6480	grosser	_	_	_	
+48-37	6481-6484	and	_	_	_	
+48-38	6485-6492	thicker	_	_	_	
+48-39	6493-6499	behind	_	_	_	
+48-40	6500-6504	them	_	_	_	
+48-41	6504-6505	.	_	_	_	
+
+#Text=For Putrefaction is such a Resolution of Parts, by which things be∣come worse than they were before.
+49-1	6506-6509	For	_	_	_	
+49-2	6510-6522	Putrefaction	_	_	_	
+49-3	6523-6525	is	_	_	_	
+49-4	6526-6530	such	_	_	_	
+49-5	6531-6532	a	_	_	_	
+49-6	6533-6543	Resolution	_	_	_	
+49-7	6544-6546	of	_	_	_	
+49-8	6547-6552	Parts	_	_	_	
+49-9	6552-6553	,	_	_	_	
+49-10	6554-6556	by	_	_	_	
+49-11	6557-6562	which	_	_	_	
+49-12	6563-6569	things	_	_	_	
+49-13	6570-6572	be	_	_	_	
+49-14	6572-6573	∣	_	_	_	
+49-15	6573-6577	come	_	_	_	
+49-16	6578-6583	worse	_	_	_	
+49-17	6584-6588	than	_	_	_	
+49-18	6589-6593	they	_	_	_	
+49-19	6594-6598	were	_	_	_	
+49-20	6599-6605	before	_	_	_	
+49-21	6605-6606	.	_	_	_	
+
+#Text=Hence it is that they who drink Wine, immediately after they have eaten a tainted Apple, and tending to putre∣faction, do perceive a Bitter taste; because the Wine mingling it self with those putrid particles, conveighs them to the inmost pores of the Tongue.
+50-1	6607-6612	Hence	_	_	_	
+50-2	6613-6615	it	_	_	_	
+50-3	6616-6618	is	_	_	_	
+50-4	6619-6623	that	_	_	_	
+50-5	6624-6628	they	_	_	_	
+50-6	6629-6632	who	_	_	_	
+50-7	6633-6638	drink	Taste Word	*	50-8	
+50-8	6639-6643	Wine	Taste Source	_	_	
+50-9	6643-6644	,	_	_	_	
+50-10	6645-6656	immediately	_	_	_	
+50-11	6657-6662	after	_	_	_	
+50-12	6663-6667	they	_	_	_	
+50-13	6668-6672	have	_	_	_	
+50-14	6673-6678	eaten	Taste Word	*	50-15[67_0]	
+50-15	6679-6680	a	Taste Source[67]	_	_	
+50-16	6681-6688	tainted	Taste Source[67]	_	_	
+50-17	6689-6694	Apple	Taste Source[67]	_	_	
+50-18	6694-6695	,	_	_	_	
+50-19	6696-6699	and	_	_	_	
+50-20	6700-6707	tending	_	_	_	
+50-21	6708-6710	to	_	_	_	
+50-22	6711-6716	putre	_	_	_	
+50-23	6716-6717	∣	_	_	_	
+50-24	6717-6724	faction	_	_	_	
+50-25	6724-6725	,	_	_	_	
+50-26	6726-6728	do	_	_	_	
+50-27	6729-6737	perceive	_	_	_	
+50-28	6738-6739	a	_	_	_	
+50-29	6740-6746	Bitter	Taste Word[68]|Quality[69]	*	50-29[69_68]	
+50-30	6747-6752	taste	Taste Word	*	50-29[69_0]	
+50-31	6752-6753	;	_	_	_	
+50-32	6754-6761	because	_	_	_	
+50-33	6762-6765	the	_	_	_	
+50-34	6766-6770	Wine	_	_	_	
+50-35	6771-6779	mingling	_	_	_	
+50-36	6780-6782	it	_	_	_	
+50-37	6783-6787	self	_	_	_	
+50-38	6788-6792	with	_	_	_	
+50-39	6793-6798	those	_	_	_	
+50-40	6799-6805	putrid	_	_	_	
+50-41	6806-6815	particles	_	_	_	
+50-42	6815-6816	,	_	_	_	
+50-43	6817-6826	conveighs	_	_	_	
+50-44	6827-6831	them	_	_	_	
+50-45	6832-6834	to	_	_	_	
+50-46	6835-6838	the	_	_	_	
+50-47	6839-6845	inmost	_	_	_	
+50-48	6846-6851	pores	_	_	_	
+50-49	6852-6854	of	_	_	_	
+50-50	6855-6858	the	_	_	_	
+50-51	6859-6865	Tongue	_	_	_	
+50-52	6865-6866	.	_	_	_	
+
+#Text=This Bitterness is sometimes occasion ' d by too great Heat, when it is continual, and acts for a long time together upon Fruit.
+51-1	6867-6871	This	_	_	_	
+51-2	6872-6882	Bitterness	Taste Word	*|*	51-4[70_0]|51-26	
+51-3	6883-6885	is	_	_	_	
+51-4	6886-6895	sometimes	Circumstance[70]	_	_	
+51-5	6896-6904	occasion	Circumstance[70]	_	_	
+51-6	6905-6906	'	Circumstance[70]	_	_	
+51-7	6907-6908	d	Circumstance[70]	_	_	
+51-8	6909-6911	by	Circumstance[70]	_	_	
+51-9	6912-6915	too	Circumstance[70]	_	_	
+51-10	6916-6921	great	Circumstance[70]	_	_	
+51-11	6922-6926	Heat	Circumstance[70]	_	_	
+51-12	6926-6927	,	_	_	_	
+51-13	6928-6932	when	_	_	_	
+51-14	6933-6935	it	_	_	_	
+51-15	6936-6938	is	_	_	_	
+51-16	6939-6948	continual	_	_	_	
+51-17	6948-6949	,	_	_	_	
+51-18	6950-6953	and	_	_	_	
+51-19	6954-6958	acts	_	_	_	
+51-20	6959-6962	for	_	_	_	
+51-21	6963-6964	a	_	_	_	
+51-22	6965-6969	long	_	_	_	
+51-23	6970-6974	time	_	_	_	
+51-24	6975-6983	together	_	_	_	
+51-25	6984-6988	upon	_	_	_	
+51-26	6989-6994	Fruit	Taste Source	_	_	
+51-27	6994-6995	.	_	_	_	
+
+#Text=So that if Fruits, after their full Maturity, should continue long upon the Trees, it is not to be question ' d, but that by being too long expos ' d to the Heat of the Sun, their particles would become so rugged and twisted, that none would be left in them, to affect the Tongue with a Sweet taste, but would all ex∣asperate and bite it.
+52-1	6996-6998	So	_	_	_	
+52-2	6999-7003	that	_	_	_	
+52-3	7004-7006	if	_	_	_	
+52-4	7007-7013	Fruits	_	_	_	
+52-5	7013-7014	,	_	_	_	
+52-6	7015-7020	after	_	_	_	
+52-7	7021-7026	their	_	_	_	
+52-8	7027-7031	full	_	_	_	
+52-9	7032-7040	Maturity	_	_	_	
+52-10	7040-7041	,	_	_	_	
+52-11	7042-7048	should	_	_	_	
+52-12	7049-7057	continue	_	_	_	
+52-13	7058-7062	long	_	_	_	
+52-14	7063-7067	upon	_	_	_	
+52-15	7068-7071	the	_	_	_	
+52-16	7072-7077	Trees	_	_	_	
+52-17	7077-7078	,	_	_	_	
+52-18	7079-7081	it	_	_	_	
+52-19	7082-7084	is	_	_	_	
+52-20	7085-7088	not	_	_	_	
+52-21	7089-7091	to	_	_	_	
+52-22	7092-7094	be	_	_	_	
+52-23	7095-7103	question	_	_	_	
+52-24	7104-7105	'	_	_	_	
+52-25	7106-7107	d	_	_	_	
+52-26	7107-7108	,	_	_	_	
+52-27	7109-7112	but	_	_	_	
+52-28	7113-7117	that	_	_	_	
+52-29	7118-7120	by	_	_	_	
+52-30	7121-7126	being	_	_	_	
+52-31	7127-7130	too	_	_	_	
+52-32	7131-7135	long	_	_	_	
+52-33	7136-7141	expos	_	_	_	
+52-34	7142-7143	'	_	_	_	
+52-35	7144-7145	d	_	_	_	
+52-36	7146-7148	to	_	_	_	
+52-37	7149-7152	the	_	_	_	
+52-38	7153-7157	Heat	_	_	_	
+52-39	7158-7160	of	_	_	_	
+52-40	7161-7164	the	_	_	_	
+52-41	7165-7168	Sun	_	_	_	
+52-42	7168-7169	,	_	_	_	
+52-43	7170-7175	their	_	_	_	
+52-44	7176-7185	particles	_	_	_	
+52-45	7186-7191	would	_	_	_	
+52-46	7192-7198	become	_	_	_	
+52-47	7199-7201	so	_	_	_	
+52-48	7202-7208	rugged	_	_	_	
+52-49	7209-7212	and	_	_	_	
+52-50	7213-7220	twisted	_	_	_	
+52-51	7220-7221	,	_	_	_	
+52-52	7222-7226	that	_	_	_	
+52-53	7227-7231	none	_	_	_	
+52-54	7232-7237	would	_	_	_	
+52-55	7238-7240	be	_	_	_	
+52-56	7241-7245	left	_	_	_	
+52-57	7246-7248	in	_	_	_	
+52-58	7249-7253	them	_	_	_	
+52-59	7253-7254	,	_	_	_	
+52-60	7255-7257	to	_	_	_	
+52-61	7258-7264	affect	_	_	_	
+52-62	7265-7268	the	Taster[71]	_	_	
+52-63	7269-7275	Tongue	Taster[71]	_	_	
+52-64	7276-7280	with	_	_	_	
+52-65	7281-7282	a	_	_	_	
+52-66	7283-7288	Sweet	Taste Word[72]|Quality[73]	*	52-66[73_72]	
+52-67	7289-7294	taste	Taste Word	*|*	52-66[73_0]|52-62[71_0]	
+52-68	7294-7295	,	_	_	_	
+52-69	7296-7299	but	_	_	_	
+52-70	7300-7305	would	_	_	_	
+52-71	7306-7309	all	_	_	_	
+52-72	7310-7312	ex	_	_	_	
+52-73	7312-7313	∣	_	_	_	
+52-74	7313-7321	asperate	_	_	_	
+52-75	7322-7325	and	_	_	_	
+52-76	7326-7330	bite	_	_	_	
+52-77	7331-7333	it	_	_	_	
+52-78	7333-7334	.	_	_	_	
+
+#Text=A confirmation whereof we have in Flesh, which by too great heat of the Fire becomes scorched and burnt, and by this means acquires a Bitter taste, as doth also the Crust of Bread that is burnt, by being baked in an over∣heated Oven.
+53-1	7335-7336	A	_	_	_	
+53-2	7337-7349	confirmation	_	_	_	
+53-3	7350-7357	whereof	_	_	_	
+53-4	7358-7360	we	_	_	_	
+53-5	7361-7365	have	_	_	_	
+53-6	7366-7368	in	_	_	_	
+53-7	7369-7374	Flesh	_	_	_	
+53-8	7374-7375	,	_	_	_	
+53-9	7376-7381	which	_	_	_	
+53-10	7382-7384	by	_	_	_	
+53-11	7385-7388	too	_	_	_	
+53-12	7389-7394	great	_	_	_	
+53-13	7395-7399	heat	_	_	_	
+53-14	7400-7402	of	_	_	_	
+53-15	7403-7406	the	_	_	_	
+53-16	7407-7411	Fire	_	_	_	
+53-17	7412-7419	becomes	_	_	_	
+53-18	7420-7428	scorched	_	_	_	
+53-19	7429-7432	and	_	_	_	
+53-20	7433-7438	burnt	_	_	_	
+53-21	7438-7439	,	_	_	_	
+53-22	7440-7443	and	_	_	_	
+53-23	7444-7446	by	_	_	_	
+53-24	7447-7451	this	_	_	_	
+53-25	7452-7457	means	_	_	_	
+53-26	7458-7466	acquires	_	_	_	
+53-27	7467-7468	a	_	_	_	
+53-28	7469-7475	Bitter	Quality[74]|Taste Word[75]	*	53-28[74_75]	
+53-29	7476-7481	taste	Taste Word	*	53-28[74_0]	
+53-30	7481-7482	,	_	_	_	
+53-31	7483-7485	as	_	_	_	
+53-32	7486-7490	doth	_	_	_	
+53-33	7491-7495	also	_	_	_	
+53-34	7496-7499	the	_	_	_	
+53-35	7500-7505	Crust	_	_	_	
+53-36	7506-7508	of	_	_	_	
+53-37	7509-7514	Bread	_	_	_	
+53-38	7515-7519	that	_	_	_	
+53-39	7520-7522	is	_	_	_	
+53-40	7523-7528	burnt	_	_	_	
+53-41	7528-7529	,	_	_	_	
+53-42	7530-7532	by	_	_	_	
+53-43	7533-7538	being	_	_	_	
+53-44	7539-7544	baked	_	_	_	
+53-45	7545-7547	in	_	_	_	
+53-46	7548-7550	an	_	_	_	
+53-47	7551-7555	over	_	_	_	
+53-48	7555-7556	∣	_	_	_	
+53-49	7556-7562	heated	_	_	_	
+53-50	7563-7567	Oven	_	_	_	
+53-51	7567-7568	.	_	_	_	
+
+#Text=CHAP.
+54-1	7570-7574	CHAP	_	_	_	
+54-2	7574-7575	.	_	_	_	
+
+#Text=XIII.
+55-1	7576-7580	XIII	_	_	_	
+55-2	7580-7581	.	_	_	_	
+
+#Text=Of the Sense of Tasting.
+56-1	7582-7584	Of	_	_	_	
+56-2	7585-7588	the	_	_	_	
+56-3	7589-7594	Sense	_	_	_	
+56-4	7595-7597	of	_	_	_	
+56-5	7598-7605	Tasting	Taste Word	_	_	
+56-6	7605-7606	.	_	_	_	
+
+#Text=I.
+57-1	7607-7608	I	_	_	_	
+57-2	7608-7609	.	_	_	_	
+
+#Text=What the Tast is.
+58-1	7610-7614	What	_	_	_	
+58-2	7615-7618	the	_	_	_	
+58-3	7619-7623	Tast	Taste Word	_	_	
+58-4	7624-7626	is	_	_	_	
+58-5	7626-7627	.	_	_	_	
+
+#Text=THE Tast is an External Sense, whereby an Animal, with the help of his Tongue and Palat, which are furnisht with the Nerves sub∣servient to this Sense, perceives the several diffe∣rences of Tasts and Savours.
+59-1	7628-7631	THE	_	_	_	
+59-2	7632-7636	Tast	Taste Word	*|*|*	59-9[76_0]|59-17|59-19	
+59-3	7637-7639	is	_	_	_	
+59-4	7640-7642	an	_	_	_	
+59-5	7643-7651	External	_	_	_	
+59-6	7652-7657	Sense	_	_	_	
+59-7	7657-7658	,	_	_	_	
+59-8	7659-7666	whereby	_	_	_	
+59-9	7667-7669	an	Taster[76]	_	_	
+59-10	7670-7676	Animal	Taster[76]	_	_	
+59-11	7676-7677	,	_	_	_	
+59-12	7678-7682	with	_	_	_	
+59-13	7683-7686	the	_	_	_	
+59-14	7687-7691	help	_	_	_	
+59-15	7692-7694	of	_	_	_	
+59-16	7695-7698	his	_	_	_	
+59-17	7699-7705	Tongue	Taster	_	_	
+59-18	7706-7709	and	_	_	_	
+59-19	7710-7715	Palat	Taster	_	_	
+59-20	7715-7716	,	_	_	_	
+59-21	7717-7722	which	_	_	_	
+59-22	7723-7726	are	_	_	_	
+59-23	7727-7735	furnisht	_	_	_	
+59-24	7736-7740	with	_	_	_	
+59-25	7741-7744	the	_	_	_	
+59-26	7745-7751	Nerves	_	_	_	
+59-27	7752-7755	sub	_	_	_	
+59-28	7755-7756	∣	_	_	_	
+59-29	7756-7764	servient	_	_	_	
+59-30	7765-7767	to	_	_	_	
+59-31	7768-7772	this	_	_	_	
+59-32	7773-7778	Sense	_	_	_	
+59-33	7778-7779	,	_	_	_	
+59-34	7780-7789	perceives	_	_	_	
+59-35	7790-7793	the	_	_	_	
+59-36	7794-7801	several	_	_	_	
+59-37	7802-7807	diffe	_	_	_	
+59-38	7807-7808	∣	_	_	_	
+59-39	7808-7814	rences	_	_	_	
+59-40	7815-7817	of	_	_	_	
+59-41	7818-7823	Tasts	Taste Word	_	_	
+59-42	7824-7827	and	_	_	_	
+59-43	7828-7835	Savours	Taste Word	_	_	
+59-44	7835-7836	.	_	_	_	
+
+#Text=Or according to others, the Tast is a sensation, by means whereof, after that the Savoury Object hath made a due im∣pression of it self upon the prominent and porous little Nipples of the Tongue, the Soul residing in the Brain, perceives and judges of the difference of the Savour or Rellish.
+60-1	7837-7839	Or	_	_	_	
+60-2	7840-7849	according	_	_	_	
+60-3	7850-7852	to	_	_	_	
+60-4	7853-7859	others	_	_	_	
+60-5	7859-7860	,	_	_	_	
+60-6	7861-7864	the	_	_	_	
+60-7	7865-7869	Tast	Taste Word	_	_	
+60-8	7870-7872	is	_	_	_	
+60-9	7873-7874	a	_	_	_	
+60-10	7875-7884	sensation	_	_	_	
+60-11	7884-7885	,	_	_	_	
+60-12	7886-7888	by	_	_	_	
+60-13	7889-7894	means	_	_	_	
+60-14	7895-7902	whereof	_	_	_	
+60-15	7902-7903	,	_	_	_	
+60-16	7904-7909	after	_	_	_	
+60-17	7910-7914	that	_	_	_	
+60-18	7915-7918	the	_	_	_	
+60-19	7919-7926	Savoury	Taste Word[77]|Quality[78]	*|*	60-19[78_77]|60-20[0_77]	
+60-20	7927-7933	Object	Taste Source	_	_	
+60-21	7934-7938	hath	_	_	_	
+60-22	7939-7943	made	_	_	_	
+60-23	7944-7945	a	_	_	_	
+60-24	7946-7949	due	_	_	_	
+60-25	7950-7952	im	_	_	_	
+60-26	7952-7953	∣	_	_	_	
+60-27	7953-7961	pression	_	_	_	
+60-28	7962-7964	of	_	_	_	
+60-29	7965-7967	it	_	_	_	
+60-30	7968-7972	self	_	_	_	
+60-31	7973-7977	upon	_	_	_	
+60-32	7978-7981	the	_	_	_	
+60-33	7982-7991	prominent	_	_	_	
+60-34	7992-7995	and	_	_	_	
+60-35	7996-8002	porous	_	_	_	
+60-36	8003-8009	little	_	_	_	
+60-37	8010-8017	Nipples	_	_	_	
+60-38	8018-8020	of	_	_	_	
+60-39	8021-8024	the	_	_	_	
+60-40	8025-8031	Tongue	_	_	_	
+60-41	8031-8032	,	_	_	_	
+60-42	8033-8036	the	_	_	_	
+60-43	8037-8041	Soul	_	_	_	
+60-44	8042-8050	residing	_	_	_	
+60-45	8051-8053	in	_	_	_	
+60-46	8054-8057	the	_	_	_	
+60-47	8058-8063	Brain	_	_	_	
+60-48	8063-8064	,	_	_	_	
+60-49	8065-8074	perceives	_	_	_	
+60-50	8075-8078	and	_	_	_	
+60-51	8079-8085	judges	_	_	_	
+60-52	8086-8088	of	_	_	_	
+60-53	8089-8092	the	_	_	_	
+60-54	8093-8103	difference	_	_	_	
+60-55	8104-8106	of	_	_	_	
+60-56	8107-8110	the	_	_	_	
+60-57	8111-8117	Savour	Taste Word	_	_	
+60-58	8118-8120	or	_	_	_	
+60-59	8121-8128	Rellish	Taste Word	_	_	
+60-60	8128-8129	.	_	_	_	
+
+#Text=For according to the sentiment of our Modern Anatomists the Organs of Tast are the foresaid prominent and porous Nipples of the Tongue, or small Strings which proceed from its inmost membran.
+61-1	8130-8133	For	_	_	_	
+61-2	8134-8143	according	_	_	_	
+61-3	8144-8146	to	_	_	_	
+61-4	8147-8150	the	_	_	_	
+61-5	8151-8160	sentiment	_	_	_	
+61-6	8161-8163	of	_	_	_	
+61-7	8164-8167	our	_	_	_	
+61-8	8168-8174	Modern	_	_	_	
+61-9	8175-8185	Anatomists	_	_	_	
+61-10	8186-8189	the	_	_	_	
+61-11	8190-8196	Organs	_	_	_	
+61-12	8197-8199	of	_	_	_	
+61-13	8200-8204	Tast	Taste Word	*	61-19[79_0]	
+61-14	8205-8208	are	_	_	_	
+61-15	8209-8212	the	_	_	_	
+61-16	8213-8221	foresaid	_	_	_	
+61-17	8222-8231	prominent	_	_	_	
+61-18	8232-8235	and	_	_	_	
+61-19	8236-8242	porous	Taster[79]	_	_	
+61-20	8243-8250	Nipples	Taster[79]	_	_	
+61-21	8251-8253	of	Taster[79]	_	_	
+61-22	8254-8257	the	Taster[79]	_	_	
+61-23	8258-8264	Tongue	Taster[79]	_	_	
+61-24	8264-8265	,	_	_	_	
+61-25	8266-8268	or	_	_	_	
+61-26	8269-8274	small	_	_	_	
+61-27	8275-8282	Strings	_	_	_	
+61-28	8283-8288	which	_	_	_	
+61-29	8289-8296	proceed	_	_	_	
+61-30	8297-8301	from	_	_	_	
+61-31	8302-8305	its	_	_	_	
+61-32	8306-8312	inmost	_	_	_	
+61-33	8313-8320	membran	_	_	_	
+61-34	8320-8321	.	_	_	_	
+
+#Text=VII.
+62-1	8324-8327	VII	_	_	_	
+62-2	8327-8328	.	_	_	_	
+
+#Text=Whence the Diversity of Savours and Re∣lishes doth arise.
+63-1	8329-8335	Whence	_	_	_	
+63-2	8336-8339	the	_	_	_	
+63-3	8340-8349	Diversity	_	_	_	
+63-4	8350-8352	of	_	_	_	
+63-5	8353-8360	Savours	Taste Word	_	_	
+63-6	8361-8364	and	_	_	_	
+63-7	8365-8367	Re	Taste Word[80]	_	_	
+63-8	8367-8368	∣	Taste Word[80]	_	_	
+63-9	8368-8374	lishes	Taste Word[80]	_	_	
+63-10	8375-8379	doth	_	_	_	
+63-11	8380-8385	arise	_	_	_	
+63-12	8385-8386	.	_	_	_	
+
+#Text=Which will easily be done, if we remember that the Faculty of perceiving Tastes in us, is not un∣like to that whereby we are sensible of Pain; that is, to the actuating of this Power nothing else is required, but that the savoury Bodies do move the slender filaments of the Nerves of the Tongue, or the prominent Nipples before mentioned, in such a manner, as Nature hath ordained for the effect∣ing of the sense of Tasting.
+64-1	8387-8392	Which	_	_	_	
+64-2	8393-8397	will	_	_	_	
+64-3	8398-8404	easily	_	_	_	
+64-4	8405-8407	be	_	_	_	
+64-5	8408-8412	done	_	_	_	
+64-6	8412-8413	,	_	_	_	
+64-7	8414-8416	if	_	_	_	
+64-8	8417-8419	we	_	_	_	
+64-9	8420-8428	remember	_	_	_	
+64-10	8429-8433	that	_	_	_	
+64-11	8434-8437	the	_	_	_	
+64-12	8438-8445	Faculty	_	_	_	
+64-13	8446-8448	of	_	_	_	
+64-14	8449-8459	perceiving	_	_	_	
+64-15	8460-8466	Tastes	Taste Word	_	_	
+64-16	8467-8469	in	_	_	_	
+64-17	8470-8472	us	_	_	_	
+64-18	8472-8473	,	_	_	_	
+64-19	8474-8476	is	_	_	_	
+64-20	8477-8480	not	_	_	_	
+64-21	8481-8483	un	_	_	_	
+64-22	8483-8484	∣	_	_	_	
+64-23	8484-8488	like	_	_	_	
+64-24	8489-8491	to	_	_	_	
+64-25	8492-8496	that	_	_	_	
+64-26	8497-8504	whereby	_	_	_	
+64-27	8505-8507	we	_	_	_	
+64-28	8508-8511	are	_	_	_	
+64-29	8512-8520	sensible	_	_	_	
+64-30	8521-8523	of	_	_	_	
+64-31	8524-8528	Pain	_	_	_	
+64-32	8528-8529	;	_	_	_	
+64-33	8530-8534	that	_	_	_	
+64-34	8535-8537	is	_	_	_	
+64-35	8537-8538	,	_	_	_	
+64-36	8539-8541	to	_	_	_	
+64-37	8542-8545	the	_	_	_	
+64-38	8546-8555	actuating	_	_	_	
+64-39	8556-8558	of	_	_	_	
+64-40	8559-8563	this	_	_	_	
+64-41	8564-8569	Power	_	_	_	
+64-42	8570-8577	nothing	_	_	_	
+64-43	8578-8582	else	_	_	_	
+64-44	8583-8585	is	_	_	_	
+64-45	8586-8594	required	_	_	_	
+64-46	8594-8595	,	_	_	_	
+64-47	8596-8599	but	_	_	_	
+64-48	8600-8604	that	_	_	_	
+64-49	8605-8608	the	_	_	_	
+64-50	8609-8616	savoury	Taste Word[81]|Quality[82]	*|*	64-50[82_81]|64-51[0_81]	
+64-51	8617-8623	Bodies	Taste Source	_	_	
+64-52	8624-8626	do	_	_	_	
+64-53	8627-8631	move	_	_	_	
+64-54	8632-8635	the	_	_	_	
+64-55	8636-8643	slender	_	_	_	
+64-56	8644-8653	filaments	_	_	_	
+64-57	8654-8656	of	_	_	_	
+64-58	8657-8660	the	_	_	_	
+64-59	8661-8667	Nerves	_	_	_	
+64-60	8668-8670	of	_	_	_	
+64-61	8671-8674	the	_	_	_	
+64-62	8675-8681	Tongue	_	_	_	
+64-63	8681-8682	,	_	_	_	
+64-64	8683-8685	or	_	_	_	
+64-65	8686-8689	the	_	_	_	
+64-66	8690-8699	prominent	_	_	_	
+64-67	8700-8707	Nipples	_	_	_	
+64-68	8708-8714	before	_	_	_	
+64-69	8715-8724	mentioned	_	_	_	
+64-70	8724-8725	,	_	_	_	
+64-71	8726-8728	in	_	_	_	
+64-72	8729-8733	such	_	_	_	
+64-73	8734-8735	a	_	_	_	
+64-74	8736-8742	manner	_	_	_	
+64-75	8742-8743	,	_	_	_	
+64-76	8744-8746	as	_	_	_	
+64-77	8747-8753	Nature	_	_	_	
+64-78	8754-8758	hath	_	_	_	
+64-79	8759-8767	ordained	_	_	_	
+64-80	8768-8771	for	_	_	_	
+64-81	8772-8775	the	_	_	_	
+64-82	8776-8782	effect	_	_	_	
+64-83	8782-8783	∣	_	_	_	
+64-84	8783-8786	ing	_	_	_	
+64-85	8787-8789	of	_	_	_	
+64-86	8790-8793	the	_	_	_	
+64-87	8794-8799	sense	_	_	_	
+64-88	8800-8802	of	_	_	_	
+64-89	8803-8810	Tasting	Taste Word	_	_	
+64-90	8810-8811	.	_	_	_	
+
+#Text=In like manner as to the production of the sense of Pain it is suffi∣cient, that the Nerves subservient to the Touch be moved after such a particular manner: So that all the difference of savoury Bodies doth depend on the Thickness, Figure and Motion of their Parts.
+65-1	8812-8814	In	_	_	_	
+65-2	8815-8819	like	_	_	_	
+65-3	8820-8826	manner	_	_	_	
+65-4	8827-8829	as	_	_	_	
+65-5	8830-8832	to	_	_	_	
+65-6	8833-8836	the	_	_	_	
+65-7	8837-8847	production	_	_	_	
+65-8	8848-8850	of	_	_	_	
+65-9	8851-8854	the	_	_	_	
+65-10	8855-8860	sense	_	_	_	
+65-11	8861-8863	of	_	_	_	
+65-12	8864-8868	Pain	_	_	_	
+65-13	8869-8871	it	_	_	_	
+65-14	8872-8874	is	_	_	_	
+65-15	8875-8880	suffi	_	_	_	
+65-16	8880-8881	∣	_	_	_	
+65-17	8881-8886	cient	_	_	_	
+65-18	8886-8887	,	_	_	_	
+65-19	8888-8892	that	_	_	_	
+65-20	8893-8896	the	_	_	_	
+65-21	8897-8903	Nerves	_	_	_	
+65-22	8904-8915	subservient	_	_	_	
+65-23	8916-8918	to	_	_	_	
+65-24	8919-8922	the	_	_	_	
+65-25	8923-8928	Touch	_	_	_	
+65-26	8929-8931	be	_	_	_	
+65-27	8932-8937	moved	_	_	_	
+65-28	8938-8943	after	_	_	_	
+65-29	8944-8948	such	_	_	_	
+65-30	8949-8950	a	_	_	_	
+65-31	8951-8961	particular	_	_	_	
+65-32	8962-8968	manner	_	_	_	
+65-33	8968-8969	:	_	_	_	
+65-34	8970-8972	So	_	_	_	
+65-35	8973-8977	that	_	_	_	
+65-36	8978-8981	all	_	_	_	
+65-37	8982-8985	the	_	_	_	
+65-38	8986-8996	difference	_	_	_	
+65-39	8997-8999	of	_	_	_	
+65-40	9000-9007	savoury	Taste Word[83]|Quality[84]	*|*	65-40[84_83]|65-41[0_83]	
+65-41	9008-9014	Bodies	Taste Source	_	_	
+65-42	9015-9019	doth	_	_	_	
+65-43	9020-9026	depend	_	_	_	
+65-44	9027-9029	on	_	_	_	
+65-45	9030-9033	the	_	_	_	
+65-46	9034-9043	Thickness	_	_	_	
+65-47	9043-9044	,	_	_	_	
+65-48	9045-9051	Figure	_	_	_	
+65-49	9052-9055	and	_	_	_	
+65-50	9056-9062	Motion	_	_	_	
+65-51	9063-9065	of	_	_	_	
+65-52	9066-9071	their	_	_	_	
+65-53	9072-9077	Parts	_	_	_	
+65-54	9077-9078	.	_	_	_	
+
+#Text=This may be evidenced by some instances; for let us suppose the foresaid Fibres of the Tongue to be agitated 4 several ways, viz. by Salt, Vinegar, or any other sour Liquor, Common Water and Brandy, so as that the Soul thence is stirred up to perceive 4 distinct Tastes.
+66-1	9079-9083	This	_	_	_	
+66-2	9084-9087	may	_	_	_	
+66-3	9088-9090	be	_	_	_	
+66-4	9091-9100	evidenced	_	_	_	
+66-5	9101-9103	by	_	_	_	
+66-6	9104-9108	some	_	_	_	
+66-7	9109-9118	instances	_	_	_	
+66-8	9118-9119	;	_	_	_	
+66-9	9120-9123	for	_	_	_	
+66-10	9124-9127	let	_	_	_	
+66-11	9128-9130	us	_	_	_	
+66-12	9131-9138	suppose	_	_	_	
+66-13	9139-9142	the	_	_	_	
+66-14	9143-9151	foresaid	_	_	_	
+66-15	9152-9158	Fibres	_	_	_	
+66-16	9159-9161	of	_	_	_	
+66-17	9162-9165	the	_	_	_	
+66-18	9166-9172	Tongue	_	_	_	
+66-19	9173-9175	to	_	_	_	
+66-20	9176-9178	be	_	_	_	
+66-21	9179-9187	agitated	_	_	_	
+66-22	9188-9189	4	_	_	_	
+66-23	9190-9197	several	_	_	_	
+66-24	9198-9202	ways	_	_	_	
+66-25	9202-9203	,	_	_	_	
+66-26	9204-9207	viz	_	_	_	
+66-27	9207-9208	.	_	_	_	
+66-28	9209-9211	by	_	_	_	
+66-29	9212-9216	Salt	_	_	_	
+66-30	9216-9217	,	_	_	_	
+66-31	9218-9225	Vinegar	_	_	_	
+66-32	9225-9226	,	_	_	_	
+66-33	9227-9229	or	_	_	_	
+66-34	9230-9233	any	_	_	_	
+66-35	9234-9239	other	_	_	_	
+66-36	9240-9244	sour	Taste Word[85]|Quality[86]	*|*	66-36[86_85]|66-37[0_85]	
+66-37	9245-9251	Liquor	Taste Source	_	_	
+66-38	9251-9252	,	_	_	_	
+66-39	9253-9259	Common	_	_	_	
+66-40	9260-9265	Water	_	_	_	
+66-41	9266-9269	and	_	_	_	
+66-42	9270-9276	Brandy	_	_	_	
+66-43	9276-9277	,	_	_	_	
+66-44	9278-9280	so	_	_	_	
+66-45	9281-9283	as	_	_	_	
+66-46	9284-9288	that	_	_	_	
+66-47	9289-9292	the	_	_	_	
+66-48	9293-9297	Soul	_	_	_	
+66-49	9298-9304	thence	_	_	_	
+66-50	9305-9307	is	_	_	_	
+66-51	9308-9315	stirred	_	_	_	
+66-52	9316-9318	up	_	_	_	
+66-53	9319-9321	to	_	_	_	
+66-54	9322-9330	perceive	_	_	_	
+66-55	9331-9332	4	_	_	_	
+66-56	9333-9341	distinct	Quality	_	_	
+66-57	9342-9348	Tastes	Taste Word	*	66-56	
+66-58	9348-9349	.	_	_	_	
+
+#Text=We shall easily conceive that Salt doth therefore prick, and as it were cut the Organ, because it consists of long, stiff and various corner ' d Particles, which with their points prick the small Fibres of the Tongue, and enter the same without the least bending or plying.
+67-1	9350-9352	We	_	_	_	
+67-2	9353-9358	shall	_	_	_	
+67-3	9359-9365	easily	_	_	_	
+67-4	9366-9374	conceive	_	_	_	
+67-5	9375-9379	that	_	_	_	
+67-6	9380-9384	Salt	_	_	_	
+67-7	9385-9389	doth	_	_	_	
+67-8	9390-9399	therefore	_	_	_	
+67-9	9400-9405	prick	_	_	_	
+67-10	9405-9406	,	_	_	_	
+67-11	9407-9410	and	_	_	_	
+67-12	9411-9413	as	_	_	_	
+67-13	9414-9416	it	_	_	_	
+67-14	9417-9421	were	_	_	_	
+67-15	9422-9425	cut	_	_	_	
+67-16	9426-9429	the	_	_	_	
+67-17	9430-9435	Organ	_	_	_	
+67-18	9435-9436	,	_	_	_	
+67-19	9437-9444	because	_	_	_	
+67-20	9445-9447	it	_	_	_	
+67-21	9448-9456	consists	_	_	_	
+67-22	9457-9459	of	_	_	_	
+67-23	9460-9464	long	_	_	_	
+67-24	9464-9465	,	_	_	_	
+67-25	9466-9471	stiff	_	_	_	
+67-26	9472-9475	and	_	_	_	
+67-27	9476-9483	various	_	_	_	
+67-28	9484-9490	corner	_	_	_	
+67-29	9491-9492	'	_	_	_	
+67-30	9493-9494	d	_	_	_	
+67-31	9495-9504	Particles	_	_	_	
+67-32	9504-9505	,	_	_	_	
+67-33	9506-9511	which	_	_	_	
+67-34	9512-9516	with	_	_	_	
+67-35	9517-9522	their	_	_	_	
+67-36	9523-9529	points	_	_	_	
+67-37	9530-9535	prick	_	_	_	
+67-38	9536-9539	the	_	_	_	
+67-39	9540-9545	small	_	_	_	
+67-40	9546-9552	Fibres	_	_	_	
+67-41	9553-9555	of	_	_	_	
+67-42	9556-9559	the	_	_	_	
+67-43	9560-9566	Tongue	_	_	_	
+67-44	9566-9567	,	_	_	_	
+67-45	9568-9571	and	_	_	_	
+67-46	9572-9577	enter	_	_	_	
+67-47	9578-9581	the	_	_	_	
+67-48	9582-9586	same	_	_	_	
+67-49	9587-9594	without	_	_	_	
+67-50	9595-9598	the	_	_	_	
+67-51	9599-9604	least	_	_	_	
+67-52	9605-9612	bending	_	_	_	
+67-53	9613-9615	or	_	_	_	
+67-54	9616-9622	plying	_	_	_	
+67-55	9622-9623	.	_	_	_	
+
+#Text=Vinegar applied to the Organ, doth as it were slash and cut it, and by compression somewhat contract it, be∣cause the particles thereof by entring obliquely in∣to the Nerves, do slash the thin particles thereof, and dashing against the thicker parts they become bended, and so enter the pores slantingly.
+68-1	9624-9631	Vinegar	_	_	_	
+68-2	9632-9639	applied	_	_	_	
+68-3	9640-9642	to	_	_	_	
+68-4	9643-9646	the	_	_	_	
+68-5	9647-9652	Organ	_	_	_	
+68-6	9652-9653	,	_	_	_	
+68-7	9654-9658	doth	_	_	_	
+68-8	9659-9661	as	_	_	_	
+68-9	9662-9664	it	_	_	_	
+68-10	9665-9669	were	_	_	_	
+68-11	9670-9675	slash	_	_	_	
+68-12	9676-9679	and	_	_	_	
+68-13	9680-9683	cut	_	_	_	
+68-14	9684-9686	it	_	_	_	
+68-15	9686-9687	,	_	_	_	
+68-16	9688-9691	and	_	_	_	
+68-17	9692-9694	by	_	_	_	
+68-18	9695-9706	compression	_	_	_	
+68-19	9707-9715	somewhat	_	_	_	
+68-20	9716-9724	contract	_	_	_	
+68-21	9725-9727	it	_	_	_	
+68-22	9727-9728	,	_	_	_	
+68-23	9729-9731	be	_	_	_	
+68-24	9731-9732	∣	_	_	_	
+68-25	9732-9737	cause	_	_	_	
+68-26	9738-9741	the	_	_	_	
+68-27	9742-9751	particles	_	_	_	
+68-28	9752-9759	thereof	_	_	_	
+68-29	9760-9762	by	_	_	_	
+68-30	9763-9770	entring	_	_	_	
+68-31	9771-9780	obliquely	_	_	_	
+68-32	9781-9783	in	_	_	_	
+68-33	9783-9784	∣	_	_	_	
+68-34	9784-9786	to	_	_	_	
+68-35	9787-9790	the	_	_	_	
+68-36	9791-9797	Nerves	_	_	_	
+68-37	9797-9798	,	_	_	_	
+68-38	9799-9801	do	_	_	_	
+68-39	9802-9807	slash	_	_	_	
+68-40	9808-9811	the	_	_	_	
+68-41	9812-9816	thin	_	_	_	
+68-42	9817-9826	particles	_	_	_	
+68-43	9827-9834	thereof	_	_	_	
+68-44	9834-9835	,	_	_	_	
+68-45	9836-9839	and	_	_	_	
+68-46	9840-9847	dashing	_	_	_	
+68-47	9848-9855	against	_	_	_	
+68-48	9856-9859	the	_	_	_	
+68-49	9860-9867	thicker	_	_	_	
+68-50	9868-9873	parts	_	_	_	
+68-51	9874-9878	they	_	_	_	
+68-52	9879-9885	become	_	_	_	
+68-53	9886-9892	bended	_	_	_	
+68-54	9892-9893	,	_	_	_	
+68-55	9894-9897	and	_	_	_	
+68-56	9898-9900	so	_	_	_	
+68-57	9901-9906	enter	_	_	_	
+68-58	9907-9910	the	_	_	_	
+68-59	9911-9916	pores	_	_	_	
+68-60	9917-9927	slantingly	_	_	_	
+68-61	9927-9928	.	_	_	_	
+
+#Text=Com∣mon Water doth not enter the pores of the Tongue at all, and therefore doth neither prick nor pierce it, because its particles do only softly flow upon the Tongue, and lying sideways, because of their easie pliableness and bending, are scarcely percepti∣ble by the Taste, and therefore Water is lookt up∣on as insipid.
+69-1	9929-9932	Com	_	_	_	
+69-2	9932-9933	∣	_	_	_	
+69-3	9933-9936	mon	_	_	_	
+69-4	9937-9942	Water	_	_	_	
+69-5	9943-9947	doth	_	_	_	
+69-6	9948-9951	not	_	_	_	
+69-7	9952-9957	enter	_	_	_	
+69-8	9958-9961	the	_	_	_	
+69-9	9962-9967	pores	_	_	_	
+69-10	9968-9970	of	_	_	_	
+69-11	9971-9974	the	_	_	_	
+69-12	9975-9981	Tongue	_	_	_	
+69-13	9982-9984	at	_	_	_	
+69-14	9985-9988	all	_	_	_	
+69-15	9988-9989	,	_	_	_	
+69-16	9990-9993	and	_	_	_	
+69-17	9994-10003	therefore	_	_	_	
+69-18	10004-10008	doth	_	_	_	
+69-19	10009-10016	neither	_	_	_	
+69-20	10017-10022	prick	_	_	_	
+69-21	10023-10026	nor	_	_	_	
+69-22	10027-10033	pierce	_	_	_	
+69-23	10034-10036	it	_	_	_	
+69-24	10036-10037	,	_	_	_	
+69-25	10038-10045	because	_	_	_	
+69-26	10046-10049	its	_	_	_	
+69-27	10050-10059	particles	_	_	_	
+69-28	10060-10062	do	_	_	_	
+69-29	10063-10067	only	_	_	_	
+69-30	10068-10074	softly	_	_	_	
+69-31	10075-10079	flow	_	_	_	
+69-32	10080-10084	upon	_	_	_	
+69-33	10085-10088	the	_	_	_	
+69-34	10089-10095	Tongue	_	_	_	
+69-35	10095-10096	,	_	_	_	
+69-36	10097-10100	and	_	_	_	
+69-37	10101-10106	lying	_	_	_	
+69-38	10107-10115	sideways	_	_	_	
+69-39	10115-10116	,	_	_	_	
+69-40	10117-10124	because	_	_	_	
+69-41	10125-10127	of	_	_	_	
+69-42	10128-10133	their	_	_	_	
+69-43	10134-10139	easie	_	_	_	
+69-44	10140-10151	pliableness	_	_	_	
+69-45	10152-10155	and	_	_	_	
+69-46	10156-10163	bending	_	_	_	
+69-47	10163-10164	,	_	_	_	
+69-48	10165-10168	are	_	_	_	
+69-49	10169-10177	scarcely	_	_	_	
+69-50	10178-10186	percepti	_	_	_	
+69-51	10186-10187	∣	_	_	_	
+69-52	10187-10190	ble	_	_	_	
+69-53	10191-10193	by	_	_	_	
+69-54	10194-10197	the	_	_	_	
+69-55	10198-10203	Taste	Taste Word	_	_	
+69-56	10203-10204	,	_	_	_	
+69-57	10205-10208	and	_	_	_	
+69-58	10209-10218	therefore	_	_	_	
+69-59	10219-10224	Water	Taste Source	_	_	
+69-60	10225-10227	is	_	_	_	
+69-61	10228-10233	lookt	_	_	_	
+69-62	10234-10236	up	_	_	_	
+69-63	10236-10237	∣	_	_	_	
+69-64	10237-10239	on	_	_	_	
+69-65	10240-10242	as	_	_	_	
+69-66	10243-10250	insipid	Taste Word[87]|Quality[88]	*|*	69-66[88_87]|69-59[0_87]	
+69-67	10250-10251	.	_	_	_	
+
+#Text=Brandy doth bite and vellicate the Tongue, because the particles thereof penetrate most deeply, and are most swiftly moved.
+70-1	10252-10258	Brandy	_	_	_	
+70-2	10259-10263	doth	_	_	_	
+70-3	10264-10268	bite	_	_	_	
+70-4	10269-10272	and	_	_	_	
+70-5	10273-10282	vellicate	_	_	_	
+70-6	10283-10286	the	_	_	_	
+70-7	10287-10293	Tongue	_	_	_	
+70-8	10293-10294	,	_	_	_	
+70-9	10295-10302	because	_	_	_	
+70-10	10303-10306	the	_	_	_	
+70-11	10307-10316	particles	_	_	_	
+70-12	10317-10324	thereof	_	_	_	
+70-13	10325-10334	penetrate	_	_	_	
+70-14	10335-10339	most	_	_	_	
+70-15	10340-10346	deeply	_	_	_	
+70-16	10346-10347	,	_	_	_	
+70-17	10348-10351	and	_	_	_	
+70-18	10352-10355	are	_	_	_	
+70-19	10356-10360	most	_	_	_	
+70-20	10361-10368	swiftly	_	_	_	
+70-21	10369-10374	moved	_	_	_	
+70-22	10374-10375	.	_	_	_	
+
+#Text=And the like account may be given of all other savoury Bodies, which according to the different disposition of their parts, can make different impressions upon the Organ of Tasting.
+71-1	10376-10379	And	_	_	_	
+71-2	10380-10383	the	_	_	_	
+71-3	10384-10388	like	_	_	_	
+71-4	10389-10396	account	_	_	_	
+71-5	10397-10400	may	_	_	_	
+71-6	10401-10403	be	_	_	_	
+71-7	10404-10409	given	_	_	_	
+71-8	10410-10412	of	_	_	_	
+71-9	10413-10416	all	_	_	_	
+71-10	10417-10422	other	_	_	_	
+71-11	10423-10430	savoury	Taste Word[89]|Quality[90]	*|*	71-11[90_89]|71-12[0_89]	
+71-12	10431-10437	Bodies	Taste Source	_	_	
+71-13	10437-10438	,	_	_	_	
+71-14	10439-10444	which	_	_	_	
+71-15	10445-10454	according	_	_	_	
+71-16	10455-10457	to	_	_	_	
+71-17	10458-10461	the	_	_	_	
+71-18	10462-10471	different	_	_	_	
+71-19	10472-10483	disposition	_	_	_	
+71-20	10484-10486	of	_	_	_	
+71-21	10487-10492	their	_	_	_	
+71-22	10493-10498	parts	_	_	_	
+71-23	10498-10499	,	_	_	_	
+71-24	10500-10503	can	_	_	_	
+71-25	10504-10508	make	_	_	_	
+71-26	10509-10518	different	_	_	_	
+71-27	10519-10530	impressions	_	_	_	
+71-28	10531-10535	upon	_	_	_	
+71-29	10536-10539	the	_	_	_	
+71-30	10540-10545	Organ	_	_	_	
+71-31	10546-10548	of	_	_	_	
+71-32	10549-10556	Tasting	Taste Word	_	_	
+71-33	10556-10557	.	_	_	_	
+
+#Text=X.
+72-1	10560-10561	X	_	_	_	
+72-2	10561-10562	.	_	_	_	
+
+#Text=Deceptions of the Taste, and the Causes of them.
+73-1	10563-10573	Deceptions	_	_	_	
+73-2	10574-10576	of	_	_	_	
+73-3	10577-10580	the	_	_	_	
+73-4	10581-10586	Taste	Taste Word	_	_	
+73-5	10586-10587	,	_	_	_	
+73-6	10588-10591	and	_	_	_	
+73-7	10592-10595	the	_	_	_	
+73-8	10596-10602	Causes	_	_	_	
+73-9	10603-10605	of	_	_	_	
+73-10	10606-10610	them	_	_	_	
+73-11	10610-10611	.	_	_	_	
+
+#Text=Sometimes the Taste happens to be mistaken, not about the Affection imprest upon the Organ, but about the Cause from whence it proceeds.
+74-1	10612-10621	Sometimes	_	_	_	
+74-2	10622-10625	the	_	_	_	
+74-3	10626-10631	Taste	Taste Word	*	74-7	
+74-4	10632-10639	happens	_	_	_	
+74-5	10640-10642	to	_	_	_	
+74-6	10643-10645	be	_	_	_	
+74-7	10646-10654	mistaken	Quality	_	_	
+74-8	10654-10655	,	_	_	_	
+74-9	10656-10659	not	_	_	_	
+74-10	10660-10665	about	_	_	_	
+74-11	10666-10669	the	_	_	_	
+74-12	10670-10679	Affection	_	_	_	
+74-13	10680-10687	imprest	_	_	_	
+74-14	10688-10692	upon	_	_	_	
+74-15	10693-10696	the	_	_	_	
+74-16	10697-10702	Organ	_	_	_	
+74-17	10702-10703	,	_	_	_	
+74-18	10704-10707	but	_	_	_	
+74-19	10708-10713	about	_	_	_	
+74-20	10714-10717	the	_	_	_	
+74-21	10718-10723	Cause	_	_	_	
+74-22	10724-10728	from	_	_	_	
+74-23	10729-10735	whence	_	_	_	
+74-24	10736-10738	it	_	_	_	
+74-25	10739-10747	proceeds	_	_	_	
+74-26	10747-10748	.	_	_	_	
+
+#Text=Thus they who are sick of the Jaundies, are not mistaken in that they suppose themselves to per∣ceive a bitter taste; for they do so, because the Gall is mingled with their Spittle; but they are deceived in attributing that bitter Taste to the Food they eat: In the same manner as they suppose the Objects they behold to be yellow, when indeed it is the Gall that depraves their Organ, and makes all the Objects they behold to appear of that Colour.
+75-1	10749-10753	Thus	_	_	_	
+75-2	10754-10758	they	_	_	_	
+75-3	10759-10762	who	Taster[91]	_	_	
+75-4	10763-10766	are	Taster[91]	_	_	
+75-5	10767-10771	sick	Taster[91]	_	_	
+75-6	10772-10774	of	Taster[91]	_	_	
+75-7	10775-10778	the	Taster[91]	_	_	
+75-8	10779-10787	Jaundies	Taster[91]	_	_	
+75-9	10787-10788	,	_	_	_	
+75-10	10789-10792	are	_	_	_	
+75-11	10793-10796	not	_	_	_	
+75-12	10797-10805	mistaken	_	_	_	
+75-13	10806-10808	in	_	_	_	
+75-14	10809-10813	that	_	_	_	
+75-15	10814-10818	they	_	_	_	
+75-16	10819-10826	suppose	_	_	_	
+75-17	10827-10837	themselves	_	_	_	
+75-18	10838-10840	to	_	_	_	
+75-19	10841-10844	per	_	_	_	
+75-20	10844-10845	∣	_	_	_	
+75-21	10845-10850	ceive	_	_	_	
+75-22	10851-10852	a	_	_	_	
+75-23	10853-10859	bitter	Taste Word[92]|Quality[93]	*	75-23[93_92]	
+75-24	10860-10865	taste	Taste Word	*|*	75-23[93_0]|75-3[91_0]	
+75-25	10865-10866	;	_	_	_	
+75-26	10867-10870	for	_	_	_	
+75-27	10871-10875	they	_	_	_	
+75-28	10876-10878	do	_	_	_	
+75-29	10879-10881	so	_	_	_	
+75-30	10881-10882	,	_	_	_	
+75-31	10883-10890	because	_	_	_	
+75-32	10891-10894	the	_	_	_	
+75-33	10895-10899	Gall	_	_	_	
+75-34	10900-10902	is	_	_	_	
+75-35	10903-10910	mingled	_	_	_	
+75-36	10911-10915	with	_	_	_	
+75-37	10916-10921	their	_	_	_	
+75-38	10922-10929	Spittle	_	_	_	
+75-39	10929-10930	;	_	_	_	
+75-40	10931-10934	but	_	_	_	
+75-41	10935-10939	they	_	_	_	
+75-42	10940-10943	are	_	_	_	
+75-43	10944-10952	deceived	_	_	_	
+75-44	10953-10955	in	_	_	_	
+75-45	10956-10967	attributing	_	_	_	
+75-46	10968-10972	that	_	_	_	
+75-47	10973-10979	bitter	Taste Word[94]|Quality[95]	*	75-47[95_94]	
+75-48	10980-10985	Taste	Taste Word	*|*	75-47[95_0]|75-51	
+75-49	10986-10988	to	_	_	_	
+75-50	10989-10992	the	_	_	_	
+75-51	10993-10997	Food	Taste Source	_	_	
+75-52	10998-11002	they	_	_	_	
+75-53	11003-11006	eat	Taste Word	*|*	75-51|75-3[91_0]	
+75-54	11006-11007	:	_	_	_	
+75-55	11008-11010	In	_	_	_	
+75-56	11011-11014	the	_	_	_	
+75-57	11015-11019	same	_	_	_	
+75-58	11020-11026	manner	_	_	_	
+75-59	11027-11029	as	_	_	_	
+75-60	11030-11034	they	_	_	_	
+75-61	11035-11042	suppose	_	_	_	
+75-62	11043-11046	the	_	_	_	
+75-63	11047-11054	Objects	_	_	_	
+75-64	11055-11059	they	_	_	_	
+75-65	11060-11066	behold	_	_	_	
+75-66	11067-11069	to	_	_	_	
+75-67	11070-11072	be	_	_	_	
+75-68	11073-11079	yellow	_	_	_	
+75-69	11079-11080	,	_	_	_	
+75-70	11081-11085	when	_	_	_	
+75-71	11086-11092	indeed	_	_	_	
+75-72	11093-11095	it	_	_	_	
+75-73	11096-11098	is	_	_	_	
+75-74	11099-11102	the	_	_	_	
+75-75	11103-11107	Gall	_	_	_	
+75-76	11108-11112	that	_	_	_	
+75-77	11113-11121	depraves	_	_	_	
+75-78	11122-11127	their	_	_	_	
+75-79	11128-11133	Organ	_	_	_	
+75-80	11133-11134	,	_	_	_	
+75-81	11135-11138	and	_	_	_	
+75-82	11139-11144	makes	_	_	_	
+75-83	11145-11148	all	_	_	_	
+75-84	11149-11152	the	_	_	_	
+75-85	11153-11160	Objects	_	_	_	
+75-86	11161-11165	they	_	_	_	
+75-87	11166-11172	behold	_	_	_	
+75-88	11173-11175	to	_	_	_	
+75-89	11176-11182	appear	_	_	_	
+75-90	11183-11185	of	_	_	_	
+75-91	11186-11190	that	_	_	_	
+75-92	11191-11197	Colour	_	_	_	
+75-93	11197-11198	.	_	_	_	
+
+#Text=And in like manner, sometimes our Meat seems to taste bitter to us, whereas indeed the said sense of Bitterness proceeds either from some Hu∣mour, wherewith the Tongue or Palat is tinged; or from the Vitiating of the Nerves, that are assistant to the Fibres of the Tongue.
+76-1	11199-11202	And	_	_	_	
+76-2	11203-11205	in	_	_	_	
+76-3	11206-11210	like	_	_	_	
+76-4	11211-11217	manner	_	_	_	
+76-5	11217-11218	,	_	_	_	
+76-6	11219-11228	sometimes	_	_	_	
+76-7	11229-11232	our	_	_	_	
+76-8	11233-11237	Meat	Taste Source	_	_	
+76-9	11238-11243	seems	_	_	_	
+76-10	11244-11246	to	_	_	_	
+76-11	11247-11252	taste	Taste Word	*|*|*	76-12[97_0]|76-8|76-14	
+76-12	11253-11259	bitter	Taste Word[96]|Quality[97]	*	76-12[97_96]	
+76-13	11260-11262	to	_	_	_	
+76-14	11263-11265	us	Taster	_	_	
+76-15	11265-11266	,	_	_	_	
+76-16	11267-11274	whereas	_	_	_	
+76-17	11275-11281	indeed	_	_	_	
+76-18	11282-11285	the	_	_	_	
+76-19	11286-11290	said	_	_	_	
+76-20	11291-11296	sense	_	_	_	
+76-21	11297-11299	of	_	_	_	
+76-22	11300-11310	Bitterness	Taste Word	_	_	
+76-23	11311-11319	proceeds	_	_	_	
+76-24	11320-11326	either	_	_	_	
+76-25	11327-11331	from	_	_	_	
+76-26	11332-11336	some	_	_	_	
+76-27	11337-11339	Hu	_	_	_	
+76-28	11339-11340	∣	_	_	_	
+76-29	11340-11344	mour	_	_	_	
+76-30	11344-11345	,	_	_	_	
+76-31	11346-11355	wherewith	_	_	_	
+76-32	11356-11359	the	_	_	_	
+76-33	11360-11366	Tongue	_	_	_	
+76-34	11367-11369	or	_	_	_	
+76-35	11370-11375	Palat	_	_	_	
+76-36	11376-11378	is	_	_	_	
+76-37	11379-11385	tinged	_	_	_	
+76-38	11385-11386	;	_	_	_	
+76-39	11387-11389	or	_	_	_	
+76-40	11390-11394	from	_	_	_	
+76-41	11395-11398	the	_	_	_	
+76-42	11399-11408	Vitiating	_	_	_	
+76-43	11409-11411	of	_	_	_	
+76-44	11412-11415	the	_	_	_	
+76-45	11416-11422	Nerves	_	_	_	
+76-46	11422-11423	,	_	_	_	
+76-47	11424-11428	that	_	_	_	
+76-48	11429-11432	are	_	_	_	
+76-49	11433-11442	assistant	_	_	_	
+76-50	11443-11445	to	_	_	_	
+76-51	11446-11449	the	_	_	_	
+76-52	11450-11456	Fibres	_	_	_	
+76-53	11457-11459	of	_	_	_	
+76-54	11460-11463	the	_	_	_	
+76-55	11464-11470	Tongue	_	_	_	
+76-56	11470-11471	.	_	_	_	
+
+#Text=Yea, it happens sometimes, that we seem to perceive a Taste, without receiving any food, which cannot proceed from any other Cause, but from the de∣fluxion of some Humour that hath such a kind of taste, or from some fault in the Blood, that is conveyed to the Organ of Tasting; as may be demonstrated by many Examples.
+77-1	11472-11475	Yea	_	_	_	
+77-2	11475-11476	,	_	_	_	
+77-3	11477-11479	it	_	_	_	
+77-4	11480-11487	happens	_	_	_	
+77-5	11488-11497	sometimes	_	_	_	
+77-6	11497-11498	,	_	_	_	
+77-7	11499-11503	that	_	_	_	
+77-8	11504-11506	we	_	_	_	
+77-9	11507-11511	seem	_	_	_	
+77-10	11512-11514	to	_	_	_	
+77-11	11515-11523	perceive	_	_	_	
+77-12	11524-11525	a	_	_	_	
+77-13	11526-11531	Taste	Taste Word	*	77-17[98_0]	
+77-14	11531-11532	,	_	_	_	
+77-15	11533-11540	without	_	_	_	
+77-16	11541-11550	receiving	_	_	_	
+77-17	11551-11554	any	Taste Source[98]	_	_	
+77-18	11555-11559	food	Taste Source[98]	_	_	
+77-19	11559-11560	,	_	_	_	
+77-20	11561-11566	which	_	_	_	
+77-21	11567-11573	cannot	_	_	_	
+77-22	11574-11581	proceed	_	_	_	
+77-23	11582-11586	from	_	_	_	
+77-24	11587-11590	any	_	_	_	
+77-25	11591-11596	other	_	_	_	
+77-26	11597-11602	Cause	_	_	_	
+77-27	11602-11603	,	_	_	_	
+77-28	11604-11607	but	_	_	_	
+77-29	11608-11612	from	_	_	_	
+77-30	11613-11616	the	_	_	_	
+77-31	11617-11619	de	_	_	_	
+77-32	11619-11620	∣	_	_	_	
+77-33	11620-11627	fluxion	_	_	_	
+77-34	11628-11630	of	_	_	_	
+77-35	11631-11635	some	_	_	_	
+77-36	11636-11642	Humour	_	_	_	
+77-37	11643-11647	that	_	_	_	
+77-38	11648-11652	hath	_	_	_	
+77-39	11653-11657	such	_	_	_	
+77-40	11658-11659	a	_	_	_	
+77-41	11660-11664	kind	_	_	_	
+77-42	11665-11667	of	_	_	_	
+77-43	11668-11673	taste	Taste Word	_	_	
+77-44	11673-11674	,	_	_	_	
+77-45	11675-11677	or	_	_	_	
+77-46	11678-11682	from	_	_	_	
+77-47	11683-11687	some	_	_	_	
+77-48	11688-11693	fault	_	_	_	
+77-49	11694-11696	in	_	_	_	
+77-50	11697-11700	the	_	_	_	
+77-51	11701-11706	Blood	_	_	_	
+77-52	11706-11707	,	_	_	_	
+77-53	11708-11712	that	_	_	_	
+77-54	11713-11715	is	_	_	_	
+77-55	11716-11724	conveyed	_	_	_	
+77-56	11725-11727	to	_	_	_	
+77-57	11728-11731	the	_	_	_	
+77-58	11732-11737	Organ	_	_	_	
+77-59	11738-11740	of	_	_	_	
+77-60	11741-11748	Tasting	Taste Word	_	_	
+77-61	11748-11749	;	_	_	_	
+77-62	11750-11752	as	_	_	_	
+77-63	11753-11756	may	_	_	_	
+77-64	11757-11759	be	_	_	_	
+77-65	11760-11772	demonstrated	_	_	_	
+77-66	11773-11775	by	_	_	_	
+77-67	11776-11780	many	_	_	_	
+77-68	11781-11789	Examples	_	_	_	
+77-69	11789-11790	.	_	_	_	
+
+#Text=Because the particles of Hard Bodies cannot be separated from each other, and consequently be mingled with the Spittle in our Mouths.
+78-1	11793-11800	Because	_	_	_	
+78-2	11801-11804	the	_	_	_	
+78-3	11805-11814	particles	_	_	_	
+78-4	11815-11817	of	_	_	_	
+78-5	11818-11822	Hard	_	_	_	
+78-6	11823-11829	Bodies	_	_	_	
+78-7	11830-11836	cannot	_	_	_	
+78-8	11837-11839	be	_	_	_	
+78-9	11840-11849	separated	_	_	_	
+78-10	11850-11854	from	_	_	_	
+78-11	11855-11859	each	_	_	_	
+78-12	11860-11865	other	_	_	_	
+78-13	11865-11866	,	_	_	_	
+78-14	11867-11870	and	_	_	_	
+78-15	11871-11883	consequently	_	_	_	
+78-16	11884-11886	be	_	_	_	
+78-17	11887-11894	mingled	_	_	_	
+78-18	11895-11899	with	_	_	_	
+78-19	11900-11903	the	_	_	_	
+78-20	11904-11911	Spittle	_	_	_	
+78-21	11912-11914	in	_	_	_	
+78-22	11915-11918	our	_	_	_	
+78-23	11919-11925	Mouths	_	_	_	
+78-24	11925-11926	.	_	_	_	
+
+#Text=For when Bodies are so compact that they cannot dis∣solve and furnish those particles, which by the Vehicle of Moisture, may be conveyed into the pores of our Tongue, no wonder if they be insipid.
+79-1	11927-11930	For	_	_	_	
+79-2	11931-11935	when	_	_	_	
+79-3	11936-11942	Bodies	_	_	_	
+79-4	11943-11946	are	_	_	_	
+79-5	11947-11949	so	_	_	_	
+79-6	11950-11957	compact	_	_	_	
+79-7	11958-11962	that	_	_	_	
+79-8	11963-11967	they	_	_	_	
+79-9	11968-11974	cannot	_	_	_	
+79-10	11975-11978	dis	_	_	_	
+79-11	11978-11979	∣	_	_	_	
+79-12	11979-11984	solve	_	_	_	
+79-13	11985-11988	and	_	_	_	
+79-14	11989-11996	furnish	_	_	_	
+79-15	11997-12002	those	_	_	_	
+79-16	12003-12012	particles	_	_	_	
+79-17	12012-12013	,	_	_	_	
+79-18	12014-12019	which	_	_	_	
+79-19	12020-12022	by	_	_	_	
+79-20	12023-12026	the	_	_	_	
+79-21	12027-12034	Vehicle	_	_	_	
+79-22	12035-12037	of	_	_	_	
+79-23	12038-12046	Moisture	_	_	_	
+79-24	12046-12047	,	_	_	_	
+79-25	12048-12051	may	_	_	_	
+79-26	12052-12054	be	_	_	_	
+79-27	12055-12063	conveyed	_	_	_	
+79-28	12064-12068	into	_	_	_	
+79-29	12069-12072	the	_	_	_	
+79-30	12073-12078	pores	_	_	_	
+79-31	12079-12081	of	_	_	_	
+79-32	12082-12085	our	_	_	_	
+79-33	12086-12092	Tongue	_	_	_	
+79-34	12092-12093	,	_	_	_	
+79-35	12094-12096	no	_	_	_	
+79-36	12097-12103	wonder	_	_	_	
+79-37	12104-12106	if	_	_	_	
+79-38	12107-12111	they	_	_	_	
+79-39	12112-12114	be	_	_	_	
+79-40	12115-12122	insipid	Taste Word[99]|Quality[100]	*	79-40[100_99]	
+79-41	12122-12123	.	_	_	_	
+
+#Text=For tho '  Sugar, when melted, affords a sweet taste; yet when the same is brought into solid and compact pieces, it affords no taste at all, because its parts cannot readily be separated, to impress any taste upon the Organ.
+80-1	12124-12127	For	_	_	_	
+80-2	12128-12131	tho	_	_	_	
+80-3	12132-12133	'	_	_	_	
+80-4	12135-12140	Sugar	Taste Source	_	_	
+80-5	12140-12141	,	_	_	_	
+80-6	12142-12146	when	Circumstance[101]	_	_	
+80-7	12147-12153	melted	Circumstance[101]	_	_	
+80-8	12153-12154	,	_	_	_	
+80-9	12155-12162	affords	_	_	_	
+80-10	12163-12164	a	_	_	_	
+80-11	12165-12170	sweet	Taste Word[102]|Quality[103]	*	80-11[103_102]	
+80-12	12171-12176	taste	Taste Word	*|*|*	80-6[101_0]|80-4|80-11[103_0]	
+80-13	12176-12177	;	_	_	_	
+80-14	12178-12181	yet	_	_	_	
+80-15	12182-12186	when	Circumstance[104]	_	_	
+80-16	12187-12190	the	Circumstance[104]	_	_	
+80-17	12191-12195	same	Circumstance[104]	_	_	
+80-18	12196-12198	is	Circumstance[104]	_	_	
+80-19	12199-12206	brought	Circumstance[104]	_	_	
+80-20	12207-12211	into	Circumstance[104]	_	_	
+80-21	12212-12217	solid	Circumstance[104]	_	_	
+80-22	12218-12221	and	Circumstance[104]	_	_	
+80-23	12222-12229	compact	Circumstance[104]	_	_	
+80-24	12230-12236	pieces	Circumstance[104]	_	_	
+80-25	12236-12237	,	_	_	_	
+80-26	12238-12240	it	_	_	_	
+80-27	12241-12248	affords	_	_	_	
+80-28	12249-12251	no	_	_	_	
+80-29	12252-12257	taste	Taste Word	*|*	80-4|80-15[104_0]	
+80-30	12258-12260	at	_	_	_	
+80-31	12261-12264	all	_	_	_	
+80-32	12264-12265	,	_	_	_	
+80-33	12266-12273	because	_	_	_	
+80-34	12274-12277	its	_	_	_	
+80-35	12278-12283	parts	_	_	_	
+80-36	12284-12290	cannot	_	_	_	
+80-37	12291-12298	readily	_	_	_	
+80-38	12299-12301	be	_	_	_	
+80-39	12302-12311	separated	_	_	_	
+80-40	12311-12312	,	_	_	_	
+80-41	12313-12315	to	_	_	_	
+80-42	12316-12323	impress	_	_	_	
+80-43	12324-12327	any	Quality	_	_	
+80-44	12328-12333	taste	Taste Word	*|*|*	80-43|80-4|80-15[104_0]	
+80-45	12334-12338	upon	_	_	_	
+80-46	12339-12342	the	_	_	_	
+80-47	12343-12348	Organ	_	_	_	
+80-48	12348-12349	.	_	_	_	
+
+#Text=So for the same Reason Pills, when they are swallowed whole, are scarcely per∣ceived, because they do not stay long enough to have their outward parts dissolved, without which they cannot affect the Organ of Taste.
+81-1	12350-12352	So	_	_	_	
+81-2	12353-12356	for	_	_	_	
+81-3	12357-12360	the	_	_	_	
+81-4	12361-12365	same	_	_	_	
+81-5	12366-12372	Reason	_	_	_	
+81-6	12373-12378	Pills	_	_	_	
+81-7	12378-12379	,	_	_	_	
+81-8	12380-12384	when	_	_	_	
+81-9	12385-12389	they	_	_	_	
+81-10	12390-12393	are	_	_	_	
+81-11	12394-12403	swallowed	_	_	_	
+81-12	12404-12409	whole	_	_	_	
+81-13	12409-12410	,	_	_	_	
+81-14	12411-12414	are	_	_	_	
+81-15	12415-12423	scarcely	_	_	_	
+81-16	12424-12427	per	_	_	_	
+81-17	12427-12428	∣	_	_	_	
+81-18	12428-12434	ceived	_	_	_	
+81-19	12434-12435	,	_	_	_	
+81-20	12436-12443	because	_	_	_	
+81-21	12444-12448	they	_	_	_	
+81-22	12449-12451	do	_	_	_	
+81-23	12452-12455	not	_	_	_	
+81-24	12456-12460	stay	_	_	_	
+81-25	12461-12465	long	_	_	_	
+81-26	12466-12472	enough	_	_	_	
+81-27	12473-12475	to	_	_	_	
+81-28	12476-12480	have	_	_	_	
+81-29	12481-12486	their	_	_	_	
+81-30	12487-12494	outward	_	_	_	
+81-31	12495-12500	parts	_	_	_	
+81-32	12501-12510	dissolved	_	_	_	
+81-33	12510-12511	,	_	_	_	
+81-34	12512-12519	without	_	_	_	
+81-35	12520-12525	which	_	_	_	
+81-36	12526-12530	they	_	_	_	
+81-37	12531-12537	cannot	_	_	_	
+81-38	12538-12544	affect	_	_	_	
+81-39	12545-12548	the	_	_	_	
+81-40	12549-12554	Organ	_	_	_	
+81-41	12555-12557	of	_	_	_	
+81-42	12558-12563	Taste	Taste Word	_	_	
+81-43	12563-12564	.	_	_	_	
+
+#Text=Thus Turpentine boiled, and made into Pow∣der, is lookt upon to be insipid; because the more subtil parts of it cannot be diffused or mingled with the Spittle: Whereas in its Liquid form, it exhibits a bitter taste.
+82-1	12567-12571	Thus	_	_	_	
+82-2	12572-12582	Turpentine	Taste Source	_	_	
+82-3	12583-12589	boiled	Circumstance	_	_	
+82-4	12589-12590	,	_	_	_	
+82-5	12591-12594	and	_	_	_	
+82-6	12595-12599	made	_	_	_	
+82-7	12600-12604	into	_	_	_	
+82-8	12605-12608	Pow	_	_	_	
+82-9	12608-12609	∣	_	_	_	
+82-10	12609-12612	der	_	_	_	
+82-11	12612-12613	,	_	_	_	
+82-12	12614-12616	is	_	_	_	
+82-13	12617-12622	lookt	_	_	_	
+82-14	12623-12627	upon	_	_	_	
+82-15	12628-12630	to	_	_	_	
+82-16	12631-12633	be	_	_	_	
+82-17	12634-12641	insipid	Taste Word[105]|Quality[106]	*|*|*	82-17[106_105]|82-2[0_105]|82-3[0_105]	
+82-18	12641-12642	;	_	_	_	
+82-19	12643-12650	because	_	_	_	
+82-20	12651-12654	the	_	_	_	
+82-21	12655-12659	more	_	_	_	
+82-22	12660-12666	subtil	_	_	_	
+82-23	12667-12672	parts	_	_	_	
+82-24	12673-12675	of	_	_	_	
+82-25	12676-12678	it	_	_	_	
+82-26	12679-12685	cannot	_	_	_	
+82-27	12686-12688	be	_	_	_	
+82-28	12689-12697	diffused	_	_	_	
+82-29	12698-12700	or	_	_	_	
+82-30	12701-12708	mingled	_	_	_	
+82-31	12709-12713	with	_	_	_	
+82-32	12714-12717	the	_	_	_	
+82-33	12718-12725	Spittle	_	_	_	
+82-34	12725-12726	:	_	_	_	
+82-35	12727-12734	Whereas	_	_	_	
+82-36	12735-12737	in	Circumstance[107]	_	_	
+82-37	12738-12741	its	Circumstance[107]	_	_	
+82-38	12742-12748	Liquid	Circumstance[107]	_	_	
+82-39	12749-12753	form	Circumstance[107]	_	_	
+82-40	12753-12754	,	_	_	_	
+82-41	12755-12757	it	_	_	_	
+82-42	12758-12766	exhibits	_	_	_	
+82-43	12767-12768	a	_	_	_	
+82-44	12769-12775	bitter	Taste Word[108]|Quality[109]	*	82-44[109_108]	
+82-45	12776-12781	taste	Taste Word	*|*|*	82-36[107_0]|82-44[109_0]|82-2	
+82-46	12781-12782	.	_	_	_	
+
+#Text=So that Experience teach∣eth us, that nothing else is wanting in these Bodies, to make them Savoury, but only the division of their parts; seeing that the Salts which enter the Composition of Glass, were savoury before they were compacted into that hard consistence, and that Metals reduc ' d into very small powder, tho '  before they were insipid, do now yield a most strong and intolerable taste.
+83-1	12783-12785	So	_	_	_	
+83-2	12786-12790	that	_	_	_	
+83-3	12791-12801	Experience	_	_	_	
+83-4	12802-12807	teach	_	_	_	
+83-5	12807-12808	∣	_	_	_	
+83-6	12808-12811	eth	_	_	_	
+83-7	12812-12814	us	_	_	_	
+83-8	12814-12815	,	_	_	_	
+83-9	12816-12820	that	_	_	_	
+83-10	12821-12828	nothing	_	_	_	
+83-11	12829-12833	else	_	_	_	
+83-12	12834-12836	is	_	_	_	
+83-13	12837-12844	wanting	_	_	_	
+83-14	12845-12847	in	_	_	_	
+83-15	12848-12853	these	Taste Source[110]	_	_	
+83-16	12854-12860	Bodies	Taste Source[110]	_	_	
+83-17	12860-12861	,	_	_	_	
+83-18	12862-12864	to	_	_	_	
+83-19	12865-12869	make	_	_	_	
+83-20	12870-12874	them	_	_	_	
+83-21	12875-12882	Savoury	Taste Word[111]|Quality[112]	*|*	83-21[112_111]|83-15[110_111]	
+83-22	12882-12883	,	_	_	_	
+83-23	12884-12887	but	_	_	_	
+83-24	12888-12892	only	_	_	_	
+83-25	12893-12896	the	_	_	_	
+83-26	12897-12905	division	_	_	_	
+83-27	12906-12908	of	_	_	_	
+83-28	12909-12914	their	_	_	_	
+83-29	12915-12920	parts	_	_	_	
+83-30	12920-12921	;	_	_	_	
+83-31	12922-12928	seeing	_	_	_	
+83-32	12929-12933	that	_	_	_	
+83-33	12934-12937	the	Taste Source[113]	_	_	
+83-34	12938-12943	Salts	Taste Source[113]	_	_	
+83-35	12944-12949	which	_	_	_	
+83-36	12950-12955	enter	_	_	_	
+83-37	12956-12959	the	_	_	_	
+83-38	12960-12971	Composition	_	_	_	
+83-39	12972-12974	of	_	_	_	
+83-40	12975-12980	Glass	_	_	_	
+83-41	12980-12981	,	_	_	_	
+83-42	12982-12986	were	_	_	_	
+83-43	12987-12994	savoury	Taste Word[114]|Quality[115]	*|*|*	83-43[115_114]|83-33[113_114]|83-44[116_114]	
+83-44	12995-13001	before	Circumstance[116]	_	_	
+83-45	13002-13006	they	Circumstance[116]	_	_	
+83-46	13007-13011	were	Circumstance[116]	_	_	
+83-47	13012-13021	compacted	Circumstance[116]	_	_	
+83-48	13022-13026	into	Circumstance[116]	_	_	
+83-49	13027-13031	that	Circumstance[116]	_	_	
+83-50	13032-13036	hard	Circumstance[116]	_	_	
+83-51	13037-13048	consistence	Circumstance[116]	_	_	
+83-52	13048-13049	,	_	_	_	
+83-53	13050-13053	and	_	_	_	
+83-54	13054-13058	that	_	_	_	
+83-55	13059-13065	Metals	Taste Source	_	_	
+83-56	13066-13071	reduc	Circumstance[117]	_	_	
+83-57	13072-13073	'	Circumstance[117]	_	_	
+83-58	13074-13075	d	Circumstance[117]	_	_	
+83-59	13076-13080	into	Circumstance[117]	_	_	
+83-60	13081-13085	very	Circumstance[117]	_	_	
+83-61	13086-13091	small	Circumstance[117]	_	_	
+83-62	13092-13098	powder	Circumstance[117]	_	_	
+83-63	13098-13099	,	_	_	_	
+83-64	13100-13103	tho	_	_	_	
+83-65	13104-13105	'	_	_	_	
+83-66	13107-13113	before	_	_	_	
+83-67	13114-13118	they	_	_	_	
+83-68	13119-13123	were	_	_	_	
+83-69	13124-13131	insipid	Taste Word[118]|Quality[119]	*|*|*	83-69[119_118]|83-56[117_118]|83-55[0_118]	
+83-70	13131-13132	,	_	_	_	
+83-71	13133-13135	do	_	_	_	
+83-72	13136-13139	now	_	_	_	
+83-73	13140-13145	yield	_	_	_	
+83-74	13146-13147	a	_	_	_	
+83-75	13148-13152	most	Quality[120]	_	_	
+83-76	13153-13159	strong	Quality[120]	_	_	
+83-77	13160-13163	and	_	_	_	
+83-78	13164-13175	intolerable	Quality	_	_	
+83-79	13176-13181	taste	Taste Word	*|*|*|*	83-78|83-75[120_0]|83-55|83-56[117_0]	
+83-80	13181-13182	.	_	_	_	
+
+#Text=II.
+84-1	13185-13187	II	_	_	_	
+84-2	13187-13188	.	_	_	_	
+
+#Text=VVhy Bo∣dies are distinguisht by Taste.
+85-1	13189-13193	VVhy	_	_	_	
+85-2	13194-13196	Bo	Taste Source[121]	_	_	
+85-3	13196-13197	∣	Taste Source[121]	_	_	
+85-4	13197-13201	dies	Taste Source[121]	_	_	
+85-5	13202-13205	are	_	_	_	
+85-6	13206-13218	distinguisht	_	_	_	
+85-7	13219-13221	by	_	_	_	
+85-8	13222-13227	Taste	Taste Word	*	85-2[121_0]	
+85-9	13227-13228	.	_	_	_	
+
+#Text=Almost all Bodies are distinguishable by their tastes; as Honey is sweet, Wormwood bitter, &amp;c.
+86-1	13229-13235	Almost	_	_	_	
+86-2	13236-13239	all	Taste Source[122]	_	_	
+86-3	13240-13246	Bodies	Taste Source[122]	_	_	
+86-4	13247-13250	are	_	_	_	
+86-5	13251-13266	distinguishable	_	_	_	
+86-6	13267-13269	by	_	_	_	
+86-7	13270-13275	their	_	_	_	
+86-8	13276-13282	tastes	Taste Word	*	86-2[122_0]	
+86-9	13282-13283	;	_	_	_	
+86-10	13284-13286	as	_	_	_	
+86-11	13287-13292	Honey	Taste Source	_	_	
+86-12	13293-13295	is	_	_	_	
+86-13	13296-13301	sweet	Taste Word[123]|Quality[124]	*|*	86-13[124_123]|86-11[0_123]	
+86-14	13301-13302	,	_	_	_	
+86-15	13303-13311	Wormwood	Taste Source	_	_	
+86-16	13312-13318	bitter	Taste Word[125]|Quality[126]	*|*	86-16[126_125]|86-15[0_125]	
+86-17	13318-13319	,	_	_	_	
+86-18	13320-13321	&	_	_	_	
+86-19	13321-13324	amp	_	_	_	
+86-20	13324-13325	;	_	_	_	
+86-21	13325-13326	c	_	_	_	
+86-22	13326-13327	.	_	_	_	
+
+#Text=The general Cause of all Tastes and Savours depends on the greatness and figures of the parts of savoury Bodies, which are capable of being diversified after an infinite manner of ways: And forasmuch as Bodies are in a manner all of them composed of parts that are of a different bigness and figure, it must not seem strange to us, that we meet with so great a variety of Tastes.
+87-1	13330-13333	The	_	_	_	
+87-2	13334-13341	general	_	_	_	
+87-3	13342-13347	Cause	_	_	_	
+87-4	13348-13350	of	_	_	_	
+87-5	13351-13354	all	_	_	_	
+87-6	13355-13361	Tastes	Taste Word	_	_	
+87-7	13362-13365	and	_	_	_	
+87-8	13366-13373	Savours	Taste Word	_	_	
+87-9	13374-13381	depends	_	_	_	
+87-10	13382-13384	on	_	_	_	
+87-11	13385-13388	the	_	_	_	
+87-12	13389-13398	greatness	_	_	_	
+87-13	13399-13402	and	_	_	_	
+87-14	13403-13410	figures	_	_	_	
+87-15	13411-13413	of	_	_	_	
+87-16	13414-13417	the	_	_	_	
+87-17	13418-13423	parts	_	_	_	
+87-18	13424-13426	of	_	_	_	
+87-19	13427-13434	savoury	Taste Word[127]|Quality[128]	*|*	87-19[128_127]|87-20[0_127]	
+87-20	13435-13441	Bodies	Taste Source	_	_	
+87-21	13441-13442	,	_	_	_	
+87-22	13443-13448	which	_	_	_	
+87-23	13449-13452	are	_	_	_	
+87-24	13453-13460	capable	_	_	_	
+87-25	13461-13463	of	_	_	_	
+87-26	13464-13469	being	_	_	_	
+87-27	13470-13481	diversified	_	_	_	
+87-28	13482-13487	after	_	_	_	
+87-29	13488-13490	an	_	_	_	
+87-30	13491-13499	infinite	_	_	_	
+87-31	13500-13506	manner	_	_	_	
+87-32	13507-13509	of	_	_	_	
+87-33	13510-13514	ways	_	_	_	
+87-34	13514-13515	:	_	_	_	
+87-35	13516-13519	And	_	_	_	
+87-36	13520-13529	forasmuch	_	_	_	
+87-37	13530-13532	as	_	_	_	
+87-38	13533-13539	Bodies	_	_	_	
+87-39	13540-13543	are	_	_	_	
+87-40	13544-13546	in	_	_	_	
+87-41	13547-13548	a	_	_	_	
+87-42	13549-13555	manner	_	_	_	
+87-43	13556-13559	all	_	_	_	
+87-44	13560-13562	of	_	_	_	
+87-45	13563-13567	them	_	_	_	
+87-46	13568-13576	composed	_	_	_	
+87-47	13577-13579	of	_	_	_	
+87-48	13580-13585	parts	_	_	_	
+87-49	13586-13590	that	_	_	_	
+87-50	13591-13594	are	_	_	_	
+87-51	13595-13597	of	_	_	_	
+87-52	13598-13599	a	_	_	_	
+87-53	13600-13609	different	_	_	_	
+87-54	13610-13617	bigness	_	_	_	
+87-55	13618-13621	and	_	_	_	
+87-56	13622-13628	figure	_	_	_	
+87-57	13628-13629	,	_	_	_	
+87-58	13630-13632	it	_	_	_	
+87-59	13633-13637	must	_	_	_	
+87-60	13638-13641	not	_	_	_	
+87-61	13642-13646	seem	_	_	_	
+87-62	13647-13654	strange	_	_	_	
+87-63	13655-13657	to	_	_	_	
+87-64	13658-13660	us	_	_	_	
+87-65	13660-13661	,	_	_	_	
+87-66	13662-13666	that	_	_	_	
+87-67	13667-13669	we	_	_	_	
+87-68	13670-13674	meet	_	_	_	
+87-69	13675-13679	with	_	_	_	
+87-70	13680-13682	so	_	_	_	
+87-71	13683-13688	great	_	_	_	
+87-72	13689-13690	a	_	_	_	
+87-73	13691-13698	variety	_	_	_	
+87-74	13699-13701	of	_	_	_	
+87-75	13702-13708	Tastes	Taste Word	_	_	
+87-76	13708-13709	.	_	_	_	
+
+#Text=III.
+88-1	13712-13715	III	_	_	_	
+88-2	13715-13716	.	_	_	_	
+
+#Text=Hot Meat is more savoury than cold Meat.
+89-1	13717-13720	Hot	Taste Source[129]	_	_	
+89-2	13721-13725	Meat	Taste Source[129]	_	_	
+89-3	13726-13728	is	_	_	_	
+89-4	13729-13733	more	Quality	_	_	
+89-5	13734-13741	savoury	Taste Word[130]|Quality[131]	*|*|*|*	89-5[131_130]|89-4[0_130]|89-1[129_130]|89-6[132_130]	
+89-6	13742-13746	than	Evoked Taste[132]	_	_	
+89-7	13747-13751	cold	Evoked Taste[132]	_	_	
+89-8	13752-13756	Meat	Evoked Taste[132]	_	_	
+89-9	13756-13757	.	_	_	_	
+
+#Text=This difference of Tastes, is sometimes caused by the various agitation of the parts of Bodies; for we experience that hot Meat is more savoury than cold, because heat increaseth the motion ofthe parts of the Body; and besides, it is certain, that the more any Body is moved, the more fit it is to move another Body that toucheth it: And there∣fore it connot seem strange, that Meats, when hot, are a great deal more savoury to us, than when they are cold.
+90-1	13758-13762	This	_	_	_	
+90-2	13763-13773	difference	_	_	_	
+90-3	13774-13776	of	_	_	_	
+90-4	13777-13783	Tastes	Taste Word	_	_	
+90-5	13783-13784	,	_	_	_	
+90-6	13785-13787	is	_	_	_	
+90-7	13788-13797	sometimes	_	_	_	
+90-8	13798-13804	caused	_	_	_	
+90-9	13805-13807	by	_	_	_	
+90-10	13808-13811	the	_	_	_	
+90-11	13812-13819	various	_	_	_	
+90-12	13820-13829	agitation	_	_	_	
+90-13	13830-13832	of	_	_	_	
+90-14	13833-13836	the	_	_	_	
+90-15	13837-13842	parts	_	_	_	
+90-16	13843-13845	of	_	_	_	
+90-17	13846-13852	Bodies	_	_	_	
+90-18	13852-13853	;	_	_	_	
+90-19	13854-13857	for	_	_	_	
+90-20	13858-13860	we	_	_	_	
+90-21	13861-13871	experience	_	_	_	
+90-22	13872-13876	that	_	_	_	
+90-23	13877-13880	hot	Taste Source[133]	_	_	
+90-24	13881-13885	Meat	Taste Source[133]	_	_	
+90-25	13886-13888	is	_	_	_	
+90-26	13889-13893	more	Quality	_	_	
+90-27	13894-13901	savoury	Taste Word[134]|Quality[135]	*|*|*	90-27[135_134]|90-26[0_134]|90-23[133_134]	
+90-28	13902-13906	than	_	_	_	
+90-29	13907-13911	cold	_	_	_	
+90-30	13911-13912	,	_	_	_	
+90-31	13913-13920	because	_	_	_	
+90-32	13921-13925	heat	_	_	_	
+90-33	13926-13936	increaseth	_	_	_	
+90-34	13937-13940	the	_	_	_	
+90-35	13941-13947	motion	_	_	_	
+90-36	13948-13953	ofthe	_	_	_	
+90-37	13954-13959	parts	_	_	_	
+90-38	13960-13962	of	_	_	_	
+90-39	13963-13966	the	_	_	_	
+90-40	13967-13971	Body	_	_	_	
+90-41	13971-13972	;	_	_	_	
+90-42	13973-13976	and	_	_	_	
+90-43	13977-13984	besides	_	_	_	
+90-44	13984-13985	,	_	_	_	
+90-45	13986-13988	it	_	_	_	
+90-46	13989-13991	is	_	_	_	
+90-47	13992-13999	certain	_	_	_	
+90-48	13999-14000	,	_	_	_	
+90-49	14001-14005	that	_	_	_	
+90-50	14006-14009	the	_	_	_	
+90-51	14010-14014	more	_	_	_	
+90-52	14015-14018	any	_	_	_	
+90-53	14019-14023	Body	_	_	_	
+90-54	14024-14026	is	_	_	_	
+90-55	14027-14032	moved	_	_	_	
+90-56	14032-14033	,	_	_	_	
+90-57	14034-14037	the	_	_	_	
+90-58	14038-14042	more	_	_	_	
+90-59	14043-14046	fit	_	_	_	
+90-60	14047-14049	it	_	_	_	
+90-61	14050-14052	is	_	_	_	
+90-62	14053-14055	to	_	_	_	
+90-63	14056-14060	move	_	_	_	
+90-64	14061-14068	another	_	_	_	
+90-65	14069-14073	Body	_	_	_	
+90-66	14074-14078	that	_	_	_	
+90-67	14079-14087	toucheth	_	_	_	
+90-68	14088-14090	it	_	_	_	
+90-69	14090-14091	:	_	_	_	
+90-70	14092-14095	And	_	_	_	
+90-71	14096-14101	there	_	_	_	
+90-72	14101-14102	∣	_	_	_	
+90-73	14102-14106	fore	_	_	_	
+90-74	14107-14109	it	_	_	_	
+90-75	14110-14116	connot	_	_	_	
+90-76	14117-14121	seem	_	_	_	
+90-77	14122-14129	strange	_	_	_	
+90-78	14129-14130	,	_	_	_	
+90-79	14131-14135	that	_	_	_	
+90-80	14136-14141	Meats	Taste Source	_	_	
+90-81	14141-14142	,	_	_	_	
+90-82	14143-14147	when	Circumstance[136]	_	_	
+90-83	14148-14151	hot	Circumstance[136]	_	_	
+90-84	14151-14152	,	_	_	_	
+90-85	14153-14156	are	_	_	_	
+90-86	14157-14158	a	_	_	_	
+90-87	14159-14164	great	_	_	_	
+90-88	14165-14169	deal	_	_	_	
+90-89	14170-14174	more	Quality	_	_	
+90-90	14175-14182	savoury	Taste Word[137]|Quality[138]	*|*|*|*	90-90[138_137]|90-89[0_137]|90-80[0_137]|90-82[136_137]	
+90-91	14183-14185	to	_	_	_	
+90-92	14186-14188	us	_	_	_	
+90-93	14188-14189	,	_	_	_	
+90-94	14190-14194	than	_	_	_	
+90-95	14195-14199	when	_	_	_	
+90-96	14200-14204	they	_	_	_	
+90-97	14205-14208	are	_	_	_	
+90-98	14209-14213	cold	_	_	_	
+90-99	14213-14214	.	_	_	_	
+
+#Text=This is the Reason also why dressed Meats are far more savoury than raw, because the heat of the fire that dresseth them, divides them into lesser parts, whereby their figures are changed, and so make them to be of a very different Taste from what they were, when Raw.
+91-1	14215-14219	This	_	_	_	
+91-2	14220-14222	is	_	_	_	
+91-3	14223-14226	the	_	_	_	
+91-4	14227-14233	Reason	_	_	_	
+91-5	14234-14238	also	_	_	_	
+91-6	14239-14242	why	_	_	_	
+91-7	14243-14250	dressed	Taste Source[139]	_	_	
+91-8	14251-14256	Meats	Taste Source[139]	_	_	
+91-9	14257-14260	are	_	_	_	
+91-10	14261-14264	far	Quality[140]	_	_	
+91-11	14265-14269	more	Quality[140]	_	_	
+91-12	14270-14277	savoury	Taste Word[141]|Quality[142]	*|*|*|*	91-12[142_141]|91-10[140_141]|91-7[139_141]|91-13[143_141]	
+91-13	14278-14282	than	Evoked Taste[143]	_	_	
+91-14	14283-14286	raw	Evoked Taste[143]	_	_	
+91-15	14286-14287	,	_	_	_	
+91-16	14288-14295	because	_	_	_	
+91-17	14296-14299	the	_	_	_	
+91-18	14300-14304	heat	_	_	_	
+91-19	14305-14307	of	_	_	_	
+91-20	14308-14311	the	_	_	_	
+91-21	14312-14316	fire	_	_	_	
+91-22	14317-14321	that	_	_	_	
+91-23	14322-14330	dresseth	_	_	_	
+91-24	14331-14335	them	_	_	_	
+91-25	14335-14336	,	_	_	_	
+91-26	14337-14344	divides	_	_	_	
+91-27	14345-14349	them	_	_	_	
+91-28	14350-14354	into	_	_	_	
+91-29	14355-14361	lesser	_	_	_	
+91-30	14362-14367	parts	_	_	_	
+91-31	14367-14368	,	_	_	_	
+91-32	14369-14376	whereby	_	_	_	
+91-33	14377-14382	their	_	_	_	
+91-34	14383-14390	figures	_	_	_	
+91-35	14391-14394	are	_	_	_	
+91-36	14395-14402	changed	_	_	_	
+91-37	14402-14403	,	_	_	_	
+91-38	14404-14407	and	_	_	_	
+91-39	14408-14410	so	_	_	_	
+91-40	14411-14415	make	_	_	_	
+91-41	14416-14420	them	_	_	_	
+91-42	14421-14423	to	_	_	_	
+91-43	14424-14426	be	_	_	_	
+91-44	14427-14429	of	_	_	_	
+91-45	14430-14431	a	_	_	_	
+91-46	14432-14436	very	Quality[144]	_	_	
+91-47	14437-14446	different	Quality[144]	_	_	
+91-48	14447-14452	Taste	Taste Word	*|*	91-46[144_0]|91-54[145_0]	
+91-49	14453-14457	from	_	_	_	
+91-50	14458-14462	what	_	_	_	
+91-51	14463-14467	they	_	_	_	
+91-52	14468-14472	were	_	_	_	
+91-53	14472-14473	,	_	_	_	
+91-54	14474-14478	when	Circumstance[145]	_	_	
+91-55	14479-14482	Raw	Circumstance[145]	_	_	
+91-56	14482-14483	.	_	_	_	
+
+#Text=IV.
+92-1	14486-14488	IV	_	_	_	
+92-2	14488-14489	.	_	_	_	
+
+#Text=Sweet things do sooner cloy the Sto∣mach, than Meat of a sharp taste.
+93-1	14490-14495	Sweet	Taste Word[146]|Quality[147]	*|*	93-1[147_146]|93-2[0_146]	
+93-2	14496-14502	things	Taste Source	_	_	
+93-3	14503-14505	do	_	_	_	
+93-4	14506-14512	sooner	_	_	_	
+93-5	14513-14517	cloy	_	_	_	
+93-6	14518-14521	the	_	_	_	
+93-7	14522-14525	Sto	_	_	_	
+93-8	14525-14526	∣	_	_	_	
+93-9	14526-14530	mach	_	_	_	
+93-10	14530-14531	,	_	_	_	
+93-11	14532-14536	than	_	_	_	
+93-12	14537-14541	Meat	Taste Source	_	_	
+93-13	14542-14544	of	_	_	_	
+93-14	14545-14546	a	_	_	_	
+93-15	14547-14552	sharp	Quality[148]|Taste Word[149]	*	93-15[148_149]	
+93-16	14553-14558	taste	Taste Word	*|*	93-12|93-15[148_0]	
+93-17	14558-14559	.	_	_	_	
+
+#Text=Sweet things do sooner fill than sharp.
+94-1	14560-14565	Sweet	Taste Word[150]|Quality[151]	*|*	94-1[151_150]|94-2[0_150]	
+94-2	14566-14572	things	Taste Source	_	_	
+94-3	14573-14575	do	_	_	_	
+94-4	14576-14582	sooner	_	_	_	
+94-5	14583-14587	fill	_	_	_	
+94-6	14588-14592	than	_	_	_	
+94-7	14593-14598	sharp	Quality[152]|Taste Word[153]	*	94-7[152_153]	
+94-8	14598-14599	.	_	_	_	
+
+#Text=Thus we find that Milk-meats, Sweet-meats, Butter, Honey, &amp;c. do sooner satisfie our Appetite, than sowre and sharp things.
+95-1	14600-14604	Thus	_	_	_	
+95-2	14605-14607	we	_	_	_	
+95-3	14608-14612	find	_	_	_	
+95-4	14613-14617	that	_	_	_	
+95-5	14618-14628	Milk-meats	_	_	_	
+95-6	14628-14629	,	_	_	_	
+95-7	14630-14641	Sweet-meats	_	_	_	
+95-8	14641-14642	,	_	_	_	
+95-9	14643-14649	Butter	_	_	_	
+95-10	14649-14650	,	_	_	_	
+95-11	14651-14656	Honey	_	_	_	
+95-12	14656-14657	,	_	_	_	
+95-13	14658-14659	&	_	_	_	
+95-14	14659-14662	amp	_	_	_	
+95-15	14662-14663	;	_	_	_	
+95-16	14663-14664	c	_	_	_	
+95-17	14664-14665	.	_	_	_	
+95-18	14666-14668	do	_	_	_	
+95-19	14669-14675	sooner	_	_	_	
+95-20	14676-14684	satisfie	_	_	_	
+95-21	14685-14688	our	_	_	_	
+95-22	14689-14697	Appetite	_	_	_	
+95-23	14697-14698	,	_	_	_	
+95-24	14699-14703	than	_	_	_	
+95-25	14704-14709	sowre	Taste Word[154]|Quality[155]	*|*	95-28[0_154]|95-25[155_154]	
+95-26	14710-14713	and	_	_	_	
+95-27	14714-14719	sharp	Taste Word[156]|Quality[157]	*|*	95-27[157_156]|95-28[0_156]	
+95-28	14720-14726	things	Taste Source	_	_	
+95-29	14726-14727	.	_	_	_	
+
+#Text=Some suppose the Cause hereof to be, because Sharp things do afford little Nourishment, and much Excrement; but this Reason seems of no force, because Digestion does not immediately follow upon the taking down of our food: But the Cause why Sweet things do sooner glut the Appetite, than sharp and sowre things is, because these latter are made up of parts whose surface is very rough and rugged, that is, which have many Angles or Inequalities, which make them fit to twitch and vellicate the Bodies they touch or apply to; and by this their vellicating of the Stomach, do stir up the Appetite: Whereas Sweet things consisting of smooth Bodies, and such as gently affect the Stomach, without exciting of the Appetite, do presently fill and satiate.
+96-1	14730-14734	Some	_	_	_	
+96-2	14735-14742	suppose	_	_	_	
+96-3	14743-14746	the	_	_	_	
+96-4	14747-14752	Cause	_	_	_	
+96-5	14753-14759	hereof	_	_	_	
+96-6	14760-14762	to	_	_	_	
+96-7	14763-14765	be	_	_	_	
+96-8	14765-14766	,	_	_	_	
+96-9	14767-14774	because	_	_	_	
+96-10	14775-14780	Sharp	Taste Word[158]|Quality[159]	*|*	96-10[159_158]|96-11[0_158]	
+96-11	14781-14787	things	Taste Source	_	_	
+96-12	14788-14790	do	_	_	_	
+96-13	14791-14797	afford	_	_	_	
+96-14	14798-14804	little	_	_	_	
+96-15	14805-14816	Nourishment	_	_	_	
+96-16	14816-14817	,	_	_	_	
+96-17	14818-14821	and	_	_	_	
+96-18	14822-14826	much	_	_	_	
+96-19	14827-14836	Excrement	_	_	_	
+96-20	14836-14837	;	_	_	_	
+96-21	14838-14841	but	_	_	_	
+96-22	14842-14846	this	_	_	_	
+96-23	14847-14853	Reason	_	_	_	
+96-24	14854-14859	seems	_	_	_	
+96-25	14860-14862	of	_	_	_	
+96-26	14863-14865	no	_	_	_	
+96-27	14866-14871	force	_	_	_	
+96-28	14871-14872	,	_	_	_	
+96-29	14873-14880	because	_	_	_	
+96-30	14881-14890	Digestion	_	_	_	
+96-31	14891-14895	does	_	_	_	
+96-32	14896-14899	not	_	_	_	
+96-33	14900-14911	immediately	_	_	_	
+96-34	14912-14918	follow	_	_	_	
+96-35	14919-14923	upon	_	_	_	
+96-36	14924-14927	the	_	_	_	
+96-37	14928-14934	taking	_	_	_	
+96-38	14935-14939	down	_	_	_	
+96-39	14940-14942	of	_	_	_	
+96-40	14943-14946	our	_	_	_	
+96-41	14947-14951	food	_	_	_	
+96-42	14951-14952	:	_	_	_	
+96-43	14953-14956	But	_	_	_	
+96-44	14957-14960	the	_	_	_	
+96-45	14961-14966	Cause	_	_	_	
+96-46	14967-14970	why	_	_	_	
+96-47	14971-14976	Sweet	Taste Word[160]|Quality[161]	*|*	96-47[161_160]|96-48[0_160]	
+96-48	14977-14983	things	Taste Source	_	_	
+96-49	14984-14986	do	_	_	_	
+96-50	14987-14993	sooner	_	_	_	
+96-51	14994-14998	glut	_	_	_	
+96-52	14999-15002	the	_	_	_	
+96-53	15003-15011	Appetite	_	_	_	
+96-54	15011-15012	,	_	_	_	
+96-55	15013-15017	than	_	_	_	
+96-56	15018-15023	sharp	Taste Word[162]|Quality[163]	*|*	96-56[163_162]|96-59[0_162]	
+96-57	15024-15027	and	_	_	_	
+96-58	15028-15033	sowre	Taste Word[164]|Quality[165]	*|*	96-58[165_164]|96-59[0_164]	
+96-59	15034-15040	things	Taste Source	_	_	
+96-60	15041-15043	is	_	_	_	
+96-61	15043-15044	,	_	_	_	
+96-62	15045-15052	because	_	_	_	
+96-63	15053-15058	these	_	_	_	
+96-64	15059-15065	latter	_	_	_	
+96-65	15066-15069	are	_	_	_	
+96-66	15070-15074	made	_	_	_	
+96-67	15075-15077	up	_	_	_	
+96-68	15078-15080	of	_	_	_	
+96-69	15081-15086	parts	_	_	_	
+96-70	15087-15092	whose	_	_	_	
+96-71	15093-15100	surface	_	_	_	
+96-72	15101-15103	is	_	_	_	
+96-73	15104-15108	very	_	_	_	
+96-74	15109-15114	rough	_	_	_	
+96-75	15115-15118	and	_	_	_	
+96-76	15119-15125	rugged	_	_	_	
+96-77	15125-15126	,	_	_	_	
+96-78	15127-15131	that	_	_	_	
+96-79	15132-15134	is	_	_	_	
+96-80	15134-15135	,	_	_	_	
+96-81	15136-15141	which	_	_	_	
+96-82	15142-15146	have	_	_	_	
+96-83	15147-15151	many	_	_	_	
+96-84	15152-15158	Angles	_	_	_	
+96-85	15159-15161	or	_	_	_	
+96-86	15162-15174	Inequalities	_	_	_	
+96-87	15174-15175	,	_	_	_	
+96-88	15176-15181	which	_	_	_	
+96-89	15182-15186	make	_	_	_	
+96-90	15187-15191	them	_	_	_	
+96-91	15192-15195	fit	_	_	_	
+96-92	15196-15198	to	_	_	_	
+96-93	15199-15205	twitch	_	_	_	
+96-94	15206-15209	and	_	_	_	
+96-95	15210-15219	vellicate	_	_	_	
+96-96	15220-15223	the	_	_	_	
+96-97	15224-15230	Bodies	_	_	_	
+96-98	15231-15235	they	_	_	_	
+96-99	15236-15241	touch	_	_	_	
+96-100	15242-15244	or	_	_	_	
+96-101	15245-15250	apply	_	_	_	
+96-102	15251-15253	to	_	_	_	
+96-103	15253-15254	;	_	_	_	
+96-104	15255-15258	and	_	_	_	
+96-105	15259-15261	by	_	_	_	
+96-106	15262-15266	this	_	_	_	
+96-107	15267-15272	their	_	_	_	
+96-108	15273-15284	vellicating	_	_	_	
+96-109	15285-15287	of	_	_	_	
+96-110	15288-15291	the	_	_	_	
+96-111	15292-15299	Stomach	_	_	_	
+96-112	15299-15300	,	_	_	_	
+96-113	15301-15303	do	_	_	_	
+96-114	15304-15308	stir	_	_	_	
+96-115	15309-15311	up	_	_	_	
+96-116	15312-15315	the	_	_	_	
+96-117	15316-15324	Appetite	_	_	_	
+96-118	15324-15325	:	_	_	_	
+96-119	15326-15333	Whereas	_	_	_	
+96-120	15334-15339	Sweet	Taste Word[166]|Quality[167]	*|*	96-120[167_166]|96-121[0_166]	
+96-121	15340-15346	things	Taste Source	_	_	
+96-122	15347-15357	consisting	_	_	_	
+96-123	15358-15360	of	_	_	_	
+96-124	15361-15367	smooth	_	_	_	
+96-125	15368-15374	Bodies	_	_	_	
+96-126	15374-15375	,	_	_	_	
+96-127	15376-15379	and	_	_	_	
+96-128	15380-15384	such	_	_	_	
+96-129	15385-15387	as	_	_	_	
+96-130	15388-15394	gently	_	_	_	
+96-131	15395-15401	affect	_	_	_	
+96-132	15402-15405	the	_	_	_	
+96-133	15406-15413	Stomach	_	_	_	
+96-134	15413-15414	,	_	_	_	
+96-135	15415-15422	without	_	_	_	
+96-136	15423-15431	exciting	_	_	_	
+96-137	15432-15434	of	_	_	_	
+96-138	15435-15438	the	_	_	_	
+96-139	15439-15447	Appetite	_	_	_	
+96-140	15447-15448	,	_	_	_	
+96-141	15449-15451	do	_	_	_	
+96-142	15452-15461	presently	_	_	_	
+96-143	15462-15466	fill	_	_	_	
+96-144	15467-15470	and	_	_	_	
+96-145	15471-15478	satiate	_	_	_	
+96-146	15478-15479	.	_	_	_	
+
+#Text=V.
+97-1	15482-15483	V	_	_	_	
+97-2	15483-15484	.	_	_	_	
+
+#Text=The Fire excites a sharp taste in Meat drest by it.
+98-1	15485-15488	The	_	_	_	
+98-2	15489-15493	Fire	_	_	_	
+98-3	15494-15501	excites	_	_	_	
+98-4	15502-15503	a	_	_	_	
+98-5	15504-15509	sharp	Taste Word[168]|Quality[169]	*	98-5[169_168]	
+98-6	15510-15515	taste	Taste Word	*|*	98-5[169_0]|98-8	
+98-7	15516-15518	in	_	_	_	
+98-8	15519-15523	Meat	Taste Source	_	_	
+98-9	15524-15529	drest	_	_	_	
+98-10	15530-15532	by	_	_	_	
+98-11	15533-15535	it	_	_	_	
+98-12	15535-15536	.	_	_	_	
+
+#Text=Fire procures a sharp Taste to Meat; for we find that Rost-meat doth with more sharpness strike the Tongue, and affords a more grateful taste.
+99-1	15537-15541	Fire	_	_	_	
+99-2	15542-15550	procures	_	_	_	
+99-3	15551-15552	a	_	_	_	
+99-4	15553-15558	sharp	Taste Word[170]|Quality[171]	*	99-4[171_170]	
+99-5	15559-15564	Taste	Taste Word	*|*	99-4[171_0]|99-7	
+99-6	15565-15567	to	_	_	_	
+99-7	15568-15572	Meat	Taste Source	_	_	
+99-8	15572-15573	;	_	_	_	
+99-9	15574-15577	for	_	_	_	
+99-10	15578-15580	we	_	_	_	
+99-11	15581-15585	find	_	_	_	
+99-12	15586-15590	that	_	_	_	
+99-13	15591-15600	Rost-meat	Taste Source	_	_	
+99-14	15601-15605	doth	_	_	_	
+99-15	15606-15610	with	_	_	_	
+99-16	15611-15615	more	Quality	_	_	
+99-17	15616-15625	sharpness	Taste Word	*|*	99-13|99-16	
+99-18	15626-15632	strike	_	_	_	
+99-19	15633-15636	the	_	_	_	
+99-20	15637-15643	Tongue	_	_	_	
+99-21	15643-15644	,	_	_	_	
+99-22	15645-15648	and	_	_	_	
+99-23	15649-15656	affords	_	_	_	
+99-24	15657-15658	a	_	_	_	
+99-25	15659-15663	more	Quality[172]	_	_	
+99-26	15664-15672	grateful	Quality[172]	_	_	
+99-27	15673-15678	taste	Taste Word	*|*	99-25[172_0]|99-13	
+99-28	15678-15679	.	_	_	_	
+
+#Text=For it is evident that there is no food, but con∣tains some Salt, which is in a manner equally diffused throughout the whole Mass of it.
+100-1	15682-15685	For	_	_	_	
+100-2	15686-15688	it	_	_	_	
+100-3	15689-15691	is	_	_	_	
+100-4	15692-15699	evident	_	_	_	
+100-5	15700-15704	that	_	_	_	
+100-6	15705-15710	there	_	_	_	
+100-7	15711-15713	is	_	_	_	
+100-8	15714-15716	no	_	_	_	
+100-9	15717-15721	food	_	_	_	
+100-10	15721-15722	,	_	_	_	
+100-11	15723-15726	but	_	_	_	
+100-12	15727-15730	con	_	_	_	
+100-13	15730-15731	∣	_	_	_	
+100-14	15731-15736	tains	_	_	_	
+100-15	15737-15741	some	_	_	_	
+100-16	15742-15746	Salt	_	_	_	
+100-17	15746-15747	,	_	_	_	
+100-18	15748-15753	which	_	_	_	
+100-19	15754-15756	is	_	_	_	
+100-20	15757-15759	in	_	_	_	
+100-21	15760-15761	a	_	_	_	
+100-22	15762-15768	manner	_	_	_	
+100-23	15769-15776	equally	_	_	_	
+100-24	15777-15785	diffused	_	_	_	
+100-25	15786-15796	throughout	_	_	_	
+100-26	15797-15800	the	_	_	_	
+100-27	15801-15806	whole	_	_	_	
+100-28	15807-15811	Mass	_	_	_	
+100-29	15812-15814	of	_	_	_	
+100-30	15815-15817	it	_	_	_	
+100-31	15817-15818	.	_	_	_	
+
+#Text=Whence it is, that when Meat is agitated by the heat of fire, some part of this Salt is carried to the outside, and exhales with the other Liquid parts, and constitutes that Smoak which we see proceeds from Meat that is a Roasting.
+101-1	15819-15825	Whence	_	_	_	
+101-2	15826-15828	it	_	_	_	
+101-3	15829-15831	is	_	_	_	
+101-4	15831-15832	,	_	_	_	
+101-5	15833-15837	that	_	_	_	
+101-6	15838-15842	when	_	_	_	
+101-7	15843-15847	Meat	_	_	_	
+101-8	15848-15850	is	_	_	_	
+101-9	15851-15859	agitated	_	_	_	
+101-10	15860-15862	by	_	_	_	
+101-11	15863-15866	the	_	_	_	
+101-12	15867-15871	heat	_	_	_	
+101-13	15872-15874	of	_	_	_	
+101-14	15875-15879	fire	_	_	_	
+101-15	15879-15880	,	_	_	_	
+101-16	15881-15885	some	_	_	_	
+101-17	15886-15890	part	_	_	_	
+101-18	15891-15893	of	_	_	_	
+101-19	15894-15898	this	_	_	_	
+101-20	15899-15903	Salt	_	_	_	
+101-21	15904-15906	is	_	_	_	
+101-22	15907-15914	carried	_	_	_	
+101-23	15915-15917	to	_	_	_	
+101-24	15918-15921	the	_	_	_	
+101-25	15922-15929	outside	_	_	_	
+101-26	15929-15930	,	_	_	_	
+101-27	15931-15934	and	_	_	_	
+101-28	15935-15942	exhales	_	_	_	
+101-29	15943-15947	with	_	_	_	
+101-30	15948-15951	the	_	_	_	
+101-31	15952-15957	other	_	_	_	
+101-32	15958-15964	Liquid	_	_	_	
+101-33	15965-15970	parts	_	_	_	
+101-34	15970-15971	,	_	_	_	
+101-35	15972-15975	and	_	_	_	
+101-36	15976-15987	constitutes	_	_	_	
+101-37	15988-15992	that	_	_	_	
+101-38	15993-15998	Smoak	_	_	_	
+101-39	15999-16004	which	_	_	_	
+101-40	16005-16007	we	_	_	_	
+101-41	16008-16011	see	_	_	_	
+101-42	16012-16020	proceeds	_	_	_	
+101-43	16021-16025	from	_	_	_	
+101-44	16026-16030	Meat	_	_	_	
+101-45	16031-16035	that	_	_	_	
+101-46	16036-16038	is	_	_	_	
+101-47	16039-16040	a	_	_	_	
+101-48	16041-16049	Roasting	_	_	_	
+101-49	16049-16050	.	_	_	_	
+
+#Text=But whereas they are only the insipid particles that fly into the Air, those of the Salts can scarcely rise 2 or 3 fingers high; but that by their weight they are forced down again to the surface of the Meat, and there produce that sharp taste which we experience in Roast-meat.
+102-1	16051-16054	But	_	_	_	
+102-2	16055-16062	whereas	_	_	_	
+102-3	16063-16067	they	_	_	_	
+102-4	16068-16071	are	_	_	_	
+102-5	16072-16076	only	_	_	_	
+102-6	16077-16080	the	_	_	_	
+102-7	16081-16088	insipid	_	_	_	
+102-8	16089-16098	particles	_	_	_	
+102-9	16099-16103	that	_	_	_	
+102-10	16104-16107	fly	_	_	_	
+102-11	16108-16112	into	_	_	_	
+102-12	16113-16116	the	_	_	_	
+102-13	16117-16120	Air	_	_	_	
+102-14	16120-16121	,	_	_	_	
+102-15	16122-16127	those	_	_	_	
+102-16	16128-16130	of	_	_	_	
+102-17	16131-16134	the	_	_	_	
+102-18	16135-16140	Salts	_	_	_	
+102-19	16141-16144	can	_	_	_	
+102-20	16145-16153	scarcely	_	_	_	
+102-21	16154-16158	rise	_	_	_	
+102-22	16159-16160	2	_	_	_	
+102-23	16161-16163	or	_	_	_	
+102-24	16164-16165	3	_	_	_	
+102-25	16166-16173	fingers	_	_	_	
+102-26	16174-16178	high	_	_	_	
+102-27	16178-16179	;	_	_	_	
+102-28	16180-16183	but	_	_	_	
+102-29	16184-16188	that	_	_	_	
+102-30	16189-16191	by	_	_	_	
+102-31	16192-16197	their	_	_	_	
+102-32	16198-16204	weight	_	_	_	
+102-33	16205-16209	they	_	_	_	
+102-34	16210-16213	are	_	_	_	
+102-35	16214-16220	forced	_	_	_	
+102-36	16221-16225	down	_	_	_	
+102-37	16226-16231	again	_	_	_	
+102-38	16232-16234	to	_	_	_	
+102-39	16235-16238	the	_	_	_	
+102-40	16239-16246	surface	_	_	_	
+102-41	16247-16249	of	_	_	_	
+102-42	16250-16253	the	_	_	_	
+102-43	16254-16258	Meat	_	_	_	
+102-44	16258-16259	,	_	_	_	
+102-45	16260-16263	and	_	_	_	
+102-46	16264-16269	there	_	_	_	
+102-47	16270-16277	produce	_	_	_	
+102-48	16278-16282	that	_	_	_	
+102-49	16283-16288	sharp	Taste Word[173]|Quality[174]	*	102-49[174_173]	
+102-50	16289-16294	taste	Taste Word	*|*	102-49[174_0]|102-55	
+102-51	16295-16300	which	_	_	_	
+102-52	16301-16303	we	_	_	_	
+102-53	16304-16314	experience	_	_	_	
+102-54	16315-16317	in	_	_	_	
+102-55	16318-16328	Roast-meat	Taste Source	_	_	
+102-56	16328-16329	.	_	_	_	
+
+#Text=VI.
+103-1	16332-16334	VI	_	_	_	
+103-2	16334-16335	.	_	_	_	
+
+#Text=Sowre and Harsh things set the Teeth on edge.
+104-1	16336-16341	Sowre	Taste Word[175]|Quality[176]	*|*	104-1[176_175]|104-4[0_175]	
+104-2	16342-16345	and	_	_	_	
+104-3	16346-16351	Harsh	_	_	_	
+104-4	16352-16358	things	Taste Source	_	_	
+104-5	16359-16362	set	_	_	_	
+104-6	16363-16366	the	_	_	_	
+104-7	16367-16372	Teeth	_	_	_	
+104-8	16373-16375	on	_	_	_	
+104-9	16376-16380	edge	_	_	_	
+104-10	16380-16381	.	_	_	_	
+
+#Text=Things harsh and sowre, set the Teeth on edge; as unripe Fruits, harsh Wines, Verjuice, and the like.
+105-1	16382-16388	Things	Taste Source	_	_	
+105-2	16389-16394	harsh	_	_	_	
+105-3	16395-16398	and	_	_	_	
+105-4	16399-16404	sowre	Taste Word[177]|Quality[178]	*|*|*|*|*	105-4[178_177]|105-1[0_177]|105-13[179_177]|105-16[180_177]|105-19[0_177]	
+105-5	16404-16405	,	_	_	_	
+105-6	16406-16409	set	_	_	_	
+105-7	16410-16413	the	_	_	_	
+105-8	16414-16419	Teeth	_	_	_	
+105-9	16420-16422	on	_	_	_	
+105-10	16423-16427	edge	_	_	_	
+105-11	16427-16428	;	_	_	_	
+105-12	16429-16431	as	_	_	_	
+105-13	16432-16438	unripe	Taste Source[179]	_	_	
+105-14	16439-16445	Fruits	Taste Source[179]	_	_	
+105-15	16445-16446	,	_	_	_	
+105-16	16447-16452	harsh	Taste Source[180]	_	_	
+105-17	16453-16458	Wines	Taste Source[180]	_	_	
+105-18	16458-16459	,	_	_	_	
+105-19	16460-16468	Verjuice	Taste Source	_	_	
+105-20	16468-16469	,	_	_	_	
+105-21	16470-16473	and	_	_	_	
+105-22	16474-16477	the	_	_	_	
+105-23	16478-16482	like	_	_	_	
+105-24	16482-16483	.	_	_	_	
+
+#Text=The Reason is, because the fixt Salts that are in these Bodies, being entangled in a gross Sul∣phur, compose together with it parts, whose Surface is bristled with many Hairs variously bent, which entring into the pores of the Tongue, shut up the parts thereof.
+106-1	16486-16489	The	_	_	_	
+106-2	16490-16496	Reason	_	_	_	
+106-3	16497-16499	is	_	_	_	
+106-4	16499-16500	,	_	_	_	
+106-5	16501-16508	because	_	_	_	
+106-6	16509-16512	the	_	_	_	
+106-7	16513-16517	fixt	_	_	_	
+106-8	16518-16523	Salts	_	_	_	
+106-9	16524-16528	that	_	_	_	
+106-10	16529-16532	are	_	_	_	
+106-11	16533-16535	in	_	_	_	
+106-12	16536-16541	these	_	_	_	
+106-13	16542-16548	Bodies	_	_	_	
+106-14	16548-16549	,	_	_	_	
+106-15	16550-16555	being	_	_	_	
+106-16	16556-16565	entangled	_	_	_	
+106-17	16566-16568	in	_	_	_	
+106-18	16569-16570	a	_	_	_	
+106-19	16571-16576	gross	_	_	_	
+106-20	16577-16580	Sul	_	_	_	
+106-21	16580-16581	∣	_	_	_	
+106-22	16581-16585	phur	_	_	_	
+106-23	16585-16586	,	_	_	_	
+106-24	16587-16594	compose	_	_	_	
+106-25	16595-16603	together	_	_	_	
+106-26	16604-16608	with	_	_	_	
+106-27	16609-16611	it	_	_	_	
+106-28	16612-16617	parts	_	_	_	
+106-29	16617-16618	,	_	_	_	
+106-30	16619-16624	whose	_	_	_	
+106-31	16625-16632	Surface	_	_	_	
+106-32	16633-16635	is	_	_	_	
+106-33	16636-16644	bristled	_	_	_	
+106-34	16645-16649	with	_	_	_	
+106-35	16650-16654	many	_	_	_	
+106-36	16655-16660	Hairs	_	_	_	
+106-37	16661-16670	variously	_	_	_	
+106-38	16671-16675	bent	_	_	_	
+106-39	16675-16676	,	_	_	_	
+106-40	16677-16682	which	_	_	_	
+106-41	16683-16690	entring	_	_	_	
+106-42	16691-16695	into	_	_	_	
+106-43	16696-16699	the	_	_	_	
+106-44	16700-16705	pores	_	_	_	
+106-45	16706-16708	of	_	_	_	
+106-46	16709-16712	the	_	_	_	
+106-47	16713-16719	Tongue	_	_	_	
+106-48	16719-16720	,	_	_	_	
+106-49	16721-16725	shut	_	_	_	
+106-50	16726-16728	up	_	_	_	
+106-51	16729-16732	the	_	_	_	
+106-52	16733-16738	parts	_	_	_	
+106-53	16739-16746	thereof	_	_	_	
+106-54	16746-16747	.	_	_	_	
+
+#Text=VII.
+107-1	16748-16751	VII	_	_	_	
+107-2	16751-16752	.	_	_	_	
+
+#Text=VVhy Bit∣ter things do heat, and Sowre, cool.
+108-1	16753-16757	VVhy	_	_	_	
+108-2	16758-16761	Bit	Taste Word[181]|Quality[182]	*|*|*	108-2[182_181]|108-5[0_181]|108-7[0_181]	
+108-3	16761-16762	∣	Taste Word[181]|Quality[182]	_	_	
+108-4	16762-16765	ter	Taste Word[181]|Quality[182]	_	_	
+108-5	16766-16772	things	Taste Source	_	_	
+108-6	16773-16775	do	_	_	_	
+108-7	16776-16780	heat	Circumstance	_	_	
+108-8	16780-16781	,	_	_	_	
+108-9	16782-16785	and	_	_	_	
+108-10	16786-16791	Sowre	Taste Word[183]|Quality[184]	*|*	108-10[184_183]|108-12[0_183]	
+108-11	16791-16792	,	_	_	_	
+108-12	16793-16797	cool	Circumstance	_	_	
+108-13	16797-16798	.	_	_	_	
+
+#Text=Bitter things, as Orange-Peel, Venice-Treacle, and many purging Medicins do heat; but Sowre things, such as Juice of Orange, Sowre Grapes, &amp;c. do cool.
+109-1	16799-16805	Bitter	Taste Word[185]|Quality[186]	*|*|*|*|*	109-1[186_185]|109-2[0_185]|109-5[0_185]|109-7[0_185]|109-10[187_185]	
+109-2	16806-16812	things	Taste Source	_	_	
+109-3	16812-16813	,	_	_	_	
+109-4	16814-16816	as	_	_	_	
+109-5	16817-16828	Orange-Peel	Taste Source	_	_	
+109-6	16828-16829	,	_	_	_	
+109-7	16830-16844	Venice-Treacle	Taste Source	_	_	
+109-8	16844-16845	,	_	_	_	
+109-9	16846-16849	and	_	_	_	
+109-10	16850-16854	many	Taste Source[187]	_	_	
+109-11	16855-16862	purging	Taste Source[187]	_	_	
+109-12	16863-16871	Medicins	Taste Source[187]	_	_	
+109-13	16872-16874	do	_	_	_	
+109-14	16875-16879	heat	_	_	_	
+109-15	16879-16880	;	_	_	_	
+109-16	16881-16884	but	_	_	_	
+109-17	16885-16890	Sowre	Taste Word[188]|Quality[189]	*|*|*|*	109-17[189_188]|109-18[0_188]|109-22[190_188]|109-26[191_188]	
+109-18	16891-16897	things	Taste Source	_	_	
+109-19	16897-16898	,	_	_	_	
+109-20	16899-16903	such	_	_	_	
+109-21	16904-16906	as	_	_	_	
+109-22	16907-16912	Juice	Taste Source[190]	_	_	
+109-23	16913-16915	of	Taste Source[190]	_	_	
+109-24	16916-16922	Orange	Taste Source[190]	_	_	
+109-25	16922-16923	,	_	_	_	
+109-26	16924-16929	Sowre	Taste Source[191]|Taste Word[192]|Quality[193]	*|*	109-26[193_192]|109-27[194_192]	
+109-27	16930-16936	Grapes	Taste Source[191]|Taste Source[194]	_	_	
+109-28	16936-16937	,	_	_	_	
+109-29	16938-16939	&	_	_	_	
+109-30	16939-16942	amp	_	_	_	
+109-31	16942-16943	;	_	_	_	
+109-32	16943-16944	c	_	_	_	
+109-33	16944-16945	.	_	_	_	
+109-34	16946-16948	do	_	_	_	
+109-35	16949-16953	cool	_	_	_	
+109-36	16953-16954	.	_	_	_	
+
+#Text=Because Bitter things consist of sharp Salts, and gross Oils, which being agitated together, do excite and preserve heat; whereas the parts of Sowre things are long, stiff and pointed, and rather stop the motion of the fiery particles, than promote it, and for that Reason are esteemed of a Cooling Nature.
+110-1	16957-16964	Because	_	_	_	
+110-2	16965-16971	Bitter	Taste Word[195]|Quality[196]	*|*|*|*	110-3[0_195]|110-2[196_195]|110-6[197_195]|110-10[201_195]	
+110-3	16972-16978	things	Taste Source	_	_	
+110-4	16979-16986	consist	_	_	_	
+110-5	16987-16989	of	_	_	_	
+110-6	16990-16995	sharp	Taste Source[197]|Quality[198]|Taste Word[199]	*|*	110-6[198_199]|110-7[200_199]	
+110-7	16996-17001	Salts	Taste Source[197]|Taste Source[200]	_	_	
+110-8	17001-17002	,	_	_	_	
+110-9	17003-17006	and	_	_	_	
+110-10	17007-17012	gross	Taste Source[201]	_	_	
+110-11	17013-17017	Oils	Taste Source[201]	_	_	
+110-12	17017-17018	,	_	_	_	
+110-13	17019-17024	which	_	_	_	
+110-14	17025-17030	being	_	_	_	
+110-15	17031-17039	agitated	_	_	_	
+110-16	17040-17048	together	_	_	_	
+110-17	17048-17049	,	_	_	_	
+110-18	17050-17052	do	_	_	_	
+110-19	17053-17059	excite	_	_	_	
+110-20	17060-17063	and	_	_	_	
+110-21	17064-17072	preserve	_	_	_	
+110-22	17073-17077	heat	_	_	_	
+110-23	17077-17078	;	_	_	_	
+110-24	17079-17086	whereas	_	_	_	
+110-25	17087-17090	the	_	_	_	
+110-26	17091-17096	parts	_	_	_	
+110-27	17097-17099	of	_	_	_	
+110-28	17100-17105	Sowre	Taste Word[202]|Quality[203]	*|*	110-28[203_202]|110-29[0_202]	
+110-29	17106-17112	things	Taste Source	_	_	
+110-30	17113-17116	are	_	_	_	
+110-31	17117-17121	long	_	_	_	
+110-32	17121-17122	,	_	_	_	
+110-33	17123-17128	stiff	_	_	_	
+110-34	17129-17132	and	_	_	_	
+110-35	17133-17140	pointed	_	_	_	
+110-36	17140-17141	,	_	_	_	
+110-37	17142-17145	and	_	_	_	
+110-38	17146-17152	rather	_	_	_	
+110-39	17153-17157	stop	_	_	_	
+110-40	17158-17161	the	_	_	_	
+110-41	17162-17168	motion	_	_	_	
+110-42	17169-17171	of	_	_	_	
+110-43	17172-17175	the	_	_	_	
+110-44	17176-17181	fiery	_	_	_	
+110-45	17182-17191	particles	_	_	_	
+110-46	17191-17192	,	_	_	_	
+110-47	17193-17197	than	_	_	_	
+110-48	17198-17205	promote	_	_	_	
+110-49	17206-17208	it	_	_	_	
+110-50	17208-17209	,	_	_	_	
+110-51	17210-17213	and	_	_	_	
+110-52	17214-17217	for	_	_	_	
+110-53	17218-17222	that	_	_	_	
+110-54	17223-17229	Reason	_	_	_	
+110-55	17230-17233	are	_	_	_	
+110-56	17234-17242	esteemed	_	_	_	
+110-57	17243-17245	of	_	_	_	
+110-58	17246-17247	a	_	_	_	
+110-59	17248-17255	Cooling	_	_	_	
+110-60	17256-17262	Nature	_	_	_	
+110-61	17262-17263	.	_	_	_	
+
+#Text=VIII.
+111-1	17266-17270	VIII	_	_	_	
+111-2	17270-17271	.	_	_	_	
+
+#Text=Why un∣ripe Grapes and Fruits are harsh.
+112-1	17272-17275	Why	_	_	_	
+112-2	17276-17278	un	_	_	_	
+112-3	17278-17279	∣	_	_	_	
+112-4	17279-17283	ripe	_	_	_	
+112-5	17284-17290	Grapes	_	_	_	
+112-6	17291-17294	and	_	_	_	
+112-7	17295-17301	Fruits	_	_	_	
+112-8	17302-17305	are	_	_	_	
+112-9	17306-17311	harsh	_	_	_	
+112-10	17311-17312	.	_	_	_	
+
+#Text=Unripe Fruits seem very harsh at the first taste, and cause a Roughness on the Tongue; but after∣wards they turn sweet, and acquire a pleasant relish.
+113-1	17313-17319	Unripe	Taste Source[204]	_	_	
+113-2	17320-17326	Fruits	Taste Source[204]	_	_	
+113-3	17327-17331	seem	_	_	_	
+113-4	17332-17336	very	Quality[205]	_	_	
+113-5	17337-17342	harsh	Quality[205]	_	_	
+113-6	17343-17345	at	_	_	_	
+113-7	17346-17349	the	_	_	_	
+113-8	17350-17355	first	_	_	_	
+113-9	17356-17361	taste	Taste Word	*|*	113-4[205_0]|113-1[204_0]	
+113-10	17361-17362	,	_	_	_	
+113-11	17363-17366	and	_	_	_	
+113-12	17367-17372	cause	_	_	_	
+113-13	17373-17374	a	_	_	_	
+113-14	17375-17384	Roughness	_	_	_	
+113-15	17385-17387	on	_	_	_	
+113-16	17388-17391	the	_	_	_	
+113-17	17392-17398	Tongue	_	_	_	
+113-18	17398-17399	;	_	_	_	
+113-19	17400-17403	but	_	_	_	
+113-20	17404-17409	after	_	_	_	
+113-21	17409-17410	∣	_	_	_	
+113-22	17410-17415	wards	_	_	_	
+113-23	17416-17420	they	_	_	_	
+113-24	17421-17425	turn	_	_	_	
+113-25	17426-17431	sweet	Taste Word[206]|Quality[207]	*	113-25[207_206]	
+113-26	17431-17432	,	_	_	_	
+113-27	17433-17436	and	_	_	_	
+113-28	17437-17444	acquire	_	_	_	
+113-29	17445-17446	a	_	_	_	
+113-30	17447-17455	pleasant	Quality	_	_	
+113-31	17456-17462	relish	Taste Word	*	113-30	
+113-32	17462-17463	.	_	_	_	
+
+#Text=The Reason is, for that Fruits, before that they are ripe, do consist of longish parts, which by their motion do, as it were, cut the fibres of the Tongue, and contract them; and afterwards they grow ripe by means of the fire or the heat of the Sun, which digests their raw Juice, and by ex∣haling the Heterogeneous parts, reduceth it to sweetness.
+114-1	17466-17469	The	_	_	_	
+114-2	17470-17476	Reason	_	_	_	
+114-3	17477-17479	is	_	_	_	
+114-4	17479-17480	,	_	_	_	
+114-5	17481-17484	for	_	_	_	
+114-6	17485-17489	that	_	_	_	
+114-7	17490-17496	Fruits	Taste Source	_	_	
+114-8	17496-17497	,	_	_	_	
+114-9	17498-17504	before	_	_	_	
+114-10	17505-17509	that	_	_	_	
+114-11	17510-17514	they	_	_	_	
+114-12	17515-17518	are	_	_	_	
+114-13	17519-17523	ripe	_	_	_	
+114-14	17523-17524	,	_	_	_	
+114-15	17525-17527	do	_	_	_	
+114-16	17528-17535	consist	_	_	_	
+114-17	17536-17538	of	_	_	_	
+114-18	17539-17546	longish	_	_	_	
+114-19	17547-17552	parts	_	_	_	
+114-20	17552-17553	,	_	_	_	
+114-21	17554-17559	which	_	_	_	
+114-22	17560-17562	by	_	_	_	
+114-23	17563-17568	their	_	_	_	
+114-24	17569-17575	motion	_	_	_	
+114-25	17576-17578	do	_	_	_	
+114-26	17578-17579	,	_	_	_	
+114-27	17580-17582	as	_	_	_	
+114-28	17583-17585	it	_	_	_	
+114-29	17586-17590	were	_	_	_	
+114-30	17590-17591	,	_	_	_	
+114-31	17592-17595	cut	_	_	_	
+114-32	17596-17599	the	_	_	_	
+114-33	17600-17606	fibres	_	_	_	
+114-34	17607-17609	of	_	_	_	
+114-35	17610-17613	the	_	_	_	
+114-36	17614-17620	Tongue	_	_	_	
+114-37	17620-17621	,	_	_	_	
+114-38	17622-17625	and	_	_	_	
+114-39	17626-17634	contract	_	_	_	
+114-40	17635-17639	them	_	_	_	
+114-41	17639-17640	;	_	_	_	
+114-42	17641-17644	and	_	_	_	
+114-43	17645-17655	afterwards	_	_	_	
+114-44	17656-17660	they	_	_	_	
+114-45	17661-17665	grow	_	_	_	
+114-46	17666-17670	ripe	_	_	_	
+114-47	17671-17673	by	_	_	_	
+114-48	17674-17679	means	_	_	_	
+114-49	17680-17682	of	_	_	_	
+114-50	17683-17686	the	_	_	_	
+114-51	17687-17691	fire	_	_	_	
+114-52	17692-17694	or	_	_	_	
+114-53	17695-17698	the	_	_	_	
+114-54	17699-17703	heat	_	_	_	
+114-55	17704-17706	of	_	_	_	
+114-56	17707-17710	the	_	_	_	
+114-57	17711-17714	Sun	_	_	_	
+114-58	17714-17715	,	_	_	_	
+114-59	17716-17721	which	_	_	_	
+114-60	17722-17729	digests	_	_	_	
+114-61	17730-17735	their	_	_	_	
+114-62	17736-17739	raw	_	_	_	
+114-63	17740-17745	Juice	_	_	_	
+114-64	17745-17746	,	_	_	_	
+114-65	17747-17750	and	_	_	_	
+114-66	17751-17753	by	_	_	_	
+114-67	17754-17756	ex	_	_	_	
+114-68	17756-17757	∣	_	_	_	
+114-69	17757-17763	haling	_	_	_	
+114-70	17764-17767	the	_	_	_	
+114-71	17768-17781	Heterogeneous	_	_	_	
+114-72	17782-17787	parts	_	_	_	
+114-73	17787-17788	,	_	_	_	
+114-74	17789-17797	reduceth	_	_	_	
+114-75	17798-17800	it	_	_	_	
+114-76	17801-17803	to	_	_	_	
+114-77	17804-17813	sweetness	Taste Word	*	114-7	
+114-78	17813-17814	.	_	_	_	
+
+#Text=For it is evident, that there is a con∣tinual resolution and division of parts in Fruits that tend to maturity, by means whereof they lay aside their hardness and harshness, and after perfect Concoction become soft and pleasant.
+115-1	17815-17818	For	_	_	_	
+115-2	17819-17821	it	_	_	_	
+115-3	17822-17824	is	_	_	_	
+115-4	17825-17832	evident	_	_	_	
+115-5	17832-17833	,	_	_	_	
+115-6	17834-17838	that	_	_	_	
+115-7	17839-17844	there	_	_	_	
+115-8	17845-17847	is	_	_	_	
+115-9	17848-17849	a	_	_	_	
+115-10	17850-17853	con	_	_	_	
+115-11	17853-17854	∣	_	_	_	
+115-12	17854-17860	tinual	_	_	_	
+115-13	17861-17871	resolution	_	_	_	
+115-14	17872-17875	and	_	_	_	
+115-15	17876-17884	division	_	_	_	
+115-16	17885-17887	of	_	_	_	
+115-17	17888-17893	parts	_	_	_	
+115-18	17894-17896	in	_	_	_	
+115-19	17897-17903	Fruits	_	_	_	
+115-20	17904-17908	that	_	_	_	
+115-21	17909-17913	tend	_	_	_	
+115-22	17914-17916	to	_	_	_	
+115-23	17917-17925	maturity	_	_	_	
+115-24	17925-17926	,	_	_	_	
+115-25	17927-17929	by	_	_	_	
+115-26	17930-17935	means	_	_	_	
+115-27	17936-17943	whereof	_	_	_	
+115-28	17944-17948	they	_	_	_	
+115-29	17949-17952	lay	_	_	_	
+115-30	17953-17958	aside	_	_	_	
+115-31	17959-17964	their	_	_	_	
+115-32	17965-17973	hardness	_	_	_	
+115-33	17974-17977	and	_	_	_	
+115-34	17978-17987	harshness	_	_	_	
+115-35	17987-17988	,	_	_	_	
+115-36	17989-17992	and	_	_	_	
+115-37	17993-17998	after	_	_	_	
+115-38	17999-18006	perfect	_	_	_	
+115-39	18007-18017	Concoction	_	_	_	
+115-40	18018-18024	become	_	_	_	
+115-41	18025-18029	soft	_	_	_	
+115-42	18030-18033	and	_	_	_	
+115-43	18034-18042	pleasant	_	_	_	
+115-44	18042-18043	.	_	_	_	
+
+#Text=IX.
+116-1	18046-18048	IX	_	_	_	
+116-2	18048-18049	.	_	_	_	
+
+#Text=A Tongue that is either too dry, or too moist, can taste nothing.
+117-1	18050-18051	A	Taster[208]	_	_	
+117-2	18052-18058	Tongue	Taster[208]	_	_	
+117-3	18059-18063	that	Taster[208]	_	_	
+117-4	18064-18066	is	Taster[208]	_	_	
+117-5	18067-18073	either	Taster[208]	_	_	
+117-6	18074-18077	too	Taster[208]	_	_	
+117-7	18078-18081	dry	Taster[208]	_	_	
+117-8	18081-18082	,	Taster[208]	_	_	
+117-9	18083-18085	or	Taster[208]	_	_	
+117-10	18086-18089	too	Taster[208]	_	_	
+117-11	18090-18095	moist	Taster[208]	_	_	
+117-12	18095-18096	,	_	_	_	
+117-13	18097-18100	can	_	_	_	
+117-14	18101-18106	taste	Taste Word	*|*	117-15|117-1[208_0]	
+117-15	18107-18114	nothing	Taste Source	_	_	
+117-16	18114-18115	.	_	_	_	
+
+#Text=A Tongue that is parch ' d and over-dry, hath little or no taste; and so likewise when it abounds with over-much moisture.
+118-1	18116-18117	A	Taster[209]	_	_	
+118-2	18118-18124	Tongue	Taster[209]	_	_	
+118-3	18125-18129	that	Taster[209]	_	_	
+118-4	18130-18132	is	Taster[209]	_	_	
+118-5	18133-18138	parch	Taster[209]	_	_	
+118-6	18139-18140	'	Taster[209]	_	_	
+118-7	18141-18142	d	Taster[209]	_	_	
+118-8	18143-18146	and	Taster[209]	_	_	
+118-9	18147-18155	over-dry	Taster[209]	_	_	
+118-10	18155-18156	,	_	_	_	
+118-11	18157-18161	hath	_	_	_	
+118-12	18162-18168	little	Quality	_	_	
+118-13	18169-18171	or	_	_	_	
+118-14	18172-18174	no	Quality	_	_	
+118-15	18175-18180	taste	Taste Word	*|*|*	118-14|118-12|118-1[209_0]	
+118-16	18180-18181	;	_	_	_	
+118-17	18182-18185	and	_	_	_	
+118-18	18186-18188	so	_	_	_	
+118-19	18189-18197	likewise	_	_	_	
+118-20	18198-18202	when	_	_	_	
+118-21	18203-18205	it	_	_	_	
+118-22	18206-18213	abounds	_	_	_	
+118-23	18214-18218	with	_	_	_	
+118-24	18219-18228	over-much	_	_	_	
+118-25	18229-18237	moisture	_	_	_	
+118-26	18237-18238	.	_	_	_	
+
+#Text=The Reason is, because Taste doth not only consist in moisture or driness apart, but in a mixture of them both.
+119-1	18241-18244	The	_	_	_	
+119-2	18245-18251	Reason	_	_	_	
+119-3	18252-18254	is	_	_	_	
+119-4	18254-18255	,	_	_	_	
+119-5	18256-18263	because	_	_	_	
+119-6	18264-18269	Taste	Taste Word	_	_	
+119-7	18270-18274	doth	_	_	_	
+119-8	18275-18278	not	_	_	_	
+119-9	18279-18283	only	_	_	_	
+119-10	18284-18291	consist	_	_	_	
+119-11	18292-18294	in	_	_	_	
+119-12	18295-18303	moisture	_	_	_	
+119-13	18304-18306	or	_	_	_	
+119-14	18307-18314	driness	_	_	_	
+119-15	18315-18320	apart	_	_	_	
+119-16	18320-18321	,	_	_	_	
+119-17	18322-18325	but	_	_	_	
+119-18	18326-18328	in	_	_	_	
+119-19	18329-18330	a	_	_	_	
+119-20	18331-18338	mixture	_	_	_	
+119-21	18339-18341	of	_	_	_	
+119-22	18342-18346	them	_	_	_	
+119-23	18347-18351	both	_	_	_	
+119-24	18351-18352	.	_	_	_	
+
+#Text=And therefore it is no wonder, if a too dry and parched Tongue, cannot perceive the taste of solid food, seeing that the same cannot be macerated or dissolved without moisture, which is necessary in order to the Sense of Tasting.
+120-1	18353-18356	And	_	_	_	
+120-2	18357-18366	therefore	_	_	_	
+120-3	18367-18369	it	_	_	_	
+120-4	18370-18372	is	_	_	_	
+120-5	18373-18375	no	_	_	_	
+120-6	18376-18382	wonder	_	_	_	
+120-7	18382-18383	,	_	_	_	
+120-8	18384-18386	if	_	_	_	
+120-9	18387-18388	a	_	_	_	
+120-10	18389-18392	too	_	_	_	
+120-11	18393-18396	dry	_	_	_	
+120-12	18397-18400	and	_	_	_	
+120-13	18401-18408	parched	_	_	_	
+120-14	18409-18415	Tongue	_	_	_	
+120-15	18415-18416	,	_	_	_	
+120-16	18417-18423	cannot	_	_	_	
+120-17	18424-18432	perceive	_	_	_	
+120-18	18433-18436	the	_	_	_	
+120-19	18437-18442	taste	Taste Word	*	120-20[210_0]	
+120-20	18443-18445	of	Taste Source[210]	_	_	
+120-21	18446-18451	solid	Taste Source[210]	_	_	
+120-22	18452-18456	food	Taste Source[210]	_	_	
+120-23	18456-18457	,	_	_	_	
+120-24	18458-18464	seeing	_	_	_	
+120-25	18465-18469	that	_	_	_	
+120-26	18470-18473	the	_	_	_	
+120-27	18474-18478	same	_	_	_	
+120-28	18479-18485	cannot	_	_	_	
+120-29	18486-18488	be	_	_	_	
+120-30	18489-18498	macerated	_	_	_	
+120-31	18499-18501	or	_	_	_	
+120-32	18502-18511	dissolved	_	_	_	
+120-33	18512-18519	without	_	_	_	
+120-34	18520-18528	moisture	_	_	_	
+120-35	18528-18529	,	_	_	_	
+120-36	18530-18535	which	_	_	_	
+120-37	18536-18538	is	_	_	_	
+120-38	18539-18548	necessary	_	_	_	
+120-39	18549-18551	in	_	_	_	
+120-40	18552-18557	order	_	_	_	
+120-41	18558-18560	to	_	_	_	
+120-42	18561-18564	the	_	_	_	
+120-43	18565-18570	Sense	_	_	_	
+120-44	18571-18573	of	_	_	_	
+120-45	18574-18581	Tasting	Taste Word	_	_	
+120-46	18581-18582	.	_	_	_	
+
+#Text=For the Tongue being a spongy and porous part, stands in need of moisture, which is the vehicle of Savours.
+121-1	18583-18586	For	_	_	_	
+121-2	18587-18590	the	_	_	_	
+121-3	18591-18597	Tongue	_	_	_	
+121-4	18598-18603	being	_	_	_	
+121-5	18604-18605	a	_	_	_	
+121-6	18606-18612	spongy	_	_	_	
+121-7	18613-18616	and	_	_	_	
+121-8	18617-18623	porous	_	_	_	
+121-9	18624-18628	part	_	_	_	
+121-10	18628-18629	,	_	_	_	
+121-11	18630-18636	stands	_	_	_	
+121-12	18637-18639	in	_	_	_	
+121-13	18640-18644	need	_	_	_	
+121-14	18645-18647	of	_	_	_	
+121-15	18648-18656	moisture	_	_	_	
+121-16	18656-18657	,	_	_	_	
+121-17	18658-18663	which	_	_	_	
+121-18	18664-18666	is	_	_	_	
+121-19	18667-18670	the	_	_	_	
+121-20	18671-18678	vehicle	_	_	_	
+121-21	18679-18681	of	_	_	_	
+121-22	18682-18689	Savours	Taste Word	_	_	
+121-23	18689-18690	.	_	_	_	
+
+#Text=Moreover, in a dry Tongue the fibres are too much contracted, an thereby are made unfit to receive that affection, which the savour of things doth impress on it.
+122-1	18691-18699	Moreover	_	_	_	
+122-2	18699-18700	,	_	_	_	
+122-3	18701-18703	in	_	_	_	
+122-4	18704-18705	a	_	_	_	
+122-5	18706-18709	dry	_	_	_	
+122-6	18710-18716	Tongue	_	_	_	
+122-7	18717-18720	the	_	_	_	
+122-8	18721-18727	fibres	_	_	_	
+122-9	18728-18731	are	_	_	_	
+122-10	18732-18735	too	_	_	_	
+122-11	18736-18740	much	_	_	_	
+122-12	18741-18751	contracted	_	_	_	
+122-13	18751-18752	,	_	_	_	
+122-14	18753-18755	an	_	_	_	
+122-15	18756-18763	thereby	_	_	_	
+122-16	18764-18767	are	_	_	_	
+122-17	18768-18772	made	_	_	_	
+122-18	18773-18778	unfit	_	_	_	
+122-19	18779-18781	to	_	_	_	
+122-20	18782-18789	receive	_	_	_	
+122-21	18790-18794	that	_	_	_	
+122-22	18795-18804	affection	_	_	_	
+122-23	18804-18805	,	_	_	_	
+122-24	18806-18811	which	_	_	_	
+122-25	18812-18815	the	_	_	_	
+122-26	18816-18822	savour	Taste Word	*	122-27[211_0]	
+122-27	18823-18825	of	Taste Source[211]	_	_	
+122-28	18826-18832	things	Taste Source[211]	_	_	
+122-29	18833-18837	doth	_	_	_	
+122-30	18838-18845	impress	_	_	_	
+122-31	18846-18848	on	_	_	_	
+122-32	18849-18851	it	_	_	_	
+122-33	18851-18852	.	_	_	_	
+
+#Text=And on the other hand, a Tongue too moist, i not fit for the reception of Tastes, forasmuch as the Tongue, which is loose and spongy, having its pores already filled with Humour, cannot well admit that which conveys the Savoury particles of the food, and by this means cannot perceive the taste of it.
+123-1	18853-18856	And	_	_	_	
+123-2	18857-18859	on	_	_	_	
+123-3	18860-18863	the	_	_	_	
+123-4	18864-18869	other	_	_	_	
+123-5	18870-18874	hand	_	_	_	
+123-6	18874-18875	,	_	_	_	
+123-7	18876-18877	a	_	_	_	
+123-8	18878-18884	Tongue	_	_	_	
+123-9	18885-18888	too	_	_	_	
+123-10	18889-18894	moist	_	_	_	
+123-11	18894-18895	,	_	_	_	
+123-12	18896-18897	i	_	_	_	
+123-13	18898-18901	not	_	_	_	
+123-14	18902-18905	fit	_	_	_	
+123-15	18906-18909	for	_	_	_	
+123-16	18910-18913	the	_	_	_	
+123-17	18914-18923	reception	_	_	_	
+123-18	18924-18926	of	_	_	_	
+123-19	18927-18933	Tastes	Taste Word	_	_	
+123-20	18933-18934	,	_	_	_	
+123-21	18935-18944	forasmuch	_	_	_	
+123-22	18945-18947	as	_	_	_	
+123-23	18948-18951	the	_	_	_	
+123-24	18952-18958	Tongue	_	_	_	
+123-25	18958-18959	,	_	_	_	
+123-26	18960-18965	which	_	_	_	
+123-27	18966-18968	is	_	_	_	
+123-28	18969-18974	loose	_	_	_	
+123-29	18975-18978	and	_	_	_	
+123-30	18979-18985	spongy	_	_	_	
+123-31	18985-18986	,	_	_	_	
+123-32	18987-18993	having	_	_	_	
+123-33	18994-18997	its	_	_	_	
+123-34	18998-19003	pores	_	_	_	
+123-35	19004-19011	already	_	_	_	
+123-36	19012-19018	filled	_	_	_	
+123-37	19019-19023	with	_	_	_	
+123-38	19024-19030	Humour	_	_	_	
+123-39	19030-19031	,	_	_	_	
+123-40	19032-19038	cannot	_	_	_	
+123-41	19039-19043	well	_	_	_	
+123-42	19044-19049	admit	_	_	_	
+123-43	19050-19054	that	_	_	_	
+123-44	19055-19060	which	_	_	_	
+123-45	19061-19068	conveys	_	_	_	
+123-46	19069-19072	the	_	_	_	
+123-47	19073-19080	Savoury	Taste Word[212]|Quality[213]	*|*	123-47[213_212]|123-48[214_212]	
+123-48	19081-19090	particles	Taste Source[214]	_	_	
+123-49	19091-19093	of	Taste Source[214]	_	_	
+123-50	19094-19097	the	Taste Source[214]	_	_	
+123-51	19098-19102	food	Taste Source[214]	_	_	
+123-52	19102-19103	,	_	_	_	
+123-53	19104-19107	and	_	_	_	
+123-54	19108-19110	by	_	_	_	
+123-55	19111-19115	this	_	_	_	
+123-56	19116-19121	means	_	_	_	
+123-57	19122-19128	cannot	_	_	_	
+123-58	19129-19137	perceive	_	_	_	
+123-59	19138-19141	the	_	_	_	
+123-60	19142-19147	taste	Taste Word	_	_	
+123-61	19148-19150	of	_	_	_	
+123-62	19151-19153	it	_	_	_	
+123-63	19153-19154	.	_	_	_	
+
+#Text=And it is for this very Reason, that we cannot relish Wine after having eaten some sweet thing, and that in order to recove our taste we eat salt meat, that may open the pores of our Tongue.
+124-1	19155-19158	And	_	_	_	
+124-2	19159-19161	it	_	_	_	
+124-3	19162-19164	is	_	_	_	
+124-4	19165-19168	for	_	_	_	
+124-5	19169-19173	this	_	_	_	
+124-6	19174-19178	very	_	_	_	
+124-7	19179-19185	Reason	_	_	_	
+124-8	19185-19186	,	_	_	_	
+124-9	19187-19191	that	_	_	_	
+124-10	19192-19194	we	_	_	_	
+124-11	19195-19201	cannot	_	_	_	
+124-12	19202-19208	relish	Taste Word	*	124-13	
+124-13	19209-19213	Wine	Taste Source	_	_	
+124-14	19214-19219	after	_	_	_	
+124-15	19220-19226	having	_	_	_	
+124-16	19227-19232	eaten	Taste Word	*	124-17[215_0]	
+124-17	19233-19237	some	Taste Source[215]	_	_	
+124-18	19238-19243	sweet	Taste Source[215]|Taste Word[216]|Quality[217]	*|*	124-18[217_216]|124-19[218_216]	
+124-19	19244-19249	thing	Taste Source[215]|Taste Source[218]	_	_	
+124-20	19249-19250	,	_	_	_	
+124-21	19251-19254	and	_	_	_	
+124-22	19255-19259	that	_	_	_	
+124-23	19260-19262	in	_	_	_	
+124-24	19263-19268	order	_	_	_	
+124-25	19269-19271	to	_	_	_	
+124-26	19272-19278	recove	_	_	_	
+124-27	19279-19282	our	_	_	_	
+124-28	19283-19288	taste	Taste Word	_	_	
+124-29	19289-19291	we	_	_	_	
+124-30	19292-19295	eat	Taste Word	*	124-31[219_0]	
+124-31	19296-19300	salt	Taste Source[219]	_	_	
+124-32	19301-19305	meat	Taste Source[219]	_	_	
+124-33	19305-19306	,	_	_	_	
+124-34	19307-19311	that	_	_	_	
+124-35	19312-19315	may	_	_	_	
+124-36	19316-19320	open	_	_	_	
+124-37	19321-19324	the	_	_	_	
+124-38	19325-19330	pores	_	_	_	
+124-39	19331-19333	of	_	_	_	
+124-40	19334-19337	our	_	_	_	
+124-41	19338-19344	Tongue	_	_	_	
+124-42	19344-19345	.	_	_	_	
+
+#Text=X.
+125-1	19348-19349	X	_	_	_	
+125-2	19349-19350	.	_	_	_	
+
+#Text=Why we find no relish in those things which we eat often.
+126-1	19351-19354	Why	_	_	_	
+126-2	19355-19357	we	_	_	_	
+126-3	19358-19362	find	_	_	_	
+126-4	19363-19365	no	_	_	_	
+126-5	19366-19372	relish	Taste Word	*	126-7[220_0]	
+126-6	19373-19375	in	_	_	_	
+126-7	19376-19381	those	Taste Source[220]	_	_	
+126-8	19382-19388	things	Taste Source[220]	_	_	
+126-9	19389-19394	which	_	_	_	
+126-10	19395-19397	we	_	_	_	
+126-11	19398-19401	eat	Taste Word	*|*	126-7[220_0]|126-12	
+126-12	19402-19407	often	Circumstance	_	_	
+126-13	19407-19408	.	_	_	_	
+
+#Text=Some find that they lose the relish of those things, which they feed too frequently upon, and that either because these common Aliments do leave some of their particles in the Tongue, which render the little Nipples of it immoveable; or, because the Soul gives less heed to those motions that are ordinary and common, than to those which are new and unfiequent.
+127-1	19409-19413	Some	_	_	_	
+127-2	19414-19418	find	_	_	_	
+127-3	19419-19423	that	_	_	_	
+127-4	19424-19428	they	_	_	_	
+127-5	19429-19433	lose	_	_	_	
+127-6	19434-19437	the	_	_	_	
+127-7	19438-19444	relish	Taste Word	*	127-8[221_0]	
+127-8	19445-19447	of	Taste Source[221]	_	_	
+127-9	19448-19453	those	Taste Source[221]	_	_	
+127-10	19454-19460	things	Taste Source[221]	_	_	
+127-11	19460-19461	,	Taste Source[221]	_	_	
+127-12	19462-19467	which	Taste Source[221]	_	_	
+127-13	19468-19472	they	Taste Source[221]	_	_	
+127-14	19473-19477	feed	Taste Source[221]	_	_	
+127-15	19478-19481	too	Taste Source[221]	_	_	
+127-16	19482-19492	frequently	Taste Source[221]	_	_	
+127-17	19493-19497	upon	Taste Source[221]	_	_	
+127-18	19497-19498	,	_	_	_	
+127-19	19499-19502	and	_	_	_	
+127-20	19503-19507	that	_	_	_	
+127-21	19508-19514	either	_	_	_	
+127-22	19515-19522	because	_	_	_	
+127-23	19523-19528	these	_	_	_	
+127-24	19529-19535	common	_	_	_	
+127-25	19536-19544	Aliments	_	_	_	
+127-26	19545-19547	do	_	_	_	
+127-27	19548-19553	leave	_	_	_	
+127-28	19554-19558	some	_	_	_	
+127-29	19559-19561	of	_	_	_	
+127-30	19562-19567	their	_	_	_	
+127-31	19568-19577	particles	_	_	_	
+127-32	19578-19580	in	_	_	_	
+127-33	19581-19584	the	_	_	_	
+127-34	19585-19591	Tongue	_	_	_	
+127-35	19591-19592	,	_	_	_	
+127-36	19593-19598	which	_	_	_	
+127-37	19599-19605	render	_	_	_	
+127-38	19606-19609	the	_	_	_	
+127-39	19610-19616	little	_	_	_	
+127-40	19617-19624	Nipples	_	_	_	
+127-41	19625-19627	of	_	_	_	
+127-42	19628-19630	it	_	_	_	
+127-43	19631-19641	immoveable	_	_	_	
+127-44	19641-19642	;	_	_	_	
+127-45	19643-19645	or	_	_	_	
+127-46	19645-19646	,	_	_	_	
+127-47	19647-19654	because	_	_	_	
+127-48	19655-19658	the	_	_	_	
+127-49	19659-19663	Soul	_	_	_	
+127-50	19664-19669	gives	_	_	_	
+127-51	19670-19674	less	_	_	_	
+127-52	19675-19679	heed	_	_	_	
+127-53	19680-19682	to	_	_	_	
+127-54	19683-19688	those	_	_	_	
+127-55	19689-19696	motions	_	_	_	
+127-56	19697-19701	that	_	_	_	
+127-57	19702-19705	are	_	_	_	
+127-58	19706-19714	ordinary	_	_	_	
+127-59	19715-19718	and	_	_	_	
+127-60	19719-19725	common	_	_	_	
+127-61	19725-19726	,	_	_	_	
+127-62	19727-19731	than	_	_	_	
+127-63	19732-19734	to	_	_	_	
+127-64	19735-19740	those	_	_	_	
+127-65	19741-19746	which	_	_	_	
+127-66	19747-19750	are	_	_	_	
+127-67	19751-19754	new	_	_	_	
+127-68	19755-19758	and	_	_	_	
+127-69	19759-19769	unfiequent	_	_	_	
+127-70	19769-19770	.	_	_	_	
+
+#Text=XI.
+128-1	19773-19775	XI	_	_	_	
+128-2	19775-19776	.	_	_	_	
+
+#Text=Why we can better discern Tastes in the Morn∣ing.
+129-1	19777-19780	Why	_	_	_	
+129-2	19781-19783	we	_	_	_	
+129-3	19784-19787	can	_	_	_	
+129-4	19788-19794	better	_	_	_	
+129-5	19795-19802	discern	_	_	_	
+129-6	19803-19809	Tastes	Taste Word	*	129-7[222_0]	
+129-7	19810-19812	in	Circumstance[222]	_	_	
+129-8	19813-19816	the	Circumstance[222]	_	_	
+129-9	19817-19821	Morn	Circumstance[222]	_	_	
+129-10	19821-19822	∣	Circumstance[222]	_	_	
+129-11	19822-19825	ing	Circumstance[222]	_	_	
+129-12	19825-19826	.	_	_	_	
+
+#Text=Tastes are better discerned in the Morning, especially before we have eaten or drank any thing, that can byass the Tongue to a mistaken Verdict.
+130-1	19827-19833	Tastes	Taste Word	*	130-5[223_0]	
+130-2	19834-19837	are	_	_	_	
+130-3	19838-19844	better	_	_	_	
+130-4	19845-19854	discerned	_	_	_	
+130-5	19855-19857	in	Circumstance[223]	_	_	
+130-6	19858-19861	the	Circumstance[223]	_	_	
+130-7	19862-19869	Morning	Circumstance[223]	_	_	
+130-8	19869-19870	,	_	_	_	
+130-9	19871-19881	especially	_	_	_	
+130-10	19882-19888	before	_	_	_	
+130-11	19889-19891	we	_	_	_	
+130-12	19892-19896	have	_	_	_	
+130-13	19897-19902	eaten	Taste Word	*	130-16[224_0]	
+130-14	19903-19905	or	_	_	_	
+130-15	19906-19911	drank	Taste Word	*	130-16[224_0]	
+130-16	19912-19915	any	Taste Source[224]	_	_	
+130-17	19916-19921	thing	Taste Source[224]	_	_	
+130-18	19921-19922	,	_	_	_	
+130-19	19923-19927	that	_	_	_	
+130-20	19928-19931	can	_	_	_	
+130-21	19932-19937	byass	_	_	_	
+130-22	19938-19941	the	_	_	_	
+130-23	19942-19948	Tongue	_	_	_	
+130-24	19949-19951	to	_	_	_	
+130-25	19952-19953	a	_	_	_	
+130-26	19954-19962	mistaken	_	_	_	
+130-27	19963-19970	Verdict	_	_	_	
+130-28	19970-19971	.	_	_	_	
+
+#Text=Because at that time the Tongue is like fair Paper, and as yet unting ' d by any Savours.
+131-1	19974-19981	Because	_	_	_	
+131-2	19982-19984	at	_	_	_	
+131-3	19985-19989	that	_	_	_	
+131-4	19990-19994	time	_	_	_	
+131-5	19995-19998	the	Taster[225]	_	_	
+131-6	19999-20005	Tongue	Taster[225]	_	_	
+131-7	20006-20008	is	_	_	_	
+131-8	20009-20013	like	_	_	_	
+131-9	20014-20018	fair	_	_	_	
+131-10	20019-20024	Paper	_	_	_	
+131-11	20024-20025	,	_	_	_	
+131-12	20026-20029	and	_	_	_	
+131-13	20030-20032	as	_	_	_	
+131-14	20033-20036	yet	_	_	_	
+131-15	20037-20043	unting	_	_	_	
+131-16	20044-20045	'	_	_	_	
+131-17	20046-20047	d	_	_	_	
+131-18	20048-20050	by	_	_	_	
+131-19	20051-20054	any	Quality	_	_	
+131-20	20055-20062	Savours	Taste Word	*|*	131-19|131-5[225_0]	
+131-21	20062-20063	.	_	_	_	
+
+#Text=For that which receives, must be free from a Taint of the thing received.
+132-1	20064-20067	For	_	_	_	
+132-2	20068-20072	that	_	_	_	
+132-3	20073-20078	which	_	_	_	
+132-4	20079-20087	receives	_	_	_	
+132-5	20087-20088	,	_	_	_	
+132-6	20089-20093	must	_	_	_	
+132-7	20094-20096	be	_	_	_	
+132-8	20097-20101	free	_	_	_	
+132-9	20102-20106	from	_	_	_	
+132-10	20107-20108	a	_	_	_	
+132-11	20109-20114	Taint	_	_	_	
+132-12	20115-20117	of	_	_	_	
+132-13	20118-20121	the	_	_	_	
+132-14	20122-20127	thing	_	_	_	
+132-15	20128-20136	received	_	_	_	
+132-16	20136-20137	.	_	_	_	
+
+#Text=Which is true not only in the Taste, but also in Hearing, Smelling, and all the other Senses: For by right, the Sense of Hearing is sharpest, and Blind men do better retain things than others.
+133-1	20138-20143	Which	_	_	_	
+133-2	20144-20146	is	_	_	_	
+133-3	20147-20151	true	_	_	_	
+133-4	20152-20155	not	_	_	_	
+133-5	20156-20160	only	_	_	_	
+133-6	20161-20163	in	_	_	_	
+133-7	20164-20167	the	_	_	_	
+133-8	20168-20173	Taste	Taste Word	_	_	
+133-9	20173-20174	,	_	_	_	
+133-10	20175-20178	but	_	_	_	
+133-11	20179-20183	also	_	_	_	
+133-12	20184-20186	in	_	_	_	
+133-13	20187-20194	Hearing	_	_	_	
+133-14	20194-20195	,	_	_	_	
+133-15	20196-20204	Smelling	_	_	_	
+133-16	20204-20205	,	_	_	_	
+133-17	20206-20209	and	_	_	_	
+133-18	20210-20213	all	_	_	_	
+133-19	20214-20217	the	_	_	_	
+133-20	20218-20223	other	_	_	_	
+133-21	20224-20230	Senses	_	_	_	
+133-22	20230-20231	:	_	_	_	
+133-23	20232-20235	For	_	_	_	
+133-24	20236-20238	by	_	_	_	
+133-25	20239-20244	right	_	_	_	
+133-26	20244-20245	,	_	_	_	
+133-27	20246-20249	the	_	_	_	
+133-28	20250-20255	Sense	_	_	_	
+133-29	20256-20258	of	_	_	_	
+133-30	20259-20266	Hearing	_	_	_	
+133-31	20267-20269	is	_	_	_	
+133-32	20270-20278	sharpest	_	_	_	
+133-33	20278-20279	,	_	_	_	
+133-34	20280-20283	and	_	_	_	
+133-35	20284-20289	Blind	_	_	_	
+133-36	20290-20293	men	_	_	_	
+133-37	20294-20296	do	_	_	_	
+133-38	20297-20303	better	_	_	_	
+133-39	20304-20310	retain	_	_	_	
+133-40	20311-20317	things	_	_	_	
+133-41	20318-20322	than	_	_	_	
+133-42	20323-20329	others	_	_	_	
+133-43	20329-20330	.	_	_	_	
+
+#Text=XII.
+134-1	20333-20336	XII	_	_	_	
+134-2	20336-20337	.	_	_	_	
+
+#Text=Persons sick of the Jaundise, cannot rightly discern the taste of things.
+135-1	20338-20345	Persons	Taster[226]	_	_	
+135-2	20346-20350	sick	Taster[226]	_	_	
+135-3	20351-20353	of	Taster[226]	_	_	
+135-4	20354-20357	the	Taster[226]	_	_	
+135-5	20358-20366	Jaundise	Taster[226]	_	_	
+135-6	20366-20367	,	_	_	_	
+135-7	20368-20374	cannot	_	_	_	
+135-8	20375-20382	rightly	_	_	_	
+135-9	20383-20390	discern	_	_	_	
+135-10	20391-20394	the	_	_	_	
+135-11	20395-20400	taste	Taste Word	*|*	135-12[227_0]|135-1[226_0]	
+135-12	20401-20403	of	Taste Source[227]	_	_	
+135-13	20404-20410	things	Taste Source[227]	_	_	
+135-14	20410-20411	.	_	_	_	
+
+#Text=Men sick of the Jaundise, suppose all things to taste bitter.
+136-1	20412-20415	Men	Taster[228]	_	_	
+136-2	20416-20420	sick	Taster[228]	_	_	
+136-3	20421-20423	of	Taster[228]	_	_	
+136-4	20424-20427	the	Taster[228]	_	_	
+136-5	20428-20436	Jaundise	Taster[228]	_	_	
+136-6	20436-20437	,	_	_	_	
+136-7	20438-20445	suppose	_	_	_	
+136-8	20446-20449	all	Taste Source[229]	_	_	
+136-9	20450-20456	things	Taste Source[229]	_	_	
+136-10	20457-20459	to	_	_	_	
+136-11	20460-20465	taste	Taste Word	*|*|*	136-12[231_0]|136-8[229_0]|136-1[228_0]	
+136-12	20466-20472	bitter	Taste Word[230]|Quality[231]	*	136-12[231_230]	
+136-13	20472-20473	.	_	_	_	
+
+#Text=The Reason is, because the Gall is diffused through their Tongues, which infects their Spittle; for the Gall consisting of sharp particles, doth so corrupt the Spittle, that it communicates a bit∣ternessand an ungrateful taste to all the Food that is eaten, as if something of Soot were mixt with it.
+137-1	20476-20479	The	_	_	_	
+137-2	20480-20486	Reason	_	_	_	
+137-3	20487-20489	is	_	_	_	
+137-4	20489-20490	,	_	_	_	
+137-5	20491-20498	because	_	_	_	
+137-6	20499-20502	the	_	_	_	
+137-7	20503-20507	Gall	_	_	_	
+137-8	20508-20510	is	_	_	_	
+137-9	20511-20519	diffused	_	_	_	
+137-10	20520-20527	through	_	_	_	
+137-11	20528-20533	their	_	_	_	
+137-12	20534-20541	Tongues	_	_	_	
+137-13	20541-20542	,	_	_	_	
+137-14	20543-20548	which	_	_	_	
+137-15	20549-20556	infects	_	_	_	
+137-16	20557-20562	their	_	_	_	
+137-17	20563-20570	Spittle	_	_	_	
+137-18	20570-20571	;	_	_	_	
+137-19	20572-20575	for	_	_	_	
+137-20	20576-20579	the	_	_	_	
+137-21	20580-20584	Gall	_	_	_	
+137-22	20585-20595	consisting	_	_	_	
+137-23	20596-20598	of	_	_	_	
+137-24	20599-20604	sharp	Taste Word[232]|Quality[233]	*|*	137-24[233_232]|137-25[0_232]	
+137-25	20605-20614	particles	Taste Source	_	_	
+137-26	20614-20615	,	_	_	_	
+137-27	20616-20620	doth	_	_	_	
+137-28	20621-20623	so	_	_	_	
+137-29	20624-20631	corrupt	_	_	_	
+137-30	20632-20635	the	Taste Source[234]	_	_	
+137-31	20636-20643	Spittle	Taste Source[234]	_	_	
+137-32	20643-20644	,	_	_	_	
+137-33	20645-20649	that	_	_	_	
+137-34	20650-20652	it	_	_	_	
+137-35	20653-20665	communicates	_	_	_	
+137-36	20666-20667	a	_	_	_	
+137-37	20668-20671	bit	Taste Word[235]	*	137-30[234_235]	
+137-38	20671-20672	∣	Taste Word[235]	_	_	
+137-39	20672-20682	ternessand	Taste Word[235]	_	_	
+137-40	20683-20685	an	_	_	_	
+137-41	20686-20696	ungrateful	Quality	_	_	
+137-42	20697-20702	taste	Taste Word	*|*|*	137-41|137-44[236_0]|137-51[237_0]	
+137-43	20703-20705	to	_	_	_	
+137-44	20706-20709	all	Taste Source[236]	_	_	
+137-45	20710-20713	the	Taste Source[236]	_	_	
+137-46	20714-20718	Food	Taste Source[236]	_	_	
+137-47	20719-20723	that	_	_	_	
+137-48	20724-20726	is	_	_	_	
+137-49	20727-20732	eaten	Taste Word	*	137-44[236_0]	
+137-50	20732-20733	,	_	_	_	
+137-51	20734-20736	as	Evoked Taste[237]	_	_	
+137-52	20737-20739	if	Evoked Taste[237]	_	_	
+137-53	20740-20749	something	Evoked Taste[237]	_	_	
+137-54	20750-20752	of	Evoked Taste[237]	_	_	
+137-55	20753-20757	Soot	Evoked Taste[237]	_	_	
+137-56	20758-20762	were	Evoked Taste[237]	_	_	
+137-57	20763-20767	mixt	Evoked Taste[237]	_	_	
+137-58	20768-20772	with	Evoked Taste[237]	_	_	
+137-59	20773-20775	it	Evoked Taste[237]	_	_	
+137-60	20775-20776	.	_	_	_	
+
+#Text=The Cause of which Depravation is, because the Raw humour, which runs through the Veins and Arteries, betakes it self to the Tongue, because of its loose and spongy Flesh, and filling the pores of it, vitiate the taste of all received Aliments.
+138-1	20777-20780	The	_	_	_	
+138-2	20781-20786	Cause	_	_	_	
+138-3	20787-20789	of	_	_	_	
+138-4	20790-20795	which	_	_	_	
+138-5	20796-20807	Depravation	_	_	_	
+138-6	20808-20810	is	_	_	_	
+138-7	20810-20811	,	_	_	_	
+138-8	20812-20819	because	_	_	_	
+138-9	20820-20823	the	_	_	_	
+138-10	20824-20827	Raw	_	_	_	
+138-11	20828-20834	humour	_	_	_	
+138-12	20834-20835	,	_	_	_	
+138-13	20836-20841	which	_	_	_	
+138-14	20842-20846	runs	_	_	_	
+138-15	20847-20854	through	_	_	_	
+138-16	20855-20858	the	_	_	_	
+138-17	20859-20864	Veins	_	_	_	
+138-18	20865-20868	and	_	_	_	
+138-19	20869-20877	Arteries	_	_	_	
+138-20	20877-20878	,	_	_	_	
+138-21	20879-20886	betakes	_	_	_	
+138-22	20887-20889	it	_	_	_	
+138-23	20890-20894	self	_	_	_	
+138-24	20895-20897	to	_	_	_	
+138-25	20898-20901	the	_	_	_	
+138-26	20902-20908	Tongue	_	_	_	
+138-27	20908-20909	,	_	_	_	
+138-28	20910-20917	because	_	_	_	
+138-29	20918-20920	of	_	_	_	
+138-30	20921-20924	its	_	_	_	
+138-31	20925-20930	loose	_	_	_	
+138-32	20931-20934	and	_	_	_	
+138-33	20935-20941	spongy	_	_	_	
+138-34	20942-20947	Flesh	_	_	_	
+138-35	20947-20948	,	_	_	_	
+138-36	20949-20952	and	_	_	_	
+138-37	20953-20960	filling	_	_	_	
+138-38	20961-20964	the	_	_	_	
+138-39	20965-20970	pores	_	_	_	
+138-40	20971-20973	of	_	_	_	
+138-41	20974-20976	it	_	_	_	
+138-42	20976-20977	,	_	_	_	
+138-43	20978-20985	vitiate	_	_	_	
+138-44	20986-20989	the	_	_	_	
+138-45	20990-20995	taste	Taste Word	*	138-46[238_0]	
+138-46	20996-20998	of	Taste Source[238]	_	_	
+138-47	20999-21002	all	Taste Source[238]	_	_	
+138-48	21003-21011	received	Taste Source[238]	_	_	
+138-49	21012-21020	Aliments	Taste Source[238]	_	_	
+138-50	21020-21021	.	_	_	_	
+
+#Text=Which is the Reason why Physicians commonly order their Patients to put out their Tongues, that they may view the colour and disposition of it; for seeing that that Member, proportionable to its bulk, contains abundance of Blood, it accordingly also admits a considerable deal of the morbifick Matter, which there discovers it self by its Colour, and consequently also the Sickness which disturbs the Body.
+139-1	21022-21027	Which	_	_	_	
+139-2	21028-21030	is	_	_	_	
+139-3	21031-21034	the	_	_	_	
+139-4	21035-21041	Reason	_	_	_	
+139-5	21042-21045	why	_	_	_	
+139-6	21046-21056	Physicians	_	_	_	
+139-7	21057-21065	commonly	_	_	_	
+139-8	21066-21071	order	_	_	_	
+139-9	21072-21077	their	_	_	_	
+139-10	21078-21086	Patients	_	_	_	
+139-11	21087-21089	to	_	_	_	
+139-12	21090-21093	put	_	_	_	
+139-13	21094-21097	out	_	_	_	
+139-14	21098-21103	their	_	_	_	
+139-15	21104-21111	Tongues	_	_	_	
+139-16	21111-21112	,	_	_	_	
+139-17	21113-21117	that	_	_	_	
+139-18	21118-21122	they	_	_	_	
+139-19	21123-21126	may	_	_	_	
+139-20	21127-21131	view	_	_	_	
+139-21	21132-21135	the	_	_	_	
+139-22	21136-21142	colour	_	_	_	
+139-23	21143-21146	and	_	_	_	
+139-24	21147-21158	disposition	_	_	_	
+139-25	21159-21161	of	_	_	_	
+139-26	21162-21164	it	_	_	_	
+139-27	21164-21165	;	_	_	_	
+139-28	21166-21169	for	_	_	_	
+139-29	21170-21176	seeing	_	_	_	
+139-30	21177-21181	that	_	_	_	
+139-31	21182-21186	that	_	_	_	
+139-32	21187-21193	Member	_	_	_	
+139-33	21193-21194	,	_	_	_	
+139-34	21195-21209	proportionable	_	_	_	
+139-35	21210-21212	to	_	_	_	
+139-36	21213-21216	its	_	_	_	
+139-37	21217-21221	bulk	_	_	_	
+139-38	21221-21222	,	_	_	_	
+139-39	21223-21231	contains	_	_	_	
+139-40	21232-21241	abundance	_	_	_	
+139-41	21242-21244	of	_	_	_	
+139-42	21245-21250	Blood	_	_	_	
+139-43	21250-21251	,	_	_	_	
+139-44	21252-21254	it	_	_	_	
+139-45	21255-21266	accordingly	_	_	_	
+139-46	21267-21271	also	_	_	_	
+139-47	21272-21278	admits	_	_	_	
+139-48	21279-21280	a	_	_	_	
+139-49	21281-21293	considerable	_	_	_	
+139-50	21294-21298	deal	_	_	_	
+139-51	21299-21301	of	_	_	_	
+139-52	21302-21305	the	_	_	_	
+139-53	21306-21315	morbifick	_	_	_	
+139-54	21316-21322	Matter	_	_	_	
+139-55	21322-21323	,	_	_	_	
+139-56	21324-21329	which	_	_	_	
+139-57	21330-21335	there	_	_	_	
+139-58	21336-21345	discovers	_	_	_	
+139-59	21346-21348	it	_	_	_	
+139-60	21349-21353	self	_	_	_	
+139-61	21354-21356	by	_	_	_	
+139-62	21357-21360	its	_	_	_	
+139-63	21361-21367	Colour	_	_	_	
+139-64	21367-21368	,	_	_	_	
+139-65	21369-21372	and	_	_	_	
+139-66	21373-21385	consequently	_	_	_	
+139-67	21386-21390	also	_	_	_	
+139-68	21391-21394	the	_	_	_	
+139-69	21395-21403	Sickness	_	_	_	
+139-70	21404-21409	which	_	_	_	
+139-71	21410-21418	disturbs	_	_	_	
+139-72	21419-21422	the	_	_	_	
+139-73	21423-21427	Body	_	_	_	
+139-74	21427-21428	.	_	_	_	
+
+#Text=XIII.
+140-1	21431-21435	XIII	_	_	_	
+140-2	21435-21436	.	_	_	_	
+
+#Text=Whence the Harsh taste of Verjuice doth pro∣ceed.
+141-1	21437-21443	Whence	_	_	_	
+141-2	21444-21447	the	_	_	_	
+141-3	21448-21453	Harsh	Quality	_	_	
+141-4	21454-21459	taste	Taste Word	*|*	141-3|141-5[239_0]	
+141-5	21460-21462	of	Taste Source[239]	_	_	
+141-6	21463-21471	Verjuice	Taste Source[239]	_	_	
+141-7	21472-21476	doth	_	_	_	
+141-8	21477-21480	pro	_	_	_	
+141-9	21480-21481	∣	_	_	_	
+141-10	21481-21485	ceed	_	_	_	
+141-11	21485-21486	.	_	_	_	
+
+#Text=The Juice of unripe Grapes constitutes that which is called Verjuice, which is of a sowre and somewhat harsh taste; whereas the Juice of ripe Grapes is sweet, and with a pleasant briskness accosts the Palat.
+142-1	21487-21490	The	Taste Source[240]	_	_	
+142-2	21491-21496	Juice	Taste Source[240]	_	_	
+142-3	21497-21499	of	Taste Source[240]	_	_	
+142-4	21500-21506	unripe	Taste Source[240]	_	_	
+142-5	21507-21513	Grapes	Taste Source[240]	_	_	
+142-6	21514-21525	constitutes	_	_	_	
+142-7	21526-21530	that	_	_	_	
+142-8	21531-21536	which	_	_	_	
+142-9	21537-21539	is	_	_	_	
+142-10	21540-21546	called	_	_	_	
+142-11	21547-21555	Verjuice	Taste Source	_	_	
+142-12	21555-21556	,	_	_	_	
+142-13	21557-21562	which	_	_	_	
+142-14	21563-21565	is	_	_	_	
+142-15	21566-21568	of	_	_	_	
+142-16	21569-21570	a	_	_	_	
+142-17	21571-21576	sowre	Taste Word[241]|Quality[242]	*	142-17[242_241]	
+142-18	21577-21580	and	_	_	_	
+142-19	21581-21589	somewhat	Quality[243]	_	_	
+142-20	21590-21595	harsh	Quality[243]	_	_	
+142-21	21596-21601	taste	Taste Word	*|*|*|*	142-19[243_0]|142-17[242_0]|142-11|142-1[240_0]	
+142-22	21601-21602	;	_	_	_	
+142-23	21603-21610	whereas	_	_	_	
+142-24	21611-21614	the	Taste Source[244]	_	_	
+142-25	21615-21620	Juice	Taste Source[244]	_	_	
+142-26	21621-21623	of	Taste Source[244]	_	_	
+142-27	21624-21628	ripe	Taste Source[244]	_	_	
+142-28	21629-21635	Grapes	Taste Source[244]	_	_	
+142-29	21636-21638	is	_	_	_	
+142-30	21639-21644	sweet	Taste Word[245]|Quality[246]	*|*|*	142-30[246_245]|142-24[244_245]|142-38[247_245]	
+142-31	21644-21645	,	_	_	_	
+142-32	21646-21649	and	_	_	_	
+142-33	21650-21654	with	_	_	_	
+142-34	21655-21656	a	_	_	_	
+142-35	21657-21665	pleasant	_	_	_	
+142-36	21666-21675	briskness	_	_	_	
+142-37	21676-21683	accosts	_	_	_	
+142-38	21684-21687	the	Taster[247]	_	_	
+142-39	21688-21693	Palat	Taster[247]	_	_	
+142-40	21693-21694	.	_	_	_	
+
+#Text=The harshness of Verjuyce proceeds from the Roughness and Inequality of its parts; for be∣cause the Juice of unripe Grapes is not sufficiently concocted, they retain a great deal of Crudity, which is owing to their long and inflexible par∣ticles.
+143-1	21697-21700	The	_	_	_	
+143-2	21701-21710	harshness	_	_	_	
+143-3	21711-21713	of	_	_	_	
+143-4	21714-21722	Verjuyce	_	_	_	
+143-5	21723-21731	proceeds	_	_	_	
+143-6	21732-21736	from	_	_	_	
+143-7	21737-21740	the	_	_	_	
+143-8	21741-21750	Roughness	_	_	_	
+143-9	21751-21754	and	_	_	_	
+143-10	21755-21765	Inequality	_	_	_	
+143-11	21766-21768	of	_	_	_	
+143-12	21769-21772	its	_	_	_	
+143-13	21773-21778	parts	_	_	_	
+143-14	21778-21779	;	_	_	_	
+143-15	21780-21783	for	_	_	_	
+143-16	21784-21786	be	_	_	_	
+143-17	21786-21787	∣	_	_	_	
+143-18	21787-21792	cause	_	_	_	
+143-19	21793-21796	the	_	_	_	
+143-20	21797-21802	Juice	_	_	_	
+143-21	21803-21805	of	_	_	_	
+143-22	21806-21812	unripe	_	_	_	
+143-23	21813-21819	Grapes	_	_	_	
+143-24	21820-21822	is	_	_	_	
+143-25	21823-21826	not	_	_	_	
+143-26	21827-21839	sufficiently	_	_	_	
+143-27	21840-21849	concocted	_	_	_	
+143-28	21849-21850	,	_	_	_	
+143-29	21851-21855	they	_	_	_	
+143-30	21856-21862	retain	_	_	_	
+143-31	21863-21864	a	_	_	_	
+143-32	21865-21870	great	_	_	_	
+143-33	21871-21875	deal	_	_	_	
+143-34	21876-21878	of	_	_	_	
+143-35	21879-21886	Crudity	_	_	_	
+143-36	21886-21887	,	_	_	_	
+143-37	21888-21893	which	_	_	_	
+143-38	21894-21896	is	_	_	_	
+143-39	21897-21902	owing	_	_	_	
+143-40	21903-21905	to	_	_	_	
+143-41	21906-21911	their	_	_	_	
+143-42	21912-21916	long	_	_	_	
+143-43	21917-21920	and	_	_	_	
+143-44	21921-21931	inflexible	_	_	_	
+143-45	21932-21935	par	_	_	_	
+143-46	21935-21936	∣	_	_	_	
+143-47	21936-21942	ticles	_	_	_	
+143-48	21942-21943	.	_	_	_	
+
+#Text=Hence it is that the Verjuice which is made of Crabs, is a good Medicine to help the weakness of the Eyes; because its particles being like so many little grains of Sand, do wipe off the filth of the Eyes, and by this means restore the Visive faculty to its former clearness.
+144-1	21946-21951	Hence	_	_	_	
+144-2	21952-21954	it	_	_	_	
+144-3	21955-21957	is	_	_	_	
+144-4	21958-21962	that	_	_	_	
+144-5	21963-21966	the	_	_	_	
+144-6	21967-21975	Verjuice	_	_	_	
+144-7	21976-21981	which	_	_	_	
+144-8	21982-21984	is	_	_	_	
+144-9	21985-21989	made	_	_	_	
+144-10	21990-21992	of	_	_	_	
+144-11	21993-21998	Crabs	_	_	_	
+144-12	21998-21999	,	_	_	_	
+144-13	22000-22002	is	_	_	_	
+144-14	22003-22004	a	_	_	_	
+144-15	22005-22009	good	_	_	_	
+144-16	22010-22018	Medicine	_	_	_	
+144-17	22019-22021	to	_	_	_	
+144-18	22022-22026	help	_	_	_	
+144-19	22027-22030	the	_	_	_	
+144-20	22031-22039	weakness	_	_	_	
+144-21	22040-22042	of	_	_	_	
+144-22	22043-22046	the	_	_	_	
+144-23	22047-22051	Eyes	_	_	_	
+144-24	22051-22052	;	_	_	_	
+144-25	22053-22060	because	_	_	_	
+144-26	22061-22064	its	_	_	_	
+144-27	22065-22074	particles	_	_	_	
+144-28	22075-22080	being	_	_	_	
+144-29	22081-22085	like	_	_	_	
+144-30	22086-22088	so	_	_	_	
+144-31	22089-22093	many	_	_	_	
+144-32	22094-22100	little	_	_	_	
+144-33	22101-22107	grains	_	_	_	
+144-34	22108-22110	of	_	_	_	
+144-35	22111-22115	Sand	_	_	_	
+144-36	22115-22116	,	_	_	_	
+144-37	22117-22119	do	_	_	_	
+144-38	22120-22124	wipe	_	_	_	
+144-39	22125-22128	off	_	_	_	
+144-40	22129-22132	the	_	_	_	
+144-41	22133-22138	filth	_	_	_	
+144-42	22139-22141	of	_	_	_	
+144-43	22142-22145	the	_	_	_	
+144-44	22146-22150	Eyes	_	_	_	
+144-45	22150-22151	,	_	_	_	
+144-46	22152-22155	and	_	_	_	
+144-47	22156-22158	by	_	_	_	
+144-48	22159-22163	this	_	_	_	
+144-49	22164-22169	means	_	_	_	
+144-50	22170-22177	restore	_	_	_	
+144-51	22178-22181	the	_	_	_	
+144-52	22182-22188	Visive	_	_	_	
+144-53	22189-22196	faculty	_	_	_	
+144-54	22197-22199	to	_	_	_	
+144-55	22200-22203	its	_	_	_	
+144-56	22204-22210	former	_	_	_	
+144-57	22211-22220	clearness	_	_	_	
+144-58	22220-22221	.	_	_	_	
+
+#Text=And the same Reason may be given of the Water of some particular Fountains, which by reason of their Acrimony do not only purge the Eyes, but also the Optick Nerves, that so the Rays of Light may be the more freely transmitted.
+145-1	22222-22225	And	_	_	_	
+145-2	22226-22229	the	_	_	_	
+145-3	22230-22234	same	_	_	_	
+145-4	22235-22241	Reason	_	_	_	
+145-5	22242-22245	may	_	_	_	
+145-6	22246-22248	be	_	_	_	
+145-7	22249-22254	given	_	_	_	
+145-8	22255-22257	of	_	_	_	
+145-9	22258-22261	the	_	_	_	
+145-10	22262-22267	Water	_	_	_	
+145-11	22268-22270	of	_	_	_	
+145-12	22271-22275	some	_	_	_	
+145-13	22276-22286	particular	_	_	_	
+145-14	22287-22296	Fountains	_	_	_	
+145-15	22296-22297	,	_	_	_	
+145-16	22298-22303	which	_	_	_	
+145-17	22304-22306	by	_	_	_	
+145-18	22307-22313	reason	_	_	_	
+145-19	22314-22316	of	_	_	_	
+145-20	22317-22322	their	_	_	_	
+145-21	22323-22331	Acrimony	_	_	_	
+145-22	22332-22334	do	_	_	_	
+145-23	22335-22338	not	_	_	_	
+145-24	22339-22343	only	_	_	_	
+145-25	22344-22349	purge	_	_	_	
+145-26	22350-22353	the	_	_	_	
+145-27	22354-22358	Eyes	_	_	_	
+145-28	22358-22359	,	_	_	_	
+145-29	22360-22363	but	_	_	_	
+145-30	22364-22368	also	_	_	_	
+145-31	22369-22372	the	_	_	_	
+145-32	22373-22379	Optick	_	_	_	
+145-33	22380-22386	Nerves	_	_	_	
+145-34	22386-22387	,	_	_	_	
+145-35	22388-22392	that	_	_	_	
+145-36	22393-22395	so	_	_	_	
+145-37	22396-22399	the	_	_	_	
+145-38	22400-22404	Rays	_	_	_	
+145-39	22405-22407	of	_	_	_	
+145-40	22408-22413	Light	_	_	_	
+145-41	22414-22417	may	_	_	_	
+145-42	22418-22420	be	_	_	_	
+145-43	22421-22424	the	_	_	_	
+145-44	22425-22429	more	_	_	_	
+145-45	22430-22436	freely	_	_	_	
+145-46	22437-22448	transmitted	_	_	_	
+145-47	22448-22449	.	_	_	_	
+
+#Text=XIV.
+146-1	22452-22455	XIV	_	_	_	
+146-2	22455-22456	.	_	_	_	
+
+#Text=Why New Wine is sweet.
+147-1	22457-22460	Why	_	_	_	
+147-2	22461-22464	New	Taste Source[248]	_	_	
+147-3	22465-22469	Wine	Taste Source[248]	_	_	
+147-4	22470-22472	is	_	_	_	
+147-5	22473-22478	sweet	Taste Word[249]|Quality[250]	*|*	147-5[250_249]|147-2[248_249]	
+147-6	22478-22479	.	_	_	_	
+
+#Text=But New Wine is sweet, because it hath been sufficiently decocted by Heat, and all its parts are smooth and even.
+148-1	22480-22483	But	_	_	_	
+148-2	22484-22487	New	Taste Source[251]	_	_	
+148-3	22488-22492	Wine	Taste Source[251]	_	_	
+148-4	22493-22495	is	_	_	_	
+148-5	22496-22501	sweet	Taste Word[252]|Quality[253]	*|*|*	148-5[253_252]|148-2[251_252]|148-11[254_252]	
+148-6	22501-22502	,	_	_	_	
+148-7	22503-22510	because	_	_	_	
+148-8	22511-22513	it	_	_	_	
+148-9	22514-22518	hath	_	_	_	
+148-10	22519-22523	been	_	_	_	
+148-11	22524-22536	sufficiently	Circumstance[254]	_	_	
+148-12	22537-22545	decocted	Circumstance[254]	_	_	
+148-13	22546-22548	by	Circumstance[254]	_	_	
+148-14	22549-22553	Heat	Circumstance[254]	_	_	
+148-15	22553-22554	,	_	_	_	
+148-16	22555-22558	and	_	_	_	
+148-17	22559-22562	all	_	_	_	
+148-18	22563-22566	its	_	_	_	
+148-19	22567-22572	parts	_	_	_	
+148-20	22573-22576	are	_	_	_	
+148-21	22577-22583	smooth	_	_	_	
+148-22	22584-22587	and	_	_	_	
+148-23	22588-22592	even	_	_	_	
+148-24	22592-22593	.	_	_	_	
+
+#Text=And as to its muddiness, that is only caused by those Heterogeneous parts, which are not yet separated from it; which as soon as they are either precipitated to the bottom, or raised up to the top, by fermentation, the Wine becomes elear, by admitting the Heavenly Glo∣buli.
+149-1	22594-22597	And	_	_	_	
+149-2	22598-22600	as	_	_	_	
+149-3	22601-22603	to	_	_	_	
+149-4	22604-22607	its	_	_	_	
+149-5	22608-22617	muddiness	_	_	_	
+149-6	22617-22618	,	_	_	_	
+149-7	22619-22623	that	_	_	_	
+149-8	22624-22626	is	_	_	_	
+149-9	22627-22631	only	_	_	_	
+149-10	22632-22638	caused	_	_	_	
+149-11	22639-22641	by	_	_	_	
+149-12	22642-22647	those	_	_	_	
+149-13	22648-22661	Heterogeneous	_	_	_	
+149-14	22662-22667	parts	_	_	_	
+149-15	22667-22668	,	_	_	_	
+149-16	22669-22674	which	_	_	_	
+149-17	22675-22678	are	_	_	_	
+149-18	22679-22682	not	_	_	_	
+149-19	22683-22686	yet	_	_	_	
+149-20	22687-22696	separated	_	_	_	
+149-21	22697-22701	from	_	_	_	
+149-22	22702-22704	it	_	_	_	
+149-23	22704-22705	;	_	_	_	
+149-24	22706-22711	which	_	_	_	
+149-25	22712-22714	as	_	_	_	
+149-26	22715-22719	soon	_	_	_	
+149-27	22720-22722	as	_	_	_	
+149-28	22723-22727	they	_	_	_	
+149-29	22728-22731	are	_	_	_	
+149-30	22732-22738	either	_	_	_	
+149-31	22739-22751	precipitated	_	_	_	
+149-32	22752-22754	to	_	_	_	
+149-33	22755-22758	the	_	_	_	
+149-34	22759-22765	bottom	_	_	_	
+149-35	22765-22766	,	_	_	_	
+149-36	22767-22769	or	_	_	_	
+149-37	22770-22776	raised	_	_	_	
+149-38	22777-22779	up	_	_	_	
+149-39	22780-22782	to	_	_	_	
+149-40	22783-22786	the	_	_	_	
+149-41	22787-22790	top	_	_	_	
+149-42	22790-22791	,	_	_	_	
+149-43	22792-22794	by	_	_	_	
+149-44	22795-22807	fermentation	_	_	_	
+149-45	22807-22808	,	_	_	_	
+149-46	22809-22812	the	_	_	_	
+149-47	22813-22817	Wine	_	_	_	
+149-48	22818-22825	becomes	_	_	_	
+149-49	22826-22831	elear	_	_	_	
+149-50	22831-22832	,	_	_	_	
+149-51	22833-22835	by	_	_	_	
+149-52	22836-22845	admitting	_	_	_	
+149-53	22846-22849	the	_	_	_	
+149-54	22850-22858	Heavenly	_	_	_	
+149-55	22859-22862	Glo	_	_	_	
+149-56	22862-22863	∣	_	_	_	
+149-57	22863-22867	buli	_	_	_	
+149-58	22867-22868	.	_	_	_	
+
+#Text=XV.
+150-1	22871-22873	XV	_	_	_	
+150-2	22873-22874	.	_	_	_	
+
+#Text=What is the Cause of that variety of Tastes which is in Fruits.
+151-1	22875-22879	What	_	_	_	
+151-2	22880-22882	is	_	_	_	
+151-3	22883-22886	the	_	_	_	
+151-4	22887-22892	Cause	_	_	_	
+151-5	22893-22895	of	_	_	_	
+151-6	22896-22900	that	_	_	_	
+151-7	22901-22908	variety	_	_	_	
+151-8	22909-22911	of	_	_	_	
+151-9	22912-22918	Tastes	Taste Word	*	151-13	
+151-10	22919-22924	which	_	_	_	
+151-11	22925-22927	is	_	_	_	
+151-12	22928-22930	in	_	_	_	
+151-13	22931-22937	Fruits	Taste Source	_	_	
+151-14	22937-22938	.	_	_	_	
+
+#Text=All Fruits are distinguishable by their taste, some of them having a harsh bitter taste, others a harsh sowre, other a sowre, and all of them a sweet taste after they attain to their full ma∣turity.
+152-1	22939-22942	All	Taste Source[255]	_	_	
+152-2	22943-22949	Fruits	Taste Source[255]	_	_	
+152-3	22950-22953	are	_	_	_	
+152-4	22954-22969	distinguishable	_	_	_	
+152-5	22970-22972	by	_	_	_	
+152-6	22973-22978	their	_	_	_	
+152-7	22979-22984	taste	Taste Word	*	152-1[255_0]	
+152-8	22984-22985	,	_	_	_	
+152-9	22986-22990	some	Taste Source[256]	anaphorical	152-1[255_256]	
+152-10	22991-22993	of	Taste Source[256]	_	_	
+152-11	22994-22998	them	Taste Source[256]	_	_	
+152-12	22999-23005	having	_	_	_	
+152-13	23006-23007	a	_	_	_	
+152-14	23008-23013	harsh	Quality	_	_	
+152-15	23014-23020	bitter	Taste Word[257]|Quality[258]	*	152-15[258_257]	
+152-16	23021-23026	taste	Taste Word	*|*|*	152-14|152-15[258_0]|152-9[256_0]	
+152-17	23026-23027	,	_	_	_	
+152-18	23028-23034	others	Taste Source	anaphorical	152-1[255_0]	
+152-19	23035-23036	a	_	_	_	
+152-20	23037-23042	harsh	Quality	_	_	
+152-21	23043-23048	sowre	Taste Word[259]|Quality[260]	*|*|*	152-21[260_259]|152-20[0_259]|152-18[0_259]	
+152-22	23048-23049	,	_	_	_	
+152-23	23050-23055	other	Taste Source	anaphorical	152-1[255_0]	
+152-24	23056-23057	a	_	_	_	
+152-25	23058-23063	sowre	Taste Word[261]|Quality[262]	*|*	152-25[262_261]|152-23[0_261]	
+152-26	23063-23064	,	_	_	_	
+152-27	23065-23068	and	_	_	_	
+152-28	23069-23072	all	Taste Source[263]	anaphorical	152-1[255_263]	
+152-29	23073-23075	of	Taste Source[263]	_	_	
+152-30	23076-23080	them	Taste Source[263]	_	_	
+152-31	23081-23082	a	_	_	_	
+152-32	23083-23088	sweet	Taste Word[264]|Quality[265]	*	152-32[265_264]	
+152-33	23089-23094	taste	Taste Word	*|*	152-32[265_0]|152-28[263_0]	
+152-34	23095-23100	after	_	_	_	
+152-35	23101-23105	they	_	_	_	
+152-36	23106-23112	attain	_	_	_	
+152-37	23113-23115	to	_	_	_	
+152-38	23116-23121	their	_	_	_	
+152-39	23122-23126	full	_	_	_	
+152-40	23127-23129	ma	_	_	_	
+152-41	23129-23130	∣	_	_	_	
+152-42	23130-23136	turity	_	_	_	
+152-43	23136-23137	.	_	_	_	
+
+#Text=This difference of Tastes in Fruits, proceeds from the various Texture of the particles, and the different structure of the Plants that bear them.
+153-1	23140-23144	This	_	_	_	
+153-2	23145-23155	difference	_	_	_	
+153-3	23156-23158	of	_	_	_	
+153-4	23159-23165	Tastes	Taste Word	*	153-6	
+153-5	23166-23168	in	_	_	_	
+153-6	23169-23175	Fruits	Taste Source	_	_	
+153-7	23175-23176	,	_	_	_	
+153-8	23177-23185	proceeds	_	_	_	
+153-9	23186-23190	from	_	_	_	
+153-10	23191-23194	the	_	_	_	
+153-11	23195-23202	various	_	_	_	
+153-12	23203-23210	Texture	_	_	_	
+153-13	23211-23213	of	_	_	_	
+153-14	23214-23217	the	_	_	_	
+153-15	23218-23227	particles	_	_	_	
+153-16	23227-23228	,	_	_	_	
+153-17	23229-23232	and	_	_	_	
+153-18	23233-23236	the	_	_	_	
+153-19	23237-23246	different	_	_	_	
+153-20	23247-23256	structure	_	_	_	
+153-21	23257-23259	of	_	_	_	
+153-22	23260-23263	the	_	_	_	
+153-23	23264-23270	Plants	_	_	_	
+153-24	23271-23275	that	_	_	_	
+153-25	23276-23280	bear	_	_	_	
+153-26	23281-23285	them	_	_	_	
+153-27	23285-23286	.	_	_	_	
+
+#Text=For grafted Trees bear more delicate Fruits than others, because the Alimentary Juice is more ex∣actly strained through the double twisting and weaving of their fibres.
+154-1	23287-23290	For	_	_	_	
+154-2	23291-23298	grafted	_	_	_	
+154-3	23299-23304	Trees	_	_	_	
+154-4	23305-23309	bear	_	_	_	
+154-5	23310-23314	more	_	_	_	
+154-6	23315-23323	delicate	_	_	_	
+154-7	23324-23330	Fruits	_	_	_	
+154-8	23331-23335	than	_	_	_	
+154-9	23336-23342	others	_	_	_	
+154-10	23342-23343	,	_	_	_	
+154-11	23344-23351	because	_	_	_	
+154-12	23352-23355	the	_	_	_	
+154-13	23356-23366	Alimentary	_	_	_	
+154-14	23367-23372	Juice	_	_	_	
+154-15	23373-23375	is	_	_	_	
+154-16	23376-23380	more	_	_	_	
+154-17	23381-23383	ex	_	_	_	
+154-18	23383-23384	∣	_	_	_	
+154-19	23384-23389	actly	_	_	_	
+154-20	23390-23398	strained	_	_	_	
+154-21	23399-23406	through	_	_	_	
+154-22	23407-23410	the	_	_	_	
+154-23	23411-23417	double	_	_	_	
+154-24	23418-23426	twisting	_	_	_	
+154-25	23427-23430	and	_	_	_	
+154-26	23431-23438	weaving	_	_	_	
+154-27	23439-23441	of	_	_	_	
+154-28	23442-23447	their	_	_	_	
+154-29	23448-23454	fibres	_	_	_	
+154-30	23454-23455	.	_	_	_	
+
+#Text=The Harsh-sowre taste therefore of Fruits proceeds from this, that their Parts are not yet sufficiently straitned and digested; and because the surface of them, as was said, is bristled with many little Hairs, diversly bending this way and that way, which entring into the pores of the Tongue, do shut them up.
+155-1	23456-23459	The	_	_	_	
+155-2	23460-23471	Harsh-sowre	Quality	_	_	
+155-3	23472-23477	taste	Taste Word	*|*	155-2|155-5[266_0]	
+155-4	23478-23487	therefore	_	_	_	
+155-5	23488-23490	of	Taste Source[266]	_	_	
+155-6	23491-23497	Fruits	Taste Source[266]	_	_	
+155-7	23498-23506	proceeds	_	_	_	
+155-8	23507-23511	from	_	_	_	
+155-9	23512-23516	this	_	_	_	
+155-10	23516-23517	,	_	_	_	
+155-11	23518-23522	that	_	_	_	
+155-12	23523-23528	their	_	_	_	
+155-13	23529-23534	Parts	_	_	_	
+155-14	23535-23538	are	_	_	_	
+155-15	23539-23542	not	_	_	_	
+155-16	23543-23546	yet	_	_	_	
+155-17	23547-23559	sufficiently	_	_	_	
+155-18	23560-23569	straitned	_	_	_	
+155-19	23570-23573	and	_	_	_	
+155-20	23574-23582	digested	_	_	_	
+155-21	23582-23583	;	_	_	_	
+155-22	23584-23587	and	_	_	_	
+155-23	23588-23595	because	_	_	_	
+155-24	23596-23599	the	_	_	_	
+155-25	23600-23607	surface	_	_	_	
+155-26	23608-23610	of	_	_	_	
+155-27	23611-23615	them	_	_	_	
+155-28	23615-23616	,	_	_	_	
+155-29	23617-23619	as	_	_	_	
+155-30	23620-23623	was	_	_	_	
+155-31	23624-23628	said	_	_	_	
+155-32	23628-23629	,	_	_	_	
+155-33	23630-23632	is	_	_	_	
+155-34	23633-23641	bristled	_	_	_	
+155-35	23642-23646	with	_	_	_	
+155-36	23647-23651	many	_	_	_	
+155-37	23652-23658	little	_	_	_	
+155-38	23659-23664	Hairs	_	_	_	
+155-39	23664-23665	,	_	_	_	
+155-40	23666-23674	diversly	_	_	_	
+155-41	23675-23682	bending	_	_	_	
+155-42	23683-23687	this	_	_	_	
+155-43	23688-23691	way	_	_	_	
+155-44	23692-23695	and	_	_	_	
+155-45	23696-23700	that	_	_	_	
+155-46	23701-23704	way	_	_	_	
+155-47	23704-23705	,	_	_	_	
+155-48	23706-23711	which	_	_	_	
+155-49	23712-23719	entring	_	_	_	
+155-50	23720-23724	into	_	_	_	
+155-51	23725-23728	the	_	_	_	
+155-52	23729-23734	pores	_	_	_	
+155-53	23735-23737	of	_	_	_	
+155-54	23738-23741	the	_	_	_	
+155-55	23742-23748	Tongue	_	_	_	
+155-56	23748-23749	,	_	_	_	
+155-57	23750-23752	do	_	_	_	
+155-58	23753-23757	shut	_	_	_	
+155-59	23758-23762	them	_	_	_	
+155-60	23763-23765	up	_	_	_	
+155-61	23765-23766	.	_	_	_	
+
+#Text=As we find in the taste of Quinces, Medlars, and generally of all unripe Fruits.
+156-1	23767-23769	As	_	_	_	
+156-2	23770-23772	we	_	_	_	
+156-3	23773-23777	find	_	_	_	
+156-4	23778-23780	in	_	_	_	
+156-5	23781-23784	the	_	_	_	
+156-6	23785-23790	taste	Taste Word	*|*|*	156-15[268_0]|156-10|156-7[267_0]	
+156-7	23791-23793	of	Taste Source[267]	_	_	
+156-8	23794-23801	Quinces	Taste Source[267]	_	_	
+156-9	23801-23802	,	_	_	_	
+156-10	23803-23810	Medlars	Taste Source	_	_	
+156-11	23810-23811	,	_	_	_	
+156-12	23812-23815	and	_	_	_	
+156-13	23816-23825	generally	_	_	_	
+156-14	23826-23828	of	_	_	_	
+156-15	23829-23832	all	Taste Source[268]	_	_	
+156-16	23833-23839	unripe	Taste Source[268]	_	_	
+156-17	23840-23846	Fruits	Taste Source[268]	_	_	
+156-18	23846-23847	.	_	_	_	
+
+#Text=Other Fruits afford a smart or sharp taste to the Palat, because their particles are long, stiff, and very subtil; by which means they Book. 2.
+157-1	23848-23853	Other	Taste Source[269]	_	_	
+157-2	23854-23860	Fruits	Taste Source[269]	_	_	
+157-3	23861-23867	afford	_	_	_	
+157-4	23868-23869	a	_	_	_	
+157-5	23870-23875	smart	Quality	_	_	
+157-6	23876-23878	or	_	_	_	
+157-7	23879-23884	sharp	Taste Word[270]|Quality[271]	*	157-7[271_270]	
+157-8	23885-23890	taste	Taste Word	*|*|*|*	157-7[271_0]|157-5|157-1[269_0]|157-9[272_0]	
+157-9	23891-23893	to	Taster[272]	_	_	
+157-10	23894-23897	the	Taster[272]	_	_	
+157-11	23898-23903	Palat	Taster[272]	_	_	
+157-12	23903-23904	,	_	_	_	
+157-13	23905-23912	because	_	_	_	
+157-14	23913-23918	their	_	_	_	
+157-15	23919-23928	particles	_	_	_	
+157-16	23929-23932	are	_	_	_	
+157-17	23933-23937	long	_	_	_	
+157-18	23937-23938	,	_	_	_	
+157-19	23939-23944	stiff	_	_	_	
+157-20	23944-23945	,	_	_	_	
+157-21	23946-23949	and	_	_	_	
+157-22	23950-23954	very	_	_	_	
+157-23	23955-23961	subtil	_	_	_	
+157-24	23961-23962	;	_	_	_	
+157-25	23963-23965	by	_	_	_	
+157-26	23966-23971	which	_	_	_	
+157-27	23972-23977	means	_	_	_	
+157-28	23978-23982	they	_	_	_	
+157-29	23983-23987	Book	_	_	_	
+157-30	23987-23988	.	_	_	_	
+157-31	23989-23990	2	_	_	_	
+157-32	23990-23991	.	_	_	_	
+
+#Text=Part. 2.
+158-1	23992-23996	Part	_	_	_	
+158-2	23996-23997	.	_	_	_	
+158-3	23998-23999	2	_	_	_	
+158-4	23999-24000	.	_	_	_	
+
+#Text=Chap. 6▪
+159-1	24001-24005	Chap	_	_	_	
+159-2	24005-24006	.	_	_	_	
+159-3	24007-24008	6	_	_	_	
+159-4	24008-24009	▪	_	_	_	

@@ -1,0 +1,3226 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|label
+#T_RL=custom.Relation|label|BT_custom.Span
+
+
+#Text=rich brown in color.
+1-1	0-4	rich	_	_	_	
+1-2	5-10	brown	_	_	_	
+1-3	11-13	in	_	_	_	
+1-4	14-19	color	_	_	_	
+1-5	19-20	.	_	_	_	
+
+#Text=To be tender this meat requires long, slow cooking, when it cooks and 
+#Text= browns at the same time.
+2-1	23-25	To	_	_	_	
+2-2	26-28	be	_	_	_	
+2-3	29-35	tender	_	_	_	
+2-4	36-40	this	_	_	_	
+2-5	41-45	meat	_	_	_	
+2-6	46-54	requires	_	_	_	
+2-7	55-59	long	_	_	_	
+2-8	59-60	,	_	_	_	
+2-9	61-65	slow	_	_	_	
+2-10	66-73	cooking	_	_	_	
+2-11	73-74	,	_	_	_	
+2-12	75-79	when	_	_	_	
+2-13	80-82	it	_	_	_	
+2-14	83-88	cooks	_	_	_	
+2-15	89-92	and	_	_	_	
+2-16	95-101	browns	_	_	_	
+2-17	102-104	at	_	_	_	
+2-18	105-108	the	_	_	_	
+2-19	109-113	same	_	_	_	
+2-20	114-118	time	_	_	_	
+2-21	118-119	.	_	_	_	
+
+#Text=Strain the broth and thicken for gravy and 
+#Text= pour around the meat on platter when serving.
+3-1	120-126	Strain	_	_	_	
+3-2	127-130	the	_	_	_	
+3-3	131-136	broth	_	_	_	
+3-4	137-140	and	_	_	_	
+3-5	141-148	thicken	_	_	_	
+3-6	149-152	for	_	_	_	
+3-7	153-158	gravy	_	_	_	
+3-8	159-162	and	_	_	_	
+3-9	165-169	pour	_	_	_	
+3-10	170-176	around	_	_	_	
+3-11	177-180	the	_	_	_	
+3-12	181-185	meat	_	_	_	
+3-13	186-188	on	_	_	_	
+3-14	189-196	platter	_	_	_	
+3-15	197-201	when	_	_	_	
+3-16	202-209	serving	_	_	_	
+3-17	209-210	.	_	_	_	
+
+#Text="PAPRIKASH" 
+#Text=  
+#Text= Two pounds of veal, from leg, cut into small pieces for stewing; 4 
+#Text= good-sized onions, cut rather fine; measure about 1/2 cup of sweet 
+#Text= lard, place onions in pan with some of this lard and fry a light 
+#Text= brown.
+4-1	219-220	"	_	_	_	
+4-2	220-229	PAPRIKASH	_	_	_	
+4-3	229-230	"	_	_	_	
+4-4	236-239	Two	_	_	_	
+4-5	240-246	pounds	_	_	_	
+4-6	247-249	of	_	_	_	
+4-7	250-254	veal	_	_	_	
+4-8	254-255	,	_	_	_	
+4-9	256-260	from	_	_	_	
+4-10	261-264	leg	_	_	_	
+4-11	264-265	,	_	_	_	
+4-12	266-269	cut	_	_	_	
+4-13	270-274	into	_	_	_	
+4-14	275-280	small	_	_	_	
+4-15	281-287	pieces	_	_	_	
+4-16	288-291	for	_	_	_	
+4-17	292-299	stewing	_	_	_	
+4-18	299-300	;	_	_	_	
+4-19	301-302	4	_	_	_	
+4-20	305-315	good-sized	_	_	_	
+4-21	316-322	onions	_	_	_	
+4-22	322-323	,	_	_	_	
+4-23	324-327	cut	_	_	_	
+4-24	328-334	rather	_	_	_	
+4-25	335-339	fine	_	_	_	
+4-26	339-340	;	_	_	_	
+4-27	341-348	measure	_	_	_	
+4-28	349-354	about	_	_	_	
+4-29	355-356	1	_	_	_	
+4-30	356-357	/	_	_	_	
+4-31	357-358	2	_	_	_	
+4-32	359-362	cup	_	_	_	
+4-33	363-365	of	_	_	_	
+4-34	366-371	sweet	Taste Word[1]|Quality[2]	*|*	4-34[2_1]|4-35[0_1]	
+4-35	374-378	lard	Taste Source	_	_	
+4-36	378-379	,	_	_	_	
+4-37	380-385	place	_	_	_	
+4-38	386-392	onions	_	_	_	
+4-39	393-395	in	_	_	_	
+4-40	396-399	pan	_	_	_	
+4-41	400-404	with	_	_	_	
+4-42	405-409	some	_	_	_	
+4-43	410-412	of	_	_	_	
+4-44	413-417	this	_	_	_	
+4-45	418-422	lard	_	_	_	
+4-46	423-426	and	_	_	_	
+4-47	427-430	fry	_	_	_	
+4-48	431-432	a	_	_	_	
+4-49	433-438	light	_	_	_	
+4-50	441-446	brown	_	_	_	
+4-51	446-447	.	_	_	_	
+
+#Text=Add meat and cook meat and onions together about one-half hour, 
+#Text= adding lard gradually until all is used and the meat is golden brown.
+5-1	448-451	Add	_	_	_	
+5-2	452-456	meat	_	_	_	
+5-3	457-460	and	_	_	_	
+5-4	461-465	cook	_	_	_	
+5-5	466-470	meat	_	_	_	
+5-6	471-474	and	_	_	_	
+5-7	475-481	onions	_	_	_	
+5-8	482-490	together	_	_	_	
+5-9	491-496	about	_	_	_	
+5-10	497-505	one-half	_	_	_	
+5-11	506-510	hour	_	_	_	
+5-12	510-511	,	_	_	_	
+5-13	514-520	adding	_	_	_	
+5-14	521-525	lard	_	_	_	
+5-15	526-535	gradually	_	_	_	
+5-16	536-541	until	_	_	_	
+5-17	542-545	all	_	_	_	
+5-18	546-548	is	_	_	_	
+5-19	549-553	used	_	_	_	
+5-20	554-557	and	_	_	_	
+5-21	558-561	the	_	_	_	
+5-22	562-566	meat	_	_	_	
+5-23	567-569	is	_	_	_	
+5-24	570-576	golden	_	_	_	
+5-25	577-582	brown	_	_	_	
+5-26	582-583	.	_	_	_	
+
+#Text=Then cover with water and stew, closely covered, about two hours or 
+#Text= longer, until meat is ready to serve; then add more water until meat 
+#Text= is covered.
+6-1	586-590	Then	_	_	_	
+6-2	591-596	cover	_	_	_	
+6-3	597-601	with	_	_	_	
+6-4	602-607	water	_	_	_	
+6-5	608-611	and	_	_	_	
+6-6	612-616	stew	_	_	_	
+6-7	616-617	,	_	_	_	
+6-8	618-625	closely	_	_	_	
+6-9	626-633	covered	_	_	_	
+6-10	633-634	,	_	_	_	
+6-11	635-640	about	_	_	_	
+6-12	641-644	two	_	_	_	
+6-13	645-650	hours	_	_	_	
+6-14	651-653	or	_	_	_	
+6-15	656-662	longer	_	_	_	
+6-16	662-663	,	_	_	_	
+6-17	664-669	until	_	_	_	
+6-18	670-674	meat	_	_	_	
+6-19	675-677	is	_	_	_	
+6-20	678-683	ready	_	_	_	
+6-21	684-686	to	_	_	_	
+6-22	687-692	serve	_	_	_	
+6-23	692-693	;	_	_	_	
+6-24	694-698	then	_	_	_	
+6-25	699-702	add	_	_	_	
+6-26	703-707	more	_	_	_	
+6-27	708-713	water	_	_	_	
+6-28	714-719	until	_	_	_	
+6-29	720-724	meat	Taste Source	_	_	
+6-30	727-729	is	_	_	_	
+6-31	730-737	covered	_	_	_	
+6-32	737-738	.	_	_	_	
+
+#Text=Season with salt and paprika.
+7-1	739-745	Season	Taste Word	*|*|*	7-2[3_0]|7-5|6-29	
+7-2	746-750	with	Taste Modifier[3]	_	_	
+7-3	751-755	salt	Taste Modifier[3]	_	_	
+7-4	756-759	and	_	_	_	
+7-5	760-767	paprika	Taste Modifier	_	_	
+7-6	767-768	.	_	_	_	
+
+#Text=Add about three 
+#Text= tablespoonfuls of vinegar (not too sour; cook must judge this by 
+#Text= tasting); then add 1/2 pint of sweet cream.
+8-1	769-772	Add	_	_	_	
+8-2	773-778	about	Taste Source[4]	_	_	
+8-3	779-784	three	Taste Source[4]	_	_	
+8-4	787-801	tablespoonfuls	Taste Source[4]	_	_	
+8-5	802-804	of	Taste Source[4]	_	_	
+8-6	805-812	vinegar	Taste Source[4]	_	_	
+8-7	813-814	(	_	_	_	
+8-8	814-817	not	Quality[5]	_	_	
+8-9	818-821	too	Quality[5]	_	_	
+8-10	822-826	sour	Taste Word[6]|Quality[7]	*|*|*	8-10[7_6]|8-8[5_6]|8-2[4_6]	
+8-11	826-827	;	_	_	_	
+8-12	828-832	cook	Taster	_	_	
+8-13	833-837	must	_	_	_	
+8-14	838-843	judge	_	_	_	
+8-15	844-848	this	_	_	_	
+8-16	849-851	by	_	_	_	
+8-17	854-861	tasting	Taste Word	*	8-12	
+8-18	861-862	)	_	_	_	
+8-19	862-863	;	_	_	_	
+8-20	864-868	then	_	_	_	
+8-21	869-872	add	_	_	_	
+8-22	873-874	1	_	_	_	
+8-23	874-875	/	_	_	_	
+8-24	875-876	2	_	_	_	
+8-25	877-881	pint	_	_	_	
+8-26	882-884	of	_	_	_	
+8-27	885-890	sweet	Taste Word[8]|Quality[9]	*|*	8-27[9_8]|8-28[0_8]	
+8-28	891-896	cream	Taste Source	_	_	
+8-29	896-897	.	_	_	_	
+
+#Text=Thicken gravy with flour 
+#Text= mixed smooth with a little water.
+9-1	898-905	Thicken	_	_	_	
+9-2	906-911	gravy	_	_	_	
+9-3	912-916	with	_	_	_	
+9-4	917-922	flour	_	_	_	
+9-5	925-930	mixed	_	_	_	
+9-6	931-937	smooth	_	_	_	
+9-7	938-942	with	_	_	_	
+9-8	943-944	a	_	_	_	
+9-9	945-951	little	_	_	_	
+9-10	952-957	water	_	_	_	
+9-11	957-958	.	_	_	_	
+
+#Text=Place on platter surrounded with 
+#Text= gravy.
+10-1	959-964	Place	_	_	_	
+10-2	965-967	on	_	_	_	
+10-3	968-975	platter	_	_	_	
+10-4	976-986	surrounded	_	_	_	
+10-5	987-991	with	_	_	_	
+10-6	994-999	gravy	_	_	_	
+10-7	999-1000	.	_	_	_	
+
+#Text=With this was always served baked or steamed sweet potatoes.
+11-1	1001-1005	With	_	_	_	
+11-2	1006-1010	this	_	_	_	
+11-3	1011-1014	was	_	_	_	
+11-4	1015-1021	always	_	_	_	
+11-5	1022-1028	served	_	_	_	
+11-6	1029-1034	baked	Circumstance	_	_	
+11-7	1035-1037	or	_	_	_	
+11-8	1038-1045	steamed	Circumstance	_	_	
+11-9	1046-1051	sweet	Taste Word[10]|Quality[11]	*|*|*|*	11-10[0_10]|11-9[11_10]|11-6[0_10]|11-8[0_10]	
+11-10	1052-1060	potatoes	Taste Source	_	_	
+11-11	1060-1061	.	_	_	_	
+
+#Text=of chops in a perfect manner is the test of a good cook."
+12-1	1065-1067	of	_	_	_	
+12-2	1068-1073	chops	_	_	_	
+12-3	1074-1076	in	_	_	_	
+12-4	1077-1078	a	_	_	_	
+12-5	1079-1086	perfect	_	_	_	
+12-6	1087-1093	manner	_	_	_	
+12-7	1094-1096	is	_	_	_	
+12-8	1097-1100	the	_	_	_	
+12-9	1101-1105	test	_	_	_	
+12-10	1106-1108	of	_	_	_	
+12-11	1109-1110	a	_	_	_	
+12-12	1111-1115	good	_	_	_	
+12-13	1116-1120	cook	_	_	_	
+12-14	1120-1121	.	_	_	_	
+12-15	1121-1122	"	_	_	_	
+
+#Text=HOME-MADE SAUSAGE 
+#Text=  
+#Text= Nine pounds of fresh pork (lean and fat intermixed as it comes).
+13-1	1131-1140	HOME-MADE	_	_	_	
+13-2	1141-1148	SAUSAGE	_	_	_	
+13-3	1154-1158	Nine	_	_	_	
+13-4	1159-1165	pounds	_	_	_	
+13-5	1166-1168	of	_	_	_	
+13-6	1169-1174	fresh	_	_	_	
+13-7	1175-1179	pork	_	_	_	
+13-8	1180-1181	(	_	_	_	
+13-9	1181-1185	lean	_	_	_	
+13-10	1186-1189	and	_	_	_	
+13-11	1190-1193	fat	_	_	_	
+13-12	1194-1204	intermixed	_	_	_	
+13-13	1205-1207	as	_	_	_	
+13-14	1208-1210	it	_	_	_	
+13-15	1211-1216	comes	_	_	_	
+13-16	1216-1217	)	_	_	_	
+13-17	1217-1218	.	_	_	_	
+
+#Text=Cut 
+#Text= meat in small pieces, run through a meat cutter.
+14-1	1219-1222	Cut	_	_	_	
+14-2	1225-1229	meat	_	_	_	
+14-3	1230-1232	in	_	_	_	
+14-4	1233-1238	small	_	_	_	
+14-5	1239-1245	pieces	_	_	_	
+14-6	1245-1246	,	_	_	_	
+14-7	1247-1250	run	_	_	_	
+14-8	1251-1258	through	_	_	_	
+14-9	1259-1260	a	_	_	_	
+14-10	1261-1265	meat	_	_	_	
+14-11	1266-1272	cutter	_	_	_	
+14-12	1272-1273	.	_	_	_	
+
+#Text=Sprinkle over the 
+#Text= finely chopped meat 3 tablespoonfuls salt, 2 tablespoonfuls of black 
+#Text= pepper, 4 tablespoonfuls of powdered sage if bought at a chemist   '   s.
+15-1	1274-1282	Sprinkle	_	_	_	
+15-2	1283-1287	over	_	_	_	
+15-3	1288-1291	the	_	_	_	
+15-4	1294-1300	finely	_	_	_	
+15-5	1301-1308	chopped	_	_	_	
+15-6	1309-1313	meat	_	_	_	
+15-7	1314-1315	3	_	_	_	
+15-8	1316-1330	tablespoonfuls	_	_	_	
+15-9	1331-1335	salt	_	_	_	
+15-10	1335-1336	,	_	_	_	
+15-11	1337-1338	2	_	_	_	
+15-12	1339-1353	tablespoonfuls	_	_	_	
+15-13	1354-1356	of	_	_	_	
+15-14	1357-1362	black	_	_	_	
+15-15	1365-1371	pepper	_	_	_	
+15-16	1371-1372	,	_	_	_	
+15-17	1373-1374	4	_	_	_	
+15-18	1375-1389	tablespoonfuls	_	_	_	
+15-19	1390-1392	of	_	_	_	
+15-20	1393-1401	powdered	_	_	_	
+15-21	1402-1406	sage	_	_	_	
+15-22	1407-1409	if	_	_	_	
+15-23	1410-1416	bought	_	_	_	
+15-24	1417-1419	at	_	_	_	
+15-25	1420-1421	a	_	_	_	
+15-26	1422-1429	chemist	_	_	_	
+15-27	1432-1433	'	_	_	_	
+15-28	1436-1437	s	_	_	_	
+15-29	1437-1438	.	_	_	_	
+
+#Text=Aunt Sarah used but three tablespoonfuls of her own home-grown sage, 
+#Text= as the flavor was much stronger than dried sage.
+16-1	1441-1445	Aunt	_	_	_	
+16-2	1446-1451	Sarah	_	_	_	
+16-3	1452-1456	used	_	_	_	
+16-4	1457-1460	but	_	_	_	
+16-5	1461-1466	three	Taste Source[12]	_	_	
+16-6	1467-1481	tablespoonfuls	Taste Source[12]	_	_	
+16-7	1482-1484	of	Taste Source[12]	_	_	
+16-8	1485-1488	her	Taste Source[12]	_	_	
+16-9	1489-1492	own	Taste Source[12]	_	_	
+16-10	1493-1503	home-grown	Taste Source[12]	_	_	
+16-11	1504-1508	sage	Taste Source[12]	_	_	
+16-12	1508-1509	,	_	_	_	
+16-13	1512-1514	as	_	_	_	
+16-14	1515-1518	the	_	_	_	
+16-15	1519-1525	flavor	Taste Word	*|*|*	16-17[13_0]|16-19[14_0]|16-5[12_0]	
+16-16	1526-1529	was	_	_	_	
+16-17	1530-1534	much	Quality[13]	_	_	
+16-18	1535-1543	stronger	Quality[13]	_	_	
+16-19	1544-1548	than	Evoked Taste[14]	_	_	
+16-20	1549-1554	dried	Evoked Taste[14]	_	_	
+16-21	1555-1559	sage	Evoked Taste[14]	_	_	
+16-22	1559-1560	.	_	_	_	
+
+#Text=Some folks add 2 
+#Text= tablespoonfuls of summer savory, but Aunt Sarah did not care for the 
+#Text= flavor.
+17-1	1561-1565	Some	_	_	_	
+17-2	1566-1571	folks	_	_	_	
+17-3	1572-1575	add	_	_	_	
+17-4	1576-1577	2	_	_	_	
+17-5	1580-1594	tablespoonfuls	_	_	_	
+17-6	1595-1597	of	_	_	_	
+17-7	1598-1604	summer	Taste Source[15]	_	_	
+17-8	1605-1611	savory	Taste Source[15]	_	_	
+17-9	1611-1612	,	_	_	_	
+17-10	1613-1616	but	_	_	_	
+17-11	1617-1621	Aunt	_	_	_	
+17-12	1622-1627	Sarah	_	_	_	
+17-13	1628-1631	did	_	_	_	
+17-14	1632-1635	not	_	_	_	
+17-15	1636-1640	care	_	_	_	
+17-16	1641-1644	for	_	_	_	
+17-17	1645-1648	the	_	_	_	
+17-18	1651-1657	flavor	Taste Word	*	17-7[15_0]	
+17-19	1657-1658	.	_	_	_	
+
+#Text=Cloves, mace and nutmeg may also be added if one likes 
+#Text= highly-spiced food.
+18-1	1659-1665	Cloves	Taste Modifier	_	_	
+18-2	1665-1666	,	_	_	_	
+18-3	1667-1671	mace	Taste Modifier	_	_	
+18-4	1672-1675	and	_	_	_	
+18-5	1676-1682	nutmeg	Taste Modifier	_	_	
+18-6	1683-1686	may	_	_	_	
+18-7	1687-1691	also	_	_	_	
+18-8	1692-1694	be	_	_	_	
+18-9	1695-1700	added	_	_	_	
+18-10	1701-1703	if	_	_	_	
+18-11	1704-1707	one	_	_	_	
+18-12	1708-1713	likes	_	_	_	
+18-13	1716-1729	highly-spiced	Taste Source[16]	_	_	
+18-14	1730-1734	food	Taste Source[16]	_	_	
+18-15	1734-1735	.	_	_	_	
+
+#Text=This is a matter of taste.
+19-1	1736-1740	This	_	_	_	
+19-2	1741-1743	is	_	_	_	
+19-3	1744-1745	a	_	_	_	
+19-4	1746-1752	matter	_	_	_	
+19-5	1753-1755	of	_	_	_	
+19-6	1756-1761	taste	Taste Word	*|*|*|*	18-5|18-3|18-1|18-13[16_0]	
+19-7	1761-1762	.	_	_	_	
+
+#Text=A good plan is to 
+#Text= season the small pieces of meat before chopping, as this distributes 
+#Text= the seasoning through the sausage.
+20-1	1763-1764	A	_	_	_	
+20-2	1765-1769	good	_	_	_	
+20-3	1770-1774	plan	_	_	_	
+20-4	1775-1777	is	_	_	_	
+20-5	1778-1780	to	_	_	_	
+20-6	1783-1789	season	_	_	_	
+20-7	1790-1793	the	_	_	_	
+20-8	1794-1799	small	_	_	_	
+20-9	1800-1806	pieces	_	_	_	
+20-10	1807-1809	of	_	_	_	
+20-11	1810-1814	meat	_	_	_	
+20-12	1815-1821	before	_	_	_	
+20-13	1822-1830	chopping	_	_	_	
+20-14	1830-1831	,	_	_	_	
+20-15	1832-1834	as	_	_	_	
+20-16	1835-1839	this	_	_	_	
+20-17	1840-1851	distributes	_	_	_	
+20-18	1854-1857	the	_	_	_	
+20-19	1858-1867	seasoning	_	_	_	
+20-20	1868-1875	through	_	_	_	
+20-21	1876-1879	the	_	_	_	
+20-22	1880-1887	sausage	_	_	_	
+20-23	1887-1888	.	_	_	_	
+
+#Text=Fill well cleaned casings, with the 
+#Text= finely chopped meat.
+21-1	1889-1893	Fill	_	_	_	
+21-2	1894-1898	well	_	_	_	
+21-3	1899-1906	cleaned	_	_	_	
+21-4	1907-1914	casings	_	_	_	
+21-5	1914-1915	,	_	_	_	
+21-6	1916-1920	with	_	_	_	
+21-7	1921-1924	the	_	_	_	
+21-8	1927-1933	finely	_	_	_	
+21-9	1934-1941	chopped	_	_	_	
+21-10	1942-1946	meat	_	_	_	
+21-11	1946-1947	.	_	_	_	
+
+#Text=Or form sausage into small pats, fry brown on 
+#Text= both sides and serve with home-made buckwheat cakes.
+22-1	1948-1950	Or	_	_	_	
+22-2	1951-1955	form	_	_	_	
+22-3	1956-1963	sausage	Taste Source	_	_	
+22-4	1964-1968	into	_	_	_	
+22-5	1969-1974	small	_	_	_	
+22-6	1975-1979	pats	_	_	_	
+22-7	1979-1980	,	_	_	_	
+22-8	1981-1984	fry	_	_	_	
+22-9	1985-1990	brown	_	_	_	
+22-10	1991-1993	on	_	_	_	
+22-11	1996-2000	both	_	_	_	
+22-12	2001-2006	sides	_	_	_	
+22-13	2007-2010	and	_	_	_	
+22-14	2011-2016	serve	_	_	_	
+22-15	2017-2021	with	_	_	_	
+22-16	2022-2031	home-made	_	_	_	
+22-17	2032-2041	buckwheat	_	_	_	
+22-18	2042-2047	cakes	_	_	_	
+22-19	2047-2048	.	_	_	_	
+
+#Text=size, like small triangles.
+23-1	2052-2056	size	_	_	_	
+23-2	2056-2057	,	_	_	_	
+23-3	2058-2062	like	_	_	_	
+23-4	2063-2068	small	_	_	_	
+23-5	2069-2078	triangles	_	_	_	
+23-6	2078-2079	.	_	_	_	
+
+#Text=She cooked them in salted water until 
+#Text= tender, drained them and served with a cream dressing, and they had 
+#Text= much the flavor of a dish of cauliflower.
+24-1	2080-2083	She	_	_	_	
+24-2	2084-2090	cooked	_	_	_	
+24-3	2091-2095	them	_	_	_	
+24-4	2096-2098	in	_	_	_	
+24-5	2099-2105	salted	_	_	_	
+24-6	2106-2111	water	_	_	_	
+24-7	2112-2117	until	_	_	_	
+24-8	2120-2126	tender	_	_	_	
+24-9	2126-2127	,	_	_	_	
+24-10	2128-2135	drained	_	_	_	
+24-11	2136-2140	them	_	_	_	
+24-12	2141-2144	and	_	_	_	
+24-13	2145-2151	served	_	_	_	
+24-14	2152-2156	with	_	_	_	
+24-15	2157-2158	a	_	_	_	
+24-16	2159-2164	cream	_	_	_	
+24-17	2165-2173	dressing	_	_	_	
+24-18	2173-2174	,	_	_	_	
+24-19	2175-2178	and	_	_	_	
+24-20	2179-2183	they	Taste Source	anaphorical	22-3	
+24-21	2184-2187	had	_	_	_	
+24-22	2190-2194	much	_	_	_	
+24-23	2195-2198	the	_	_	_	
+24-24	2199-2205	flavor	Taste Word	*|*	24-25[17_0]|24-20	
+24-25	2206-2208	of	Evoked Taste[17]	_	_	
+24-26	2209-2210	a	Evoked Taste[17]	_	_	
+24-27	2211-2215	dish	Evoked Taste[17]	_	_	
+24-28	2216-2218	of	Evoked Taste[17]	_	_	
+24-29	2219-2230	cauliflower	Evoked Taste[17]	_	_	
+24-30	2230-2231	.	_	_	_	
+
+#Text=Frau Schmidt always placed several tart apples among her sauer kraut 
+#Text= when making it, and thought it improved the flavor of the kraut; gave 
+#Text= it a "winey" flavor, obtained in no other manner.
+25-1	2237-2241	Frau	_	_	_	
+25-2	2242-2249	Schmidt	_	_	_	
+25-3	2250-2256	always	_	_	_	
+25-4	2257-2263	placed	_	_	_	
+25-5	2264-2271	several	_	_	_	
+25-6	2272-2276	tart	Taste Modifier[18]|Taste Word[19]|Quality[20]	*|*	25-6[20_19]|25-7[21_19]	
+25-7	2277-2283	apples	Taste Modifier[18]|Taste Source[21]	_	_	
+25-8	2284-2289	among	_	_	_	
+25-9	2290-2293	her	_	_	_	
+25-10	2294-2299	sauer	_	_	_	
+25-11	2300-2305	kraut	_	_	_	
+25-12	2308-2312	when	_	_	_	
+25-13	2313-2319	making	_	_	_	
+25-14	2320-2322	it	_	_	_	
+25-15	2322-2323	,	_	_	_	
+25-16	2324-2327	and	_	_	_	
+25-17	2328-2335	thought	_	_	_	
+25-18	2336-2338	it	_	_	_	
+25-19	2339-2347	improved	_	_	_	
+25-20	2348-2351	the	_	_	_	
+25-21	2352-2358	flavor	Taste Word	*|*	25-22[22_0]|25-6[18_0]	
+25-22	2359-2361	of	Taste Source[22]	_	_	
+25-23	2362-2365	the	Taste Source[22]	_	_	
+25-24	2366-2371	kraut	Taste Source[22]	_	_	
+25-25	2371-2372	;	_	_	_	
+25-26	2373-2377	gave	_	_	_	
+25-27	2380-2382	it	_	_	_	
+25-28	2383-2384	a	_	_	_	
+25-29	2385-2386	"	_	_	_	
+25-30	2386-2391	winey	Quality	_	_	
+25-31	2391-2392	"	_	_	_	
+25-32	2393-2399	flavor	Taste Word	*|*|*	25-30|25-6[18_0]|25-22[22_0]	
+25-33	2399-2400	,	_	_	_	
+25-34	2401-2409	obtained	_	_	_	
+25-35	2410-2412	in	_	_	_	
+25-36	2413-2415	no	_	_	_	
+25-37	2416-2421	other	_	_	_	
+25-38	2422-2428	manner	_	_	_	
+25-39	2428-2429	.	_	_	_	
+
+#Text=A sour apple, cored 
+#Text= and cooked with sauer kraut is considered by some cooks an 
+#Text= improvement.
+26-1	2430-2431	A	_	_	_	
+26-2	2432-2436	sour	Taste Word[23]|Quality[24]	*|*|*	26-2[24_23]|26-3[0_23]|26-5[25_23]	
+26-3	2437-2442	apple	Taste Source	_	_	
+26-4	2442-2443	,	_	_	_	
+26-5	2444-2449	cored	Circumstance[25]	_	_	
+26-6	2452-2455	and	Circumstance[25]	_	_	
+26-7	2456-2462	cooked	Circumstance[25]	_	_	
+26-8	2463-2467	with	Circumstance[25]	_	_	
+26-9	2468-2473	sauer	Circumstance[25]	_	_	
+26-10	2474-2479	kraut	Circumstance[25]	_	_	
+26-11	2480-2482	is	_	_	_	
+26-12	2483-2493	considered	_	_	_	
+26-13	2494-2496	by	_	_	_	
+26-14	2497-2501	some	_	_	_	
+26-15	2502-2507	cooks	_	_	_	
+26-16	2508-2510	an	_	_	_	
+26-17	2513-2524	improvement	_	_	_	
+26-18	2524-2525	.	_	_	_	
+
+#Text=The apple, of course, is not eatable.
+27-1	2526-2529	The	_	_	_	
+27-2	2530-2535	apple	_	_	_	
+27-3	2535-2536	,	_	_	_	
+27-4	2537-2539	of	_	_	_	
+27-5	2540-2546	course	_	_	_	
+27-6	2546-2547	,	_	_	_	
+27-7	2548-2550	is	_	_	_	
+27-8	2551-2554	not	_	_	_	
+27-9	2555-2562	eatable	_	_	_	
+27-10	2562-2563	.	_	_	_	
+
+#Text=Aunt Sarah _never_ 
+#Text= placed apples with her sauer kraut.
+28-1	2564-2568	Aunt	_	_	_	
+28-2	2569-2574	Sarah	_	_	_	
+28-3	2575-2576	_	_	_	_	
+28-4	2576-2581	never	_	_	_	
+28-5	2581-2582	_	_	_	_	
+28-6	2585-2591	placed	_	_	_	
+28-7	2592-2598	apples	_	_	_	
+28-8	2599-2603	with	_	_	_	
+28-9	2604-2607	her	_	_	_	
+28-10	2608-2613	sauer	_	_	_	
+28-11	2614-2619	kraut	_	_	_	
+28-12	2619-2620	.	_	_	_	
+
+#Text=DUMPLINGS TO SERVE WITH SAUER KRAUT 
+#Text=  
+#Text= For these dumplings, 1 egg was broken into a bowl and well beaten.
+29-1	2629-2638	DUMPLINGS	_	_	_	
+29-2	2639-2641	TO	_	_	_	
+29-3	2642-2647	SERVE	_	_	_	
+29-4	2648-2652	WITH	_	_	_	
+29-5	2653-2658	SAUER	_	_	_	
+29-6	2659-2664	KRAUT	_	_	_	
+29-7	2670-2673	For	_	_	_	
+29-8	2674-2679	these	_	_	_	
+29-9	2680-2689	dumplings	_	_	_	
+29-10	2689-2690	,	_	_	_	
+29-11	2691-2692	1	_	_	_	
+29-12	2693-2696	egg	_	_	_	
+29-13	2697-2700	was	_	_	_	
+29-14	2701-2707	broken	_	_	_	
+29-15	2708-2712	into	_	_	_	
+29-16	2713-2714	a	_	_	_	
+29-17	2715-2719	bowl	_	_	_	
+29-18	2720-2723	and	_	_	_	
+29-19	2724-2728	well	_	_	_	
+29-20	2729-2735	beaten	_	_	_	
+29-21	2735-2736	.	_	_	_	
+
+#Text=Then a pinch of salt was added and 1/2 cup of sweet milk.
+30-1	2739-2743	Then	_	_	_	
+30-2	2744-2745	a	_	_	_	
+30-3	2746-2751	pinch	_	_	_	
+30-4	2752-2754	of	_	_	_	
+30-5	2755-2759	salt	_	_	_	
+30-6	2760-2763	was	_	_	_	
+30-7	2764-2769	added	_	_	_	
+30-8	2770-2773	and	_	_	_	
+30-9	2774-2775	1	_	_	_	
+30-10	2775-2776	/	_	_	_	
+30-11	2776-2777	2	_	_	_	
+30-12	2778-2781	cup	_	_	_	
+30-13	2782-2784	of	_	_	_	
+30-14	2785-2790	sweet	Taste Word[26]|Quality[27]	*|*	30-14[27_26]|30-15[0_26]	
+30-15	2791-2795	milk	Taste Source	_	_	
+30-16	2795-2796	.	_	_	_	
+
+#Text=Enough flour 
+#Text= was added to make a soft dough, and one tablespoonful of baking powder 
+#Text= was sifted with a very little flour into the batter, then a little 
+#Text= more flour was added to make the dough the right consistency.
+31-1	2797-2803	Enough	_	_	_	
+31-2	2804-2809	flour	_	_	_	
+31-3	2812-2815	was	_	_	_	
+31-4	2816-2821	added	_	_	_	
+31-5	2822-2824	to	_	_	_	
+31-6	2825-2829	make	_	_	_	
+31-7	2830-2831	a	_	_	_	
+31-8	2832-2836	soft	_	_	_	
+31-9	2837-2842	dough	_	_	_	
+31-10	2842-2843	,	_	_	_	
+31-11	2844-2847	and	_	_	_	
+31-12	2848-2851	one	_	_	_	
+31-13	2852-2865	tablespoonful	_	_	_	
+31-14	2866-2868	of	_	_	_	
+31-15	2869-2875	baking	_	_	_	
+31-16	2876-2882	powder	_	_	_	
+31-17	2885-2888	was	_	_	_	
+31-18	2889-2895	sifted	_	_	_	
+31-19	2896-2900	with	_	_	_	
+31-20	2901-2902	a	_	_	_	
+31-21	2903-2907	very	_	_	_	
+31-22	2908-2914	little	_	_	_	
+31-23	2915-2920	flour	_	_	_	
+31-24	2921-2925	into	_	_	_	
+31-25	2926-2929	the	_	_	_	
+31-26	2930-2936	batter	_	_	_	
+31-27	2936-2937	,	_	_	_	
+31-28	2938-2942	then	_	_	_	
+31-29	2943-2944	a	_	_	_	
+31-30	2945-2951	little	_	_	_	
+31-31	2954-2958	more	_	_	_	
+31-32	2959-2964	flour	_	_	_	
+31-33	2965-2968	was	_	_	_	
+31-34	2969-2974	added	_	_	_	
+31-35	2975-2977	to	_	_	_	
+31-36	2978-2982	make	_	_	_	
+31-37	2983-2986	the	_	_	_	
+31-38	2987-2992	dough	_	_	_	
+31-39	2993-2996	the	_	_	_	
+31-40	2997-3002	right	_	_	_	
+31-41	3003-3014	consistency	_	_	_	
+31-42	3014-3015	.	_	_	_	
+
+#Text=Form the 
+#Text= dough into small balls, handling as little as possible.
+32-1	3016-3020	Form	_	_	_	
+32-2	3021-3024	the	_	_	_	
+32-3	3027-3032	dough	_	_	_	
+32-4	3033-3037	into	_	_	_	
+32-5	3038-3043	small	_	_	_	
+32-6	3044-3049	balls	_	_	_	
+32-7	3049-3050	,	_	_	_	
+32-8	3051-3059	handling	_	_	_	
+32-9	3060-3062	as	_	_	_	
+32-10	3063-3069	little	_	_	_	
+32-11	3070-3072	as	_	_	_	
+32-12	3073-3081	possible	_	_	_	
+32-13	3081-3082	.	_	_	_	
+
+#Text=Drop on top of                 ]\t0
+#Text=contains an acrid, irritating substance called    '   Acrolein,   '    which may 
+#Text= readily be considered to be unwholesome.
+33-1	3083-3087	Drop	_	_	_	
+33-2	3088-3090	on	_	_	_	
+33-3	3091-3094	top	_	_	_	
+33-4	3095-3097	of	_	_	_	
+33-5	3114-3115	]	_	_	_	
+33-6	3116-3117	0	_	_	_	
+33-7	3118-3126	contains	_	_	_	
+33-8	3127-3129	an	_	_	_	
+33-9	3130-3135	acrid	_	_	_	
+33-10	3135-3136	,	_	_	_	
+33-11	3137-3147	irritating	_	_	_	
+33-12	3148-3157	substance	_	_	_	
+33-13	3158-3164	called	_	_	_	
+33-14	3168-3169	'	_	_	_	
+33-15	3172-3180	Acrolein	_	_	_	
+33-16	3180-3181	,	_	_	_	
+33-17	3184-3185	'	_	_	_	
+33-18	3189-3194	which	_	_	_	
+33-19	3195-3198	may	_	_	_	
+33-20	3201-3208	readily	_	_	_	
+33-21	3209-3211	be	_	_	_	
+33-22	3212-3222	considered	_	_	_	
+33-23	3223-3225	to	_	_	_	
+33-24	3226-3228	be	_	_	_	
+33-25	3229-3240	unwholesome	_	_	_	
+33-26	3240-3241	.	_	_	_	
+
+#Text=It is without doubt the 
+#Text= production of this body by overheating which has given fried food its 
+#Text= bad name.
+34-1	3242-3244	It	_	_	_	
+34-2	3245-3247	is	_	_	_	
+34-3	3248-3255	without	_	_	_	
+34-4	3256-3261	doubt	_	_	_	
+34-5	3262-3265	the	_	_	_	
+34-6	3268-3278	production	_	_	_	
+34-7	3279-3281	of	_	_	_	
+34-8	3282-3286	this	_	_	_	
+34-9	3287-3291	body	_	_	_	
+34-10	3292-3294	by	_	_	_	
+34-11	3295-3306	overheating	_	_	_	
+34-12	3307-3312	which	_	_	_	
+34-13	3313-3316	has	_	_	_	
+34-14	3317-3322	given	_	_	_	
+34-15	3323-3328	fried	_	_	_	
+34-16	3329-3333	food	_	_	_	
+34-17	3334-3337	its	_	_	_	
+34-18	3340-3343	bad	_	_	_	
+34-19	3344-3348	name	_	_	_	
+34-20	3348-3349	.	_	_	_	
+
+#Text=There are several ways of varying the flavor of gravies and 
+#Text= sauces.
+35-1	3350-3355	There	_	_	_	
+35-2	3356-3359	are	_	_	_	
+35-3	3360-3367	several	_	_	_	
+35-4	3368-3372	ways	_	_	_	
+35-5	3373-3375	of	_	_	_	
+35-6	3376-3383	varying	_	_	_	
+35-7	3384-3387	the	_	_	_	
+35-8	3388-3394	flavor	Taste Word	*|*	35-9[28_0]|35-12	
+35-9	3395-3397	of	Taste Source[28]	_	_	
+35-10	3398-3405	gravies	Taste Source[28]	_	_	
+35-11	3406-3409	and	_	_	_	
+35-12	3412-3418	sauces	Taste Source	_	_	
+35-13	3418-3419	.	_	_	_	
+
+#Text=One should be especially mentioned here.
+36-1	3420-3423	One	_	_	_	
+36-2	3424-3430	should	_	_	_	
+36-3	3431-3433	be	_	_	_	
+36-4	3434-3444	especially	_	_	_	
+36-5	3445-3454	mentioned	_	_	_	
+36-6	3455-3459	here	_	_	_	
+36-7	3459-3460	.	_	_	_	
+
+#Text=The _flavor of 
+#Text= browned flour_--The good flavor of browned flour is often overlooked.
+37-1	3461-3464	The	_	_	_	
+37-2	3465-3466	_	_	_	_	
+37-3	3466-3472	flavor	Taste Word	*	37-4[29_0]	
+37-4	3473-3475	of	Taste Source[29]	_	_	
+37-5	3478-3485	browned	Taste Source[29]	_	_	
+37-6	3486-3491	flour	Taste Source[29]	_	_	
+37-7	3491-3492	_	_	_	_	
+37-8	3492-3493	-	_	_	_	
+37-9	3493-3494	-	_	_	_	
+37-10	3494-3497	The	_	_	_	
+37-11	3498-3502	good	Quality	_	_	
+37-12	3503-3509	flavor	Taste Word	*|*	37-13[30_0]|37-11	
+37-13	3510-3512	of	Taste Source[30]	_	_	
+37-14	3513-3520	browned	Taste Source[30]	_	_	
+37-15	3521-3526	flour	Taste Source[30]	_	_	
+37-16	3527-3529	is	_	_	_	
+37-17	3530-3535	often	_	_	_	
+37-18	3536-3546	overlooked	_	_	_	
+37-19	3546-3547	.	_	_	_	
+
+#Text=If flour is cooked in fat, until it is a dark brown color, a 
+#Text= distinctive and very agreeable flavor is obtained.
+38-1	3550-3552	If	_	_	_	
+38-2	3553-3558	flour	Taste Source	_	_	
+38-3	3559-3561	is	_	_	_	
+38-4	3562-3568	cooked	Circumstance[31]	_	_	
+38-5	3569-3571	in	Circumstance[31]	_	_	
+38-6	3572-3575	fat	Circumstance[31]	_	_	
+38-7	3575-3576	,	Circumstance[31]	_	_	
+38-8	3577-3582	until	Circumstance[31]	_	_	
+38-9	3583-3585	it	Circumstance[31]	_	_	
+38-10	3586-3588	is	Circumstance[31]	_	_	
+38-11	3589-3590	a	Circumstance[31]	_	_	
+38-12	3591-3595	dark	Circumstance[31]	_	_	
+38-13	3596-3601	brown	Circumstance[31]	_	_	
+38-14	3602-3607	color	Circumstance[31]	_	_	
+38-15	3607-3608	,	_	_	_	
+38-16	3609-3610	a	_	_	_	
+38-17	3613-3624	distinctive	Quality	_	_	
+38-18	3625-3628	and	_	_	_	
+38-19	3629-3633	very	Quality[32]	_	_	
+38-20	3634-3643	agreeable	Quality[32]	_	_	
+38-21	3644-3650	flavor	Taste Word	*|*|*|*	38-19[32_0]|38-17|38-2|38-4[31_0]	
+38-22	3651-3653	is	_	_	_	
+38-23	3654-3662	obtained	_	_	_	
+38-24	3662-3663	.	_	_	_	
+
+#Text="This flavor combines very well with that of currant jelly, and a 
+#Text= little jelly added to a brown gravy is a great improvement.
+39-1	3669-3670	"	_	_	_	
+39-2	3670-3674	This	_	_	_	
+39-3	3675-3681	flavor	Taste Word	*	38-2	
+39-4	3682-3690	combines	_	_	_	
+39-5	3691-3695	very	_	_	_	
+39-6	3696-3700	well	_	_	_	
+39-7	3701-3705	with	_	_	_	
+39-8	3706-3710	that	_	_	_	
+39-9	3711-3713	of	_	_	_	
+39-10	3714-3721	currant	Taste Source[33]	_	_	
+39-11	3722-3727	jelly	Taste Source[33]	_	_	
+39-12	3727-3728	,	_	_	_	
+39-13	3729-3732	and	_	_	_	
+39-14	3733-3734	a	_	_	_	
+39-15	3737-3743	little	_	_	_	
+39-16	3744-3749	jelly	_	_	_	
+39-17	3750-3755	added	_	_	_	
+39-18	3756-3758	to	_	_	_	
+39-19	3759-3760	a	_	_	_	
+39-20	3761-3766	brown	_	_	_	
+39-21	3767-3772	gravy	_	_	_	
+39-22	3773-3775	is	_	_	_	
+39-23	3776-3777	a	_	_	_	
+39-24	3778-3783	great	_	_	_	
+39-25	3784-3795	improvement	_	_	_	
+39-26	3795-3796	.	_	_	_	
+
+#Text=The flavor 
+#Text= of this should not be combined with that of onions or other 
+#Text= highly-flavored vegetables."
+40-1	3797-3800	The	_	_	_	
+40-2	3801-3807	flavor	Taste Word	*	39-10[33_0]	
+40-3	3810-3812	of	_	_	_	
+40-4	3813-3817	this	_	_	_	
+40-5	3818-3824	should	_	_	_	
+40-6	3825-3828	not	_	_	_	
+40-7	3829-3831	be	_	_	_	
+40-8	3832-3840	combined	_	_	_	
+40-9	3841-3845	with	_	_	_	
+40-10	3846-3850	that	_	_	_	
+40-11	3851-3853	of	_	_	_	
+40-12	3854-3860	onions	_	_	_	
+40-13	3861-3863	or	_	_	_	
+40-14	3864-3869	other	_	_	_	
+40-15	3872-3887	highly-flavored	Taste Word[34]|Quality[35]	*|*	40-15[35_34]|40-16[0_34]	
+40-16	3888-3898	vegetables	Taste Source	_	_	
+40-17	3898-3899	.	_	_	_	
+40-18	3899-3900	"	_	_	_	
+
+#Text=BUTTER, CHEESE AND SUET--A SUBSTITUTE FOR BUTTER 
+#Text=  
+#Text= This formula for preparing a good, sweet, wholesome substitute for 
+#Text= butter to be used for baking and frying was given Aunt Sarah by a 
+#Text= thrifty German hausfrau, who prepared and used it in her large family
+#Text=will have a small jar of cooking fat for immediate use.
+41-1	3909-3915	BUTTER	_	_	_	
+41-2	3915-3916	,	_	_	_	
+41-3	3917-3923	CHEESE	_	_	_	
+41-4	3924-3927	AND	_	_	_	
+41-5	3928-3932	SUET	_	_	_	
+41-6	3932-3933	-	_	_	_	
+41-7	3933-3934	-	_	_	_	
+41-8	3934-3935	A	_	_	_	
+41-9	3936-3946	SUBSTITUTE	_	_	_	
+41-10	3947-3950	FOR	_	_	_	
+41-11	3951-3957	BUTTER	_	_	_	
+41-12	3963-3967	This	_	_	_	
+41-13	3968-3975	formula	_	_	_	
+41-14	3976-3979	for	_	_	_	
+41-15	3980-3989	preparing	_	_	_	
+41-16	3990-3991	a	_	_	_	
+41-17	3992-3996	good	_	_	_	
+41-18	3996-3997	,	_	_	_	
+41-19	3998-4003	sweet	Taste Word[36]|Quality[37]	*|*	41-19[37_36]|41-22[38_36]	
+41-20	4003-4004	,	_	_	_	
+41-21	4005-4014	wholesome	_	_	_	
+41-22	4015-4025	substitute	Taste Source[38]	_	_	
+41-23	4026-4029	for	Taste Source[38]	_	_	
+41-24	4032-4038	butter	Taste Source[38]	_	_	
+41-25	4039-4041	to	_	_	_	
+41-26	4042-4044	be	_	_	_	
+41-27	4045-4049	used	_	_	_	
+41-28	4050-4053	for	_	_	_	
+41-29	4054-4060	baking	_	_	_	
+41-30	4061-4064	and	_	_	_	
+41-31	4065-4071	frying	_	_	_	
+41-32	4072-4075	was	_	_	_	
+41-33	4076-4081	given	_	_	_	
+41-34	4082-4086	Aunt	_	_	_	
+41-35	4087-4092	Sarah	_	_	_	
+41-36	4093-4095	by	_	_	_	
+41-37	4096-4097	a	_	_	_	
+41-38	4100-4107	thrifty	_	_	_	
+41-39	4108-4114	German	_	_	_	
+41-40	4115-4123	hausfrau	_	_	_	
+41-41	4123-4124	,	_	_	_	
+41-42	4125-4128	who	_	_	_	
+41-43	4129-4137	prepared	_	_	_	
+41-44	4138-4141	and	_	_	_	
+41-45	4142-4146	used	_	_	_	
+41-46	4147-4149	it	_	_	_	
+41-47	4150-4152	in	_	_	_	
+41-48	4153-4156	her	_	_	_	
+41-49	4157-4162	large	_	_	_	
+41-50	4163-4169	family	_	_	_	
+41-51	4170-4174	will	_	_	_	
+41-52	4175-4179	have	_	_	_	
+41-53	4180-4181	a	_	_	_	
+41-54	4182-4187	small	_	_	_	
+41-55	4188-4191	jar	_	_	_	
+41-56	4192-4194	of	_	_	_	
+41-57	4195-4202	cooking	_	_	_	
+41-58	4203-4206	fat	_	_	_	
+41-59	4207-4210	for	_	_	_	
+41-60	4211-4220	immediate	_	_	_	
+41-61	4221-4224	use	_	_	_	
+41-62	4224-4225	.	_	_	_	
+
+#Text=A little 
+#Text= trouble to do this, I admit, but one is well paid by having good, 
+#Text= sweet, inexpensive cooking fat.
+42-1	4226-4227	A	_	_	_	
+42-2	4228-4234	little	_	_	_	
+42-3	4237-4244	trouble	_	_	_	
+42-4	4245-4247	to	_	_	_	
+42-5	4248-4250	do	_	_	_	
+42-6	4251-4255	this	_	_	_	
+42-7	4255-4256	,	_	_	_	
+42-8	4257-4258	I	_	_	_	
+42-9	4259-4264	admit	_	_	_	
+42-10	4264-4265	,	_	_	_	
+42-11	4266-4269	but	_	_	_	
+42-12	4270-4273	one	_	_	_	
+42-13	4274-4276	is	_	_	_	
+42-14	4277-4281	well	_	_	_	
+42-15	4282-4286	paid	_	_	_	
+42-16	4287-4289	by	_	_	_	
+42-17	4290-4296	having	_	_	_	
+42-18	4297-4301	good	_	_	_	
+42-19	4301-4302	,	_	_	_	
+42-20	4305-4310	sweet	Taste Word[39]|Quality[40]	*|*	42-20[40_39]|42-22[41_39]	
+42-21	4310-4311	,	_	_	_	
+42-22	4312-4323	inexpensive	Taste Source[41]	_	_	
+42-23	4324-4331	cooking	Taste Source[41]	_	_	
+42-24	4332-4335	fat	Taste Source[41]	_	_	
+42-25	4335-4336	.	_	_	_	
+
+#Text=I should advise a young housekeeper to 
+#Text= experiment with one pound each of clarified suet and pork fat after it 
+#Text= is rendered, and one pound of butter before attempting the preparation 
+#Text= of a larger quantity.
+43-1	4337-4338	I	_	_	_	
+43-2	4339-4345	should	_	_	_	
+43-3	4346-4352	advise	_	_	_	
+43-4	4353-4354	a	_	_	_	
+43-5	4355-4360	young	_	_	_	
+43-6	4361-4372	housekeeper	_	_	_	
+43-7	4373-4375	to	_	_	_	
+43-8	4378-4388	experiment	_	_	_	
+43-9	4389-4393	with	_	_	_	
+43-10	4394-4397	one	_	_	_	
+43-11	4398-4403	pound	_	_	_	
+43-12	4404-4408	each	_	_	_	
+43-13	4409-4411	of	_	_	_	
+43-14	4412-4421	clarified	_	_	_	
+43-15	4422-4426	suet	_	_	_	
+43-16	4427-4430	and	_	_	_	
+43-17	4431-4435	pork	_	_	_	
+43-18	4436-4439	fat	_	_	_	
+43-19	4440-4445	after	_	_	_	
+43-20	4446-4448	it	_	_	_	
+43-21	4451-4453	is	_	_	_	
+43-22	4454-4462	rendered	_	_	_	
+43-23	4462-4463	,	_	_	_	
+43-24	4464-4467	and	_	_	_	
+43-25	4468-4471	one	_	_	_	
+43-26	4472-4477	pound	_	_	_	
+43-27	4478-4480	of	_	_	_	
+43-28	4481-4487	butter	_	_	_	
+43-29	4488-4494	before	_	_	_	
+43-30	4495-4505	attempting	_	_	_	
+43-31	4506-4509	the	_	_	_	
+43-32	4510-4521	preparation	_	_	_	
+43-33	4524-4526	of	_	_	_	
+43-34	4527-4528	a	_	_	_	
+43-35	4529-4535	larger	_	_	_	
+43-36	4536-4544	quantity	_	_	_	
+43-37	4544-4545	.	_	_	_	
+
+#Text=BUTTER--AS IT WAS MADE AT THE FARM, BY "AUNT SARAH" 
+#Text=  
+#Text= Aunt Sarah strained fresh, sweet milk into small, brown earthenware 
+#Text= crocks kept for this purpose, scrupulously clean.
+44-1	4554-4560	BUTTER	_	_	_	
+44-2	4560-4561	-	_	_	_	
+44-3	4561-4562	-	_	_	_	
+44-4	4562-4564	AS	_	_	_	
+44-5	4565-4567	IT	_	_	_	
+44-6	4568-4571	WAS	_	_	_	
+44-7	4572-4576	MADE	_	_	_	
+44-8	4577-4579	AT	_	_	_	
+44-9	4580-4583	THE	_	_	_	
+44-10	4584-4588	FARM	_	_	_	
+44-11	4588-4589	,	_	_	_	
+44-12	4590-4592	BY	_	_	_	
+44-13	4593-4594	"	_	_	_	
+44-14	4594-4598	AUNT	_	_	_	
+44-15	4599-4604	SARAH	_	_	_	
+44-16	4604-4605	"	_	_	_	
+44-17	4611-4615	Aunt	_	_	_	
+44-18	4616-4621	Sarah	_	_	_	
+44-19	4622-4630	strained	_	_	_	
+44-20	4631-4636	fresh	_	_	_	
+44-21	4636-4637	,	_	_	_	
+44-22	4638-4643	sweet	Taste Word[42]|Quality[43]	*|*	44-22[43_42]|44-23[0_42]	
+44-23	4644-4648	milk	Taste Source	_	_	
+44-24	4649-4653	into	_	_	_	
+44-25	4654-4659	small	_	_	_	
+44-26	4659-4660	,	_	_	_	
+44-27	4661-4666	brown	_	_	_	
+44-28	4667-4678	earthenware	_	_	_	
+44-29	4681-4687	crocks	_	_	_	
+44-30	4688-4692	kept	_	_	_	
+44-31	4693-4696	for	_	_	_	
+44-32	4697-4701	this	_	_	_	
+44-33	4702-4709	purpose	_	_	_	
+44-34	4709-4710	,	_	_	_	
+44-35	4711-4723	scrupulously	_	_	_	
+44-36	4724-4729	clean	_	_	_	
+44-37	4729-4730	.	_	_	_	
+
+#Text=The crocks were kept 
+#Text= in the spring-house or cellar in summer (in cold weather the milk 
+#Text= should be kept in a warmer place to allow cream to form on the top of 
+#Text= the milk).
+45-1	4731-4734	The	_	_	_	
+45-2	4735-4741	crocks	_	_	_	
+45-3	4742-4746	were	_	_	_	
+45-4	4747-4751	kept	_	_	_	
+45-5	4754-4756	in	_	_	_	
+45-6	4757-4760	the	_	_	_	
+45-7	4761-4773	spring-house	_	_	_	
+45-8	4774-4776	or	_	_	_	
+45-9	4777-4783	cellar	_	_	_	
+45-10	4784-4786	in	_	_	_	
+45-11	4787-4793	summer	_	_	_	
+45-12	4794-4795	(	_	_	_	
+45-13	4795-4797	in	_	_	_	
+45-14	4798-4802	cold	_	_	_	
+45-15	4803-4810	weather	_	_	_	
+45-16	4811-4814	the	_	_	_	
+45-17	4815-4819	milk	_	_	_	
+45-18	4822-4828	should	_	_	_	
+45-19	4829-4831	be	_	_	_	
+45-20	4832-4836	kept	_	_	_	
+45-21	4837-4839	in	_	_	_	
+45-22	4840-4841	a	_	_	_	
+45-23	4842-4848	warmer	_	_	_	
+45-24	4849-4854	place	_	_	_	
+45-25	4855-4857	to	_	_	_	
+45-26	4858-4863	allow	_	_	_	
+45-27	4864-4869	cream	_	_	_	
+45-28	4870-4872	to	_	_	_	
+45-29	4873-4877	form	_	_	_	
+45-30	4878-4880	on	_	_	_	
+45-31	4881-4884	the	_	_	_	
+45-32	4885-4888	top	_	_	_	
+45-33	4889-4891	of	_	_	_	
+45-34	4894-4897	the	_	_	_	
+45-35	4898-4902	milk	_	_	_	
+45-36	4902-4903	)	_	_	_	
+45-37	4903-4904	.	_	_	_	
+
+#Text=When the cream was thick and sour she skimmed the cream 
+#Text= from off the top of milk every day, stirring the cream well together 
+#Text= every time she added fresh cream to that on hand.
+46-1	4905-4909	When	_	_	_	
+46-2	4910-4913	the	_	_	_	
+46-3	4914-4919	cream	Taste Source	_	_	
+46-4	4920-4923	was	_	_	_	
+46-5	4924-4929	thick	_	_	_	
+46-6	4930-4933	and	_	_	_	
+46-7	4934-4938	sour	Taste Word[44]|Quality[45]	*|*	46-7[45_44]|46-3[0_44]	
+46-8	4939-4942	she	_	_	_	
+46-9	4943-4950	skimmed	_	_	_	
+46-10	4951-4954	the	_	_	_	
+46-11	4955-4960	cream	_	_	_	
+46-12	4963-4967	from	_	_	_	
+46-13	4968-4971	off	_	_	_	
+46-14	4972-4975	the	_	_	_	
+46-15	4976-4979	top	_	_	_	
+46-16	4980-4982	of	_	_	_	
+46-17	4983-4987	milk	_	_	_	
+46-18	4988-4993	every	_	_	_	
+46-19	4994-4997	day	_	_	_	
+46-20	4997-4998	,	_	_	_	
+46-21	4999-5007	stirring	_	_	_	
+46-22	5008-5011	the	_	_	_	
+46-23	5012-5017	cream	_	_	_	
+46-24	5018-5022	well	_	_	_	
+46-25	5023-5031	together	_	_	_	
+46-26	5034-5039	every	_	_	_	
+46-27	5040-5044	time	_	_	_	
+46-28	5045-5048	she	_	_	_	
+46-29	5049-5054	added	_	_	_	
+46-30	5055-5060	fresh	_	_	_	
+46-31	5061-5066	cream	_	_	_	
+46-32	5067-5069	to	_	_	_	
+46-33	5070-5074	that	_	_	_	
+46-34	5075-5077	on	_	_	_	
+46-35	5078-5082	hand	_	_	_	
+46-36	5082-5083	.	_	_	_	
+
+#Text=Aunt Sarah churned 
+#Text= twice a week; sour cream should not be kept a longer time than one 
+#Text= week.
+47-1	5084-5088	Aunt	_	_	_	
+47-2	5089-5094	Sarah	_	_	_	
+47-3	5095-5102	churned	_	_	_	
+47-4	5105-5110	twice	_	_	_	
+47-5	5111-5112	a	_	_	_	
+47-6	5113-5117	week	_	_	_	
+47-7	5117-5118	;	_	_	_	
+47-8	5119-5123	sour	Taste Word[46]|Quality[47]	*|*	47-8[47_46]|47-9[0_46]	
+47-9	5124-5129	cream	Taste Source	_	_	
+47-10	5130-5136	should	_	_	_	
+47-11	5137-5140	not	_	_	_	
+47-12	5141-5143	be	_	_	_	
+47-13	5144-5148	kept	_	_	_	
+47-14	5149-5150	a	_	_	_	
+47-15	5151-5157	longer	_	_	_	
+47-16	5158-5162	time	_	_	_	
+47-17	5163-5167	than	_	_	_	
+47-18	5168-5171	one	_	_	_	
+47-19	5174-5178	week	_	_	_	
+47-20	5178-5179	.	_	_	_	
+
+#Text=The churn was scalded with boiling water, then rinsed with cold[                    ]\t0  \twater; this prevented the butter adhering to the churn.
+48-1	5180-5183	The	_	_	_	
+48-2	5184-5189	churn	_	_	_	
+48-3	5190-5193	was	_	_	_	
+48-4	5194-5201	scalded	_	_	_	
+48-5	5202-5206	with	_	_	_	
+48-6	5207-5214	boiling	_	_	_	
+48-7	5215-5220	water	_	_	_	
+48-8	5220-5221	,	_	_	_	
+48-9	5222-5226	then	_	_	_	
+48-10	5227-5233	rinsed	_	_	_	
+48-11	5234-5238	with	_	_	_	
+48-12	5239-5243	cold	_	_	_	
+48-13	5243-5244	[	_	_	_	
+48-14	5264-5265	]	_	_	_	
+48-15	5266-5267	0	_	_	_	
+48-16	5270-5275	water	_	_	_	
+48-17	5275-5276	;	_	_	_	
+48-18	5277-5281	this	_	_	_	
+48-19	5282-5291	prevented	_	_	_	
+48-20	5292-5295	the	_	_	_	
+48-21	5296-5302	butter	_	_	_	
+48-22	5303-5311	adhering	_	_	_	
+48-23	5312-5314	to	_	_	_	
+48-24	5315-5318	the	_	_	_	
+48-25	5319-5324	churn	_	_	_	
+48-26	5324-5325	.	_	_	_	
+
+#Text=The cream 
+#Text= should be at a temperature of 60 degrees when put in the churn, but
+#Text=rendered sweet and clean, will not be noticed.
+49-1	5326-5329	The	Taste Source[48]	_	_	
+49-2	5330-5335	cream	Taste Source[48]	_	_	
+49-3	5338-5344	should	_	_	_	
+49-4	5345-5347	be	_	_	_	
+49-5	5348-5350	at	_	_	_	
+49-6	5351-5352	a	_	_	_	
+49-7	5353-5364	temperature	_	_	_	
+49-8	5365-5367	of	_	_	_	
+49-9	5368-5370	60	_	_	_	
+49-10	5371-5378	degrees	_	_	_	
+49-11	5379-5383	when	_	_	_	
+49-12	5384-5387	put	_	_	_	
+49-13	5388-5390	in	_	_	_	
+49-14	5391-5394	the	_	_	_	
+49-15	5395-5400	churn	_	_	_	
+49-16	5400-5401	,	_	_	_	
+49-17	5402-5405	but	_	_	_	
+49-18	5406-5414	rendered	_	_	_	
+49-19	5415-5420	sweet	Taste Word[49]|Quality[50]	*|*	49-19[50_49]|49-1[48_49]	
+49-20	5421-5424	and	_	_	_	
+49-21	5425-5430	clean	_	_	_	
+49-22	5430-5431	,	_	_	_	
+49-23	5432-5436	will	_	_	_	
+49-24	5437-5440	not	_	_	_	
+49-25	5441-5443	be	_	_	_	
+49-26	5444-5451	noticed	_	_	_	
+49-27	5451-5452	.	_	_	_	
+
+#Text=Equal parts of ham or 
+#Text= bacon fat, pork chops or sausage fat, combined with butter, are 
+#Text= excellent for frying cornmeal mush, eggs, sweet potatoes, egg bread 
+#Text= and calves   '    liver.
+50-1	5453-5458	Equal	_	_	_	
+50-2	5459-5464	parts	_	_	_	
+50-3	5465-5467	of	_	_	_	
+50-4	5468-5471	ham	_	_	_	
+50-5	5472-5474	or	_	_	_	
+50-6	5477-5482	bacon	_	_	_	
+50-7	5483-5486	fat	_	_	_	
+50-8	5486-5487	,	_	_	_	
+50-9	5488-5492	pork	_	_	_	
+50-10	5493-5498	chops	_	_	_	
+50-11	5499-5501	or	_	_	_	
+50-12	5502-5509	sausage	_	_	_	
+50-13	5510-5513	fat	_	_	_	
+50-14	5513-5514	,	_	_	_	
+50-15	5515-5523	combined	_	_	_	
+50-16	5524-5528	with	_	_	_	
+50-17	5529-5535	butter	_	_	_	
+50-18	5535-5536	,	_	_	_	
+50-19	5537-5540	are	_	_	_	
+50-20	5543-5552	excellent	_	_	_	
+50-21	5553-5556	for	_	_	_	
+50-22	5557-5563	frying	_	_	_	
+50-23	5564-5572	cornmeal	_	_	_	
+50-24	5573-5577	mush	_	_	_	
+50-25	5577-5578	,	_	_	_	
+50-26	5579-5583	eggs	_	_	_	
+50-27	5583-5584	,	_	_	_	
+50-28	5585-5590	sweet	Taste Word[51]|Quality[52]	*|*	50-28[52_51]|50-29[0_51]	
+50-29	5591-5599	potatoes	Taste Source	_	_	
+50-30	5599-5600	,	_	_	_	
+50-31	5601-5604	egg	_	_	_	
+50-32	5605-5610	bread	_	_	_	
+50-33	5613-5616	and	_	_	_	
+50-34	5617-5623	calves	_	_	_	
+50-35	5626-5627	'	_	_	_	
+50-36	5631-5636	liver	_	_	_	
+50-37	5636-5637	.	_	_	_	
+
+#Text=Also sliced tomatoes have a particularly fine 
+#Text= flavor if fried in bacon fat.
+51-1	5638-5642	Also	_	_	_	
+51-2	5643-5649	sliced	Taste Source[53]	_	_	
+51-3	5650-5658	tomatoes	Taste Source[53]	_	_	
+51-4	5659-5663	have	_	_	_	
+51-5	5664-5665	a	_	_	_	
+51-6	5666-5678	particularly	Quality[54]	_	_	
+51-7	5679-5683	fine	Quality[54]	_	_	
+51-8	5686-5692	flavor	Taste Word	*|*|*	51-6[54_0]|51-2[53_0]|51-9[55_0]	
+51-9	5693-5695	if	Circumstance[55]	_	_	
+51-10	5696-5701	fried	Circumstance[55]	_	_	
+51-11	5702-5704	in	Circumstance[55]	_	_	
+51-12	5705-5710	bacon	Circumstance[55]	_	_	
+51-13	5711-5714	fat	Circumstance[55]	_	_	
+51-14	5714-5715	.	_	_	_	
+
+#Text=Should fat removed from top of stock pot 
+#Text= have a flavor of vegetables, pour boiling water over, strain and stand 
+#Text= aside to cool; then remove the clean cake of fat on top of the water 
+#Text= and add to bowl of drippings.
+52-1	5716-5722	Should	_	_	_	
+52-2	5723-5726	fat	Taste Carrier[56]	_	_	
+52-3	5727-5734	removed	Taste Carrier[56]	_	_	
+52-4	5735-5739	from	Taste Carrier[56]	_	_	
+52-5	5740-5743	top	Taste Carrier[56]	_	_	
+52-6	5744-5746	of	Taste Carrier[56]	_	_	
+52-7	5747-5752	stock	Taste Carrier[56]	_	_	
+52-8	5753-5756	pot	Taste Carrier[56]	_	_	
+52-9	5759-5763	have	_	_	_	
+52-10	5764-5765	a	_	_	_	
+52-11	5766-5772	flavor	Taste Word	*|*	52-12[57_0]|52-2[56_0]	
+52-12	5773-5775	of	Taste Source[57]	_	_	
+52-13	5776-5786	vegetables	Taste Source[57]	_	_	
+52-14	5786-5787	,	_	_	_	
+52-15	5788-5792	pour	_	_	_	
+52-16	5793-5800	boiling	_	_	_	
+52-17	5801-5806	water	_	_	_	
+52-18	5807-5811	over	_	_	_	
+52-19	5811-5812	,	_	_	_	
+52-20	5813-5819	strain	_	_	_	
+52-21	5820-5823	and	_	_	_	
+52-22	5824-5829	stand	_	_	_	
+52-23	5832-5837	aside	_	_	_	
+52-24	5838-5840	to	_	_	_	
+52-25	5841-5845	cool	_	_	_	
+52-26	5845-5846	;	_	_	_	
+52-27	5847-5851	then	_	_	_	
+52-28	5852-5858	remove	_	_	_	
+52-29	5859-5862	the	_	_	_	
+52-30	5863-5868	clean	_	_	_	
+52-31	5869-5873	cake	_	_	_	
+52-32	5874-5876	of	_	_	_	
+52-33	5877-5880	fat	_	_	_	
+52-34	5881-5883	on	_	_	_	
+52-35	5884-5887	top	_	_	_	
+52-36	5888-5890	of	_	_	_	
+52-37	5891-5894	the	_	_	_	
+52-38	5895-5900	water	_	_	_	
+52-39	5903-5906	and	_	_	_	
+52-40	5907-5910	add	_	_	_	
+52-41	5911-5913	to	_	_	_	
+52-42	5914-5918	bowl	_	_	_	
+52-43	5919-5921	of	_	_	_	
+52-44	5922-5931	drippings	_	_	_	
+52-45	5931-5932	.	_	_	_	
+
+#Text=This is one of the small economies which 
+#Text= will, I think, appeal to the frugal young housewife.
+53-1	5933-5937	This	_	_	_	
+53-2	5938-5940	is	_	_	_	
+53-3	5941-5944	one	_	_	_	
+53-4	5945-5947	of	_	_	_	
+53-5	5948-5951	the	_	_	_	
+53-6	5952-5957	small	_	_	_	
+53-7	5958-5967	economies	_	_	_	
+53-8	5968-5973	which	_	_	_	
+53-9	5976-5980	will	_	_	_	
+53-10	5980-5981	,	_	_	_	
+53-11	5982-5983	I	_	_	_	
+53-12	5984-5989	think	_	_	_	
+53-13	5989-5990	,	_	_	_	
+53-14	5991-5997	appeal	_	_	_	
+53-15	5998-6000	to	_	_	_	
+53-16	6001-6004	the	_	_	_	
+53-17	6005-6011	frugal	_	_	_	
+53-18	6012-6017	young	_	_	_	
+53-19	6018-6027	housewife	_	_	_	
+53-20	6027-6028	.	_	_	_	
+
+#Text=If possible, 
+#Text= procure an iron pot for deep frying.
+54-1	6029-6031	If	_	_	_	
+54-2	6032-6040	possible	_	_	_	
+54-3	6040-6041	,	_	_	_	
+54-4	6044-6051	procure	_	_	_	
+54-5	6052-6054	an	_	_	_	
+54-6	6055-6059	iron	_	_	_	
+54-7	6060-6063	pot	_	_	_	
+54-8	6064-6067	for	_	_	_	
+54-9	6068-6072	deep	_	_	_	
+54-10	6073-6079	frying	_	_	_	
+54-11	6079-6080	.	_	_	_	
+
+#Text=After using, strain the fat 
+#Text= remaining, adding sediment in the bottom of cook-pot to the can of 
+#Text= soap fat; then return the clean, strained fat to the cook pot.
+55-1	6081-6086	After	_	_	_	
+55-2	6087-6092	using	_	_	_	
+55-3	6092-6093	,	_	_	_	
+55-4	6094-6100	strain	_	_	_	
+55-5	6101-6104	the	_	_	_	
+55-6	6105-6108	fat	_	_	_	
+55-7	6111-6120	remaining	_	_	_	
+55-8	6120-6121	,	_	_	_	
+55-9	6122-6128	adding	_	_	_	
+55-10	6129-6137	sediment	_	_	_	
+55-11	6138-6140	in	_	_	_	
+55-12	6141-6144	the	_	_	_	
+55-13	6145-6151	bottom	_	_	_	
+55-14	6152-6154	of	_	_	_	
+55-15	6155-6163	cook-pot	_	_	_	
+55-16	6164-6166	to	_	_	_	
+55-17	6167-6170	the	_	_	_	
+55-18	6171-6174	can	_	_	_	
+55-19	6175-6177	of	_	_	_	
+55-20	6180-6184	soap	_	_	_	
+55-21	6185-6188	fat	_	_	_	
+55-22	6188-6189	;	_	_	_	
+55-23	6190-6194	then	_	_	_	
+55-24	6195-6201	return	_	_	_	
+55-25	6202-6205	the	_	_	_	
+55-26	6206-6211	clean	_	_	_	
+55-27	6211-6212	,	_	_	_	
+55-28	6213-6221	strained	_	_	_	
+55-29	6222-6225	fat	_	_	_	
+55-30	6226-6228	to	_	_	_	
+55-31	6229-6232	the	_	_	_	
+55-32	6233-6237	cook	_	_	_	
+55-33	6238-6241	pot	_	_	_	
+55-34	6241-6242	.	_	_	_	
+
+#Text=Keep in 
+#Text= a cool place, closely covered, and if careful not to scorch the fat.
+56-1	6243-6247	Keep	_	_	_	
+56-2	6248-6250	in	_	_	_	
+56-3	6253-6254	a	_	_	_	
+56-4	6255-6259	cool	_	_	_	
+56-5	6260-6265	place	_	_	_	
+56-6	6265-6266	,	_	_	_	
+56-7	6267-6274	closely	_	_	_	
+56-8	6275-6282	covered	_	_	_	
+56-9	6282-6283	,	_	_	_	
+56-10	6284-6287	and	_	_	_	
+56-11	6288-6290	if	_	_	_	
+56-12	6291-6298	careful	_	_	_	
+56-13	6299-6302	not	_	_	_	
+56-14	6303-6305	to	_	_	_	
+56-15	6306-6312	scorch	_	_	_	
+56-16	6313-6316	the	_	_	_	
+56-17	6317-6320	fat	_	_	_	
+56-18	6320-6321	.	_	_	_	
+
+#Text=It may be used over and over again, and croquettes, etc., may be 
+#Text= prepared in a few moments by simply heating the kettle of fat in which 
+#Text= to fry them.
+57-1	6324-6326	It	_	_	_	
+57-2	6327-6330	may	_	_	_	
+57-3	6331-6333	be	_	_	_	
+57-4	6334-6338	used	_	_	_	
+57-5	6339-6343	over	_	_	_	
+57-6	6344-6347	and	_	_	_	
+57-7	6348-6352	over	_	_	_	
+57-8	6353-6358	again	_	_	_	
+57-9	6358-6359	,	_	_	_	
+57-10	6360-6363	and	_	_	_	
+57-11	6364-6374	croquettes	_	_	_	
+57-12	6374-6375	,	_	_	_	
+57-13	6376-6379	etc	_	_	_	
+57-14	6379-6380	.	_	_	_	
+57-15	6380-6381	,	_	_	_	
+57-16	6382-6385	may	_	_	_	
+57-17	6386-6388	be	_	_	_	
+57-18	6391-6399	prepared	_	_	_	
+57-19	6400-6402	in	_	_	_	
+57-20	6403-6404	a	_	_	_	
+57-21	6405-6408	few	_	_	_	
+57-22	6409-6416	moments	_	_	_	
+57-23	6417-6419	by	_	_	_	
+57-24	6420-6426	simply	_	_	_	
+57-25	6427-6434	heating	_	_	_	
+57-26	6435-6438	the	_	_	_	
+57-27	6439-6445	kettle	_	_	_	
+57-28	6446-6448	of	_	_	_	
+57-29	6449-6452	fat	_	_	_	
+57-30	6453-6455	in	_	_	_	
+57-31	6456-6461	which	_	_	_	
+57-32	6464-6466	to	_	_	_	
+57-33	6467-6470	fry	_	_	_	
+57-34	6471-6475	them	_	_	_	
+57-35	6475-6476	.	_	_	_	
+
+#Text=Aunt Sarah frequently filled small glass jars with rendered mutton[                    ]\t0  \toven until lightly browned on top.
+58-1	6482-6486	Aunt	_	_	_	
+58-2	6487-6492	Sarah	_	_	_	
+58-3	6493-6503	frequently	_	_	_	
+58-4	6504-6510	filled	_	_	_	
+58-5	6511-6516	small	_	_	_	
+58-6	6517-6522	glass	_	_	_	
+58-7	6523-6527	jars	_	_	_	
+58-8	6528-6532	with	_	_	_	
+58-9	6533-6541	rendered	_	_	_	
+58-10	6542-6548	mutton	_	_	_	
+58-11	6548-6549	[	_	_	_	
+58-12	6569-6570	]	_	_	_	
+58-13	6571-6572	0	_	_	_	
+58-14	6575-6579	oven	_	_	_	
+58-15	6580-6585	until	_	_	_	
+58-16	6586-6593	lightly	_	_	_	
+58-17	6594-6601	browned	_	_	_	
+58-18	6602-6604	on	_	_	_	
+58-19	6605-6608	top	_	_	_	
+58-20	6608-6609	.	_	_	_	
+
+#Text=The omelette when cooked should be 
+#Text= light and puffy, and remain so while being served.
+59-1	6610-6613	The	_	_	_	
+59-2	6614-6622	omelette	_	_	_	
+59-3	6623-6627	when	_	_	_	
+59-4	6628-6634	cooked	_	_	_	
+59-5	6635-6641	should	_	_	_	
+59-6	6642-6644	be	_	_	_	
+59-7	6647-6652	light	_	_	_	
+59-8	6653-6656	and	_	_	_	
+59-9	6657-6662	puffy	_	_	_	
+59-10	6662-6663	,	_	_	_	
+59-11	6664-6667	and	_	_	_	
+59-12	6668-6674	remain	_	_	_	
+59-13	6675-6677	so	_	_	_	
+59-14	6678-6683	while	_	_	_	
+59-15	6684-6689	being	_	_	_	
+59-16	6690-6696	served	_	_	_	
+59-17	6696-6697	.	_	_	_	
+
+#Text=Double the omelette 
+#Text= together on a hot platter and sprinkle finely chopped parsley over the
+#Text=by some "snap beans."
+60-1	6698-6704	Double	_	_	_	
+60-2	6705-6708	the	_	_	_	
+60-3	6709-6717	omelette	_	_	_	
+60-4	6720-6728	together	_	_	_	
+60-5	6729-6731	on	_	_	_	
+60-6	6732-6733	a	_	_	_	
+60-7	6734-6737	hot	_	_	_	
+60-8	6738-6745	platter	_	_	_	
+60-9	6746-6749	and	_	_	_	
+60-10	6750-6758	sprinkle	_	_	_	
+60-11	6759-6765	finely	_	_	_	
+60-12	6766-6773	chopped	_	_	_	
+60-13	6774-6781	parsley	_	_	_	
+60-14	6782-6786	over	_	_	_	
+60-15	6787-6790	the	_	_	_	
+60-16	6791-6793	by	_	_	_	
+60-17	6794-6798	some	_	_	_	
+60-18	6799-6800	"	_	_	_	
+60-19	6800-6804	snap	_	_	_	
+60-20	6805-6810	beans	_	_	_	
+60-21	6810-6811	.	_	_	_	
+60-22	6811-6812	"	_	_	_	
+
+#Text=String them carefully.
+61-1	6813-6819	String	_	_	_	
+61-2	6820-6824	them	_	_	_	
+61-3	6825-6834	carefully	_	_	_	
+61-4	6834-6835	.	_	_	_	
+
+#Text=(If quite small and 
+#Text= tender this should not be necessary.)
+62-1	6836-6837	(	_	_	_	
+62-2	6837-6839	If	_	_	_	
+62-3	6840-6845	quite	_	_	_	
+62-4	6846-6851	small	_	_	_	
+62-5	6852-6855	and	_	_	_	
+62-6	6858-6864	tender	_	_	_	
+62-7	6865-6869	this	_	_	_	
+62-8	6870-6876	should	_	_	_	
+62-9	6877-6880	not	_	_	_	
+62-10	6881-6883	be	_	_	_	
+62-11	6884-6893	necessary	_	_	_	
+62-12	6893-6894	.	_	_	_	
+62-13	6894-6895	)	_	_	_	
+
+#Text=Rub well with the hands through 
+#Text= several waters.
+63-1	6896-6899	Rub	_	_	_	
+63-2	6900-6904	well	_	_	_	
+63-3	6905-6909	with	_	_	_	
+63-4	6910-6913	the	_	_	_	
+63-5	6914-6919	hands	_	_	_	
+63-6	6920-6927	through	_	_	_	
+63-7	6930-6937	several	_	_	_	
+63-8	6938-6944	waters	_	_	_	
+63-9	6944-6945	.	_	_	_	
+
+#Text=This removes the strong bean taste.
+64-1	6946-6950	This	_	_	_	
+64-2	6951-6958	removes	_	_	_	
+64-3	6959-6962	the	_	_	_	
+64-4	6963-6969	strong	Quality	_	_	
+64-5	6970-6974	bean	Taste Source	_	_	
+64-6	6975-6980	taste	Taste Word	*|*	64-5|64-4	
+64-7	6980-6981	.	_	_	_	
+
+#Text=Have your kettle 
+#Text= half filled with boiling water on the range over a brisk fire.
+65-1	6982-6986	Have	_	_	_	
+65-2	6987-6991	your	_	_	_	
+65-3	6992-6998	kettle	_	_	_	
+65-4	7001-7005	half	_	_	_	
+65-5	7006-7012	filled	_	_	_	
+65-6	7013-7017	with	_	_	_	
+65-7	7018-7025	boiling	_	_	_	
+65-8	7026-7031	water	_	_	_	
+65-9	7032-7034	on	_	_	_	
+65-10	7035-7038	the	_	_	_	
+65-11	7039-7044	range	_	_	_	
+65-12	7045-7049	over	_	_	_	
+65-13	7050-7051	a	_	_	_	
+65-14	7052-7057	brisk	_	_	_	
+65-15	7058-7062	fire	_	_	_	
+65-16	7062-7063	.	_	_	_	
+
+#Text=Put a 
+#Text= tablespoon of butter in the water, add beans by handfuls until all are 
+#Text= in and cook until tender.
+66-1	7064-7067	Put	_	_	_	
+66-2	7068-7069	a	_	_	_	
+66-3	7072-7082	tablespoon	_	_	_	
+66-4	7083-7085	of	_	_	_	
+66-5	7086-7092	butter	_	_	_	
+66-6	7093-7095	in	_	_	_	
+66-7	7096-7099	the	_	_	_	
+66-8	7100-7105	water	_	_	_	
+66-9	7105-7106	,	_	_	_	
+66-10	7107-7110	add	_	_	_	
+66-11	7111-7116	beans	_	_	_	
+66-12	7117-7119	by	_	_	_	
+66-13	7120-7128	handfuls	_	_	_	
+66-14	7129-7134	until	_	_	_	
+66-15	7135-7138	all	_	_	_	
+66-16	7139-7142	are	_	_	_	
+66-17	7145-7147	in	_	_	_	
+66-18	7148-7151	and	_	_	_	
+66-19	7152-7156	cook	_	_	_	
+66-20	7157-7162	until	_	_	_	
+66-21	7163-7169	tender	_	_	_	
+66-22	7169-7170	.	_	_	_	
+
+#Text=Turn the beans in a colander to drain.
+67-1	7171-7175	Turn	_	_	_	
+67-2	7176-7179	the	_	_	_	
+67-3	7180-7185	beans	_	_	_	
+67-4	7186-7188	in	_	_	_	
+67-5	7189-7190	a	_	_	_	
+67-6	7191-7199	colander	_	_	_	
+67-7	7200-7202	to	_	_	_	
+67-8	7203-7208	drain	_	_	_	
+67-9	7208-7209	.	_	_	_	
+
+#Text=When 
+#Text= cool add a chopped onion, salt and pour enough good vinegar over to 
+#Text= cover, and allow to stand two days, when strain vinegar from beans.
+68-1	7210-7214	When	_	_	_	
+68-2	7217-7221	cool	_	_	_	
+68-3	7222-7225	add	_	_	_	
+68-4	7226-7227	a	_	_	_	
+68-5	7228-7235	chopped	_	_	_	
+68-6	7236-7241	onion	_	_	_	
+68-7	7241-7242	,	_	_	_	
+68-8	7243-7247	salt	_	_	_	
+68-9	7248-7251	and	_	_	_	
+68-10	7252-7256	pour	_	_	_	
+68-11	7257-7263	enough	_	_	_	
+68-12	7264-7268	good	_	_	_	
+68-13	7269-7276	vinegar	_	_	_	
+68-14	7277-7281	over	_	_	_	
+68-15	7282-7284	to	_	_	_	
+68-16	7287-7292	cover	_	_	_	
+68-17	7292-7293	,	_	_	_	
+68-18	7294-7297	and	_	_	_	
+68-19	7298-7303	allow	_	_	_	
+68-20	7304-7306	to	_	_	_	
+68-21	7307-7312	stand	_	_	_	
+68-22	7313-7316	two	_	_	_	
+68-23	7317-7321	days	_	_	_	
+68-24	7321-7322	,	_	_	_	
+68-25	7323-7327	when	_	_	_	
+68-26	7328-7334	strain	_	_	_	
+68-27	7335-7342	vinegar	_	_	_	
+68-28	7343-7347	from	_	_	_	
+68-29	7348-7353	beans	_	_	_	
+68-30	7353-7354	.	_	_	_	
+
+#Text=Boil vinegar, add water if vinegar is quite sour and pour hot over 
+#Text= the beans.
+69-1	7357-7361	Boil	_	_	_	
+69-2	7362-7369	vinegar	_	_	_	
+69-3	7369-7370	,	_	_	_	
+69-4	7371-7374	add	_	_	_	
+69-5	7375-7380	water	_	_	_	
+69-6	7381-7383	if	_	_	_	
+69-7	7384-7391	vinegar	Taste Source	_	_	
+69-8	7392-7394	is	_	_	_	
+69-9	7395-7400	quite	Quality	_	_	
+69-10	7401-7405	sour	Taste Word[58]|Quality[59]	*|*|*	69-10[59_58]|69-9[0_58]|69-7[0_58]	
+69-11	7406-7409	and	_	_	_	
+69-12	7410-7414	pour	_	_	_	
+69-13	7415-7418	hot	_	_	_	
+69-14	7419-7423	over	_	_	_	
+69-15	7426-7429	the	_	_	_	
+69-16	7430-7435	beans	_	_	_	
+69-17	7435-7436	.	_	_	_	
+
+#Text=Fill quart glass jars with the beans and pour vinegar over, 
+#Text= within an inch of top of jar; pour pure olive oil over top of beans, 
+#Text= screw on jar covers tightly and stand in a cool place until wanted to 
+#Text= use.
+70-1	7437-7441	Fill	_	_	_	
+70-2	7442-7447	quart	_	_	_	
+70-3	7448-7453	glass	_	_	_	
+70-4	7454-7458	jars	_	_	_	
+70-5	7459-7463	with	_	_	_	
+70-6	7464-7467	the	_	_	_	
+70-7	7468-7473	beans	_	_	_	
+70-8	7474-7477	and	_	_	_	
+70-9	7478-7482	pour	_	_	_	
+70-10	7483-7490	vinegar	_	_	_	
+70-11	7491-7495	over	_	_	_	
+70-12	7495-7496	,	_	_	_	
+70-13	7499-7505	within	_	_	_	
+70-14	7506-7508	an	_	_	_	
+70-15	7509-7513	inch	_	_	_	
+70-16	7514-7516	of	_	_	_	
+70-17	7517-7520	top	_	_	_	
+70-18	7521-7523	of	_	_	_	
+70-19	7524-7527	jar	_	_	_	
+70-20	7527-7528	;	_	_	_	
+70-21	7529-7533	pour	_	_	_	
+70-22	7534-7538	pure	_	_	_	
+70-23	7539-7544	olive	_	_	_	
+70-24	7545-7548	oil	_	_	_	
+70-25	7549-7553	over	_	_	_	
+70-26	7554-7557	top	_	_	_	
+70-27	7558-7560	of	_	_	_	
+70-28	7561-7566	beans	_	_	_	
+70-29	7566-7567	,	_	_	_	
+70-30	7570-7575	screw	_	_	_	
+70-31	7576-7578	on	_	_	_	
+70-32	7579-7582	jar	_	_	_	
+70-33	7583-7589	covers	_	_	_	
+70-34	7590-7597	tightly	_	_	_	
+70-35	7598-7601	and	_	_	_	
+70-36	7602-7607	stand	_	_	_	
+70-37	7608-7610	in	_	_	_	
+70-38	7611-7612	a	_	_	_	
+70-39	7613-7617	cool	_	_	_	
+70-40	7618-7623	place	_	_	_	
+70-41	7624-7629	until	_	_	_	
+70-42	7630-7636	wanted	_	_	_	
+70-43	7637-7639	to	_	_	_	
+70-44	7642-7645	use	_	_	_	
+70-45	7645-7646	.	_	_	_	
+
+#Text=In the winter, when fresh salads were scarce, Aunt Sarah opened a 
+#Text= can of these beans.
+71-1	7647-7649	In	_	_	_	
+71-2	7650-7653	the	_	_	_	
+71-3	7654-7660	winter	_	_	_	
+71-4	7660-7661	,	_	_	_	
+71-5	7662-7666	when	_	_	_	
+71-6	7667-7672	fresh	_	_	_	
+71-7	7673-7679	salads	_	_	_	
+71-8	7680-7684	were	_	_	_	
+71-9	7685-7691	scarce	_	_	_	
+71-10	7691-7692	,	_	_	_	
+71-11	7693-7697	Aunt	_	_	_	
+71-12	7698-7703	Sarah	_	_	_	
+71-13	7704-7710	opened	_	_	_	
+71-14	7711-7712	a	_	_	_	
+71-15	7715-7718	can	_	_	_	
+71-16	7719-7721	of	_	_	_	
+71-17	7722-7727	these	_	_	_	
+71-18	7728-7733	beans	Taste Source	_	_	
+71-19	7733-7734	.	_	_	_	
+
+#Text=If they were very sour she poured cold water over, 
+#Text= allowed to stand an hour, drained and added a little fresh olive oil.
+72-1	7735-7737	If	_	_	_	
+72-2	7738-7742	they	_	_	_	
+72-3	7743-7747	were	_	_	_	
+72-4	7748-7752	very	Quality	_	_	
+72-5	7753-7757	sour	Taste Word[60]|Quality[61]	*|*|*	72-5[61_60]|72-4[0_60]|71-18[0_60]	
+72-6	7758-7761	she	_	_	_	
+72-7	7762-7768	poured	_	_	_	
+72-8	7769-7773	cold	_	_	_	
+72-9	7774-7779	water	_	_	_	
+72-10	7780-7784	over	_	_	_	
+72-11	7784-7785	,	_	_	_	
+72-12	7788-7795	allowed	_	_	_	
+72-13	7796-7798	to	_	_	_	
+72-14	7799-7804	stand	_	_	_	
+72-15	7805-7807	an	_	_	_	
+72-16	7808-7812	hour	_	_	_	
+72-17	7812-7813	,	_	_	_	
+72-18	7814-7821	drained	_	_	_	
+72-19	7822-7825	and	_	_	_	
+72-20	7826-7831	added	_	_	_	
+72-21	7832-7833	a	_	_	_	
+72-22	7834-7840	little	_	_	_	
+72-23	7841-7846	fresh	_	_	_	
+72-24	7847-7852	olive	_	_	_	
+72-25	7853-7856	oil	_	_	_	
+72-26	7856-7857	.	_	_	_	
+
+#Text=Every one called her "bean salat," as the Pennsylvania Germans call 
+#Text= it, delicious.
+73-1	7860-7865	Every	_	_	_	
+73-2	7866-7869	one	_	_	_	
+73-3	7870-7876	called	_	_	_	
+73-4	7877-7880	her	_	_	_	
+73-5	7881-7882	"	_	_	_	
+73-6	7882-7886	bean	Taste Source[62]	_	_	
+73-7	7887-7892	salat	Taste Source[62]	_	_	
+73-8	7892-7893	,	_	_	_	
+73-9	7893-7894	"	_	_	_	
+73-10	7895-7897	as	_	_	_	
+73-11	7898-7901	the	_	_	_	
+73-12	7902-7914	Pennsylvania	_	_	_	
+73-13	7915-7922	Germans	_	_	_	
+73-14	7923-7927	call	_	_	_	
+73-15	7930-7932	it	_	_	_	
+73-16	7932-7933	,	_	_	_	
+73-17	7934-7943	delicious	Taste Word[63]|Quality[64]	*|*	73-17[64_63]|73-6[62_63]	
+73-18	7943-7944	.	_	_	_	
+
+#Text=The instructions regarding the preparing and cooking of 
+#Text= string beans for salad will answer for beans used as a vegetable, 
+#Text= omitting vinegar, of course.
+74-1	7945-7948	The	_	_	_	
+74-2	7949-7961	instructions	_	_	_	
+74-3	7962-7971	regarding	_	_	_	
+74-4	7972-7975	the	_	_	_	
+74-5	7976-7985	preparing	_	_	_	
+74-6	7986-7989	and	_	_	_	
+74-7	7990-7997	cooking	_	_	_	
+74-8	7998-8000	of	_	_	_	
+74-9	8003-8009	string	_	_	_	
+74-10	8010-8015	beans	_	_	_	
+74-11	8016-8019	for	_	_	_	
+74-12	8020-8025	salad	_	_	_	
+74-13	8026-8030	will	_	_	_	
+74-14	8031-8037	answer	_	_	_	
+74-15	8038-8041	for	_	_	_	
+74-16	8042-8047	beans	_	_	_	
+74-17	8048-8052	used	_	_	_	
+74-18	8053-8055	as	_	_	_	
+74-19	8056-8057	a	_	_	_	
+74-20	8058-8067	vegetable	_	_	_	
+74-21	8067-8068	,	_	_	_	
+74-22	8071-8079	omitting	_	_	_	
+74-23	8080-8087	vinegar	_	_	_	
+74-24	8087-8088	,	_	_	_	
+74-25	8089-8091	of	_	_	_	
+74-26	8092-8098	course	_	_	_	
+74-27	8098-8099	.	_	_	_	
+
+#Text=There is a great difference in the manner 
+#Text= of cooking vegetables.
+75-1	8100-8105	There	_	_	_	
+75-2	8106-8108	is	_	_	_	
+75-3	8109-8110	a	_	_	_	
+75-4	8111-8116	great	_	_	_	
+75-5	8117-8127	difference	_	_	_	
+75-6	8128-8130	in	_	_	_	
+75-7	8131-8134	the	_	_	_	
+75-8	8135-8141	manner	_	_	_	
+75-9	8144-8146	of	_	_	_	
+75-10	8147-8154	cooking	_	_	_	
+75-11	8155-8165	vegetables	_	_	_	
+75-12	8165-8166	.	_	_	_	
+
+#Text=Aunt Sarah always added an onion and a sprig of
+#Text= 
+#Text=  
+#Text= BOILED WATER 
+#Text=  
+#Text= It sometimes becomes necessary to boil drinking water, which usually 
+#Text= has a flat, insipid taste.
+76-1	8167-8171	Aunt	_	_	_	
+76-2	8172-8177	Sarah	_	_	_	
+76-3	8178-8184	always	_	_	_	
+76-4	8185-8190	added	_	_	_	
+76-5	8191-8193	an	_	_	_	
+76-6	8194-8199	onion	_	_	_	
+76-7	8200-8203	and	_	_	_	
+76-8	8204-8205	a	_	_	_	
+76-9	8206-8211	sprig	_	_	_	
+76-10	8212-8214	of	_	_	_	
+76-11	8221-8227	BOILED	_	_	_	
+76-12	8228-8233	WATER	_	_	_	
+76-13	8239-8241	It	_	_	_	
+76-14	8242-8251	sometimes	_	_	_	
+76-15	8252-8259	becomes	_	_	_	
+76-16	8260-8269	necessary	_	_	_	
+76-17	8270-8272	to	_	_	_	
+76-18	8273-8277	boil	_	_	_	
+76-19	8278-8286	drinking	Taste Source[65]	_	_	
+76-20	8287-8292	water	Taste Source[65]	_	_	
+76-21	8292-8293	,	_	_	_	
+76-22	8294-8299	which	_	_	_	
+76-23	8300-8307	usually	_	_	_	
+76-24	8310-8313	has	_	_	_	
+76-25	8314-8315	a	_	_	_	
+76-26	8316-8320	flat	Quality	_	_	
+76-27	8320-8321	,	_	_	_	
+76-28	8322-8329	insipid	Taste Word[66]|Quality[67]	*	76-28[67_66]	
+76-29	8330-8335	taste	Taste Word	*|*|*	76-26|76-28[67_0]|76-19[65_0]	
+76-30	8335-8336	.	_	_	_	
+
+#Text=Do young housewives know it is said that 
+#Text= after water has been boiled and when quite cool if a bottle be half 
+#Text= filled and shaken well the water will become aerated, and have the 
+#Text= taste of fresh spring water?
+77-1	8337-8339	Do	_	_	_	
+77-2	8340-8345	young	_	_	_	
+77-3	8346-8356	housewives	_	_	_	
+77-4	8357-8361	know	_	_	_	
+77-5	8362-8364	it	_	_	_	
+77-6	8365-8367	is	_	_	_	
+77-7	8368-8372	said	_	_	_	
+77-8	8373-8377	that	_	_	_	
+77-9	8380-8385	after	Circumstance[68]	_	_	
+77-10	8386-8391	water	Circumstance[68]	_	_	
+77-11	8392-8395	has	Circumstance[68]	_	_	
+77-12	8396-8400	been	Circumstance[68]	_	_	
+77-13	8401-8407	boiled	Circumstance[68]	_	_	
+77-14	8408-8411	and	Circumstance[68]	_	_	
+77-15	8412-8416	when	Circumstance[68]	_	_	
+77-16	8417-8422	quite	Circumstance[68]	_	_	
+77-17	8423-8427	cool	Circumstance[68]	_	_	
+77-18	8428-8430	if	Circumstance[68]	_	_	
+77-19	8431-8432	a	Circumstance[68]	_	_	
+77-20	8433-8439	bottle	Circumstance[68]	_	_	
+77-21	8440-8442	be	Circumstance[68]	_	_	
+77-22	8443-8447	half	Circumstance[68]	_	_	
+77-23	8450-8456	filled	Circumstance[68]	_	_	
+77-24	8457-8460	and	Circumstance[68]	_	_	
+77-25	8461-8467	shaken	Circumstance[68]	_	_	
+77-26	8468-8472	well	Circumstance[68]	_	_	
+77-27	8473-8476	the	Circumstance[68]	_	_	
+77-28	8477-8482	water	Circumstance[68]	_	_	
+77-29	8483-8487	will	Circumstance[68]	_	_	
+77-30	8488-8494	become	Circumstance[68]	_	_	
+77-31	8495-8502	aerated	Circumstance[68]	_	_	
+77-32	8502-8503	,	_	_	_	
+77-33	8504-8507	and	_	_	_	
+77-34	8508-8512	have	_	_	_	
+77-35	8513-8516	the	_	_	_	
+77-36	8519-8524	taste	Taste Word	*|*	77-37[69_0]|77-9[68_0]	
+77-37	8525-8527	of	Taste Source[69]	_	_	
+77-38	8528-8533	fresh	Taste Source[69]	_	_	
+77-39	8534-8540	spring	Taste Source[69]	_	_	
+77-40	8541-8546	water	Taste Source[69]	_	_	
+77-41	8546-8547	?	_	_	_	
+
+#Text=TEA 
+#Text=  
+#Text= To make tea always scald the teapot, which should be agate, 
+#Text= earthenware or china, never metal.
+78-1	8556-8559	TEA	_	_	_	
+78-2	8565-8567	To	_	_	_	
+78-3	8568-8572	make	_	_	_	
+78-4	8573-8576	tea	_	_	_	
+78-5	8577-8583	always	_	_	_	
+78-6	8584-8589	scald	_	_	_	
+78-7	8590-8593	the	_	_	_	
+78-8	8594-8600	teapot	_	_	_	
+78-9	8600-8601	,	_	_	_	
+78-10	8602-8607	which	_	_	_	
+78-11	8608-8614	should	_	_	_	
+78-12	8615-8617	be	_	_	_	
+78-13	8618-8623	agate	_	_	_	
+78-14	8623-8624	,	_	_	_	
+78-15	8627-8638	earthenware	_	_	_	
+78-16	8639-8641	or	_	_	_	
+78-17	8642-8647	china	_	_	_	
+78-18	8647-8648	,	_	_	_	
+78-19	8649-8654	never	_	_	_	
+78-20	8655-8660	metal	_	_	_	
+78-21	8660-8661	.	_	_	_	
+
+#Text=Always use water that has been 
+#Text= _freshly_ boiled, and use it boiling hot.
+79-1	8662-8668	Always	_	_	_	
+79-2	8669-8672	use	_	_	_	
+79-3	8673-8678	water	_	_	_	
+79-4	8679-8683	that	_	_	_	
+79-5	8684-8687	has	_	_	_	
+79-6	8688-8692	been	_	_	_	
+79-7	8695-8696	_	_	_	_	
+79-8	8696-8703	freshly	_	_	_	
+79-9	8703-8704	_	_	_	_	
+79-10	8705-8711	boiled	_	_	_	
+79-11	8711-8712	,	_	_	_	
+79-12	8713-8716	and	_	_	_	
+79-13	8717-8720	use	_	_	_	
+79-14	8721-8723	it	_	_	_	
+79-15	8724-8731	boiling	_	_	_	
+79-16	8732-8735	hot	_	_	_	
+79-17	8735-8736	.	_	_	_	
+
+#Text=Never, under any 
+#Text= circumstances, boil tea, as tannin is then extracted from the leaves, 
+#Text= and the tea will have a bitter taste.
+80-1	8737-8742	Never	_	_	_	
+80-2	8742-8743	,	_	_	_	
+80-3	8744-8749	under	_	_	_	
+80-4	8750-8753	any	_	_	_	
+80-5	8756-8769	circumstances	_	_	_	
+80-6	8769-8770	,	_	_	_	
+80-7	8771-8775	boil	_	_	_	
+80-8	8776-8779	tea	_	_	_	
+80-9	8779-8780	,	_	_	_	
+80-10	8781-8783	as	_	_	_	
+80-11	8784-8790	tannin	_	_	_	
+80-12	8791-8793	is	_	_	_	
+80-13	8794-8798	then	_	_	_	
+80-14	8799-8808	extracted	_	_	_	
+80-15	8809-8813	from	_	_	_	
+80-16	8814-8817	the	_	_	_	
+80-17	8818-8824	leaves	_	_	_	
+80-18	8824-8825	,	_	_	_	
+80-19	8828-8831	and	_	_	_	
+80-20	8832-8835	the	_	_	_	
+80-21	8836-8839	tea	_	_	_	
+80-22	8840-8844	will	_	_	_	
+80-23	8845-8849	have	_	_	_	
+80-24	8850-8851	a	_	_	_	
+80-25	8852-8858	bitter	Quality[70]|Taste Word[71]	*	80-25[70_71]	
+80-26	8859-8864	taste	Taste Word	*	80-25[70_0]	
+80-27	8864-8865	.	_	_	_	
+
+#Text=Do not allow tea to stand any 
+#Text= length of time unless strained from tea leaves.
+81-1	8866-8868	Do	_	_	_	
+81-2	8869-8872	not	_	_	_	
+81-3	8873-8878	allow	_	_	_	
+81-4	8879-8882	tea	_	_	_	
+81-5	8883-8885	to	_	_	_	
+81-6	8886-8891	stand	_	_	_	
+81-7	8892-8895	any	_	_	_	
+81-8	8898-8904	length	_	_	_	
+81-9	8905-8907	of	_	_	_	
+81-10	8908-8912	time	_	_	_	
+81-11	8913-8919	unless	_	_	_	
+81-12	8920-8928	strained	_	_	_	
+81-13	8929-8933	from	_	_	_	
+81-14	8934-8937	tea	_	_	_	
+81-15	8938-8944	leaves	_	_	_	
+81-16	8944-8945	.	_	_	_	
+
+#Text=Use one teaspoon of 
+#Text= tea for each cup, unless liked stronger, when add one extra teaspoon
+#Text= 
+#Text= One cup of milk, 1/2 cup of water, 1 large teaspoonful of butter, a 
+#Text= scant tablespoonful of flour moistened with a small quantity of water, 
+#Text= before adding.
+82-1	8946-8949	Use	_	_	_	
+82-2	8950-8953	one	_	_	_	
+82-3	8954-8962	teaspoon	_	_	_	
+82-4	8963-8965	of	_	_	_	
+82-5	8968-8971	tea	Taste Source	_	_	
+82-6	8972-8975	for	_	_	_	
+82-7	8976-8980	each	_	_	_	
+82-8	8981-8984	cup	_	_	_	
+82-9	8984-8985	,	_	_	_	
+82-10	8986-8992	unless	_	_	_	
+82-11	8993-8998	liked	_	_	_	
+82-12	8999-9007	stronger	_	_	_	
+82-13	9007-9008	,	_	_	_	
+82-14	9009-9013	when	_	_	_	
+82-15	9014-9017	add	_	_	_	
+82-16	9018-9021	one	_	_	_	
+82-17	9022-9027	extra	_	_	_	
+82-18	9028-9036	teaspoon	_	_	_	
+82-19	9040-9043	One	_	_	_	
+82-20	9044-9047	cup	_	_	_	
+82-21	9048-9050	of	_	_	_	
+82-22	9051-9055	milk	_	_	_	
+82-23	9055-9056	,	_	_	_	
+82-24	9057-9058	1	_	_	_	
+82-25	9058-9059	/	_	_	_	
+82-26	9059-9060	2	_	_	_	
+82-27	9061-9064	cup	_	_	_	
+82-28	9065-9067	of	_	_	_	
+82-29	9068-9073	water	_	_	_	
+82-30	9073-9074	,	_	_	_	
+82-31	9075-9076	1	_	_	_	
+82-32	9077-9082	large	_	_	_	
+82-33	9083-9094	teaspoonful	_	_	_	
+82-34	9095-9097	of	_	_	_	
+82-35	9098-9104	butter	_	_	_	
+82-36	9104-9105	,	_	_	_	
+82-37	9106-9107	a	_	_	_	
+82-38	9110-9115	scant	_	_	_	
+82-39	9116-9129	tablespoonful	_	_	_	
+82-40	9130-9132	of	_	_	_	
+82-41	9133-9138	flour	_	_	_	
+82-42	9139-9148	moistened	_	_	_	
+82-43	9149-9153	with	_	_	_	
+82-44	9154-9155	a	_	_	_	
+82-45	9156-9161	small	_	_	_	
+82-46	9162-9170	quantity	_	_	_	
+82-47	9171-9173	of	_	_	_	
+82-48	9174-9179	water	_	_	_	
+82-49	9179-9180	,	_	_	_	
+82-50	9183-9189	before	_	_	_	
+82-51	9190-9196	adding	_	_	_	
+82-52	9196-9197	.	_	_	_	
+
+#Text=Sweeten to taste, add 1/2 teaspoonful of grated nutmeg.
+83-1	9198-9205	Sweeten	Taste Word	*|*	82-5|83-2[72_0]	
+83-2	9206-9208	to	Circumstance[72]	_	_	
+83-3	9209-9214	taste	Circumstance[72]|Taste Word[73]	*	82-5[0_73]	
+83-4	9214-9215	,	_	_	_	
+83-5	9216-9219	add	_	_	_	
+83-6	9220-9221	1	_	_	_	
+83-7	9221-9222	/	_	_	_	
+83-8	9222-9223	2	_	_	_	
+83-9	9224-9235	teaspoonful	_	_	_	
+83-10	9236-9238	of	_	_	_	
+83-11	9239-9245	grated	_	_	_	
+83-12	9246-9252	nutmeg	_	_	_	
+83-13	9252-9253	.	_	_	_	
+
+#Text=Cook all together a few minutes, allow the mixture to partly cool, 
+#Text= then stir in the yolk of one egg; stand on stove to heat, but not to 
+#Text= cook.
+84-1	9256-9260	Cook	_	_	_	
+84-2	9261-9264	all	_	_	_	
+84-3	9265-9273	together	_	_	_	
+84-4	9274-9275	a	_	_	_	
+84-5	9276-9279	few	_	_	_	
+84-6	9280-9287	minutes	_	_	_	
+84-7	9287-9288	,	_	_	_	
+84-8	9289-9294	allow	_	_	_	
+84-9	9295-9298	the	_	_	_	
+84-10	9299-9306	mixture	_	_	_	
+84-11	9307-9309	to	_	_	_	
+84-12	9310-9316	partly	_	_	_	
+84-13	9317-9321	cool	_	_	_	
+84-14	9321-9322	,	_	_	_	
+84-15	9325-9329	then	_	_	_	
+84-16	9330-9334	stir	_	_	_	
+84-17	9335-9337	in	_	_	_	
+84-18	9338-9341	the	_	_	_	
+84-19	9342-9346	yolk	_	_	_	
+84-20	9347-9349	of	_	_	_	
+84-21	9350-9353	one	_	_	_	
+84-22	9354-9357	egg	_	_	_	
+84-23	9357-9358	;	_	_	_	
+84-24	9359-9364	stand	_	_	_	
+84-25	9365-9367	on	_	_	_	
+84-26	9368-9373	stove	_	_	_	
+84-27	9374-9376	to	_	_	_	
+84-28	9377-9381	heat	_	_	_	
+84-29	9381-9382	,	_	_	_	
+84-30	9383-9386	but	_	_	_	
+84-31	9387-9390	not	_	_	_	
+84-32	9391-9393	to	_	_	_	
+84-33	9396-9400	cook	_	_	_	
+84-34	9400-9401	.	_	_	_	
+
+#Text=Serve hot over freshly baked, warm cottage pudding, cut in 
+#Text= squares.
+85-1	9402-9407	Serve	_	_	_	
+85-2	9408-9411	hot	_	_	_	
+85-3	9412-9416	over	_	_	_	
+85-4	9417-9424	freshly	_	_	_	
+85-5	9425-9430	baked	_	_	_	
+85-6	9430-9431	,	_	_	_	
+85-7	9432-9436	warm	_	_	_	
+85-8	9437-9444	cottage	_	_	_	
+85-9	9445-9452	pudding	_	_	_	
+85-10	9452-9453	,	_	_	_	
+85-11	9454-9457	cut	_	_	_	
+85-12	9458-9460	in	_	_	_	
+85-13	9463-9470	squares	_	_	_	
+85-14	9470-9471	.	_	_	_	
+
+#Text=APPLE "STRUDEL" 
+#Text=  
+#Text= Aunt Sarah pared and quartered six medium-sized tart apples, placed in 
+#Text= the bottom of an agate pudding dish, poured over them one cup of hot 
+#Text= water and 2 tablespoonfuls of sugar.
+86-1	9480-9485	APPLE	_	_	_	
+86-2	9486-9487	"	_	_	_	
+86-3	9487-9494	STRUDEL	_	_	_	
+86-4	9494-9495	"	_	_	_	
+86-5	9501-9505	Aunt	_	_	_	
+86-6	9506-9511	Sarah	_	_	_	
+86-7	9512-9517	pared	_	_	_	
+86-8	9518-9521	and	_	_	_	
+86-9	9522-9531	quartered	_	_	_	
+86-10	9532-9535	six	_	_	_	
+86-11	9536-9548	medium-sized	_	_	_	
+86-12	9549-9553	tart	Taste Word[74]|Quality[75]	*|*	86-12[75_74]|86-13[0_74]	
+86-13	9554-9560	apples	Taste Source	_	_	
+86-14	9560-9561	,	_	_	_	
+86-15	9562-9568	placed	_	_	_	
+86-16	9569-9571	in	_	_	_	
+86-17	9574-9577	the	_	_	_	
+86-18	9578-9584	bottom	_	_	_	
+86-19	9585-9587	of	_	_	_	
+86-20	9588-9590	an	_	_	_	
+86-21	9591-9596	agate	_	_	_	
+86-22	9597-9604	pudding	_	_	_	
+86-23	9605-9609	dish	_	_	_	
+86-24	9609-9610	,	_	_	_	
+86-25	9611-9617	poured	_	_	_	
+86-26	9618-9622	over	_	_	_	
+86-27	9623-9627	them	_	_	_	
+86-28	9628-9631	one	_	_	_	
+86-29	9632-9635	cup	_	_	_	
+86-30	9636-9638	of	_	_	_	
+86-31	9639-9642	hot	_	_	_	
+86-32	9645-9650	water	_	_	_	
+86-33	9651-9654	and	_	_	_	
+86-34	9655-9656	2	_	_	_	
+86-35	9657-9671	tablespoonfuls	_	_	_	
+86-36	9672-9674	of	_	_	_	
+86-37	9675-9680	sugar	_	_	_	
+86-38	9680-9681	.	_	_	_	
+
+#Text=She allowed this to stand on the 
+#Text= range and cook while she mixed the following dough.
+87-1	9682-9685	She	_	_	_	
+87-2	9686-9693	allowed	_	_	_	
+87-3	9694-9698	this	_	_	_	
+87-4	9699-9701	to	_	_	_	
+87-5	9702-9707	stand	_	_	_	
+87-6	9708-9710	on	_	_	_	
+87-7	9711-9714	the	_	_	_	
+87-8	9717-9722	range	_	_	_	
+87-9	9723-9726	and	_	_	_	
+87-10	9727-9731	cook	_	_	_	
+87-11	9732-9737	while	_	_	_	
+87-12	9738-9741	she	_	_	_	
+87-13	9742-9747	mixed	_	_	_	
+87-14	9748-9751	the	_	_	_	
+87-15	9752-9761	following	_	_	_	
+87-16	9762-9767	dough	_	_	_	
+87-17	9767-9768	.	_	_	_	
+
+#Text=bake quickly until crust is a light brown.
+88-1	9771-9775	bake	_	_	_	
+88-2	9776-9783	quickly	_	_	_	
+88-3	9784-9789	until	_	_	_	
+88-4	9790-9795	crust	_	_	_	
+88-5	9796-9798	is	_	_	_	
+88-6	9799-9800	a	_	_	_	
+88-7	9801-9806	light	_	_	_	
+88-8	9807-9812	brown	_	_	_	
+88-9	9812-9813	.	_	_	_	
+
+#Text=Serve on individual dishes, 
+#Text= placing over each a couple tablespoonfuls of the following sauce.
+89-1	9814-9819	Serve	_	_	_	
+89-2	9820-9822	on	_	_	_	
+89-3	9823-9833	individual	_	_	_	
+89-4	9834-9840	dishes	_	_	_	
+89-5	9840-9841	,	_	_	_	
+89-6	9844-9851	placing	_	_	_	
+89-7	9852-9856	over	_	_	_	
+89-8	9857-9861	each	_	_	_	
+89-9	9862-9863	a	_	_	_	
+89-10	9864-9870	couple	_	_	_	
+89-11	9871-9885	tablespoonfuls	_	_	_	
+89-12	9886-9888	of	_	_	_	
+89-13	9889-9892	the	_	_	_	
+89-14	9893-9902	following	_	_	_	
+89-15	9903-9908	sauce	_	_	_	
+89-16	9908-9909	.	_	_	_	
+
+#Text=The 
+#Text= combined flavor of rhubarb and vanilla is delicious.
+90-1	9910-9913	The	_	_	_	
+90-2	9916-9924	combined	Quality	_	_	
+90-3	9925-9931	flavor	Taste Word	*|*|*|*	90-9[77_0]|90-4[76_0]|90-7|90-2	
+90-4	9932-9934	of	Taste Source[76]	_	_	
+90-5	9935-9942	rhubarb	Taste Source[76]	_	_	
+90-6	9943-9946	and	_	_	_	
+90-7	9947-9954	vanilla	Taste Source	_	_	
+90-8	9955-9957	is	_	_	_	
+90-9	9958-9967	delicious	Quality[77]|Taste Word[78]	*	90-9[77_78]	
+90-10	9967-9968	.	_	_	_	
+
+#Text=sugar, 1 teaspoonful cinnamon, 1 cup raisins, seeded and floured.
+91-1	9972-9977	sugar	_	_	_	
+91-2	9977-9978	,	_	_	_	
+91-3	9979-9980	1	_	_	_	
+91-4	9981-9992	teaspoonful	_	_	_	
+91-5	9993-10001	cinnamon	_	_	_	
+91-6	10001-10002	,	_	_	_	
+91-7	10003-10004	1	_	_	_	
+91-8	10005-10008	cup	_	_	_	
+91-9	10009-10016	raisins	_	_	_	
+91-10	10016-10017	,	_	_	_	
+91-11	10018-10024	seeded	_	_	_	
+91-12	10025-10028	and	_	_	_	
+91-13	10029-10036	floured	_	_	_	
+91-14	10036-10037	.	_	_	_	
+
+#Text=Flour enough to make as stiff as ordinary cake batter.
+92-1	10040-10045	Flour	_	_	_	
+92-2	10046-10052	enough	_	_	_	
+92-3	10053-10055	to	_	_	_	
+92-4	10056-10060	make	_	_	_	
+92-5	10061-10063	as	_	_	_	
+92-6	10064-10069	stiff	_	_	_	
+92-7	10070-10072	as	_	_	_	
+92-8	10073-10081	ordinary	_	_	_	
+92-9	10082-10086	cake	_	_	_	
+92-10	10087-10093	batter	_	_	_	
+92-11	10093-10094	.	_	_	_	
+
+#Text=Boil or steam 
+#Text= in a muslin bag three hours.
+93-1	10095-10099	Boil	_	_	_	
+93-2	10100-10102	or	_	_	_	
+93-3	10103-10108	steam	_	_	_	
+93-4	10111-10113	in	_	_	_	
+93-5	10114-10115	a	_	_	_	
+93-6	10116-10122	muslin	_	_	_	
+93-7	10123-10126	bag	_	_	_	
+93-8	10127-10132	three	_	_	_	
+93-9	10133-10138	hours	_	_	_	
+93-10	10138-10139	.	_	_	_	
+
+#Text=This is a very inexpensive and good 
+#Text= pudding.
+94-1	10140-10144	This	_	_	_	
+94-2	10145-10147	is	_	_	_	
+94-3	10148-10149	a	_	_	_	
+94-4	10150-10154	very	_	_	_	
+94-5	10155-10166	inexpensive	_	_	_	
+94-6	10167-10170	and	_	_	_	
+94-7	10171-10175	good	_	_	_	
+94-8	10178-10185	pudding	_	_	_	
+94-9	10185-10186	.	_	_	_	
+
+#Text=Dust a small quantity of flour over suet before chopping.
+95-1	10187-10191	Dust	_	_	_	
+95-2	10192-10193	a	_	_	_	
+95-3	10194-10199	small	_	_	_	
+95-4	10200-10208	quantity	_	_	_	
+95-5	10209-10211	of	_	_	_	
+95-6	10212-10217	flour	_	_	_	
+95-7	10218-10222	over	_	_	_	
+95-8	10223-10227	suet	_	_	_	
+95-9	10228-10234	before	_	_	_	
+95-10	10235-10243	chopping	_	_	_	
+95-11	10243-10244	.	_	_	_	
+
+#Text=Serve with the following sauce: 
+#Text=  
+#Text= PUDDING SAUCE.
+96-1	10247-10252	Serve	_	_	_	
+96-2	10253-10257	with	_	_	_	
+96-3	10258-10261	the	_	_	_	
+96-4	10262-10271	following	_	_	_	
+96-5	10272-10277	sauce	_	_	_	
+96-6	10277-10278	:	_	_	_	
+96-7	10284-10291	PUDDING	_	_	_	
+96-8	10292-10297	SAUCE	_	_	_	
+96-9	10297-10298	.	_	_	_	
+
+#Text=One large tablespoonful of butter, 1 teacup water, 1/2 teacup milk, 
+#Text= scant tablespoonful of flour, grated nutmeg to flavor.
+97-1	10304-10307	One	_	_	_	
+97-2	10308-10313	large	_	_	_	
+97-3	10314-10327	tablespoonful	_	_	_	
+97-4	10328-10330	of	_	_	_	
+97-5	10331-10337	butter	_	_	_	
+97-6	10337-10338	,	_	_	_	
+97-7	10339-10340	1	_	_	_	
+97-8	10341-10347	teacup	_	_	_	
+97-9	10348-10353	water	_	_	_	
+97-10	10353-10354	,	_	_	_	
+97-11	10355-10356	1	_	_	_	
+97-12	10356-10357	/	_	_	_	
+97-13	10357-10358	2	_	_	_	
+97-14	10359-10365	teacup	_	_	_	
+97-15	10366-10370	milk	_	_	_	
+97-16	10370-10371	,	_	_	_	
+97-17	10374-10379	scant	_	_	_	
+97-18	10380-10393	tablespoonful	_	_	_	
+97-19	10394-10396	of	_	_	_	
+97-20	10397-10402	flour	_	_	_	
+97-21	10402-10403	,	_	_	_	
+97-22	10404-10410	grated	Taste Modifier[79]	_	_	
+97-23	10411-10417	nutmeg	Taste Modifier[79]	_	_	
+97-24	10418-10420	to	_	_	_	
+97-25	10421-10427	flavor	Taste Word	*	97-22[79_0]	
+97-26	10427-10428	.	_	_	_	
+
+#Text=Sweeten to 
+#Text= taste, add a pinch of salt.
+98-1	10429-10436	Sweeten	Taste Word	*	98-2[80_0]	
+98-2	10437-10439	to	Circumstance[80]	_	_	
+98-3	10442-10447	taste	Circumstance[80]|Taste Word[81]	_	_	
+98-4	10447-10448	,	_	_	_	
+98-5	10449-10452	add	_	_	_	
+98-6	10453-10454	a	_	_	_	
+98-7	10455-10460	pinch	_	_	_	
+98-8	10461-10463	of	_	_	_	
+98-9	10464-10468	salt	_	_	_	
+98-10	10468-10469	.	_	_	_	
+
+#Text=Cook and let cool.
+99-1	10470-10474	Cook	_	_	_	
+99-2	10475-10478	and	_	_	_	
+99-3	10479-10482	let	_	_	_	
+99-4	10483-10487	cool	_	_	_	
+99-5	10487-10488	.	_	_	_	
+
+#Text=Beat up yolk of egg, 
+#Text= add to sauce, stand on back of stove to heat, not cook.
+100-1	10489-10493	Beat	_	_	_	
+100-2	10494-10496	up	_	_	_	
+100-3	10497-10501	yolk	_	_	_	
+100-4	10502-10504	of	_	_	_	
+100-5	10505-10508	egg	_	_	_	
+100-6	10508-10509	,	_	_	_	
+100-7	10512-10515	add	_	_	_	
+100-8	10516-10518	to	_	_	_	
+100-9	10519-10524	sauce	_	_	_	
+100-10	10524-10525	,	_	_	_	
+100-11	10526-10531	stand	_	_	_	
+100-12	10532-10534	on	_	_	_	
+100-13	10535-10539	back	_	_	_	
+100-14	10540-10542	of	_	_	_	
+100-15	10543-10548	stove	_	_	_	
+100-16	10549-10551	to	_	_	_	
+100-17	10552-10556	heat	_	_	_	
+100-18	10556-10557	,	_	_	_	
+100-19	10558-10561	not	_	_	_	
+100-20	10562-10566	cook	_	_	_	
+100-21	10566-10567	.	_	_	_	
+
+#Text=Serve hot over 
+#Text= the pudding.
+101-1	10568-10573	Serve	_	_	_	
+101-2	10574-10577	hot	_	_	_	
+101-3	10578-10582	over	_	_	_	
+101-4	10585-10588	the	_	_	_	
+101-5	10589-10596	pudding	_	_	_	
+101-6	10596-10597	.	_	_	_	
+
+#Text=APPLE TAPIOCA 
+#Text=  
+#Text= Pour 1 pint of cold water over 1/2 cup tapioca.
+102-1	10606-10611	APPLE	_	_	_	
+102-2	10612-10619	TAPIOCA	_	_	_	
+102-3	10625-10629	Pour	_	_	_	
+102-4	10630-10631	1	_	_	_	
+102-5	10632-10636	pint	_	_	_	
+102-6	10637-10639	of	_	_	_	
+102-7	10640-10644	cold	_	_	_	
+102-8	10645-10650	water	_	_	_	
+102-9	10651-10655	over	_	_	_	
+102-10	10656-10657	1	_	_	_	
+102-11	10657-10658	/	_	_	_	
+102-12	10658-10659	2	_	_	_	
+102-13	10660-10663	cup	_	_	_	
+102-14	10664-10671	tapioca	_	_	_	
+102-15	10671-10672	.	_	_	_	
+
+#Text=Allow to stand until 
+#Text= the following morning, when cook until clean.
+103-1	10673-10678	Allow	_	_	_	
+103-2	10679-10681	to	_	_	_	
+103-3	10682-10687	stand	_	_	_	
+103-4	10688-10693	until	_	_	_	
+103-5	10696-10699	the	_	_	_	
+103-6	10700-10709	following	_	_	_	
+103-7	10710-10717	morning	_	_	_	
+103-8	10717-10718	,	_	_	_	
+103-9	10719-10723	when	_	_	_	
+103-10	10724-10728	cook	_	_	_	
+103-11	10729-10734	until	_	_	_	
+103-12	10735-10740	clean	_	_	_	
+103-13	10740-10741	.	_	_	_	
+
+#Text=Slice 6 tart apples.
+104-1	10742-10747	Slice	_	_	_	
+104-2	10748-10749	6	_	_	_	
+104-3	10750-10754	tart	Taste Word[82]|Quality[83]	*|*	104-4[0_82]|104-3[83_82]	
+104-4	10755-10761	apples	Taste Source	_	_	
+104-5	10761-10762	.	_	_	_	
+
+#Text=Place in bottom of pudding dish, strew sugar over, then pour over the
+#Text=Line the sides of a pudding dish holding two quarts with seven slices 
+#Text= of stale bread from which crust had been removed.
+105-1	10765-10770	Place	_	_	_	
+105-2	10771-10773	in	_	_	_	
+105-3	10774-10780	bottom	_	_	_	
+105-4	10781-10783	of	_	_	_	
+105-5	10784-10791	pudding	_	_	_	
+105-6	10792-10796	dish	_	_	_	
+105-7	10796-10797	,	_	_	_	
+105-8	10798-10803	strew	_	_	_	
+105-9	10804-10809	sugar	_	_	_	
+105-10	10810-10814	over	_	_	_	
+105-11	10814-10815	,	_	_	_	
+105-12	10816-10820	then	_	_	_	
+105-13	10821-10825	pour	_	_	_	
+105-14	10826-10830	over	_	_	_	
+105-15	10831-10834	the	_	_	_	
+105-16	10835-10839	Line	_	_	_	
+105-17	10840-10843	the	_	_	_	
+105-18	10844-10849	sides	_	_	_	
+105-19	10850-10852	of	_	_	_	
+105-20	10853-10854	a	_	_	_	
+105-21	10855-10862	pudding	_	_	_	
+105-22	10863-10867	dish	_	_	_	
+105-23	10868-10875	holding	_	_	_	
+105-24	10876-10879	two	_	_	_	
+105-25	10880-10886	quarts	_	_	_	
+105-26	10887-10891	with	_	_	_	
+105-27	10892-10897	seven	_	_	_	
+105-28	10898-10904	slices	_	_	_	
+105-29	10907-10909	of	_	_	_	
+105-30	10910-10915	stale	Taste Word[84]|Quality[85]	*|*	105-30[85_84]|105-31[0_84]	
+105-31	10916-10921	bread	Taste Source	_	_	
+105-32	10922-10926	from	_	_	_	
+105-33	10927-10932	which	_	_	_	
+105-34	10933-10938	crust	_	_	_	
+105-35	10939-10942	had	_	_	_	
+105-36	10943-10947	been	_	_	_	
+105-37	10948-10955	removed	_	_	_	
+105-38	10955-10956	.	_	_	_	
+
+#Text=Beat together 3 
+#Text= eggs, 3 tablespoonfuls of sugar and 3 cups of sweet milk (and add the 
+#Text= juice and grated rind of one lemon, or half a grated nutmeg).
+106-1	10957-10961	Beat	_	_	_	
+106-2	10962-10970	together	_	_	_	
+106-3	10971-10972	3	_	_	_	
+106-4	10975-10979	eggs	_	_	_	
+106-5	10979-10980	,	_	_	_	
+106-6	10981-10982	3	_	_	_	
+106-7	10983-10997	tablespoonfuls	_	_	_	
+106-8	10998-11000	of	_	_	_	
+106-9	11001-11006	sugar	_	_	_	
+106-10	11007-11010	and	_	_	_	
+106-11	11011-11012	3	_	_	_	
+106-12	11013-11017	cups	_	_	_	
+106-13	11018-11020	of	_	_	_	
+106-14	11021-11026	sweet	Taste Word[86]|Quality[87]	*|*	106-14[87_86]|106-15[0_86]	
+106-15	11027-11031	milk	Taste Source	_	_	
+106-16	11032-11033	(	_	_	_	
+106-17	11033-11036	and	_	_	_	
+106-18	11037-11040	add	_	_	_	
+106-19	11041-11044	the	_	_	_	
+106-20	11047-11052	juice	_	_	_	
+106-21	11053-11056	and	_	_	_	
+106-22	11057-11063	grated	_	_	_	
+106-23	11064-11068	rind	_	_	_	
+106-24	11069-11071	of	_	_	_	
+106-25	11072-11075	one	_	_	_	
+106-26	11076-11081	lemon	_	_	_	
+106-27	11081-11082	,	_	_	_	
+106-28	11083-11085	or	_	_	_	
+106-29	11086-11090	half	_	_	_	
+106-30	11091-11092	a	_	_	_	
+106-31	11093-11099	grated	_	_	_	
+106-32	11100-11106	nutmeg	_	_	_	
+106-33	11106-11107	)	_	_	_	
+106-34	11107-11108	.	_	_	_	
+
+#Text=Pour in 
+#Text= the centre of pudding dish.
+107-1	11109-11113	Pour	_	_	_	
+107-2	11114-11116	in	_	_	_	
+107-3	11119-11122	the	_	_	_	
+107-4	11123-11129	centre	_	_	_	
+107-5	11130-11132	of	_	_	_	
+107-6	11133-11140	pudding	_	_	_	
+107-7	11141-11145	dish	_	_	_	
+107-8	11145-11146	.	_	_	_	
+
+#Text=With a spoon dip some of the custard over 
+#Text= each slice of bread.
+108-1	11147-11151	With	_	_	_	
+108-2	11152-11153	a	_	_	_	
+108-3	11154-11159	spoon	_	_	_	
+108-4	11160-11163	dip	_	_	_	
+108-5	11164-11168	some	_	_	_	
+108-6	11169-11171	of	_	_	_	
+108-7	11172-11175	the	_	_	_	
+108-8	11176-11183	custard	_	_	_	
+108-9	11184-11188	over	_	_	_	
+108-10	11191-11195	each	_	_	_	
+108-11	11196-11201	slice	_	_	_	
+108-12	11202-11204	of	_	_	_	
+108-13	11205-11210	bread	_	_	_	
+108-14	11210-11211	.	_	_	_	
+
+#Text=Bake about 30 minutes and serve hot with the 
+#Text= following sauce: 
+#Text=  
+#Text= One cup of water, 1/2 cup milk, 1 teaspoonful butter, scant 
+#Text= tablespoonful of flour mixed smooth with a little water before adding 
+#Text= it.
+109-1	11212-11216	Bake	_	_	_	
+109-2	11217-11222	about	_	_	_	
+109-3	11223-11225	30	_	_	_	
+109-4	11226-11233	minutes	_	_	_	
+109-5	11234-11237	and	_	_	_	
+109-6	11238-11243	serve	_	_	_	
+109-7	11244-11247	hot	_	_	_	
+109-8	11248-11252	with	_	_	_	
+109-9	11253-11256	the	_	_	_	
+109-10	11259-11268	following	_	_	_	
+109-11	11269-11274	sauce	_	_	_	
+109-12	11274-11275	:	_	_	_	
+109-13	11281-11284	One	_	_	_	
+109-14	11285-11288	cup	_	_	_	
+109-15	11289-11291	of	_	_	_	
+109-16	11292-11297	water	_	_	_	
+109-17	11297-11298	,	_	_	_	
+109-18	11299-11300	1	_	_	_	
+109-19	11300-11301	/	_	_	_	
+109-20	11301-11302	2	_	_	_	
+109-21	11303-11306	cup	_	_	_	
+109-22	11307-11311	milk	_	_	_	
+109-23	11311-11312	,	_	_	_	
+109-24	11313-11314	1	_	_	_	
+109-25	11315-11326	teaspoonful	_	_	_	
+109-26	11327-11333	butter	_	_	_	
+109-27	11333-11334	,	_	_	_	
+109-28	11335-11340	scant	_	_	_	
+109-29	11343-11356	tablespoonful	_	_	_	
+109-30	11357-11359	of	_	_	_	
+109-31	11360-11365	flour	_	_	_	
+109-32	11366-11371	mixed	_	_	_	
+109-33	11372-11378	smooth	_	_	_	
+109-34	11379-11383	with	_	_	_	
+109-35	11384-11385	a	_	_	_	
+109-36	11386-11392	little	_	_	_	
+109-37	11393-11398	water	_	_	_	
+109-38	11399-11405	before	_	_	_	
+109-39	11406-11412	adding	_	_	_	
+109-40	11415-11417	it	_	_	_	
+109-41	11417-11418	.	_	_	_	
+
+#Text=Sweeten to taste, add grated nutmeg or vanilla to flavor.
+110-1	11419-11426	Sweeten	Taste Word	*	110-2[88_0]	
+110-2	11427-11429	to	Circumstance[88]	_	_	
+110-3	11430-11435	taste	Circumstance[88]|Taste Word[89]	_	_	
+110-4	11435-11436	,	_	_	_	
+110-5	11437-11440	add	_	_	_	
+110-6	11441-11447	grated	Taste Modifier[90]	_	_	
+110-7	11448-11454	nutmeg	Taste Modifier[90]	_	_	
+110-8	11455-11457	or	_	_	_	
+110-9	11458-11465	vanilla	Taste Modifier	_	_	
+110-10	11466-11468	to	_	_	_	
+110-11	11469-11475	flavor	Taste Word	*|*	110-9|110-6[90_0]	
+110-12	11475-11476	.	_	_	_	
+
+#Text=Cook all 
+#Text= together, then add the yolk of one egg.
+111-1	11477-11481	Cook	_	_	_	
+111-2	11482-11485	all	_	_	_	
+111-3	11488-11496	together	_	_	_	
+111-4	11496-11497	,	_	_	_	
+111-5	11498-11502	then	_	_	_	
+111-6	11503-11506	add	_	_	_	
+111-7	11507-11510	the	_	_	_	
+111-8	11511-11515	yolk	_	_	_	
+111-9	11516-11518	of	_	_	_	
+111-10	11519-11522	one	_	_	_	
+111-11	11523-11526	egg	_	_	_	
+111-12	11526-11527	.	_	_	_	
+
+#Text=Place on stove a minute to 
+#Text= heat.
+112-1	11528-11533	Place	_	_	_	
+112-2	11534-11536	on	_	_	_	
+112-3	11537-11542	stove	_	_	_	
+112-4	11543-11544	a	_	_	_	
+112-5	11545-11551	minute	_	_	_	
+112-6	11552-11554	to	_	_	_	
+112-7	11557-11561	heat	_	_	_	
+112-8	11561-11562	.	_	_	_	
+
+#Text=Add a pinch of salt.
+113-1	11563-11566	Add	_	_	_	
+113-2	11567-11568	a	_	_	_	
+113-3	11569-11574	pinch	_	_	_	
+113-4	11575-11577	of	_	_	_	
+113-5	11578-11582	salt	_	_	_	
+113-6	11582-11583	.	_	_	_	
+
+#Text=Serve hot over the pudding in individual 
+#Text= dishes.
+114-1	11584-11589	Serve	_	_	_	
+114-2	11590-11593	hot	_	_	_	
+114-3	11594-11598	over	_	_	_	
+114-4	11599-11602	the	_	_	_	
+114-5	11603-11610	pudding	_	_	_	
+114-6	11611-11613	in	_	_	_	
+114-7	11614-11624	individual	_	_	_	
+114-8	11627-11633	dishes	_	_	_	
+114-9	11633-11634	.	_	_	_	
+
+#Text=boiler to front part of range, and when breakfast is ready (after 
+#Text= removing top crust formed by standing), turn the oatmeal out on a dish 
+#Text= and serve with rich cream and sugar, and you will have a good, 
+#Text= wholesome breakfast dish with the flakes distinct, and a nutty flavor.
+115-1	11640-11646	boiler	_	_	_	
+115-2	11647-11649	to	_	_	_	
+115-3	11650-11655	front	_	_	_	
+115-4	11656-11660	part	_	_	_	
+115-5	11661-11663	of	_	_	_	
+115-6	11664-11669	range	_	_	_	
+115-7	11669-11670	,	_	_	_	
+115-8	11671-11674	and	_	_	_	
+115-9	11675-11679	when	_	_	_	
+115-10	11680-11689	breakfast	_	_	_	
+115-11	11690-11692	is	_	_	_	
+115-12	11693-11698	ready	_	_	_	
+115-13	11699-11700	(	_	_	_	
+115-14	11700-11705	after	_	_	_	
+115-15	11708-11716	removing	_	_	_	
+115-16	11717-11720	top	_	_	_	
+115-17	11721-11726	crust	_	_	_	
+115-18	11727-11733	formed	_	_	_	
+115-19	11734-11736	by	_	_	_	
+115-20	11737-11745	standing	_	_	_	
+115-21	11745-11746	)	_	_	_	
+115-22	11746-11747	,	_	_	_	
+115-23	11748-11752	turn	_	_	_	
+115-24	11753-11756	the	Taste Source[91]	_	_	
+115-25	11757-11764	oatmeal	Taste Source[91]	_	_	
+115-26	11765-11768	out	_	_	_	
+115-27	11769-11771	on	_	_	_	
+115-28	11772-11773	a	_	_	_	
+115-29	11774-11778	dish	_	_	_	
+115-30	11781-11784	and	_	_	_	
+115-31	11785-11790	serve	_	_	_	
+115-32	11791-11795	with	_	_	_	
+115-33	11796-11800	rich	_	_	_	
+115-34	11801-11806	cream	_	_	_	
+115-35	11807-11810	and	_	_	_	
+115-36	11811-11816	sugar	_	_	_	
+115-37	11816-11817	,	_	_	_	
+115-38	11818-11821	and	_	_	_	
+115-39	11822-11825	you	_	_	_	
+115-40	11826-11830	will	_	_	_	
+115-41	11831-11835	have	_	_	_	
+115-42	11836-11837	a	_	_	_	
+115-43	11838-11842	good	_	_	_	
+115-44	11842-11843	,	_	_	_	
+115-45	11846-11855	wholesome	_	_	_	
+115-46	11856-11865	breakfast	_	_	_	
+115-47	11866-11870	dish	_	_	_	
+115-48	11871-11875	with	_	_	_	
+115-49	11876-11879	the	_	_	_	
+115-50	11880-11886	flakes	_	_	_	
+115-51	11887-11895	distinct	_	_	_	
+115-52	11895-11896	,	_	_	_	
+115-53	11897-11900	and	_	_	_	
+115-54	11901-11902	a	_	_	_	
+115-55	11903-11908	nutty	Quality	_	_	
+115-56	11909-11915	flavor	Taste Word	*|*	115-55|115-24[91_0]	
+115-57	11915-11916	.	_	_	_	
+
+#Text=Serve fruit with it, if possible.
+116-1	11919-11924	Serve	_	_	_	
+116-2	11925-11930	fruit	_	_	_	
+116-3	11931-11935	with	_	_	_	
+116-4	11936-11938	it	_	_	_	
+116-5	11938-11939	,	_	_	_	
+116-6	11940-11942	if	_	_	_	
+116-7	11943-11951	possible	_	_	_	
+116-8	11951-11952	.	_	_	_	
+
+#Text=A good rule for cooking oatmeal is
+#Text=fire, being stirred constantly with a long-handled "stirrer" with 
+#Text= small perforated piece of wood on one end.
+117-1	11953-11954	A	_	_	_	
+117-2	11955-11959	good	_	_	_	
+117-3	11960-11964	rule	_	_	_	
+117-4	11965-11968	for	_	_	_	
+117-5	11969-11976	cooking	_	_	_	
+117-6	11977-11984	oatmeal	_	_	_	
+117-7	11985-11987	is	_	_	_	
+117-8	11988-11992	fire	_	_	_	
+117-9	11992-11993	,	_	_	_	
+117-10	11994-11999	being	_	_	_	
+117-11	12000-12007	stirred	_	_	_	
+117-12	12008-12018	constantly	_	_	_	
+117-13	12019-12023	with	_	_	_	
+117-14	12024-12025	a	_	_	_	
+117-15	12026-12038	long-handled	_	_	_	
+117-16	12039-12040	"	_	_	_	
+117-17	12040-12047	stirrer	_	_	_	
+117-18	12047-12048	"	_	_	_	
+117-19	12049-12053	with	_	_	_	
+117-20	12056-12061	small	_	_	_	
+117-21	12062-12072	perforated	_	_	_	
+117-22	12073-12078	piece	_	_	_	
+117-23	12079-12081	of	_	_	_	
+117-24	12082-12086	wood	_	_	_	
+117-25	12087-12089	on	_	_	_	
+117-26	12090-12093	one	_	_	_	
+117-27	12094-12097	end	_	_	_	
+117-28	12097-12098	.	_	_	_	
+
+#Text=There is great danger of 
+#Text= the apple butter burning if not carefully watched and constantly 
+#Text= stirred.
+118-1	12099-12104	There	_	_	_	
+118-2	12105-12107	is	_	_	_	
+118-3	12108-12113	great	_	_	_	
+118-4	12114-12120	danger	_	_	_	
+118-5	12121-12123	of	_	_	_	
+118-6	12126-12129	the	_	_	_	
+118-7	12130-12135	apple	_	_	_	
+118-8	12136-12142	butter	_	_	_	
+118-9	12143-12150	burning	_	_	_	
+118-10	12151-12153	if	_	_	_	
+118-11	12154-12157	not	_	_	_	
+118-12	12158-12167	carefully	_	_	_	
+118-13	12168-12175	watched	_	_	_	
+118-14	12176-12179	and	_	_	_	
+118-15	12180-12190	constantly	_	_	_	
+118-16	12193-12200	stirred	_	_	_	
+118-17	12200-12201	.	_	_	_	
+
+#Text=An extra pot of boiling cider was kept near, to add to the 
+#Text= apple butter as the cider boiled away.
+119-1	12202-12204	An	_	_	_	
+119-2	12205-12210	extra	_	_	_	
+119-3	12211-12214	pot	_	_	_	
+119-4	12215-12217	of	_	_	_	
+119-5	12218-12225	boiling	_	_	_	
+119-6	12226-12231	cider	_	_	_	
+119-7	12232-12235	was	_	_	_	
+119-8	12236-12240	kept	_	_	_	
+119-9	12241-12245	near	_	_	_	
+119-10	12245-12246	,	_	_	_	
+119-11	12247-12249	to	_	_	_	
+119-12	12250-12253	add	_	_	_	
+119-13	12254-12256	to	_	_	_	
+119-14	12257-12260	the	_	_	_	
+119-15	12263-12268	apple	_	_	_	
+119-16	12269-12275	butter	_	_	_	
+119-17	12276-12278	as	_	_	_	
+119-18	12279-12282	the	_	_	_	
+119-19	12283-12288	cider	Taste Source	_	_	
+119-20	12289-12295	boiled	_	_	_	
+119-21	12296-12300	away	_	_	_	
+119-22	12300-12301	.	_	_	_	
+
+#Text=If cooked slowly, a whole day 
+#Text= or longer will be consumed in cooking.
+120-1	12302-12304	If	_	_	_	
+120-2	12305-12311	cooked	_	_	_	
+120-3	12312-12318	slowly	_	_	_	
+120-4	12318-12319	,	_	_	_	
+120-5	12320-12321	a	_	_	_	
+120-6	12322-12327	whole	_	_	_	
+120-7	12328-12331	day	_	_	_	
+120-8	12334-12336	or	_	_	_	
+120-9	12337-12343	longer	_	_	_	
+120-10	12344-12348	will	_	_	_	
+120-11	12349-12351	be	_	_	_	
+120-12	12352-12360	consumed	_	_	_	
+120-13	12361-12363	in	_	_	_	
+120-14	12364-12371	cooking	_	_	_	
+120-15	12371-12372	.	_	_	_	
+
+#Text=When the apple butter had 
+#Text= almost finished cooking, about the last hour, sweeten to taste with 
+#Text= sugar (brown sugar was frequently used).
+121-1	12373-12377	When	_	_	_	
+121-2	12378-12381	the	_	_	_	
+121-3	12382-12387	apple	_	_	_	
+121-4	12388-12394	butter	_	_	_	
+121-5	12395-12398	had	_	_	_	
+121-6	12401-12407	almost	_	_	_	
+121-7	12408-12416	finished	_	_	_	
+121-8	12417-12424	cooking	_	_	_	
+121-9	12424-12425	,	_	_	_	
+121-10	12426-12431	about	_	_	_	
+121-11	12432-12435	the	_	_	_	
+121-12	12436-12440	last	_	_	_	
+121-13	12441-12445	hour	_	_	_	
+121-14	12445-12446	,	_	_	_	
+121-15	12447-12454	sweeten	Taste Word	*|*	119-19|121-16[92_0]	
+121-16	12455-12457	to	Circumstance[92]	_	_	
+121-17	12458-12463	taste	Circumstance[92]|Taste Word[93]	*|*	121-18[94_93]|119-19[0_93]	
+121-18	12464-12468	with	Taste Modifier[94]	_	_	
+121-19	12471-12476	sugar	Taste Modifier[94]	_	_	
+121-20	12477-12478	(	_	_	_	
+121-21	12478-12483	brown	_	_	_	
+121-22	12484-12489	sugar	_	_	_	
+121-23	12490-12493	was	_	_	_	
+121-24	12494-12504	frequently	_	_	_	
+121-25	12505-12509	used	_	_	_	
+121-26	12509-12510	)	_	_	_	
+121-27	12510-12511	.	_	_	_	
+
+#Text=Spices destroy the true apple 
+#Text= flavor, although Aunt Sarah used sassafras root, dug from the near-by 
+#Text= woods, for flavoring her apple butter, and it was unexcelled.
+122-1	12512-12518	Spices	Taste Modifier	_	_	
+122-2	12519-12526	destroy	_	_	_	
+122-3	12527-12530	the	_	_	_	
+122-4	12531-12535	true	Quality	_	_	
+122-5	12536-12541	apple	Taste Source	_	_	
+122-6	12544-12550	flavor	Taste Word	*|*|*	122-4|122-5|122-1	
+122-7	12550-12551	,	_	_	_	
+122-8	12552-12560	although	_	_	_	
+122-9	12561-12565	Aunt	_	_	_	
+122-10	12566-12571	Sarah	_	_	_	
+122-11	12572-12576	used	_	_	_	
+122-12	12577-12586	sassafras	Taste Modifier[95]	_	_	
+122-13	12587-12591	root	Taste Modifier[95]	_	_	
+122-14	12591-12592	,	_	_	_	
+122-15	12593-12596	dug	_	_	_	
+122-16	12597-12601	from	_	_	_	
+122-17	12602-12605	the	_	_	_	
+122-18	12606-12613	near-by	_	_	_	
+122-19	12616-12621	woods	_	_	_	
+122-20	12621-12622	,	_	_	_	
+122-21	12623-12626	for	_	_	_	
+122-22	12627-12636	flavoring	Taste Word	*|*	122-12[95_0]|122-23[96_0]	
+122-23	12637-12640	her	Taste Source[96]	_	_	
+122-24	12641-12646	apple	Taste Source[96]	_	_	
+122-25	12647-12653	butter	Taste Source[96]	_	_	
+122-26	12653-12654	,	_	_	_	
+122-27	12655-12658	and	_	_	_	
+122-28	12659-12661	it	_	_	_	
+122-29	12662-12665	was	_	_	_	
+122-30	12666-12676	unexcelled	_	_	_	
+122-31	12676-12677	.	_	_	_	
+
+#Text=The 
+#Text= apple butter, when cooked sufficiently, should be a dark rich color, 
+#Text= and thick like marmalade, and the cider should not separate from it 
+#Text= when a small quantity is tested on a saucer.
+123-1	12678-12681	The	_	_	_	
+123-2	12684-12689	apple	_	_	_	
+123-3	12690-12696	butter	_	_	_	
+123-4	12696-12697	,	_	_	_	
+123-5	12698-12702	when	_	_	_	
+123-6	12703-12709	cooked	_	_	_	
+123-7	12710-12722	sufficiently	_	_	_	
+123-8	12722-12723	,	_	_	_	
+123-9	12724-12730	should	_	_	_	
+123-10	12731-12733	be	_	_	_	
+123-11	12734-12735	a	_	_	_	
+123-12	12736-12740	dark	_	_	_	
+123-13	12741-12745	rich	_	_	_	
+123-14	12746-12751	color	_	_	_	
+123-15	12751-12752	,	_	_	_	
+123-16	12755-12758	and	_	_	_	
+123-17	12759-12764	thick	_	_	_	
+123-18	12765-12769	like	_	_	_	
+123-19	12770-12779	marmalade	_	_	_	
+123-20	12779-12780	,	_	_	_	
+123-21	12781-12784	and	_	_	_	
+123-22	12785-12788	the	_	_	_	
+123-23	12789-12794	cider	_	_	_	
+123-24	12795-12801	should	_	_	_	
+123-25	12802-12805	not	_	_	_	
+123-26	12806-12814	separate	_	_	_	
+123-27	12815-12819	from	_	_	_	
+123-28	12820-12822	it	_	_	_	
+123-29	12825-12829	when	_	_	_	
+123-30	12830-12831	a	_	_	_	
+123-31	12832-12837	small	_	_	_	
+123-32	12838-12846	quantity	_	_	_	
+123-33	12847-12849	is	_	_	_	
+123-34	12850-12856	tested	_	_	_	
+123-35	12857-12859	on	_	_	_	
+123-36	12860-12861	a	_	_	_	
+123-37	12862-12868	saucer	_	_	_	
+123-38	12868-12869	.	_	_	_	
+
+#Text=An old recipe at the farm 
+#Text= called for 32 gallons of cider to 8 buckets of cider apples, and to 40 
+#Text= gallons of apple butter 50 pounds of sugar were used.
+124-1	12870-12872	An	_	_	_	
+124-2	12873-12876	old	_	_	_	
+124-3	12877-12883	recipe	_	_	_	
+124-4	12884-12886	at	_	_	_	
+124-5	12887-12890	the	_	_	_	
+124-6	12891-12895	farm	_	_	_	
+124-7	12898-12904	called	_	_	_	
+124-8	12905-12908	for	_	_	_	
+124-9	12909-12911	32	_	_	_	
+124-10	12912-12919	gallons	_	_	_	
+124-11	12920-12922	of	_	_	_	
+124-12	12923-12928	cider	_	_	_	
+124-13	12929-12931	to	_	_	_	
+124-14	12932-12933	8	_	_	_	
+124-15	12934-12941	buckets	_	_	_	
+124-16	12942-12944	of	_	_	_	
+124-17	12945-12950	cider	_	_	_	
+124-18	12951-12957	apples	_	_	_	
+124-19	12957-12958	,	_	_	_	
+124-20	12959-12962	and	_	_	_	
+124-21	12963-12965	to	_	_	_	
+124-22	12966-12968	40	_	_	_	
+124-23	12971-12978	gallons	_	_	_	
+124-24	12979-12981	of	_	_	_	
+124-25	12982-12987	apple	_	_	_	
+124-26	12988-12994	butter	_	_	_	
+124-27	12995-12997	50	_	_	_	
+124-28	12998-13004	pounds	_	_	_	
+124-29	13005-13007	of	_	_	_	
+124-30	13008-13013	sugar	_	_	_	
+124-31	13014-13018	were	_	_	_	
+124-32	13019-13023	used	_	_	_	
+124-33	13023-13024	.	_	_	_	
+
+#Text=Pour the apple 
+#Text= possesses the flavor of corn freshly cut from the cob.
+125-1	13025-13029	Pour	_	_	_	
+125-2	13030-13033	the	Taste Source[97]	_	_	
+125-3	13034-13039	apple	Taste Source[97]	_	_	
+125-4	13042-13051	possesses	_	_	_	
+125-5	13052-13055	the	_	_	_	
+125-6	13056-13062	flavor	Taste Word	*|*	125-7[98_0]|125-2[97_0]	
+125-7	13063-13065	of	Evoked Taste[98]	_	_	
+125-8	13066-13070	corn	Evoked Taste[98]	_	_	
+125-9	13071-13078	freshly	Evoked Taste[98]	_	_	
+125-10	13079-13082	cut	Evoked Taste[98]	_	_	
+125-11	13083-13087	from	Evoked Taste[98]	_	_	
+125-12	13088-13091	the	Evoked Taste[98]	_	_	
+125-13	13092-13095	cob	Evoked Taste[98]	_	_	
+125-14	13095-13096	.	_	_	_	
+
+#Text=Sarah Landis 
+#Text= had used this recipe for years and    '   twas seldom she lost a can.
+126-1	13097-13102	Sarah	_	_	_	
+126-2	13103-13109	Landis	_	_	_	
+126-3	13112-13115	had	_	_	_	
+126-4	13116-13120	used	_	_	_	
+126-5	13121-13125	this	_	_	_	
+126-6	13126-13132	recipe	_	_	_	
+126-7	13133-13136	for	_	_	_	
+126-8	13137-13142	years	_	_	_	
+126-9	13143-13146	and	_	_	_	
+126-10	13150-13151	'	_	_	_	
+126-11	13154-13158	twas	_	_	_	
+126-12	13159-13165	seldom	_	_	_	
+126-13	13166-13169	she	_	_	_	
+126-14	13170-13174	lost	_	_	_	
+126-15	13175-13176	a	_	_	_	
+126-16	13177-13180	can	_	_	_	
+126-17	13180-13181	.	_	_	_	
+
+#Text=DRIED SWEET CORN
+#Text=VINEGAR MADE FROM STRAWBERRIES 
+#Text=  
+#Text= "Aunt Sarah" Landis possessed the very finest flavored vinegar for 
+#Text= cooking purposes, and this is the way it was made.
+127-1	13190-13195	DRIED	_	_	_	
+127-2	13196-13201	SWEET	Taste Word[99]|Quality[100]	*|*	127-2[100_99]|127-3[101_99]	
+127-3	13202-13206	CORN	Taste Source[101]	_	_	
+127-4	13207-13214	VINEGAR	Taste Source[101]	_	_	
+127-5	13215-13219	MADE	_	_	_	
+127-6	13220-13224	FROM	_	_	_	
+127-7	13225-13237	STRAWBERRIES	_	_	_	
+127-8	13243-13244	"	_	_	_	
+127-9	13244-13248	Aunt	_	_	_	
+127-10	13249-13254	Sarah	_	_	_	
+127-11	13254-13255	"	_	_	_	
+127-12	13256-13262	Landis	_	_	_	
+127-13	13263-13272	possessed	_	_	_	
+127-14	13273-13276	the	_	_	_	
+127-15	13277-13281	very	Quality[102]	_	_	
+127-16	13282-13288	finest	Quality[102]	_	_	
+127-17	13289-13297	flavored	Taste Word[103]|Quality[104]	*|*|*|*	127-17[104_103]|127-15[102_103]|127-18[0_103]|127-19[105_103]	
+127-18	13298-13305	vinegar	Taste Source	_	_	
+127-19	13306-13309	for	Circumstance[105]	_	_	
+127-20	13312-13319	cooking	Circumstance[105]	_	_	
+127-21	13320-13328	purposes	Circumstance[105]	_	_	
+127-22	13328-13329	,	_	_	_	
+127-23	13330-13333	and	_	_	_	
+127-24	13334-13338	this	_	_	_	
+127-25	13339-13341	is	_	_	_	
+127-26	13342-13345	the	_	_	_	
+127-27	13346-13349	way	_	_	_	
+127-28	13350-13352	it	_	_	_	
+127-29	13353-13356	was	_	_	_	
+127-30	13357-13361	made	_	_	_	
+127-31	13361-13362	.	_	_	_	
+
+#Text=She having a very 
+#Text= plentiful crop of fine strawberries one season, put 6 quarts of very 
+#Text= ripe, mashed strawberries in a five-gallon crock, filled the crock 
+#Text= with water, covered the top with cheese-cloth and allowed it to stand 
+#Text= in a warm place about one week, when it was strained, poured into jugs 
+#Text= and placed in the cellar, where it remained six months, perhaps 
+#Text= longer, when it became very sharp and sour, and had very much the 
+#Text= appearance of white wine with a particularly fine flavor.
+128-1	13363-13366	She	_	_	_	
+128-2	13367-13373	having	_	_	_	
+128-3	13374-13375	a	_	_	_	
+128-4	13376-13380	very	_	_	_	
+128-5	13383-13392	plentiful	_	_	_	
+128-6	13393-13397	crop	_	_	_	
+128-7	13398-13400	of	_	_	_	
+128-8	13401-13405	fine	_	_	_	
+128-9	13406-13418	strawberries	_	_	_	
+128-10	13419-13422	one	_	_	_	
+128-11	13423-13429	season	_	_	_	
+128-12	13429-13430	,	_	_	_	
+128-13	13431-13434	put	_	_	_	
+128-14	13435-13436	6	_	_	_	
+128-15	13437-13443	quarts	_	_	_	
+128-16	13444-13446	of	_	_	_	
+128-17	13447-13451	very	_	_	_	
+128-18	13454-13458	ripe	_	_	_	
+128-19	13458-13459	,	_	_	_	
+128-20	13460-13466	mashed	Taste Source[106]	_	_	
+128-21	13467-13479	strawberries	Taste Source[106]	_	_	
+128-22	13480-13482	in	_	_	_	
+128-23	13483-13484	a	_	_	_	
+128-24	13485-13496	five-gallon	_	_	_	
+128-25	13497-13502	crock	_	_	_	
+128-26	13502-13503	,	_	_	_	
+128-27	13504-13510	filled	_	_	_	
+128-28	13511-13514	the	_	_	_	
+128-29	13515-13520	crock	_	_	_	
+128-30	13523-13527	with	_	_	_	
+128-31	13528-13533	water	_	_	_	
+128-32	13533-13534	,	_	_	_	
+128-33	13535-13542	covered	_	_	_	
+128-34	13543-13546	the	_	_	_	
+128-35	13547-13550	top	_	_	_	
+128-36	13551-13555	with	_	_	_	
+128-37	13556-13568	cheese-cloth	_	_	_	
+128-38	13569-13572	and	_	_	_	
+128-39	13573-13580	allowed	_	_	_	
+128-40	13581-13583	it	_	_	_	
+128-41	13584-13586	to	_	_	_	
+128-42	13587-13592	stand	_	_	_	
+128-43	13595-13597	in	_	_	_	
+128-44	13598-13599	a	_	_	_	
+128-45	13600-13604	warm	_	_	_	
+128-46	13605-13610	place	_	_	_	
+128-47	13611-13616	about	_	_	_	
+128-48	13617-13620	one	_	_	_	
+128-49	13621-13625	week	_	_	_	
+128-50	13625-13626	,	_	_	_	
+128-51	13627-13631	when	_	_	_	
+128-52	13632-13634	it	_	_	_	
+128-53	13635-13638	was	_	_	_	
+128-54	13639-13647	strained	_	_	_	
+128-55	13647-13648	,	_	_	_	
+128-56	13649-13655	poured	_	_	_	
+128-57	13656-13660	into	_	_	_	
+128-58	13661-13665	jugs	_	_	_	
+128-59	13668-13671	and	_	_	_	
+128-60	13672-13678	placed	_	_	_	
+128-61	13679-13681	in	_	_	_	
+128-62	13682-13685	the	_	_	_	
+128-63	13686-13692	cellar	_	_	_	
+128-64	13692-13693	,	_	_	_	
+128-65	13694-13699	where	_	_	_	
+128-66	13700-13702	it	_	_	_	
+128-67	13703-13711	remained	_	_	_	
+128-68	13712-13715	six	_	_	_	
+128-69	13716-13722	months	_	_	_	
+128-70	13722-13723	,	_	_	_	
+128-71	13724-13731	perhaps	_	_	_	
+128-72	13734-13740	longer	_	_	_	
+128-73	13740-13741	,	_	_	_	
+128-74	13742-13746	when	_	_	_	
+128-75	13747-13749	it	_	_	_	
+128-76	13750-13756	became	_	_	_	
+128-77	13757-13761	very	Quality	_	_	
+128-78	13762-13767	sharp	Taste Word[107]|Quality[108]	*|*|*	128-78[108_107]|128-77[0_107]|128-20[106_107]	
+128-79	13768-13771	and	_	_	_	
+128-80	13772-13776	sour	Taste Word[109]|Quality[110]	*|*	128-80[110_109]|128-20[106_109]	
+128-81	13776-13777	,	_	_	_	
+128-82	13778-13781	and	_	_	_	
+128-83	13782-13785	had	_	_	_	
+128-84	13786-13790	very	_	_	_	
+128-85	13791-13795	much	_	_	_	
+128-86	13796-13799	the	_	_	_	
+128-87	13802-13812	appearance	_	_	_	
+128-88	13813-13815	of	_	_	_	
+128-89	13816-13821	white	Taste Source[111]	_	_	
+128-90	13822-13826	wine	Taste Source[111]	_	_	
+128-91	13827-13831	with	_	_	_	
+128-92	13832-13833	a	_	_	_	
+128-93	13834-13846	particularly	Quality[112]	_	_	
+128-94	13847-13851	fine	Quality[112]	_	_	
+128-95	13852-13858	flavor	Taste Word	*|*	128-93[112_0]|128-89[111_0]	
+128-96	13858-13859	.	_	_	_	
+
+#Text=This was not 
+#Text= used as a beverage, but as a substitute for cider i
+129-1	13860-13864	This	_	_	_	
+129-2	13865-13868	was	_	_	_	
+129-3	13869-13872	not	_	_	_	
+129-4	13875-13879	used	_	_	_	
+129-5	13880-13882	as	_	_	_	
+129-6	13883-13884	a	_	_	_	
+129-7	13885-13893	beverage	_	_	_	
+129-8	13893-13894	,	_	_	_	
+129-9	13895-13898	but	_	_	_	
+129-10	13899-13901	as	_	_	_	
+129-11	13902-13903	a	_	_	_	
+129-12	13904-13914	substitute	_	_	_	
+129-13	13915-13918	for	_	_	_	
+129-14	13919-13924	cider	_	_	_	
+129-15	13925-13926	i	_	_	_	
